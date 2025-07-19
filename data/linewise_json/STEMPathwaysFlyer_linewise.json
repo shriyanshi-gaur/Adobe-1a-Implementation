@@ -1,0 +1,3861 @@
+{
+  "filename": "STEMPathwaysFlyer.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "y": 37.4,
+          "text": "Parsippany -Troy Hills STEM Pathways",
+          "spans": [
+            {
+              "text": "Parsippany -Troy Hills STEM Pathways",
+              "bbox": [
+                125.8207015991211,
+                37.369590759277344,
+                562.1452026367188,
+                65.37680053710938
+              ],
+              "font": "Calibri-Bold",
+              "size": 28.00721549987793,
+              "color": "0x2e75b5"
+            }
+          ]
+        },
+        {
+          "y": 88.7,
+          "text": "Mission Statement: ",
+          "spans": [
+            {
+              "text": "Mission Statement: ",
+              "bbox": [
+                80.32749938964844,
+                88.69420623779297,
+                201.2986602783203,
+                106.1314926147461
+              ],
+              "font": "Sniglet-Regular",
+              "size": 14.005849838256836,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 89.7,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                201.2986602783203,
+                89.66111755371094,
+                205.73236083984375,
+                105.66726684570312
+              ],
+              "font": "ArialMT",
+              "size": 16.006149291992188,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 93.1,
+          "text": "To provide PTHSD high school students with the opportunity to ",
+          "spans": [
+            {
+              "text": "To provide PTHSD high school students with the opportunity to ",
+              "bbox": [
+                205.74090576171875,
+                93.0802001953125,
+                514.2259521484375,
+                105.08499908447266
+              ],
+              "font": "Calibri",
+              "size": 12.004799842834473,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 108.7,
+          "text": "concentrate their studies, beyond those required in high school, in the areas of science, ",
+          "spans": [
+            {
+              "text": "concentrate their studies, beyond those required in high school, in the areas of science, ",
+              "bbox": [
+                80.3275146484375,
+                108.7464599609375,
+                507.51715087890625,
+                120.75125885009766
+              ],
+              "font": "Calibri",
+              "size": 12.004799842834473,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 123.0,
+          "text": "technology, engineering, and mathematics, and expose students to relevant real world ",
+          "spans": [
+            {
+              "text": "technology, engineering, and mathematics, and expose students to relevant real world ",
+              "bbox": [
+                80.3275146484375,
+                123.00213623046875,
+                503.04071044921875,
+                135.00694274902344
+              ],
+              "font": "Calibri",
+              "size": 12.004799842834473,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 137.3,
+          "text": "experiences through project work, conferences and presentations to enhance their high school ",
+          "spans": [
+            {
+              "text": "experiences through project work, conferences and presentations to enhance their high school ",
+              "bbox": [
+                80.3275146484375,
+                137.2578125,
+                543.8029174804688,
+                149.2626190185547
+              ],
+              "font": "Calibri",
+              "size": 12.004799842834473,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 151.5,
+          "text": "experience. ",
+          "spans": [
+            {
+              "text": "experience. ",
+              "bbox": [
+                80.3275146484375,
+                151.51348876953125,
+                139.54721069335938,
+                163.51829528808594
+              ],
+              "font": "Calibri",
+              "size": 12.004799842834473,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 182.6,
+          "text": "Goals:",
+          "spans": [
+            {
+              "text": "Goals:",
+              "bbox": [
+                45.41230010986328,
+                182.6382598876953,
+                82.10828399658203,
+                200.08251953125
+              ],
+              "font": "Sniglet-Regular",
+              "size": 14.011449813842773,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 211.0,
+          "text": "•",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                41.384498596191406,
+                210.96881103515625,
+                45.41263198852539,
+                222.47775268554688
+              ],
+              "font": "ArialMT",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 211.3,
+          "text": " Inspire keen interest in mathematics, science, engineering, and  ",
+          "spans": [
+            {
+              "text": " Inspire keen interest in mathematics, science, engineering, and",
+              "bbox": [
+                45.41263198852539,
+                211.2694091796875,
+                341.39996337890625,
+                222.7783660888672
+              ],
+              "font": "Calibri",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                341.39190673828125,
+                211.2694091796875,
+                343.992919921875,
+                222.7783660888672
+              ],
+              "font": "Calibri",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 224.8,
+          "text": "technology, develop strong scholarship in the subject and ",
+          "spans": [
+            {
+              "text": "technology, develop strong scholarship in the subject and ",
+              "bbox": [
+                45.41211700439453,
+                224.78021240234375,
+                315.135986328125,
+                236.28916931152344
+              ],
+              "font": "Calibri",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 238.3,
+          "text": "promote the enjoyment of these studies in high school.",
+          "spans": [
+            {
+              "text": "promote the enjoyment of these studies in high school.",
+              "bbox": [
+                45.41211700439453,
+                238.291015625,
+                303.293212890625,
+                249.7999725341797
+              ],
+              "font": "Calibri",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 251.5,
+          "text": "•",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                41.384498596191406,
+                251.499267578125,
+                45.41263198852539,
+                263.0082092285156
+              ],
+              "font": "ArialMT",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 251.8,
+          "text": " Expose students to potential career opportunities in the field.",
+          "spans": [
+            {
+              "text": " Expose students to potential career opportunities in the field.",
+              "bbox": [
+                45.41263198852539,
+                251.79986572265625,
+                334.7707214355469,
+                263.3088073730469
+              ],
+              "font": "Calibri",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 265.0,
+          "text": "•",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                41.3843994140625,
+                265.01007080078125,
+                45.412532806396484,
+                276.5190124511719
+              ],
+              "font": "ArialMT",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 265.3,
+          "text": " Encourage students to pursue higher education and major in ",
+          "spans": [
+            {
+              "text": " Encourage students to pursue higher education and major in ",
+              "bbox": [
+                45.412532806396484,
+                265.3106689453125,
+                332.7565612792969,
+                276.8196105957031
+              ],
+              "font": "Calibri",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 278.8,
+          "text": "STEM careers.",
+          "spans": [
+            {
+              "text": "STEM careers.",
+              "bbox": [
+                45.41211700439453,
+                278.82147216796875,
+                111.05931854248047,
+                290.3304138183594
+              ],
+              "font": "Calibri",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 292.3,
+          "text": "• Promote interactions with STEM professionals to learn about ",
+          "spans": [
+            {
+              "text": "• Promote interactions with STEM professionals to learn about ",
+              "bbox": [
+                39.682037353515625,
+                292.332275390625,
+                334.10394287109375,
+                303.8412170410156
+              ],
+              "font": "Calibri",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 305.8,
+          "text": "future opportunities.",
+          "spans": [
+            {
+              "text": "future opportunities.",
+              "bbox": [
+                45.41211700439453,
+                305.84307861328125,
+                143.4109649658203,
+                317.3520202636719
+              ],
+              "font": "Calibri",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 319.4,
+          "text": "• Support field experiences connected to the world outside of ",
+          "spans": [
+            {
+              "text": "• Support field experiences connected to the world outside of ",
+              "bbox": [
+                39.68218994140625,
+                319.3538818359375,
+                330.7436218261719,
+                330.8628234863281
+              ],
+              "font": "Calibri",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 332.9,
+          "text": "the school building.",
+          "spans": [
+            {
+              "text": "the school building.",
+              "bbox": [
+                45.412269592285156,
+                332.86468505859375,
+                136.77032470703125,
+                344.3736267089844
+              ],
+              "font": "Calibri",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 346.4,
+          "text": "• Signal to employers, universities, training programs, and ",
+          "spans": [
+            {
+              "text": "• Signal to employers, universities, training programs, and ",
+              "bbox": [
+                39.68218994140625,
+                346.37548828125,
+                311.7998352050781,
+                357.8844299316406
+              ],
+              "font": "Calibri",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 359.9,
+          "text": "military that a student has completed a comprehensive course ",
+          "spans": [
+            {
+              "text": "military that a student has completed a comprehensive course ",
+              "bbox": [
+                45.412269592285156,
+                359.88629150390625,
+                338.53399658203125,
+                371.3952331542969
+              ],
+              "font": "Calibri",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 373.4,
+          "text": "of study in a specialized area.",
+          "spans": [
+            {
+              "text": "of study in a specialized area.",
+              "bbox": [
+                45.412269592285156,
+                373.3970947265625,
+                181.7818145751953,
+                384.9060363769531
+              ],
+              "font": "Calibri",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 386.9,
+          "text": "• Cultivate transferable work habits such as perseverance, goal ",
+          "spans": [
+            {
+              "text": "• Cultivate transferable work habits such as perseverance, goal ",
+              "bbox": [
+                39.68218994140625,
+                386.90789794921875,
+                334.530029296875,
+                398.4168395996094
+              ],
+              "font": "Calibri",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 400.4,
+          "text": "setting, and self-direction.",
+          "spans": [
+            {
+              "text": "setting, and self-direction.",
+              "bbox": [
+                45.412269592285156,
+                400.418701171875,
+                167.1654052734375,
+                411.9276428222656
+              ],
+              "font": "Calibri",
+              "size": 11.508949279785156,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 438.2,
+          "text": "PATHWAY OPTIONS",
+          "spans": [
+            {
+              "text": "PATHWAY OPTIONS",
+              "bbox": [
+                240.17869567871094,
+                438.1753845214844,
+                365.1392517089844,
+                457.23406982421875
+              ],
+              "font": "Sniglet-Regular",
+              "size": 15.308159828186035,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 467.8,
+          "text": "REGULAR PATHWAY DISTINCTION PATHWAY",
+          "spans": [
+            {
+              "text": "REGULAR PATHWAY",
+              "bbox": [
+                117.1802978515625,
+                467.75457763671875,
+                242.09622192382812,
+                483.06475830078125
+              ],
+              "font": "Calibri-Bold",
+              "size": 15.310199737548828,
+              "color": "0x0"
+            },
+            {
+              "text": "DISTINCTION PATHWAY",
+              "bbox": [
+                351.7226867675781,
+                467.75457763671875,
+                499.4967346191406,
+                483.06475830078125
+              ],
+              "font": "Calibri-Bold",
+              "size": 15.310199737548828,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 484.6,
+          "text": "● 4 credits of Math - At least one math ",
+          "spans": [
+            {
+              "text": "●",
+              "bbox": [
+                320.7744140625,
+                484.5746765136719,
+                327.4230041503906,
+                495.582275390625
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            },
+            {
+              "text": "4 credits of Math - At least one math ",
+              "bbox": [
+                345.4298095703125,
+                484.5746765136719,
+                524.5230712890625,
+                495.582275390625
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 498.1,
+          "text": "course should be an AP Math class.",
+          "spans": [
+            {
+              "text": "course should be an AP Math class.",
+              "bbox": [
+                345.4305725097656,
+                498.08367919921875,
+                520.1098022460938,
+                509.0912780761719
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 502.6,
+          "text": "● 4 credits of Math",
+          "spans": [
+            {
+              "text": "●",
+              "bbox": [
+                74.78160095214844,
+                502.58599853515625,
+                81.43018341064453,
+                513.5935668945312
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            },
+            {
+              "text": "4 credits of Math",
+              "bbox": [
+                99.43699645996094,
+                502.58599853515625,
+                180.73902893066406,
+                513.5935668945312
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 511.6,
+          "text": "● 4 credits of Science- At least one ",
+          "spans": [
+            {
+              "text": "●",
+              "bbox": [
+                320.775146484375,
+                511.5926513671875,
+                327.4237365722656,
+                522.6002197265625
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            },
+            {
+              "text": "4 credits of Science- At least one ",
+              "bbox": [
+                345.4305725097656,
+                511.5926513671875,
+                508.65093994140625,
+                522.6002197265625
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 516.1,
+          "text": "● 4 credits of Science",
+          "spans": [
+            {
+              "text": "●",
+              "bbox": [
+                74.78157043457031,
+                516.094970703125,
+                81.4301528930664,
+                527.1025390625
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            },
+            {
+              "text": "4 credits of Science",
+              "bbox": [
+                99.43699645996094,
+                516.094970703125,
+                195.4231719970703,
+                527.1025390625
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 525.1,
+          "text": "science course should be an AP ",
+          "spans": [
+            {
+              "text": "science course should be an AP ",
+              "bbox": [
+                345.43133544921875,
+                525.1016845703125,
+                504.84295654296875,
+                536.1092529296875
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 529.6,
+          "text": "● 4 credits of STEM-designated electives",
+          "spans": [
+            {
+              "text": "●",
+              "bbox": [
+                74.78157043457031,
+                529.60400390625,
+                81.4301528930664,
+                540.611572265625
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            },
+            {
+              "text": "4 credits of STEM-designated electives",
+              "bbox": [
+                99.43699645996094,
+                529.60400390625,
+                290.1874694824219,
+                540.611572265625
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 538.6,
+          "text": "Science class.",
+          "spans": [
+            {
+              "text": "Science class.",
+              "bbox": [
+                345.43133544921875,
+                538.6107177734375,
+                415.74774169921875,
+                549.6182861328125
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 543.1,
+          "text": "● Maintain an overall 2.85 GPA",
+          "spans": [
+            {
+              "text": "●",
+              "bbox": [
+                74.78157043457031,
+                543.113037109375,
+                81.4301528930664,
+                554.12060546875
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            },
+            {
+              "text": "Maintain an overall 2.85 GPA",
+              "bbox": [
+                99.43699645996094,
+                543.113037109375,
+                241.68804931640625,
+                554.12060546875
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 552.1,
+          "text": "● 4 credits of STEM-designated electives ",
+          "spans": [
+            {
+              "text": "●",
+              "bbox": [
+                320.7759094238281,
+                552.1196899414062,
+                327.42449951171875,
+                563.1272583007812
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            },
+            {
+              "text": "4 credits of STEM-designated electives ",
+              "bbox": [
+                345.43133544921875,
+                552.1196899414062,
+                539.230712890625,
+                563.1272583007812
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 556.6,
+          "text": "● Participate in a minimum of 3 STEM ",
+          "spans": [
+            {
+              "text": "●",
+              "bbox": [
+                74.78157043457031,
+                556.6220092773438,
+                81.4301528930664,
+                567.6295776367188
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            },
+            {
+              "text": "Participate in a minimum of 3 STEM ",
+              "bbox": [
+                99.43699645996094,
+                556.6220092773438,
+                277.90301513671875,
+                567.6295776367188
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 565.6,
+          "text": "- One must be a Computer ",
+          "spans": [
+            {
+              "text": "- One must be a Computer ",
+              "bbox": [
+                345.4320983886719,
+                565.628662109375,
+                478.7008361816406,
+                576.63623046875
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 570.1,
+          "text": "presentations/conferences each year ",
+          "spans": [
+            {
+              "text": "presentations/conferences each year ",
+              "bbox": [
+                99.437744140625,
+                570.1309814453125,
+                282.9122314453125,
+                581.1385498046875
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 579.1,
+          "text": "Science/Technology Class",
+          "spans": [
+            {
+              "text": "Science/Technology Class",
+              "bbox": [
+                345.4320983886719,
+                579.1376953125,
+                473.868408203125,
+                590.145263671875
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 583.6,
+          "text": "with a required minimum total of 12 ",
+          "spans": [
+            {
+              "text": "with a required minimum total of 12 ",
+              "bbox": [
+                99.437744140625,
+                583.6400146484375,
+                273.66583251953125,
+                594.6475830078125
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 592.6,
+          "text": "● Maintain an overall 3.5 GPA ",
+          "spans": [
+            {
+              "text": "●",
+              "bbox": [
+                320.7766418457031,
+                592.646728515625,
+                327.42523193359375,
+                603.654296875
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            },
+            {
+              "text": "Maintain an overall 3.5 GPA ",
+              "bbox": [
+                345.43206787109375,
+                592.646728515625,
+                484.00653076171875,
+                603.654296875
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 597.1,
+          "text": "presentations/conferences throughout ",
+          "spans": [
+            {
+              "text": "presentations/conferences throughout ",
+              "bbox": [
+                99.437744140625,
+                597.1490478515625,
+                287.1941833496094,
+                608.1566162109375
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 606.2,
+          "text": "● Participate in a minimum of 3 STEM ",
+          "spans": [
+            {
+              "text": "●",
+              "bbox": [
+                320.7766418457031,
+                606.1557006835938,
+                327.42523193359375,
+                617.1632690429688
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            },
+            {
+              "text": "Participate in a minimum of 3 STEM ",
+              "bbox": [
+                345.43206787109375,
+                606.1557006835938,
+                523.8980102539062,
+                617.1632690429688
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 610.7,
+          "text": "the 4 years . *",
+          "spans": [
+            {
+              "text": "the 4 years",
+              "bbox": [
+                99.437744140625,
+                610.6580200195312,
+                153.8592529296875,
+                621.6655883789062
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            },
+            {
+              "text": ". *",
+              "bbox": [
+                153.8594970703125,
+                610.657958984375,
+                164.23965454101562,
+                621.66552734375
+              ],
+              "font": "Arial-BoldMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 619.7,
+          "text": "presentations/conferences a year with a ",
+          "spans": [
+            {
+              "text": "presentations/conferences a year with a ",
+              "bbox": [
+                345.4328308105469,
+                619.6646728515625,
+                542.9417114257812,
+                630.6722412109375
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 624.2,
+          "text": "● Join and actively participate in a ",
+          "spans": [
+            {
+              "text": "●",
+              "bbox": [
+                74.78231048583984,
+                624.1669921875,
+                81.43089294433594,
+                635.174560546875
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            },
+            {
+              "text": "Join and actively participate in a ",
+              "bbox": [
+                99.43773651123047,
+                624.1669921875,
+                258.4093322753906,
+                635.174560546875
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 633.2,
+          "text": "required minimum total of 12 ",
+          "spans": [
+            {
+              "text": "required minimum total of 12 ",
+              "bbox": [
+                345.4328308105469,
+                633.1737060546875,
+                487.8819274902344,
+                644.1812744140625
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 637.7,
+          "text": "STEM-related extracurricular activity or ",
+          "spans": [
+            {
+              "text": "STEM-related extracurricular activity or ",
+              "bbox": [
+                99.43848419189453,
+                637.676025390625,
+                292.5996398925781,
+                648.68359375
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 646.7,
+          "text": "presentations/conferences throughout ",
+          "spans": [
+            {
+              "text": "presentations/conferences throughout ",
+              "bbox": [
+                345.4328308105469,
+                646.6827392578125,
+                533.1890258789062,
+                657.6903076171875
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 651.2,
+          "text": "club every year of attendance. - ",
+          "spans": [
+            {
+              "text": "club every year of attendance. - ",
+              "bbox": [
+                99.43848419189453,
+                651.1849975585938,
+                256.57183837890625,
+                662.1925659179688
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 660.2,
+          "text": "the 4 years.",
+          "spans": [
+            {
+              "text": "the 4 years.",
+              "bbox": [
+                345.4328308105469,
+                660.1917114257812,
+                402.90338134765625,
+                671.1992797851562
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 673.7,
+          "text": "● Join and actively participate in a ",
+          "spans": [
+            {
+              "text": "●",
+              "bbox": [
+                320.77740478515625,
+                673.70068359375,
+                327.4259948730469,
+                684.708251953125
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            },
+            {
+              "text": "Join and actively participate in a ",
+              "bbox": [
+                345.4328308105469,
+                673.70068359375,
+                504.404296875,
+                684.708251953125
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 687.2,
+          "text": "STEM-related extracurricular activity or ",
+          "spans": [
+            {
+              "text": "STEM-related extracurricular activity or ",
+              "bbox": [
+                345.43359375,
+                687.209716796875,
+                538.5945434570312,
+                698.21728515625
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 700.7,
+          "text": "club every year of attendance. ",
+          "spans": [
+            {
+              "text": "club every year of attendance. ",
+              "bbox": [
+                345.43359375,
+                700.71875,
+                495.85211181640625,
+                711.726318359375
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 714.2,
+          "text": "● Either participate in an internship or ",
+          "spans": [
+            {
+              "text": "●",
+              "bbox": [
+                320.7781677246094,
+                714.2277221679688,
+                327.4267578125,
+                725.2352905273438
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            },
+            {
+              "text": "Either participate in an internship or ",
+              "bbox": [
+                345.43359375,
+                714.2277221679688,
+                521.5108642578125,
+                725.2352905273438
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 727.7,
+          "text": "design and implement a community ",
+          "spans": [
+            {
+              "text": "design and implement a community ",
+              "bbox": [
+                345.4343566894531,
+                727.7366943359375,
+                521.5445556640625,
+                738.7442626953125
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 741.2,
+          "text": "impact project.",
+          "spans": [
+            {
+              "text": "impact project.",
+              "bbox": [
+                345.4343566894531,
+                741.2457275390625,
+                416.96160888671875,
+                752.2532958984375
+              ],
+              "font": "ArialMT",
+              "size": 11.007583618164062,
+              "color": "0x0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "lines": [
+        {
+          "y": 42.5,
+          "text": " Elective Course Offerings",
+          "spans": [
+            {
+              "text": " Elective Course Offerings",
+              "bbox": [
+                182.1136932373047,
+                42.51622009277344,
+                428.1534729003906,
+                69.9134521484375
+              ],
+              "font": "Sniglet-Regular",
+              "size": 22.005615234375,
+              "color": "0x2e75b5"
+            }
+          ]
+        },
+        {
+          "y": 89.9,
+          "text": "Science Math Computer Science/  Art Applied ",
+          "spans": [
+            {
+              "text": "Science",
+              "bbox": [
+                69.64579772949219,
+                89.856201171875,
+                106.80065155029297,
+                101.86100006103516
+              ],
+              "font": "Calibri-Bold",
+              "size": 12.004799842834473,
+              "color": "0xffffff"
+            },
+            {
+              "text": "Math",
+              "bbox": [
+                183.76719665527344,
+                89.856201171875,
+                210.65794372558594,
+                101.86100006103516
+              ],
+              "font": "Calibri-Bold",
+              "size": 12.004799842834473,
+              "color": "0xffffff"
+            },
+            {
+              "text": "Computer Science/ ",
+              "bbox": [
+                270.3367919921875,
+                89.856201171875,
+                367.8037414550781,
+                101.86100006103516
+              ],
+              "font": "Calibri-Bold",
+              "size": 12.004799842834473,
+              "color": "0xffffff"
+            },
+            {
+              "text": "Art",
+              "bbox": [
+                425.30078125,
+                89.856201171875,
+                440.97906494140625,
+                101.86100006103516
+              ],
+              "font": "Calibri-Bold",
+              "size": 12.004799842834473,
+              "color": "0xffffff"
+            },
+            {
+              "text": "Applied ",
+              "bbox": [
+                509.6855163574219,
+                89.856201171875,
+                550.8859252929688,
+                101.86100006103516
+              ],
+              "font": "Calibri-Bold",
+              "size": 12.004799842834473,
+              "color": "0xffffff"
+            }
+          ]
+        },
+        {
+          "y": 104.1,
+          "text": "Technology Technology/ ",
+          "spans": [
+            {
+              "text": "Technology",
+              "bbox": [
+                289.7185363769531,
+                104.11187744140625,
+                345.7569274902344,
+                116.1166763305664
+              ],
+              "font": "Calibri-Bold",
+              "size": 12.004799842834473,
+              "color": "0xffffff"
+            },
+            {
+              "text": "Technology/ ",
+              "bbox": [
+                498.33123779296875,
+                104.11187744140625,
+                562.2327880859375,
+                116.1166763305664
+              ],
+              "font": "Calibri-Bold",
+              "size": 12.004799842834473,
+              "color": "0xffffff"
+            }
+          ]
+        },
+        {
+          "y": 118.4,
+          "text": "Family Consumer ",
+          "spans": [
+            {
+              "text": "Family Consumer ",
+              "bbox": [
+                486.09228515625,
+                118.3675537109375,
+                574.435546875,
+                130.3723602294922
+              ],
+              "font": "Calibri-Bold",
+              "size": 12.004799842834473,
+              "color": "0xffffff"
+            }
+          ]
+        },
+        {
+          "y": 132.6,
+          "text": "Science and Other",
+          "spans": [
+            {
+              "text": "Science and Other",
+              "bbox": [
+                483.7213439941406,
+                132.62322998046875,
+                574.0934448242188,
+                144.62803649902344
+              ],
+              "font": "Calibri-Bold",
+              "size": 12.004799842834473,
+              "color": "0xffffff"
+            }
+          ]
+        },
+        {
+          "y": 152.2,
+          "text": "+",
+          "spans": [
+            {
+              "text": "+",
+              "bbox": [
+                177.8314971923828,
+                152.2366485595703,
+                181.71961975097656,
+                158.90582275390625
+              ],
+              "font": "Arial-BoldMT",
+              "size": 6.669166564941406,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 153.4,
+          "text": "• AP Calculus • Graphic  • Nutrition for an ",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                156.3249969482422,
+                153.403564453125,
+                159.82630920410156,
+                163.4073028564453
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "AP Calculus",
+              "bbox": [
+                181.7200927734375,
+                153.4000244140625,
+                235.99041748046875,
+                163.4037628173828
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "•",
+              "bbox": [
+                392.896484375,
+                153.40252685546875,
+                396.3977966308594,
+                163.40626525878906
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Graphic ",
+              "bbox": [
+                409.90277099609375,
+                153.40252685546875,
+                447.6868591308594,
+                163.40626525878906
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "•",
+              "bbox": [
+                482.1475830078125,
+                153.39959716796875,
+                485.6488952636719,
+                163.40333557128906
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Nutrition for an ",
+              "bbox": [
+                499.15386962890625,
+                153.39959716796875,
+                567.4794921875,
+                163.40333557128906
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 153.6,
+          "text": "• •",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                36.323455810546875,
+                153.58486938476562,
+                40.17508316040039,
+                164.5895233154297
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "•",
+              "bbox": [
+                254.27337646484375,
+                153.58389282226562,
+                258.125,
+                164.5885467529297
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 153.9,
+          "text": "AP Biology Computer ",
+          "spans": [
+            {
+              "text": "AP Biology",
+              "bbox": [
+                57.179542541503906,
+                153.87229919433594,
+                104.46653747558594,
+                164.876953125
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "Computer ",
+              "bbox": [
+                275.12945556640625,
+                153.87132263183594,
+                322.482421875,
+                164.8759765625
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 164.2,
+          "text": "+",
+          "spans": [
+            {
+              "text": "+",
+              "bbox": [
+                177.8314971923828,
+                164.24110412597656,
+                181.71961975097656,
+                170.9102783203125
+              ],
+              "font": "Arial-BoldMT",
+              "size": 6.669166564941406,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 165.4,
+          "text": "• AP Statistics Design Active Lifestyle",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                156.32318115234375,
+                165.40484619140625,
+                159.82449340820312,
+                175.40858459472656
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "AP Statistics",
+              "bbox": [
+                181.7200927734375,
+                165.40460205078125,
+                237.62103271484375,
+                175.40834045410156
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Design",
+              "bbox": [
+                409.9020080566406,
+                165.4073486328125,
+                441.03363037109375,
+                175.4110870361328
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Active Lifestyle",
+              "bbox": [
+                499.1531066894531,
+                165.4044189453125,
+                565.818115234375,
+                175.4081573486328
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 167.1,
+          "text": "•",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                36.323455810546875,
+                167.09024047851562,
+                40.17508316040039,
+                178.0948944091797
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 167.4,
+          "text": "AP Chemistry Programming in C++",
+          "spans": [
+            {
+              "text": "AP Chemistry",
+              "bbox": [
+                57.179542541503906,
+                167.37767028808594,
+                116.82472229003906,
+                178.38232421875
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "Programming in C++",
+              "bbox": [
+                275.12945556640625,
+                167.37669372558594,
+                365.5207824707031,
+                178.38134765625
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 176.2,
+          "text": "+",
+          "spans": [
+            {
+              "text": "+",
+              "bbox": [
+                177.8314971923828,
+                176.24574279785156,
+                181.71961975097656,
+                182.9149169921875
+              ],
+              "font": "Arial-BoldMT",
+              "size": 6.669166564941406,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 177.4,
+          "text": "• Calculus • Digital  • Engineering ",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                156.32318115234375,
+                177.409423828125,
+                159.82449340820312,
+                187.4131622314453
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Calculus",
+              "bbox": [
+                181.7200927734375,
+                177.40911865234375,
+                220.074462890625,
+                187.41285705566406
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "•",
+              "bbox": [
+                392.8957214355469,
+                177.41217041015625,
+                396.39703369140625,
+                187.41590881347656
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Digital ",
+              "bbox": [
+                409.9020080566406,
+                177.41217041015625,
+                440.4533996582031,
+                187.41590881347656
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "•",
+              "bbox": [
+                482.1468200683594,
+                177.40924072265625,
+                485.64813232421875,
+                187.41297912597656
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Engineering ",
+              "bbox": [
+                499.1531066894531,
+                177.40924072265625,
+                555.2940673828125,
+                187.41297912597656
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 180.6,
+          "text": "• •",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                36.323455810546875,
+                180.59561157226562,
+                40.17508316040039,
+                191.6002655029297
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "•",
+              "bbox": [
+                254.27256774902344,
+                180.59463500976562,
+                258.12420654296875,
+                191.5992889404297
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 180.9,
+          "text": "AP Physics C Robotics ",
+          "spans": [
+            {
+              "text": "AP Physics C",
+              "bbox": [
+                57.179542541503906,
+                180.88304138183594,
+                111.960693359375,
+                191.8876953125
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "Robotics ",
+              "bbox": [
+                275.128662109375,
+                180.88206481933594,
+                315.8788757324219,
+                191.88671875
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 189.4,
+          "text": "• Probability,  Photography CAD and Design ",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                156.32318115234375,
+                189.4139404296875,
+                159.82449340820312,
+                199.4176788330078
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Probability, ",
+              "bbox": [
+                177.83128356933594,
+                189.4139404296875,
+                229.3106231689453,
+                199.4176788330078
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Photography",
+              "bbox": [
+                409.9012451171875,
+                189.4169921875,
+                466.6023864746094,
+                199.4207305908203
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "CAD and Design ",
+              "bbox": [
+                499.15234375,
+                189.4140625,
+                576.3912963867188,
+                199.4178009033203
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 194.1,
+          "text": "• •",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                36.323455810546875,
+                194.10098266601562,
+                40.17508316040039,
+                205.1056365966797
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "•",
+              "bbox": [
+                254.27256774902344,
+                194.10000610351562,
+                258.12420654296875,
+                205.1046600341797
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 194.4,
+          "text": "Forensics Computer Science and ",
+          "spans": [
+            {
+              "text": "Forensics",
+              "bbox": [
+                57.179542541503906,
+                194.38841247558594,
+                98.59007263183594,
+                205.39306640625
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "Computer Science and ",
+              "bbox": [
+                275.128662109375,
+                194.38743591308594,
+                377.85699462890625,
+                205.39208984375
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 201.4,
+          "text": "Statistics,  • Advanced  Foundations",
+          "spans": [
+            {
+              "text": "Statistics, ",
+              "bbox": [
+                177.83053588867188,
+                201.41876220703125,
+                223.35760498046875,
+                211.42250061035156
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "•",
+              "bbox": [
+                392.89495849609375,
+                201.42181396484375,
+                396.3962707519531,
+                211.42555236816406
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Advanced ",
+              "bbox": [
+                409.9012451171875,
+                201.42181396484375,
+                457.14886474609375,
+                211.42555236816406
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Foundations",
+              "bbox": [
+                499.15234375,
+                201.41888427734375,
+                554.1829223632812,
+                211.42262268066406
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 207.6,
+          "text": "•",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                36.323455810546875,
+                207.60635375976562,
+                40.17508316040039,
+                218.6110076904297
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 207.9,
+          "text": "Honors Anatomy  Programming Concepts ",
+          "spans": [
+            {
+              "text": "Honors Anatomy ",
+              "bbox": [
+                57.179542541503906,
+                207.89378356933594,
+                134.57528686523438,
+                218.8984375
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "Programming Concepts ",
+              "bbox": [
+                275.128662109375,
+                207.89280700683594,
+                381.5868225097656,
+                218.89752197265625
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 213.4,
+          "text": "and Discrete  Digital  • Television ",
+          "spans": [
+            {
+              "text": "and Discrete ",
+              "bbox": [
+                177.83053588867188,
+                213.423583984375,
+                236.73265075683594,
+                223.4273223876953
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Digital ",
+              "bbox": [
+                409.9004821777344,
+                213.4266357421875,
+                440.4518737792969,
+                223.4303741455078
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "•",
+              "bbox": [
+                482.14605712890625,
+                213.4237060546875,
+                485.6473693847656,
+                223.4274444580078
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Television ",
+              "bbox": [
+                499.15234375,
+                213.4237060546875,
+                545.8394775390625,
+                223.4281768798828
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 221.4,
+          "text": "and Physiology with Python ",
+          "spans": [
+            {
+              "text": "and Physiology",
+              "bbox": [
+                57.179542541503906,
+                221.39915466308594,
+                123.71377563476562,
+                232.4039306640625
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "with Python ",
+              "bbox": [
+                275.1286926269531,
+                221.3982391357422,
+                331.714599609375,
+                232.40289306640625
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 225.4,
+          "text": "Math Photography Production I / II",
+          "spans": [
+            {
+              "text": "Math",
+              "bbox": [
+                177.83053588867188,
+                225.42840576171875,
+                200.0588836669922,
+                235.43214416503906
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Photography",
+              "bbox": [
+                409.9004821777344,
+                225.43145751953125,
+                466.60162353515625,
+                235.43519592285156
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Production I / II",
+              "bbox": [
+                499.1515808105469,
+                225.42926025390625,
+                566.3468627929688,
+                235.43299865722656
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 234.6,
+          "text": "• •",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                36.323509216308594,
+                234.61721801757812,
+                40.17513656616211,
+                245.6218719482422
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "•",
+              "bbox": [
+                254.2718505859375,
+                234.61618041992188,
+                258.12347412109375,
+                245.62083435058594
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 234.9,
+          "text": "AP Environmental  AP Computer Science ",
+          "spans": [
+            {
+              "text": "AP Environmental ",
+              "bbox": [
+                57.179595947265625,
+                234.90464782714844,
+                139.14219665527344,
+                245.9093017578125
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "AP Computer Science ",
+              "bbox": [
+                275.1279296875,
+                234.9036102294922,
+                373.0692443847656,
+                245.90826416015625
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 236.3,
+          "text": "+",
+          "spans": [
+            {
+              "text": "+",
+              "bbox": [
+                177.8314971923828,
+                236.26832580566406,
+                181.71961975097656,
+                242.9375
+              ],
+              "font": "Arial-BoldMT",
+              "size": 6.669166564941406,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 237.4,
+          "text": "• Precalculus • Careers in ",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                156.3224334716797,
+                237.4332275390625,
+                159.82374572753906,
+                247.4369659423828
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Precalculus",
+              "bbox": [
+                181.7200927734375,
+                237.43170166015625,
+                233.40948486328125,
+                247.43544006347656
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "•",
+              "bbox": [
+                482.1452941894531,
+                237.43408203125,
+                485.6466064453125,
+                247.4378204345703
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Careers in ",
+              "bbox": [
+                499.1515808105469,
+                237.43408203125,
+                548.0499267578125,
+                247.4378204345703
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 248.4,
+          "text": "Science Principles",
+          "spans": [
+            {
+              "text": "Science",
+              "bbox": [
+                57.179595947265625,
+                248.41001892089844,
+                90.75479125976562,
+                259.4146728515625
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "Principles",
+              "bbox": [
+                275.1279296875,
+                248.4089813232422,
+                318.16705322265625,
+                259.41363525390625
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 249.4,
+          "text": "• Algebra 3 &  Medicine (Phys ",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                156.32318115234375,
+                249.4365234375,
+                159.82449340820312,
+                259.4402770996094
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Algebra 3 & ",
+              "bbox": [
+                177.83128356933594,
+                249.4365234375,
+                232.8319091796875,
+                259.4402770996094
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Medicine (Phys ",
+              "bbox": [
+                499.15081787109375,
+                249.43890380859375,
+                570.2774658203125,
+                259.4426574707031
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 261.4,
+          "text": "Trigonometry Ed department)",
+          "spans": [
+            {
+              "text": "Trigonometry",
+              "bbox": [
+                177.83053588867188,
+                261.44134521484375,
+                236.3626708984375,
+                271.4450988769531
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Ed department)",
+              "bbox": [
+                499.15081787109375,
+                261.4437255859375,
+                568.0565795898438,
+                271.4474792480469
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 261.6,
+          "text": "• •",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                36.323509216308594,
+                261.6279602050781,
+                40.17513656616211,
+                272.6325988769531
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "•",
+              "bbox": [
+                254.27108764648438,
+                261.6269226074219,
+                258.1227111816406,
+                272.6315612792969
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 261.9,
+          "text": "Marine Biology AP Computer Science A",
+          "spans": [
+            {
+              "text": "Marine Biology",
+              "bbox": [
+                57.179595947265625,
+                261.9154052734375,
+                124.69314575195312,
+                272.9200439453125
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "AP Computer Science A",
+              "bbox": [
+                275.1271667480469,
+                261.91436767578125,
+                379.4291687011719,
+                272.91900634765625
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 273.4,
+          "text": "• Applied Math • Woods Tech 1 ",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                156.32244873046875,
+                273.4461364746094,
+                159.82376098632812,
+                283.44989013671875
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Applied Math",
+              "bbox": [
+                177.83055114746094,
+                273.4461364746094,
+                236.18243408203125,
+                283.44989013671875
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "•",
+              "bbox": [
+                482.14453125,
+                273.4485168457031,
+                485.6458435058594,
+                283.4522705078125
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Woods Tech 1 ",
+              "bbox": [
+                499.15081787109375,
+                273.4483947753906,
+                564.9151611328125,
+                283.4522705078125
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 275.1,
+          "text": "• •",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                36.323509216308594,
+                275.13336181640625,
+                40.17513656616211,
+                286.13800048828125
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "•",
+              "bbox": [
+                254.2710723876953,
+                275.13232421875,
+                258.1227111816406,
+                286.136962890625
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 275.4,
+          "text": "Organic Chemistry Honors Data Structures ",
+          "spans": [
+            {
+              "text": "Organic Chemistry",
+              "bbox": [
+                57.179595947265625,
+                275.4208068847656,
+                138.94419860839844,
+                286.4254455566406
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "Honors Data Structures ",
+              "bbox": [
+                275.1271667480469,
+                275.4197692871094,
+                381.41015625,
+                286.4244079589844
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 285.5,
+          "text": "• Honors  and 2",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                156.32244873046875,
+                285.450927734375,
+                159.82376098632812,
+                295.4546813964844
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Honors ",
+              "bbox": [
+                177.83055114746094,
+                285.450927734375,
+                212.84368896484375,
+                295.4546813964844
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "and 2",
+              "bbox": [
+                499.1502685546875,
+                285.45318603515625,
+                524.1696166992188,
+                295.4569396972656
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 288.6,
+          "text": "•",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                36.323509216308594,
+                288.6387634277344,
+                40.17513656616211,
+                299.6434020996094
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 288.9,
+          "text": "Genetics and Advanced ",
+          "spans": [
+            {
+              "text": "Genetics",
+              "bbox": [
+                57.179595947265625,
+                288.92620849609375,
+                95.91597747802734,
+                299.93084716796875
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "and Advanced ",
+              "bbox": [
+                275.1271667480469,
+                288.9251708984375,
+                340.8141174316406,
+                299.9299621582031
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 297.5,
+          "text": "Accounting 1 • Honors ",
+          "spans": [
+            {
+              "text": "Accounting 1",
+              "bbox": [
+                177.82980346679688,
+                297.4557189941406,
+                235.63150024414062,
+                307.45947265625
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "•",
+              "bbox": [
+                482.14398193359375,
+                297.4579772949219,
+                485.6452941894531,
+                307.46173095703125
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Honors ",
+              "bbox": [
+                499.1502685546875,
+                297.4579772949219,
+                534.1633911132812,
+                307.46173095703125
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 302.1,
+          "text": "•",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                36.323509216308594,
+                302.1441650390625,
+                40.17513656616211,
+                313.1488037109375
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 302.4,
+          "text": "Astronomy Programming",
+          "spans": [
+            {
+              "text": "Astronomy",
+              "bbox": [
+                57.179595947265625,
+                302.4316101074219,
+                105.98524475097656,
+                313.4362487792969
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "Programming",
+              "bbox": [
+                275.127197265625,
+                302.43072509765625,
+                335.3446350097656,
+                313.43536376953125
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 309.5,
+          "text": "• Investments Engineering and ",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                156.3217010498047,
+                309.46051025390625,
+                159.82301330566406,
+                319.4642639160156
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Investments",
+              "bbox": [
+                177.82980346679688,
+                309.46051025390625,
+                231.73004150390625,
+                319.4642639160156
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Engineering and ",
+              "bbox": [
+                499.1495056152344,
+                309.4627685546875,
+                574.7477416992188,
+                319.4665222167969
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 315.6,
+          "text": "• •",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                36.323509216308594,
+                315.6495666503906,
+                40.17513656616211,
+                326.6542053222656
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "•",
+              "bbox": [
+                254.27035522460938,
+                315.648681640625,
+                258.1219787597656,
+                326.6533203125
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 315.9,
+          "text": "Bioethics",
+          "spans": [
+            {
+              "text": "Bioethics",
+              "bbox": [
+                57.179595947265625,
+                315.93701171875,
+                97.80879211425781,
+                326.941650390625
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 316.4,
+          "text": "Networks (CCNA cert)",
+          "spans": [
+            {
+              "text": "Networks (CCNA cert)",
+              "bbox": [
+                275.1264343261719,
+                316.4255065917969,
+                373.45220947265625,
+                326.42926025390625
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 321.5,
+          "text": "• AP  Design",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                156.3217010498047,
+                321.4653015136719,
+                159.82301330566406,
+                331.46905517578125
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "AP ",
+              "bbox": [
+                177.82980346679688,
+                321.4653015136719,
+                193.74575805664062,
+                331.46905517578125
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Design",
+              "bbox": [
+                499.1495056152344,
+                321.4675598144531,
+                530.2811279296875,
+                331.4713134765625
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 329.2,
+          "text": "• •",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                36.323509216308594,
+                329.15496826171875,
+                40.17513656616211,
+                340.15960693359375
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            },
+            {
+              "text": "•",
+              "bbox": [
+                254.2703399658203,
+                329.1540832519531,
+                258.1219787597656,
+                340.1587219238281
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 329.4,
+          "text": "MythBusting: The ",
+          "spans": [
+            {
+              "text": "MythBusting: The ",
+              "bbox": [
+                57.179595947265625,
+                329.4424133300781,
+                138.64700317382812,
+                340.4470520019531
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 329.9,
+          "text": "Switching, Routing, & ",
+          "spans": [
+            {
+              "text": "Switching, Routing, & ",
+              "bbox": [
+                275.1264343261719,
+                329.930908203125,
+                372.8929138183594,
+                339.9346618652344
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 333.5,
+          "text": "Economics ***AP ",
+          "spans": [
+            {
+              "text": "Economics",
+              "bbox": [
+                177.8290557861328,
+                333.4700927734375,
+                226.73739624023438,
+                343.4738464355469
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "***AP ",
+              "bbox": [
+                420.3641662597656,
+                333.4678955078125,
+                448.51470947265625,
+                343.4716491699219
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 342.5,
+          "text": "Wireless Essentials ",
+          "spans": [
+            {
+              "text": "Wireless Essentials ",
+              "bbox": [
+                275.1264343261719,
+                342.4759216308594,
+                364.56976318359375,
+                352.47967529296875
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 342.9,
+          "text": "Science of ",
+          "spans": [
+            {
+              "text": "Science of ",
+              "bbox": [
+                57.179595947265625,
+                342.94781494140625,
+                104.884765625,
+                353.95245361328125
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 345.5,
+          "text": "• Business  Captsone - ",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                156.32095336914062,
+                345.4748840332031,
+                159.822265625,
+                355.4786376953125
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Business ",
+              "bbox": [
+                177.8290557861328,
+                345.4748840332031,
+                221.17530822753906,
+                355.4786376953125
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Captsone - ",
+              "bbox": [
+                407.31268310546875,
+                345.4726867675781,
+                461.7330322265625,
+                355.4764404296875
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 354.5,
+          "text": "(CCNA cert)",
+          "spans": [
+            {
+              "text": "(CCNA cert)",
+              "bbox": [
+                275.1264343261719,
+                354.480712890625,
+                329.0068054199219,
+                364.4844665527344
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 356.5,
+          "text": "Literature and ",
+          "spans": [
+            {
+              "text": "Literature and ",
+              "bbox": [
+                57.179595947265625,
+                356.4532165527344,
+                122.5472412109375,
+                367.4579772949219
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 357.5,
+          "text": "Org.  Seminar and ",
+          "spans": [
+            {
+              "text": "Org. ",
+              "bbox": [
+                177.82830810546875,
+                357.47967529296875,
+                200.03665161132812,
+                367.4834289550781
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Seminar and ",
+              "bbox": [
+                403.13800048828125,
+                357.47747802734375,
+                465.8914794921875,
+                367.4812316894531
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 366.7,
+          "text": "•",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                254.26956176757812,
+                366.6690673828125,
+                258.1211853027344,
+                377.6737060546875
+              ],
+              "font": "ArialMT",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 367.4,
+          "text": "Cybersecurity (CCNA ",
+          "spans": [
+            {
+              "text": "Cybersecurity (CCNA ",
+              "bbox": [
+                275.1256408691406,
+                367.4458923339844,
+                372.91119384765625,
+                377.44964599609375
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 369.5,
+          "text": "Management Research w/ ",
+          "spans": [
+            {
+              "text": "Management",
+              "bbox": [
+                177.82830810546875,
+                369.4844665527344,
+                236.20022583007812,
+                379.48822021484375
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            },
+            {
+              "text": "Research w/ ",
+              "bbox": [
+                403.965576171875,
+                369.4822692871094,
+                465.0783996582031,
+                379.48602294921875
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 370.0,
+          "text": "Films",
+          "spans": [
+            {
+              "text": "Films",
+              "bbox": [
+                57.17959976196289,
+                369.958740234375,
+                80.35539245605469,
+                380.96337890625
+              ],
+              "font": "Calibri",
+              "size": 11.004650115966797,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 380.0,
+          "text": "cert)",
+          "spans": [
+            {
+              "text": "cert)",
+              "bbox": [
+                275.1256408691406,
+                379.99090576171875,
+                295.1230773925781,
+                389.9946594238281
+              ],
+              "font": "ArialMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 381.5,
+          "text": "advisor ",
+          "spans": [
+            {
+              "text": "advisor ",
+              "bbox": [
+                415.36187744140625,
+                381.487060546875,
+                453.6861877441406,
+                391.4908142089844
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 393.5,
+          "text": "approval",
+          "spans": [
+            {
+              "text": "approval",
+              "bbox": [
+                412.3074035644531,
+                393.4918518066406,
+                453.9629821777344,
+                403.49560546875
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.00374984741211,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 480.9,
+          "text": "What Colleges Say!",
+          "spans": [
+            {
+              "text": "What Colleges Say!",
+              "bbox": [
+                229.61740112304688,
+                480.8514709472656,
+                379.6393737792969,
+                498.86346435546875
+              ],
+              "font": "TimesNewRomanPS-BoldMT",
+              "size": 18.012001037597656,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 514.9,
+          "text": "When asked the question,   “Would participation in the  Drew University:  “Yes,it would show that they are ",
+          "spans": [
+            {
+              "text": "When asked the question, ",
+              "bbox": [
+                35.26210021972656,
+                514.933837890625,
+                154.17086791992188,
+                525.94287109375
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            },
+            {
+              "text": " “Would participation in the ",
+              "bbox": [
+                154.18865966796875,
+                514.933837890625,
+                283.87457275390625,
+                525.94287109375
+              ],
+              "font": "Calibri-Bold",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            },
+            {
+              "text": "Drew University: ",
+              "bbox": [
+                312.0458068847656,
+                514.933837890625,
+                390.76043701171875,
+                525.94287109375
+              ],
+              "font": "Calibri-Bold",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            },
+            {
+              "text": "“Yes,it would show that they are ",
+              "bbox": [
+                390.7762451171875,
+                514.933837890625,
+                537.7581176757812,
+                525.94287109375
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 528.4,
+          "text": "STEM Pathways set PTHSD students apart when applying  challenging themselves in the classroom.”",
+          "spans": [
+            {
+              "text": "STEM Pathways set PTHSD students apart when applying ",
+              "bbox": [
+                35.26194763183594,
+                528.4446411132812,
+                296.5286865234375,
+                539.4536743164062
+              ],
+              "font": "Calibri-Bold",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            },
+            {
+              "text": "challenging themselves in the classroom.”",
+              "bbox": [
+                312.0458068847656,
+                528.4446411132812,
+                498.18719482421875,
+                539.4536743164062
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 542.0,
+          "text": "to your school?”,  colleges responded with the following:",
+          "spans": [
+            {
+              "text": "to your school?”,",
+              "bbox": [
+                35.26194763183594,
+                541.9554443359375,
+                111.88495635986328,
+                552.9644775390625
+              ],
+              "font": "Calibri-Bold",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            },
+            {
+              "text": " colleges responded with the following:",
+              "bbox": [
+                111.90946197509766,
+                541.9554443359375,
+                286.73321533203125,
+                552.9644775390625
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 555.5,
+          "text": "NJIT:  “Yes- this would demonstrate to Admissions that a ",
+          "spans": [
+            {
+              "text": "NJIT: ",
+              "bbox": [
+                312.0458984375,
+                555.4662475585938,
+                336.3758544921875,
+                566.4752807617188
+              ],
+              "font": "Calibri-Bold",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            },
+            {
+              "text": "“Yes- this would demonstrate to Admissions that a ",
+              "bbox": [
+                336.3735046386719,
+                555.4642944335938,
+                563.4645385742188,
+                566.4752807617188
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 569.0,
+          "text": "SUNY Binghamton:   “Yes. We are a R1 research institution  student is interested in STEM programs, and would be a ",
+          "spans": [
+            {
+              "text": "SUNY Binghamton:",
+              "bbox": [
+                35.26194763183594,
+                568.97705078125,
+                121.7930679321289,
+                579.986083984375
+              ],
+              "font": "Calibri-Bold",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            },
+            {
+              "text": "  “Yes. We are a R1 research institution ",
+              "bbox": [
+                121.81963348388672,
+                568.97705078125,
+                296.50030517578125,
+                579.986083984375
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            },
+            {
+              "text": "student is interested in STEM programs, and would be a ",
+              "bbox": [
+                312.0321044921875,
+                568.9751586914062,
+                562.9393310546875,
+                579.9841918945312
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 582.5,
+          "text": "and students with a strong STEM curriculum that includes  strong candidate for our programs.”",
+          "spans": [
+            {
+              "text": "and students with a strong STEM curriculum that includes ",
+              "bbox": [
+                35.26194763183594,
+                582.4878540039062,
+                294.77886962890625,
+                593.4968872070312
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            },
+            {
+              "text": "strong candidate for our programs.”",
+              "bbox": [
+                312.0321044921875,
+                582.4859008789062,
+                471.3000183105469,
+                593.4949340820312
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 596.0,
+          "text": "research or lab work are generally more competitive in our ",
+          "spans": [
+            {
+              "text": "research or lab work are generally more competitive in our ",
+              "bbox": [
+                35.262481689453125,
+                595.9985961914062,
+                299.7878723144531,
+                607.0076293945312
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 609.5,
+          "text": "applicant pool and more success as students at  Ithaca College:   “Yes, we look for students who participate ",
+          "spans": [
+            {
+              "text": "applicant pool and more success as students at ",
+              "bbox": [
+                35.262481689453125,
+                609.5094604492188,
+                247.15371704101562,
+                620.5184936523438
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            },
+            {
+              "text": "Ithaca College:",
+              "bbox": [
+                312.0321044921875,
+                609.5075073242188,
+                378.9010925292969,
+                620.5165405273438
+              ],
+              "font": "Calibri-Bold",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            },
+            {
+              "text": "  “Yes, we look for students who participate ",
+              "bbox": [
+                378.9188232421875,
+                609.5075073242188,
+                574.6044921875,
+                620.5165405273438
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 623.0,
+          "text": "Binghamton because of their early HS experience.” in classes and activities that enhance their knowledge and ",
+          "spans": [
+            {
+              "text": "Binghamton because of their early HS experience.”",
+              "bbox": [
+                35.262481689453125,
+                623.0202026367188,
+                261.2232666015625,
+                634.0292358398438
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            },
+            {
+              "text": "in classes and activities that enhance their knowledge and ",
+              "bbox": [
+                312.0321044921875,
+                623.018310546875,
+                573.3206787109375,
+                634.02734375
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 636.5,
+          "text": "skills in their area of interest.”",
+          "spans": [
+            {
+              "text": "skills in their area of interest.”",
+              "bbox": [
+                312.03173828125,
+                636.5291137695312,
+                444.9220886230469,
+                647.5381469726562
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 650.0,
+          "text": "Towson University:  “Participation in this program would ",
+          "spans": [
+            {
+              "text": "Towson University: ",
+              "bbox": [
+                35.262481689453125,
+                650.0418090820312,
+                124.29268646240234,
+                661.0508422851562
+              ],
+              "font": "Calibri-Bold",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            },
+            {
+              "text": "“Participation in this program would ",
+              "bbox": [
+                124.31140899658203,
+                650.0418090820312,
+                288.313232421875,
+                661.0508422851562
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 663.6,
+          "text": "show us that the student is challenging him/herself in their  Montclair University:   “Rigorous math and science lab ",
+          "spans": [
+            {
+              "text": "show us that the student is challenging him/herself in their ",
+              "bbox": [
+                35.262481689453125,
+                663.5526123046875,
+                300.35968017578125,
+                674.5617065429688
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            },
+            {
+              "text": "Montclair University:",
+              "bbox": [
+                312.03173828125,
+                663.5507202148438,
+                408.17364501953125,
+                674.5597534179688
+              ],
+              "font": "Calibri-Bold",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            },
+            {
+              "text": "  “Rigorous math and science lab ",
+              "bbox": [
+                408.2203674316406,
+                663.5507202148438,
+                555.840576171875,
+                674.5597534179688
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 677.1,
+          "text": "courses which is something we look at when reviewing  classes beyond standard curriculum could be looked at for ",
+          "spans": [
+            {
+              "text": "courses which is something we look at when reviewing ",
+              "bbox": [
+                35.26206588745117,
+                677.0634155273438,
+                281.6446533203125,
+                688.0724487304688
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            },
+            {
+              "text": "classes beyond standard curriculum could be looked at for ",
+              "bbox": [
+                312.03173828125,
+                677.0615234375,
+                573.4093017578125,
+                688.070556640625
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 690.6,
+          "text": "applications.” scholarship eligibility along with high GPA.”",
+          "spans": [
+            {
+              "text": "applications.”",
+              "bbox": [
+                35.26206588745117,
+                690.57421875,
+                95.52561950683594,
+                701.583251953125
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            },
+            {
+              "text": "scholarship eligibility along with high GPA.”",
+              "bbox": [
+                312.0324401855469,
+                690.5723266601562,
+                503.4799499511719,
+                701.5813598632812
+              ],
+              "font": "Calibri",
+              "size": 11.009049415588379,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 722.0,
+          "text": "For more information and our application please visit our website by clicking  here . ",
+          "spans": [
+            {
+              "text": "For more information and our application please visit our website by clicking ",
+              "bbox": [
+                69.12629699707031,
+                722.0094604492188,
+                510.9260559082031,
+                734.015869140625
+              ],
+              "font": "Arial-BoldMT",
+              "size": 12.006400108337402,
+              "color": "0x0"
+            },
+            {
+              "text": "here",
+              "bbox": [
+                511.43231201171875,
+                722.0094604492188,
+                536.7777709960938,
+                734.015869140625
+              ],
+              "font": "Arial-BoldMT",
+              "size": 12.006400108337402,
+              "color": "0x563c1"
+            },
+            {
+              "text": ". ",
+              "bbox": [
+                536.7935791015625,
+                722.0094604492188,
+                543.445068359375,
+                734.015869140625
+              ],
+              "font": "Arial-BoldMT",
+              "size": 12.006400108337402,
+              "color": "0x0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

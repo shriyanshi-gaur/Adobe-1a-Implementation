@@ -1,0 +1,1329 @@
+{
+  "filename": "tester7.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "y": 11.0,
+          "text": "Congressman Travis Childers Backs Investigation of Economic Crisis, Votes for Final Passage of Fraud",
+          "spans": [
+            {
+              "text": "Congressman Travis Childers Backs Investigation of Economic Crisis, Votes for Final Passage of Fraud",
+              "bbox": [
+                45.349998474121094,
+                10.971031188964844,
+                587.5733032226562,
+                27.625032424926758
+              ],
+              "font": "FreeSansBold",
+              "size": 11.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 73.9,
+          "text": "  ",
+          "spans": [
+            {
+              "text": "  ",
+              "bbox": [
+                42.79999923706055,
+                73.94801330566406,
+                49.47200012207031,
+                93.14801788330078
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 103.7,
+          "text": "Congressman Travis Childers Backs Investigation of Economic Crisis, Votes for Final",
+          "spans": [
+            {
+              "text": "Congressman Travis Childers Backs Investigation of Economic Crisis, Votes for Final",
+              "bbox": [
+                50.040000915527344,
+                103.73200988769531,
+                538.1878662109375,
+                121.90001678466797
+              ],
+              "font": "FreeSansBold",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 103.9,
+          "text": "  ",
+          "spans": [
+            {
+              "text": "  ",
+              "bbox": [
+                42.79999923706055,
+                103.94801330566406,
+                49.47200012207031,
+                123.14801788330078
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 118.7,
+          "text": "Passage of Fraud Enforcement and Recovery Act",
+          "spans": [
+            {
+              "text": "Passage of Fraud Enforcement and Recovery Act",
+              "bbox": [
+                42.79999923706055,
+                118.73200988769531,
+                324.21197509765625,
+                136.90000915527344
+              ],
+              "font": "FreeSansBold",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 118.9,
+          "text": "    ",
+          "spans": [
+            {
+              "text": "    ",
+              "bbox": [
+                324.21197509765625,
+                118.94801330566406,
+                342.0279846191406,
+                138.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 148.9,
+          "text": "  ",
+          "spans": [
+            {
+              "text": "  ",
+              "bbox": [
+                42.79999923706055,
+                148.94801330566406,
+                49.47200012207031,
+                168.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 178.9,
+          "text": "  May 6, 2009   ",
+          "spans": [
+            {
+              "text": "  May 6, 2009   ",
+              "bbox": [
+                42.79999923706055,
+                178.94801330566406,
+                125.51597595214844,
+                198.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 208.9,
+          "text": "  ",
+          "spans": [
+            {
+              "text": "  ",
+              "bbox": [
+                42.79999923706055,
+                208.94801330566406,
+                49.47200012207031,
+                228.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 238.9,
+          "text": "  Washington, DC - Congressman Travis Childers (D-MS) today joined a majority of his",
+          "spans": [
+            {
+              "text": "  Washington, DC - Congressman Travis Childers (D-MS) today joined a majority of his",
+              "bbox": [
+                42.79999923706055,
+                238.94801330566406,
+                502.91595458984375,
+                258.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 253.9,
+          "text": "colleagues in supporting final passage of the Fraud Enforcement and Recovery Act of 2009,",
+          "spans": [
+            {
+              "text": "colleagues in supporting final passage of the Fraud Enforcement and Recovery Act of 2009,",
+              "bbox": [
+                42.79999923706055,
+                253.94801330566406,
+                530.3839111328125,
+                273.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 268.9,
+          "text": "which won bipartisan House approval by a vote of 367 to 59. The legislation will provide critical",
+          "spans": [
+            {
+              "text": "which won bipartisan House approval by a vote of 367 to 59. The legislation will provide critical",
+              "bbox": [
+                42.79999923706055,
+                268.9480285644531,
+                544.33984375,
+                288.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 283.9,
+          "text": "funding and tools to help law enforcement pursue and prosecute the type of fraud many blame",
+          "spans": [
+            {
+              "text": "funding and tools to help law enforcement pursue and prosecute the type of fraud many blame",
+              "bbox": [
+                42.79999923706055,
+                283.9480285644531,
+                543.06787109375,
+                303.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 298.9,
+          "text": "for the worst financial crisis in decades, and establishes a bipartisan commission to investigate",
+          "spans": [
+            {
+              "text": "for the worst financial crisis in decades, and establishes a bipartisan commission to investigate",
+              "bbox": [
+                42.79999923706055,
+                298.9480285644531,
+                544.3279418945312,
+                318.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 313.9,
+          "text": "the causes of the financial system's collapse and the ensuing recession.     ",
+          "spans": [
+            {
+              "text": "the causes of the financial system's collapse and the ensuing recession.     ",
+              "bbox": [
+                42.79999923706055,
+                313.9480285644531,
+                441.9559326171875,
+                333.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 343.9,
+          "text": "  ",
+          "spans": [
+            {
+              "text": "  ",
+              "bbox": [
+                42.79999923706055,
+                343.9480285644531,
+                49.47200012207031,
+                363.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 373.9,
+          "text": "  The bill passed in the Senate on April 28 by a vote of 92 to 4.   ",
+          "spans": [
+            {
+              "text": "  The bill passed in the Senate on April 28 by a vote of 92 to 4.   ",
+              "bbox": [
+                42.79999923706055,
+                373.9480285644531,
+                383.6719055175781,
+                393.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 403.9,
+          "text": "  ",
+          "spans": [
+            {
+              "text": "  ",
+              "bbox": [
+                42.79999923706055,
+                403.9480285644531,
+                49.47200012207031,
+                423.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 433.9,
+          "text": "  &quot;In the face of today's economic crisis, hard working North Mississippians have lost their",
+          "spans": [
+            {
+              "text": "  &quot;In the face of today's economic crisis, hard working North Mississippians have lost their",
+              "bbox": [
+                42.79999923706055,
+                433.9480285644531,
+                546.619873046875,
+                453.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 448.9,
+          "text": "homes, their savings, and their jobs. This bill demands oversight and accountability from the",
+          "spans": [
+            {
+              "text": "homes, their savings, and their jobs. This bill demands oversight and accountability from the",
+              "bbox": [
+                42.79999923706055,
+                448.9480285644531,
+                530.3358764648438,
+                468.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 463.9,
+          "text": "fraudulent institutions that got us into this mess,&quot; said Congressman Childers.",
+          "spans": [
+            {
+              "text": "fraudulent institutions that got us into this mess,&quot; said Congressman Childers.",
+              "bbox": [
+                42.79999923706055,
+                463.9480285644531,
+                484.3279113769531,
+                483.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 478.9,
+          "text": "&quot;When I voted twice against TARP authorization, I disapproved that it lacked adequate",
+          "spans": [
+            {
+              "text": "&quot;When I voted twice against TARP authorization, I disapproved that it lacked adequate",
+              "bbox": [
+                42.79999923706055,
+                478.9480285644531,
+                531.055908203125,
+                498.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 493.9,
+          "text": "oversight and accountability when it came to spending billions of hard-earned taxpayer dollars.",
+          "spans": [
+            {
+              "text": "oversight and accountability when it came to spending billions of hard-earned taxpayer dollars.",
+              "bbox": [
+                42.79999923706055,
+                493.9480285644531,
+                543.6918334960938,
+                513.1480102539062
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 508.9,
+          "text": "Today, I am proud to support the Fraud Enforcement and Recovery Act to help determine the",
+          "spans": [
+            {
+              "text": "Today, I am proud to support the Fraud Enforcement and Recovery Act to help determine the",
+              "bbox": [
+                42.79999923706055,
+                508.9480285644531,
+                537.0438842773438,
+                528.1480102539062
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 523.9,
+          "text": "causes of our current financial troubles, hold the responsible institutions accountable, and",
+          "spans": [
+            {
+              "text": "causes of our current financial troubles, hold the responsible institutions accountable, and",
+              "bbox": [
+                42.79999923706055,
+                523.947998046875,
+                517.6998901367188,
+                543.1480102539062
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 538.9,
+          "text": "ensure that these problems do not happen again. This important legislation also calls for the",
+          "spans": [
+            {
+              "text": "ensure that these problems do not happen again. This important legislation also calls for the",
+              "bbox": [
+                42.79999923706055,
+                538.947998046875,
+                530.3718872070312,
+                558.1480102539062
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 553.9,
+          "text": "diligent tracking of the funds it authorizes for these investigations, adding another level of",
+          "spans": [
+            {
+              "text": "diligent tracking of the funds it authorizes for these investigations, adding another level of",
+              "bbox": [
+                42.79999923706055,
+                553.947998046875,
+                514.3758544921875,
+                573.1480102539062
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 568.9,
+          "text": "transparency to the process.&quot;     ",
+          "spans": [
+            {
+              "text": "transparency to the process.&quot;     ",
+              "bbox": [
+                42.79999923706055,
+                568.947998046875,
+                245.57594299316406,
+                588.1480102539062
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 598.9,
+          "text": "  ",
+          "spans": [
+            {
+              "text": "  ",
+              "bbox": [
+                42.79999923706055,
+                598.947998046875,
+                49.47200012207031,
+                618.1480102539062
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 628.9,
+          "text": "  The Fraud Enforcement and Recovery Act is the latest in a series of consumer protection",
+          "spans": [
+            {
+              "text": "  The Fraud Enforcement and Recovery Act is the latest in a series of consumer protection",
+              "bbox": [
+                42.79999923706055,
+                628.947998046875,
+                521.6719360351562,
+                648.1480102539062
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 643.9,
+          "text": "reforms recently passed by the House. Last week, the House passed the Credit Cardholders'",
+          "spans": [
+            {
+              "text": "reforms recently passed by the House. Last week, the House passed the Credit Cardholders'",
+              "bbox": [
+                42.79999923706055,
+                643.947998046875,
+                535.3038940429688,
+                663.1480102539062
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 658.9,
+          "text": "Bill of Rights, which includes tough new protections for consumers facing excessive credit card",
+          "spans": [
+            {
+              "text": "Bill of Rights, which includes tough new protections for consumers facing excessive credit card",
+              "bbox": [
+                42.79999923706055,
+                658.947998046875,
+                544.9879150390625,
+                678.1480102539062
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 673.9,
+          "text": "fees, sky-high interest rates and unfair agreements that credit card companies revise at will.",
+          "spans": [
+            {
+              "text": "fees, sky-high interest rates and unfair agreements that credit card companies revise at will.",
+              "bbox": [
+                42.79999923706055,
+                673.947998046875,
+                528.9918823242188,
+                693.1480102539062
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 688.9,
+          "text": "Later this week, the House is expected to vote on the Mortgage Reform and Anti-Predatory",
+          "spans": [
+            {
+              "text": "Later this week, the House is expected to vote on the Mortgage Reform and Anti-Predatory",
+              "bbox": [
+                42.79999923706055,
+                688.947998046875,
+                525.0318603515625,
+                708.1480102539062
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 703.9,
+          "text": "Lending Act to curb abusive and predatory lending.   ",
+          "spans": [
+            {
+              "text": "Lending Act to curb abusive and predatory lending.   ",
+              "bbox": [
+                42.79999923706055,
+                703.947998046875,
+                323.6239318847656,
+                723.1480102539062
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 733.9,
+          "text": "  ",
+          "spans": [
+            {
+              "text": "  ",
+              "bbox": [
+                42.79999923706055,
+                733.947998046875,
+                49.47200012207031,
+                753.1480102539062
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 801.8,
+          "text": " 1 / 2",
+          "spans": [
+            {
+              "text": " 1 / 2",
+              "bbox": [
+                524.8900146484375,
+                801.81201171875,
+                542.6820068359375,
+                814.6119995117188
+              ],
+              "font": "FreeSans",
+              "size": 8.0,
+              "color": "0x0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "lines": [
+        {
+          "y": 11.0,
+          "text": "Congressman Travis Childers Backs Investigation of Economic Crisis, Votes for Final Passage of Fraud",
+          "spans": [
+            {
+              "text": "Congressman Travis Childers Backs Investigation of Economic Crisis, Votes for Final Passage of Fraud",
+              "bbox": [
+                42.79999923706055,
+                10.971031188964844,
+                585.0233154296875,
+                27.625032424926758
+              ],
+              "font": "FreeSansBold",
+              "size": 11.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 73.9,
+          "text": "  The following measures are included in the Fraud Enforcement and Recovery Act of 2009:   ",
+          "spans": [
+            {
+              "text": "  The following measures are included in the Fraud Enforcement and Recovery Act of 2009:   ",
+              "bbox": [
+                42.79999923706055,
+                73.94801330566406,
+                538.3638916015625,
+                93.14801788330078
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 103.9,
+          "text": "     ",
+          "spans": [
+            {
+              "text": "     ",
+              "bbox": [
+                42.79999923706055,
+                103.94801330566406,
+                60.047996520996094,
+                123.14801788330078
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 118.9,
+          "text": "    -  Prohibits fraudulent activities involving the Troubled Assets Relief Program (TARP) or a",
+          "spans": [
+            {
+              "text": "    -  Prohibits fraudulent activities involving the Troubled Assets Relief Program (TARP) or a",
+              "bbox": [
+                45.349998474121094,
+                118.94801330566406,
+                535.9779052734375,
+                138.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 133.9,
+          "text": "federal economic stimulus, recovery, or rescue plan.    ",
+          "spans": [
+            {
+              "text": "federal economic stimulus, recovery, or rescue plan.",
+              "bbox": [
+                42.79999923706055,
+                133.94801330566406,
+                320.22796630859375,
+                153.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": "   ",
+              "bbox": [
+                350.4800109863281,
+                133.94801330566406,
+                360.4880065917969,
+                153.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 148.9,
+          "text": "    -  Authorizes appropriations to the Attorney General for FY 2010-FY2011 for investigations,",
+          "spans": [
+            {
+              "text": "    -  Authorizes appropriations to the Attorney General for FY 2010-FY2011 for investigations,",
+              "bbox": [
+                45.349998474121094,
+                148.94801330566406,
+                544.7139282226562,
+                168.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 163.9,
+          "text": "prosecutions, and civil proceedings involving federal assistance programs and financial",
+          "spans": [
+            {
+              "text": "prosecutions, and civil proceedings involving federal assistance programs and financial",
+              "bbox": [
+                42.79999923706055,
+                163.94801330566406,
+                504.31988525390625,
+                183.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 178.9,
+          "text": "institutions. Allocates such funds among various departments of the Department of Justice",
+          "spans": [
+            {
+              "text": "institutions. Allocates such funds among various departments of the Department of Justice",
+              "bbox": [
+                42.79999923706055,
+                178.94801330566406,
+                521.6838989257812,
+                198.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 193.9,
+          "text": "(DOJ).    ",
+          "spans": [
+            {
+              "text": "(DOJ).",
+              "bbox": [
+                42.79999923706055,
+                193.94801330566406,
+                78.12799835205078,
+                213.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": "   ",
+              "bbox": [
+                108.37999725341797,
+                193.94801330566406,
+                118.38799285888672,
+                213.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 208.9,
+          "text": "    -  Requires the Attorney General, in consultation with the U.S. Postal Inspection Service, the",
+          "spans": [
+            {
+              "text": "    -  Requires the Attorney General, in consultation with the U.S. Postal Inspection Service, the",
+              "bbox": [
+                45.349998474121094,
+                208.94801330566406,
+                550.7138671875,
+                228.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 223.9,
+          "text": "Inspector General for HUD, and the Secretary of Homeland Security, to submit a joint report to",
+          "spans": [
+            {
+              "text": "Inspector General for HUD, and the Secretary of Homeland Security, to submit a joint report to",
+              "bbox": [
+                42.79999923706055,
+                223.94801330566406,
+                543.0078735351562,
+                243.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 238.9,
+          "text": "Congress identifying: 1) amounts spent for investigations, with a certification of compliance that",
+          "spans": [
+            {
+              "text": "Congress identifying: 1) amounts spent for investigations, with a certification of compliance that",
+              "bbox": [
+                42.79999923706055,
+                238.94801330566406,
+                547.0159301757812,
+                258.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 253.9,
+          "text": "funds have been spent in accordance with this Act, and 2) amounts recovered from criminal or",
+          "spans": [
+            {
+              "text": "funds have been spent in accordance with this Act, and 2) amounts recovered from criminal or",
+              "bbox": [
+                42.79999923706055,
+                253.94801330566406,
+                542.3478393554688,
+                273.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 268.9,
+          "text": "civil restitution, fines, penalties, and other monetary recoveries.    ",
+          "spans": [
+            {
+              "text": "civil restitution, fines, penalties, and other monetary recoveries.",
+              "bbox": [
+                42.79999923706055,
+                268.9480285644531,
+                377.5999450683594,
+                288.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": "   ",
+              "bbox": [
+                407.8500061035156,
+                268.9480285644531,
+                417.8580017089844,
+                288.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 283.9,
+          "text": "    -  Authorizes appropriations to the Securities and Exchange Commission (SEC) for",
+          "spans": [
+            {
+              "text": "    -  Authorizes appropriations to the Securities and Exchange Commission (SEC) for",
+              "bbox": [
+                45.349998474121094,
+                283.9480285644531,
+                500.6499328613281,
+                303.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 298.9,
+          "text": "FY2010-FY2011 for investigations and enforcement proceedings involving financial institutions",
+          "spans": [
+            {
+              "text": "FY2010-FY2011 for investigations and enforcement proceedings involving financial institutions",
+              "bbox": [
+                42.79999923706055,
+                298.9480285644531,
+                543.69189453125,
+                318.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 313.9,
+          "text": "and for the SEC Office of the Inspector General.    ",
+          "spans": [
+            {
+              "text": "and for the SEC Office of the Inspector General.",
+              "bbox": [
+                42.79999923706055,
+                313.9480285644531,
+                298.2679443359375,
+                333.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": "   ",
+              "bbox": [
+                328.5199890136719,
+                313.9480285644531,
+                338.5279846191406,
+                333.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 328.9,
+          "text": "    -  Establishes the bipartisan congressional Financial Markets Commission to examine the",
+          "spans": [
+            {
+              "text": "    -  Establishes the bipartisan congressional Financial Markets Commission to examine the",
+              "bbox": [
+                45.349998474121094,
+                328.9480285644531,
+                535.3179321289062,
+                348.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 343.9,
+          "text": "causes of the current U.S. financial and economic crisis, taking into account fraud and abuse in",
+          "spans": [
+            {
+              "text": "causes of the current U.S. financial and economic crisis, taking into account fraud and abuse in",
+              "bbox": [
+                42.79999923706055,
+                343.9480285644531,
+                547.0399169921875,
+                363.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 358.9,
+          "text": "the financial sector and other specified factors. Requires the Commission to submit a report on",
+          "spans": [
+            {
+              "text": "the financial sector and other specified factors. Requires the Commission to submit a report on",
+              "bbox": [
+                42.79999923706055,
+                358.9480285644531,
+                544.3399047851562,
+                378.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 373.9,
+          "text": "its finding to the President and Congress on December 15, 2010. Requires the Commission",
+          "spans": [
+            {
+              "text": "its finding to the President and Congress on December 15, 2010. Requires the Commission",
+              "bbox": [
+                42.79999923706055,
+                373.9480285644531,
+                528.3439331054688,
+                393.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 388.9,
+          "text": "chairperson to appear before specified congressional committees within 120 days after the",
+          "spans": [
+            {
+              "text": "chairperson to appear before specified congressional committees within 120 days after the",
+              "bbox": [
+                42.79999923706055,
+                388.9480285644531,
+                523.015869140625,
+                408.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 403.9,
+          "text": "submission of the report.    ",
+          "spans": [
+            {
+              "text": "submission of the report.",
+              "bbox": [
+                42.79999923706055,
+                403.9480285644531,
+                174.18797302246094,
+                423.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": "   ",
+              "bbox": [
+                204.44000244140625,
+                403.9480285644531,
+                214.447998046875,
+                423.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 418.9,
+          "text": "    -  Establishes a congressional Select Committee on Investigation of the Economic Crisis to",
+          "spans": [
+            {
+              "text": "    -  Establishes a congressional Select Committee on Investigation of the Economic Crisis to",
+              "bbox": [
+                45.349998474121094,
+                418.9480285644531,
+                542.6738891601562,
+                438.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 433.9,
+          "text": "study and investigate the facts and circumstances giving rise to the current U.S. economic crisis",
+          "spans": [
+            {
+              "text": "study and investigate the facts and circumstances giving rise to the current U.S. economic crisis",
+              "bbox": [
+                42.79999923706055,
+                433.9480285644531,
+                550.9998779296875,
+                453.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 448.9,
+          "text": "and to recommend actions to prevent a recurrence of such crisis. Requires the Select",
+          "spans": [
+            {
+              "text": "and to recommend actions to prevent a recurrence of such crisis. Requires the Select",
+              "bbox": [
+                42.79999923706055,
+                448.9480285644531,
+                495.6559143066406,
+                468.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 463.9,
+          "text": "Committee to submit initial, updated, and final reports on its investigation to Congress with",
+          "spans": [
+            {
+              "text": "Committee to submit initial, updated, and final reports on its investigation to Congress with",
+              "bbox": [
+                42.79999923706055,
+                463.9480285644531,
+                520.9999389648438,
+                483.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 478.9,
+          "text": "findings and recommendations.   ",
+          "spans": [
+            {
+              "text": "findings and recommendations.",
+              "bbox": [
+                42.79999923706055,
+                478.9480285644531,
+                209.53997802734375,
+                498.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": "  ",
+              "bbox": [
+                239.7899932861328,
+                478.9480285644531,
+                246.4619903564453,
+                498.14801025390625
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 508.9,
+          "text": "  ",
+          "spans": [
+            {
+              "text": "  ",
+              "bbox": [
+                42.79999923706055,
+                508.9480285644531,
+                49.47200012207031,
+                528.1480102539062
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 538.9,
+          "text": "  # # #   ",
+          "spans": [
+            {
+              "text": "  # # #   ",
+              "bbox": [
+                42.79999923706055,
+                538.947998046875,
+                86.16799926757812,
+                558.1480102539062
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 568.9,
+          "text": "  ",
+          "spans": [
+            {
+              "text": "  ",
+              "bbox": [
+                42.79999923706055,
+                568.947998046875,
+                49.47200012207031,
+                588.1480102539062
+              ],
+              "font": "FreeSans",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 801.8,
+          "text": " 2 / 2",
+          "spans": [
+            {
+              "text": " 2 / 2",
+              "bbox": [
+                522.3400268554688,
+                801.81201171875,
+                540.1320190429688,
+                814.6119995117188
+              ],
+              "font": "FreeSans",
+              "size": 8.0,
+              "color": "0x0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

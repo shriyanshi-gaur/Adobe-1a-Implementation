@@ -1,0 +1,1108 @@
+{
+  "filename": "tester13.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "y": 72.4,
+          "text": "MANAGED RISK MEDICAL INSURANCE BOARD ",
+          "spans": [
+            {
+              "text": "MANAGED RISK MEDICAL INSURANCE BOARD ",
+              "bbox": [
+                149.27999877929688,
+                72.42811584472656,
+                466.5452880859375,
+                88.02980041503906
+              ],
+              "font": "ArialMT",
+              "size": 13.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 88.3,
+          "text": "REQUEST FOR WEBSITE ACCESS ",
+          "spans": [
+            {
+              "text": "REQUEST FOR WEBSITE ACCESS ",
+              "bbox": [
+                207.72000122070312,
+                88.31999206542969,
+                407.6217041015625,
+                101.71199035644531
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 102.1,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                102.05189514160156,
+                92.78556060791016,
+                113.23421478271484
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 113.6,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                113.57191467285156,
+                92.78556060791016,
+                124.75423431396484
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 125.1,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                125.09193420410156,
+                92.78556060791016,
+                136.27426147460938
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 136.6,
+          "text": "This form is to be used to gain access to the plan specific Healthy Family Program capitation files ",
+          "spans": [
+            {
+              "text": "This form is to be used to gain access to the plan specific Healthy Family Program capitation files ",
+              "bbox": [
+                90.0,
+                136.55189514160156,
+                522.3775024414062,
+                147.73422241210938
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 148.1,
+          "text": "available monthly on the MRMIB website.  Every time a new employee needs access to that ",
+          "spans": [
+            {
+              "text": "available monthly on the MRMIB website.  Every time a new employee needs access to that ",
+              "bbox": [
+                90.00001525878906,
+                148.07191467285156,
+                499.00018310546875,
+                159.25424194335938
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 159.6,
+          "text": "website a new request  must   be  filed with the Managed Risk Medical Insurance Board Information ",
+          "spans": [
+            {
+              "text": "website a new request ",
+              "bbox": [
+                90.00001525878906,
+                159.59193420410156,
+                192.29220581054688,
+                170.77426147460938
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": "must",
+              "bbox": [
+                192.30010986328125,
+                159.59193420410156,
+                213.98239135742188,
+                170.77426147460938
+              ],
+              "font": "Arial-ItalicMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                213.96034240722656,
+                159.59193420410156,
+                216.7458953857422,
+                170.77426147460938
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": "be",
+              "bbox": [
+                216.71995544433594,
+                159.59193420410156,
+                227.8692169189453,
+                170.77426147460938
+              ],
+              "font": "Arial-ItalicMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": " filed with the Managed Risk Medical Insurance Board Information ",
+              "bbox": [
+                227.88023376464844,
+                159.59193420410156,
+                521.7284545898438,
+                170.77426147460938
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 171.1,
+          "text": "Technology Unit.  Based upon the information provided by you, a web address (URL), a user ",
+          "spans": [
+            {
+              "text": "Technology Unit.  Based upon the information provided by you, a web address (URL), a user ",
+              "bbox": [
+                90.00001525878906,
+                171.05189514160156,
+                502.34686279296875,
+                182.23422241210938
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 182.6,
+          "text": "name and a password will be provided.  All information obtained on this website is to remain ",
+          "spans": [
+            {
+              "text": "name and a password will be provided.  All information obtained on this website is to remain ",
+              "bbox": [
+                89.99990844726562,
+                182.57191467285156,
+                499.0428466796875,
+                193.75424194335938
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 194.0,
+          "text": "confidential .  Signing this document acknowledges this requirement. ",
+          "spans": [
+            {
+              "text": "confidential",
+              "bbox": [
+                89.99990844726562,
+                194.03187561035156,
+                146.19407653808594,
+                205.21420288085938
+              ],
+              "font": "Arial-BoldItalicMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": ".  Signing this document acknowledges this requirement. ",
+              "bbox": [
+                146.16000366210938,
+                194.03187561035156,
+                398.92620849609375,
+                205.21420288085938
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 205.6,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99990844726562,
+                205.55189514160156,
+                92.78546905517578,
+                216.73422241210938
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 217.1,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99990844726562,
+                217.07191467285156,
+                92.78546905517578,
+                228.25424194335938
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 230.0,
+          "text": "Plan Name* ",
+          "spans": [
+            {
+              "text": "Plan Name* ",
+              "bbox": [
+                89.99990844726562,
+                230.03175354003906,
+                146.17604064941406,
+                241.21408081054688
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 260.0,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                260.0318603515625,
+                92.78556060791016,
+                271.2142028808594
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 273.1,
+          "text": "Plan Contact Mailing Address* ",
+          "spans": [
+            {
+              "text": "Plan Contact Mailing Address* ",
+              "bbox": [
+                90.0,
+                273.0517578125,
+                227.93328857421875,
+                284.2341003417969
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 284.6,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                284.63189697265625,
+                92.78556060791016,
+                295.814208984375
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 303.5,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                303.53192138671875,
+                92.78556060791016,
+                314.7142333984375
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 316.6,
+          "text": "Supervisor Name*                                   Signature* ",
+          "spans": [
+            {
+              "text": "Supervisor Name* ",
+              "bbox": [
+                90.0,
+                316.61199951171875,
+                173.8266143798828,
+                327.7943420410156
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                197.92050170898438,
+                316.61199951171875,
+                200.7060546875,
+                327.7943420410156
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": "                               Signature* ",
+              "bbox": [
+                233.91815185546875,
+                316.61199951171875,
+                369.5973205566406,
+                327.7943420410156
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 350.6,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                350.5718994140625,
+                92.78556060791016,
+                361.7542419433594
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 363.5,
+          "text": "Supervisor E-Mail*        Phone Number* ",
+          "spans": [
+            {
+              "text": "Supervisor E-Mail* ",
+              "bbox": [
+                90.0,
+                363.53179931640625,
+                175.57192993164062,
+                374.714111328125
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                197.98646545410156,
+                363.53179931640625,
+                200.7720184326172,
+                374.714111328125
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                233.98812866210938,
+                363.53179931640625,
+                236.773681640625,
+                374.714111328125
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                269.9897766113281,
+                363.53179931640625,
+                272.77532958984375,
+                374.714111328125
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": "Phone Number* ",
+              "bbox": [
+                305.9914245605469,
+                363.53179931640625,
+                379.9755859375,
+                374.714111328125
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 396.5,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                396.53192138671875,
+                92.78556060791016,
+                407.7142333984375
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 409.6,
+          "text": "New Employee Name*            Signature*     ",
+          "spans": [
+            {
+              "text": "New Employee Name*  ",
+              "bbox": [
+                90.0,
+                409.55181884765625,
+                200.7289581298828,
+                420.734130859375
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                233.9413604736328,
+                409.55181884765625,
+                236.72691345214844,
+                420.734130859375
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                269.9393310546875,
+                409.55181884765625,
+                272.7248840332031,
+                420.734130859375
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": "     Signature* ",
+              "bbox": [
+                305.937255859375,
+                409.55181884765625,
+                369.3451843261719,
+                420.734130859375
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                377.9584655761719,
+                409.55181884765625,
+                380.7440185546875,
+                420.734130859375
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                413.9564208984375,
+                409.55181884765625,
+                416.7419738769531,
+                420.734130859375
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 442.6,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                442.5518798828125,
+                92.78556060791016,
+                453.7342224121094
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 455.6,
+          "text": "New Employee E-Mail*       Phone Number* ",
+          "spans": [
+            {
+              "text": "New Employee E-Mail*  ",
+              "bbox": [
+                90.0,
+                455.63201904296875,
+                200.79727172851562,
+                466.8143310546875
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                234.013671875,
+                455.63201904296875,
+                236.79922485351562,
+                466.8143310546875
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                270.015625,
+                455.63201904296875,
+                272.8011779785156,
+                466.8143310546875
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": "Phone Number* ",
+              "bbox": [
+                306.017578125,
+                455.63201904296875,
+                380.0425720214844,
+                466.8143310546875
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 483.5,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                483.53179931640625,
+                92.78556060791016,
+                494.7141418457031
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 495.9,
+          "text": "For MRMIB Use Only",
+          "spans": [
+            {
+              "text": "For MRMIB Use Only",
+              "bbox": [
+                90.0,
+                495.8563232421875,
+                185.1999969482422,
+                509.19293212890625
+              ],
+              "font": "Arial",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 508.4,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                508.3883056640625,
+                92.78556060791016,
+                519.5706176757812
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 521.4,
+          "text": "User Name    Password    Web Address ",
+          "spans": [
+            {
+              "text": "User Name ",
+              "bbox": [
+                90.0,
+                521.408203125,
+                143.36753845214844,
+                532.5905151367188
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                162.00454711914062,
+                521.408203125,
+                164.79010009765625,
+                532.5905151367188
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": "Password ",
+              "bbox": [
+                198.00619506835938,
+                521.408203125,
+                244.67054748535156,
+                532.5905151367188
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                269.9708557128906,
+                521.408203125,
+                272.75640869140625,
+                532.5905151367188
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": "Web Address ",
+              "bbox": [
+                305.9725036621094,
+                521.408203125,
+                368.78668212890625,
+                532.5905151367188
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 550.6,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                550.5517578125,
+                92.78556060791016,
+                561.7340698242188
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 563.6,
+          "text": "MRMIB Authorized Signature    Date Prepared   Date Plan Notified ",
+          "spans": [
+            {
+              "text": "MRMIB Authorized Signature ",
+              "bbox": [
+                90.0,
+                563.6318969726562,
+                222.2900390625,
+                574.814208984375
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                233.9693603515625,
+                563.6318969726562,
+                236.75491333007812,
+                574.814208984375
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": "Date Prepared  ",
+              "bbox": [
+                269.96722412109375,
+                563.6318969726562,
+                344.7103271484375,
+                574.814208984375
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": "Date Plan Notified ",
+              "bbox": [
+                377.922607421875,
+                563.6318969726562,
+                461.2969665527344,
+                574.814208984375
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 599.5,
+          "text": "* Required Information ",
+          "spans": [
+            {
+              "text": "* Required Information ",
+              "bbox": [
+                92.78556060791016,
+                599.519775390625,
+                195.81118774414062,
+                612.8563842773438
+              ],
+              "font": "Arial",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 600.5,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                600.5317993164062,
+                92.78556060791016,
+                611.714111328125
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 612.1,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                612.0517578125,
+                92.78556060791016,
+                623.2340698242188
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 623.5,
+          "text": "Any further information can be obtained by contacting Gurmeet Hajrah, Associate Information ",
+          "spans": [
+            {
+              "text": "Any further information can be obtained by contacting Gurmeet Hajrah, Associate Information ",
+              "bbox": [
+                90.0,
+                623.51171875,
+                505.2382507324219,
+                634.6940307617188
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 635.0,
+          "text": "Systems Analyst at (916) 324-4896 or at  ghajrah@mrmib.ca.gov . ",
+          "spans": [
+            {
+              "text": "Systems Analyst at (916) 324-4896 or at ",
+              "bbox": [
+                90.0,
+                635.03173828125,
+                271.7156066894531,
+                646.2140502929688
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": "ghajrah@mrmib.ca.gov",
+              "bbox": [
+                271.73974609375,
+                635.03173828125,
+                375.3864440917969,
+                646.2140502929688
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0xff"
+            },
+            {
+              "text": ". ",
+              "bbox": [
+                375.3599853515625,
+                635.0317993164062,
+                380.90704345703125,
+                646.214111328125
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 646.6,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.00039672851562,
+                646.5517578125,
+                92.78595733642578,
+                657.7340698242188
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 658.0,
+          "text": "Mail the original signed form to Stuart Busby, Financial Operations Officer at 1000 “G” Street, ",
+          "spans": [
+            {
+              "text": "Mail the original signed form to Stuart Busby, Financial Operations Officer at 1000 “G” Street, ",
+              "bbox": [
+                90.00039672851562,
+                658.01171875,
+                504.1576232910156,
+                669.1940307617188
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 669.5,
+          "text": "Suite 450, Sacramento, CA 95814.  Additionally, send him either a faxed copy to (916) 327-6580 ",
+          "spans": [
+            {
+              "text": "Suite 450, Sacramento, CA 95814.  Additionally, send him either a faxed copy to (916) 327-6580 ",
+              "bbox": [
+                90.00041198730469,
+                669.53173828125,
+                519.5980224609375,
+                680.7140502929688
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 681.1,
+          "text": "or email (word document or PDF format) a copy to  sbusby@mrmib.ca.gov . ",
+          "spans": [
+            {
+              "text": "or email (word document or PDF format) a copy to ",
+              "bbox": [
+                90.00041198730469,
+                681.0517578125,
+                314.98748779296875,
+                692.2340698242188
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            },
+            {
+              "text": "sbusby@mrmib.ca.gov",
+              "bbox": [
+                315.06072998046875,
+                681.0517578125,
+                416.97430419921875,
+                692.2340698242188
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0xff"
+            },
+            {
+              "text": ". ",
+              "bbox": [
+                416.94000244140625,
+                681.0518798828125,
+                422.487060546875,
+                692.2341918945312
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 692.5,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.00030517578125,
+                692.5118408203125,
+                92.7858657836914,
+                703.6941528320312
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

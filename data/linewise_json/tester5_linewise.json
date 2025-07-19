@@ -1,0 +1,3475 @@
+{
+  "filename": "tester5.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "y": 72.4,
+          "text": "Labor Relations Analyst ",
+          "spans": [
+            {
+              "text": "Labor Relations Analyst ",
+              "bbox": [
+                221.4600067138672,
+                72.44190216064453,
+                394.958251953125,
+                90.32022094726562
+              ],
+              "font": "ArialMT",
+              "size": 16.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 90.9,
+          "text": "Qualifications Assessment ",
+          "spans": [
+            {
+              "text": "Qualifications Assessment ",
+              "bbox": [
+                212.160400390625,
+                90.86170196533203,
+                404.2098388671875,
+                108.74002075195312
+              ],
+              "font": "ArialMT",
+              "size": 16.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 109.0,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                109.04308319091797,
+                93.05243682861328,
+                121.29676055908203
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 121.8,
+          "text": "Section 1: Tasks ",
+          "spans": [
+            {
+              "text": "Section 1: Tasks ",
+              "bbox": [
+                90.0,
+                121.76342010498047,
+                179.88006591796875,
+                134.01708984375
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 134.4,
+          "text": "Using the rating scale(s) provided below, you will rate your experience performing ",
+          "spans": [
+            {
+              "text": "Using the rating scale(s) provided below, you will rate your experience performing ",
+              "bbox": [
+                90.0,
+                134.36302185058594,
+                489.74755859375,
+                146.61669921875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 147.0,
+          "text": "specific job-related tasks. ",
+          "spans": [
+            {
+              "text": "specific job-related tasks. ",
+              "bbox": [
+                90.0,
+                147.02293395996094,
+                216.54006958007812,
+                159.276611328125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 159.7,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                159.6829071044922,
+                93.05243682861328,
+                171.93658447265625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 172.3,
+          "text": "Respond to each of the following statements by indicating how the statement applies to ",
+          "spans": [
+            {
+              "text": "Respond to each of the following statements by indicating how the statement applies to ",
+              "bbox": [
+                90.0,
+                172.2823944091797,
+                516.8250732421875,
+                184.53607177734375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 184.9,
+          "text": "you. You are required to respond to every statement by marking one option from the ",
+          "spans": [
+            {
+              "text": "you. You are required to respond to every statement by marking one option from the ",
+              "bbox": [
+                90.0,
+                184.9423065185547,
+                502.05548095703125,
+                197.19598388671875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 197.6,
+          "text": "scale(s) provided. ",
+          "spans": [
+            {
+              "text": "scale(s) provided. ",
+              "bbox": [
+                90.0,
+                197.6022186279297,
+                179.83834838867188,
+                209.85589599609375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 210.3,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                210.26219177246094,
+                93.05243682861328,
+                222.515869140625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 222.9,
+          "text": "In responding to each statement, you may refer to your FORMAL EDUCATION, ",
+          "spans": [
+            {
+              "text": "In responding to each statement, you may refer to your FORMAL EDUCATION, ",
+              "bbox": [
+                90.0,
+                222.9221649169922,
+                479.9173889160156,
+                235.17584228515625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 235.5,
+          "text": "FORMAL TRAINING COURSES, and/or WORK EXPERIENCE whether paid or ",
+          "spans": [
+            {
+              "text": "FORMAL TRAINING COURSES, and/or WORK EXPERIENCE whether paid or ",
+              "bbox": [
+                90.0,
+                235.51622009277344,
+                479.43328857421875,
+                247.7698974609375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 248.2,
+          "text": "volunteer. ",
+          "spans": [
+            {
+              "text": "volunteer. ",
+              "bbox": [
+                90.0,
+                248.17613220214844,
+                141.3424835205078,
+                260.4298095703125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 260.9,
+          "text": "How much knowledge do you possess in performing this action? ",
+          "spans": [
+            {
+              "text": "How much knowledge do you possess in performing this action? ",
+              "bbox": [
+                90.0,
+                260.90203857421875,
+                433.55517578125,
+                273.15570068359375
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 273.6,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                273.5619201660156,
+                93.05243682861328,
+                285.8155822753906
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 286.2,
+          "text": "   Extensive Knowledge —I   possess an expert knowledge level to the extent that I ",
+          "spans": [
+            {
+              "text": "",
+              "bbox": [
+                107.99949645996094,
+                286.23834228515625,
+                113.0173568725586,
+                298.4041748046875
+              ],
+              "font": "Wingdings-Regular",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                113.03931427001953,
+                286.1614990234375,
+                116.09175109863281,
+                298.4151611328125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "Extensive Knowledge",
+              "bbox": [
+                125.99571228027344,
+                286.1614990234375,
+                239.1467742919922,
+                298.4151611328125
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "—I",
+              "bbox": [
+                239.10067749023438,
+                286.1614990234375,
+                253.13311767578125,
+                298.4151611328125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                253.14410400390625,
+                286.1614990234375,
+                256.196533203125,
+                298.4151611328125
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "possess an expert knowledge level to the extent that I ",
+              "bbox": [
+                256.20751953125,
+                286.1614990234375,
+                521.05126953125,
+                298.4151611328125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 298.8,
+          "text": "could effectively perform this task in the most difficult and complex situations, ",
+          "spans": [
+            {
+              "text": "could effectively perform this task in the most difficult and complex situations, ",
+              "bbox": [
+                126.00668334960938,
+                298.8214416503906,
+                503.9159240722656,
+                311.0751037597656
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 311.4,
+          "text": "and I could instruct others on specific aspects of this task.  ",
+          "spans": [
+            {
+              "text": "and I could instruct others on specific aspects of this task.  ",
+              "bbox": [
+                126.00668334960938,
+                311.4154968261719,
+                412.81610107421875,
+                323.6691589355469
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 324.1,
+          "text": "  Substantial Knowledge —I possess an advanced knowledge level to the extent ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                113.03931427001953,
+                324.0809020996094,
+                116.09175109863281,
+                336.3345642089844
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "Substantial Knowledge",
+              "bbox": [
+                125.99571228027344,
+                324.0809020996094,
+                247.02821350097656,
+                336.3345642089844
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "—I possess an advanced knowledge level to the extent ",
+              "bbox": [
+                247.01727294921875,
+                324.0809020996094,
+                518.510498046875,
+                336.3345642089844
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 324.2,
+          "text": "",
+          "spans": [
+            {
+              "text": "",
+              "bbox": [
+                107.99949645996094,
+                324.1577453613281,
+                113.0173568725586,
+                336.3235778808594
+              ],
+              "font": "Wingdings-Regular",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 336.7,
+          "text": "that I could effectively perform this task under the majority of circumstances or ",
+          "spans": [
+            {
+              "text": "that I could effectively perform this task under the majority of circumstances or ",
+              "bbox": [
+                125.99571228027344,
+                336.7408447265625,
+                508.7012634277344,
+                348.9945068359375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 349.4,
+          "text": "situations encountered. ",
+          "spans": [
+            {
+              "text": "situations encountered. ",
+              "bbox": [
+                125.99571228027344,
+                349.4007873535156,
+                242.7075958251953,
+                361.6544494628906
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 362.1,
+          "text": "   Moderate Knowledge —I possess a sufficient knowledge level that would allow ",
+          "spans": [
+            {
+              "text": "",
+              "bbox": [
+                107.99949645996094,
+                362.1375427246094,
+                113.0173568725586,
+                374.3033752441406
+              ],
+              "font": "Wingdings-Regular",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                113.03931427001953,
+                362.0606994628906,
+                116.09175109863281,
+                374.3143615722656
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "Moderate Knowledge",
+              "bbox": [
+                125.99571228027344,
+                362.0606994628906,
+                236.62466430664062,
+                374.3143615722656
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "—I possess a sufficient knowledge level that would allow ",
+              "bbox": [
+                236.57528686523438,
+                362.0606994628906,
+                515.3900756835938,
+                374.3143615722656
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 374.7,
+          "text": "me to perform this task successfully.  ",
+          "spans": [
+            {
+              "text": "me to perform this task successfully.  ",
+              "bbox": [
+                125.99571228027344,
+                374.6547546386719,
+                309.3681640625,
+                386.9084167480469
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 387.3,
+          "text": "  Limited Knowledge —I have some knowledge of how to perform this task, but ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                113.03931427001953,
+                387.3202209472656,
+                116.09175109863281,
+                399.5738830566406
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "Limited Knowledge",
+              "bbox": [
+                125.99571228027344,
+                387.3202209472656,
+                226.85684204101562,
+                399.5738830566406
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "—I have some knowledge of how to perform this task, but ",
+              "bbox": [
+                226.8579864501953,
+                387.3202209472656,
+                509.95001220703125,
+                399.5738830566406
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 387.4,
+          "text": "",
+          "spans": [
+            {
+              "text": "",
+              "bbox": [
+                107.99949645996094,
+                387.3970642089844,
+                113.0173568725586,
+                399.5628967285156
+              ],
+              "font": "Wingdings-Regular",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 400.0,
+          "text": "may require additional instruction to apply my knowledge effectively.  ",
+          "spans": [
+            {
+              "text": "may require additional instruction to apply my knowledge effectively.  ",
+              "bbox": [
+                125.99571228027344,
+                399.98016357421875,
+                463.3431091308594,
+                412.23382568359375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 412.6,
+          "text": "  No Knowledge —I have no knowledge of how to perform this task or what it may ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                113.03931427001953,
+                412.6401062011719,
+                116.09175109863281,
+                424.8937683105469
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "No Knowledge",
+              "bbox": [
+                125.99571228027344,
+                412.6401062011719,
+                202.38243103027344,
+                424.8937683105469
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "—I have no knowledge of how to perform this task or what it may ",
+              "bbox": [
+                202.37258911132812,
+                412.6401062011719,
+                520.8442993164062,
+                424.8937683105469
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 412.7,
+          "text": "",
+          "spans": [
+            {
+              "text": "",
+              "bbox": [
+                107.99949645996094,
+                412.7169494628906,
+                113.0173568725586,
+                424.8827819824219
+              ],
+              "font": "Wingdings-Regular",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 425.3,
+          "text": "entail. ",
+          "spans": [
+            {
+              "text": "entail. ",
+              "bbox": [
+                125.99571228027344,
+                425.300048828125,
+                158.4427032470703,
+                437.5537109375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 438.0,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                437.9880065917969,
+                93.0,
+                451.2720031738281
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 451.7,
+          "text": "1. Serving as a liaison between two parties in the resolution of issues. ",
+          "spans": [
+            {
+              "text": "1. Serving as a liaison between two parties in the resolution of issues. ",
+              "bbox": [
+                108.0,
+                451.703125,
+                455.5693664550781,
+                463.956787109375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 477.0,
+          "text": "2. Advising and informing decision makers regarding the interpretation of  ",
+          "spans": [
+            {
+              "text": "2. Advising and informing decision makers regarding the interpretation of  ",
+              "bbox": [
+                108.0,
+                477.02301025390625,
+                473.3635559082031,
+                489.27667236328125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 489.7,
+          "text": "provisions of contractual agreements. ",
+          "spans": [
+            {
+              "text": "provisions of contractual agreements. ",
+              "bbox": [
+                125.9962158203125,
+                489.6829528808594,
+                311.90283203125,
+                501.9366149902344
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 502.3,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99939727783203,
+                502.3428955078125,
+                93.05183410644531,
+                514.5965576171875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 515.0,
+          "text": "3. Determining compliance with policies, procedures, contractural   agreements, ",
+          "spans": [
+            {
+              "text": "3. Determining compliance with policies, procedures, contractural   agreements, ",
+              "bbox": [
+                107.9989013671875,
+                515.0028076171875,
+                504.41058349609375,
+                527.2564697265625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 527.6,
+          "text": "rules and laws. ",
+          "spans": [
+            {
+              "text": "rules and laws. ",
+              "bbox": [
+                125.9951171875,
+                527.5968627929688,
+                202.4268798828125,
+                539.8505249023438
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 540.3,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99829864501953,
+                540.2623291015625,
+                93.05073547363281,
+                552.5159912109375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 552.9,
+          "text": "4. Researching allegations made in grievances and/or complaints. ",
+          "spans": [
+            {
+              "text": "4. Researching allegations made in grievances and/or complaints. ",
+              "bbox": [
+                107.997802734375,
+                552.9222412109375,
+                437.80377197265625,
+                565.1759033203125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 578.2,
+          "text": "5. Preparing responses to complaints and/or grievances. ",
+          "spans": [
+            {
+              "text": "5. Preparing responses to complaints and/or grievances. ",
+              "bbox": [
+                107.997802734375,
+                578.2421264648438,
+                391.9974670410156,
+                590.4957885742188
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 603.5,
+          "text": "6. Making recommendations in response to complaints and/or grievances. ",
+          "spans": [
+            {
+              "text": "6. Making recommendations in response to complaints and/or grievances. ",
+              "bbox": [
+                107.997802734375,
+                603.5015869140625,
+                476.2891845703125,
+                615.7552490234375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 616.2,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99829864501953,
+                616.1614990234375,
+                93.05073547363281,
+                628.4151611328125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 628.8,
+          "text": "7. Analyzing case law or administrative regulations relating to employment.  ",
+          "spans": [
+            {
+              "text": "7. Analyzing case law or administrative regulations relating to employment.  ",
+              "bbox": [
+                107.997802734375,
+                628.821533203125,
+                483.5953063964844,
+                641.0751953125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 641.5,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99829864501953,
+                641.4814453125,
+                93.05073547363281,
+                653.735107421875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 654.1,
+          "text": "8. Conducting research on assignments and projects relating to various aspects of ",
+          "spans": [
+            {
+              "text": "8. Conducting research on assignments and projects relating to various aspects of ",
+              "bbox": [
+                107.997802734375,
+                654.1414184570312,
+                516.6499633789062,
+                666.3950805664062
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 666.7,
+          "text": "labor relations (e.g., grievances, legislative analysis, special projects, public ",
+          "spans": [
+            {
+              "text": "labor relations (e.g., grievances, legislative analysis, special projects, public ",
+              "bbox": [
+                125.9940185546875,
+                666.7354736328125,
+                496.5555419921875,
+                678.9891357421875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 679.4,
+          "text": "inquiries, union information requests) to obtain and/or provide information, using ",
+          "spans": [
+            {
+              "text": "inquiries, union information requests) to obtain and/or provide information, using ",
+              "bbox": [
+                125.9940185546875,
+                679.3953857421875,
+                517.9729614257812,
+                691.6490478515625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 692.1,
+          "text": "collective bargaining agreements, policies, procedures, laws, rules, and past ",
+          "spans": [
+            {
+              "text": "collective bargaining agreements, policies, procedures, laws, rules, and past ",
+              "bbox": [
+                125.9940185546875,
+                692.0553588867188,
+                500.1360778808594,
+                704.3090209960938
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 704.7,
+          "text": "practice as directed by management. ",
+          "spans": [
+            {
+              "text": "practice as directed by management. ",
+              "bbox": [
+                125.9940185546875,
+                704.71533203125,
+                309.3874816894531,
+                716.968994140625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "lines": [
+        {
+          "y": 72.3,
+          "text": "  ",
+          "spans": [
+            {
+              "text": "  ",
+              "bbox": [
+                90.0,
+                72.26311492919922,
+                96.11476135253906,
+                84.51679229736328
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 84.9,
+          "text": "9. Preparing written correspondence regarding labor relations, human resources, or ",
+          "spans": [
+            {
+              "text": "9. Preparing written correspondence regarding labor relations, human resources, or ",
+              "bbox": [
+                107.99949645996094,
+                84.92302703857422,
+                522.7369384765625,
+                97.17670440673828
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 97.6,
+          "text": "employment. ",
+          "spans": [
+            {
+              "text": "employment. ",
+              "bbox": [
+                125.99571228027344,
+                97.58293914794922,
+                192.04808044433594,
+                109.83661651611328
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 110.4,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                110.36370849609375,
+                93.49500274658203,
+                125.83956909179688
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 13.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 126.3,
+          "text": "10. Participating in groups or committees to develop or change policies and ",
+          "spans": [
+            {
+              "text": "10. Participating in groups or committees to develop or change policies and ",
+              "bbox": [
+                108.0,
+                126.32299041748047,
+                476.9682312011719,
+                138.57666015625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 139.0,
+          "text": "procedures. ",
+          "spans": [
+            {
+              "text": "procedures. ",
+              "bbox": [
+                125.9962158203125,
+                138.98289489746094,
+                187.1020965576172,
+                151.236572265625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 151.6,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99939727783203,
+                151.58250427246094,
+                93.05183410644531,
+                163.836181640625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 164.3,
+          "text": "Section 2: Knowledge and Abilities ",
+          "spans": [
+            {
+              "text": "Section 2: Knowledge and Abilities ",
+              "bbox": [
+                89.99939727783203,
+                164.3027801513672,
+                275.8534240722656,
+                176.55645751953125
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 176.9,
+          "text": "Using the rating scale(s) provided below, you will rate your experience in accordance to ",
+          "spans": [
+            {
+              "text": "Using the rating scale(s) provided below, you will rate your experience in accordance to ",
+              "bbox": [
+                89.99939727783203,
+                176.9023895263672,
+                517.8917846679688,
+                189.15606689453125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 189.6,
+          "text": "specific job-related knowledge and abilities. ",
+          "spans": [
+            {
+              "text": "specific job-related knowledge and abilities. ",
+              "bbox": [
+                89.99939727783203,
+                189.5623016357422,
+                304.59246826171875,
+                201.81597900390625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 202.2,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99939727783203,
+                202.2222137451172,
+                93.05183410644531,
+                214.47589111328125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 214.8,
+          "text": "Respond to each of the following statements by indicating how the statement applies to ",
+          "spans": [
+            {
+              "text": "Respond to each of the following statements by indicating how the statement applies to ",
+              "bbox": [
+                89.99939727783203,
+                214.8218231201172,
+                516.824462890625,
+                227.07550048828125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 227.5,
+          "text": "you. You are required to respond to every statement by marking one option from the ",
+          "spans": [
+            {
+              "text": "you. You are required to respond to every statement by marking one option from the ",
+              "bbox": [
+                89.99939727783203,
+                227.4817352294922,
+                502.05487060546875,
+                239.73541259765625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 240.1,
+          "text": "scale(s) provided. ",
+          "spans": [
+            {
+              "text": "scale(s) provided. ",
+              "bbox": [
+                89.99939727783203,
+                240.1416473388672,
+                179.83775329589844,
+                252.39532470703125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 252.8,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99939727783203,
+                252.80162048339844,
+                93.05183410644531,
+                265.0552978515625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 265.5,
+          "text": "In responding to each statement, you may refer to your FORMAL EDUCATION, ",
+          "spans": [
+            {
+              "text": "In responding to each statement, you may refer to your FORMAL EDUCATION, ",
+              "bbox": [
+                89.99939727783203,
+                265.46160888671875,
+                479.9167785644531,
+                277.71527099609375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 278.1,
+          "text": "FORMAL TRAINING COURSES, and/or WORK EXPERIENCE whether paid or ",
+          "spans": [
+            {
+              "text": "FORMAL TRAINING COURSES, and/or WORK EXPERIENCE whether paid or ",
+              "bbox": [
+                89.99939727783203,
+                278.1215515136719,
+                479.4327087402344,
+                290.3752136230469
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 290.7,
+          "text": "volunteer. ",
+          "spans": [
+            {
+              "text": "volunteer. ",
+              "bbox": [
+                89.99939727783203,
+                290.7156066894531,
+                141.3418731689453,
+                302.9692687988281
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 303.4,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99939727783203,
+                303.44140625,
+                93.05183410644531,
+                315.695068359375
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 316.1,
+          "text": "How much education, training, and/or experience do you possess in the following ",
+          "spans": [
+            {
+              "text": "How much education, training, and/or experience do you possess in the following ",
+              "bbox": [
+                89.99939727783203,
+                316.101318359375,
+                520.3701782226562,
+                328.35498046875
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 328.8,
+          "text": "areas?  ",
+          "spans": [
+            {
+              "text": "areas?  ",
+              "bbox": [
+                89.99939727783203,
+                328.7612609863281,
+                131.57296752929688,
+                341.0149230957031
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 341.4,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99939727783203,
+                341.42120361328125,
+                93.05183410644531,
+                353.67486572265625
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 354.0,
+          "text": "   Extensive Education, Training, and/or Experience —I have extensive ",
+          "spans": [
+            {
+              "text": "",
+              "bbox": [
+                107.9989013671875,
+                354.0383605957031,
+                113.01676177978516,
+                366.2041931152344
+              ],
+              "font": "Wingdings-Regular",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                113.0387191772461,
+                353.9615173339844,
+                116.09115600585938,
+                366.2151794433594
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "Extensive Education, Training, and/or Experience",
+              "bbox": [
+                125.9951171875,
+                353.9615173339844,
+                384.6245422363281,
+                366.2151794433594
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "—I have extensive ",
+              "bbox": [
+                384.5960693359375,
+                353.9615173339844,
+                478.13800048828125,
+                366.2151794433594
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 366.6,
+          "text": "education, training, and/or experience using and/or applying this knowledge or ",
+          "spans": [
+            {
+              "text": "education, training, and/or experience using and/or applying this knowledge or ",
+              "bbox": [
+                125.9951171875,
+                366.6214599609375,
+                509.40423583984375,
+                378.8751220703125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 379.3,
+          "text": "ability. I could effectively   apply this knowledge or ability to the most difficult and ",
+          "spans": [
+            {
+              "text": "ability. I could effectively",
+              "bbox": [
+                125.9951171875,
+                379.2814025878906,
+                244.64601135253906,
+                391.5350646972656
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                244.612060546875,
+                379.2814025878906,
+                247.6645050048828,
+                391.5350646972656
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "apply this knowledge or ability to the most difficult and ",
+              "bbox": [
+                247.67547607421875,
+                379.2814025878906,
+                512.986083984375,
+                391.5350646972656
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 391.9,
+          "text": "complex situations, and I could instruct others on the specific aspects of this ",
+          "spans": [
+            {
+              "text": "complex situations, and I could instruct others on the specific aspects of this ",
+              "bbox": [
+                125.99512481689453,
+                391.94134521484375,
+                498.2782897949219,
+                404.19500732421875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 404.6,
+          "text": "knowledge or ability.   ",
+          "spans": [
+            {
+              "text": "knowledge or ability. ",
+              "bbox": [
+                125.99512481689453,
+                404.6012878417969,
+                228.67788696289062,
+                416.8549499511719
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                228.7130126953125,
+                404.6012878417969,
+                231.7654571533203,
+                416.8549499511719
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 417.3,
+          "text": "   Substantial Education, Training, and/or Experience —I have substantial ",
+          "spans": [
+            {
+              "text": "",
+              "bbox": [
+                107.9989013671875,
+                417.3380432128906,
+                113.01676177978516,
+                429.5038757324219
+              ],
+              "font": "Wingdings-Regular",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                113.0387191772461,
+                417.2611999511719,
+                116.09115600585938,
+                429.5148620605469
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "Substantial Education, Training, and/or Experience",
+              "bbox": [
+                125.9951171875,
+                417.2611999511719,
+                392.51373291015625,
+                429.5148620605469
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "—I have substantial ",
+              "bbox": [
+                392.5126647949219,
+                417.2611999511719,
+                492.1792907714844,
+                429.5148620605469
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 429.9,
+          "text": "education, training, and/or experience using and/or applying this knowledge or ",
+          "spans": [
+            {
+              "text": "education, training, and/or experience using and/or applying this knowledge or ",
+              "bbox": [
+                125.9951171875,
+                429.8552551269531,
+                509.40423583984375,
+                442.1089172363281
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 442.5,
+          "text": "ability. I could effectively apply this knowledge or ability to many circumstances ",
+          "spans": [
+            {
+              "text": "ability. I could effectively apply this knowledge or ability to many circumstances ",
+              "bbox": [
+                125.9951171875,
+                442.51519775390625,
+                512.3573608398438,
+                454.76885986328125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 455.2,
+          "text": "or situations.  ",
+          "spans": [
+            {
+              "text": "or situations.",
+              "bbox": [
+                125.9951171875,
+                455.1751403808594,
+                188.3120880126953,
+                467.4288024902344
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                188.32635498046875,
+                455.1751403808594,
+                191.37879943847656,
+                467.4288024902344
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 467.8,
+          "text": "  Moderate Education, Training, and/or Experience —I have moderate ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                113.0387191772461,
+                467.84051513671875,
+                116.09115600585938,
+                480.09417724609375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "Moderate Education, Training, and/or Experience",
+              "bbox": [
+                125.9951171875,
+                467.84051513671875,
+                382.1628723144531,
+                480.09417724609375
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "—I have moderate ",
+              "bbox": [
+                382.13653564453125,
+                467.84051513671875,
+                475.66864013671875,
+                480.09417724609375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 467.9,
+          "text": "",
+          "spans": [
+            {
+              "text": "",
+              "bbox": [
+                107.9989013671875,
+                467.9173583984375,
+                113.01676177978516,
+                480.08319091796875
+              ],
+              "font": "Wingdings-Regular",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 480.5,
+          "text": "education, training, and/or experience using and/or applying this knowledge or ",
+          "spans": [
+            {
+              "text": "education, training, and/or experience using and/or applying this knowledge or ",
+              "bbox": [
+                125.9951171875,
+                480.5004577636719,
+                509.40423583984375,
+                492.7541198730469
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 493.1,
+          "text": "ability.  ",
+          "spans": [
+            {
+              "text": "ability.",
+              "bbox": [
+                125.9951171875,
+                493.0945129394531,
+                157.15086364746094,
+                505.3481750488281
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                157.2002716064453,
+                493.0945129394531,
+                160.25271606445312,
+                505.3481750488281
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 505.8,
+          "text": "   Minimal Education, Training, and/or Experience —I have limited education, ",
+          "spans": [
+            {
+              "text": "",
+              "bbox": [
+                107.997802734375,
+                505.83685302734375,
+                113.01566314697266,
+                518.002685546875
+              ],
+              "font": "Wingdings-Regular",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                113.0376205444336,
+                505.760009765625,
+                116.09005737304688,
+                518.013671875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "Minimal Education, Training, and/or Experience",
+              "bbox": [
+                125.9940185546875,
+                505.760009765625,
+                374.1562194824219,
+                518.013671875
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "—I have limited education, ",
+              "bbox": [
+                374.1529846191406,
+                505.760009765625,
+                506.86480712890625,
+                518.013671875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 518.4,
+          "text": "training, and/or experience using and/or applying this knowledge or ability.   ",
+          "spans": [
+            {
+              "text": "training, and/or experience using and/or applying this knowledge or ability. ",
+              "bbox": [
+                125.9940185546875,
+                518.419921875,
+                489.8263854980469,
+                530.673583984375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                489.8362731933594,
+                518.419921875,
+                492.8887023925781,
+                530.673583984375
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 531.1,
+          "text": "  No Education, Training, and/or Experience —I have no education, training, ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                113.03651428222656,
+                531.079833984375,
+                116.08895111083984,
+                543.33349609375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "No Education, Training, and/or Experience",
+              "bbox": [
+                125.99291229248047,
+                531.079833984375,
+                347.8371887207031,
+                543.33349609375
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": "—I have no education, training, ",
+              "bbox": [
+                347.81085205078125,
+                531.079833984375,
+                503.1918640136719,
+                543.33349609375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 531.2,
+          "text": "",
+          "spans": [
+            {
+              "text": "",
+              "bbox": [
+                107.99669647216797,
+                531.1566772460938,
+                113.01455688476562,
+                543.322509765625
+              ],
+              "font": "Wingdings-Regular",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 543.7,
+          "text": "and/or experience relevant to this knowledge or ability.  ",
+          "spans": [
+            {
+              "text": "and/or experience relevant to this knowledge or ability.",
+              "bbox": [
+                125.99290466308594,
+                543.73974609375,
+                391.2774963378906,
+                555.993408203125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                391.3685302734375,
+                543.73974609375,
+                394.42095947265625,
+                555.993408203125
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 556.4,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99610137939453,
+                556.3997192382812,
+                93.04853820800781,
+                568.6533813476562
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 569.1,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99610137939453,
+                569.0596923828125,
+                93.04853820800781,
+                581.3133544921875
+              ],
+              "font": "Arial-BoldMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 581.7,
+          "text": "11. Knowledge of the structure and content of the English language including the  ",
+          "spans": [
+            {
+              "text": "11. Knowledge of the structure and content of the English language including the  ",
+              "bbox": [
+                107.99559783935547,
+                581.6591796875,
+                506.3198547363281,
+                593.912841796875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 594.3,
+          "text": "meaning and spelling of words, rules of composition, and grammar in order to ",
+          "spans": [
+            {
+              "text": "meaning and spelling of words, rules of composition, and grammar in order to ",
+              "bbox": [
+                125.9918212890625,
+                594.3191528320312,
+                505.64910888671875,
+                606.5728149414062
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 607.0,
+          "text": "effectively communicate in writing and verbally to others. ",
+          "spans": [
+            {
+              "text": "effectively communicate in writing and verbally to others. ",
+              "bbox": [
+                125.9918212890625,
+                606.9791259765625,
+                404.17132568359375,
+                619.2327880859375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 619.6,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99500274658203,
+                619.6390380859375,
+                93.04743957519531,
+                631.8927001953125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 632.2,
+          "text": "12. Knowledge of arithmetic computations such as addition, subtraction, ",
+          "spans": [
+            {
+              "text": "12. Knowledge of arithmetic computations such as addition, subtraction, ",
+              "bbox": [
+                107.99449920654297,
+                632.2386474609375,
+                460.4576416015625,
+                644.4923095703125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 644.9,
+          "text": "multiplication, division, ratios, decimals, and percentages. ",
+          "spans": [
+            {
+              "text": "multiplication, division, ratios, decimals, and percentages. ",
+              "bbox": [
+                125.99072265625,
+                644.8985595703125,
+                409.1152038574219,
+                657.1522216796875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 657.6,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.993896484375,
+                657.5585327148438,
+                93.04633331298828,
+                669.8121948242188
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 670.2,
+          "text": "13.  Knowledge of problem solving processes to facilitate the resolution of issues. ",
+          "spans": [
+            {
+              "text": "13.  Knowledge of problem solving processes to facilitate the resolution of issues. ",
+              "bbox": [
+                107.99340057373047,
+                670.2183837890625,
+                506.3463439941406,
+                682.4720458984375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "lines": [
+        {
+          "y": 72.3,
+          "text": "14. Knowledge of internet, electronic mail software, and other basic personal ",
+          "spans": [
+            {
+              "text": "14. Knowledge of internet, electronic mail software, and other basic personal ",
+              "bbox": [
+                108.0,
+                72.26311492919922,
+                482.9853210449219,
+                84.51679229736328
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 84.9,
+          "text": "computer functions and software applications to complete projects and ",
+          "spans": [
+            {
+              "text": "computer functions and software applications to complete projects and ",
+              "bbox": [
+                125.9962158203125,
+                84.92302703857422,
+                472.1228332519531,
+                97.17670440673828
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 97.6,
+          "text": "assignments. ",
+          "spans": [
+            {
+              "text": "assignments. ",
+              "bbox": [
+                125.9962158203125,
+                97.58293914794922,
+                193.8240509033203,
+                109.83661651611328
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 110.2,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99939727783203,
+                110.18248748779297,
+                93.05183410644531,
+                122.43616485595703
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 122.8,
+          "text": "15. Ability to use a personal computer to input data, access information, and/or ",
+          "spans": [
+            {
+              "text": "15. Ability to use a personal computer to input data, access information, and/or ",
+              "bbox": [
+                107.9989013671875,
+                122.84252166748047,
+                493.3810729980469,
+                135.09619140625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 135.5,
+          "text": "create materials, documents and presentations using a variety of software ",
+          "spans": [
+            {
+              "text": "create materials, documents and presentations using a variety of software ",
+              "bbox": [
+                125.9951171875,
+                135.50242614746094,
+                488.52581787109375,
+                147.756103515625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 148.2,
+          "text": "applications. ",
+          "spans": [
+            {
+              "text": "applications. ",
+              "bbox": [
+                125.9951171875,
+                148.16233825683594,
+                190.167724609375,
+                160.416015625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 160.8,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99829864501953,
+                160.8223114013672,
+                93.05073547363281,
+                173.07598876953125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 173.5,
+          "text": "16. Ability to handle stressful or sensitive situations with professionalism, tact, and ",
+          "spans": [
+            {
+              "text": "16. Ability to handle stressful or sensitive situations with professionalism, tact, and ",
+              "bbox": [
+                107.997802734375,
+                173.4822235107422,
+                509.2386474609375,
+                185.73590087890625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 186.1,
+          "text": "diplomacy in order to achieve a resolution. ",
+          "spans": [
+            {
+              "text": "diplomacy in order to achieve a resolution. ",
+              "bbox": [
+                125.9940185546875,
+                186.07627868652344,
+                335.0862121582031,
+                198.3299560546875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 198.7,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99720001220703,
+                198.74168395996094,
+                93.04963684082031,
+                210.995361328125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 211.4,
+          "text": "17. Ability to work with all levels in an organization to provide information and ensure ",
+          "spans": [
+            {
+              "text": "17. Ability to work with all levels in an organization to provide information and ensure ",
+              "bbox": [
+                107.99669647216797,
+                211.40171813964844,
+                521.5426025390625,
+                223.6553955078125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 224.1,
+          "text": "employer is in compliance with labor/management relations laws, policies, ",
+          "spans": [
+            {
+              "text": "employer is in compliance with labor/management relations laws, policies, ",
+              "bbox": [
+                125.992919921875,
+                224.06163024902344,
+                488.33709716796875,
+                236.3153076171875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 236.7,
+          "text": "procedures, and labor agreements. ",
+          "spans": [
+            {
+              "text": "procedures, and labor agreements. ",
+              "bbox": [
+                125.992919921875,
+                236.72154235839844,
+                300.1619873046875,
+                248.9752197265625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 249.3,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99610137939453,
+                249.3210906982422,
+                93.04853820800781,
+                261.57476806640625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 262.0,
+          "text": "18. Ability to analyze various forms of data to provide statistical and/or informational ",
+          "spans": [
+            {
+              "text": "18. Ability to analyze various forms of data to provide statistical and/or informational ",
+              "bbox": [
+                107.99559783935547,
+                261.98101806640625,
+                517.23974609375,
+                274.23468017578125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 274.6,
+          "text": "reports to management or others. ",
+          "spans": [
+            {
+              "text": "reports to management or others. ",
+              "bbox": [
+                125.9918212890625,
+                274.6409606933594,
+                292.3036804199219,
+                286.8946228027344
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 287.3,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99500274658203,
+                287.3009033203125,
+                93.04743957519531,
+                299.5545654296875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 300.0,
+          "text": "19. Ability to analyze and apply appropriate laws, rules, regulations, and collective ",
+          "spans": [
+            {
+              "text": "19. Ability to analyze and apply appropriate laws, rules, regulations, and collective ",
+              "bbox": [
+                107.99449920654297,
+                299.9609069824219,
+                508.6754150390625,
+                312.2145690917969
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 312.6,
+          "text": "bargaining agreements.  ",
+          "spans": [
+            {
+              "text": "bargaining agreements.  ",
+              "bbox": [
+                125.99072265625,
+                312.5549621582031,
+                247.63592529296875,
+                324.8086242675781
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 325.2,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.993896484375,
+                325.2203063964844,
+                93.04633331298828,
+                337.4739685058594
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 337.9,
+          "text": "20. Ability to conduct research from various sources, compile information and data, ",
+          "spans": [
+            {
+              "text": "20. Ability to conduct research from various sources, compile information and data, ",
+              "bbox": [
+                107.99340057373047,
+                337.88031005859375,
+                513.5603637695312,
+                350.13397216796875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 350.5,
+          "text": "analyze, develop, evaluate alternatives and take effective action. ",
+          "spans": [
+            {
+              "text": "analyze, develop, evaluate alternatives and take effective action. ",
+              "bbox": [
+                125.9896240234375,
+                350.5402526855469,
+                443.40399169921875,
+                362.7939147949219
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 363.2,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.9927978515625,
+                363.2001953125,
+                93.04523468017578,
+                375.453857421875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 375.9,
+          "text": "21.  Ability to use good judgment and make sound recommendations in critical  ",
+          "spans": [
+            {
+              "text": "21.  Ability to use good judgment and make sound recommendations in critical  ",
+              "bbox": [
+                107.99230194091797,
+                375.860107421875,
+                494.0345458984375,
+                388.11376953125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 388.5,
+          "text": "situations. ",
+          "spans": [
+            {
+              "text": "situations. ",
+              "bbox": [
+                125.988525390625,
+                388.45416259765625,
+                178.5871124267578,
+                400.70782470703125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 401.1,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99169921875,
+                401.1195983886719,
+                93.04413604736328,
+                413.3732604980469
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 413.8,
+          "text": "22. Ability to maintain confidentiality to preserve the integrity of labor relations issues ",
+          "spans": [
+            {
+              "text": "22. Ability to maintain confidentiality to preserve the integrity of labor relations issues ",
+              "bbox": [
+                107.99120330810547,
+                413.7795104980469,
+                521.4861450195312,
+                426.0331726074219
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 426.4,
+          "text": "or human resources related matters. ",
+          "spans": [
+            {
+              "text": "or human resources related matters. ",
+              "bbox": [
+                125.9874267578125,
+                426.439453125,
+                306.36346435546875,
+                438.693115234375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 439.1,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.9906005859375,
+                439.0993957519531,
+                93.04303741455078,
+                451.3530578613281
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 451.7,
+          "text": "23.  Ability to support and advocate an employer’s positions to others.  ",
+          "spans": [
+            {
+              "text": "23.  Ability to support and advocate an employer’s positions to others.  ",
+              "bbox": [
+                107.99009704589844,
+                451.6990051269531,
+                452.4306640625,
+                463.9526672363281
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 477.0,
+          "text": "24. Ability to communicate and promote a cooperative working environment during ",
+          "spans": [
+            {
+              "text": "24. Ability to communicate and promote a cooperative working environment during ",
+              "bbox": [
+                107.99009704589844,
+                477.018798828125,
+                511.13824462890625,
+                489.2724609375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 489.7,
+          "text": "stressful situations in the resolutions of issues. ",
+          "spans": [
+            {
+              "text": "stressful situations in the resolutions of issues. ",
+              "bbox": [
+                125.99728393554688,
+                489.6787414550781,
+                355.2529602050781,
+                501.9324035644531
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 502.3,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.989501953125,
+                502.3387451171875,
+                93.04193878173828,
+                514.5924072265625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 515.0,
+          "text": "25. Ability to communicate with all levels in an organization to provide and/or ",
+          "spans": [
+            {
+              "text": "25. Ability to communicate with all levels in an organization to provide and/or ",
+              "bbox": [
+                107.98899841308594,
+                514.9987182617188,
+                482.4155578613281,
+                527.2523803710938
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 527.6,
+          "text": "summarize information related to labor/management relations laws, policies, ",
+          "spans": [
+            {
+              "text": "summarize information related to labor/management relations laws, policies, ",
+              "bbox": [
+                125.98521423339844,
+                527.5927734375,
+                499.582763671875,
+                539.846435546875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 540.3,
+          "text": "procedures, and labor agreements. ",
+          "spans": [
+            {
+              "text": "procedures, and labor agreements. ",
+              "bbox": [
+                125.98521423339844,
+                540.252685546875,
+                300.154296875,
+                552.50634765625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 552.9,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.9884033203125,
+                552.9180908203125,
+                93.04084014892578,
+                565.1717529296875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 565.6,
+          "text": "26. Ability to be flexible in adapting to changes in priorities, assignments, and/or ",
+          "spans": [
+            {
+              "text": "26. Ability to be flexible in adapting to changes in priorities, assignments, and/or ",
+              "bbox": [
+                107.98789978027344,
+                565.5780029296875,
+                498.3703918457031,
+                577.8316650390625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 578.2,
+          "text": "other interruptions, which may impact pre-established timelines and courses of ",
+          "spans": [
+            {
+              "text": "other interruptions, which may impact pre-established timelines and courses of ",
+              "bbox": [
+                125.98411560058594,
+                578.2379150390625,
+                511.2818298339844,
+                590.4915771484375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 590.8,
+          "text": "action for completing projects and assignments. ",
+          "spans": [
+            {
+              "text": "action for completing projects and assignments. ",
+              "bbox": [
+                125.98411560058594,
+                590.83203125,
+                361.383056640625,
+                603.085693359375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 603.5,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.98729705810547,
+                603.4974975585938,
+                93.03973388671875,
+                615.7511596679688
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 616.2,
+          "text": "27. Ability to evaluate written materials and make recommendations for action based ",
+          "spans": [
+            {
+              "text": "27. Ability to evaluate written materials and make recommendations for action based ",
+              "bbox": [
+                107.98680114746094,
+                616.1574096679688,
+                521.5454711914062,
+                628.4110717773438
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 628.8,
+          "text": "upon documented data and information. ",
+          "spans": [
+            {
+              "text": "upon documented data and information. ",
+              "bbox": [
+                125.98301696777344,
+                628.8173828125,
+                323.47576904296875,
+                641.071044921875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 641.5,
+          "text": "   ",
+          "spans": [
+            {
+              "text": "   ",
+              "bbox": [
+                89.98619842529297,
+                641.477294921875,
+                99.16328430175781,
+                653.73095703125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 654.1,
+          "text": "28. Ability to write clear and concise reports, correspondence, policies or procedures ",
+          "spans": [
+            {
+              "text": "28. Ability to write clear and concise reports, correspondence, policies or procedures ",
+              "bbox": [
+                107.98570251464844,
+                654.13720703125,
+                521.4690551757812,
+                666.390869140625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 666.7,
+          "text": "using proper English, grammar, punctuation, and sentence structure. ",
+          "spans": [
+            {
+              "text": "using proper English, grammar, punctuation, and sentence structure. ",
+              "bbox": [
+                125.98191833496094,
+                666.7312622070312,
+                463.5210266113281,
+                678.9849243164062
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 679.4,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.98509979248047,
+                679.396728515625,
+                93.03753662109375,
+                691.650390625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 692.1,
+          "text": "29. Ability to interpret data obtained through various methods, such as surveys, ",
+          "spans": [
+            {
+              "text": "29. Ability to interpret data obtained through various methods, such as surveys, ",
+              "bbox": [
+                107.9845962524414,
+                692.056640625,
+                495.719970703125,
+                704.310302734375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 704.7,
+          "text": "questionnaires, or interviews. ",
+          "spans": [
+            {
+              "text": "questionnaires, or interviews. ",
+              "bbox": [
+                125.98081970214844,
+                704.716552734375,
+                271.44384765625,
+                716.97021484375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "lines": [
+        {
+          "y": 72.3,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                72.26311492919922,
+                93.05243682861328,
+                84.51679229736328
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 84.9,
+          "text": "30. Ability to extract specific, relevant data and information from a larger body of ",
+          "spans": [
+            {
+              "text": "30. Ability to extract specific, relevant data and information from a larger body of ",
+              "bbox": [
+                107.99949645996094,
+                84.92302703857422,
+                499.53118896484375,
+                97.17670440673828
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 97.6,
+          "text": "material. ",
+          "spans": [
+            {
+              "text": "material. ",
+              "bbox": [
+                125.99571228027344,
+                97.58293914794922,
+                171.2245330810547,
+                109.83661651611328
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 110.2,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.9989013671875,
+                110.18248748779297,
+                93.05133819580078,
+                122.43616485595703
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 122.8,
+          "text": "31. Ability to read and comprehend various technical documents such as policies, ",
+          "spans": [
+            {
+              "text": "31. Ability to read and comprehend various technical documents such as policies, ",
+              "bbox": [
+                107.99839782714844,
+                122.84252166748047,
+                506.9310607910156,
+                135.09619140625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 135.5,
+          "text": "procedures, standards, regulations, technical reports, and/or contracts. ",
+          "spans": [
+            {
+              "text": "procedures, standards, regulations, technical reports, and/or contracts. ",
+              "bbox": [
+                125.99461364746094,
+                135.50242614746094,
+                473.2323913574219,
+                147.756103515625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 148.2,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.997802734375,
+                148.1622772216797,
+                93.05023956298828,
+                160.41595458984375
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 160.8,
+          "text": "32.  Ability to present data in a clear and logical format such as tables, bar charts, pie ",
+          "spans": [
+            {
+              "text": "32.  Ability to present data in a clear and logical format such as tables, bar charts, pie ",
+              "bbox": [
+                107.99729919433594,
+                160.8223114013672,
+                524.6318969726562,
+                173.07598876953125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 173.5,
+          "text": "charts, and line graphs in order to determine the meaning of data presented for ",
+          "spans": [
+            {
+              "text": "charts, and line graphs in order to determine the meaning of data presented for ",
+              "bbox": [
+                125.99351501464844,
+                173.4822235107422,
+                513.0399169921875,
+                185.73590087890625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 186.1,
+          "text": "assigned programs and/or projects. ",
+          "spans": [
+            {
+              "text": "assigned programs and/or projects. ",
+              "bbox": [
+                125.99351501464844,
+                186.07627868652344,
+                301.54168701171875,
+                198.3299560546875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 198.7,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99669647216797,
+                198.74168395996094,
+                93.04913330078125,
+                210.995361328125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 211.4,
+          "text": "33. Ability to analyze and evaluate policies and/or procedures for effectiveness ",
+          "spans": [
+            {
+              "text": "33. Ability to analyze and evaluate policies and/or procedures for effectiveness ",
+              "bbox": [
+                107.99620056152344,
+                211.40171813964844,
+                492.9326171875,
+                223.6553955078125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 224.1,
+          "text": "and/or impact. ",
+          "spans": [
+            {
+              "text": "and/or impact. ",
+              "bbox": [
+                125.99241638183594,
+                224.06163024902344,
+                198.75247192382812,
+                236.3153076171875
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 236.7,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99559783935547,
+                236.7214813232422,
+                93.04803466796875,
+                248.97515869140625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 249.3,
+          "text": "34. Ability to establish and maintain cooperative working relationships and credibility ",
+          "spans": [
+            {
+              "text": "34. Ability to establish and maintain cooperative working relationships and credibility ",
+              "bbox": [
+                107.99510192871094,
+                249.3210906982422,
+                519.0167236328125,
+                261.57476806640625
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 262.0,
+          "text": "with others. ",
+          "spans": [
+            {
+              "text": "with others. ",
+              "bbox": [
+                125.99131774902344,
+                261.98101806640625,
+                185.27340698242188,
+                274.23468017578125
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 274.6,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99449920654297,
+                274.6410217285156,
+                93.04693603515625,
+                286.8946838378906
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 300.0,
+          "text": "     ",
+          "spans": [
+            {
+              "text": "     ",
+              "bbox": [
+                89.99449920654297,
+                299.9609069824219,
+                105.29623413085938,
+                312.2145690917969
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 325.2,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99449920654297,
+                325.2203063964844,
+                93.04693603515625,
+                337.4739685058594
+              ],
+              "font": "ArialMT",
+              "size": 10.979999542236328,
+              "color": "0x0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

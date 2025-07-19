@@ -1,0 +1,622 @@
+{
+  "filename": "tester6.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "y": 186.9,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                363.4800109863281,
+                186.88272094726562,
+                366.2400207519531,
+                201.3892822265625
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 11.039999961853027,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 196.7,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                306.0,
+                196.7159881591797,
+                309.0,
+                212.48399353027344
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 210.5,
+          "text": "NICOLE LURIE, M.D., M.S.P.H. ",
+          "spans": [
+            {
+              "text": "NICOLE LURIE, M.D., M.S.P.H. ",
+              "bbox": [
+                219.47999572753906,
+                210.52796936035156,
+                395.52001953125,
+                226.5239715576172
+              ],
+              "font": "TimesNewRomanPS-BoldMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 224.3,
+          "text": "Assistant Secretary for Preparedness and Response ",
+          "spans": [
+            {
+              "text": "Assistant Secretary for Preparedness and Response ",
+              "bbox": [
+                183.48001098632812,
+                224.3159637451172,
+                431.4000244140625,
+                240.08396911621094
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 238.1,
+          "text": "RADM, U.S. Public Health Service ",
+          "spans": [
+            {
+              "text": "RADM, U.S. Public Health Service ",
+              "bbox": [
+                220.44003295898438,
+                238.11595153808594,
+                394.4400329589844,
+                253.8839569091797
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 251.9,
+          "text": "U.S. Department of Health and Human Services ",
+          "spans": [
+            {
+              "text": "U.S. Department of Health and Human Services ",
+              "bbox": [
+                190.32003784179688,
+                251.9159393310547,
+                424.56005859375,
+                267.6839294433594
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 265.7,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.00006103515625,
+                265.7159423828125,
+                93.00006103515625,
+                281.4839172363281
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 279.5,
+          "text": "Dr. Lurie is the Assistant Secretary for Preparedness and Response (ASPR) at the U.S. ",
+          "spans": [
+            {
+              "text": "Dr. Lurie is the Assistant Secretary for Preparedness and Response (ASPR) at the U.S. ",
+              "bbox": [
+                90.00006103515625,
+                279.51593017578125,
+                508.9200744628906,
+                295.2839050292969
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 293.3,
+          "text": "Department of Health and Human Services (HHS). As such, she serves as the Secretary's ",
+          "spans": [
+            {
+              "text": "Department of Health and Human Services (HHS). As such, she serves as the Secretary's ",
+              "bbox": [
+                90.00009155273438,
+                293.31591796875,
+                519.9600830078125,
+                309.0838928222656
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 307.1,
+          "text": "principal advisor on matters related to bioterrorism and other public health emergencies. ",
+          "spans": [
+            {
+              "text": "principal advisor on matters related to bioterrorism and other public health emergencies. ",
+              "bbox": [
+                90.00010681152344,
+                307.11590576171875,
+                516.83984375,
+                322.8838806152344
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 320.9,
+          "text": "Her office is the lead agency for federal public health and medical preparedness and ",
+          "spans": [
+            {
+              "text": "Her office is the lead agency for federal public health and medical preparedness and ",
+              "bbox": [
+                90.00010681152344,
+                320.9158935546875,
+                496.4400329589844,
+                336.6838684082031
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 334.7,
+          "text": "response, helping the nation prepare for, respond to, and recover from disasters.  ",
+          "spans": [
+            {
+              "text": "response, helping the nation prepare for, respond to, and recover from disasters.  ",
+              "bbox": [
+                90.00010681152344,
+                334.71588134765625,
+                478.91998291015625,
+                350.4838562011719
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 353.6,
+          "text": "Prior to her current position, she served as Senior Natural Scientist and Paul O’ Neill ",
+          "spans": [
+            {
+              "text": "Prior to her current position, she served as Senior Natural Scientist and Paul O’ Neill ",
+              "bbox": [
+                90.00010681152344,
+                353.55584716796875,
+                525.0,
+                369.3238525390625
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 367.4,
+          "text": "Alcoa Professor of Health Policy at the RAND Corporation.  There she directed RAND’s ",
+          "spans": [
+            {
+              "text": "Alcoa Professor of Health Policy at the RAND Corporation.  There she directed RAND’s ",
+              "bbox": [
+                90.00009155273438,
+                367.3558349609375,
+                525.0012817382812,
+                383.12384033203125
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 381.2,
+          "text": "public health and preparedness work as well as RAND’s Center for Population Health ",
+          "spans": [
+            {
+              "text": "public health and preparedness work as well as RAND’s Center for Population Health ",
+              "bbox": [
+                90.00009155273438,
+                381.15582275390625,
+                525.0000610351562,
+                396.923828125
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 395.0,
+          "text": "and Health Disparities.  She has previously served in federal government, as Principal ",
+          "spans": [
+            {
+              "text": "and Health Disparities.  She has previously served in federal government, as Principal ",
+              "bbox": [
+                90.00009155273438,
+                394.955810546875,
+                524.9998779296875,
+                410.72381591796875
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 408.8,
+          "text": "Deputy Assistant Secretary of Health in the HHS; in state government as Medical ",
+          "spans": [
+            {
+              "text": "Deputy Assistant Secretary of Health in the HHS; in state government as Medical ",
+              "bbox": [
+                90.00009155273438,
+                408.75579833984375,
+                524.9998168945312,
+                424.5238037109375
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 422.6,
+          "text": "Advisor to the Commissioner at the Minnesota Department of Health; and in academia, ",
+          "spans": [
+            {
+              "text": "Advisor to the Commissioner at the Minnesota Department of Health; and in academia, ",
+              "bbox": [
+                90.00009155273438,
+                422.5557861328125,
+                524.9998779296875,
+                438.32379150390625
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 436.4,
+          "text": "as Professor in the University of Minnesota Schools of Medicine and Public Health.  Dr. ",
+          "spans": [
+            {
+              "text": "as Professor in the University of Minnesota Schools of Medicine and Public Health.  Dr. ",
+              "bbox": [
+                90.0000991821289,
+                436.35577392578125,
+                524.99755859375,
+                452.123779296875
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 450.0,
+          "text": "Lurie has a long history in the health services research field, primarily in the areas of ",
+          "spans": [
+            {
+              "text": "Lurie has a long history in the health services research field, primarily in the areas of ",
+              "bbox": [
+                90.0000991821289,
+                450.0357666015625,
+                525.0009155273438,
+                465.80377197265625
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 463.8,
+          "text": "access to and quality of care, managed care, mental health, prevention, public health ",
+          "spans": [
+            {
+              "text": "access to and quality of care, managed care, mental health, prevention, public health ",
+              "bbox": [
+                90.0000991821289,
+                463.83575439453125,
+                524.9999389648438,
+                479.603759765625
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 477.6,
+          "text": "infrastructure and preparedness and health disparities. ",
+          "spans": [
+            {
+              "text": "infrastructure and preparedness and health disparities. ",
+              "bbox": [
+                90.0000991821289,
+                477.6357421875,
+                351.5999755859375,
+                493.40374755859375
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 501.5,
+          "text": "Dr. Lurie attended college and medical school at the University of Pennsylvania, and ",
+          "spans": [
+            {
+              "text": "Dr. Lurie attended college and medical school at the University of Pennsylvania, and ",
+              "bbox": [
+                90.0000991821289,
+                501.5157470703125,
+                524.9988403320312,
+                517.2837524414062
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 515.3,
+          "text": "completed her residency and MSPH at UCLA, where she was also a Robert Wood ",
+          "spans": [
+            {
+              "text": "completed her residency and MSPH at UCLA, where she was also a Robert Wood ",
+              "bbox": [
+                90.0000991821289,
+                515.3157958984375,
+                524.9974975585938,
+                531.0838012695312
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 529.1,
+          "text": "Johnson Foundation Clinical Scholar.  She served as Senior Editor for Health Services ",
+          "spans": [
+            {
+              "text": "Johnson Foundation Clinical Scholar.  She served as Senior Editor for Health Services ",
+              "bbox": [
+                90.0000991821289,
+                529.1157836914062,
+                525.00244140625,
+                544.8837890625
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 542.9,
+          "text": "Research and has served on editorial boards and as a reviewer for numerous journals.  ",
+          "spans": [
+            {
+              "text": "Research and has served on editorial boards and as a reviewer for numerous journals.  ",
+              "bbox": [
+                90.0000991821289,
+                542.915771484375,
+                528.0011596679688,
+                558.6837768554688
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 556.7,
+          "text": "She has served on the council and was President of the Society of General Internal ",
+          "spans": [
+            {
+              "text": "She has served on the council and was President of the Society of General Internal ",
+              "bbox": [
+                90.0000991821289,
+                556.7157592773438,
+                525.0001220703125,
+                572.4837646484375
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 570.5,
+          "text": "Medicine, and on the board of directors for Academy Health, and has served on multiple ",
+          "spans": [
+            {
+              "text": "Medicine, and on the board of directors for Academy Health, and has served on multiple ",
+              "bbox": [
+                90.00010681152344,
+                570.5157470703125,
+                525.0001220703125,
+                586.2837524414062
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 584.3,
+          "text": "other national committees.  She is the recipient of numerous awards, including the AHSR ",
+          "spans": [
+            {
+              "text": "other national committees.  She is the recipient of numerous awards, including the AHSR ",
+              "bbox": [
+                90.00015258789062,
+                584.3157958984375,
+                525.0,
+                600.0838012695312
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 598.1,
+          "text": "Young Investigator Award, the Nellie Westerman Prize for Research in Ethics, the ",
+          "spans": [
+            {
+              "text": "Young Investigator Award, the Nellie Westerman Prize for Research in Ethics, the ",
+              "bbox": [
+                90.00015258789062,
+                598.1157836914062,
+                524.99755859375,
+                613.8837890625
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 611.9,
+          "text": "Heroine in Health Care Award, the University of Pennsylvania School of Medicine’s ",
+          "spans": [
+            {
+              "text": "Heroine in Health Care Award, the University of Pennsylvania School of Medicine’s ",
+              "bbox": [
+                90.00015258789062,
+                611.915771484375,
+                525.0001831054688,
+                627.6837768554688
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 625.7,
+          "text": "Distinguished Alumni Award, and is a member of the Institute of Medicine. ",
+          "spans": [
+            {
+              "text": "Distinguished Alumni Award, and is a member of the Institute of Medicine. ",
+              "bbox": [
+                90.00015258789062,
+                625.7158203125,
+                457.1999816894531,
+                641.4838256835938
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 649.5,
+          "text": "Dr. Lurie continues to practice clinical medicine in the health care safety net in ",
+          "spans": [
+            {
+              "text": "Dr. Lurie continues to practice clinical medicine in the health care safety net in ",
+              "bbox": [
+                90.00015258789062,
+                649.4757690429688,
+                525.0001220703125,
+                665.2437744140625
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 663.3,
+          "text": "Washington, DC. ",
+          "spans": [
+            {
+              "text": "Washington, DC. ",
+              "bbox": [
+                90.00015258789062,
+                663.2757568359375,
+                176.64015197753906,
+                679.0437622070312
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

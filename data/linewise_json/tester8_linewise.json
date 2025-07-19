@@ -1,0 +1,820 @@
+{
+  "filename": "tester8.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "y": 34.7,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                67.68000030517578,
+                34.71598815917969,
+                70.68000030517578,
+                50.483985900878906
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 70.7,
+          "text": "3G - WATER RIGHTS ADJUDICATION    ",
+          "spans": [
+            {
+              "text": "3G - WATER RIGHTS ADJUDICATION ",
+              "bbox": [
+                67.68000030517578,
+                70.72798156738281,
+                287.280029296875,
+                86.7239761352539
+              ],
+              "font": "TimesNewRomanPS-BoldMT",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": "  ",
+              "bbox": [
+                287.280029296875,
+                70.72798156738281,
+                293.3999938964844,
+                86.7239761352539
+              ],
+              "font": "TimesNewRomanPS-BoldMT",
+              "size": 12.0,
+              "color": "0xff0000"
+            }
+          ]
+        },
+        {
+          "y": 86.3,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                80.63999938964844,
+                86.32801818847656,
+                83.63999938964844,
+                102.32401275634766
+              ],
+              "font": "TimesNewRomanPS-BoldMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 100.1,
+          "text": " Adjudication of water rights through the state courts should be completed to fully define ",
+          "spans": [
+            {
+              "text": " Adjudication of water rights through the state courts should be completed to fully define ",
+              "bbox": [
+                80.63999938964844,
+                100.12800598144531,
+                539.0401000976562,
+                116.1240005493164
+              ],
+              "font": "TimesNewRomanPS-BoldMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 113.9,
+          "text": "and quantify all state, tribal and federal water rights.  ",
+          "spans": [
+            {
+              "text": "and quantify all state, tribal and federal water rights.  ",
+              "bbox": [
+                80.63999938964844,
+                113.92799377441406,
+                359.2799987792969,
+                129.9239959716797
+              ],
+              "font": "TimesNewRomanPS-BoldMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 127.8,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                80.63999938964844,
+                127.83598327636719,
+                83.63999938964844,
+                143.60398864746094
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 143.2,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                67.68000030517578,
+                143.20802307128906,
+                70.68000030517578,
+                159.2040252685547
+              ],
+              "font": "TimesNewRomanPS-BoldMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 157.0,
+          "text": "Discussion: ",
+          "spans": [
+            {
+              "text": "Discussion: ",
+              "bbox": [
+                67.68000030517578,
+                157.0080108642578,
+                128.63999938964844,
+                173.00401306152344
+              ],
+              "font": "TimesNewRomanPS-BoldMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 170.8,
+          "text": "The purpose of a general stream adjudication is to provide certainty and predictability in the ",
+          "spans": [
+            {
+              "text": "The purpose of a general stream adjudication is to provide certainty and predictability in the ",
+              "bbox": [
+                67.68000030517578,
+                170.79600524902344,
+                512.3995971679688,
+                186.5640106201172
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 184.6,
+          "text": "administration and distribution of water diverting from hydraulically connected water sources.  The ",
+          "spans": [
+            {
+              "text": "administration and distribution of water diverting from hydraulically connected water sources.  The ",
+              "bbox": [
+                67.67999267578125,
+                184.5959930419922,
+                548.1598510742188,
+                200.36399841308594
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 198.4,
+          "text": "need for a general adjudication of water rights in the Snake River Basin became apparent as the ",
+          "spans": [
+            {
+              "text": "need for a general adjudication of water rights in the Snake River Basin became apparent as the ",
+              "bbox": [
+                67.67999267578125,
+                198.39598083496094,
+                529.0797729492188,
+                214.1639862060547
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 212.2,
+          "text": "spring flows in the Thousand Springs reach began to decline and disputes arose over the availability ",
+          "spans": [
+            {
+              "text": "spring flows in the Thousand Springs reach began to decline and disputes arose over the availability ",
+              "bbox": [
+                67.67999267578125,
+                212.1959686279297,
+                550.6798095703125,
+                227.96397399902344
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 226.0,
+          "text": "of water supplies on the Snake River Plain.  As part of the 1984 Swan Falls Agreement, the State ",
+          "spans": [
+            {
+              "text": "of water supplies on the Snake River Plain.  As part of the 1984 Swan Falls Agreement, the State ",
+              "bbox": [
+                67.67999267578125,
+                225.99595642089844,
+                536.39990234375,
+                241.7639617919922
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 239.8,
+          "text": "agreed to commence the Snake River Basin Adjudication, the largest legal proceeding in the history ",
+          "spans": [
+            {
+              "text": "agreed to commence the Snake River Basin Adjudication, the largest legal proceeding in the history ",
+              "bbox": [
+                67.67999267578125,
+                239.7959442138672,
+                550.0799560546875,
+                255.56394958496094
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 253.6,
+          "text": "of the state.  The SRBA is the cornerstone for the long-term management of the Snake River Basin ",
+          "spans": [
+            {
+              "text": "of the state.  The SRBA is the cornerstone for the long-term management of the Snake River Basin ",
+              "bbox": [
+                67.67999267578125,
+                253.59593200683594,
+                545.1599731445312,
+                269.3639221191406
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 267.4,
+          "text": "within Idaho. At the conclusion of the SRBA, the state will have a listing of all water rights within the ",
+          "spans": [
+            {
+              "text": "within Idaho. At the conclusion of the SRBA, the state will have a listing of all water rights within the ",
+              "bbox": [
+                67.67996215820312,
+                267.39593505859375,
+                560.7593994140625,
+                283.1639099121094
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 281.2,
+          "text": "basin, which is the predicate for establishing water districts to administer all water rights in ",
+          "spans": [
+            {
+              "text": "basin, which is the predicate for establishing water districts to administer all water rights in ",
+              "bbox": [
+                67.67996215820312,
+                281.1959228515625,
+                508.2235412597656,
+                296.9638977050781
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 295.0,
+          "text": "accordance with the prior appropriation doctrine, as established by law. ",
+          "spans": [
+            {
+              "text": "accordance with the prior appropriation doctrine, as established by law. ",
+              "bbox": [
+                67.67996215820312,
+                294.99591064453125,
+                413.63995361328125,
+                310.7638854980469
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 308.8,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                67.67996215820312,
+                308.7958984375,
+                70.67996215820312,
+                324.5638732910156
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 322.6,
+          "text": "Pursuant to Idaho Code § 42-1734(3), the IWRB is authorized to represent the state, when requested ",
+          "spans": [
+            {
+              "text": "Pursuant to Idaho Code § 42-1734(3), the IWRB is authorized to represent the state, when requested ",
+              "bbox": [
+                67.68000030517578,
+                322.59600830078125,
+                552.239990234375,
+                338.3639831542969
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 336.4,
+          "text": "to do so by the Governor, in proceedings, negotiations, and hearings involving the federal ",
+          "spans": [
+            {
+              "text": "to do so by the Governor, in proceedings, negotiations, and hearings involving the federal ",
+              "bbox": [
+                67.67999267578125,
+                336.39599609375,
+                501.1198425292969,
+                352.1639709472656
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 350.2,
+          "text": "government. In the SRBA, the IWRB coordinated state participation in the negotiation of federal ",
+          "spans": [
+            {
+              "text": "government. In the SRBA, the IWRB coordinated state participation in the negotiation of federal ",
+              "bbox": [
+                67.67999267578125,
+                350.19598388671875,
+                535.439453125,
+                365.9639587402344
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 364.0,
+          "text": "reserved water rights, including tribal claims. The IWRB successfully negotiated agreements ",
+          "spans": [
+            {
+              "text": "reserved water rights, including tribal claims. The IWRB successfully negotiated agreements ",
+              "bbox": [
+                67.67996215820312,
+                363.9959716796875,
+                516.47998046875,
+                379.7639465332031
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 377.8,
+          "text": "resolving federal reserved right claims including those filed by the Shoshone-Bannock, Nez Perce, ",
+          "spans": [
+            {
+              "text": "resolving federal reserved right claims including those filed by the Shoshone-Bannock, Nez Perce, ",
+              "bbox": [
+                67.67996215820312,
+                377.79595947265625,
+                543.5521240234375,
+                393.5639343261719
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 391.6,
+          "text": "and Shoshone-Paiute tribes as well as the claims of numerous federal agencies.  The final settlement ",
+          "spans": [
+            {
+              "text": "and Shoshone-Paiute tribes as well as the claims of numerous federal agencies.  The final settlement ",
+              "bbox": [
+                67.67996215820312,
+                391.595947265625,
+                551.6399536132812,
+                407.3639221191406
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 405.4,
+          "text": "of the Nez Perce Tribe’s claims reflected the tribe’s and the state’s shared interest in addressing ",
+          "spans": [
+            {
+              "text": "of the Nez Perce Tribe’s claims reflected the tribe’s and the state’s shared interest in addressing ",
+              "bbox": [
+                67.67996215820312,
+                405.39593505859375,
+                529.3198852539062,
+                421.1639099121094
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 419.2,
+          "text": "environmental concerns and addressed the conflicting demands for consumptive and nonconsumptive ",
+          "spans": [
+            {
+              "text": "environmental concerns and addressed the conflicting demands for consumptive and nonconsumptive ",
+              "bbox": [
+                67.67996215820312,
+                419.1959228515625,
+                558.599853515625,
+                434.9638977050781
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 433.0,
+          "text": "uses.   Consistent with state law, Tt he IWRB should serve as the lead agency for coordinating state ",
+          "spans": [
+            {
+              "text": "uses.  ",
+              "bbox": [
+                67.67996215820312,
+                432.99591064453125,
+                97.3199691772461,
+                448.7638854980469
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": "Consistent with state law, Tt",
+              "bbox": [
+                97.3199691772461,
+                432.99591064453125,
+                234.21600341796875,
+                448.76397705078125
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0xff0101"
+            },
+            {
+              "text": "he IWRB should serve as the lead agency for coordinating state ",
+              "bbox": [
+                234.24000549316406,
+                432.9959716796875,
+                542.39990234375,
+                448.76397705078125
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 446.8,
+          "text": "participation in all general stream adjudications.   ",
+          "spans": [
+            {
+              "text": "participation in all general stream adjudications.   ",
+              "bbox": [
+                67.68000030517578,
+                446.7960205078125,
+                307.91998291015625,
+                462.5639953613281
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 460.6,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                67.68000030517578,
+                460.59600830078125,
+                70.68000030517578,
+                476.3639831542969
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 474.4,
+          "text": "On November 12, 2008, the district court ordered the commencement of an adjudication in the Coeur ",
+          "spans": [
+            {
+              "text": "On November 12, 2008, the district court ordered the commencement of an adjudication in the Coeur ",
+              "bbox": [
+                67.68000030517578,
+                474.39599609375,
+                556.9197998046875,
+                490.1639709472656
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 488.2,
+          "text": "d’Alene Spokane River water system.  Like the SRBA, the determination of all existing water rights ",
+          "spans": [
+            {
+              "text": "d’Alene Spokane River water system.  Like the SRBA, the determination of all existing water rights ",
+              "bbox": [
+                67.68000030517578,
+                488.19598388671875,
+                551.6395263671875,
+                503.9639587402344
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 502.0,
+          "text": "from the water basins in Northern Idaho will provide the basis for administration of water rights in ",
+          "spans": [
+            {
+              "text": "from the water basins in Northern Idaho will provide the basis for administration of water rights in ",
+              "bbox": [
+                67.68000030517578,
+                501.9959716796875,
+                543.83984375,
+                517.7639770507812
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 515.8,
+          "text": "accordance with the prior appropriation doctrine, as established by law.  ",
+          "spans": [
+            {
+              "text": "accordance with the prior appropriation doctrine, as established by law.  ",
+              "bbox": [
+                67.68000030517578,
+                515.7959594726562,
+                416.6399841308594,
+                531.56396484375
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 529.6,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                67.67999267578125,
+                529.595947265625,
+                70.67999267578125,
+                545.3639526367188
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 543.4,
+          "text": "   ",
+          "spans": [
+            {
+              "text": "   ",
+              "bbox": [
+                67.67999267578125,
+                543.39599609375,
+                76.67999267578125,
+                559.1640014648438
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 557.2,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                67.67999267578125,
+                557.1959838867188,
+                70.67999267578125,
+                572.9639892578125
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 571.0,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                67.67999267578125,
+                570.9959716796875,
+                70.67999267578125,
+                586.7639770507812
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 584.8,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                67.67999267578125,
+                584.7959594726562,
+                70.67999267578125,
+                600.56396484375
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 598.6,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                67.67999267578125,
+                598.595947265625,
+                70.67999267578125,
+                614.3639526367188
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 612.4,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                67.67999267578125,
+                612.39599609375,
+                70.67999267578125,
+                628.1640014648438
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 626.2,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                67.67999267578125,
+                626.1959838867188,
+                70.67999267578125,
+                641.9639892578125
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 755.3,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                67.68000030517578,
+                755.3159790039062,
+                70.68000030517578,
+                771.083984375
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

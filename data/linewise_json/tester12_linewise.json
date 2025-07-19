@@ -1,0 +1,1659 @@
+{
+  "filename": "tester12.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "y": 22.3,
+          "text": "ACCEPTANCE TESTING (AT) ",
+          "spans": [
+            {
+              "text": "ACCEPTANCE TESTING (AT) ",
+              "bbox": [
+                139.97999572753906,
+                22.319978713989258,
+                478.62957763671875,
+                49.10397720336914
+              ],
+              "font": "Arial-BoldMT",
+              "size": 24.0,
+              "color": "0xffffff"
+            }
+          ]
+        },
+        {
+          "y": 49.9,
+          "text": "TEST SITE GUIDELINES  ",
+          "spans": [
+            {
+              "text": "TEST SITE GUIDELINES",
+              "bbox": [
+                168.66000366210938,
+                49.919952392578125,
+                443.3735656738281,
+                76.7039566040039
+              ],
+              "font": "Arial-BoldMT",
+              "size": 24.0,
+              "color": "0xffffff"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                443.2799987792969,
+                49.919952392578125,
+                449.9519958496094,
+                76.7039566040039
+              ],
+              "font": "ArialMT",
+              "size": 24.0,
+              "color": "0xffffff"
+            }
+          ]
+        },
+        {
+          "y": 79.3,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                593.9998779296875,
+                79.30799865722656,
+                596.9998779296875,
+                92.59200286865234
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 117.4,
+          "text": "Acceptance Test (AT) Environment Guidelines",
+          "spans": [
+            {
+              "text": "Acceptance Test (AT) Environment Guidelines",
+              "bbox": [
+                90.0,
+                117.44178009033203,
+                442.1133117675781,
+                135.32009887695312
+              ],
+              "font": "Arial-BoldMT",
+              "size": 16.020000457763672,
+              "color": "0xd1002b"
+            }
+          ]
+        },
+        {
+          "y": 121.1,
+          "text": "  ",
+          "spans": [
+            {
+              "text": "  ",
+              "bbox": [
+                442.0799865722656,
+                121.07987976074219,
+                448.77838134765625,
+                134.4718780517578
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 141.7,
+          "text": "The Acceptance Test (AT) environment was established for the following ",
+          "spans": [
+            {
+              "text": "The Acceptance Test (AT) environment was established for the following ",
+              "bbox": [
+                89.99996948242188,
+                141.65989685058594,
+                478.85614013671875,
+                155.05189514160156
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 155.5,
+          "text": "purposes: ",
+          "spans": [
+            {
+              "text": "purposes: ",
+              "bbox": [
+                89.99995422363281,
+                155.4598846435547,
+                146.02793884277344,
+                168.8518829345703
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 168.9,
+          "text": "•",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                107.99995422363281,
+                168.89990234375,
+                113.51995086669922,
+                183.58790588378906
+              ],
+              "font": "SymbolMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 170.1,
+          "text": " Acceptance/ Performance testing of forms and functionality prior to ",
+          "spans": [
+            {
+              "text": " Acceptance/ Performance testing of forms and functionality prior to ",
+              "bbox": [
+                113.51995086669922,
+                170.0998992919922,
+                483.564208984375,
+                183.4918975830078
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 183.8,
+          "text": "production releases ",
+          "spans": [
+            {
+              "text": "production releases ",
+              "bbox": [
+                125.99993896484375,
+                183.8398895263672,
+                234.00466918945312,
+                197.2318878173828
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 197.3,
+          "text": "•",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                107.99993896484375,
+                197.2799072265625,
+                113.51993560791016,
+                211.96791076660156
+              ],
+              "font": "SymbolMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 198.5,
+          "text": " S2S testing by agencies and applicants ",
+          "spans": [
+            {
+              "text": " S2S testing by agencies and applicants ",
+              "bbox": [
+                113.51993560791016,
+                198.4799041748047,
+                338.7994384765625,
+                211.8719024658203
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 212.2,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99993896484375,
+                212.2198944091797,
+                93.3359375,
+                225.6118927001953
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 226.2,
+          "text": "Acceptance Testing environment",
+          "spans": [
+            {
+              "text": "Acceptance Testing environment",
+              "bbox": [
+                90.0,
+                226.1769256591797,
+                294.5116882324219,
+                240.70724487304688
+              ],
+              "font": "Arial-BoldMT",
+              "size": 13.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 227.1,
+          "text": ":  http://at07web.grants.gov/  ",
+          "spans": [
+            {
+              "text": ": ",
+              "bbox": [
+                294.4200134277344,
+                227.1000213623047,
+                301.7760009765625,
+                240.4920196533203
+              ],
+              "font": "Arial-BoldMT",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": "http://at07web.grants.gov/",
+              "bbox": [
+                301.8000183105469,
+                227.1000213623047,
+                450.393798828125,
+                240.4920196533203
+              ],
+              "font": "Arial-BoldMT",
+              "size": 12.0,
+              "color": "0xff"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                450.4200134277344,
+                227.1000213623047,
+                453.7560119628906,
+                240.4920196533203
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 253.2,
+          "text": "Primary Use ",
+          "spans": [
+            {
+              "text": "Primary Use ",
+              "bbox": [
+                90.0,
+                253.1769256591797,
+                169.5222625732422,
+                267.7072448730469
+              ],
+              "font": "Arial-BoldMT",
+              "size": 13.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 271.0,
+          "text": "The primary use of AT is for the Grants.gov team to test changes to the ",
+          "spans": [
+            {
+              "text": "The primary use of AT is for the Grants.gov team to test changes to the ",
+              "bbox": [
+                90.0,
+                270.96002197265625,
+                471.5859680175781,
+                284.3520202636719
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 284.8,
+          "text": "Grants.gov system before deploying them into the production environment. ",
+          "spans": [
+            {
+              "text": "Grants.gov system before deploying them into the production environment. ",
+              "bbox": [
+                89.99998474121094,
+                284.760009765625,
+                490.25469970703125,
+                298.1520080566406
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 298.6,
+          "text": "Therefore, agencies and applicants are asked to follow these guidelines so that ",
+          "spans": [
+            {
+              "text": "Therefore, agencies and applicants are asked to follow these guidelines so that ",
+              "bbox": [
+                89.99998474121094,
+                298.55999755859375,
+                513.6106567382812,
+                311.9519958496094
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 312.4,
+          "text": "the AT environment is able to handle all of these activities without jeopardizing its ",
+          "spans": [
+            {
+              "text": "the AT environment is able to handle all of these activities without jeopardizing its ",
+              "bbox": [
+                89.99998474121094,
+                312.3599853515625,
+                524.2849731445312,
+                325.7519836425781
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 326.2,
+          "text": "primary function as the Grants.gov internal test system. In addition, following ",
+          "spans": [
+            {
+              "text": "primary function as the Grants.gov internal test system. In addition, following ",
+              "bbox": [
+                90.0,
+                326.15997314453125,
+                498.84503173828125,
+                339.5519714355469
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 340.0,
+          "text": "these guidelines will help ensure that agency and applicant users of AT will be ",
+          "spans": [
+            {
+              "text": "these guidelines will help ensure that agency and applicant users of AT will be ",
+              "bbox": [
+                90.0,
+                339.9599609375,
+                507.619384765625,
+                353.3519592285156
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 353.8,
+          "text": "able to use the system in the most equitable manner possible. ",
+          "spans": [
+            {
+              "text": "able to use the system in the most equitable manner possible. ",
+              "bbox": [
+                90.0,
+                353.75994873046875,
+                422.1070861816406,
+                367.1519470214844
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 379.7,
+          "text": "Load Testing ",
+          "spans": [
+            {
+              "text": "Load Testing ",
+              "bbox": [
+                90.0,
+                379.7168884277344,
+                174.60137939453125,
+                394.2472229003906
+              ],
+              "font": "Arial-BoldMT",
+              "size": 13.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 397.5,
+          "text": "Load testing is not permitted in the AT environment. The AT system is not built to ",
+          "spans": [
+            {
+              "text": "Load testing is not permitted in the AT environment. The AT system is not built to ",
+              "bbox": [
+                90.0,
+                397.5,
+                523.1066284179688,
+                410.8919982910156
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 411.3,
+          "text": "handle the volume of applications that production does. Please keep your daily ",
+          "spans": [
+            {
+              "text": "handle the volume of applications that production does. Please keep your daily ",
+              "bbox": [
+                90.0,
+                411.29998779296875,
+                511.0259704589844,
+                424.6919860839844
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 425.1,
+          "text": "number of submissions to a “reasonable” limited number that are of average-",
+          "spans": [
+            {
+              "text": "number of submissions to a “reasonable” limited number that are of average-",
+              "bbox": [
+                90.00001525878906,
+                425.0999755859375,
+                497.4479675292969,
+                438.4919738769531
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 438.9,
+          "text": "sized applications. ",
+          "spans": [
+            {
+              "text": "sized applications. ",
+              "bbox": [
+                90.00003051757812,
+                438.89996337890625,
+                191.35926818847656,
+                452.2919616699219
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 464.9,
+          "text": "Peak Usage Time  ",
+          "spans": [
+            {
+              "text": "Peak Usage Time  ",
+              "bbox": [
+                90.0,
+                464.8569030761719,
+                204.26614379882812,
+                479.3872375488281
+              ],
+              "font": "Arial-BoldMT",
+              "size": 13.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 482.6,
+          "text": "Peak usage times of AT tend to be from Monday through Friday from 10:00 a.m. ",
+          "spans": [
+            {
+              "text": "Peak usage times of AT tend to be from Monday through Friday from 10:00 a.m. ",
+              "bbox": [
+                90.0,
+                482.6399230957031,
+                518.9133911132812,
+                496.03192138671875
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 496.4,
+          "text": "to 3:30 p.m. Eastern Time. Delays in processing times and unexpected ",
+          "spans": [
+            {
+              "text": "to 3:30 p.m. Eastern Time. Delays in processing times and unexpected ",
+              "bbox": [
+                90.0,
+                496.4399108886719,
+                469.52178955078125,
+                509.8319091796875
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 510.2,
+          "text": "downtimes are more likely to occur during these times. Please plan your testing ",
+          "spans": [
+            {
+              "text": "downtimes are more likely to occur during these times. Please plan your testing ",
+              "bbox": [
+                90.0,
+                510.2398681640625,
+                514.1234741210938,
+                523.6318359375
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 524.0,
+          "text": "accordingly. ",
+          "spans": [
+            {
+              "text": "accordingly. ",
+              "bbox": [
+                90.00001525878906,
+                524.0399169921875,
+                157.3992156982422,
+                537.431884765625
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 550.0,
+          "text": "Report a Potential Issue ",
+          "spans": [
+            {
+              "text": "Report a Potential Issue ",
+              "bbox": [
+                90.0,
+                549.9969482421875,
+                241.7755126953125,
+                564.5272216796875
+              ],
+              "font": "Arial-BoldMT",
+              "size": 13.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 567.8,
+          "text": "To report a potential issues with Acceptance Testing environment, please ",
+          "spans": [
+            {
+              "text": "To report a potential issues with Acceptance Testing environment, please ",
+              "bbox": [
+                90.0,
+                567.780029296875,
+                482.7755432128906,
+                581.1719970703125
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 581.6,
+          "text": "send an email to the Grants.gov Contact Center at  support@grants.gov  or call ",
+          "spans": [
+            {
+              "text": "send an email to the Grants.gov Contact Center at ",
+              "bbox": [
+                90.0,
+                581.5800170898438,
+                360.8977355957031,
+                594.9719848632812
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": "support@grants.gov ",
+              "bbox": [
+                360.8399963378906,
+                581.5800170898438,
+                472.3559875488281,
+                594.9719848632812
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0xff"
+            },
+            {
+              "text": "or call ",
+              "bbox": [
+                472.3799743652344,
+                581.5800170898438,
+                507.5999450683594,
+                594.9719848632812
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 595.4,
+          "text": "1-800-518-4726 and include the following information to expedite the ",
+          "spans": [
+            {
+              "text": "1-800-518-4726 and include the following information to expedite the ",
+              "bbox": [
+                89.99996948242188,
+                595.3800048828125,
+                458.145263671875,
+                608.77197265625
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 609.2,
+          "text": "investigation and resolution of the issue: ",
+          "spans": [
+            {
+              "text": "investigation and resolution of the issue: ",
+              "bbox": [
+                89.99996948242188,
+                609.1800537109375,
+                306.8231201171875,
+                622.572021484375
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 622.6,
+          "text": "•",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                107.99996948242188,
+                622.6199951171875,
+                113.51996612548828,
+                637.3079833984375
+              ],
+              "font": "SymbolMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 623.8,
+          "text": " Description of issue ",
+          "spans": [
+            {
+              "text": " Description of issue ",
+              "bbox": [
+                113.51996612548828,
+                623.8200073242188,
+                234.06956481933594,
+                637.2119750976562
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 637.2,
+          "text": "•",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                107.99996948242188,
+                637.2000122070312,
+                113.51996612548828,
+                651.8880004882812
+              ],
+              "font": "SymbolMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 638.4,
+          "text": " Tracking numbers ",
+          "spans": [
+            {
+              "text": " Tracking numbers ",
+              "bbox": [
+                113.51996612548828,
+                638.4000244140625,
+                225.3707733154297,
+                651.7919921875
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 651.8,
+          "text": "•",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                107.99996948242188,
+                651.8400268554688,
+                113.51996612548828,
+                666.5280151367188
+              ],
+              "font": "SymbolMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 653.0,
+          "text": " Opportunity numbers ",
+          "spans": [
+            {
+              "text": " Opportunity numbers ",
+              "bbox": [
+                113.51996612548828,
+                653.0400390625,
+                241.43043518066406,
+                666.4320068359375
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 666.4,
+          "text": "•",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                107.99996948242188,
+                666.4199829101562,
+                113.51996612548828,
+                681.1079711914062
+              ],
+              "font": "SymbolMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 667.6,
+          "text": " Time issue occurred or was noticed ",
+          "spans": [
+            {
+              "text": " Time issue occurred or was noticed ",
+              "bbox": [
+                113.51996612548828,
+                667.6199951171875,
+                318.0203857421875,
+                681.011962890625
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 720.4,
+          "text": "Page 1 of 2 ",
+          "spans": [
+            {
+              "text": "Page 1 of 2 ",
+              "bbox": [
+                280.3800048828125,
+                720.4118041992188,
+                334.3377380371094,
+                731.5941162109375
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 731.9,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                306.0001525878906,
+                731.9317626953125,
+                308.78570556640625,
+                743.1140747070312
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 770.2,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                593.9998779296875,
+                770.2119140625,
+                596.7854614257812,
+                781.3942260742188
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "lines": [
+        {
+          "y": 22.3,
+          "text": "ACCEPTANCE TESTING (AT) ",
+          "spans": [
+            {
+              "text": "ACCEPTANCE TESTING (AT) ",
+              "bbox": [
+                139.97999572753906,
+                22.319978713989258,
+                478.62957763671875,
+                49.10397720336914
+              ],
+              "font": "Arial-BoldMT",
+              "size": 24.0,
+              "color": "0xffffff"
+            }
+          ]
+        },
+        {
+          "y": 49.9,
+          "text": "TEST SITE GUIDELINES  ",
+          "spans": [
+            {
+              "text": "TEST SITE GUIDELINES",
+              "bbox": [
+                168.66000366210938,
+                49.919952392578125,
+                443.3735656738281,
+                76.7039566040039
+              ],
+              "font": "Arial-BoldMT",
+              "size": 24.0,
+              "color": "0xffffff"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                443.2799987792969,
+                49.919952392578125,
+                449.9519958496094,
+                76.7039566040039
+              ],
+              "font": "ArialMT",
+              "size": 24.0,
+              "color": "0xffffff"
+            }
+          ]
+        },
+        {
+          "y": 79.3,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                593.9998779296875,
+                79.30799865722656,
+                596.9998779296875,
+                92.59200286865234
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 116.9,
+          "text": "•",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                108.0,
+                116.8798828125,
+                113.5199966430664,
+                131.56788635253906
+              ],
+              "font": "SymbolMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 118.1,
+          "text": " Contact name, email, and phone number ",
+          "spans": [
+            {
+              "text": " Contact name, email, and phone number ",
+              "bbox": [
+                113.5199966430664,
+                118.07987976074219,
+                346.720703125,
+                131.4718780517578
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 131.5,
+          "text": "•",
+          "spans": [
+            {
+              "text": "•",
+              "bbox": [
+                108.0,
+                131.45989990234375,
+                113.5199966430664,
+                146.1479034423828
+              ],
+              "font": "SymbolMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 132.7,
+          "text": " Error messages or other information that might be helpful to the ",
+          "spans": [
+            {
+              "text": " Error messages or other information that might be helpful to the ",
+              "bbox": [
+                113.5199966430664,
+                132.65989685058594,
+                466.2442932128906,
+                146.05189514160156
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 146.5,
+          "text": "Grants.gov team in troubleshooting the issue ",
+          "spans": [
+            {
+              "text": "Grants.gov team in troubleshooting the issue ",
+              "bbox": [
+                125.99998474121094,
+                146.4598846435547,
+                367.3729248046875,
+                159.8518829345703
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 172.4,
+          "text": "Announcement of New System Builds ",
+          "spans": [
+            {
+              "text": "Announcement of New System Builds ",
+              "bbox": [
+                90.0,
+                172.4169158935547,
+                327.6163024902344,
+                186.94723510742188
+              ],
+              "font": "Arial-BoldMT",
+              "size": 13.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 190.2,
+          "text": "Grants.gov will publish information about new system builds on AT in advance. ",
+          "spans": [
+            {
+              "text": "Grants.gov will publish information about new system builds on AT in advance. ",
+              "bbox": [
+                90.0,
+                190.1999969482422,
+                510.9643859863281,
+                203.5919952392578
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 204.0,
+          "text": "However, please be aware that Grants.gov may need to deploy changes to the ",
+          "spans": [
+            {
+              "text": "However, please be aware that Grants.gov may need to deploy changes to the ",
+              "bbox": [
+                90.0,
+                203.99998474121094,
+                510.9098815917969,
+                217.39198303222656
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 217.8,
+          "text": "AT environment at any time, and this may result in unexpected downtimes or ",
+          "spans": [
+            {
+              "text": "AT environment at any time, and this may result in unexpected downtimes or ",
+              "bbox": [
+                90.0,
+                217.7999725341797,
+                500.1527404785156,
+                231.1919708251953
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 231.6,
+          "text": "temporary outages of certain functionality. ",
+          "spans": [
+            {
+              "text": "temporary outages of certain functionality. ",
+              "bbox": [
+                90.0,
+                231.59996032714844,
+                316.1543884277344,
+                244.99195861816406
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 257.6,
+          "text": "Advance Notice ",
+          "spans": [
+            {
+              "text": "Advance Notice ",
+              "bbox": [
+                90.0,
+                257.5569152832031,
+                191.20187377929688,
+                272.0872497558594
+              ],
+              "font": "Arial-BoldMT",
+              "size": 13.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 275.3,
+          "text": "Please inform Grants.gov  two-weeks  in advance when you are planning to use ",
+          "spans": [
+            {
+              "text": "Please inform Grants.gov ",
+              "bbox": [
+                90.0,
+                275.34002685546875,
+                228.68638610839844,
+                288.7320251464844
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": "two-weeks ",
+              "bbox": [
+                228.72000122070312,
+                275.34002685546875,
+                288.6888427734375,
+                288.7320251464844
+              ],
+              "font": "Arial-ItalicMT",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": "in advance when you are planning to use ",
+              "bbox": [
+                288.7200012207031,
+                275.34002685546875,
+                510.23870849609375,
+                288.7320251464844
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 289.1,
+          "text": "the AT system heavily for any extended period of time or when you are under a ",
+          "spans": [
+            {
+              "text": "the AT system heavily for any extended period of time or when you are under a ",
+              "bbox": [
+                90.0,
+                289.1400146484375,
+                512.8011474609375,
+                302.5320129394531
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 302.9,
+          "text": "tight deadline. ",
+          "spans": [
+            {
+              "text": "tight deadline. ",
+              "bbox": [
+                90.0,
+                302.94000244140625,
+                168.04083251953125,
+                316.3320007324219
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 328.9,
+          "text": "Restrictions of Use ",
+          "spans": [
+            {
+              "text": "Restrictions of Use ",
+              "bbox": [
+                90.0,
+                328.8968811035156,
+                212.02215576171875,
+                343.4272155761719
+              ],
+              "font": "Arial-BoldMT",
+              "size": 13.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 346.7,
+          "text": "As the use of AT grows, Grants.gov may find it necessary to restrict the use of ",
+          "spans": [
+            {
+              "text": "As the use of AT grows, Grants.gov may find it necessary to restrict the use of ",
+              "bbox": [
+                90.0,
+                346.6800231933594,
+                507.7238464355469,
+                360.072021484375
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 360.5,
+          "text": "AT and schedule the use of AT by agencies and applicants. However, to date, ",
+          "spans": [
+            {
+              "text": "AT and schedule the use of AT by agencies and applicants. However, to date, ",
+              "bbox": [
+                90.0,
+                360.4800109863281,
+                506.9159851074219,
+                373.87200927734375
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 374.3,
+          "text": "we have had a great deal of cooperation regarding the use of the testing ",
+          "spans": [
+            {
+              "text": "we have had a great deal of cooperation regarding the use of the testing ",
+              "bbox": [
+                90.00001525878906,
+                374.2799987792969,
+                476.17425537109375,
+                387.6719970703125
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 388.1,
+          "text": "completed by both the applicant and agency community on AT. We wish for this ",
+          "spans": [
+            {
+              "text": "completed by both the applicant and agency community on AT. We wish for this ",
+              "bbox": [
+                90.0,
+                388.0799865722656,
+                516.0914916992188,
+                401.47198486328125
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 401.9,
+          "text": "type of cooperation to continue so that everyone can take advantage of this ",
+          "spans": [
+            {
+              "text": "type of cooperation to continue so that everyone can take advantage of this ",
+              "bbox": [
+                90.0,
+                401.8799743652344,
+                492.9721984863281,
+                415.27197265625
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 415.7,
+          "text": "testing environment without Grants.gov placing restrictions on its use. Please be ",
+          "spans": [
+            {
+              "text": "testing environment without Grants.gov placing restrictions on its use. Please be ",
+              "bbox": [
+                90.0,
+                415.6799621582031,
+                518.9155883789062,
+                429.07196044921875
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 429.5,
+          "text": "considerate of your fellow testers. ",
+          "spans": [
+            {
+              "text": "considerate of your fellow testers. ",
+              "bbox": [
+                90.0,
+                429.4799499511719,
+                272.0772705078125,
+                442.8719482421875
+              ],
+              "font": "ArialMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 443.3,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                89.99999237060547,
+                443.3399353027344,
+                93.33599090576172,
+                456.73193359375
+              ],
+              "font": "Arial-ItalicMT",
+              "size": 12.0,
+              "color": "0xff0000"
+            }
+          ]
+        },
+        {
+          "y": 457.1,
+          "text": "Be advised that the production system is always the top priority for Grants.gov ",
+          "spans": [
+            {
+              "text": "Be advised that the production system is always the top priority for Grants.gov ",
+              "bbox": [
+                89.99999237060547,
+                457.1399230957031,
+                507.4178466796875,
+                470.53192138671875
+              ],
+              "font": "Arial-ItalicMT",
+              "size": 12.0,
+              "color": "0xff0000"
+            }
+          ]
+        },
+        {
+          "y": 470.9,
+          "text": "support. The Grants.gov team will handle issue reports in AT in a lower ",
+          "spans": [
+            {
+              "text": "support. The Grants.gov team will handle issue reports in AT in a lower ",
+              "bbox": [
+                89.99998474121094,
+                470.9399108886719,
+                470.28955078125,
+                484.3319091796875
+              ],
+              "font": "Arial-ItalicMT",
+              "size": 12.0,
+              "color": "0xff0000"
+            }
+          ]
+        },
+        {
+          "y": 484.7,
+          "text": "priority to those in production. Testing of any sort (i.e. application package ",
+          "spans": [
+            {
+              "text": "priority to those in production. Testing of any sort (i.e. application package ",
+              "bbox": [
+                90.0,
+                484.7398986816406,
+                485.51153564453125,
+                498.13189697265625
+              ],
+              "font": "Arial-ItalicMT",
+              "size": 12.0,
+              "color": "0xff0000"
+            }
+          ]
+        },
+        {
+          "y": 498.5,
+          "text": "submission) within the live Production environment is strictly prohibited. All S2S ",
+          "spans": [
+            {
+              "text": "submission) within the live Production environment is strictly prohibited. All S2S ",
+              "bbox": [
+                90.0,
+                498.5398864746094,
+                514.2122802734375,
+                511.931884765625
+              ],
+              "font": "Arial-ItalicMT",
+              "size": 12.0,
+              "color": "0xff0000"
+            }
+          ]
+        },
+        {
+          "y": 512.3,
+          "text": "privileges will be revoked for any certificate associated with a test application ",
+          "spans": [
+            {
+              "text": "privileges will be revoked for any certificate associated with a test application ",
+              "bbox": [
+                90.0,
+                512.33984375,
+                500.020751953125,
+                525.7318115234375
+              ],
+              "font": "Arial-ItalicMT",
+              "size": 12.0,
+              "color": "0xff0000"
+            }
+          ]
+        },
+        {
+          "y": 526.1,
+          "text": "package in the Production environment. All testing for Grants.gov must be ",
+          "spans": [
+            {
+              "text": "package in the Production environment. All testing for Grants.gov must be ",
+              "bbox": [
+                90.0,
+                526.139892578125,
+                485.5369873046875,
+                539.5318603515625
+              ],
+              "font": "Arial-ItalicMT",
+              "size": 12.0,
+              "color": "0xff0000"
+            }
+          ]
+        },
+        {
+          "y": 539.9,
+          "text": "completed in the AT environment.  ",
+          "spans": [
+            {
+              "text": "completed in the AT environment.  ",
+              "bbox": [
+                90.0,
+                539.9398803710938,
+                276.16796875,
+                553.3318481445312
+              ],
+              "font": "Arial-ItalicMT",
+              "size": 12.0,
+              "color": "0xff0000"
+            }
+          ]
+        },
+        {
+          "y": 553.8,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                90.0,
+                553.787841796875,
+                93.0,
+                567.0718383789062
+              ],
+              "font": "TimesNewRomanPSMT",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 720.4,
+          "text": "Page 2 of 2 ",
+          "spans": [
+            {
+              "text": "Page 2 of 2 ",
+              "bbox": [
+                280.3800048828125,
+                720.4118041992188,
+                334.3377380371094,
+                731.5941162109375
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 731.9,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                306.0001525878906,
+                731.9317626953125,
+                308.78570556640625,
+                743.1140747070312
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 770.2,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                593.9998779296875,
+                770.2119140625,
+                596.7854614257812,
+                781.3942260742188
+              ],
+              "font": "ArialMT",
+              "size": 10.020000457763672,
+              "color": "0x0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

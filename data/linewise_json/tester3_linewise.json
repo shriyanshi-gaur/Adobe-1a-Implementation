@@ -1,0 +1,658 @@
+{
+  "filename": "tester3.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "y": 70.3,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                540.0999755859375,
+                70.29034423828125,
+                543.6099853515625,
+                85.83262634277344
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 14.039999961853027,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 72.1,
+          "text": "Revised January 10, 2014",
+          "spans": [
+            {
+              "text": "Revised January 10, 2014",
+              "bbox": [
+                416.1099853515625,
+                72.10798645019531,
+                540.0339965820312,
+                85.3919906616211
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 86.3,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                306.04998779296875,
+                86.2703857421875,
+                309.55999755859375,
+                101.81266784667969
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 14.039999961853027,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 102.4,
+          "text": "J I H I  ",
+          "spans": [
+            {
+              "text": "J",
+              "bbox": [
+                189.13999938964844,
+                102.350341796875,
+                196.16000366210938,
+                117.89262390136719
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 14.039999961853027,
+              "color": "0x0"
+            },
+            {
+              "text": "I",
+              "bbox": [
+                246.64999389648438,
+                102.350341796875,
+                252.11155700683594,
+                117.89262390136719
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 14.039999961853027,
+              "color": "0x0"
+            },
+            {
+              "text": "H",
+              "bbox": [
+                293.3299865722656,
+                102.350341796875,
+                304.25311279296875,
+                117.89262390136719
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 14.039999961853027,
+              "color": "0x0"
+            },
+            {
+              "text": "I",
+              "bbox": [
+                339.9100036621094,
+                102.350341796875,
+                345.3715515136719,
+                117.89262390136719
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 14.039999961853027,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                422.95001220703125,
+                102.350341796875,
+                426.46002197265625,
+                117.89262390136719
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 14.039999961853027,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 105.0,
+          "text": "UDICIAL  NTERN  IRING  NFORMATION",
+          "spans": [
+            {
+              "text": "UDICIAL ",
+              "bbox": [
+                196.22000122070312,
+                105.02334594726562,
+                246.60655212402344,
+                117.24462890625
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 11.039999961853027,
+              "color": "0x0"
+            },
+            {
+              "text": "NTERN ",
+              "bbox": [
+                252.1699981689453,
+                105.02334594726562,
+                293.33001708984375,
+                117.24462890625
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 11.039999961853027,
+              "color": "0x0"
+            },
+            {
+              "text": "IRING ",
+              "bbox": [
+                304.25,
+                105.02334594726562,
+                339.8760681152344,
+                117.24462890625
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 11.039999961853027,
+              "color": "0x0"
+            },
+            {
+              "text": "NFORMATION",
+              "bbox": [
+                345.42999267578125,
+                105.02334594726562,
+                423.107421875,
+                117.24462890625
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 11.039999961853027,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 118.3,
+          "text": "Lorna G. Schofield, United States District Judge ",
+          "spans": [
+            {
+              "text": "Lorna G. Schofield, United States District Judge ",
+              "bbox": [
+                182.3000030517578,
+                118.32801818847656,
+                432.6700134277344,
+                131.6120147705078
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 131.9,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                306.04998779296875,
+                131.8880157470703,
+                309.04998779296875,
+                145.17201232910156
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 145.7,
+          "text": "Chambers Contact Information :                ",
+          "spans": [
+            {
+              "text": "Chambers Contact Information",
+              "bbox": [
+                72.02400207519531,
+                145.68800354003906,
+                234.5240020751953,
+                158.9720001220703
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": ":",
+              "bbox": [
+                234.64999389648438,
+                145.68800354003906,
+                237.98599243164062,
+                158.9720001220703
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": "   ",
+              "bbox": [
+                238.00999450683594,
+                145.68800354003906,
+                255.0500030517578,
+                158.9720001220703
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                288.04998779296875,
+                145.68800354003906,
+                291.04998779296875,
+                158.9720001220703
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                324.04998779296875,
+                145.68800354003906,
+                327.04998779296875,
+                158.9720001220703
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                360.07000732421875,
+                145.68800354003906,
+                363.07000732421875,
+                158.9720001220703
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                396.07000732421875,
+                145.68800354003906,
+                399.07000732421875,
+                158.9720001220703
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                432.07000732421875,
+                145.68800354003906,
+                435.07000732421875,
+                158.9720001220703
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                435.07000732421875,
+                145.68800354003906,
+                438.07000732421875,
+                158.9720001220703
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 159.5,
+          "text": "United States District Court        ",
+          "spans": [
+            {
+              "text": "United States District Court  ",
+              "bbox": [
+                72.02400207519531,
+                159.4879913330078,
+                219.0500030517578,
+                172.77198791503906
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                252.0500030517578,
+                159.4879913330078,
+                255.0500030517578,
+                172.77198791503906
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                288.04998779296875,
+                159.4879913330078,
+                291.04998779296875,
+                172.77198791503906
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                324.04998779296875,
+                159.4879913330078,
+                327.04998779296875,
+                172.77198791503906
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 173.3,
+          "text": "Southern District of New York                ",
+          "spans": [
+            {
+              "text": "Southern District of New York            ",
+              "bbox": [
+                72.02400207519531,
+                173.28797912597656,
+                256.72998046875,
+                186.5719757080078
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                288.04998779296875,
+                173.28797912597656,
+                291.04998779296875,
+                186.5719757080078
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                324.04998779296875,
+                173.28797912597656,
+                327.04998779296875,
+                186.5719757080078
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 187.1,
+          "text": "40 Centre Street, Room 201        ",
+          "spans": [
+            {
+              "text": "40 Centre Street, Room 201   ",
+              "bbox": [
+                72.02400207519531,
+                187.08802795410156,
+                222.0500030517578,
+                200.3720245361328
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": " ",
+              "bbox": [
+                252.0500030517578,
+                187.08802795410156,
+                255.0500030517578,
+                200.3720245361328
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": "  ",
+              "bbox": [
+                288.04998779296875,
+                187.08802795410156,
+                294.04998779296875,
+                200.3720245361328
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 200.9,
+          "text": "New York, NY  10007 ",
+          "spans": [
+            {
+              "text": "New York, NY  10007 ",
+              "bbox": [
+                72.02400207519531,
+                200.8880157470703,
+                184.6999969482422,
+                214.17201232910156
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 214.7,
+          "text": "(212) 805-0288 ",
+          "spans": [
+            {
+              "text": "(212) 805-0288 ",
+              "bbox": [
+                72.02400207519531,
+                214.68800354003906,
+                150.02000427246094,
+                227.9720001220703
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 228.5,
+          "text": " ",
+          "spans": [
+            {
+              "text": " ",
+              "bbox": [
+                72.02400207519531,
+                228.4879913330078,
+                75.02400207519531,
+                241.77198791503906
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 242.3,
+          "text": "Positions :  Judge Schofield hires first- and second-year law students as interns during the school ",
+          "spans": [
+            {
+              "text": "Positions",
+              "bbox": [
+                72.02400207519531,
+                242.28797912597656,
+                117.95999145507812,
+                255.5719757080078
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": ":  Judge Schofield hires first- and second-year law students as interns during the school ",
+              "bbox": [
+                117.9800033569336,
+                242.28797912597656,
+                538.822021484375,
+                255.5719757080078
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 256.1,
+          "text": "year and for summer employment.  During the school year, interns must be available for a ",
+          "spans": [
+            {
+              "text": "year and for summer employment.  During the school year, interns must be available for a ",
+              "bbox": [
+                72.02400207519531,
+                256.1180114746094,
+                507.06201171875,
+                269.4020080566406
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 269.9,
+          "text": "semester at least 20 hours a week.  During the summer, interns must be available to work full ",
+          "spans": [
+            {
+              "text": "semester at least 20 hours a week.  During the summer, interns must be available to work full ",
+              "bbox": [
+                72.02400207519531,
+                269.9179992675781,
+                522.47998046875,
+                283.2019958496094
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 283.8,
+          "text": "time for at least eight weeks.   ",
+          "spans": [
+            {
+              "text": "time for at least eight weeks.   ",
+              "bbox": [
+                72.02400207519531,
+                283.8380126953125,
+                218.92999267578125,
+                297.12200927734375
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 307.6,
+          "text": "Applications:   Applications should include a resume, transcript and writing sample.  First-year ",
+          "spans": [
+            {
+              "text": "Applications:",
+              "bbox": [
+                72.02400207519531,
+                307.5980224609375,
+                140.81600952148438,
+                320.88201904296875
+              ],
+              "font": "Times New Roman,Bold",
+              "size": 12.0,
+              "color": "0x0"
+            },
+            {
+              "text": "  Applications should include a resume, transcript and writing sample.  First-year ",
+              "bbox": [
+                140.77999877929688,
+                307.5980224609375,
+                532.3240356445312,
+                320.88201904296875
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 321.4,
+          "text": "students should not apply until they have received grades from all of their first semester classes.   ",
+          "spans": [
+            {
+              "text": "students should not apply until they have received grades from all of their first semester classes.   ",
+              "bbox": [
+                72.02400207519531,
+                321.39801025390625,
+                541.780029296875,
+                334.6820068359375
+              ],
+              "font": "Times New Roman",
+              "size": 12.0,
+              "color": "0x0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

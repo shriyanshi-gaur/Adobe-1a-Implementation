@@ -1,0 +1,940 @@
+{
+  "filename": "E0CCG5S239.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "lines": [
+        {
+          "y": 106.1,
+          "text": "Application form for grant of LTC advance ",
+          "spans": [
+            {
+              "text": "Application form for grant of LTC advance ",
+              "bbox": [
+                199.86000061035156,
+                106.07836151123047,
+                437.190673828125,
+                119.10208129882812
+              ],
+              "font": "Arial,Bold",
+              "size": 11.670000076293945,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 133.0,
+          "text": "Name of the Government Servant ",
+          "spans": [
+            {
+              "text": "Name of the Government Servant ",
+              "bbox": [
+                95.99856567382812,
+                132.9924774169922,
+                243.4400634765625,
+                144.7442169189453
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 135.9,
+          "text": "1. ",
+          "spans": [
+            {
+              "text": "1. ",
+              "bbox": [
+                70.0199966430664,
+                135.93528747558594,
+                82.12254333496094,
+                147.68702697753906
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 151.0,
+          "text": "Designation ",
+          "spans": [
+            {
+              "text": "Designation ",
+              "bbox": [
+                95.99856567382812,
+                151.0488739013672,
+                149.32675170898438,
+                162.8006134033203
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 154.1,
+          "text": "2. ",
+          "spans": [
+            {
+              "text": "2. ",
+              "bbox": [
+                70.0199966430664,
+                154.05015563964844,
+                82.12254333496094,
+                165.80189514160156
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 169.2,
+          "text": "Date of entering the Central Government ",
+          "spans": [
+            {
+              "text": "Date of entering the Central Government ",
+              "bbox": [
+                95.99856567382812,
+                169.1637420654297,
+                296.01995849609375,
+                180.9154815673828
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 180.9,
+          "text": "3. ",
+          "spans": [
+            {
+              "text": "3. ",
+              "bbox": [
+                70.0199966430664,
+                180.9252166748047,
+                82.12254333496094,
+                192.6769561767578
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 186.7,
+          "text": "Service ",
+          "spans": [
+            {
+              "text": "Service ",
+              "bbox": [
+                95.99856567382812,
+                186.74266052246094,
+                129.7297821044922,
+                198.49440002441406
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 204.9,
+          "text": "PAY + SI + NPA ",
+          "spans": [
+            {
+              "text": "PAY + SI + NPA ",
+              "bbox": [
+                95.99856567382812,
+                204.8574676513672,
+                168.8944854736328,
+                216.6092071533203
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 207.8,
+          "text": "4. ",
+          "spans": [
+            {
+              "text": "4. ",
+              "bbox": [
+                70.0199966430664,
+                207.80027770996094,
+                82.12254333496094,
+                219.55201721191406
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 222.9,
+          "text": "Whether permanent or temporary ",
+          "spans": [
+            {
+              "text": "Whether permanent or temporary ",
+              "bbox": [
+                95.99856567382812,
+                222.9138641357422,
+                244.10366821289062,
+                234.6656036376953
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 225.9,
+          "text": "5. ",
+          "spans": [
+            {
+              "text": "5. ",
+              "bbox": [
+                70.0199966430664,
+                225.91514587402344,
+                82.12254333496094,
+                237.66688537597656
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 241.1,
+          "text": "6.  Home Town as recorded in the Service Book ",
+          "spans": [
+            {
+              "text": "6. ",
+              "bbox": [
+                70.0199966430664,
+                241.09690856933594,
+                82.12254333496094,
+                252.84864807128906
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            },
+            {
+              "text": "Home Town as recorded in the Service Book ",
+              "bbox": [
+                95.99856567382812,
+                241.09690856933594,
+                289.5272216796875,
+                252.84864807128906
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 253.3,
+          "text": "Whether wife / husband is employed and if ",
+          "spans": [
+            {
+              "text": "Whether wife / husband is employed and if ",
+              "bbox": [
+                95.99856567382812,
+                253.27745056152344,
+                295.9496765136719,
+                265.0292053222656
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 265.0,
+          "text": "7. ",
+          "spans": [
+            {
+              "text": "7. ",
+              "bbox": [
+                70.0199966430664,
+                265.0389404296875,
+                82.12254333496094,
+                276.7906799316406
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 270.9,
+          "text": "so whether entitled to LTC ",
+          "spans": [
+            {
+              "text": "so whether entitled to LTC ",
+              "bbox": [
+                95.99856567382812,
+                270.85638427734375,
+                212.8251190185547,
+                282.6081237792969
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 289.0,
+          "text": "Whether the concession is to be availed for ",
+          "spans": [
+            {
+              "text": "Whether the concession is to be availed for ",
+              "bbox": [
+                95.99856567382812,
+                288.98095703125,
+                295.94781494140625,
+                300.7326965332031
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 306.6,
+          "text": "visiting home town and if so block for which ",
+          "spans": [
+            {
+              "text": "visiting home town and if so block for which ",
+              "bbox": [
+                95.99856567382812,
+                306.55987548828125,
+                296.0480651855469,
+                318.3116149902344
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 309.6,
+          "text": "8. ",
+          "spans": [
+            {
+              "text": "8. ",
+              "bbox": [
+                70.0199966430664,
+                309.5611572265625,
+                82.12254333496094,
+                321.3128967285156
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 324.2,
+          "text": "LTC is to be availed. ",
+          "spans": [
+            {
+              "text": "LTC is to be availed. ",
+              "bbox": [
+                95.99856567382812,
+                324.19720458984375,
+                186.0504608154297,
+                335.948974609375
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 342.3,
+          "text": "(a) If the concession is to visit anywhere in ",
+          "spans": [
+            {
+              "text": "(a) If the concession is to visit anywhere in ",
+              "bbox": [
+                95.99856567382812,
+                342.25360107421875,
+                296.0063171386719,
+                354.0053405761719
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 359.9,
+          "text": "India, the place to be visited. ",
+          "spans": [
+            {
+              "text": "India, the place to be visited. ",
+              "bbox": [
+                95.99856567382812,
+                359.89093017578125,
+                224.38401794433594,
+                371.6427001953125
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 362.8,
+          "text": "9. ",
+          "spans": [
+            {
+              "text": "9. ",
+              "bbox": [
+                70.0199966430664,
+                362.833740234375,
+                82.12254333496094,
+                374.58551025390625
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 377.5,
+          "text": "(b) Block for which to be availed. ",
+          "spans": [
+            {
+              "text": "(b) Block for which to be availed. ",
+              "bbox": [
+                95.99856567382812,
+                377.4698486328125,
+                241.2914581298828,
+                389.2215881347656
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 395.6,
+          "text": "Single  rail  fare/bus  fare  from  the ",
+          "spans": [
+            {
+              "text": "Single ",
+              "bbox": [
+                95.99856567382812,
+                395.59442138671875,
+                124.84394073486328,
+                407.3461608886719
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            },
+            {
+              "text": "rail ",
+              "bbox": [
+                136.138671875,
+                395.59442138671875,
+                152.3056182861328,
+                407.3461608886719
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            },
+            {
+              "text": "fare/bus ",
+              "bbox": [
+                163.60035705566406,
+                395.59442138671875,
+                202.4123077392578,
+                407.3461608886719
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            },
+            {
+              "text": "fare ",
+              "bbox": [
+                213.70704650878906,
+                395.59442138671875,
+                233.50669860839844,
+                407.3461608886719
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            },
+            {
+              "text": "from ",
+              "bbox": [
+                244.8404083251953,
+                395.59442138671875,
+                267.9424133300781,
+                407.3461608886719
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            },
+            {
+              "text": "the ",
+              "bbox": [
+                279.2371520996094,
+                395.59442138671875,
+                296.081298828125,
+                407.3461608886719
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 413.2,
+          "text": "headquarters to home town/place of visit by ",
+          "spans": [
+            {
+              "text": "headquarters to home town/place of visit by ",
+              "bbox": [
+                95.99856567382812,
+                413.17327880859375,
+                296.0082092285156,
+                424.925048828125
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 416.2,
+          "text": "10. ",
+          "spans": [
+            {
+              "text": "10. ",
+              "bbox": [
+                70.0199966430664,
+                416.174560546875,
+                88.30438995361328,
+                427.92633056640625
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 430.8,
+          "text": "shortest route. ",
+          "spans": [
+            {
+              "text": "shortest route. ",
+              "bbox": [
+                95.99856567382812,
+                430.752197265625,
+                161.98764038085938,
+                442.5039367675781
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 448.9,
+          "text": "Persons in respect of whom LTC is proposed to be availed. ",
+          "spans": [
+            {
+              "text": "Persons in respect of whom LTC is proposed to be availed. ",
+              "bbox": [
+                95.99856567382812,
+                448.93524169921875,
+                350.760986328125,
+                460.6869812011719
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 464.1,
+          "text": "S.No  Name  Age  Relationship ",
+          "spans": [
+            {
+              "text": "S.No ",
+              "bbox": [
+                95.99856567382812,
+                464.05853271484375,
+                121.62633514404297,
+                475.810302734375
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            },
+            {
+              "text": "Name ",
+              "bbox": [
+                211.41220092773438,
+                464.05853271484375,
+                242.72096252441406,
+                475.810302734375
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            },
+            {
+              "text": "Age ",
+              "bbox": [
+                343.4770812988281,
+                464.05853271484375,
+                364.9440002441406,
+                475.810302734375
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            },
+            {
+              "text": "Relationship ",
+              "bbox": [
+                444.5849609375,
+                464.05853271484375,
+                508.57159423828125,
+                475.810302734375
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 476.2,
+          "text": "1. ",
+          "spans": [
+            {
+              "text": "1. ",
+              "bbox": [
+                103.62838745117188,
+                476.23907470703125,
+                115.7309341430664,
+                487.9908142089844
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 488.5,
+          "text": "2. ",
+          "spans": [
+            {
+              "text": "2. ",
+              "bbox": [
+                103.62838745117188,
+                488.47802734375,
+                115.7309341430664,
+                500.2297668457031
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 498.6,
+          "text": "11. ",
+          "spans": [
+            {
+              "text": "11. ",
+              "bbox": [
+                70.0199966430664,
+                498.6121826171875,
+                88.30438995361328,
+                510.3639221191406
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 500.7,
+          "text": "3. ",
+          "spans": [
+            {
+              "text": "3. ",
+              "bbox": [
+                103.62838745117188,
+                500.65850830078125,
+                115.7309341430664,
+                512.4102783203125
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 513.0,
+          "text": "4. ",
+          "spans": [
+            {
+              "text": "4. ",
+              "bbox": [
+                103.62838745117188,
+                512.9559326171875,
+                115.7309341430664,
+                524.7076416015625
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 529.5,
+          "text": "5. ",
+          "spans": [
+            {
+              "text": "5. ",
+              "bbox": [
+                103.62838745117188,
+                529.4532470703125,
+                115.7309341430664,
+                541.2049560546875
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 541.7,
+          "text": "6. ",
+          "spans": [
+            {
+              "text": "6. ",
+              "bbox": [
+                103.62838745117188,
+                541.6921997070312,
+                115.7309341430664,
+                553.4439086914062
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 561.1,
+          "text": "Amount of advance required.  Rs. ",
+          "spans": [
+            {
+              "text": "Amount of advance required. ",
+              "bbox": [
+                96.00826263427734,
+                561.1322631835938,
+                223.99024963378906,
+                572.8839721679688
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            },
+            {
+              "text": "Rs. ",
+              "bbox": [
+                304.39227294921875,
+                561.1322631835938,
+                320.7657775878906,
+                572.8839721679688
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 567.0,
+          "text": "12. ",
+          "spans": [
+            {
+              "text": "12. ",
+              "bbox": [
+                70.02969360351562,
+                567.0081787109375,
+                88.3140869140625,
+                578.7598876953125
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 596.8,
+          "text": "I declare that the particulars furnished above are true and correct to the best of my knowledge.  I ",
+          "spans": [
+            {
+              "text": "I declare that the particulars furnished above are true and correct to the best of my knowledge.  I ",
+              "bbox": [
+                105.07057189941406,
+                596.8357543945312,
+                573.1749267578125,
+                608.5874633789062
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 608.5,
+          "text": "undertake to produce the tickets for the outward journey within ten days of receipt of the advance. ",
+          "spans": [
+            {
+              "text": "undertake to produce the tickets for the outward journey within ten days of receipt of the advance. ",
+              "bbox": [
+                70.0296630859375,
+                608.5387573242188,
+                499.6590270996094,
+                620.2904663085938
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 632.1,
+          "text": "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of ",
+          "spans": [
+            {
+              "text": "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of ",
+              "bbox": [
+                105.08027648925781,
+                632.061767578125,
+                573.1671142578125,
+                643.8134765625
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 643.8,
+          "text": "advance, I undertake to refund the entire advance in one lump sum. ",
+          "spans": [
+            {
+              "text": "advance, I undertake to refund the entire advance in one lump sum. ",
+              "bbox": [
+                70.0394287109375,
+                643.8232421875,
+                367.65570068359375,
+                655.574951171875
+              ],
+              "font": "Tahoma",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 679.0,
+          "text": "Date ",
+          "spans": [
+            {
+              "text": "Date ",
+              "bbox": [
+                70.0394287109375,
+                678.9810180664062,
+                95.879638671875,
+                690.7327270507812
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        },
+        {
+          "y": 690.7,
+          "text": "Signature of Government Servant. ",
+          "spans": [
+            {
+              "text": "Signature of Government Servant. ",
+              "bbox": [
+                403.0445556640625,
+                690.7425537109375,
+                572.97509765625,
+                702.4942626953125
+              ],
+              "font": "Tahoma-Bold",
+              "size": 9.744400024414062,
+              "color": "0x0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
