@@ -1,0 +1,6353 @@
+{
+  "filename": "tester25.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 41.4,
+          "text": "HEPATITIS A VACCINE",
+          "bbox": [
+            35.0,
+            41.37571716308594,
+            576.6231689453125,
+            104.16680145263672
+          ],
+          "spans": [
+            {
+              "size": 62.791080474853516,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "HEPATITIS A VACCINE",
+              "origin": [
+                35.0,
+                90.11517333984375
+              ],
+              "bbox": [
+                35.0,
+                41.37571716308594,
+                576.6231689453125,
+                104.16680145263672
+              ]
+            }
+          ]
+        },
+        {
+          "y": 106.9,
+          "text": "W H A T Y O U N E D T O K N O W",
+          "bbox": [
+            69.14009857177734,
+            106.90132904052734,
+            542.8307495117188,
+            130.9013214111328
+          ],
+          "spans": [
+            {
+              "size": 24.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "W H A T   Y O U   N E E D   T O    K N O W",
+              "origin": [
+                69.14009857177734,
+                125.530517578125
+              ],
+              "bbox": [
+                69.14009857177734,
+                106.90132904052734,
+                542.8307495117188,
+                130.9013214111328
+              ]
+            }
+          ]
+        },
+        {
+          "y": 151.6,
+          "text": "routine vaccination has been implemented",
+          "bbox": [
+            325.7086486816406,
+            151.5606689453125,
+            537.70654296875,
+            163.0606689453125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "routine vaccination has been implemented ",
+              "origin": [
+                325.7086486816406,
+                160.80426025390625
+              ],
+              "bbox": [
+                325.7086486816406,
+                151.5606689453125,
+                537.70654296875,
+                163.0606689453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 155.0,
+          "text": "1",
+          "bbox": [
+            46.99480056762695,
+            155.04800415039062,
+            57.00279998779297,
+            173.04800415039062
+          ],
+          "spans": [
+            {
+              "size": 18.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "1",
+              "origin": [
+                46.99480056762695,
+                169.0198974609375
+              ],
+              "bbox": [
+                46.99480056762695,
+                155.04800415039062,
+                57.00279998779297,
+                173.04800415039062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 156.3,
+          "text": "What is hepatitis A?",
+          "bbox": [
+            72.5,
+            156.31028747558594,
+            207.4124298095703,
+            170.31028747558594
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "What is hepatitis A?",
+              "origin": [
+                72.5,
+                167.17730712890625
+              ],
+              "bbox": [
+                72.5,
+                156.31028747558594,
+                207.4124298095703,
+                170.31028747558594
+              ]
+            }
+          ]
+        },
+        {
+          "y": 165.4,
+          "text": "because of high disease incidence.",
+          "bbox": [
+            325.7086486816406,
+            165.36065673828125,
+            492.2861022949219,
+            176.86065673828125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "because of high disease incidence.",
+              "origin": [
+                325.7086486816406,
+                174.604248046875
+              ],
+              "bbox": [
+                325.7086486816406,
+                165.36065673828125,
+                492.2861022949219,
+                176.86065673828125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 186.0,
+          "text": "• Men who have sex with men.",
+          "bbox": [
+            313.0,
+            185.951416015625,
+            469.17694091796875,
+            197.451416015625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• Men who have sex with men.",
+              "origin": [
+                313.0,
+                195.19500732421875
+              ],
+              "bbox": [
+                313.0,
+                185.951416015625,
+                469.17694091796875,
+                197.451416015625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 186.3,
+          "text": "Hepatitis A is a serious liver disease caused by the",
+          "bbox": [
+            37.0,
+            186.319580078125,
+            283.27362060546875,
+            197.819580078125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "Hepatitis A is a serious liver disease caused by the",
+              "origin": [
+                37.0,
+                195.56317138671875
+              ],
+              "bbox": [
+                37.0,
+                186.319580078125,
+                283.27362060546875,
+                197.819580078125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 200.1,
+          "text": "hepatitis A virus (HAV). HAV is found in the stool",
+          "bbox": [
+            37.0,
+            200.11956787109375,
+            288.5395812988281,
+            211.61956787109375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "hepatitis A virus (HAV). HAV is found in the stool",
+              "origin": [
+                37.0,
+                209.3631591796875
+              ],
+              "bbox": [
+                37.0,
+                200.11956787109375,
+                288.5395812988281,
+                211.61956787109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 206.5,
+          "text": "• Persons who use street drugs.",
+          "bbox": [
+            313.0,
+            206.54217529296875,
+            470.01177978515625,
+            218.04217529296875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• Persons who use street drugs.",
+              "origin": [
+                313.0,
+                215.7857666015625
+              ],
+              "bbox": [
+                313.0,
+                206.54217529296875,
+                470.01177978515625,
+                218.04217529296875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 213.9,
+          "text": "of persons with hepatitis A. It is usually spread by",
+          "bbox": [
+            37.0,
+            213.9195556640625,
+            286.27166748046875,
+            225.4195556640625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "of persons with hepatitis A.  It is usually spread by",
+              "origin": [
+                37.0,
+                223.16314697265625
+              ],
+              "bbox": [
+                37.0,
+                213.9195556640625,
+                286.27166748046875,
+                225.4195556640625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 227.1,
+          "text": "• Persons with chronic liver disease.",
+          "bbox": [
+            313.0,
+            227.1329345703125,
+            495.1600341796875,
+            238.6329345703125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• Persons with chronic liver disease.",
+              "origin": [
+                313.0,
+                236.37652587890625
+              ],
+              "bbox": [
+                313.0,
+                227.1329345703125,
+                495.1600341796875,
+                238.6329345703125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 227.7,
+          "text": "close personal contact and sometimes by eating food",
+          "bbox": [
+            37.0,
+            227.71954345703125,
+            293.8133850097656,
+            239.21954345703125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "close personal contact and sometimes by eating food",
+              "origin": [
+                37.0,
+                236.963134765625
+              ],
+              "bbox": [
+                37.0,
+                227.71954345703125,
+                293.8133850097656,
+                239.21954345703125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 241.5,
+          "text": "or drinking water containing HAV.",
+          "bbox": [
+            37.0,
+            241.51953125,
+            212.05189514160156,
+            253.01953125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "or drinking water containing HAV. ",
+              "origin": [
+                37.0,
+                250.76312255859375
+              ],
+              "bbox": [
+                37.0,
+                241.51953125,
+                212.05189514160156,
+                253.01953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 247.7,
+          "text": "• Persons who are treated with clotting factor",
+          "bbox": [
+            313.0,
+            247.72369384765625,
+            542.9287109375,
+            259.22369384765625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• Persons who are treated with clotting factor ",
+              "origin": [
+                313.0,
+                256.96728515625
+              ],
+              "bbox": [
+                313.0,
+                247.72369384765625,
+                542.9287109375,
+                259.22369384765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 261.5,
+          "text": "concentrates.",
+          "bbox": [
+            325.7086486816406,
+            261.523681640625,
+            390.0005187988281,
+            273.023681640625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "concentrates.",
+              "origin": [
+                325.7086486816406,
+                270.76727294921875
+              ],
+              "bbox": [
+                325.7086486816406,
+                261.523681640625,
+                390.0005187988281,
+                273.023681640625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 262.1,
+          "text": "Hepatitis A can cause:",
+          "bbox": [
+            37.0,
+            262.11029052734375,
+            147.0239715576172,
+            273.61029052734375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "Hepatitis A can cause:",
+              "origin": [
+                37.0,
+                271.3538818359375
+              ],
+              "bbox": [
+                37.0,
+                262.11029052734375,
+                147.0239715576172,
+                273.61029052734375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 275.9,
+          "text": "•mild “flu-like”",
+          "bbox": [
+            45.472049713134766,
+            275.9102783203125,
+            126.84260559082031,
+            287.4102783203125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "•mild “flu-like”",
+              "origin": [
+                45.472049713134766,
+                285.15386962890625
+              ],
+              "bbox": [
+                45.472049713134766,
+                275.9102783203125,
+                126.84260559082031,
+                287.4102783203125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 282.1,
+          "text": "• Persons who work with HAV-infected primates or",
+          "bbox": [
+            313.0,
+            282.11444091796875,
+            573.6716918945312,
+            293.61444091796875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• Persons who work with HAV-infected primates or ",
+              "origin": [
+                313.0,
+                291.3580322265625
+              ],
+              "bbox": [
+                313.0,
+                282.11444091796875,
+                573.6716918945312,
+                293.61444091796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 289.7,
+          "text": "illness",
+          "bbox": [
+            53.94409942626953,
+            289.71026611328125,
+            85.08380126953125,
+            301.21026611328125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "illness",
+              "origin": [
+                53.94409942626953,
+                298.953857421875
+              ],
+              "bbox": [
+                53.94409942626953,
+                289.71026611328125,
+                85.08380126953125,
+                301.21026611328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 295.9,
+          "text": "who work with HAV in research laboratories.",
+          "bbox": [
+            325.7086486816406,
+            295.9144287109375,
+            549.0420532226562,
+            307.4144287109375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "who work with HAV in research laboratories.",
+              "origin": [
+                325.7086486816406,
+                305.15802001953125
+              ],
+              "bbox": [
+                325.7086486816406,
+                295.9144287109375,
+                549.0420532226562,
+                307.4144287109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 303.5,
+          "text": "•jaundice (yellow",
+          "bbox": [
+            45.472049713134766,
+            303.51025390625,
+            134.1324462890625,
+            315.01025390625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "•jaundice (yellow",
+              "origin": [
+                45.472049713134766,
+                312.75384521484375
+              ],
+              "bbox": [
+                45.472049713134766,
+                303.51025390625,
+                134.1324462890625,
+                315.01025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 317.3,
+          "text": "skin or eyes)",
+          "bbox": [
+            53.94409942626953,
+            317.31024169921875,
+            115.85320281982422,
+            328.81024169921875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "skin or eyes)",
+              "origin": [
+                53.94409942626953,
+                326.5538330078125
+              ],
+              "bbox": [
+                53.94409942626953,
+                317.31024169921875,
+                115.85320281982422,
+                328.81024169921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 318.5,
+          "text": "Other people might get hepatitis A vaccine in",
+          "bbox": [
+            313.0,
+            318.5050354003906,
+            537.4558715820312,
+            330.0050354003906
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "Other people might get hepatitis A vaccine in",
+              "origin": [
+                313.0,
+                327.7486267089844
+              ],
+              "bbox": [
+                313.0,
+                318.5050354003906,
+                537.4558715820312,
+                330.0050354003906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 331.1,
+          "text": "•severe stomach",
+          "bbox": [
+            45.472049713134766,
+            331.1102294921875,
+            127.9880142211914,
+            342.6102294921875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "•severe stomach",
+              "origin": [
+                45.472049713134766,
+                340.35382080078125
+              ],
+              "bbox": [
+                45.472049713134766,
+                331.1102294921875,
+                127.9880142211914,
+                342.6102294921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 332.3,
+          "text": "special situations:",
+          "bbox": [
+            313.0,
+            332.3050231933594,
+            400.88421630859375,
+            343.8050231933594
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "special situations:",
+              "origin": [
+                313.0,
+                341.5486145019531
+              ],
+              "bbox": [
+                313.0,
+                332.3050231933594,
+                400.88421630859375,
+                343.8050231933594
+              ]
+            }
+          ]
+        },
+        {
+          "y": 344.9,
+          "text": "pains and diarrhea",
+          "bbox": [
+            53.94409942626953,
+            344.91021728515625,
+            145.44271850585938,
+            356.41021728515625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "pains and diarrhea",
+              "origin": [
+                53.94409942626953,
+                354.15380859375
+              ],
+              "bbox": [
+                53.94409942626953,
+                344.91021728515625,
+                145.44271850585938,
+                356.41021728515625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 352.9,
+          "text": "• Hepatitis A vaccine might be recommended for",
+          "bbox": [
+            313.0,
+            352.8957824707031,
+            561.9992065429688,
+            364.3957824707031
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• Hepatitis A vaccine might be recommended for ",
+              "origin": [
+                313.0,
+                362.1393737792969
+              ],
+              "bbox": [
+                313.0,
+                352.8957824707031,
+                561.9992065429688,
+                364.3957824707031
+              ]
+            }
+          ]
+        },
+        {
+          "y": 365.5,
+          "text": "People with hepatitis A",
+          "bbox": [
+            37.0,
+            365.5009765625,
+            154.67259216308594,
+            377.0009765625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "People with hepatitis A ",
+              "origin": [
+                37.0,
+                374.74456787109375
+              ],
+              "bbox": [
+                37.0,
+                365.5009765625,
+                154.67259216308594,
+                377.0009765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 366.7,
+          "text": "children or adolescents in communities where",
+          "bbox": [
+            325.7086486816406,
+            366.6957702636719,
+            555.314208984375,
+            378.1957702636719
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "children or adolescents in communities where ",
+              "origin": [
+                325.7086486816406,
+                375.9393615722656
+              ],
+              "bbox": [
+                325.7086486816406,
+                366.6957702636719,
+                555.314208984375,
+                378.1957702636719
+              ]
+            }
+          ]
+        },
+        {
+          "y": 379.3,
+          "text": "often have to be",
+          "bbox": [
+            37.0,
+            379.30096435546875,
+            115.28854370117188,
+            390.80096435546875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "often have to be",
+              "origin": [
+                37.0,
+                388.5445556640625
+              ],
+              "bbox": [
+                37.0,
+                379.30096435546875,
+                115.28854370117188,
+                390.80096435546875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 380.5,
+          "text": "outbreaks of hepatitis A are occurring.",
+          "bbox": [
+            325.7086486816406,
+            380.4957580566406,
+            514.2891235351562,
+            391.9957580566406
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "outbreaks of hepatitis A are occurring.",
+              "origin": [
+                325.7086486816406,
+                389.7393493652344
+              ],
+              "bbox": [
+                325.7086486816406,
+                380.4957580566406,
+                514.2891235351562,
+                391.9957580566406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 393.1,
+          "text": "hospitalized (up to about 1 person in 5).",
+          "bbox": [
+            37.0,
+            393.1009521484375,
+            239.17921447753906,
+            404.6009521484375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "hospitalized (up to about 1 person in 5).  ",
+              "origin": [
+                37.0,
+                402.34454345703125
+              ],
+              "bbox": [
+                37.0,
+                393.1009521484375,
+                239.17921447753906,
+                404.6009521484375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 401.1,
+          "text": "Hepatitis A vaccine is not licensed for children younger",
+          "bbox": [
+            313.0,
+            401.09918212890625,
+            559.7406005859375,
+            412.59918212890625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Italic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "Hepatitis A vaccine is not licensed for children younger",
+              "origin": [
+                313.0,
+                410.3301086425781
+              ],
+              "bbox": [
+                313.0,
+                401.09918212890625,
+                559.7406005859375,
+                412.59918212890625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 413.7,
+          "text": "Sometimes, people die as a result of hepatitis A",
+          "bbox": [
+            37.0,
+            413.69171142578125,
+            268.5812072753906,
+            425.19171142578125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "Sometimes, people die as a result of hepatitis A",
+              "origin": [
+                37.0,
+                422.935302734375
+              ],
+              "bbox": [
+                37.0,
+                413.69171142578125,
+                268.5812072753906,
+                425.19171142578125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 414.9,
+          "text": "than 1 year of age.",
+          "bbox": [
+            313.0,
+            414.899169921875,
+            396.5245056152344,
+            426.399169921875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Italic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "than 1 year of age.",
+              "origin": [
+                313.0,
+                424.1300964355469
+              ],
+              "bbox": [
+                313.0,
+                414.899169921875,
+                396.5245056152344,
+                426.399169921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 427.5,
+          "text": "(about 3-5 deaths per 1,000 cases).",
+          "bbox": [
+            37.0,
+            427.49169921875,
+            203.58555603027344,
+            438.99169921875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "(about 3-5 deaths per 1,000 cases).",
+              "origin": [
+                37.0,
+                436.73529052734375
+              ],
+              "bbox": [
+                37.0,
+                427.49169921875,
+                203.58555603027344,
+                438.99169921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 436.5,
+          "text": "WHEN?",
+          "bbox": [
+            313.0,
+            436.4892578125,
+            356.1733093261719,
+            447.9892578125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "WHEN?",
+              "origin": [
+                313.0,
+                445.7201843261719
+              ],
+              "bbox": [
+                313.0,
+                436.4892578125,
+                356.1733093261719,
+                447.9892578125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 448.1,
+          "text": "A person who has hepatitis A can easily pass the",
+          "bbox": [
+            37.0,
+            448.08245849609375,
+            274.3680114746094,
+            459.58245849609375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "A person who has hepatitis A can easily pass the",
+              "origin": [
+                37.0,
+                457.3260498046875
+              ],
+              "bbox": [
+                37.0,
+                448.08245849609375,
+                274.3680114746094,
+                459.58245849609375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 457.1,
+          "text": "For children, the first dose should be given at 12-23",
+          "bbox": [
+            313.0,
+            457.0673522949219,
+            561.711669921875,
+            468.5673522949219
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "For children, the first dose should be given at 12-23",
+              "origin": [
+                313.0,
+                466.3109436035156
+              ],
+              "bbox": [
+                313.0,
+                457.0673522949219,
+                561.711669921875,
+                468.5673522949219
+              ]
+            }
+          ]
+        },
+        {
+          "y": 461.9,
+          "text": "disease to others within the same household.",
+          "bbox": [
+            37.0,
+            461.8824462890625,
+            256.4637145996094,
+            473.3824462890625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "disease to others within the same household.",
+              "origin": [
+                37.0,
+                471.12603759765625
+              ],
+              "bbox": [
+                37.0,
+                461.8824462890625,
+                256.4637145996094,
+                473.3824462890625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 470.9,
+          "text": "months of age. Children who are not vaccinated by 2",
+          "bbox": [
+            313.0,
+            470.8673400878906,
+            569.40283203125,
+            482.3673400878906
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "months of age.  Children who are not vaccinated by 2",
+              "origin": [
+                313.0,
+                480.1109313964844
+              ],
+              "bbox": [
+                313.0,
+                470.8673400878906,
+                569.40283203125,
+                482.3673400878906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 483.5,
+          "text": "Hepatitis A vaccine can prevent hepatitis A.",
+          "bbox": [
+            37.0,
+            483.48516845703125,
+            264.3101501464844,
+            494.98516845703125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "Hepatitis A vaccine can prevent hepatitis A.",
+              "origin": [
+                37.0,
+                492.71612548828125
+              ],
+              "bbox": [
+                37.0,
+                483.48516845703125,
+                264.3101501464844,
+                494.98516845703125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 484.7,
+          "text": "years of age can be vaccinated at later visits.",
+          "bbox": [
+            313.0,
+            484.6673278808594,
+            522.9738159179688,
+            496.1673278808594
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "years of age can be vaccinated at later visits.",
+              "origin": [
+                313.0,
+                493.9109191894531
+              ],
+              "bbox": [
+                313.0,
+                484.6673278808594,
+                522.9738159179688,
+                496.1673278808594
+              ]
+            }
+          ]
+        },
+        {
+          "y": 505.3,
+          "text": "For travelers, the vaccine series should be started at",
+          "bbox": [
+            313.0,
+            505.25811767578125,
+            566.62109375,
+            516.7581176757812
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "For travelers, the vaccine series should be started at",
+              "origin": [
+                313.0,
+                514.501708984375
+              ],
+              "bbox": [
+                313.0,
+                505.25811767578125,
+                566.62109375,
+                516.7581176757812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 508.3,
+          "text": "Who should get hepatitis A",
+          "bbox": [
+            72.5,
+            508.3267517089844,
+            258.4760437011719,
+            522.3267822265625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "Who should get hepatitis A ",
+              "origin": [
+                72.5,
+                519.1937866210938
+              ],
+              "bbox": [
+                72.5,
+                508.3267517089844,
+                258.4760437011719,
+                522.3267822265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 513.1,
+          "text": "2",
+          "bbox": [
+            46.99480056762695,
+            513.0757446289062,
+            57.00279998779297,
+            531.0757446289062
+          ],
+          "spans": [
+            {
+              "size": 18.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "2",
+              "origin": [
+                46.99480056762695,
+                527.047607421875
+              ],
+              "bbox": [
+                46.99480056762695,
+                513.0757446289062,
+                57.00279998779297,
+                531.0757446289062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 519.1,
+          "text": "least one month before traveling to provide the best",
+          "bbox": [
+            313.0,
+            519.0580444335938,
+            567.1857299804688,
+            530.5580444335938
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "least one month before traveling to provide the best",
+              "origin": [
+                313.0,
+                528.3016357421875
+              ],
+              "bbox": [
+                313.0,
+                519.0580444335938,
+                567.1857299804688,
+                530.5580444335938
+              ]
+            }
+          ]
+        },
+        {
+          "y": 522.3,
+          "text": "vaccine and when?",
+          "bbox": [
+            72.5,
+            522.3267822265625,
+            201.35879516601562,
+            536.3267822265625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "vaccine and when?",
+              "origin": [
+                72.5,
+                533.1937866210938
+              ],
+              "bbox": [
+                72.5,
+                522.3267822265625,
+                201.35879516601562,
+                536.3267822265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 532.9,
+          "text": "protection.",
+          "bbox": [
+            313.0,
+            532.8580932617188,
+            366.41748046875,
+            544.3580932617188
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "protection.",
+              "origin": [
+                313.0,
+                542.1016845703125
+              ],
+              "bbox": [
+                313.0,
+                532.8580932617188,
+                366.41748046875,
+                544.3580932617188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 544.9,
+          "text": "WHO?",
+          "bbox": [
+            37.0,
+            544.90185546875,
+            72.2406005859375,
+            556.40185546875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "WHO?",
+              "origin": [
+                37.0,
+                554.1328125
+              ],
+              "bbox": [
+                37.0,
+                544.90185546875,
+                72.2406005859375,
+                556.40185546875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 553.1,
+          "text": "Persons who get the vaccine less than one",
+          "bbox": [
+            338.0423889160156,
+            553.1176147460938,
+            542.6895141601562,
+            564.6176147460938
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "Persons who get the vaccine less than one",
+              "origin": [
+                338.0423889160156,
+                562.3612060546875
+              ],
+              "bbox": [
+                338.0423889160156,
+                553.1176147460938,
+                542.6895141601562,
+                564.6176147460938
+              ]
+            }
+          ]
+        },
+        {
+          "y": 565.5,
+          "text": "Some people should be routinely vaccinated with",
+          "bbox": [
+            37.0,
+            565.4799194335938,
+            278.4793395996094,
+            576.9799194335938
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "Some people should be routinely vaccinated with",
+              "origin": [
+                37.0,
+                574.7235107421875
+              ],
+              "bbox": [
+                37.0,
+                565.4799194335938,
+                278.4793395996094,
+                576.9799194335938
+              ]
+            }
+          ]
+        },
+        {
+          "y": 566.9,
+          "text": "month before traveling can also get a shot",
+          "bbox": [
+            338.0423889160156,
+            566.9176635742188,
+            543.4796142578125,
+            578.4176635742188
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "month before traveling can also get a shot",
+              "origin": [
+                338.0423889160156,
+                576.1612548828125
+              ],
+              "bbox": [
+                338.0423889160156,
+                566.9176635742188,
+                543.4796142578125,
+                578.4176635742188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 579.3,
+          "text": "hepatitis A vaccine:",
+          "bbox": [
+            37.0,
+            579.2799682617188,
+            134.2750701904297,
+            590.7799682617188
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "hepatitis A vaccine:",
+              "origin": [
+                37.0,
+                588.5235595703125
+              ],
+              "bbox": [
+                37.0,
+                579.2799682617188,
+                134.2750701904297,
+                590.7799682617188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 580.7,
+          "text": "called immune globulin (IG). IG gives",
+          "bbox": [
+            338.0423889160156,
+            580.7176513671875,
+            529.2838134765625,
+            592.2176513671875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "called immune globulin (IG).  IG gives",
+              "origin": [
+                338.0423889160156,
+                589.9612426757812
+              ],
+              "bbox": [
+                338.0423889160156,
+                580.7176513671875,
+                529.2838134765625,
+                592.2176513671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 594.5,
+          "text": "immediate, temporary protection.",
+          "bbox": [
+            338.0423889160156,
+            594.5176391601562,
+            503.40899658203125,
+            606.0176391601562
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "immediate, temporary protection.",
+              "origin": [
+                338.0423889160156,
+                603.76123046875
+              ],
+              "bbox": [
+                338.0423889160156,
+                594.5176391601562,
+                503.40899658203125,
+                606.0176391601562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 603.3,
+          "text": "• All children 1 year (12 through 23 months) of",
+          "bbox": [
+            37.0,
+            603.2804565429688,
+            280.502197265625,
+            614.7804565429688
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• All children 1 year  (12 through 23 months) of ",
+              "origin": [
+                37.0,
+                612.5240478515625
+              ],
+              "bbox": [
+                37.0,
+                603.2804565429688,
+                280.502197265625,
+                614.7804565429688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 615.7,
+          "text": "For others, the hepatitis A vaccine series may be",
+          "bbox": [
+            313.0,
+            615.6580810546875,
+            550.9097900390625,
+            627.1580810546875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "For others, the hepatitis A vaccine series may be",
+              "origin": [
+                313.0,
+                624.9016723632812
+              ],
+              "bbox": [
+                313.0,
+                615.6580810546875,
+                550.9097900390625,
+                627.1580810546875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 617.3,
+          "text": "age.",
+          "bbox": [
+            49.708648681640625,
+            617.2805786132812,
+            68.5353012084961,
+            628.7805786132812
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "age.",
+              "origin": [
+                49.708648681640625,
+                626.524169921875
+              ],
+              "bbox": [
+                49.708648681640625,
+                617.2805786132812,
+                68.5353012084961,
+                628.7805786132812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 629.5,
+          "text": "started whenever a person is at risk of infection.",
+          "bbox": [
+            313.0,
+            629.4580688476562,
+            548.7086181640625,
+            640.9580688476562
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "started whenever a person is at risk of infection.",
+              "origin": [
+                313.0,
+                638.70166015625
+              ],
+              "bbox": [
+                313.0,
+                629.4580688476562,
+                548.7086181640625,
+                640.9580688476562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 641.3,
+          "text": "• Persons 1 year of age and older traveling to or",
+          "bbox": [
+            37.0,
+            641.2810668945312,
+            277.59033203125,
+            652.7810668945312
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• Persons 1 year of age and older traveling to or ",
+              "origin": [
+                37.0,
+                650.524658203125
+              ],
+              "bbox": [
+                37.0,
+                641.2810668945312,
+                277.59033203125,
+                652.7810668945312
+              ]
+            }
+          ]
+        },
+        {
+          "y": 651.0,
+          "text": "of the vaccine are needed for lasting",
+          "bbox": [
+            369.1659851074219,
+            651.0481567382812,
+            545.9002075195312,
+            662.5481567382812
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "of the vaccine are needed for lasting",
+              "origin": [
+                369.1659851074219,
+                660.291748046875
+              ],
+              "bbox": [
+                369.1659851074219,
+                651.0481567382812,
+                545.9002075195312,
+                662.5481567382812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 651.1,
+          "text": "Two doses",
+          "bbox": [
+            313.0,
+            651.060791015625,
+            368.879638671875,
+            662.560791015625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "Two doses ",
+              "origin": [
+                313.0,
+                660.291748046875
+              ],
+              "bbox": [
+                313.0,
+                651.060791015625,
+                368.879638671875,
+                662.560791015625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 655.3,
+          "text": "working in countries with high or intermediate",
+          "bbox": [
+            49.708648681640625,
+            655.2811279296875,
+            285.4840087890625,
+            666.7811279296875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "working in countries with high or intermediate ",
+              "origin": [
+                49.708648681640625,
+                664.5247192382812
+              ],
+              "bbox": [
+                49.708648681640625,
+                655.2811279296875,
+                285.4840087890625,
+                666.7811279296875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 664.8,
+          "text": "protection. These doses should be given at least 6",
+          "bbox": [
+            313.0,
+            664.8482055664062,
+            558.7676391601562,
+            676.3482055664062
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "protection.  These doses should be given at least 6",
+              "origin": [
+                313.0,
+                674.091796875
+              ],
+              "bbox": [
+                313.0,
+                664.8482055664062,
+                558.7676391601562,
+                676.3482055664062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 669.3,
+          "text": "prevalence of hepatitis A, such as those located in",
+          "bbox": [
+            49.708648681640625,
+            669.28125,
+            296.2341613769531,
+            680.78125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "prevalence of hepatitis A, such as those located in ",
+              "origin": [
+                49.708648681640625,
+                678.5248413085938
+              ],
+              "bbox": [
+                49.708648681640625,
+                669.28125,
+                296.2341613769531,
+                680.78125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 678.6,
+          "text": "months apart.",
+          "bbox": [
+            313.0,
+            678.648193359375,
+            381.1202697753906,
+            690.148193359375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "months apart.",
+              "origin": [
+                313.0,
+                687.8917846679688
+              ],
+              "bbox": [
+                313.0,
+                678.648193359375,
+                381.1202697753906,
+                690.148193359375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 683.3,
+          "text": "Central or South America, Mexico, Asia (except",
+          "bbox": [
+            49.708648681640625,
+            683.2813720703125,
+            286.98583984375,
+            694.7813720703125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "Central or South America, Mexico, Asia (except ",
+              "origin": [
+                49.708648681640625,
+                692.5249633789062
+              ],
+              "bbox": [
+                49.708648681640625,
+                683.2813720703125,
+                286.98583984375,
+                694.7813720703125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 697.3,
+          "text": "Japan), Africa, and eastern Europe. For more",
+          "bbox": [
+            49.708648681640625,
+            697.2814331054688,
+            273.2215270996094,
+            708.7814331054688
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "Japan), Africa, and eastern Europe. For more ",
+              "origin": [
+                49.708648681640625,
+                706.5250244140625
+              ],
+              "bbox": [
+                49.708648681640625,
+                697.2814331054688,
+                273.2215270996094,
+                708.7814331054688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 700.2,
+          "text": "Hepatitis A vaccine may be given at the same time as",
+          "bbox": [
+            313.0,
+            700.23828125,
+            574.1753540039062,
+            711.73828125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "Hepatitis A vaccine may be given at the same time as",
+              "origin": [
+                313.0,
+                709.4818725585938
+              ],
+              "bbox": [
+                313.0,
+                700.23828125,
+                574.1753540039062,
+                711.73828125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 711.3,
+          "text": "information see www.cdc.gov/travel .",
+          "bbox": [
+            49.708648681640625,
+            711.2815551757812,
+            230.52084350585938,
+            722.794189453125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "information see ",
+              "origin": [
+                49.708648681640625,
+                720.525146484375
+              ],
+              "bbox": [
+                49.708648681640625,
+                711.2815551757812,
+                129.39100646972656,
+                722.7815551757812
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "www.cdc.gov/travel",
+              "origin": [
+                129.68310546875,
+                720.525146484375
+              ],
+              "bbox": [
+                129.68310546875,
+                711.294189453125,
+                227.65623474121094,
+                722.794189453125
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": ".",
+              "origin": [
+                227.6573486328125,
+                720.525146484375
+              ],
+              "bbox": [
+                227.6573486328125,
+                711.2815551757812,
+                230.52084350585938,
+                722.7815551757812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 714.0,
+          "text": "other vaccines.",
+          "bbox": [
+            313.0,
+            714.0382690429688,
+            385.8651428222656,
+            725.5382690429688
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "other vaccines.",
+              "origin": [
+                313.0,
+                723.2818603515625
+              ],
+              "bbox": [
+                313.0,
+                714.0382690429688,
+                385.8651428222656,
+                725.5382690429688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 732.0,
+          "text": "• Children and adolescents through 18 years of",
+          "bbox": [
+            37.0,
+            731.97119140625,
+            271.8633728027344,
+            743.47119140625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• Children and adolescents through 18 years of",
+              "origin": [
+                37.0,
+                741.2147827148438
+              ],
+              "bbox": [
+                37.0,
+                731.97119140625,
+                271.8633728027344,
+                743.47119140625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 739.4,
+          "text": "Hepatitis A 3/21/06",
+          "bbox": [
+            325.30419921875,
+            739.3792114257812,
+            563.2606201171875,
+            752.7711791992188
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Hepatitis A",
+              "origin": [
+                325.30419921875,
+                750.2391967773438
+              ],
+              "bbox": [
+                325.30419921875,
+                739.3792114257812,
+                387.5350036621094,
+                752.7711791992188
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "3/21/06",
+              "origin": [
+                523.2286376953125,
+                750.2391967773438
+              ],
+              "bbox": [
+                523.2286376953125,
+                739.3792114257812,
+                563.2606201171875,
+                752.7711791992188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 745.8,
+          "text": "age who live in states or communities where",
+          "bbox": [
+            49.708648681640625,
+            745.7711791992188,
+            269.9877014160156,
+            757.2711791992188
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "age who live in states or communities where ",
+              "origin": [
+                49.708648681640625,
+                755.0147705078125
+              ],
+              "bbox": [
+                49.708648681640625,
+                745.7711791992188,
+                269.9877014160156,
+                757.2711791992188
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 40.5,
+          "text": "Some people should not get",
+          "bbox": [
+            72.5,
+            40.453102111816406,
+            261.5994567871094,
+            54.453102111816406
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "Some people should not get",
+              "origin": [
+                72.5,
+                51.32012939453125
+              ],
+              "bbox": [
+                72.5,
+                40.453102111816406,
+                261.5994567871094,
+                54.453102111816406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 40.9,
+          "text": "What if there is a moderate or",
+          "bbox": [
+            348.5,
+            40.862770080566406,
+            547.6121826171875,
+            54.862770080566406
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "What if there is a moderate or",
+              "origin": [
+                348.5,
+                51.72979736328125
+              ],
+              "bbox": [
+                348.5,
+                40.862770080566406,
+                547.6121826171875,
+                54.862770080566406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 45.6,
+          "text": "5",
+          "bbox": [
+            322.99481201171875,
+            45.611785888671875,
+            333.0028076171875,
+            63.611785888671875
+          ],
+          "spans": [
+            {
+              "size": 18.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "5",
+              "origin": [
+                322.99481201171875,
+                59.58367919921875
+              ],
+              "bbox": [
+                322.99481201171875,
+                45.611785888671875,
+                333.0028076171875,
+                63.611785888671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 52.2,
+          "text": "3",
+          "bbox": [
+            46.99480056762695,
+            52.202178955078125,
+            57.00279998779297,
+            70.20217895507812
+          ],
+          "spans": [
+            {
+              "size": 18.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "3",
+              "origin": [
+                46.99480056762695,
+                66.174072265625
+              ],
+              "bbox": [
+                46.99480056762695,
+                52.202178955078125,
+                57.00279998779297,
+                70.20217895507812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 54.5,
+          "text": "hepatitis A vaccine or should",
+          "bbox": [
+            72.5,
+            54.453102111816406,
+            268.2437438964844,
+            68.4531021118164
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "hepatitis A vaccine or should",
+              "origin": [
+                72.5,
+                65.32012939453125
+              ],
+              "bbox": [
+                72.5,
+                54.453102111816406,
+                268.2437438964844,
+                68.4531021118164
+              ]
+            }
+          ]
+        },
+        {
+          "y": 54.9,
+          "text": "severe reaction?",
+          "bbox": [
+            348.5,
+            54.862770080566406,
+            459.9315490722656,
+            68.8627700805664
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "severe reaction?",
+              "origin": [
+                348.5,
+                65.72979736328125
+              ],
+              "bbox": [
+                348.5,
+                54.862770080566406,
+                459.9315490722656,
+                68.8627700805664
+              ]
+            }
+          ]
+        },
+        {
+          "y": 68.5,
+          "text": "wait",
+          "bbox": [
+            72.5,
+            68.4531021118164,
+            99.72160339355469,
+            82.4531021118164
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "wait",
+              "origin": [
+                72.5,
+                79.32012939453125
+              ],
+              "bbox": [
+                72.5,
+                68.4531021118164,
+                99.72160339355469,
+                82.4531021118164
+              ]
+            }
+          ]
+        },
+        {
+          "y": 78.1,
+          "text": "What should I look for?",
+          "bbox": [
+            313.0,
+            78.07974243164062,
+            441.7861633300781,
+            89.57974243164062
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "What should I look for?",
+              "origin": [
+                313.0,
+                87.0062255859375
+              ],
+              "bbox": [
+                313.0,
+                78.07974243164062,
+                441.7861633300781,
+                89.57974243164062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 89.7,
+          "text": "• Anyone who has ever had a severe (life-",
+          "bbox": [
+            37.0,
+            89.67962646484375,
+            244.3623046875,
+            101.17962646484375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• Anyone who has ever had a severe (life-",
+              "origin": [
+                37.0,
+                98.9232177734375
+              ],
+              "bbox": [
+                37.0,
+                89.67962646484375,
+                244.3623046875,
+                101.17962646484375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 91.6,
+          "text": "• Any unusual condition, such as a high fever or",
+          "bbox": [
+            313.0,
+            91.60980224609375,
+            554.2999267578125,
+            103.10980224609375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• Any unusual condition, such as a high fever or ",
+              "origin": [
+                313.0,
+                100.8533935546875
+              ],
+              "bbox": [
+                313.0,
+                91.60980224609375,
+                554.2999267578125,
+                103.10980224609375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 103.5,
+          "text": "threatening) allergic reaction to a previous dose",
+          "bbox": [
+            49.708648681640625,
+            103.4796142578125,
+            295.48211669921875,
+            114.99226379394531
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "threatening)",
+              "origin": [
+                49.708648681640625,
+                112.72320556640625
+              ],
+              "bbox": [
+                49.708648681640625,
+                103.4796142578125,
+                110.33435821533203,
+                114.9796142578125
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": " allergic reaction to a previous dose ",
+              "origin": [
+                110.33435821533203,
+                112.72320556640625
+              ],
+              "bbox": [
+                110.33435821533203,
+                103.49226379394531,
+                295.48211669921875,
+                114.99226379394531
+              ]
+            }
+          ]
+        },
+        {
+          "y": 105.4,
+          "text": "behavior changes. Signs of a serious allergic",
+          "bbox": [
+            321.9999084472656,
+            105.4097900390625,
+            537.1373291015625,
+            116.9097900390625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "behavior changes. Signs of a serious allergic",
+              "origin": [
+                321.9999084472656,
+                114.65338134765625
+              ],
+              "bbox": [
+                321.9999084472656,
+                105.4097900390625,
+                537.1373291015625,
+                116.9097900390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 117.3,
+          "text": "of hepatitis A vaccine should not get another dose.",
+          "bbox": [
+            49.708648681640625,
+            117.27960205078125,
+            298.22369384765625,
+            128.77960205078125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "of hepatitis A vaccine should not get another dose.",
+              "origin": [
+                49.708648681640625,
+                126.523193359375
+              ],
+              "bbox": [
+                49.708648681640625,
+                117.27960205078125,
+                298.22369384765625,
+                128.77960205078125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 119.2,
+          "text": "reaction can include difficulty breathing, hoarse-",
+          "bbox": [
+            321.9999084472656,
+            119.20977783203125,
+            562.17529296875,
+            130.70977783203125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "reaction can include difficulty breathing, hoarse-",
+              "origin": [
+                321.9999084472656,
+                128.453369140625
+              ],
+              "bbox": [
+                321.9999084472656,
+                119.20977783203125,
+                562.17529296875,
+                130.70977783203125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 133.0,
+          "text": "ness or wheezing, hives, paleness, weakness, a fast",
+          "bbox": [
+            321.9999084472656,
+            133.009765625,
+            569.1522827148438,
+            144.509765625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "ness or wheezing, hives, paleness, weakness, a fast ",
+              "origin": [
+                321.9999084472656,
+                142.25335693359375
+              ],
+              "bbox": [
+                321.9999084472656,
+                133.009765625,
+                569.1522827148438,
+                144.509765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 138.9,
+          "text": "• Anyone who has a severe (life threatening) allergy",
+          "bbox": [
+            37.0,
+            138.86968994140625,
+            296.87237548828125,
+            150.38233947753906
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• Anyone who has a severe (life threatening) ",
+              "origin": [
+                37.0,
+                148.11328125
+              ],
+              "bbox": [
+                37.0,
+                138.86968994140625,
+                262.01708984375,
+                150.36968994140625
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "allergy",
+              "origin": [
+                262.310302734375,
+                148.11328125
+              ],
+              "bbox": [
+                262.310302734375,
+                138.88233947753906,
+                296.87237548828125,
+                150.38233947753906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 146.8,
+          "text": "heart beat or dizziness.",
+          "bbox": [
+            321.9999084472656,
+            146.80975341796875,
+            434.6895446777344,
+            158.30975341796875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "heart beat or dizziness.",
+              "origin": [
+                321.9999084472656,
+                156.0533447265625
+              ],
+              "bbox": [
+                321.9999084472656,
+                146.80975341796875,
+                434.6895446777344,
+                158.30975341796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 152.7,
+          "text": "to any vaccine component should not get the",
+          "bbox": [
+            49.708648681640625,
+            152.669677734375,
+            279.8512878417969,
+            164.1823272705078
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "to any vaccine component ",
+              "origin": [
+                49.708648681640625,
+                161.91326904296875
+              ],
+              "bbox": [
+                49.708648681640625,
+                152.6823272705078,
+                187.3705596923828,
+                164.1823272705078
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "should not get the ",
+              "origin": [
+                187.66265869140625,
+                161.91326904296875
+              ],
+              "bbox": [
+                187.66265869140625,
+                152.669677734375,
+                279.8512878417969,
+                164.169677734375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 166.5,
+          "text": "vaccine. Tell your doctor if you have anysevere",
+          "bbox": [
+            49.708648681640625,
+            166.46966552734375,
+            285.90948486328125,
+            177.96966552734375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "vaccine.  Tell your doctor if you have anysevere ",
+              "origin": [
+                49.708648681640625,
+                175.7132568359375
+              ],
+              "bbox": [
+                49.708648681640625,
+                166.46966552734375,
+                285.90948486328125,
+                177.96966552734375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 169.7,
+          "text": "What should I do?",
+          "bbox": [
+            313.0,
+            169.71743774414062,
+            413.5928039550781,
+            181.21743774414062
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "What should I do?",
+              "origin": [
+                313.0,
+                178.6439208984375
+              ],
+              "bbox": [
+                313.0,
+                169.71743774414062,
+                413.5928039550781,
+                181.21743774414062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 180.3,
+          "text": "allergies. All hepatitis A vaccines contain alum",
+          "bbox": [
+            49.708648681640625,
+            180.2696533203125,
+            286.11651611328125,
+            191.7696533203125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "allergies.  All hepatitis A vaccines contain alum ",
+              "origin": [
+                49.708648681640625,
+                189.51324462890625
+              ],
+              "bbox": [
+                49.708648681640625,
+                180.2696533203125,
+                286.11651611328125,
+                191.7696533203125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 183.2,
+          "text": "• a doctor, or get the person to a doctor right",
+          "bbox": [
+            313.0,
+            183.2486572265625,
+            560.381103515625,
+            194.7486572265625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "•",
+              "origin": [
+                313.0,
+                192.49224853515625
+              ],
+              "bbox": [
+                313.0,
+                183.2486572265625,
+                319.7850036621094,
+                194.7486572265625
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": " a doctor, or get the person to a doctor right ",
+              "origin": [
+                343.064453125,
+                192.49224853515625
+              ],
+              "bbox": [
+                343.064453125,
+                183.2486572265625,
+                560.381103515625,
+                194.7486572265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 183.3,
+          "text": "Call",
+          "bbox": [
+            319.7850036621094,
+            183.2613067626953,
+            343.064453125,
+            194.7613067626953
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": " Call",
+              "origin": [
+                319.7850036621094,
+                192.49224853515625
+              ],
+              "bbox": [
+                319.7850036621094,
+                183.2613067626953,
+                343.064453125,
+                194.7613067626953
+              ]
+            }
+          ]
+        },
+        {
+          "y": 194.1,
+          "text": "and some hepatitis A vaccines contain",
+          "bbox": [
+            49.708648681640625,
+            194.06964111328125,
+            239.20220947265625,
+            205.56964111328125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "and some hepatitis A vaccines contain",
+              "origin": [
+                49.708648681640625,
+                203.313232421875
+              ],
+              "bbox": [
+                49.708648681640625,
+                194.06964111328125,
+                239.20220947265625,
+                205.56964111328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 197.0,
+          "text": "away.",
+          "bbox": [
+            321.9999084472656,
+            197.04864501953125,
+            347.980712890625,
+            208.54864501953125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "away.",
+              "origin": [
+                321.9999084472656,
+                206.292236328125
+              ],
+              "bbox": [
+                321.9999084472656,
+                197.04864501953125,
+                347.980712890625,
+                208.54864501953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 207.9,
+          "text": "2-phenoxyethanol.",
+          "bbox": [
+            49.708648681640625,
+            207.86962890625,
+            140.78634643554688,
+            219.36962890625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "2-phenoxyethanol.",
+              "origin": [
+                49.708648681640625,
+                217.11322021484375
+              ],
+              "bbox": [
+                49.708648681640625,
+                207.86962890625,
+                140.78634643554688,
+                219.36962890625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 214.6,
+          "text": "• your doctor what happened, the date and time",
+          "bbox": [
+            313.0,
+            214.6390380859375,
+            574.5525512695312,
+            226.1390380859375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "•",
+              "origin": [
+                313.0,
+                223.88262939453125
+              ],
+              "bbox": [
+                313.0,
+                214.6390380859375,
+                319.7850036621094,
+                226.1390380859375
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": " your doctor what happened, the date and time ",
+              "origin": [
+                341.8121032714844,
+                223.88262939453125
+              ],
+              "bbox": [
+                341.8121032714844,
+                214.6390380859375,
+                574.5525512695312,
+                226.1390380859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 214.7,
+          "text": "Tell",
+          "bbox": [
+            319.7850036621094,
+            214.6516876220703,
+            341.8121032714844,
+            226.1516876220703
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": " Tell",
+              "origin": [
+                319.7850036621094,
+                223.88262939453125
+              ],
+              "bbox": [
+                319.7850036621094,
+                214.6516876220703,
+                341.8121032714844,
+                226.1516876220703
+              ]
+            }
+          ]
+        },
+        {
+          "y": 228.4,
+          "text": "it happened, and when the vaccination was given.",
+          "bbox": [
+            321.9999084472656,
+            228.43902587890625,
+            565.8907470703125,
+            239.93902587890625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "it happened, and when the vaccination was given.",
+              "origin": [
+                321.9999084472656,
+                237.6826171875
+              ],
+              "bbox": [
+                321.9999084472656,
+                228.43902587890625,
+                565.8907470703125,
+                239.93902587890625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 229.5,
+          "text": "• Anyone who is moderately or severely ill at the",
+          "bbox": [
+            37.0,
+            229.459716796875,
+            290.1897277832031,
+            240.9723663330078
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• Anyone who is ",
+              "origin": [
+                37.0,
+                238.70330810546875
+              ],
+              "bbox": [
+                37.0,
+                229.459716796875,
+                125.80645751953125,
+                240.959716796875
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "moderately or severely ill",
+              "origin": [
+                126.09394836425781,
+                238.70330810546875
+              ],
+              "bbox": [
+                126.09394836425781,
+                229.4723663330078,
+                256.4028015136719,
+                240.9723663330078
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": " at the ",
+              "origin": [
+                256.4028015136719,
+                238.70330810546875
+              ],
+              "bbox": [
+                256.4028015136719,
+                229.459716796875,
+                290.1897277832031,
+                240.959716796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 243.3,
+          "text": "time the shot is scheduled should probably wait",
+          "bbox": [
+            49.70747375488281,
+            243.25970458984375,
+            287.6954040527344,
+            254.75970458984375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "time the shot is scheduled should probably wait ",
+              "origin": [
+                49.70747375488281,
+                252.5032958984375
+              ],
+              "bbox": [
+                49.70747375488281,
+                243.25970458984375,
+                287.6954040527344,
+                254.75970458984375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 246.0,
+          "text": "• Ask your doctor, nurse, or health department to",
+          "bbox": [
+            313.0,
+            246.0294189453125,
+            560.2476806640625,
+            257.54205322265625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "•",
+              "origin": [
+                313.0,
+                255.27301025390625
+              ],
+              "bbox": [
+                313.0,
+                246.0294189453125,
+                319.7850036621094,
+                257.5294189453125
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": " Ask",
+              "origin": [
+                319.7850036621094,
+                255.27301025390625
+              ],
+              "bbox": [
+                319.7850036621094,
+                246.0420684814453,
+                341.77301025390625,
+                257.54205322265625
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": " your doctor, nurse, or health department to ",
+              "origin": [
+                341.77301025390625,
+                255.27301025390625
+              ],
+              "bbox": [
+                341.77301025390625,
+                246.0294189453125,
+                560.2476806640625,
+                257.5294189453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 257.1,
+          "text": "until they recover. Ask your doctor or nurse.",
+          "bbox": [
+            49.70747375488281,
+            257.0596923828125,
+            277.5570068359375,
+            268.5596923828125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "until they recover.  Ask your doctor or nurse.  ",
+              "origin": [
+                49.70747375488281,
+                266.30328369140625
+              ],
+              "bbox": [
+                49.70747375488281,
+                257.0596923828125,
+                277.5570068359375,
+                268.5596923828125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 259.8,
+          "text": "report the reaction by filing a Vaccine Adverse",
+          "bbox": [
+            321.9999084472656,
+            259.82940673828125,
+            553.1994018554688,
+            271.32940673828125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "report the reaction by filing a Vaccine Adverse ",
+              "origin": [
+                321.9999084472656,
+                269.072998046875
+              ],
+              "bbox": [
+                321.9999084472656,
+                259.82940673828125,
+                553.1994018554688,
+                271.32940673828125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 270.9,
+          "text": "People with a mild illness can usually get the",
+          "bbox": [
+            49.70747375488281,
+            270.85968017578125,
+            276.59783935546875,
+            282.372314453125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "People with a ",
+              "origin": [
+                49.70747375488281,
+                280.103271484375
+              ],
+              "bbox": [
+                49.70747375488281,
+                270.85968017578125,
+                118.64191436767578,
+                282.35968017578125
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "mild illness",
+              "origin": [
+                118.93172454833984,
+                280.103271484375
+              ],
+              "bbox": [
+                118.93172454833984,
+                270.872314453125,
+                178.970947265625,
+                282.372314453125
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": " can usually get the ",
+              "origin": [
+                178.970947265625,
+                280.103271484375
+              ],
+              "bbox": [
+                178.970947265625,
+                270.85968017578125,
+                276.59783935546875,
+                282.35968017578125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 273.6,
+          "text": "Event Reporting System (VAERS) form.",
+          "bbox": [
+            321.9999084472656,
+            273.62939453125,
+            520.3668212890625,
+            285.12939453125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "Event Reporting System (VAERS) form.",
+              "origin": [
+                321.9999084472656,
+                282.87298583984375
+              ],
+              "bbox": [
+                321.9999084472656,
+                273.62939453125,
+                520.3668212890625,
+                285.12939453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 284.7,
+          "text": "vaccine.",
+          "bbox": [
+            49.70747375488281,
+            284.65966796875,
+            88.96388244628906,
+            296.15966796875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "vaccine.",
+              "origin": [
+                49.70747375488281,
+                293.90325927734375
+              ],
+              "bbox": [
+                49.70747375488281,
+                284.65966796875,
+                88.96388244628906,
+                296.15966796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 294.2,
+          "text": "Or you can file this report through the VAERS",
+          "bbox": [
+            321.9999084472656,
+            294.22015380859375,
+            555.5361328125,
+            305.72015380859375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "Or you can file this report through the VAERS ",
+              "origin": [
+                321.9999084472656,
+                303.4637451171875
+              ],
+              "bbox": [
+                321.9999084472656,
+                294.22015380859375,
+                555.5361328125,
+                305.72015380859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 306.2,
+          "text": "• Tell your doctor if you are . The safety",
+          "bbox": [
+            36.99882507324219,
+            306.249755859375,
+            286.4510803222656,
+            317.749755859375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• Tell your doctor if you are ",
+              "origin": [
+                36.99882507324219,
+                315.49334716796875
+              ],
+              "bbox": [
+                36.99882507324219,
+                306.249755859375,
+                180.54527282714844,
+                317.749755859375
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": ". The safety ",
+              "origin": [
+                226.43948364257812,
+                315.49334716796875
+              ],
+              "bbox": [
+                226.43948364257812,
+                306.249755859375,
+                286.4510803222656,
+                317.749755859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 306.3,
+          "text": "pregnant",
+          "bbox": [
+            180.83853149414062,
+            306.26239013671875,
+            226.4394989013672,
+            317.76239013671875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "pregnant",
+              "origin": [
+                180.83853149414062,
+                315.49334716796875
+              ],
+              "bbox": [
+                180.83853149414062,
+                306.26239013671875,
+                226.4394989013672,
+                317.76239013671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 308.0,
+          "text": "web site at www.vaers.hhs.gov, or by calling",
+          "bbox": [
+            321.9999084472656,
+            308.0201416015625,
+            535.684814453125,
+            319.5201416015625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "web site at www.vaers.hhs.gov, or by calling",
+              "origin": [
+                321.9999084472656,
+                317.26373291015625
+              ],
+              "bbox": [
+                321.9999084472656,
+                308.0201416015625,
+                535.684814453125,
+                319.5201416015625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 320.0,
+          "text": "of hepatitis A vaccine for pregnant women has",
+          "bbox": [
+            49.707489013671875,
+            320.04974365234375,
+            280.8264465332031,
+            331.54974365234375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "of hepatitis A vaccine for pregnant women has ",
+              "origin": [
+                49.707489013671875,
+                329.2933349609375
+              ],
+              "bbox": [
+                49.707489013671875,
+                320.04974365234375,
+                280.8264465332031,
+                331.54974365234375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 321.8,
+          "text": "1-800-822-7967.",
+          "bbox": [
+            321.9999084472656,
+            321.82012939453125,
+            399.3167419433594,
+            333.32012939453125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "1-800-822-7967.",
+              "origin": [
+                321.9999084472656,
+                331.063720703125
+              ],
+              "bbox": [
+                321.9999084472656,
+                321.82012939453125,
+                399.3167419433594,
+                333.32012939453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 333.8,
+          "text": "not been determined. But there is no evidence",
+          "bbox": [
+            49.707489013671875,
+            333.8497314453125,
+            279.7626953125,
+            345.3497314453125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "not been determined. But there is no evidence ",
+              "origin": [
+                49.707489013671875,
+                343.09332275390625
+              ],
+              "bbox": [
+                49.707489013671875,
+                333.8497314453125,
+                279.7626953125,
+                345.3497314453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 342.4,
+          "text": "VAERS does not provide medical advice.",
+          "bbox": [
+            321.9999084472656,
+            342.42352294921875,
+            508.65985107421875,
+            353.92352294921875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Italic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "VAERS does not provide medical advice.",
+              "origin": [
+                321.9999084472656,
+                351.65447998046875
+              ],
+              "bbox": [
+                321.9999084472656,
+                342.42352294921875,
+                508.65985107421875,
+                353.92352294921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 347.6,
+          "text": "that it is harmful to either pregnant women or",
+          "bbox": [
+            49.707489013671875,
+            347.64971923828125,
+            280.3284912109375,
+            359.14971923828125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "that it is harmful to either pregnant women or ",
+              "origin": [
+                49.707489013671875,
+                356.893310546875
+              ],
+              "bbox": [
+                49.707489013671875,
+                347.64971923828125,
+                280.3284912109375,
+                359.14971923828125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 361.4,
+          "text": "their unborn babies. The risk, if any, is thought",
+          "bbox": [
+            49.707489013671875,
+            361.44970703125,
+            289.8091125488281,
+            372.94970703125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "their unborn babies.  The risk, if any, is thought ",
+              "origin": [
+                49.707489013671875,
+                370.69329833984375
+              ],
+              "bbox": [
+                49.707489013671875,
+                361.44970703125,
+                289.8091125488281,
+                372.94970703125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 368.3,
+          "text": "The National Vaccine Injury",
+          "bbox": [
+            348.5,
+            368.34356689453125,
+            530.6258544921875,
+            382.34356689453125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "The National Vaccine Injury",
+              "origin": [
+                348.5,
+                379.2106018066406
+              ],
+              "bbox": [
+                348.5,
+                368.34356689453125,
+                530.6258544921875,
+                382.34356689453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 373.1,
+          "text": "6",
+          "bbox": [
+            322.99481201171875,
+            373.0926208496094,
+            333.0028076171875,
+            391.0926208496094
+          ],
+          "spans": [
+            {
+              "size": 18.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "6",
+              "origin": [
+                322.99481201171875,
+                387.06451416015625
+              ],
+              "bbox": [
+                322.99481201171875,
+                373.0926208496094,
+                333.0028076171875,
+                391.0926208496094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 375.2,
+          "text": "to be very low.",
+          "bbox": [
+            49.707489013671875,
+            375.24969482421875,
+            123.57083892822266,
+            386.74969482421875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "to be very low. ",
+              "origin": [
+                49.707489013671875,
+                384.4932861328125
+              ],
+              "bbox": [
+                49.707489013671875,
+                375.24969482421875,
+                123.57083892822266,
+                386.74969482421875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 382.3,
+          "text": "Compensation Program",
+          "bbox": [
+            348.5,
+            382.34356689453125,
+            507.27691650390625,
+            396.34356689453125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "Compensation Program",
+              "origin": [
+                348.5,
+                393.2106018066406
+              ],
+              "bbox": [
+                348.5,
+                382.34356689453125,
+                507.27691650390625,
+                396.34356689453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 402.1,
+          "text": "What are the risks from",
+          "bbox": [
+            72.5,
+            402.1404724121094,
+            229.34054565429688,
+            416.1404724121094
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "What are the risks from",
+              "origin": [
+                72.5,
+                413.00750732421875
+              ],
+              "bbox": [
+                72.5,
+                402.1404724121094,
+                229.34054565429688,
+                416.1404724121094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 403.1,
+          "text": "In the event that you or your child has a serious",
+          "bbox": [
+            313.0,
+            403.093994140625,
+            548.8695678710938,
+            414.593994140625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "In the event that you or your child has a serious",
+              "origin": [
+                313.0,
+                412.33758544921875
+              ],
+              "bbox": [
+                313.0,
+                403.093994140625,
+                548.8695678710938,
+                414.593994140625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 406.9,
+          "text": "4",
+          "bbox": [
+            46.99480056762695,
+            406.8894958496094,
+            57.00279998779297,
+            424.8894958496094
+          ],
+          "spans": [
+            {
+              "size": 18.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "4",
+              "origin": [
+                46.99480056762695,
+                420.86138916015625
+              ],
+              "bbox": [
+                46.99480056762695,
+                406.8894958496094,
+                57.00279998779297,
+                424.8894958496094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 416.1,
+          "text": "hepatitis A vaccine?",
+          "bbox": [
+            72.5,
+            416.1404724121094,
+            208.32806396484375,
+            430.1404724121094
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "hepatitis A vaccine?",
+              "origin": [
+                72.5,
+                427.00750732421875
+              ],
+              "bbox": [
+                72.5,
+                416.1404724121094,
+                208.32806396484375,
+                430.1404724121094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 416.9,
+          "text": "reaction to a vaccine, a federal program has been",
+          "bbox": [
+            313.0,
+            416.89398193359375,
+            551.5515747070312,
+            428.39398193359375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "reaction to a vaccine, a federal program has been",
+              "origin": [
+                313.0,
+                426.1375732421875
+              ],
+              "bbox": [
+                313.0,
+                416.89398193359375,
+                551.5515747070312,
+                428.39398193359375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 430.7,
+          "text": "created to help pay for the care of those who have",
+          "bbox": [
+            313.0,
+            430.6939697265625,
+            556.1123046875,
+            442.1939697265625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "created to help pay for the care of those who have",
+              "origin": [
+                313.0,
+                439.93756103515625
+              ],
+              "bbox": [
+                313.0,
+                430.6939697265625,
+                556.1123046875,
+                442.1939697265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 439.2,
+          "text": "A vaccine, like any medicine, could possibly cause",
+          "bbox": [
+            37.0,
+            439.159423828125,
+            283.88775634765625,
+            450.659423828125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "A vaccine, like any medicine, could possibly cause",
+              "origin": [
+                37.0,
+                448.40301513671875
+              ],
+              "bbox": [
+                37.0,
+                439.159423828125,
+                283.88775634765625,
+                450.659423828125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 444.5,
+          "text": "been harmed.",
+          "bbox": [
+            313.0,
+            444.49395751953125,
+            379.6390380859375,
+            455.99395751953125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "been harmed.",
+              "origin": [
+                313.0,
+                453.737548828125
+              ],
+              "bbox": [
+                313.0,
+                444.49395751953125,
+                379.6390380859375,
+                455.99395751953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 453.0,
+          "text": "serious problems, such as severe allergic reactions.",
+          "bbox": [
+            37.0,
+            452.95941162109375,
+            284.0567932128906,
+            464.45941162109375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "serious problems, such as severe allergic reactions.",
+              "origin": [
+                37.0,
+                462.2030029296875
+              ],
+              "bbox": [
+                37.0,
+                452.95941162109375,
+                284.0567932128906,
+                464.45941162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 465.1,
+          "text": "For details about the National Vaccine Injury",
+          "bbox": [
+            313.0,
+            465.084716796875,
+            535.8505249023438,
+            476.584716796875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "For details about the National Vaccine Injury",
+              "origin": [
+                313.0,
+                474.32830810546875
+              ],
+              "bbox": [
+                313.0,
+                465.084716796875,
+                535.8505249023438,
+                476.584716796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 466.8,
+          "text": "The risk of hepatitis A vaccine causing serious",
+          "bbox": [
+            37.0,
+            466.7593994140625,
+            275.33978271484375,
+            478.2593994140625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "The risk of  hepatitis A vaccine  causing  serious",
+              "origin": [
+                37.0,
+                476.00299072265625
+              ],
+              "bbox": [
+                37.0,
+                466.7593994140625,
+                275.33978271484375,
+                478.2593994140625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 478.9,
+          "text": "Compensation Program, call 1-800-338-2382 or visit",
+          "bbox": [
+            313.0,
+            478.88470458984375,
+            568.0321044921875,
+            490.38470458984375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "Compensation Program, call 1-800-338-2382 or visit",
+              "origin": [
+                313.0,
+                488.1282958984375
+              ],
+              "bbox": [
+                313.0,
+                478.88470458984375,
+                568.0321044921875,
+                490.38470458984375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 480.6,
+          "text": "harm, or death, is extremely small.",
+          "bbox": [
+            37.0,
+            480.55938720703125,
+            207.3690185546875,
+            492.05938720703125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "harm, or death, is extremely small.",
+              "origin": [
+                37.0,
+                489.802978515625
+              ],
+              "bbox": [
+                37.0,
+                480.55938720703125,
+                207.3690185546875,
+                492.05938720703125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 492.7,
+          "text": "their website at www.hrsa.gov/vaccinecompensation.",
+          "bbox": [
+            313.0,
+            492.6846923828125,
+            569.6121826171875,
+            504.1846923828125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "their website at www.hrsa.gov/vaccinecompensation.",
+              "origin": [
+                313.0,
+                501.92828369140625
+              ],
+              "bbox": [
+                313.0,
+                492.6846923828125,
+                569.6121826171875,
+                504.1846923828125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 501.2,
+          "text": "Getting hepatitis A vaccine is much safer than",
+          "bbox": [
+            37.0,
+            501.150146484375,
+            264.6631774902344,
+            512.650146484375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "Getting hepatitis A vaccine is much safer than",
+              "origin": [
+                37.0,
+                510.39373779296875
+              ],
+              "bbox": [
+                37.0,
+                501.150146484375,
+                264.6631774902344,
+                512.650146484375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 515.0,
+          "text": "getting the disease.",
+          "bbox": [
+            37.0,
+            514.9501342773438,
+            130.51800537109375,
+            526.4501342773438
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "getting the disease.",
+              "origin": [
+                37.0,
+                524.1937255859375
+              ],
+              "bbox": [
+                37.0,
+                514.9501342773438,
+                130.51800537109375,
+                526.4501342773438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 518.9,
+          "text": "7",
+          "bbox": [
+            322.99481201171875,
+            518.9137573242188,
+            333.0028076171875,
+            536.9137573242188
+          ],
+          "spans": [
+            {
+              "size": 18.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "7",
+              "origin": [
+                322.99481201171875,
+                532.8856201171875
+              ],
+              "bbox": [
+                322.99481201171875,
+                518.9137573242188,
+                333.0028076171875,
+                536.9137573242188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 520.4,
+          "text": "How can I learn more?",
+          "bbox": [
+            348.5,
+            520.3760375976562,
+            499.1959228515625,
+            534.3760375976562
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7179999947547913,
+              "descender": -0.2070000022649765,
+              "text": "How can I learn more?",
+              "origin": [
+                348.5,
+                531.2430419921875
+              ],
+              "bbox": [
+                348.5,
+                520.3760375976562,
+                499.1959228515625,
+                534.3760375976562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 538.6,
+          "text": "Mild problems",
+          "bbox": [
+            37.0,
+            538.5848388671875,
+            115.27819061279297,
+            551.4188232421875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Mild problems",
+              "origin": [
+                37.0,
+                548.9923095703125
+              ],
+              "bbox": [
+                37.0,
+                538.5848388671875,
+                115.27819061279297,
+                551.4188232421875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 543.7,
+          "text": "• Ask your doctor or nurse. They can give you the",
+          "bbox": [
+            313.0,
+            543.7481079101562,
+            566.1034545898438,
+            555.2481079101562
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• Ask your doctor or nurse.  They can give you the ",
+              "origin": [
+                313.0,
+                552.99169921875
+              ],
+              "bbox": [
+                313.0,
+                543.7481079101562,
+                566.1034545898438,
+                555.2481079101562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 557.5,
+          "text": "vaccine package insert or suggest other sources of",
+          "bbox": [
+            321.9999084472656,
+            557.548095703125,
+            567.7239379882812,
+            569.048095703125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "vaccine package insert or suggest other sources of ",
+              "origin": [
+                321.9999084472656,
+                566.7916870117188
+              ],
+              "bbox": [
+                321.9999084472656,
+                557.548095703125,
+                567.7239379882812,
+                569.048095703125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 560.3,
+          "text": "• soreness where the shot was given",
+          "bbox": [
+            37.0,
+            560.3394775390625,
+            220.2962188720703,
+            571.8394775390625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• soreness where the shot was given ",
+              "origin": [
+                37.0,
+                569.5830688476562
+              ],
+              "bbox": [
+                37.0,
+                560.3394775390625,
+                220.2962188720703,
+                571.8394775390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 560.4,
+          "text": "(about 1 out of 2",
+          "bbox": [
+            220.59519958496094,
+            560.3521118164062,
+            298.2915344238281,
+            571.8521118164062
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Italic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "(about 1 out of 2 ",
+              "origin": [
+                220.59519958496094,
+                569.5830688476562
+              ],
+              "bbox": [
+                220.59519958496094,
+                560.3521118164062,
+                298.2915344238281,
+                571.8521118164062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 571.3,
+          "text": "information.",
+          "bbox": [
+            321.9999084472656,
+            571.3480834960938,
+            383.8330993652344,
+            582.8480834960938
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "information.",
+              "origin": [
+                321.9999084472656,
+                580.5916748046875
+              ],
+              "bbox": [
+                321.9999084472656,
+                571.3480834960938,
+                383.8330993652344,
+                582.8480834960938
+              ]
+            }
+          ]
+        },
+        {
+          "y": 574.2,
+          "text": "adults, and up to 1 out of 6 children)",
+          "bbox": [
+            50.499847412109375,
+            574.152099609375,
+            215.94805908203125,
+            585.652099609375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Italic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "adults, and up to 1 out of 6 children)",
+              "origin": [
+                50.499847412109375,
+                583.383056640625
+              ],
+              "bbox": [
+                50.499847412109375,
+                574.152099609375,
+                215.94805908203125,
+                585.652099609375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 587.9,
+          "text": "• headache",
+          "bbox": [
+            36.999996185302734,
+            587.9395141601562,
+            98.65495300292969,
+            599.4395141601562
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• headache ",
+              "origin": [
+                36.999996185302734,
+                597.18310546875
+              ],
+              "bbox": [
+                36.999996185302734,
+                587.9395141601562,
+                98.65495300292969,
+                599.4395141601562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 588.0,
+          "text": "(about 1 out of 6 adults and 1 out of 25",
+          "bbox": [
+            98.94244384765625,
+            587.9521484375,
+            279.2854919433594,
+            599.4521484375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Italic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "(about 1 out of 6 adults and 1 out of 25 ",
+              "origin": [
+                98.94244384765625,
+                597.18310546875
+              ],
+              "bbox": [
+                98.94244384765625,
+                587.9521484375,
+                279.2854919433594,
+                599.4521484375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 590.9,
+          "text": "• Call your local or state health department.",
+          "bbox": [
+            313.0,
+            590.9383544921875,
+            529.0000610351562,
+            602.4383544921875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• Call your local or state health department.",
+              "origin": [
+                313.0,
+                600.1819458007812
+              ],
+              "bbox": [
+                313.0,
+                590.9383544921875,
+                529.0000610351562,
+                602.4383544921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 601.8,
+          "text": "children)",
+          "bbox": [
+            50.49984359741211,
+            601.7521362304688,
+            90.23464965820312,
+            613.2521362304688
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Italic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "children)",
+              "origin": [
+                50.49984359741211,
+                610.9830932617188
+              ],
+              "bbox": [
+                50.49984359741211,
+                601.7521362304688,
+                90.23464965820312,
+                613.2521362304688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 610.5,
+          "text": "• Contact the Centers for Disease Control and",
+          "bbox": [
+            313.0,
+            610.5286254882812,
+            542.0271606445312,
+            622.0286254882812
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• Contact the Centers for Disease Control and ",
+              "origin": [
+                313.0,
+                619.772216796875
+              ],
+              "bbox": [
+                313.0,
+                610.5286254882812,
+                542.0271606445312,
+                622.0286254882812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 615.5,
+          "text": "• loss of appetite",
+          "bbox": [
+            36.99999237060547,
+            615.5394897460938,
+            126.49874114990234,
+            627.0394897460938
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• loss of appetite ",
+              "origin": [
+                36.99999237060547,
+                624.7830810546875
+              ],
+              "bbox": [
+                36.99999237060547,
+                615.5394897460938,
+                126.49874114990234,
+                627.0394897460938
+              ]
+            }
+          ]
+        },
+        {
+          "y": 615.6,
+          "text": "(about 1 out of 12 children)",
+          "bbox": [
+            126.79314422607422,
+            615.5521240234375,
+            250.2238311767578,
+            627.0521240234375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Italic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "(about 1 out of 12 children)",
+              "origin": [
+                126.79314422607422,
+                624.7830810546875
+              ],
+              "bbox": [
+                126.79314422607422,
+                615.5521240234375,
+                250.2238311767578,
+                627.0521240234375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 624.3,
+          "text": "Prevention (CDC):",
+          "bbox": [
+            321.9999084472656,
+            624.32861328125,
+            415.4570007324219,
+            635.82861328125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "Prevention (CDC):",
+              "origin": [
+                321.9999084472656,
+                633.5722045898438
+              ],
+              "bbox": [
+                321.9999084472656,
+                624.32861328125,
+                415.4570007324219,
+                635.82861328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 629.3,
+          "text": "• tiredness",
+          "bbox": [
+            36.99999237060547,
+            629.3394775390625,
+            97.50265502929688,
+            640.8394775390625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• tiredness ",
+              "origin": [
+                36.99999237060547,
+                638.5830688476562
+              ],
+              "bbox": [
+                36.99999237060547,
+                629.3394775390625,
+                97.50265502929688,
+                640.8394775390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 629.4,
+          "text": "(about 1 out of 14 adults)",
+          "bbox": [
+            97.79359436035156,
+            629.3521118164062,
+            212.43133544921875,
+            640.8521118164062
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Italic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "(about 1 out of 14 adults)",
+              "origin": [
+                97.79359436035156,
+                638.5830688476562
+              ],
+              "bbox": [
+                97.79359436035156,
+                629.3521118164062,
+                212.43133544921875,
+                640.8521118164062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 638.1,
+          "text": "- Call 1-800-232-4636 (1-800-CDC-INFO)",
+          "bbox": [
+            321.9999084472656,
+            638.1286010742188,
+            531.9967651367188,
+            649.6412353515625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "- Call ",
+              "origin": [
+                321.9999084472656,
+                647.3721923828125
+              ],
+              "bbox": [
+                321.9999084472656,
+                638.1286010742188,
+                354.34027099609375,
+                649.6286010742188
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "1-800-232-4636 (1-800-CDC-INFO)",
+              "origin": [
+                354.624267578125,
+                647.3721923828125
+              ],
+              "bbox": [
+                354.624267578125,
+                638.1412353515625,
+                531.9967651367188,
+                649.6412353515625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 649.9,
+          "text": "If these problems occur, they usually last 1 or 2 days.",
+          "bbox": [
+            36.999996185302734,
+            649.9302368164062,
+            296.0777587890625,
+            661.4302368164062
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "If these problems occur, they usually last 1 or 2 days.",
+              "origin": [
+                36.999996185302734,
+                659.173828125
+              ],
+              "bbox": [
+                36.999996185302734,
+                649.9302368164062,
+                296.0777587890625,
+                661.4302368164062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 651.9,
+          "text": "- Visit CDC websites at: www.cdc.gov/hepatitis",
+          "bbox": [
+            321.9999084472656,
+            651.9286499023438,
+            559.51416015625,
+            663.4412841796875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "- Visit CDC websites at: ",
+              "origin": [
+                321.9999084472656,
+                661.1722412109375
+              ],
+              "bbox": [
+                321.9999084472656,
+                651.9286499023438,
+                445.6583557128906,
+                663.4286499023438
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "www.cdc.gov/hepatitis",
+              "origin": [
+                445.95037841796875,
+                661.1722412109375
+              ],
+              "bbox": [
+                445.95037841796875,
+                651.9412841796875,
+                559.51416015625,
+                663.4412841796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 666.1,
+          "text": "or www.cdc.gov/nip",
+          "bbox": [
+            331.8335876464844,
+            666.0897216796875,
+            430.8140563964844,
+            677.6023559570312
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "or ",
+              "origin": [
+                331.8335876464844,
+                675.3333129882812
+              ],
+              "bbox": [
+                331.8335876464844,
+                666.0897216796875,
+                345.0401611328125,
+                677.5897216796875
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "www.cdc.gov/nip",
+              "origin": [
+                345.3265380859375,
+                675.3333129882812
+              ],
+              "bbox": [
+                345.3265380859375,
+                666.1023559570312,
+                430.8140563964844,
+                677.6023559570312
+              ]
+            }
+          ]
+        },
+        {
+          "y": 673.4,
+          "text": "Severe problems",
+          "bbox": [
+            36.999996185302734,
+            673.4269409179688,
+            129.99819946289062,
+            686.2609252929688
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Severe problems",
+              "origin": [
+                36.999996185302734,
+                683.8344116210938
+              ],
+              "bbox": [
+                36.999996185302734,
+                673.4269409179688,
+                129.99819946289062,
+                686.2609252929688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 695.2,
+          "text": "• serious allergic reaction, within a few minutes",
+          "bbox": [
+            36.999996185302734,
+            695.1815795898438,
+            279.3383483886719,
+            706.6815795898438
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "• serious allergic reaction, within a few minutes ",
+              "origin": [
+                36.999996185302734,
+                704.4251708984375
+              ],
+              "bbox": [
+                36.999996185302734,
+                695.1815795898438,
+                279.3383483886719,
+                706.6815795898438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 709.0,
+          "text": "to a few hours of the shot (very rare)",
+          "bbox": [
+            50.499847412109375,
+            708.9815673828125,
+            225.06524658203125,
+            720.4942016601562
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "to a few hours of the shot",
+              "origin": [
+                50.499847412109375,
+                718.2251586914062
+              ],
+              "bbox": [
+                50.499847412109375,
+                708.9815673828125,
+                174.991943359375,
+                720.4815673828125
+              ]
+            },
+            {
+              "size": 11.5,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Italic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": " (very rare)",
+              "origin": [
+                174.991943359375,
+                718.2251586914062
+              ],
+              "bbox": [
+                174.991943359375,
+                708.9942016601562,
+                225.06524658203125,
+                720.4942016601562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 721.8,
+          "text": "department of health and human services",
+          "bbox": [
+            320.3431091308594,
+            721.8441772460938,
+            567.6483154296875,
+            732.8441772460938
+          ],
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Copperplate-ThirtyThreeB",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.4399999976158142,
+              "descender": 0.0,
+              "text": "department of health and human services",
+              "origin": [
+                320.3431091308594,
+                732.8441772460938
+              ],
+              "bbox": [
+                320.3431091308594,
+                721.8441772460938,
+                567.6483154296875,
+                732.8441772460938
+              ]
+            }
+          ]
+        },
+        {
+          "y": 730.5,
+          "text": "Vaccine Information Statement",
+          "bbox": [
+            106.19660186767578,
+            730.5293579101562,
+            230.9376220703125,
+            741.5993041992188
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRoman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "Vaccine Information Statement",
+              "origin": [
+                106.19660186767578,
+                739.4393310546875
+              ],
+              "bbox": [
+                106.19660186767578,
+                730.5293579101562,
+                230.9376220703125,
+                741.5993041992188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 733.0,
+          "text": "Centers for Disease Control and Prevention",
+          "bbox": [
+            323.9493103027344,
+            733.0092163085938,
+            564.0534057617188,
+            743.0092163085938
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Copperplate-ThirtyThreeB",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.4399999976158142,
+              "descender": 0.0,
+              "text": "Centers for Disease Control and Prevention",
+              "origin": [
+                323.9493103027344,
+                743.0092163085938
+              ],
+              "bbox": [
+                323.9493103027344,
+                733.0092163085938,
+                564.0534057617188,
+                743.0092163085938
+              ]
+            }
+          ]
+        },
+        {
+          "y": 742.5,
+          "text": "Hepatitis A (3/21/06) 42 U.S.C. § 300aa-26",
+          "bbox": [
+            45.2566032409668,
+            742.5293579101562,
+            291.8625793457031,
+            753.5993041992188
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRoman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "Hepatitis A (3/21/06)                           42 U.S.C. § 300aa-26",
+              "origin": [
+                45.2566032409668,
+                751.4393310546875
+              ],
+              "bbox": [
+                45.2566032409668,
+                742.5293579101562,
+                291.8625793457031,
+                753.5993041992188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 744.0,
+          "text": "National Immunization Program",
+          "bbox": [
+            367.98028564453125,
+            744.0092163085938,
+            520.0192260742188,
+            753.0092163085938
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Copperplate-ThirtyThreeB",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.4399999976158142,
+              "descender": 0.0,
+              "text": "National Immunization Program",
+              "origin": [
+                367.98028564453125,
+                753.0092163085938
+              ],
+              "bbox": [
+                367.98028564453125,
+                744.0092163085938,
+                520.0192260742188,
+                753.0092163085938
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

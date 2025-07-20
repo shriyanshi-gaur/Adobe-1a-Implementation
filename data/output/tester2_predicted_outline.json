@@ -1,0 +1,131 @@
+{
+    "title": "MODELREPORT: TriggerforOCHAAnticipatory",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "1.Background",
+            "page": 2,
+            "content": "Thisdocumentsummarizesthedocumentationandfindingsofthepeerreviewofthemodel usedbytheUNCentralEmergencyResponseFundtotriggerthedroughtanticipatoryaction frameworkinChad.Themodelisa go-no-gotriggermechanismdesignedtoanticipate humanitarianimpactsofseasonaldroughtina sub-regionofChad. ThereviewhasbeenconductedbetweenJanuaryandMay2023.",
+            "word_count_content": 7,
+            "avg_sentence_length_content": 2.6666666666666665,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H1",
+            "text": "2.MainFindingsandRecommendations",
+            "page": 2,
+            "content": "Youcanfindallthedocumentationregardingthemodel,itsapplicationandthereviewprocess atthefollowinglinks: TheModelCarddescribestheversionofthemodelthatwasendorsedbyhumanitarian \u25cf actioninNovember2022andwascompletedinJanuary2023. TheModelEvaluationMatrixwascompletedinFebruary2023byCarlosOsorio-Ram\u00edrez, \u25cf AssociateProfessoratUniversidadNacionaldeColombia. TheImplementationPlanwascompletedinFebruary2023.Itsummarizeshowthe \u25cf triggermodelisusedtotriggeranticipatoryactionandtheagreedactivationprotocol. TheEthicalMatrixaimstoidentifyallstakeholdersandpotentialissuesregardingthe \u25cf intendeduseofthemodel.TheEthicalMatrixwascompletedinMay2023byAnnaLena Huhn,SouthernAfricaRegionalAnticipatoryActionAdvisorattheUnitedNationsWorld FoodProgramme. Asummaryofthemainfindingsandrecommendationsisprovidedbelow. 2.1TechnicalReview IntendedUse Overall,theusecasesarewell-describedandadequatelyexplained.Thedocumentationofthe limitationsofthemodelcouldbeextendedinitsdescription,asisthecaseofthebiomass anomalyanditsconnectionwithscenarioslikeextremedrynessorlateonset. ModelDevelopmentandDocumentation Itisadvisabletoprovidefurtherdocumentationonthedifferentdatasourcesusedbytheteam tovalidatetheselectionofindicatorsandestimatetheperformanceofthemodel.Also,some dataisnotavailableina machinereadableformatanditwouldbegoodtoexplainhowtheteam dealtwiththisissue. ModelEvaluation Itisunclearwhatisanacceptablelevelofaccuracyforthemodel.Theteamshouldbetter articulatehowtheperformancebenchmarkwasestablishedandhowtheperformancemetrics wereevaluatedandpresentedtothefinalstakeholders. OperationalReadiness Itwouldbegoodtoexpandtheanalysisofthemissedactivationsofthemodelsandthe potentialfalsealarmsthatthemodelcouldbeproviding. 2.2EthicalReview FalseNegatives Afalsenegativeoccurswhennodroughtimpactispredictedbutdroughtconditionsoccur. Theteamcouldconsideradditionalmitigationstrategiessuchastheuseofcitizenscienceor groundobservationstocomplementtheforecast-basedtrigger. InsufficientData Insufficientdatareferstothegapsinimpactdatausedtoverifytheforecastpredictions. Insufficientdatamightlimittheprecisepredictionofforecastedhumanitarianimpactand exposelocalpopulationstoadversehumanitarianimpactinducedbya droughtevent,requiring alarge-scalehumanitarianresponseex-post.Theteamshouldconsiderthefeasibilityofadding furthervulnerabilitylayersinfutureiterationsofthemodel. FalsePositives Afalsepositivehappenswhendroughtimpactispredictedbutnodroughtconditionsoccur. Anticipatoryactionfollowsthe\u2018noregret\u2019principle,buta falsealarmcanstillleadtoinadequate resourceallocationwitha highpotentialimpactonaffectedcommunities.Theanticipatory actionframeworkcouldindicatea precisemitigationstrategyina clearermanner. LackofTrustandOwnership Lackoftrustandownershipreferstothelimitedinvolvementoflocalandregionalauthoritiesin themodeldesignandvalidation.Thismayleadtolittleownershipandtrustputintothemodel andeventuallytopoliticalblockagesinactivations.Infutureframeworkversionsa clearstrategy fortheinvolvementofaffectedpopulationsandanapproachtoaccountabilitytoaffected populationsshouldbeidentified. LackofTransparency Lackoftransparencyreferstothealgorithmsnotbeingmadeavailableornotbeingtransparent. Theanticipatoryactionframeworkshouldreflectclearerstrategiestoengagewithlocalleaders tobetterunderstandwhatishappeningonthegroundandobtainearlybuy-in.Mitigation strategyfora potentiallackoftransparencyshouldbeexpandedinthemodelcardand/orthe anticipatoryactionframework. Inaction Inactionreferstothesituationinwhichdroughtimpactispredictedbutnoactionistaken. Inactionincaseoftriggeractivationisunlikely,giventhepre-allocatedfinancingattachedtoit andtheUN-validatedanticipatoryactionframework.Inactionmightneverthelessbea possibility,ifgovernmentorlocalauthoritiesblocktheroll-outofinterventionsonthegroundor incaseofconflictupsurge.Theteamcouldconsideraddinga consensus-based decision-makingoptionaroundactivationornon-activationintheeventofspecificeventsor situationalcontextnotconsideredinthemodeldesign(e.g.,higherlevelsofvulnerabilityor increaseinarmedconflict,etc.) Feedback TheCentreinvitesindividualsandorganizationsworkinginthehumanitarian,academic, researchandprivatesectortoengagewithusonthepeerreviewprocess.Pleasesendfeedback ontheFrameworktocentrehumdata@un.org.",
+            "word_count_content": 84,
+            "avg_sentence_length_content": 2.641025641025641,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H2",
+            "text": "2.1TechnicalReview",
+            "page": 2,
+            "content": "IntendedUse Overall,theusecasesarewell-describedandadequatelyexplained.Thedocumentationofthe limitationsofthemodelcouldbeextendedinitsdescription,asisthecaseofthebiomass anomalyanditsconnectionwithscenarioslikeextremedrynessorlateonset. ModelDevelopmentandDocumentation Itisadvisabletoprovidefurtherdocumentationonthedifferentdatasourcesusedbytheteam tovalidatetheselectionofindicatorsandestimatetheperformanceofthemodel.Also,some dataisnotavailableina machinereadableformatanditwouldbegoodtoexplainhowtheteam dealtwiththisissue. ModelEvaluation Itisunclearwhatisanacceptablelevelofaccuracyforthemodel.Theteamshouldbetter articulatehowtheperformancebenchmarkwasestablishedandhowtheperformancemetrics wereevaluatedandpresentedtothefinalstakeholders. OperationalReadiness Itwouldbegoodtoexpandtheanalysisofthemissedactivationsofthemodelsandthe potentialfalsealarmsthatthemodelcouldbeproviding.",
+            "word_count_content": 17,
+            "avg_sentence_length_content": 2.857142857142857,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H3",
+            "text": "IntendedUse",
+            "page": 2,
+            "content": "Overall,theusecasesarewell-describedandadequatelyexplained.Thedocumentationofthe limitationsofthemodelcouldbeextendedinitsdescription,asisthecaseofthebiomass anomalyanditsconnectionwithscenarioslikeextremedrynessorlateonset. ModelDevelopmentandDocumentation Itisadvisabletoprovidefurtherdocumentationonthedifferentdatasourcesusedbytheteam tovalidatetheselectionofindicatorsandestimatetheperformanceofthemodel.Also,some dataisnotavailableina machinereadableformatanditwouldbegoodtoexplainhowtheteam dealtwiththisissue.",
+            "word_count_content": 9,
+            "avg_sentence_length_content": 2.75,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H3",
+            "text": "ModelEvaluation",
+            "page": 3,
+            "content": "Itisunclearwhatisanacceptablelevelofaccuracyforthemodel.Theteamshouldbetter articulatehowtheperformancebenchmarkwasestablishedandhowtheperformancemetrics wereevaluatedandpresentedtothefinalstakeholders.",
+            "word_count_content": 3,
+            "avg_sentence_length_content": 2.0,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H3",
+            "text": "OperationalReadiness",
+            "page": 3,
+            "content": "Itwouldbegoodtoexpandtheanalysisofthemissedactivationsofthemodelsandthe potentialfalsealarmsthatthemodelcouldbeproviding.",
+            "word_count_content": 2,
+            "avg_sentence_length_content": 2.0,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H2",
+            "text": "2.2EthicalReview",
+            "page": 3,
+            "content": "FalseNegatives Afalsenegativeoccurswhennodroughtimpactispredictedbutdroughtconditionsoccur. Theteamcouldconsideradditionalmitigationstrategiessuchastheuseofcitizenscienceor groundobservationstocomplementtheforecast-basedtrigger. InsufficientData Insufficientdatareferstothegapsinimpactdatausedtoverifytheforecastpredictions. Insufficientdatamightlimittheprecisepredictionofforecastedhumanitarianimpactand exposelocalpopulationstoadversehumanitarianimpactinducedbya droughtevent,requiring alarge-scalehumanitarianresponseex-post.Theteamshouldconsiderthefeasibilityofadding furthervulnerabilitylayersinfutureiterationsofthemodel. FalsePositives Afalsepositivehappenswhendroughtimpactispredictedbutnodroughtconditionsoccur. Anticipatoryactionfollowsthe\u2018noregret\u2019principle,buta falsealarmcanstillleadtoinadequate resourceallocationwitha highpotentialimpactonaffectedcommunities.Theanticipatory actionframeworkcouldindicatea precisemitigationstrategyina clearermanner. LackofTrustandOwnership Lackoftrustandownershipreferstothelimitedinvolvementoflocalandregionalauthoritiesin themodeldesignandvalidation.Thismayleadtolittleownershipandtrustputintothemodel andeventuallytopoliticalblockagesinactivations.Infutureframeworkversionsa clearstrategy fortheinvolvementofaffectedpopulationsandanapproachtoaccountabilitytoaffected populationsshouldbeidentified. LackofTransparency Lackoftransparencyreferstothealgorithmsnotbeingmadeavailableornotbeingtransparent. Theanticipatoryactionframeworkshouldreflectclearerstrategiestoengagewithlocalleaders tobetterunderstandwhatishappeningonthegroundandobtainearlybuy-in.Mitigation strategyfora potentiallackoftransparencyshouldbeexpandedinthemodelcardand/orthe anticipatoryactionframework. Inaction Inactionreferstothesituationinwhichdroughtimpactispredictedbutnoactionistaken. Inactionincaseoftriggeractivationisunlikely,giventhepre-allocatedfinancingattachedtoit andtheUN-validatedanticipatoryactionframework.Inactionmightneverthelessbea possibility,ifgovernmentorlocalauthoritiesblocktheroll-outofinterventionsonthegroundor incaseofconflictupsurge.Theteamcouldconsideraddinga consensus-based decision-makingoptionaroundactivationornon-activationintheeventofspecificeventsor situationalcontextnotconsideredinthemodeldesign(e.g.,higherlevelsofvulnerabilityor increaseinarmedconflict,etc.) Feedback TheCentreinvitesindividualsandorganizationsworkinginthehumanitarian,academic, researchandprivatesectortoengagewithusonthepeerreviewprocess.Pleasesendfeedback ontheFrameworktocentrehumdata@un.org.",
+            "word_count_content": 48,
+            "avg_sentence_length_content": 2.608695652173913,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H3",
+            "text": "FalseNegatives",
+            "page": 3,
+            "content": "Afalsenegativeoccurswhennodroughtimpactispredictedbutdroughtconditionsoccur. Theteamcouldconsideradditionalmitigationstrategiessuchastheuseofcitizenscienceor groundobservationstocomplementtheforecast-basedtrigger.",
+            "word_count_content": 3,
+            "avg_sentence_length_content": 1.5,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H3",
+            "text": "InsufficientData",
+            "page": 3,
+            "content": "Insufficientdatareferstothegapsinimpactdatausedtoverifytheforecastpredictions. Insufficientdatamightlimittheprecisepredictionofforecastedhumanitarianimpactand exposelocalpopulationstoadversehumanitarianimpactinducedbya droughtevent,requiring alarge-scalehumanitarianresponseex-post.Theteamshouldconsiderthefeasibilityofadding furthervulnerabilitylayersinfutureiterationsofthemodel.",
+            "word_count_content": 6,
+            "avg_sentence_length_content": 2.3333333333333335,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H3",
+            "text": "FalsePositives",
+            "page": 3,
+            "content": "Afalsepositivehappenswhendroughtimpactispredictedbutnodroughtconditionsoccur. Anticipatoryactionfollowsthe\u2018noregret\u2019principle,buta falsealarmcanstillleadtoinadequate resourceallocationwitha highpotentialimpactonaffectedcommunities.Theanticipatory actionframeworkcouldindicatea precisemitigationstrategyina clearermanner.",
+            "word_count_content": 8,
+            "avg_sentence_length_content": 3.0,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H3",
+            "text": "LackofTrustandOwnership",
+            "page": 3,
+            "content": "Lackoftrustandownershipreferstothelimitedinvolvementoflocalandregionalauthoritiesin themodeldesignandvalidation.Thismayleadtolittleownershipandtrustputintothemodel andeventuallytopoliticalblockagesinactivations.Infutureframeworkversionsa clearstrategy fortheinvolvementofaffectedpopulationsandanapproachtoaccountabilitytoaffected populationsshouldbeidentified.",
+            "word_count_content": 6,
+            "avg_sentence_length_content": 2.6666666666666665,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H3",
+            "text": "LackofTransparency",
+            "page": 4,
+            "content": "Lackoftransparencyreferstothealgorithmsnotbeingmadeavailableornotbeingtransparent. Theanticipatoryactionframeworkshouldreflectclearerstrategiestoengagewithlocalleaders tobetterunderstandwhatishappeningonthegroundandobtainearlybuy-in.Mitigation strategyfora potentiallackoftransparencyshouldbeexpandedinthemodelcardand/orthe anticipatoryactionframework.",
+            "word_count_content": 6,
+            "avg_sentence_length_content": 2.3333333333333335,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H3",
+            "text": "Inaction",
+            "page": 4,
+            "content": "Inactionreferstothesituationinwhichdroughtimpactispredictedbutnoactionistaken. Inactionincaseoftriggeractivationisunlikely,giventhepre-allocatedfinancingattachedtoit andtheUN-validatedanticipatoryactionframework.Inactionmightneverthelessbea possibility,ifgovernmentorlocalauthoritiesblocktheroll-outofinterventionsonthegroundor incaseofconflictupsurge.Theteamcouldconsideraddinga consensus-based decision-makingoptionaroundactivationornon-activationintheeventofspecificeventsor situationalcontextnotconsideredinthemodeldesign(e.g.,higherlevelsofvulnerabilityor increaseinarmedconflict,etc.)",
+            "word_count_content": 9,
+            "avg_sentence_length_content": 2.0,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H3",
+            "text": "Feedback",
+            "page": 4,
+            "content": "TheCentreinvitesindividualsandorganizationsworkinginthehumanitarian,academic, researchandprivatesectortoengagewithusonthepeerreviewprocess.Pleasesendfeedback ontheFrameworktocentrehumdata@un.org.",
+            "word_count_content": 3,
+            "avg_sentence_length_content": 1.6666666666666667,
+            "has_list_items_content": 0
+        }
+    ]
+}

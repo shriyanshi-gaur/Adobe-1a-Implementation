@@ -1,0 +1,15 @@
+{
+    "title": "Advertisement Template for Tour and Travel Company",
+    "outline": [
+        {
+            "level": "H2",
+            "text": "Special Offers",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Destinations in Package",
+            "page": 1
+        }
+    ]
+}

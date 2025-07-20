@@ -3,130 +3,244 @@
   "pages": [
     {
       "page_number": 1,
+      "page_width": 612.0,
+      "page_height": 792.0,
       "lines": [
         {
           "y": 193.7,
           "text": "Peer Review Framework for Predictive Analytics",
+          "bbox": [
+            70.5765151977539,
+            193.73828125,
+            443.13397216796875,
+            214.83203125
+          ],
           "spans": [
             {
+              "size": 18.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Italic",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Peer Review Framework for Predictive Analytics",
+              "origin": [
+                70.5765151977539,
+                210.4375
+              ],
               "bbox": [
                 70.5765151977539,
                 193.73828125,
                 443.13397216796875,
                 214.83203125
-              ],
-              "font": "Roboto-Italic",
-              "size": 18.0,
-              "color": "0xffffff"
+              ]
             }
           ]
         },
         {
           "y": 218.6,
           "text": "in Humanitarian Response",
+          "bbox": [
+            70.59375,
+            218.58230590820312,
+            277.08624267578125,
+            239.67605590820312
+          ],
           "spans": [
             {
+              "size": 18.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Italic",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "in Humanitarian Response",
+              "origin": [
+                70.59375,
+                235.28152465820312
+              ],
               "bbox": [
                 70.59375,
                 218.58230590820312,
                 277.08624267578125,
                 239.67605590820312
-              ],
-              "font": "Roboto-Italic",
-              "size": 18.0,
-              "color": "0xffffff"
+              ]
             }
           ]
         },
         {
           "y": 281.4,
           "text": "MODEL REPORT:",
+          "bbox": [
+            72.0,
+            281.3923034667969,
+            270.05963134765625,
+            311.8610534667969
+          ],
           "spans": [
             {
+              "size": 26.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Roboto-Bold",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "MODEL REPORT:",
+              "origin": [
+                72.0,
+                305.5133972167969
+              ],
               "bbox": [
                 72.0,
                 281.3923034667969,
                 270.05963134765625,
                 311.8610534667969
-              ],
-              "font": "Roboto-Bold",
-              "size": 26.0,
-              "color": "0xffffff"
+              ]
             }
           ]
         },
         {
           "y": 318.2,
           "text": "Trigger for OCHA Anticipatory",
+          "bbox": [
+            72.0,
+            318.18310546875,
+            449.800048828125,
+            350.99560546875
+          ],
           "spans": [
             {
+              "size": 28.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Roboto-Bold",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Trigger for OCHA Anticipatory",
+              "origin": [
+                72.0,
+                344.15966796875
+              ],
               "bbox": [
                 72.0,
                 318.18310546875,
                 449.800048828125,
                 350.99560546875
-              ],
-              "font": "Roboto-Bold",
-              "size": 28.0,
-              "color": "0xffffff"
+              ]
             }
           ]
         },
         {
           "y": 356.8,
           "text": "Action on Drought in Chad",
+          "bbox": [
+            72.0,
+            356.82940673828125,
+            401.5990905761719,
+            389.64190673828125
+          ],
           "spans": [
             {
+              "size": 28.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Roboto-Bold",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Action on Drought in Chad",
+              "origin": [
+                72.0,
+                382.80596923828125
+              ],
               "bbox": [
                 72.0,
                 356.82940673828125,
                 401.5990905761719,
                 389.64190673828125
-              ],
-              "font": "Roboto-Bold",
-              "size": 28.0,
-              "color": "0xffffff"
+              ]
             }
           ]
         },
         {
           "y": 395.2,
           "text": "Trigger developed by the UN OCHA Centre for Humanitarian Data",
+          "bbox": [
+            72.0,
+            395.20611572265625,
+            529.3450927734375,
+            413.95611572265625
+          ],
           "spans": [
             {
+              "size": 16.0,
+              "flags": 22,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Roboto-BoldItalic",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Trigger developed by the UN OCHA Centre for Humanitarian Data",
+              "origin": [
+                72.0,
+                410.04986572265625
+              ],
               "bbox": [
                 72.0,
                 395.20611572265625,
                 529.3450927734375,
                 413.95611572265625
-              ],
-              "font": "Roboto-BoldItalic",
-              "size": 16.0,
-              "color": "0xffffff"
+              ]
             }
           ]
         },
         {
           "y": 432.5,
           "text": "June 2023",
+          "bbox": [
+            72.0,
+            432.51715087890625,
+            156.2423095703125,
+            453.61090087890625
+          ],
           "spans": [
             {
+              "size": 18.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "June 2023",
+              "origin": [
+                72.0,
+                449.21636962890625
+              ],
               "bbox": [
                 72.0,
                 432.51715087890625,
                 156.2423095703125,
                 453.61090087890625
-              ],
-              "font": "Roboto-Regular",
-              "size": 18.0,
-              "color": "0xffffff"
+              ]
             }
           ]
         }
@@ -134,682 +248,1280 @@
     },
     {
       "page_number": 2,
+      "page_width": 612.0,
+      "page_height": 792.0,
       "lines": [
         {
           "y": 149.4,
           "text": "Model Report:",
+          "bbox": [
+            72.0,
+            149.35272216796875,
+            178.76910400390625,
+            170.45428466796875
+          ],
           "spans": [
             {
+              "size": 16.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "RobotoSlab-Bold",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 1.0478515625,
+              "descender": -0.27099609375,
               "text": "Model Report:",
+              "origin": [
+                72.0,
+                166.11834716796875
+              ],
               "bbox": [
                 72.0,
                 149.35272216796875,
                 178.76910400390625,
                 170.45428466796875
-              ],
-              "font": "RobotoSlab-Bold",
-              "size": 16.0,
-              "color": "0x1bb580"
+              ]
             }
           ]
         },
         {
           "y": 173.6,
           "text": "Trigger for OCHA Anticipatory Action on Drought in Chad",
+          "bbox": [
+            72.0,
+            173.6195068359375,
+            504.33843994140625,
+            194.7210693359375
+          ],
           "spans": [
             {
+              "size": 16.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "RobotoSlab-Regular",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 1.0478515625,
+              "descender": -0.27099609375,
               "text": "Trigger for OCHA Anticipatory Action on Drought in Chad",
+              "origin": [
+                72.0,
+                190.3851318359375
+              ],
               "bbox": [
                 72.0,
                 173.6195068359375,
                 504.33843994140625,
                 194.7210693359375
-              ],
-              "font": "RobotoSlab-Regular",
-              "size": 16.0,
-              "color": "0x1bb580"
+              ]
             }
           ]
         },
         {
           "y": 228.5,
           "text": "1. Background",
+          "bbox": [
+            72.0,
+            228.5208740234375,
+            149.4009552001953,
+            242.5833740234375
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Medium",
+              "color": 2058675,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "1. Background",
+              "origin": [
+                72.0,
+                239.6536865234375
+              ],
               "bbox": [
                 72.0,
                 228.5208740234375,
                 149.4009552001953,
                 242.5833740234375
-              ],
-              "font": "Roboto-Medium",
-              "size": 12.0,
-              "color": "0x1f69b3"
+              ]
             }
           ]
         },
         {
           "y": 245.1,
           "text": "This document summarizes the documentation and findings of the peer review of the model",
+          "bbox": [
+            72.0,
+            245.06103515625,
+            539.4677124023438,
+            257.95166015625
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "This document summarizes the documentation and findings of the peer review of the model",
+              "origin": [
+                72.0,
+                255.26611328125
+              ],
               "bbox": [
                 72.0,
                 245.06103515625,
                 539.4677124023438,
                 257.95166015625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 260.2,
-          "text": "used by the UN Central Emergency Response Fund to trigger the  drought anticipatory action",
+          "text": "used by the UN Central Emergency Response Fund to trigger the drought anticipatory action",
+          "bbox": [
+            72.0,
+            260.243408203125,
+            539.2673950195312,
+            273.134033203125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "used by the UN Central Emergency Response Fund to trigger the",
+              "origin": [
+                72.0,
+                270.448486328125
+              ],
               "bbox": [
                 72.0,
                 260.243408203125,
                 400.6870422363281,
                 273.134033203125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 1136076,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": " drought anticipatory action",
+              "origin": [
+                400.6870422363281,
+                270.448486328125
+              ],
               "bbox": [
                 400.6870422363281,
                 260.243408203125,
                 539.2673950195312,
                 273.134033203125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x1155cc"
+              ]
             }
           ]
         },
         {
           "y": 275.4,
-          "text": "framework  in Chad. The model is a go-no-go trigger mechanism designed to anticipate",
+          "text": "framework in Chad. The model is a go-no-go trigger mechanism designed to anticipate",
+          "bbox": [
+            72.0,
+            275.4259033203125,
+            539.9005737304688,
+            288.3165283203125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 1136076,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "framework",
+              "origin": [
+                72.0,
+                285.6309814453125
+              ],
               "bbox": [
                 72.0,
                 275.4259033203125,
                 124.58348846435547,
                 288.3165283203125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x1155cc"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": " in Chad. The model is a go-no-go trigger mechanism designed to anticipate",
+              "origin": [
+                124.58348846435547,
+                285.6309814453125
+              ],
               "bbox": [
                 124.58348846435547,
                 275.4259033203125,
                 539.9005737304688,
                 288.3165283203125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 290.6,
           "text": "humanitarian impacts of seasonal drought in a sub-region of Chad.",
+          "bbox": [
+            72.0,
+            290.6085205078125,
+            397.18182373046875,
+            303.4991455078125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "humanitarian impacts of seasonal drought in a sub-region of Chad.",
+              "origin": [
+                72.0,
+                300.8135986328125
+              ],
               "bbox": [
                 72.0,
                 290.6085205078125,
                 397.18182373046875,
                 303.4991455078125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 321.0,
           "text": "The review has been conducted between January and May 2023.",
+          "bbox": [
+            72.0,
+            320.973388671875,
+            386.908935546875,
+            333.864013671875
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "The review has been conducted between January and May 2023.",
+              "origin": [
+                72.0,
+                331.178466796875
+              ],
               "bbox": [
                 72.0,
                 320.973388671875,
                 386.908935546875,
                 333.864013671875
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 351.4,
           "text": "2. Main Findings and Recommendations",
+          "bbox": [
+            72.0,
+            351.36083984375,
+            287.6786193847656,
+            365.42333984375
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Medium",
+              "color": 2058675,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "2. Main Findings and Recommendations",
+              "origin": [
+                72.0,
+                362.49365234375
+              ],
               "bbox": [
                 72.0,
                 351.36083984375,
                 287.6786193847656,
                 365.42333984375
-              ],
-              "font": "Roboto-Medium",
-              "size": 12.0,
-              "color": "0x1f69b3"
+              ]
             }
           ]
         },
         {
           "y": 367.9,
           "text": "You can find all the documentation regarding the model, its application and the review process",
+          "bbox": [
+            72.0,
+            367.901123046875,
+            539.8763427734375,
+            380.791748046875
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "You can find all the documentation regarding the model, its application and the review process",
+              "origin": [
+                72.0,
+                378.106201171875
+              ],
               "bbox": [
                 72.0,
                 367.901123046875,
                 539.8763427734375,
                 380.791748046875
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 383.1,
           "text": "at the following links:",
+          "bbox": [
+            72.0,
+            383.08349609375,
+            175.35215759277344,
+            395.97412109375
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "at the following links:",
+              "origin": [
+                72.0,
+                393.28857421875
+              ],
               "bbox": [
                 72.0,
                 383.08349609375,
                 175.35215759277344,
                 395.97412109375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 398.3,
-          "text": "The  Model Card  describes the version of the model that was endorsed by humanitarian",
+          "text": "The Model Card describes the version of the model that was endorsed by humanitarian",
+          "bbox": [
+            108.0,
+            398.2659912109375,
+            539.5565795898438,
+            411.1566162109375
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "The",
+              "origin": [
+                108.0,
+                408.4710693359375
+              ],
               "bbox": [
                 108.0,
                 398.2659912109375,
                 126.44310760498047,
                 411.1566162109375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 1136076,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": " Model Card",
+              "origin": [
+                126.44310760498047,
+                408.4710693359375
+              ],
               "bbox": [
                 126.44310760498047,
                 398.2659912109375,
                 186.89015197753906,
                 411.1566162109375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x1155cc"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": " describes the version of the model that was endorsed by humanitarian",
+              "origin": [
+                186.89015197753906,
+                408.4710693359375
+              ],
               "bbox": [
                 186.89015197753906,
                 398.2659912109375,
                 539.5565795898438,
                 411.1566162109375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 398.5,
           "text": "●",
+          "bbox": [
+            90.0,
+            398.5130615234375,
+            96.64399719238281,
+            410.8021240234375
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9052734375,
+              "descender": -0.2119140625,
               "text": "●",
+              "origin": [
+                90.0,
+                408.4710693359375
+              ],
               "bbox": [
                 90.0,
                 398.5130615234375,
                 96.64399719238281,
                 410.8021240234375
-              ],
-              "font": "ArialMT",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 413.4,
           "text": "action in November 2022 and was completed in January 2023.",
+          "bbox": [
+            108.0,
+            413.448486328125,
+            412.2442321777344,
+            426.339111328125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "action in November 2022 and was completed in January 2023.",
+              "origin": [
+                108.0,
+                423.653564453125
+              ],
               "bbox": [
                 108.0,
                 413.448486328125,
                 412.2442321777344,
                 426.339111328125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 428.6,
-          "text": "The  Model Evaluation Matrix  was completed in February 2023 by Carlos Osorio-Ramírez,",
+          "text": "The Model Evaluation Matrix was completed in February 2023 by Carlos Osorio-Ramírez,",
+          "bbox": [
+            108.0,
+            428.630859375,
+            539.63427734375,
+            441.521484375
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "The",
+              "origin": [
+                108.0,
+                438.8359375
+              ],
               "bbox": [
                 108.0,
                 428.630859375,
                 126.44310760498047,
                 441.521484375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 1136076,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": " Model Evaluation Matrix",
+              "origin": [
+                126.44310760498047,
+                438.8359375
+              ],
               "bbox": [
                 126.44310760498047,
                 428.630859375,
                 249.04515075683594,
                 441.521484375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x1155cc"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": " was completed in February 2023 by Carlos Osorio-Ramírez,",
+              "origin": [
+                249.04515075683594,
+                438.8359375
+              ],
               "bbox": [
                 249.04515075683594,
                 428.630859375,
                 539.63427734375,
                 441.521484375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 428.9,
           "text": "●",
+          "bbox": [
+            90.0,
+            428.8779296875,
+            96.64399719238281,
+            441.1669921875
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9052734375,
+              "descender": -0.2119140625,
               "text": "●",
+              "origin": [
+                90.0,
+                438.8359375
+              ],
               "bbox": [
                 90.0,
                 428.8779296875,
                 96.64399719238281,
                 441.1669921875
-              ],
-              "font": "ArialMT",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 443.8,
           "text": "Associate Professor at Universidad Nacional de Colombia.",
+          "bbox": [
+            108.0,
+            443.8133544921875,
+            392.4494934082031,
+            456.7039794921875
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Associate Professor at Universidad Nacional de Colombia.",
+              "origin": [
+                108.0,
+                454.0184326171875
+              ],
               "bbox": [
                 108.0,
                 443.8133544921875,
                 392.4494934082031,
                 456.7039794921875
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 459.0,
-          "text": "The  Implementation Plan  was completed in February 2023. It summarizes how the",
+          "text": "The Implementation Plan was completed in February 2023. It summarizes how the",
+          "bbox": [
+            108.0,
+            458.995849609375,
+            539.4667358398438,
+            471.886474609375
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "The",
+              "origin": [
+                108.0,
+                469.200927734375
+              ],
               "bbox": [
                 108.0,
                 458.995849609375,
                 126.44310760498047,
                 471.886474609375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 1136076,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": " Implementation Plan",
+              "origin": [
+                126.44310760498047,
+                469.200927734375
+              ],
               "bbox": [
                 126.44310760498047,
                 458.995849609375,
                 236.4990234375,
                 471.886474609375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x1155cc"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": " was completed in February 2023. It summarizes how the",
+              "origin": [
+                236.4990234375,
+                469.200927734375
+              ],
               "bbox": [
                 236.4990234375,
                 458.995849609375,
                 539.4667358398438,
                 471.886474609375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 459.2,
           "text": "●",
+          "bbox": [
+            90.0,
+            459.242919921875,
+            96.64399719238281,
+            471.531982421875
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9052734375,
+              "descender": -0.2119140625,
               "text": "●",
+              "origin": [
+                90.0,
+                469.200927734375
+              ],
               "bbox": [
                 90.0,
                 459.242919921875,
                 96.64399719238281,
                 471.531982421875
-              ],
-              "font": "ArialMT",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 474.2,
           "text": "trigger model is used to trigger anticipatory action and the agreed activation protocol.",
+          "bbox": [
+            108.0,
+            474.1783447265625,
+            523.2713623046875,
+            487.0689697265625
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "trigger model is used to trigger anticipatory action and the agreed activation protocol.",
+              "origin": [
+                108.0,
+                484.3834228515625
+              ],
               "bbox": [
                 108.0,
                 474.1783447265625,
                 523.2713623046875,
                 487.0689697265625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 489.4,
-          "text": "The  Ethical Matrix  aims to identify all stakeholders and potential issues regarding the",
+          "text": "The Ethical Matrix aims to identify all stakeholders and potential issues regarding the",
+          "bbox": [
+            108.0,
+            489.36083984375,
+            539.4208374023438,
+            502.25146484375
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "The",
+              "origin": [
+                108.0,
+                499.56591796875
+              ],
               "bbox": [
                 108.0,
                 489.36083984375,
                 126.44310760498047,
                 502.25146484375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 1136076,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": " Ethical Matrix",
+              "origin": [
+                126.44310760498047,
+                499.56591796875
+              ],
               "bbox": [
                 126.44310760498047,
                 489.36083984375,
                 198.84909057617188,
                 502.25146484375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x1155cc"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": " aims to identify all stakeholders and potential issues regarding the",
+              "origin": [
+                198.84909057617188,
+                499.56591796875
+              ],
               "bbox": [
                 198.84909057617188,
                 489.36083984375,
                 539.4208374023438,
                 502.25146484375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 489.6,
           "text": "●",
+          "bbox": [
+            90.0,
+            489.60791015625,
+            96.64399719238281,
+            501.89697265625
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9052734375,
+              "descender": -0.2119140625,
               "text": "●",
+              "origin": [
+                90.0,
+                499.56591796875
+              ],
               "bbox": [
                 90.0,
                 489.60791015625,
                 96.64399719238281,
                 501.89697265625
-              ],
-              "font": "ArialMT",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 504.5,
           "text": "intended use of the model. The Ethical Matrix was completed in May 2023 by Anna Lena",
+          "bbox": [
+            108.0,
+            504.543212890625,
+            539.5711669921875,
+            517.433837890625
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "intended use of the model. The Ethical Matrix was completed in May 2023 by Anna Lena",
+              "origin": [
+                108.0,
+                514.748291015625
+              ],
               "bbox": [
                 108.0,
                 504.543212890625,
                 539.5711669921875,
                 517.433837890625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 519.7,
           "text": "Huhn, Southern Africa Regional Anticipatory Action Advisor at the United Nations World",
+          "bbox": [
+            108.0,
+            519.7257080078125,
+            539.6216430664062,
+            532.6163330078125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Huhn, Southern Africa Regional Anticipatory Action Advisor at the United Nations World",
+              "origin": [
+                108.0,
+                529.9307861328125
+              ],
               "bbox": [
                 108.0,
                 519.7257080078125,
                 539.6216430664062,
                 532.6163330078125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 534.9,
           "text": "Food Programme.",
+          "bbox": [
+            108.0,
+            534.908203125,
+            195.87283325195312,
+            547.798828125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Food Programme.",
+              "origin": [
+                108.0,
+                545.11328125
+              ],
               "bbox": [
                 108.0,
                 534.908203125,
                 195.87283325195312,
                 547.798828125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 565.3,
           "text": "A summary of the main findings and recommendations is provided below.",
+          "bbox": [
+            72.0,
+            565.2730712890625,
+            430.4263000488281,
+            578.1636962890625
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "A summary of the main findings and recommendations is provided below.",
+              "origin": [
+                72.0,
+                575.4781494140625
+              ],
               "bbox": [
                 72.0,
                 565.2730712890625,
                 430.4263000488281,
                 578.1636962890625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 597.0,
           "text": "2.1 Technical Review",
+          "bbox": [
+            72.0,
+            597.040771484375,
+            184.90101623535156,
+            611.103271484375
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Medium",
+              "color": 2058675,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "2.1 Technical Review",
+              "origin": [
+                72.0,
+                608.173583984375
+              ],
               "bbox": [
                 72.0,
                 597.040771484375,
                 184.90101623535156,
                 611.103271484375
-              ],
-              "font": "Roboto-Medium",
-              "size": 12.0,
-              "color": "0x1f69b3"
+              ]
             }
           ]
         },
         {
           "y": 630.2,
           "text": "Intended Use",
+          "bbox": [
+            72.0,
+            630.1661376953125,
+            141.17002868652344,
+            644.2286376953125
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-MediumItalic",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Intended Use",
+              "origin": [
+                72.0,
+                641.2989501953125
+              ],
               "bbox": [
                 72.0,
                 630.1661376953125,
                 141.17002868652344,
                 644.2286376953125
-              ],
-              "font": "Roboto-MediumItalic",
-              "size": 12.0,
-              "color": "0x1bb580"
+              ]
             }
           ]
         },
         {
           "y": 646.7,
           "text": "Overall, the use cases are well-described and adequately explained. The documentation of the",
+          "bbox": [
+            72.0,
+            646.7064208984375,
+            539.5808715820312,
+            659.5970458984375
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Overall, the use cases are well-described and adequately explained. The documentation of the",
+              "origin": [
+                72.0,
+                656.9114990234375
+              ],
               "bbox": [
                 72.0,
                 646.7064208984375,
                 539.5808715820312,
                 659.5970458984375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 661.9,
           "text": "limitations of the model could be extended in its description, as is the case of the biomass",
+          "bbox": [
+            72.0,
+            661.888916015625,
+            539.26171875,
+            674.779541015625
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "limitations of the model could be extended in its description, as is the case of the biomass",
+              "origin": [
+                72.0,
+                672.093994140625
+              ],
               "bbox": [
                 72.0,
                 661.888916015625,
                 539.26171875,
                 674.779541015625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 677.1,
           "text": "anomaly and its connection with scenarios like extreme dryness or late onset.",
+          "bbox": [
+            72.0,
+            677.0712890625,
+            449.5880432128906,
+            689.9619140625
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "anomaly and its connection with scenarios like extreme dryness or late onset.",
+              "origin": [
+                72.0,
+                687.2763671875
+              ],
               "bbox": [
                 72.0,
                 677.0712890625,
                 449.5880432128906,
                 689.9619140625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         }
@@ -817,580 +1529,1094 @@
     },
     {
       "page_number": 3,
+      "page_width": 612.0,
+      "page_height": 792.0,
       "lines": [
         {
           "y": 88.8,
           "text": "Model Development and Documentation",
+          "bbox": [
+            72.0,
+            88.8321533203125,
+            283.0317077636719,
+            102.8946533203125
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-MediumItalic",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Model Development and Documentation",
+              "origin": [
+                72.0,
+                99.9649658203125
+              ],
               "bbox": [
                 72.0,
                 88.8321533203125,
                 283.0317077636719,
                 102.8946533203125
-              ],
-              "font": "Roboto-MediumItalic",
-              "size": 12.0,
-              "color": "0x1bb580"
+              ]
             }
           ]
         },
         {
           "y": 105.4,
           "text": "It is advisable to provide further documentation on the different data sources used by the team",
+          "bbox": [
+            72.0,
+            105.37255859375,
+            539.71875,
+            118.26318359375
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "It is advisable to provide further documentation on the different data sources used by the team",
+              "origin": [
+                72.0,
+                115.57763671875
+              ],
               "bbox": [
                 72.0,
                 105.37255859375,
                 539.71875,
                 118.26318359375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 120.6,
           "text": "to validate the selection of indicators and estimate the performance of the model. Also, some",
+          "bbox": [
+            72.0,
+            120.554931640625,
+            539.5674438476562,
+            133.445556640625
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "to validate the selection of indicators and estimate the performance of the model. Also, some",
+              "origin": [
+                72.0,
+                130.760009765625
+              ],
               "bbox": [
                 72.0,
                 120.554931640625,
                 539.5674438476562,
                 133.445556640625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 135.7,
           "text": "data is not available in a machine readable format and it would be good to explain how the team",
+          "bbox": [
+            72.0,
+            135.7374267578125,
+            539.2914428710938,
+            148.6280517578125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "data is not available in a machine readable format and it would be good to explain how the team",
+              "origin": [
+                72.0,
+                145.9425048828125
+              ],
               "bbox": [
                 72.0,
                 135.7374267578125,
                 539.2914428710938,
                 148.6280517578125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 150.9,
           "text": "dealt with this issue.",
+          "bbox": [
+            72.0,
+            150.9197998046875,
+            171.75628662109375,
+            163.8104248046875
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "dealt with this issue.",
+              "origin": [
+                72.0,
+                161.1248779296875
+              ],
               "bbox": [
                 72.0,
                 150.9197998046875,
                 171.75628662109375,
                 163.8104248046875
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 182.7,
           "text": "Model Evaluation",
+          "bbox": [
+            72.0,
+            182.6875,
+            162.5143280029297,
+            196.75
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-MediumItalic",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Model Evaluation",
+              "origin": [
+                72.0,
+                193.8203125
+              ],
               "bbox": [
                 72.0,
                 182.6875,
                 162.5143280029297,
                 196.75
-              ],
-              "font": "Roboto-MediumItalic",
-              "size": 12.0,
-              "color": "0x1bb580"
+              ]
             }
           ]
         },
         {
           "y": 199.2,
           "text": "It is unclear what is an acceptable level of accuracy for the model. The team should better",
+          "bbox": [
+            72.0,
+            199.227783203125,
+            539.3334350585938,
+            212.118408203125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "It is unclear what is an acceptable level of accuracy for the model. The team should better",
+              "origin": [
+                72.0,
+                209.432861328125
+              ],
               "bbox": [
                 72.0,
                 199.227783203125,
                 539.3334350585938,
                 212.118408203125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 214.4,
           "text": "articulate how the performance benchmark was established and how the performance metrics",
+          "bbox": [
+            72.0,
+            214.41015625,
+            539.4306030273438,
+            227.30078125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "articulate how the performance benchmark was established and how the performance metrics",
+              "origin": [
+                72.0,
+                224.615234375
+              ],
               "bbox": [
                 72.0,
                 214.41015625,
                 539.4306030273438,
                 227.30078125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 229.6,
           "text": "were evaluated and presented to the final stakeholders.",
+          "bbox": [
+            72.0,
+            229.5927734375,
+            340.728515625,
+            242.4833984375
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "were evaluated and presented to the final stakeholders.",
+              "origin": [
+                72.0,
+                239.7978515625
+              ],
               "bbox": [
                 72.0,
                 229.5927734375,
                 340.728515625,
                 242.4833984375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 261.4,
           "text": "Operational Readiness",
+          "bbox": [
+            72.0,
+            261.3603515625,
+            190.4431915283203,
+            275.4228515625
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-MediumItalic",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Operational Readiness",
+              "origin": [
+                72.0,
+                272.4931640625
+              ],
               "bbox": [
                 72.0,
                 261.3603515625,
                 190.4431915283203,
                 275.4228515625
-              ],
-              "font": "Roboto-MediumItalic",
-              "size": 12.0,
-              "color": "0x1bb580"
+              ]
             }
           ]
         },
         {
           "y": 277.9,
           "text": "It would be good to expand the analysis of the missed activations of the models and the",
+          "bbox": [
+            72.0,
+            277.9005126953125,
+            539.9887084960938,
+            290.7911376953125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "It would be good to expand the analysis of the missed activations of the models and the",
+              "origin": [
+                72.0,
+                288.1055908203125
+              ],
               "bbox": [
                 72.0,
                 277.9005126953125,
                 539.9887084960938,
                 290.7911376953125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 293.1,
           "text": "potential false alarms that the model could be providing.",
+          "bbox": [
+            72.0,
+            293.0830078125,
+            346.359130859375,
+            305.9736328125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "potential false alarms that the model could be providing.",
+              "origin": [
+                72.0,
+                303.2880859375
+              ],
               "bbox": [
                 72.0,
                 293.0830078125,
                 346.359130859375,
                 305.9736328125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 323.5,
           "text": "2.2 Ethical Review",
+          "bbox": [
+            72.0,
+            323.470458984375,
+            169.52015686035156,
+            337.532958984375
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Medium",
+              "color": 2058675,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "2.2 Ethical Review",
+              "origin": [
+                72.0,
+                334.603271484375
+              ],
               "bbox": [
                 72.0,
                 323.470458984375,
                 169.52015686035156,
                 337.532958984375
-              ],
-              "font": "Roboto-Medium",
-              "size": 12.0,
-              "color": "0x1f69b3"
+              ]
             }
           ]
         },
         {
           "y": 355.2,
           "text": "False Negatives",
+          "bbox": [
+            72.0,
+            355.215576171875,
+            155.66859436035156,
+            369.278076171875
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-MediumItalic",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "False Negatives",
+              "origin": [
+                72.0,
+                366.348388671875
+              ],
               "bbox": [
                 72.0,
                 355.215576171875,
                 155.66859436035156,
                 369.278076171875
-              ],
-              "font": "Roboto-MediumItalic",
-              "size": 12.0,
-              "color": "0x1bb580"
+              ]
             }
           ]
         },
         {
           "y": 371.8,
           "text": "A false negative occurs when no drought impact is predicted but drought conditions occur.",
+          "bbox": [
+            72.0,
+            371.755859375,
+            512.325439453125,
+            384.646484375
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "A false negative occurs when no drought impact is predicted but drought conditions occur.",
+              "origin": [
+                72.0,
+                381.9609375
+              ],
               "bbox": [
                 72.0,
                 371.755859375,
                 512.325439453125,
                 384.646484375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 386.9,
           "text": "The team could consider additional mitigation strategies such as the use of citizen science or",
+          "bbox": [
+            72.0,
+            386.9383544921875,
+            539.2494506835938,
+            399.8289794921875
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "The team could consider additional mitigation strategies such as the use of citizen science or",
+              "origin": [
+                72.0,
+                397.1434326171875
+              ],
               "bbox": [
                 72.0,
                 386.9383544921875,
                 539.2494506835938,
                 399.8289794921875
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 402.1,
           "text": "ground observations to complement the forecast-based trigger.",
+          "bbox": [
+            72.0,
+            402.1207275390625,
+            380.04888916015625,
+            415.0113525390625
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "ground observations to complement the forecast-based trigger.",
+              "origin": [
+                72.0,
+                412.3258056640625
+              ],
               "bbox": [
                 72.0,
                 402.1207275390625,
                 380.04888916015625,
                 415.0113525390625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 432.5,
           "text": "Insufficient Data",
+          "bbox": [
+            72.0,
+            432.508056640625,
+            158.14627075195312,
+            446.570556640625
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-MediumItalic",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Insufficient Data",
+              "origin": [
+                72.0,
+                443.640869140625
+              ],
               "bbox": [
                 72.0,
                 432.508056640625,
                 158.14627075195312,
                 446.570556640625
-              ],
-              "font": "Roboto-MediumItalic",
-              "size": 12.0,
-              "color": "0x1bb580"
+              ]
             }
           ]
         },
         {
           "y": 449.0,
           "text": "Insufficient data refers to the gaps in impact data used to verify the forecast predictions.",
+          "bbox": [
+            72.0,
+            449.04833984375,
+            501.075927734375,
+            461.93896484375
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Insufficient data refers to the gaps in impact data used to verify the forecast predictions.",
+              "origin": [
+                72.0,
+                459.25341796875
+              ],
               "bbox": [
                 72.0,
                 449.04833984375,
                 501.075927734375,
                 461.93896484375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 464.2,
           "text": "Insufficient data might limit the precise prediction of forecasted humanitarian impact and",
+          "bbox": [
+            72.0,
+            464.23095703125,
+            539.7742309570312,
+            477.12158203125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Insufficient data might limit the precise prediction of forecasted humanitarian impact and",
+              "origin": [
+                72.0,
+                474.43603515625
+              ],
               "bbox": [
                 72.0,
                 464.23095703125,
                 539.7742309570312,
                 477.12158203125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 479.4,
           "text": "expose local populations to adverse humanitarian impact induced by a drought event, requiring",
+          "bbox": [
+            72.0,
+            479.413330078125,
+            539.6739501953125,
+            492.303955078125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "expose local populations to adverse humanitarian impact induced by a drought event, requiring",
+              "origin": [
+                72.0,
+                489.618408203125
+              ],
               "bbox": [
                 72.0,
                 479.413330078125,
                 539.6739501953125,
                 492.303955078125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 494.6,
           "text": "a large-scale humanitarian response ex-post. The team should consider the feasibility of adding",
+          "bbox": [
+            72.0,
+            494.595703125,
+            539.4344482421875,
+            507.486328125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "a large-scale humanitarian response ex-post. The team should consider the feasibility of adding",
+              "origin": [
+                72.0,
+                504.80078125
+              ],
               "bbox": [
                 72.0,
                 494.595703125,
                 539.4344482421875,
                 507.486328125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 509.8,
           "text": "further vulnerability layers in future iterations of the model.",
+          "bbox": [
+            72.0,
+            509.7783203125,
+            356.68023681640625,
+            522.6689453125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "further vulnerability layers in future iterations of the model.",
+              "origin": [
+                72.0,
+                519.9833984375
+              ],
               "bbox": [
                 72.0,
                 509.7783203125,
                 356.68023681640625,
                 522.6689453125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 540.2,
           "text": "False Positives",
+          "bbox": [
+            72.0,
+            540.165771484375,
+            151.23304748535156,
+            554.228271484375
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-MediumItalic",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "False Positives",
+              "origin": [
+                72.0,
+                551.298583984375
+              ],
               "bbox": [
                 72.0,
                 540.165771484375,
                 151.23304748535156,
                 554.228271484375
-              ],
-              "font": "Roboto-MediumItalic",
-              "size": 12.0,
-              "color": "0x1bb580"
+              ]
             }
           ]
         },
         {
           "y": 556.7,
           "text": "A false positive happens when drought impact is predicted but no drought conditions occur.",
+          "bbox": [
+            72.0,
+            556.705810546875,
+            517.7625732421875,
+            569.596435546875
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "A false positive happens when drought impact is predicted but no drought conditions occur.",
+              "origin": [
+                72.0,
+                566.910888671875
+              ],
               "bbox": [
                 72.0,
                 556.705810546875,
                 517.7625732421875,
                 569.596435546875
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 571.9,
           "text": "Anticipatory action follows the ‘no regret’ principle, but a false alarm can still lead to inadequate",
+          "bbox": [
+            72.0,
+            571.888427734375,
+            539.574951171875,
+            584.779052734375
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Anticipatory action follows the ‘no regret’ principle, but a false alarm can still lead to inadequate",
+              "origin": [
+                72.0,
+                582.093505859375
+              ],
               "bbox": [
                 72.0,
                 571.888427734375,
                 539.574951171875,
                 584.779052734375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 587.1,
           "text": "resource allocation with a high potential impact on affected communities. The anticipatory",
+          "bbox": [
+            72.0,
+            587.07080078125,
+            539.3924560546875,
+            599.96142578125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "resource allocation with a high potential impact on affected communities. The anticipatory",
+              "origin": [
+                72.0,
+                597.27587890625
+              ],
               "bbox": [
                 72.0,
                 587.07080078125,
                 539.3924560546875,
                 599.96142578125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 602.3,
           "text": "action framework could indicate a precise mitigation strategy in a clearer manner.",
+          "bbox": [
+            72.0,
+            602.25341796875,
+            468.4693298339844,
+            615.14404296875
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "action framework could indicate a precise mitigation strategy in a clearer manner.",
+              "origin": [
+                72.0,
+                612.45849609375
+              ],
               "bbox": [
                 72.0,
                 602.25341796875,
                 468.4693298339844,
                 615.14404296875
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 632.6,
           "text": "Lack of Trust and Ownership",
+          "bbox": [
+            72.0,
+            632.640625,
+            222.64462280273438,
+            646.703125
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-MediumItalic",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Lack of Trust and Ownership",
+              "origin": [
+                72.0,
+                643.7734375
+              ],
               "bbox": [
                 72.0,
                 632.640625,
                 222.64462280273438,
                 646.703125
-              ],
-              "font": "Roboto-MediumItalic",
-              "size": 12.0,
-              "color": "0x1bb580"
+              ]
             }
           ]
         },
         {
           "y": 649.2,
           "text": "Lack of trust and ownership refers to the limited involvement of local and regional authorities in",
+          "bbox": [
+            72.0,
+            649.180908203125,
+            539.85302734375,
+            662.071533203125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Lack of trust and ownership refers to the limited involvement of local and regional authorities in",
+              "origin": [
+                72.0,
+                659.385986328125
+              ],
               "bbox": [
                 72.0,
                 649.180908203125,
                 539.85302734375,
                 662.071533203125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 664.4,
           "text": "the model design and validation. This may lead to little ownership and trust put into the model",
+          "bbox": [
+            72.0,
+            664.363525390625,
+            539.7032470703125,
+            677.254150390625
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "the model design and validation. This may lead to little ownership and trust put into the model",
+              "origin": [
+                72.0,
+                674.568603515625
+              ],
               "bbox": [
                 72.0,
                 664.363525390625,
                 539.7032470703125,
                 677.254150390625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 679.5,
           "text": "and eventually to political blockages in activations. In future framework versions a clear strategy",
+          "bbox": [
+            72.0,
+            679.5458984375,
+            539.9623413085938,
+            692.4365234375
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "and eventually to political blockages in activations. In future framework versions a clear strategy",
+              "origin": [
+                72.0,
+                689.7509765625
+              ],
               "bbox": [
                 72.0,
                 679.5458984375,
                 539.9623413085938,
                 692.4365234375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         }
@@ -1398,538 +2624,1006 @@
     },
     {
       "page_number": 4,
+      "page_width": 612.0,
+      "page_height": 792.0,
       "lines": [
         {
           "y": 72.2,
           "text": "for the involvement of affected populations and an approach to accountability to affected",
+          "bbox": [
+            72.0,
+            72.2470703125,
+            539.972412109375,
+            85.1376953125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "for the involvement of affected populations and an approach to accountability to affected",
+              "origin": [
+                72.0,
+                82.4521484375
+              ],
               "bbox": [
                 72.0,
                 72.2470703125,
                 539.972412109375,
                 85.1376953125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 87.4,
           "text": "populations should be identified.",
+          "bbox": [
+            72.0,
+            87.4296875,
+            230.6568145751953,
+            100.3203125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "populations should be identified.",
+              "origin": [
+                72.0,
+                97.634765625
+              ],
               "bbox": [
                 72.0,
                 87.4296875,
                 230.6568145751953,
                 100.3203125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 117.8,
           "text": "Lack of Transparency",
+          "bbox": [
+            72.0,
+            117.81689453125,
+            185.1728515625,
+            131.87939453125
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-MediumItalic",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Lack of Transparency",
+              "origin": [
+                72.0,
+                128.94970703125
+              ],
               "bbox": [
                 72.0,
                 117.81689453125,
                 185.1728515625,
                 131.87939453125
-              ],
-              "font": "Roboto-MediumItalic",
-              "size": 12.0,
-              "color": "0x1bb580"
+              ]
             }
           ]
         },
         {
           "y": 134.4,
           "text": "Lack of transparency refers to the algorithms not being made available or not being transparent.",
+          "bbox": [
+            72.0,
+            134.357177734375,
+            538.0830078125,
+            147.247802734375
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Lack of transparency refers to the algorithms not being made available or not being transparent.",
+              "origin": [
+                72.0,
+                144.562255859375
+              ],
               "bbox": [
                 72.0,
                 134.357177734375,
                 538.0830078125,
                 147.247802734375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 149.5,
           "text": "The anticipatory action framework should reflect clearer strategies to engage with local leaders",
+          "bbox": [
+            72.0,
+            149.539794921875,
+            539.34423828125,
+            162.430419921875
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "The anticipatory action framework should reflect clearer strategies to engage with local leaders",
+              "origin": [
+                72.0,
+                159.744873046875
+              ],
               "bbox": [
                 72.0,
                 149.539794921875,
                 539.34423828125,
                 162.430419921875
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 164.7,
           "text": "to better understand what is happening on the ground and obtain early buy-in. Mitigation",
+          "bbox": [
+            72.0,
+            164.72216796875,
+            539.4874267578125,
+            177.61279296875
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "to better understand what is happening on the ground and obtain early buy-in. Mitigation",
+              "origin": [
+                72.0,
+                174.92724609375
+              ],
               "bbox": [
                 72.0,
                 164.72216796875,
                 539.4874267578125,
                 177.61279296875
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 179.9,
           "text": "strategy for a potential lack of transparency should be expanded in the model card and/or the",
+          "bbox": [
+            72.0,
+            179.90478515625,
+            539.8609008789062,
+            192.79541015625
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "strategy for a potential lack of transparency should be expanded in the model card and/or the",
+              "origin": [
+                72.0,
+                190.10986328125
+              ],
               "bbox": [
                 72.0,
                 179.90478515625,
                 539.8609008789062,
                 192.79541015625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 195.1,
           "text": "anticipatory action framework.",
+          "bbox": [
+            72.0,
+            195.0869140625,
+            220.87747192382812,
+            207.9775390625
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "anticipatory action framework.",
+              "origin": [
+                72.0,
+                205.2919921875
+              ],
               "bbox": [
                 72.0,
                 195.0869140625,
                 220.87747192382812,
                 207.9775390625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 225.5,
           "text": "Inaction",
+          "bbox": [
+            72.0,
+            225.474365234375,
+            114.56400299072266,
+            239.536865234375
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-MediumItalic",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Inaction",
+              "origin": [
+                72.0,
+                236.607177734375
+              ],
               "bbox": [
                 72.0,
                 225.474365234375,
                 114.56400299072266,
                 239.536865234375
-              ],
-              "font": "Roboto-MediumItalic",
-              "size": 12.0,
-              "color": "0x1bb580"
+              ]
             }
           ]
         },
         {
           "y": 242.0,
           "text": "Inaction refers to the situation in which drought impact is predicted but no action is taken.",
+          "bbox": [
+            72.0,
+            242.0146484375,
+            508.38623046875,
+            254.9052734375
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Inaction refers to the situation in which drought impact is predicted but no action is taken.",
+              "origin": [
+                72.0,
+                252.2197265625
+              ],
               "bbox": [
                 72.0,
                 242.0146484375,
                 508.38623046875,
                 254.9052734375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 257.2,
           "text": "Inaction in case of trigger activation is unlikely, given the pre-allocated financing attached to it",
+          "bbox": [
+            72.0,
+            257.197265625,
+            539.3157348632812,
+            270.087890625
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Inaction in case of trigger activation is unlikely, given the pre-allocated financing attached to it",
+              "origin": [
+                72.0,
+                267.40234375
+              ],
               "bbox": [
                 72.0,
                 257.197265625,
                 539.3157348632812,
                 270.087890625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 272.4,
           "text": "and the UN-validated anticipatory action framework. Inaction might nevertheless be a",
+          "bbox": [
+            72.0,
+            272.379638671875,
+            539.6033325195312,
+            285.270263671875
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "and the UN-validated anticipatory action framework. Inaction might nevertheless be a",
+              "origin": [
+                72.0,
+                282.584716796875
+              ],
               "bbox": [
                 72.0,
                 272.379638671875,
                 539.6033325195312,
                 285.270263671875
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 287.6,
           "text": "possibility, if government or local authorities block the roll-out of interventions on the ground or",
+          "bbox": [
+            72.0,
+            287.56201171875,
+            539.7380981445312,
+            300.45263671875
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "possibility, if government or local authorities block the roll-out of interventions on the ground or",
+              "origin": [
+                72.0,
+                297.76708984375
+              ],
               "bbox": [
                 72.0,
                 287.56201171875,
                 539.7380981445312,
                 300.45263671875
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 302.7,
           "text": "in case of conflict upsurge. The team could consider adding a consensus-based",
+          "bbox": [
+            72.0,
+            302.74462890625,
+            539.2705078125,
+            315.63525390625
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "in",
+              "origin": [
+                72.0,
+                312.94970703125
+              ],
               "bbox": [
                 72.0,
                 302.74462890625,
                 80.73954010009766,
                 315.63525390625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "case",
+              "origin": [
+                90.95377349853516,
+                312.94970703125
+              ],
               "bbox": [
                 90.95377349853516,
                 302.74462890625,
                 114.18449401855469,
                 315.63525390625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "of",
+              "origin": [
+                124.39920043945312,
+                312.94970703125
+              ],
               "bbox": [
                 124.39920043945312,
                 302.74462890625,
                 134.4851837158203,
                 315.63525390625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "conflict",
+              "origin": [
+                144.70553588867188,
+                312.94970703125
+              ],
               "bbox": [
                 144.70553588867188,
                 302.74462890625,
                 181.0536651611328,
                 315.63525390625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "upsurge.",
+              "origin": [
+                191.26858520507812,
+                312.94970703125
+              ],
               "bbox": [
                 191.26858520507812,
                 302.74462890625,
                 233.72373962402344,
                 315.63525390625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "The",
+              "origin": [
+                243.9449005126953,
+                312.94970703125
+              ],
               "bbox": [
                 243.9449005126953,
                 302.74462890625,
                 262.38800048828125,
                 315.63525390625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "team",
+              "origin": [
+                272.60272216796875,
+                312.94970703125
+              ],
               "bbox": [
                 272.60272216796875,
                 302.74462890625,
                 297.63201904296875,
                 315.63525390625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "could",
+              "origin": [
+                307.1015625,
+                312.94970703125
+              ],
               "bbox": [
                 307.1015625,
                 302.74462890625,
                 334.0554504394531,
                 315.63525390625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "consider",
+              "origin": [
+                343.5218811035156,
+                312.94970703125
+              ],
               "bbox": [
                 343.5218811035156,
                 302.74462890625,
                 385.6856994628906,
                 315.63525390625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "adding",
+              "origin": [
+                395.1584167480469,
+                312.94970703125
+              ],
               "bbox": [
                 395.1584167480469,
                 302.74462890625,
                 428.4395446777344,
                 315.63525390625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "a",
+              "origin": [
+                437.90673828125,
+                312.94970703125
+              ],
               "bbox": [
                 437.90673828125,
                 302.74462890625,
                 443.8907470703125,
                 315.63525390625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "consensus-based",
+              "origin": [
+                453.35711669921875,
+                312.94970703125
+              ],
               "bbox": [
                 453.35711669921875,
                 302.74462890625,
                 539.2705078125,
                 315.63525390625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 317.9,
           "text": "decision-making option around activation or non-activation in the event of specific events or",
+          "bbox": [
+            72.0,
+            317.927001953125,
+            539.71533203125,
+            330.817626953125
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "decision-making option around activation or non-activation in the event of specific events or",
+              "origin": [
+                72.0,
+                328.132080078125
+              ],
               "bbox": [
                 72.0,
                 317.927001953125,
                 539.71533203125,
                 330.817626953125
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 333.1,
           "text": "situational context not considered in the model design (e.g., higher levels of vulnerability or",
+          "bbox": [
+            72.0,
+            333.109619140625,
+            539.984619140625,
+            346.000244140625
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "situational context not considered in the model design (e.g., higher levels of vulnerability or",
+              "origin": [
+                72.0,
+                343.314697265625
+              ],
               "bbox": [
                 72.0,
                 333.109619140625,
                 539.984619140625,
                 346.000244140625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 348.3,
           "text": "increase in armed conflict, etc.)",
+          "bbox": [
+            72.0,
+            348.2919921875,
+            224.75918579101562,
+            361.1826171875
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "increase in armed conflict, etc.)",
+              "origin": [
+                72.0,
+                358.4970703125
+              ],
               "bbox": [
                 72.0,
                 348.2919921875,
                 224.75918579101562,
                 361.1826171875
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 378.7,
           "text": "Feedback",
+          "bbox": [
+            72.0,
+            378.67919921875,
+            123.91275024414062,
+            392.74169921875
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Medium",
+              "color": 2058675,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "Feedback",
+              "origin": [
+                72.0,
+                389.81201171875
+              ],
               "bbox": [
                 72.0,
                 378.67919921875,
                 123.91275024414062,
                 392.74169921875
-              ],
-              "font": "Roboto-Medium",
-              "size": 12.0,
-              "color": "0x1f69b3"
+              ]
             }
           ]
         },
         {
           "y": 395.2,
           "text": "The Centre invites individuals and organizations working in the humanitarian, academic,",
+          "bbox": [
+            72.0,
+            395.2197265625,
+            539.8756713867188,
+            408.1103515625
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "The Centre invites individuals and organizations working in the humanitarian, academic,",
+              "origin": [
+                72.0,
+                405.4248046875
+              ],
               "bbox": [
                 72.0,
                 395.2197265625,
                 539.8756713867188,
                 408.1103515625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 410.4,
           "text": "research and private sector to engage with us on the peer review process. Please send feedback",
+          "bbox": [
+            72.0,
+            410.402099609375,
+            539.6830444335938,
+            423.292724609375
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "research and private sector to engage with us on the peer review process. Please send feedback",
+              "origin": [
+                72.0,
+                420.607177734375
+              ],
               "bbox": [
                 72.0,
                 410.402099609375,
                 539.6830444335938,
                 423.292724609375
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 425.6,
-          "text": "on the Framework to  centrehumdata@un.org .",
+          "text": "on the Framework to centrehumdata@un.org .",
+          "bbox": [
+            72.0,
+            425.58447265625,
+            293.1422119140625,
+            438.47509765625
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": "on the Framework to",
+              "origin": [
+                72.0,
+                435.78955078125
+              ],
               "bbox": [
                 72.0,
                 425.58447265625,
                 172.4171142578125,
                 438.47509765625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 1136076,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": " centrehumdata@un.org",
+              "origin": [
+                172.4171142578125,
+                435.78955078125
+              ],
               "bbox": [
                 172.4171142578125,
                 425.58447265625,
                 290.253173828125,
                 438.47509765625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x1155cc"
+              ]
             },
             {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Roboto-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.927734375,
+              "descender": -0.244140625,
               "text": ".",
+              "origin": [
+                290.24920654296875,
+                435.78955078125
+              ],
               "bbox": [
                 290.24920654296875,
                 425.58447265625,
                 293.1422119140625,
                 438.47509765625
-              ],
-              "font": "Roboto-Regular",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         }

@@ -133,10 +133,5 @@ While overall accuracy remains high due to the dominant 'other' class, the `macr
   * Further refining feature engineering, potentially adding context-aware features like relative x-position, indentation levels, or analyzing the *flow* of text around headings.
   * More exhaustive hyperparameter tuning of the RandomForest model.
 
-## 🤝 Contributing
 
-Feel free to fork the repository, open issues, and submit pull requests.
 
-## 📄 License
-
-(Consider adding your chosen license, e.g., MIT, Apache 2.0, if applicable)

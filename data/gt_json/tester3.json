@@ -1,25 +1,20 @@
 {
-  "title": "Judicial Intern Hiring Information - Judge Lorna G. Schofield",
-  "outline": [
-    {
-      "level": "H1",
-      "text": "Judicial Intern Hiring Information",
-      "page": 1
-    },
-    {
-      "level": "H2",
-      "text": "Chambers Contact Information",
-      "page": 1
-    },
-    {
-      "level": "H2",
-      "text": "Positions",
-      "page": 1
-    },
-    {
-      "level": "H2",
-      "text": "Applications",
-      "page": 1
-    }
-  ]
+    "title": "JUDICIAL INTERN HIRING INFORMATION",
+    "outline": [
+        {
+            "level": "H2",
+            "text": "Chambers Contact Information:",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Positions:",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Applications:",
+            "page": 1
+        }
+    ]
 }

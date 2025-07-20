@@ -1,0 +1,176 @@
+{
+    "title": "RESPONSIBLEDATASHARINGWITHDONORS",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "GUIDANCENOTESERIES",
+            "page": 1,
+            "content": "DATARESPONSIBILITYINHUMANITARIANACTION RESPONSIBLEDATASHARINGWITHDONORS",
+            "word_count_content": 2,
+            "avg_sentence_length_content": 2.0,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H1",
+            "text": "KEYTAKEAWAYS:",
+            "page": 1,
+            "content": "\u2022Sharingsensitivepersonalandnon-personaldatawithoutadequatesafeguardscanexacerbate risksforcrisis-affectedpeople,humanitarianorganizationsanddonors. \u2022Donorsregularlyrequestdatafromtheorganizationstheyfundinordertofulfiltheirobligations andobjectives.Someoftheserequestsrelatetosensitiveinformationanddatawhichneedsto beprotectedinordertomitigaterisk. \u2022Commonobjectivesfordatasharingwithdonorsinclude:(i)situationalawarenessand programmedesign;(ii)accountabilityandtransparency;and(iii)legal,regulatory,andpolicy requirements. \u2022Commonconstraintsrelatedtosharingdatawithdonorsinclude:(i)lackofregulatoryframework forresponsiblymanagingsensitivenon-personaldata;(ii)capacitygaps;and(iii)purpose limitation. \u2022Donorsandhumanitarianorganizationscantakethefollowingstepstominimizeriskswhile maximizingbenefitswhensharingsensitivedata:(i)reviewingandclarifyingtheformalor informalframeworksthatgovernthecollectionandsharingofdisaggregateddata;(ii)formalizing andstandardisingrequestsforsensitivedata;(iii)investingindatamanagementcapacitiesof staffandorganisations;and(iv)adoptingcommonprinciplesfordonordatamanagement.",
+            "word_count_content": 16,
+            "avg_sentence_length_content": 2.8333333333333335,
+            "has_list_items_content": 1
+        },
+        {
+            "level": "H1",
+            "text": "INTRODUCTION",
+            "page": 1,
+            "content": "Donorshaveanimportantroleinthehumanitariandataecosystem,bothasdriversofincreaseddata collectionandanalysis,andasdirectusersofdata.Thisisnota newphenomenon;theneedfor accountabilityandtransparencyintheuseofdonorfundingisbroadlyunderstoodandrespected.However, inrecentyears,donorshavebegunrequestingdatathatcanbesensitive.Thisincludespersonaldataabout beneficiariesandvariousformsofdisaggregateddata,suchashousehold-levelsurveyresultsanddata aboutthedeliveryofassistancedisaggregatedbydemographicand/orgroupdimensions(e.g.ethnicity, protectiongroup,etc.). 1 Concernsaroundrequestsforsuchdatahaveleddonorsandhumanitarianorganizationstoplacemore emphasisonidentifyingstrategiesfordataresponsibility:thesafe,ethicalandeffectivemanagement ofdata.Dataresponsibilityrequiresdonorsandhumanitarianorganizationstotakeactionsthathelp minimizeriskswhilemaximizingbenefitsofdata.Thisisparticularlychallengingincaseswheredonors requestsensitivedata.Forexample,thescreeningofaidrecipients,whichisoftenusedtojustifyrequests forpersonaldata,isnotonlydifficulttopracticallyimplement,butalsohighlyproblematicintermsof principledaid. 2 Becausetherearewell-establishedandacceptedstandardsandmechanismsforsharingfinancialinformationwithdonors,includinga roleforexternal 1 audits,requestsforfinancialdataarenotincludedinthisguidancenote.Thisguidancenotedealswithsensitivepersonalandnon-personaldata. CounterterrorismMeasuresandSanctionRegimes:ShrinkingSpaceforHumanitarianAid Roepstorff,K.,Faltas,C.andH\u00f6velmann,S.,2020. 2 Organisations . THECENTREFORHUMANITARIANDATA1 DECEMBER2020 Inaddition,sharingseeminglyinnocuousdatasuchasaggregatedsurveyresultscanplacealready vulnerablepeopleandcommunitiesatgreaterrisk.Whatmaybeinitiallyconsiderednon-personaldata 3 canallowforre-identificationofindividuals,communitiesanddemographicgroups.Re-identification occurswhendatacanbetracedbackorlinkedtoanindividual(s)orgroup(s)ofindividualsbecauseitisnot adequatelyanonymized.Thiscanresultina violationofdataprotection,privacyandotherhumanrights andcanallowfortargetingofindividualsorgroupswithviolenceorotherformsofharm. 4 Manydonorsandhumanitarianactorsrecognizetherisksandbenefitsassociatedwithsharingsuch sensitivedata,butthesectorhasyettoestablisha commonunderstandingofhowtobalancetheserisks andbenefitseffectively.Recenteffortstoaddressthisissuehaveledtomoreclarityoncurrentpractices, aswellasontheobjectivesandconstraintsofdatasharing.InSeptember2020,theGovernmentof Switzerland,theInternationalCommitteeoftheRedCross(ICRC)andtheUnitedNationsOfficefor CoordinationofHumanitarianAffairs(UNOCHA)CentreforHumanitarianData(theCentre)organizeda virtualWiltonParkdialoguetohelpbuildcommonunderstandingonthisissue. 5 Thisguidancenotesynthesizestheoutcomesofthisdialogueanda relateddeskreview.Itdescribesthe 6 challengesaroundsharingsensitivedatawithdonorsandoffersinitialrecommendationsforhowdonors andhumanitarianorganizationscanmoreeffectivelynavigatethisarea.",
+            "word_count_content": 51,
+            "avg_sentence_length_content": 2.5555555555555554,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H1",
+            "text": "DONORREQUESTSFORDATA",
+            "page": 2,
+            "content": "Donorsregularlyrequestdatafromtheirpartnersinordertofulfildifferentobligationsandobjectives. Theserequestscanbeeitherformalorinformal. \u2022Formalrequests tendtobeincludedingrantagreementsinrelationtoreportingcriteria,andare typicallybasedonlegalrequirementssuchascompliancewithcounter-terrorismlaws.Suchrequests tendtobenegotiatedattheoutsetofa partnershiporgrantagreement,andareusuallymadein writingandscheduledinadvance. \u2022Informalrequests concerninformationordatathattypicallyfalloutsideofthenormalscopeof reporting.Thesead-hocrequestsoftencarryimplicitvalue,meaningthatwhiletheyarenot formallyrequired,deliveringthissupplementarydataisdeemedbeneficialforanorganization\u2019s ongoingengagementandpartnershipwitha donor.Theserequestsrepresenta greaterdilemmafor humanitarianactors. Fewdonorshaveformaldatasharingpoliciesorguidelinesinplace.Thereisalsoa lackofshared 7 understandingofterminologyandoftheobjectivesandrisksarounddatasharing.Therearedifferent definitionsandunderstandingofdata-relatedrisks,leadingtoinconsistentandsometimescontradictory practicesaroundsharingpotentiallysensitivedatawithdonorsina particularcontext. 8 Non-personaldataisdefinedasdatawhichwasinitiallypersonaldata,butlatermadeanonymous,suchasdataaboutthepeopleaffectedbythe 3 Regulation(EU) humanitariansituationandtheirneeds,thethreatsandvulnerabilitiestheyface,andtheircapacities(adaptedfrom 2018/1807oftheEuropeanParliamentandoftheCouncilof14November2018ona frameworkforthefreeflowofnon-personaldatainthe EuropeanUnion ). WorkingDraftOCHAGuidelinesforDataResponsibilityICRCHandbookondataprotectioninhumanitarianaction Seetheandthe. 4 WiltonParkReport Readmoreaboutthevirtualdialogueinthis. 5 Responsibledata-sharingwithdonors:accountability,transparencyanddataprotectioninprincipled Willits-King,B.andSpencer,A.,2020. 6 humanitarianaction . Considerationsforusing Atthetimeofwriting,onlyUSAIDandGIZhadpubliclyavailableguidelinesonresponsibledatasharing.SeeUSAID,2019. 7 dataresponsiblyatUSAIDGIZ\u2019sResponsibleDataPrinciples andGIZ,2018.. Responsibledata-sharingwithdonors:accountability,transparencyanddataprotectioninprincipled Willits-King,B.andSpencer,A.,2020. 8 humanitarianaction . THECENTREFORHUMANITARIANDATA2 DECEMBER2020",
+            "word_count_content": 55,
+            "avg_sentence_length_content": 2.52,
+            "has_list_items_content": 1
+        },
+        {
+            "level": "H2",
+            "text": "\u2022Formalrequests",
+            "page": 2,
+            "content": "tendtobeincludedingrantagreementsinrelationtoreportingcriteria,andare typicallybasedonlegalrequirementssuchascompliancewithcounter-terrorismlaws.Suchrequests tendtobenegotiatedattheoutsetofa partnershiporgrantagreement,andareusuallymadein writingandscheduledinadvance.",
+            "word_count_content": 5,
+            "avg_sentence_length_content": 3.0,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H2",
+            "text": "\u2022Informalrequests",
+            "page": 2,
+            "content": "concerninformationordatathattypicallyfalloutsideofthenormalscopeof reporting.Thesead-hocrequestsoftencarryimplicitvalue,meaningthatwhiletheyarenot formallyrequired,deliveringthissupplementarydataisdeemedbeneficialforanorganization\u2019s ongoingengagementandpartnershipwitha donor.Theserequestsrepresenta greaterdilemmafor humanitarianactors. Fewdonorshaveformaldatasharingpoliciesorguidelinesinplace.Thereisalsoa lackofshared 7 understandingofterminologyandoftheobjectivesandrisksarounddatasharing.Therearedifferent definitionsandunderstandingofdata-relatedrisks,leadingtoinconsistentandsometimescontradictory practicesaroundsharingpotentiallysensitivedatawithdonorsina particularcontext. 8 Non-personaldataisdefinedasdatawhichwasinitiallypersonaldata,butlatermadeanonymous,suchasdataaboutthepeopleaffectedbythe 3 Regulation(EU) humanitariansituationandtheirneeds,thethreatsandvulnerabilitiestheyface,andtheircapacities(adaptedfrom 2018/1807oftheEuropeanParliamentandoftheCouncilof14November2018ona frameworkforthefreeflowofnon-personaldatainthe EuropeanUnion ). WorkingDraftOCHAGuidelinesforDataResponsibilityICRCHandbookondataprotectioninhumanitarianaction Seetheandthe. 4 WiltonParkReport Readmoreaboutthevirtualdialogueinthis. 5 Responsibledata-sharingwithdonors:accountability,transparencyanddataprotectioninprincipled Willits-King,B.andSpencer,A.,2020. 6 humanitarianaction . Considerationsforusing Atthetimeofwriting,onlyUSAIDandGIZhadpubliclyavailableguidelinesonresponsibledatasharing.SeeUSAID,2019. 7 dataresponsiblyatUSAIDGIZ\u2019sResponsibleDataPrinciples andGIZ,2018.. Responsibledata-sharingwithdonors:accountability,transparencyanddataprotectioninprincipled Willits-King,B.andSpencer,A.,2020. 8 humanitarianaction . THECENTREFORHUMANITARIANDATA2 DECEMBER2020",
+            "word_count_content": 46,
+            "avg_sentence_length_content": 2.5238095238095237,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H1",
+            "text": "OBJECTIVESFORDATASHARINGWITHDONORS",
+            "page": 3,
+            "content": "Themostcommonlyidentifiedobjectivesfordonorsrequestingsensitivedatafrompartnersare situationalawarenessandprogrammedesign;accountabilityandtransparency;andlegal,regulatory,and policyrequirements. Situationalawarenessandprogrammedesign Donorsseekinformationanddatafromhumanitarianorganizationsinordertounderstandandreact tochangesinhumanitariancontexts.Thisallowsdonorstoimprovetheirownprogrammedesignand evaluation,preventduplicationofassistance,identifyinformationgaps,andensureappropriatetargeting ofassistance. Accountabilityandtransparency Donorsandhumanitarianorganizationshaveanobligationtoaccountfortheiractivities.Datacanenable donorstoexplainanddefendfundingonforeignaidtotaxpayers. Legal,regulatory,andpolicyrequirements Donorsaresubjecttocertainnationalandinternationallegalrequirements,includingpolitical,legaland statutoryrequirementsrelatedtocounter-terrorism,migrationandlawenforcement.Inmanycases, donorsmightwanttousedatatoverifytheircompliancewiththesedifferentrequirements.Somedonors includecounterterrorismclausesintheirgrantagreements,whichareintendedtoensurethattheirfunds arenotusedtobenefitdesignatedterroristgroups.Similarly,donorsmightincludeclausestocoveranti- 9 bribery,anti-fraudandanti-corruptionmeasures. 10",
+            "word_count_content": 20,
+            "avg_sentence_length_content": 2.5,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H2",
+            "text": "Situationalawarenessandprogrammedesign",
+            "page": 3,
+            "content": "Donorsseekinformationanddatafromhumanitarianorganizationsinordertounderstandandreact tochangesinhumanitariancontexts.Thisallowsdonorstoimprovetheirownprogrammedesignand evaluation,preventduplicationofassistance,identifyinformationgaps,andensureappropriatetargeting ofassistance.",
+            "word_count_content": 4,
+            "avg_sentence_length_content": 2.5,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H2",
+            "text": "Accountabilityandtransparency",
+            "page": 3,
+            "content": "Donorsandhumanitarianorganizationshaveanobligationtoaccountfortheiractivities.Datacanenable donorstoexplainanddefendfundingonforeignaidtotaxpayers.",
+            "word_count_content": 2,
+            "avg_sentence_length_content": 1.5,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H2",
+            "text": "Legal,regulatory,andpolicyrequirements",
+            "page": 3,
+            "content": "Donorsaresubjecttocertainnationalandinternationallegalrequirements,includingpolitical,legaland statutoryrequirementsrelatedtocounter-terrorism,migrationandlawenforcement.Inmanycases, donorsmightwanttousedatatoverifytheircompliancewiththesedifferentrequirements.Somedonors includecounterterrorismclausesintheirgrantagreements,whichareintendedtoensurethattheirfunds arenotusedtobenefitdesignatedterroristgroups.Similarly,donorsmightincludeclausestocoveranti- 9 bribery,anti-fraudandanti-corruptionmeasures. 10",
+            "word_count_content": 8,
+            "avg_sentence_length_content": 2.2,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H1",
+            "text": "CONSTRAINTSFORDATASHARINGWITHDONORS",
+            "page": 3,
+            "content": "Despitetheseobjectives,datasharingwithdonorsisnotwithoutitsconstraints,whichincludea lackof regulatoryframeworksforresponsiblymanagingsensitivenon-personaldata,capacitygapsandlackof purposelimitation. Lackofregulatoryframeworksforresponsiblymanagingsensitivenon-personaldata Thesensitivityofpersonaldataisgenerallywell-knownandaddressedbya varietyofpolicyandregulatory frameworks,butthesamecannotbesaidforsensitivenon-personaldata.Protectinggroupsandtheir dataremainschallengingduetothecurrentgapsinregulationandguidanceandtheoveralllackof understandingregardingthesensitivityofnon-personaldata.Thesedatapolicygapsincreasetheriskof sensitivedatanotbeingstoredorprotectedadequatelyorsharedinadvertentlybypartnersinorderto satisfydonors\u2019requests. Capacitygaps Respondingtoad-hocdatasharingrequestsfromdonorscanbeviewedasanadditionalburdento humanitarianresponders,divertingcriticaltime,resourcesandfocusawayfromotherimplementing activities.Insufficientfundingfordata-relatedcapacitydevelopmenthaslimitedmanyorganizations\u2019 11 abilitytoprovidetheirstaffwiththeskillsandresourcesrequiredformanagingdataresponsibly.Gaps 12 incapacitytofulfildonorrequirementsmightalsodetersmallerand/orlocalNGOsfromseekingfunding, undermininglocalizationefforts. 13 SeeNRC'sToolkitforPrincipledHumanitarianAction;ManagingCTRisks. 9 Inordertoensurecompliance,donorsmightrequesthighlydisaggregateddatatocorroboratetheirduediligenceprocesses,ensuringtheirpartners 10 arenotengagingwithany\u2018sanctioned\u2019personorentity\u2019.SeeWalker,J.,2020.ComplianceDialogueonSyria-RelatedHumanitarianPayments. \u2018Sanctionedpersons\u2019isa generaltermwhichmayincludeindividuals,terroristgroups,governmentsaswellascompaniesandotherentitiesoflegal personality.TheEU,forexample,hasovertheyearsconsiderablystrengtheneditslegalframeworkforpreventingmoneylaunderingandterrorism financinginrecentyearsandisconstantlyenforcingin.See:NGOVoice,2020. TheImpactofEUSanctionsandRestrictiveMeasureson HumanitarianAction. Inter-AgencyStandingCommittee(IASC)HumanitarianFinancingTaskTeam(HFTT),2016.DonorConditionsandtheirimplicationsfor 11 humanitarianresponse. PublishWhatYouFund,2020.DataUseCapacityinProtractedHumanitarianCrises. 12 THECENTREFORHUMANITARIANDATA3 DECEMBER2020 Purposelimitation Theprincipleofpurposelimitationrequiresthatdataisonlycollectedforspecified,explicitandlegitimate purposes,andthatitnotbeprocessedfurtherina mannerthatwouldbeincompatiblewiththose purposes.Evenwhendonorsspecifylegitimatereasonsforrequestingdatain-linewiththeoriginal 14 purposesforwhichthedatawascollected(e.g.thedeliveryofhumanitarianassistance),itcanbedifficult toensurethatthedatawillnotbeusedforotherpurposesonceshared.Datausedoutofcontextandfor purposesthatarenotknownatthetimeofsharing,orretainedpasttheintendedretentionfora defined purposerepresentsa violation,evenifunintended,ofthedatasubjects\u2019rights.",
+            "word_count_content": 52,
+            "avg_sentence_length_content": 2.68,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H2",
+            "text": "Lackofregulatoryframeworksforresponsiblymanagingsensitivenon-personaldata",
+            "page": 3,
+            "content": "Thesensitivityofpersonaldataisgenerallywell-knownandaddressedbya varietyofpolicyandregulatory frameworks,butthesamecannotbesaidforsensitivenon-personaldata.Protectinggroupsandtheir dataremainschallengingduetothecurrentgapsinregulationandguidanceandtheoveralllackof understandingregardingthesensitivityofnon-personaldata.Thesedatapolicygapsincreasetheriskof sensitivedatanotbeingstoredorprotectedadequatelyorsharedinadvertentlybypartnersinorderto satisfydonors\u2019requests.",
+            "word_count_content": 7,
+            "avg_sentence_length_content": 3.0,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H2",
+            "text": "Capacitygaps",
+            "page": 3,
+            "content": "Respondingtoad-hocdatasharingrequestsfromdonorscanbeviewedasanadditionalburdento humanitarianresponders,divertingcriticaltime,resourcesandfocusawayfromotherimplementing activities.Insufficientfundingfordata-relatedcapacitydevelopmenthaslimitedmanyorganizations\u2019 11 abilitytoprovidetheirstaffwiththeskillsandresourcesrequiredformanagingdataresponsibly.Gaps 12 incapacitytofulfildonorrequirementsmightalsodetersmallerand/orlocalNGOsfromseekingfunding, undermininglocalizationefforts. 13 SeeNRC'sToolkitforPrincipledHumanitarianAction;ManagingCTRisks. 9 Inordertoensurecompliance,donorsmightrequesthighlydisaggregateddatatocorroboratetheirduediligenceprocesses,ensuringtheirpartners 10 arenotengagingwithany\u2018sanctioned\u2019personorentity\u2019.SeeWalker,J.,2020.ComplianceDialogueonSyria-RelatedHumanitarianPayments. \u2018Sanctionedpersons\u2019isa generaltermwhichmayincludeindividuals,terroristgroups,governmentsaswellascompaniesandotherentitiesoflegal personality.TheEU,forexample,hasovertheyearsconsiderablystrengtheneditslegalframeworkforpreventingmoneylaunderingandterrorism financinginrecentyearsandisconstantlyenforcingin.See:NGOVoice,2020. TheImpactofEUSanctionsandRestrictiveMeasureson HumanitarianAction. Inter-AgencyStandingCommittee(IASC)HumanitarianFinancingTaskTeam(HFTT),2016.DonorConditionsandtheirimplicationsfor 11 humanitarianresponse. PublishWhatYouFund,2020.DataUseCapacityinProtractedHumanitarianCrises. 12 THECENTREFORHUMANITARIANDATA3 DECEMBER2020",
+            "word_count_content": 27,
+            "avg_sentence_length_content": 2.1176470588235294,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H2",
+            "text": "Purposelimitation",
+            "page": 4,
+            "content": "Theprincipleofpurposelimitationrequiresthatdataisonlycollectedforspecified,explicitandlegitimate purposes,andthatitnotbeprocessedfurtherina mannerthatwouldbeincompatiblewiththose purposes.Evenwhendonorsspecifylegitimatereasonsforrequestingdatain-linewiththeoriginal 14 purposesforwhichthedatawascollected(e.g.thedeliveryofhumanitarianassistance),itcanbedifficult toensurethatthedatawillnotbeusedforotherpurposesonceshared.Datausedoutofcontextandfor purposesthatarenotknownatthetimeofsharing,orretainedpasttheintendedretentionfora defined purposerepresentsa violation,evenifunintended,ofthedatasubjects\u2019rights.",
+            "word_count_content": 11,
+            "avg_sentence_length_content": 3.0,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H1",
+            "text": "RECOMMENDATIONS",
+            "page": 4,
+            "content": "Inviewoftheobjectivesandconstraintsdetailedabove,theCentre,theHumanitarianPolicyGroup(HPG) atODI,theICRC,andtheHumanSecurityDivisionoftheSwissFederalDepartmentofForeignAffairs recommendthatdonorsandhumanitarianorganizationstakethefollowingstepstominimizeriskswhile maximizingbenefitswhensharingsensitivedata: \u2022Reviewingandclarifyingtheformalorinformalframeworksthatgovernthecollectionand sharingofdisaggregateddata Donorsandpartnersshouldexaminetheofficial,formalrequirementsandad-hoc,informal requirementsofdatasharing,andanalysepartneranddonorstaffinterpretwhetherrequirements correctlyandconsistently.Theyshouldassesswhetherthereareimplicitconditionalitiesbetweenthe willingnesstosharedisaggregateddataandtheabilityofdifferentorganizationstoaccessandsustain fundingfromdonors. \u2022Formalizingandstandardizingrequestsforsensitivedata Whensensitivedataisrequiredtomeeta mutuallyagreedobjective,donorsshouldformalizeand standardizetheirrequestsforsuchdata.Requestsshouldbemadeinwritingandshouldspecify whichdataisrequested,theformatdesired,andtheintendeduseofthedata.Donorsshouldonly requesttheinformationrequiredtomeetthespecifiedpurposeforwhichitisbeingrequestedand shouldindicatea timelinefordestructionofthedata.Humanitarianorganisationsshoulddocument allrequestsfordataandensureconsistencyinrespondingtotheserequestsovertime. \u2022Investingindatamanagementcapacitiesofstaffandorganizations Donorsandhumanitarianorganizationsshouldidentifyopportunitiestoinvestinbuildingdata managementexpertiseespeciallyfornon-technicalstaff.Thedonorcommunityisuniquelypositioned toencouragedataresponsibilitybyprovidingadditionalresourcesfortrainingandcapacitybuilding. \u2022Adoptingcommonprinciplesfordonordatamanagement Thesectoralreadyhasa rangeofprinciplesandcommitmentstoinformdifferentaspectsof humanitariandonorship.However,thesedonotsufficientlyaddressconcernsrelatedtodata 15 responsibility.Donorsandpartnersshouldengageinthedevelopmentofcommonprinciplesand HumanitarianDataandTrustInitiative guidelinesfordonordatasharingtofillthisgap.The, co-led bytheGovernmentofSwitzerland,theICRC,andtheCentre,offersa platformtofacilitatethisprocess aspartofitsongoingworktobuildtrustthroughdialogue. Organizationsareencouragedtosharetheirexperienceinresponsibledatasharingwithdonorswiththe centrehumdata@un.org CentreforHumanitarianDatavia. Handbookondataprotectioninhumanitarianaction ICRC,2020.. 14 GoodHumanitarianDonorshipInitiativeGrandBargain Examplesincludetheandthe. 15 THECENTREFORHUMANITARIANDATA4 DECEMBER2020 THEHUMANITARIANPOLICYGROUPATODI;INTERNATIONALCOMMITTEEOFTHEREDCROSS; COLLABORATORS: THEHUMANSECURITYDIVISION,SWISSFEDERALDEPARTMENTOFFOREIGNAFFAIRS. AND CentreforHumanitarianData The('theCenter'),togetherwithkeypartners,ispublishinga seriesofeight guidancenotesonDataResponsibilityinHumanitarianActionoverthecourseof2019and2020.TheGuidance OCHADataResponsibilityGuidelines NoteseriesfollowsthepublicationoftheinMarch2019.Through theseries,theCentreaimstoprovideadditionalguidanceonspecificissues,processesandtoolsfordata responsibilityinpractice.ThisseriesismadepossiblewiththegeneroussupportoftheDirectorate-Generalfor EuropeanCivilProtectionandHumanitarianAidOperations(DGECHO). Thisdocumentcovershumanitarianaidactivitiesimplementedwiththefinancialassistanceofthe EuropeanUnion.Theviewsexpressedhereinshouldnotbetaken,inanyway,toreflecttheofficialopinion oftheEuropeanUnion,andtheEuropeanCommissionisnotresponsibleforanyusethatmaybemadeof theinformationitcontains. Thisprojectisco-funded bytheEuropeanUnion THECENTREFORHUMANITARIANDATA5 DECEMBER2020",
+            "word_count_content": 68,
+            "avg_sentence_length_content": 3.375,
+            "has_list_items_content": 1
+        },
+        {
+            "level": "H2",
+            "text": "\u2022Reviewingandclarifyingtheformalorinformalframeworksthatgovernthecollectionand",
+            "page": 4,
+            "content": "sharingofdisaggregateddata Donorsandpartnersshouldexaminetheofficial,formalrequirementsandad-hoc,informal requirementsofdatasharing,andanalysepartneranddonorstaffinterpretwhetherrequirements correctlyandconsistently.Theyshouldassesswhetherthereareimplicitconditionalitiesbetweenthe willingnesstosharedisaggregateddataandtheabilityofdifferentorganizationstoaccessandsustain fundingfromdonors.",
+            "word_count_content": 6,
+            "avg_sentence_length_content": 3.5,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H2",
+            "text": "\u2022Formalizingandstandardizingrequestsforsensitivedata",
+            "page": 4,
+            "content": "Whensensitivedataisrequiredtomeeta mutuallyagreedobjective,donorsshouldformalizeand standardizetheirrequestsforsuchdata.Requestsshouldbemadeinwritingandshouldspecify whichdataisrequested,theformatdesired,andtheintendeduseofthedata.Donorsshouldonly requesttheinformationrequiredtomeetthespecifiedpurposeforwhichitisbeingrequestedand shouldindicatea timelinefordestructionofthedata.Humanitarianorganisationsshoulddocument allrequestsfordataandensureconsistencyinrespondingtotheserequestsovertime.",
+            "word_count_content": 8,
+            "avg_sentence_length_content": 2.75,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H2",
+            "text": "\u2022Investingindatamanagementcapacitiesofstaffandorganizations",
+            "page": 4,
+            "content": "Donorsandhumanitarianorganizationsshouldidentifyopportunitiestoinvestinbuildingdata managementexpertiseespeciallyfornon-technicalstaff.Thedonorcommunityisuniquelypositioned toencouragedataresponsibilitybyprovidingadditionalresourcesfortrainingandcapacitybuilding.",
+            "word_count_content": 3,
+            "avg_sentence_length_content": 2.0,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H2",
+            "text": "\u2022Adoptingcommonprinciplesfordonordatamanagement",
+            "page": 4,
+            "content": "Thesectoralreadyhasa rangeofprinciplesandcommitmentstoinformdifferentaspectsof humanitariandonorship.However,thesedonotsufficientlyaddressconcernsrelatedtodata 15 responsibility.Donorsandpartnersshouldengageinthedevelopmentofcommonprinciplesand HumanitarianDataandTrustInitiative guidelinesfordonordatasharingtofillthisgap.The, co-led bytheGovernmentofSwitzerland,theICRC,andtheCentre,offersa platformtofacilitatethisprocess aspartofitsongoingworktobuildtrustthroughdialogue. Organizationsareencouragedtosharetheirexperienceinresponsibledatasharingwithdonorswiththe centrehumdata@un.org CentreforHumanitarianDatavia. Handbookondataprotectioninhumanitarianaction ICRC,2020.. 14 GoodHumanitarianDonorshipInitiativeGrandBargain Examplesincludetheandthe. 15 THECENTREFORHUMANITARIANDATA4 DECEMBER2020 THEHUMANITARIANPOLICYGROUPATODI;INTERNATIONALCOMMITTEEOFTHEREDCROSS; COLLABORATORS: THEHUMANSECURITYDIVISION,SWISSFEDERALDEPARTMENTOFFOREIGNAFFAIRS. AND CentreforHumanitarianData The('theCenter'),togetherwithkeypartners,ispublishinga seriesofeight guidancenotesonDataResponsibilityinHumanitarianActionoverthecourseof2019and2020.TheGuidance OCHADataResponsibilityGuidelines NoteseriesfollowsthepublicationoftheinMarch2019.Through theseries,theCentreaimstoprovideadditionalguidanceonspecificissues,processesandtoolsfordata responsibilityinpractice.ThisseriesismadepossiblewiththegeneroussupportoftheDirectorate-Generalfor EuropeanCivilProtectionandHumanitarianAidOperations(DGECHO). Thisdocumentcovershumanitarianaidactivitiesimplementedwiththefinancialassistanceofthe EuropeanUnion.Theviewsexpressedhereinshouldnotbetaken,inanyway,toreflecttheofficialopinion oftheEuropeanUnion,andtheEuropeanCommissionisnotresponsibleforanyusethatmaybemadeof theinformationitcontains. Thisprojectisco-funded bytheEuropeanUnion THECENTREFORHUMANITARIANDATA5 DECEMBER2020",
+            "word_count_content": 43,
+            "avg_sentence_length_content": 3.1875,
+            "has_list_items_content": 0
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+*.log
+
+# Virtual Envs
+.venv/
+.env/
+*.env
+*.venv
+*.idea/
+
+# NLTK data
+nltk_data/

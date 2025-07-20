@@ -1,0 +1,952 @@
+{
+  "filename": "tester18.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 152.5,
+          "text": "Core compensation has generated a lot of myths. Here are the 3 myths we've been hearing",
+          "bbox": [
+            54.0,
+            152.4600067138672,
+            541.9071655273438,
+            165.864013671875
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 128,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "Core compensation has generated a lot of myths.  Here are the 3 myths we've been hearing",
+              "origin": [
+                54.0,
+                163.32000732421875
+              ],
+              "bbox": [
+                54.0,
+                152.4600067138672,
+                541.9071655273438,
+                165.864013671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 166.3,
+          "text": "the most, along with the FACTS.",
+          "bbox": [
+            54.0,
+            166.25999450683594,
+            226.90704345703125,
+            179.66400146484375
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 128,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "the most, along with the FACTS.",
+              "origin": [
+                54.0,
+                177.1199951171875
+              ],
+              "bbox": [
+                54.0,
+                166.25999450683594,
+                226.90704345703125,
+                179.66400146484375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 207.7,
+          "text": "MYTH #1:",
+          "bbox": [
+            54.0,
+            207.66001892089844,
+            108.72000122070312,
+            221.06402587890625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 16711680,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "MYTH #1:",
+              "origin": [
+                54.0,
+                218.52001953125
+              ],
+              "bbox": [
+                54.0,
+                207.66001892089844,
+                108.72000122070312,
+                221.06402587890625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 221.5,
+          "text": "The Core Compensation Plan is going to be put in place sooner than April 2000.",
+          "bbox": [
+            54.0,
+            221.4600067138672,
+            508.92803955078125,
+            234.864013671875
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 16711680,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "The Core Compensation Plan is going to be put in place sooner than April 2000.",
+              "origin": [
+                54.0,
+                232.32000732421875
+              ],
+              "bbox": [
+                54.0,
+                221.4600067138672,
+                508.92803955078125,
+                234.864013671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 249.1,
+          "text": "FACT:",
+          "bbox": [
+            72.0,
+            249.0599822998047,
+            107.92799377441406,
+            262.4639892578125
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "FACT:",
+              "origin": [
+                72.0,
+                259.91998291015625
+              ],
+              "bbox": [
+                72.0,
+                249.0599822998047,
+                107.92799377441406,
+                262.4639892578125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 262.9,
+          "text": "There are no plans to convert to the Core before April 2000. The FAA plans to convert on",
+          "bbox": [
+            72.0,
+            262.8599853515625,
+            545.0289306640625,
+            276.26397705078125
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "There are no plans to convert to the Core before April 2000. The FAA plans to convert on",
+              "origin": [
+                72.0,
+                273.719970703125
+              ],
+              "bbox": [
+                72.0,
+                262.8599853515625,
+                545.0289306640625,
+                276.26397705078125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 276.7,
+          "text": "April 23, 2000.",
+          "bbox": [
+            72.0,
+            276.65997314453125,
+            149.47682189941406,
+            290.06396484375
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "April 23, 2000.",
+              "origin": [
+                72.0,
+                287.51995849609375
+              ],
+              "bbox": [
+                72.0,
+                276.65997314453125,
+                149.47682189941406,
+                290.06396484375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 331.9,
+          "text": "MYTH #2:",
+          "bbox": [
+            54.0,
+            331.8599853515625,
+            108.72000122070312,
+            345.26397705078125
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 16711680,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "MYTH #2:",
+              "origin": [
+                54.0,
+                342.719970703125
+              ],
+              "bbox": [
+                54.0,
+                331.8599853515625,
+                108.72000122070312,
+                345.26397705078125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 345.7,
+          "text": "Employees in bargaining units will never be covered by the Core Compensation Plan.",
+          "bbox": [
+            54.0,
+            345.65997314453125,
+            540.9627685546875,
+            359.06396484375
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 16711680,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "Employees in bargaining units will never be covered by the Core Compensation Plan.",
+              "origin": [
+                54.0,
+                356.51995849609375
+              ],
+              "bbox": [
+                54.0,
+                345.65997314453125,
+                540.9627685546875,
+                359.06396484375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 373.3,
+          "text": "FACT:",
+          "bbox": [
+            72.0,
+            373.2599792480469,
+            107.92799377441406,
+            386.6639709472656
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "FACT:",
+              "origin": [
+                72.0,
+                384.1199645996094
+              ],
+              "bbox": [
+                72.0,
+                373.2599792480469,
+                107.92799377441406,
+                386.6639709472656
+              ]
+            }
+          ]
+        },
+        {
+          "y": 387.1,
+          "text": "The Core Compensation Plan will be the basis for all future management bargaining",
+          "bbox": [
+            72.0,
+            387.0599670410156,
+            517.6695556640625,
+            400.4639587402344
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "The Core Compensation Plan will be the basis for all future management bargaining",
+              "origin": [
+                72.0,
+                397.9199523925781
+              ],
+              "bbox": [
+                72.0,
+                387.0599670410156,
+                517.6695556640625,
+                400.4639587402344
+              ]
+            }
+          ]
+        },
+        {
+          "y": 400.9,
+          "text": "proposals for all bargaining units. However, bargaining unit members will not be converted",
+          "bbox": [
+            72.0,
+            400.8599548339844,
+            553.7872924804688,
+            414.2639465332031
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "proposals for all bargaining units.  However, bargaining unit members will not be converted",
+              "origin": [
+                72.0,
+                411.7199401855469
+              ],
+              "bbox": [
+                72.0,
+                400.8599548339844,
+                553.7872924804688,
+                414.2639465332031
+              ]
+            }
+          ]
+        },
+        {
+          "y": 414.7,
+          "text": "to the Core Plan until an agreement is reached between their union and the agency.",
+          "bbox": [
+            72.0,
+            414.6599426269531,
+            517.0502319335938,
+            428.0639343261719
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "to the Core Plan until an agreement is reached between their union and the agency.",
+              "origin": [
+                72.0,
+                425.5199279785156
+              ],
+              "bbox": [
+                72.0,
+                414.6599426269531,
+                517.0502319335938,
+                428.0639343261719
+              ]
+            }
+          ]
+        },
+        {
+          "y": 469.9,
+          "text": "MYTH #3:",
+          "bbox": [
+            54.0,
+            469.8599548339844,
+            108.72000122070312,
+            483.2639465332031
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 16711680,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "MYTH #3:",
+              "origin": [
+                54.0,
+                480.7199401855469
+              ],
+              "bbox": [
+                54.0,
+                469.8599548339844,
+                108.72000122070312,
+                483.2639465332031
+              ]
+            }
+          ]
+        },
+        {
+          "y": 483.7,
+          "text": "The agency is planning to remove or reduce important employee benefits (such as, sick",
+          "bbox": [
+            54.0,
+            483.6599426269531,
+            548.3099975585938,
+            497.0639343261719
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 16711680,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "The agency is planning to remove or reduce important employee benefits ",
+              "origin": [
+                54.0,
+                494.5199279785156
+              ],
+              "bbox": [
+                54.0,
+                483.6599426269531,
+                475.5709228515625,
+                497.0639343261719
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 16711680,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "(such as, sick",
+              "origin": [
+                475.55999755859375,
+                494.5199279785156
+              ],
+              "bbox": [
+                475.55999755859375,
+                483.6599426269531,
+                548.3099975585938,
+                497.0639343261719
+              ]
+            }
+          ]
+        },
+        {
+          "y": 497.5,
+          "text": "and annual leave, leave transfer program, overtime pay, alternate work schedules, holidays,",
+          "bbox": [
+            54.0,
+            497.4599304199219,
+            541.6604614257812,
+            510.8639221191406
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 16711680,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "and annual leave, leave transfer program, overtime pay, alternate work schedules, holidays,",
+              "origin": [
+                54.0,
+                508.3199157714844
+              ],
+              "bbox": [
+                54.0,
+                497.4599304199219,
+                541.6604614257812,
+                510.8639221191406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 511.3,
+          "text": "jury duty or witness service, RIF protections, and/or military leave).",
+          "bbox": [
+            54.0,
+            511.2598876953125,
+            407.3823547363281,
+            524.6638793945312
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 16711680,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "jury duty or witness service, RIF protections, and/or military leave).",
+              "origin": [
+                54.0,
+                522.119873046875
+              ],
+              "bbox": [
+                54.0,
+                511.2598876953125,
+                407.3823547363281,
+                524.6638793945312
+              ]
+            }
+          ]
+        },
+        {
+          "y": 538.9,
+          "text": "FACT:",
+          "bbox": [
+            72.0,
+            538.8599243164062,
+            107.92799377441406,
+            552.263916015625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "FACT:",
+              "origin": [
+                72.0,
+                549.7199096679688
+              ],
+              "bbox": [
+                72.0,
+                538.8599243164062,
+                107.92799377441406,
+                552.263916015625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 552.7,
+          "text": "The FAA is not planning to remove or reduce any of these benefits. When FAA was",
+          "bbox": [
+            72.0,
+            552.659912109375,
+            517.6227416992188,
+            566.0639038085938
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "The FAA is not planning to remove or reduce any of these benefits.  When FAA was",
+              "origin": [
+                72.0,
+                563.5198974609375
+              ],
+              "bbox": [
+                72.0,
+                552.659912109375,
+                517.6227416992188,
+                566.0639038085938
+              ]
+            }
+          ]
+        },
+        {
+          "y": 566.5,
+          "text": "originally exempted from Title V, it had the opportunity to change these benefits because it",
+          "bbox": [
+            72.0,
+            566.4599609375,
+            551.1386108398438,
+            579.8639526367188
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "originally exempted from Title V, it had the opportunity to change these benefits because it",
+              "origin": [
+                72.0,
+                577.3199462890625
+              ],
+              "bbox": [
+                72.0,
+                566.4599609375,
+                551.1386108398438,
+                579.8639526367188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 580.3,
+          "text": "was no longer required by law to maintain them. The agency chose to maintain these",
+          "bbox": [
+            72.0,
+            580.2599487304688,
+            526.4275512695312,
+            593.6639404296875
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "was no longer required by law to maintain them.  The agency chose to maintain these",
+              "origin": [
+                72.0,
+                591.1199340820312
+              ],
+              "bbox": [
+                72.0,
+                580.2599487304688,
+                526.4275512695312,
+                593.6639404296875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 594.1,
+          "text": "important benefits and has no plans to remove or reduce them.",
+          "bbox": [
+            72.0,
+            594.0599365234375,
+            406.3218688964844,
+            607.4639282226562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "important benefits and has no plans to remove or reduce them.",
+              "origin": [
+                72.0,
+                604.919921875
+              ],
+              "bbox": [
+                72.0,
+                594.0599365234375,
+                406.3218688964844,
+                607.4639282226562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 637.4,
+          "text": "Need more Info?",
+          "bbox": [
+            262.55999755859375,
+            637.40869140625,
+            349.4700622558594,
+            649.7403564453125
+          ],
+          "spans": [
+            {
+              "size": 11.039999961853027,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "Need more Info?",
+              "origin": [
+                262.55999755859375,
+                647.39990234375
+              ],
+              "bbox": [
+                262.55999755859375,
+                637.40869140625,
+                349.4700622558594,
+                649.7403564453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 663.9,
+          "text": "There are other myths out there, and a lot of questions. To find additional information, check the",
+          "bbox": [
+            54.0,
+            663.9287719726562,
+            523.2251586914062,
+            676.2604370117188
+          ],
+          "spans": [
+            {
+              "size": 11.039999961853027,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "There are other myths out there, and a lot of questions.  To find additional information, check the",
+              "origin": [
+                54.0,
+                673.9199829101562
+              ],
+              "bbox": [
+                54.0,
+                663.9287719726562,
+                523.2251586914062,
+                676.2604370117188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 676.5,
+          "text": "Internet site, http://www.faa.gov/corecomp/. Frequently asked questions and their answers are at",
+          "bbox": [
+            54.0,
+            676.52880859375,
+            527.4119262695312,
+            688.8604736328125
+          ],
+          "spans": [
+            {
+              "size": 11.039999961853027,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "Internet site, http://www.faa.gov/corecomp/.  Frequently asked questions and their answers are at",
+              "origin": [
+                54.0,
+                686.52001953125
+              ],
+              "bbox": [
+                54.0,
+                676.52880859375,
+                527.4119262695312,
+                688.8604736328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 689.2,
+          "text": "http://www.faa.gov/corecomp/qanda.htm.",
+          "bbox": [
+            54.0,
+            689.248779296875,
+            254.05355834960938,
+            701.5804443359375
+          ],
+          "spans": [
+            {
+              "size": 11.039999961853027,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "http://www.faa.gov/corecomp/qanda.htm.",
+              "origin": [
+                54.0,
+                699.239990234375
+              ],
+              "bbox": [
+                54.0,
+                689.248779296875,
+                254.05355834960938,
+                701.5804443359375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 751.5,
+          "text": "October 27, 1999",
+          "bbox": [
+            260.6400146484375,
+            751.5462036132812,
+            337.7801818847656,
+            762.6715087890625
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "October 27, 1999",
+              "origin": [
+                260.6400146484375,
+                760.5599975585938
+              ],
+              "bbox": [
+                260.6400146484375,
+                751.5462036132812,
+                337.7801818847656,
+                762.6715087890625
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

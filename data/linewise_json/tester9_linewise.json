@@ -3,712 +3,1172 @@
   "pages": [
     {
       "page_number": 1,
+      "page_width": 595.280029296875,
+      "page_height": 841.8900146484375,
       "lines": [
         {
           "y": 11.0,
           "text": "National Teacher Appreciation Week 2012",
+          "bbox": [
+            45.349998474121094,
+            10.971031188964844,
+            263.5899353027344,
+            27.625032424926758
+          ],
           "spans": [
             {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
               "text": "National Teacher Appreciation Week 2012",
+              "origin": [
+                45.349998474121094,
+                23.72003173828125
+              ],
               "bbox": [
                 45.349998474121094,
                 10.971031188964844,
                 263.5899353027344,
                 27.625032424926758
-              ],
-              "font": "FreeSansBold",
-              "size": 11.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 37.0,
           "text": "Written by Mike Honda",
+          "bbox": [
+            45.349998474121094,
+            37.01004409790039,
+            146.489990234375,
+            53.01004409790039
+          ],
           "spans": [
             {
+              "size": 10.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "Written by Mike Honda",
+              "origin": [
+                45.349998474121094,
+                48.4200439453125
+              ],
               "bbox": [
                 45.349998474121094,
                 37.01004409790039,
                 146.489990234375,
                 53.01004409790039
-              ],
-              "font": "FreeSans",
-              "size": 10.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 49.5,
           "text": "Wednesday, 09 May 2012 12:13",
+          "bbox": [
+            45.349998474121094,
+            49.51004409790039,
+            189.31996154785156,
+            65.51004028320312
+          ],
           "spans": [
             {
+              "size": 10.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "Wednesday, 09 May 2012 12:13",
+              "origin": [
+                45.349998474121094,
+                60.9200439453125
+              ],
               "bbox": [
                 45.349998474121094,
                 49.51004409790039,
                 189.31996154785156,
                 65.51004028320312
-              ],
-              "font": "FreeSans",
-              "size": 10.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 103.9,
           "text": "Today, as part of National Teacher Appreciation Week, I want to thank each and every teacher",
+          "bbox": [
+            42.79999923706055,
+            103.94801330566406,
+            545.0478515625,
+            123.14801788330078
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "Today, as part of National Teacher Appreciation Week, I want to thank each and every teacher",
+              "origin": [
+                42.79999923706055,
+                117.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 103.94801330566406,
                 545.0478515625,
                 123.14801788330078
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 118.9,
           "text": "for their amazing service to their students and this country.",
+          "bbox": [
+            42.79999923706055,
+            118.94801330566406,
+            353.5999450683594,
+            138.14801025390625
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "for their amazing service to their students and this country.",
+              "origin": [
+                42.79999923706055,
+                132.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 118.94801330566406,
                 353.5999450683594,
                 138.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
-            }
-          ]
-        },
-        {
-          "y": 148.9,
-          "text": "  ",
-          "spans": [
-            {
-              "text": "  ",
-              "bbox": [
-                42.79999923706055,
-                148.94801330566406,
-                49.47200012207031,
-                168.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 178.9,
           "text": "On April 24 President Obama honored California Teacher, Rebecca Mieliwock, as Teacher of",
+          "bbox": [
+            42.79999923706055,
+            178.94801330566406,
+            542.1259155273438,
+            198.14801025390625
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "On April 24",
+              "origin": [
+                42.79999923706055,
+                192.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 178.94801330566406,
                 102.82400512695312,
                 198.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "President Obama honored California Teacher, Rebecca Mieliwock, as Teacher of",
+              "origin": [
+                110.62999725341797,
+                192.6400146484375
+              ],
               "bbox": [
                 110.62999725341797,
                 178.94801330566406,
                 542.1259155273438,
                 198.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 179.6,
           "text": "th",
+          "bbox": [
+            103.38999938964844,
+            179.6420135498047,
+            110.06199645996094,
+            192.4420166015625
+          ],
           "spans": [
             {
+              "size": 8.0,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "th",
+              "origin": [
+                103.38999938964844,
+                188.77001953125
+              ],
               "bbox": [
                 103.38999938964844,
                 179.6420135498047,
                 110.06199645996094,
                 192.4420166015625
-              ],
-              "font": "FreeSans",
-              "size": 8.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 193.9,
-          "text": "the Year in an event held at the White House. During the event on the 24  the",
+          "text": "the Year in an event held at the White House. During the event on the 24 the",
+          "bbox": [
+            42.79999923706055,
+            193.94801330566406,
+            527.5759887695312,
+            213.14801025390625
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "the Year in an event held at the White House. During the event on the 24",
+              "origin": [
+                42.79999923706055,
+                207.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 193.94801330566406,
                 429.69189453125,
                 213.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": " the",
+              "origin": [
+                507.55999755859375,
+                207.6400146484375
+              ],
               "bbox": [
                 507.55999755859375,
                 193.94801330566406,
                 527.5759887695312,
                 213.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 194.6,
           "text": "th,",
+          "bbox": [
+            498.0899963378906,
+            194.6420135498047,
+            506.9859924316406,
+            207.4420166015625
+          ],
           "spans": [
             {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "th,",
+              "origin": [
+                498.0899963378906,
+                203.77001953125
+              ],
               "bbox": [
                 498.0899963378906,
                 194.6420135498047,
                 506.9859924316406,
                 207.4420166015625
-              ],
-              "font": "FreeSans",
-              "size": 8.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 208.9,
           "text": "President sagely articulated that teachers in this country are not just working for their students",
+          "bbox": [
+            42.79999923706055,
+            208.94801330566406,
+            540.3558959960938,
+            228.14801025390625
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "President sagely articulated that teachers in this country are not just working for their students",
+              "origin": [
+                42.79999923706055,
+                222.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 208.94801330566406,
                 540.3558959960938,
                 228.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 223.9,
-          "text": "or for their schools, but for the forward progress of our entire country.  The American dream is",
+          "text": "or for their schools, but for the forward progress of our entire country. The American dream is",
+          "bbox": [
+            42.79999923706055,
+            223.94801330566406,
+            539.6598510742188,
+            243.14801025390625
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "or for their schools, but for the forward progress of our entire country.  The American dream is",
+              "origin": [
+                42.79999923706055,
+                237.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 223.94801330566406,
                 539.6598510742188,
                 243.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 238.9,
           "text": "first ignited in the classroom; only through effective support and funding of educators’ crucial",
+          "bbox": [
+            42.79999923706055,
+            238.94801330566406,
+            531.679931640625,
+            258.14801025390625
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "first ignited in the classroom; only through effective support and funding of educators’ crucial",
+              "origin": [
+                42.79999923706055,
+                252.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 238.94801330566406,
                 531.679931640625,
                 258.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 253.9,
           "text": "work can we hope to keep America exceptional in the 21",
+          "bbox": [
+            42.79999923706055,
+            253.94801330566406,
+            342.9439392089844,
+            273.14801025390625
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "work can we hope to keep America exceptional in the 21",
+              "origin": [
+                42.79999923706055,
+                267.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 253.94801330566406,
                 342.9439392089844,
                 273.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 269.6,
           "text": "st",
+          "bbox": [
+            42.79999923706055,
+            269.64202880859375,
+            49.02399826049805,
+            282.4420166015625
+          ],
           "spans": [
             {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "st",
+              "origin": [
+                42.79999923706055,
+                278.77001953125
+              ],
               "bbox": [
                 42.79999923706055,
                 269.64202880859375,
                 49.02399826049805,
                 282.4420166015625
-              ],
-              "font": "FreeSans",
-              "size": 8.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 283.9,
           "text": "Century.",
+          "bbox": [
+            42.79999923706055,
+            283.9480285644531,
+            88.14799499511719,
+            303.14801025390625
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "Century.",
+              "origin": [
+                42.79999923706055,
+                297.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 283.9480285644531,
                 88.14799499511719,
                 303.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
-            }
-          ]
-        },
-        {
-          "y": 313.9,
-          "text": "  ",
-          "spans": [
-            {
-              "text": "  ",
-              "bbox": [
-                42.79999923706055,
-                313.9480285644531,
-                49.47200012207031,
-                333.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 343.9,
           "text": "In February, Secretary of Education Arne Duncan announced the RESPECT Program, an effort",
+          "bbox": [
+            42.79999923706055,
+            343.9480285644531,
+            548.3718872070312,
+            363.14801025390625
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "In February, Secretary of Education Arne Duncan announced the RESPECT Program, an effort",
+              "origin": [
+                42.79999923706055,
+                357.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 343.9480285644531,
                 548.3718872070312,
                 363.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 358.9,
           "text": "to promote collaborative teaching and professional development. It is an appropriate acronym",
+          "bbox": [
+            42.79999923706055,
+            358.9480285644531,
+            538.3638916015625,
+            378.14801025390625
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "to promote collaborative teaching and professional development. It is an appropriate acronym",
+              "origin": [
+                42.79999923706055,
+                372.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 358.9480285644531,
                 538.3638916015625,
                 378.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 373.9,
           "text": "and attribute for this profession. As an educator of more than 30 years, I have boundless",
+          "bbox": [
+            42.79999923706055,
+            373.9480285644531,
+            512.3839111328125,
+            393.14801025390625
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "and attribute for this profession. As an educator of more than 30 years, I have boundless",
+              "origin": [
+                42.79999923706055,
+                387.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 373.9480285644531,
                 512.3839111328125,
                 393.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 388.9,
-          "text": "respect for those that embrace the awesome responsiblity of educating our children.  Teachers",
+          "text": "respect for those that embrace the awesome responsiblity of educating our children. Teachers",
+          "bbox": [
+            42.79999923706055,
+            388.9480285644531,
+            545.0238647460938,
+            408.14801025390625
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "respect for those that embrace the awesome responsiblity of educating our children.  Teachers",
+              "origin": [
+                42.79999923706055,
+                402.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 388.9480285644531,
                 545.0238647460938,
                 408.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 403.9,
           "text": "must have our boundless gratitude, support and respect every day of the year.",
+          "bbox": [
+            42.79999923706055,
+            403.9480285644531,
+            458.347900390625,
+            423.14801025390625
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "must have our boundless gratitude, support and respect every day of the year.",
+              "origin": [
+                42.79999923706055,
+                417.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 403.9480285644531,
                 458.347900390625,
                 423.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
-            }
-          ]
-        },
-        {
-          "y": 433.9,
-          "text": "  ",
-          "spans": [
-            {
-              "text": "  ",
-              "bbox": [
-                42.79999923706055,
-                433.9480285644531,
-                49.47200012207031,
-                453.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 463.9,
           "text": "Many people can point back to one teacher or class experience in elementary, high school or",
+          "bbox": [
+            42.79999923706055,
+            463.9480285644531,
+            535.6998901367188,
+            483.14801025390625
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "Many people can point back to one teacher or class experience in elementary, high school or",
+              "origin": [
+                42.79999923706055,
+                477.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 463.9480285644531,
                 535.6998901367188,
                 483.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 478.9,
           "text": "college that made a big impact on their life. This is the immense affect teachers have upon",
+          "bbox": [
+            42.79999923706055,
+            478.9480285644531,
+            522.3558959960938,
+            498.14801025390625
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "college that made a big impact on their life. This is the immense affect teachers have upon",
+              "origin": [
+                42.79999923706055,
+                492.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 478.9480285644531,
                 522.3558959960938,
                 498.14801025390625
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 493.9,
-          "text": "students.  I can still remember Mr. Williams, my chemistry and physics teacher, at San Jose",
+          "text": "students. I can still remember Mr. Williams, my chemistry and physics teacher, at San Jose",
+          "bbox": [
+            42.79999923706055,
+            493.9480285644531,
+            528.9439697265625,
+            513.1480102539062
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "students.  I can still remember Mr. Williams, my chemistry and physics teacher, at San Jose",
+              "origin": [
+                42.79999923706055,
+                507.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 493.9480285644531,
                 528.9439697265625,
                 513.1480102539062
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 508.9,
           "text": "High School. It was through his influence and impact that I pursued a degree in the sciences at",
+          "bbox": [
+            42.79999923706055,
+            508.9480285644531,
+            545.0598754882812,
+            528.1480102539062
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "High School. It was through his influence and impact that I pursued a degree in the sciences at",
+              "origin": [
+                42.79999923706055,
+                522.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 508.9480285644531,
                 545.0598754882812,
                 528.1480102539062
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 523.9,
-          "text": "San Jose State University.   A path that led me to become a teacher myself, a principal, a",
+          "text": "San Jose State University. A path that led me to become a teacher myself, a principal, a",
+          "bbox": [
+            42.79999923706055,
+            523.947998046875,
+            516.3558959960938,
+            543.1480102539062
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "San Jose State University.   A path that led me to become a teacher myself, a principal, a",
+              "origin": [
+                42.79999923706055,
+                537.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 523.947998046875,
                 516.3558959960938,
                 543.1480102539062
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 538.9,
           "text": "school board leader and ultimately a champion for teachers and students in Congress.",
+          "bbox": [
+            42.79999923706055,
+            538.947998046875,
+            500.347900390625,
+            558.1480102539062
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "school board leader and ultimately a champion for teachers and students in Congress.",
+              "origin": [
+                42.79999923706055,
+                552.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 538.947998046875,
                 500.347900390625,
                 558.1480102539062
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
-            }
-          ]
-        },
-        {
-          "y": 568.9,
-          "text": "  ",
-          "spans": [
-            {
-              "text": "  ",
-              "bbox": [
-                42.79999923706055,
-                568.947998046875,
-                49.47200012207031,
-                588.1480102539062
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 598.9,
           "text": "I encourage everyone during National Teacher Appreciation Week, to take a moment to",
+          "bbox": [
+            42.79999923706055,
+            598.947998046875,
+            507.0198974609375,
+            618.1480102539062
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "I encourage everyone during National Teacher Appreciation Week, to take a moment to",
+              "origin": [
+                42.79999923706055,
+                612.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 598.947998046875,
                 507.0198974609375,
                 618.1480102539062
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 613.9,
           "text": "remember their favorite teacher and to share a story with your family, friends and colleagues.",
+          "bbox": [
+            42.79999923706055,
+            613.947998046875,
+            535.6639404296875,
+            633.1480102539062
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "remember their favorite teacher and to share a story with your family, friends and colleagues.",
+              "origin": [
+                42.79999923706055,
+                627.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 613.947998046875,
                 535.6639404296875,
                 633.1480102539062
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 628.9,
           "text": "America’s continued and future success begins with each teacher and student. Educators from",
+          "bbox": [
+            42.79999923706055,
+            628.947998046875,
+            545.0238037109375,
+            648.1480102539062
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "America’s continued and future success begins with each teacher and student. Educators from",
+              "origin": [
+                42.79999923706055,
+                642.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 628.947998046875,
                 545.0238037109375,
                 648.1480102539062
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 643.9,
           "text": "sea to shining sea have a lasting impact upon shaping, developing and encouraging students to",
+          "bbox": [
+            42.79999923706055,
+            643.947998046875,
+            550.4238891601562,
+            663.1480102539062
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "sea to shining sea have a lasting impact upon shaping, developing and encouraging students to",
+              "origin": [
+                42.79999923706055,
+                657.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 643.947998046875,
                 550.4238891601562,
                 663.1480102539062
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 658.9,
           "text": "thrive and flourish within our schools. These dedicated and hard-working men and women are",
+          "bbox": [
+            42.79999923706055,
+            658.947998046875,
+            540.3438720703125,
+            678.1480102539062
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "thrive and flourish within our schools. These dedicated and hard-working men and women are",
+              "origin": [
+                42.79999923706055,
+                672.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 658.947998046875,
                 540.3438720703125,
                 678.1480102539062
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 673.9,
           "text": "the key to our nation’s future.",
+          "bbox": [
+            42.79999923706055,
+            673.947998046875,
+            197.5399627685547,
+            693.1480102539062
+          ],
           "spans": [
             {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": "the key to our nation’s future.",
+              "origin": [
+                42.79999923706055,
+                687.6400146484375
+              ],
               "bbox": [
                 42.79999923706055,
                 673.947998046875,
                 197.5399627685547,
                 693.1480102539062
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
-            }
-          ]
-        },
-        {
-          "y": 703.9,
-          "text": "  ",
-          "spans": [
-            {
-              "text": "  ",
-              "bbox": [
-                42.79999923706055,
-                703.947998046875,
-                49.47200012207031,
-                723.1480102539062
-              ],
-              "font": "FreeSans",
-              "size": 12.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 801.8,
-          "text": " 1 / 1",
+          "text": "1 / 1",
+          "bbox": [
+            522.3400268554688,
+            801.81201171875,
+            540.1320190429688,
+            814.6119995117188
+          ],
           "spans": [
             {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
               "text": " 1 / 1",
+              "origin": [
+                522.3400268554688,
+                810.9400024414062
+              ],
               "bbox": [
                 522.3400268554688,
                 801.81201171875,
                 540.1320190429688,
                 814.6119995117188
-              ],
-              "font": "FreeSans",
-              "size": 8.0,
-              "color": "0x0"
+              ]
             }
           ]
         }

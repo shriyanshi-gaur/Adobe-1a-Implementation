@@ -1,0 +1,70 @@
+{
+    "title": "CLIMATE GUIDANCE SERIES: OBSERVATIONAL RAINFALL DATA",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "About this series:",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Key takeaways",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "What is observational rainfall data?",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Common sources of observational rainfall data",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "Questions to answer with observational rainfall data",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "Observational rainfall data cannot answer the following questions:",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "Common limitations with observations rainfall data",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "1. Low-amount or short-duration rainfall may be underreported in certain geographical terrains or during extreme precipitation events.",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "2. There are fewer gauge stations in rural areas and certain developing countries, which means that observational rainfall data is often less accurate in these locations.",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "3. Observational rainfall data is usually provided as a raster dataset, where the geographic area is represented by a contiguous grid of cells, or pixels.",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "4. If using station data, it is important to bear in mind that stations are easily subject to deterioration and require frequent maintenance, which may affect their accuracy.",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "5. For station data, differences exist between measuring instruments and quality of their measurements.",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "Resources",
+            "page": 7
+        }
+    ]
+}

@@ -1,50 +1,15 @@
 {
-  "title": "Geological Time Capsule, Part I",
-  "outline": [
-    {
-      "level": "H1",
-      "text": "Geological Time Capsule, Part I",
-      "page": 1
-    },
-    {
-      "level": "H2",
-      "text": "Precambrian Era",
-      "page": 1
-    },
-    {
-      "level": "H3",
-      "text": "Archeozoic Period",
-      "page": 1
-    },
-    {
-      "level": "H3",
-      "text": "Proterozoic Period",
-      "page": 1
-    },
-    {
-      "level": "H2",
-      "text": "Paleozoic Era",
-      "page": 1
-    },
-    {
-      "level": "H3",
-      "text": "Cambrian Period",
-      "page": 1
-    },
-    {
-      "level": "H3",
-      "text": "Ordovician Period",
-      "page": 1
-    },
-    {
-      "level": "H3",
-      "text": "Silurian Period",
-      "page": 1
-    },
-    {
-      "level": "H3",
-      "text": "Devonian Period",
-      "page": 1
-    }
-  ]
+    "title": "Geological Time Capsule, Part I",
+    "outline": [
+        {
+            "level": "H2",
+            "text": "Earth's earliest life forms appeared during the Proterozoic Period.",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "The Devonian Period marked the age of fishes, 405 million years ago.",
+            "page": 2
+        }
+    ]
 }

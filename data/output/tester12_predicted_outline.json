@@ -1,0 +1,77 @@
+{
+    "title": "ACCEPTANCETESTING(AT) TESTSITEGUIDELINES AcceptanceTest(AT)EnvironmentGuidelines",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "AcceptanceTest(AT)EnvironmentGuidelines",
+            "page": 1,
+            "content": "TheAcceptanceTest(AT)environmentwasestablishedforthefollowing purposes: \u2022 Acceptance/Performancetestingofformsandfunctionalitypriorto productionreleases \u2022 S2Stestingbyagenciesandapplicants AcceptanceTestingenvironment :http://at07web.grants.gov/ PrimaryUse TheprimaryuseofATisfortheGrants.govteamtotestchangestothe Grants.govsystembeforedeployingthemintotheproductionenvironment. Therefore,agenciesandapplicantsareaskedtofollowtheseguidelinessothat theATenvironmentisabletohandlealloftheseactivitieswithoutjeopardizingits primaryfunctionastheGrants.govinternaltestsystem.Inaddition,following theseguidelineswillhelpensurethatagencyandapplicantusersofATwillbe abletousethesysteminthemostequitablemannerpossible. LoadTesting LoadtestingisnotpermittedintheATenvironment.TheATsystemisnotbuiltto handlethevolumeofapplicationsthatproductiondoes.Pleasekeepyourdaily numberofsubmissionstoa \u201creasonable\u201dlimitednumberthatareofaverage- sizedapplications. PeakUsageTime PeakusagetimesofATtendtobefromMondaythroughFridayfrom10:00a.m. to3:30p.m.EasternTime.Delaysinprocessingtimesandunexpected downtimesaremorelikelytooccurduringthesetimes.Pleaseplanyourtesting accordingly. Reporta PotentialIssue Toreporta potentialissueswithAcceptanceTestingenvironment,please sendanemailtotheGrants.govContactCenteratsupport@grants.govorcall 1-800-518-4726andincludethefollowinginformationtoexpeditethe investigationandresolutionoftheissue: \u2022 Descriptionofissue \u2022 Trackingnumbers \u2022 Opportunitynumbers \u2022 Timeissueoccurredorwasnoticed Page1 of2 ACCEPTANCETESTING(AT) TESTSITEGUIDELINES \u2022 Contactname,email,andphonenumber \u2022 Errormessagesorotherinformationthatmightbehelpfultothe Grants.govteamintroubleshootingtheissue AnnouncementofNewSystemBuilds Grants.govwillpublishinformationaboutnewsystembuildsonATinadvance. However,pleasebeawarethatGrants.govmayneedtodeploychangestothe ATenvironmentatanytime,andthismayresultinunexpecteddowntimesor temporaryoutagesofcertainfunctionality. AdvanceNotice PleaseinformGrants.govtwo-weeksinadvancewhenyouareplanningtouse theATsystemheavilyforanyextendedperiodoftimeorwhenyouareundera tightdeadline. RestrictionsofUse AstheuseofATgrows,Grants.govmayfinditnecessarytorestricttheuseof ATandscheduletheuseofATbyagenciesandapplicants.However,todate, wehavehada greatdealofcooperationregardingtheuseofthetesting completedbyboththeapplicantandagencycommunityonAT.Wewishforthis typeofcooperationtocontinuesothateveryonecantakeadvantageofthis testingenvironmentwithoutGrants.govplacingrestrictionsonitsuse.Pleasebe considerateofyourfellowtesters. BeadvisedthattheproductionsystemisalwaysthetoppriorityforGrants.gov support.TheGrants.govteamwillhandleissuereportsinATina lower prioritytothoseinproduction.Testingofanysort(i.e.applicationpackage submission)withintheliveProductionenvironmentisstrictlyprohibited.AllS2S privilegeswillberevokedforanycertificateassociatedwitha testapplication packageintheProductionenvironment.AlltestingforGrants.govmustbe completedintheATenvironment. Page2 of2",
+            "word_count_content": 81,
+            "avg_sentence_length_content": 2.590909090909091,
+            "has_list_items_content": 1
+        },
+        {
+            "level": "H2",
+            "text": "PrimaryUse",
+            "page": 1,
+            "content": "TheprimaryuseofATisfortheGrants.govteamtotestchangestothe Grants.govsystembeforedeployingthemintotheproductionenvironment. Therefore,agenciesandapplicantsareaskedtofollowtheseguidelinessothat theATenvironmentisabletohandlealloftheseactivitieswithoutjeopardizingits primaryfunctionastheGrants.govinternaltestsystem.Inaddition,following theseguidelineswillhelpensurethatagencyandapplicantusersofATwillbe abletousethesysteminthemostequitablemannerpossible.",
+            "word_count_content": 7,
+            "avg_sentence_length_content": 1.8333333333333333,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H2",
+            "text": "LoadTesting",
+            "page": 1,
+            "content": "LoadtestingisnotpermittedintheATenvironment.TheATsystemisnotbuiltto handlethevolumeofapplicationsthatproductiondoes.Pleasekeepyourdaily numberofsubmissionstoa \u201creasonable\u201dlimitednumberthatareofaverage- sizedapplications.",
+            "word_count_content": 5,
+            "avg_sentence_length_content": 2.3333333333333335,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H2",
+            "text": "PeakUsageTime",
+            "page": 1,
+            "content": "PeakusagetimesofATtendtobefromMondaythroughFridayfrom10:00a.m. to3:30p.m.EasternTime.Delaysinprocessingtimesandunexpected downtimesaremorelikelytooccurduringthesetimes.Pleaseplanyourtesting accordingly.",
+            "word_count_content": 4,
+            "avg_sentence_length_content": 1.2857142857142858,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H2",
+            "text": "ReportaPotentialIssue",
+            "page": 1,
+            "content": "Toreporta potentialissueswithAcceptanceTestingenvironment,please sendanemailtotheGrants.govContactCenteratsupport@grants.govorcall 1-800-518-4726andincludethefollowinginformationtoexpeditethe investigationandresolutionoftheissue: \u2022 Descriptionofissue \u2022 Trackingnumbers \u2022 Opportunitynumbers \u2022 Timeissueoccurredorwasnoticed Page1 of2 ACCEPTANCETESTING(AT) TESTSITEGUIDELINES \u2022 Contactname,email,andphonenumber \u2022 Errormessagesorotherinformationthatmightbehelpfultothe Grants.govteamintroubleshootingtheissue",
+            "word_count_content": 22,
+            "avg_sentence_length_content": 6.25,
+            "has_list_items_content": 1
+        },
+        {
+            "level": "H2",
+            "text": "AnnouncementofNewSystemBuilds",
+            "page": 2,
+            "content": "Grants.govwillpublishinformationaboutnewsystembuildsonATinadvance. However,pleasebeawarethatGrants.govmayneedtodeploychangestothe ATenvironmentatanytime,andthismayresultinunexpecteddowntimesor temporaryoutagesofcertainfunctionality.",
+            "word_count_content": 4,
+            "avg_sentence_length_content": 1.5,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H2",
+            "text": "AdvanceNotice",
+            "page": 2,
+            "content": "PleaseinformGrants.govtwo-weeksinadvancewhenyouareplanningtouse theATsystemheavilyforanyextendedperiodoftimeorwhenyouareundera tightdeadline.",
+            "word_count_content": 3,
+            "avg_sentence_length_content": 2.0,
+            "has_list_items_content": 0
+        },
+        {
+            "level": "H2",
+            "text": "RestrictionsofUse",
+            "page": 2,
+            "content": "AstheuseofATgrows,Grants.govmayfinditnecessarytorestricttheuseof ATandscheduletheuseofATbyagenciesandapplicants.However,todate, wehavehada greatdealofcooperationregardingtheuseofthetesting completedbyboththeapplicantandagencycommunityonAT.Wewishforthis typeofcooperationtocontinuesothateveryonecantakeadvantageofthis testingenvironmentwithoutGrants.govplacingrestrictionsonitsuse.Pleasebe considerateofyourfellowtesters. BeadvisedthattheproductionsystemisalwaysthetoppriorityforGrants.gov support.TheGrants.govteamwillhandleissuereportsinATina lower prioritytothoseinproduction.Testingofanysort(i.e.applicationpackage submission)withintheliveProductionenvironmentisstrictlyprohibited.AllS2S privilegeswillberevokedforanycertificateassociatedwitha testapplication packageintheProductionenvironment.AlltestingforGrants.govmustbe completedintheATenvironment. Page2 of2",
+            "word_count_content": 19,
+            "avg_sentence_length_content": 1.9411764705882353,
+            "has_list_items_content": 0
+        }
+    ]
+}

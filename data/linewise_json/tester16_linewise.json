@@ -1,0 +1,4948 @@
+{
+  "filename": "tester16.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "page_width": 595.0,
+      "page_height": 842.0,
+      "lines": [
+        {
+          "y": 41.8,
+          "text": "Broadcast Technicians, page 1 of 3",
+          "bbox": [
+            383.333984375,
+            41.754024505615234,
+            524.4090576171875,
+            54.120025634765625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Broadcast Technicians, page 1 of 3",
+              "origin": [
+                383.333984375,
+                51.42902374267578
+              ],
+              "bbox": [
+                383.333984375,
+                41.754024505615234,
+                524.4090576171875,
+                54.120025634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 82.3,
+          "text": "A CareerZone Occupational Brief for:",
+          "bbox": [
+            70.86599731445312,
+            82.31502532958984,
+            268.2779541015625,
+            98.80302429199219
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "A CareerZone Occupational Brief for:",
+              "origin": [
+                70.86599731445312,
+                95.21502685546875
+              ],
+              "bbox": [
+                70.86599731445312,
+                82.31502532958984,
+                268.2779541015625,
+                98.80302429199219
+              ]
+            }
+          ]
+        },
+        {
+          "y": 97.6,
+          "text": "Broadcast Technicians",
+          "bbox": [
+            70.86599731445312,
+            97.59302520751953,
+            246.03399658203125,
+            119.62503051757812
+          ],
+          "spans": [
+            {
+              "size": 16.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Broadcast Technicians",
+              "origin": [
+                70.86599731445312,
+                114.71302795410156
+              ],
+              "bbox": [
+                70.86599731445312,
+                97.59302520751953,
+                246.03399658203125,
+                119.62503051757812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 119.8,
+          "text": "An occupation in Engineering and Technologies",
+          "bbox": [
+            70.86599731445312,
+            119.79402923583984,
+            277.4069519042969,
+            132.18702697753906
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "An occupation in Engineering and Technologies",
+              "origin": [
+                70.86599731445312,
+                129.4240264892578
+              ],
+              "bbox": [
+                70.86599731445312,
+                119.79402923583984,
+                277.4069519042969,
+                132.18702697753906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 132.8,
+          "text": "New York State Department of Labor",
+          "bbox": [
+            367.8810119628906,
+            132.7940216064453,
+            524.4090576171875,
+            145.18702697753906
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "New York State Department of Labor",
+              "origin": [
+                367.8810119628906,
+                142.4240264892578
+              ],
+              "bbox": [
+                367.8810119628906,
+                132.7940216064453,
+                524.4090576171875,
+                145.18702697753906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 145.8,
+          "text": "David A. Paterson, Governor",
+          "bbox": [
+            401.8739929199219,
+            145.7940216064453,
+            524.4089965820312,
+            158.18702697753906
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "David A. Paterson, Governor",
+              "origin": [
+                401.8739929199219,
+                155.4240264892578
+              ],
+              "bbox": [
+                401.8739929199219,
+                145.7940216064453,
+                524.4089965820312,
+                158.18702697753906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 166.7,
+          "text": "Job Description",
+          "bbox": [
+            256.291015625,
+            166.67803955078125,
+            338.9830017089844,
+            183.16603088378906
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Job Description",
+              "origin": [
+                256.291015625,
+                179.57803344726562
+              ],
+              "bbox": [
+                256.291015625,
+                166.67803955078125,
+                338.9830017089844,
+                183.16603088378906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 198.9,
+          "text": "Set up, operate, and maintain the electronic equipment used to transmit radio and television programs. Control",
+          "bbox": [
+            70.86599731445312,
+            198.89402770996094,
+            510.5699768066406,
+            211.26002502441406
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Set up, operate, and maintain the electronic equipment used to transmit radio and television programs. Control",
+              "origin": [
+                70.86599731445312,
+                208.56903076171875
+              ],
+              "bbox": [
+                70.86599731445312,
+                198.89402770996094,
+                510.5699768066406,
+                211.26002502441406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 210.9,
+          "text": "audio equipment to regulate volume level and quality of sound during radio and television broadcasts. Operate",
+          "bbox": [
+            70.86599731445312,
+            210.89402770996094,
+            509.5890197753906,
+            223.26002502441406
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "audio equipment to regulate volume level and quality of sound during radio and television broadcasts. Operate",
+              "origin": [
+                70.86599731445312,
+                220.56903076171875
+              ],
+              "bbox": [
+                70.86599731445312,
+                210.89402770996094,
+                509.5890197753906,
+                223.26002502441406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 222.9,
+          "text": "radio transmitter to broadcast radio and television programs.",
+          "bbox": [
+            70.86599731445312,
+            222.89402770996094,
+            310.9589538574219,
+            235.26002502441406
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "radio transmitter to broadcast radio and television programs.",
+              "origin": [
+                70.86599731445312,
+                232.56903076171875
+              ],
+              "bbox": [
+                70.86599731445312,
+                222.89402770996094,
+                310.9589538574219,
+                235.26002502441406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 248.8,
+          "text": "Interests",
+          "bbox": [
+            274.62701416015625,
+            248.83303833007812,
+            320.64697265625,
+            265.321044921875
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Interests",
+              "origin": [
+                274.62701416015625,
+                261.7330322265625
+              ],
+              "bbox": [
+                274.62701416015625,
+                248.83303833007812,
+                320.64697265625,
+                265.321044921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 281.0,
+          "text": "- Realistic occupations frequently involve work activities that include practical, hands-on problems and",
+          "bbox": [
+            107.88299560546875,
+            281.0490417480469,
+            515.5380249023438,
+            293.4150390625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Realistic occupations frequently involve work activities that include practical, hands-on problems and",
+              "origin": [
+                107.88299560546875,
+                290.7240295410156
+              ],
+              "bbox": [
+                107.88299560546875,
+                281.0490417480469,
+                515.5380249023438,
+                293.4150390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 281.1,
+          "text": "Realistic",
+          "bbox": [
+            70.86599731445312,
+            281.0940246582031,
+            107.88299560546875,
+            293.4870300292969
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Realistic",
+              "origin": [
+                70.86599731445312,
+                290.7240295410156
+              ],
+              "bbox": [
+                70.86599731445312,
+                281.0940246582031,
+                107.88299560546875,
+                293.4870300292969
+              ]
+            }
+          ]
+        },
+        {
+          "y": 293.0,
+          "text": "solutions. They often deal with plants, animals, and real-world materials like wood, tools, and machinery. Many of",
+          "bbox": [
+            70.86599731445312,
+            293.0490417480469,
+            520.5420532226562,
+            305.4150390625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "solutions. They often deal with plants, animals, and real-world materials like wood, tools, and machinery. Many of",
+              "origin": [
+                70.86599731445312,
+                302.7240295410156
+              ],
+              "bbox": [
+                70.86599731445312,
+                293.0490417480469,
+                520.5420532226562,
+                305.4150390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 305.0,
+          "text": "the occupations require working outside, and do not involve a lot of paperwork or working closely with others.",
+          "bbox": [
+            70.86599731445312,
+            305.0490417480469,
+            504.0540466308594,
+            317.4150390625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "the occupations require working outside, and do not involve a lot of paperwork or working closely with others.",
+              "origin": [
+                70.86599731445312,
+                314.7240295410156
+              ],
+              "bbox": [
+                70.86599731445312,
+                305.0490417480469,
+                504.0540466308594,
+                317.4150390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 331.0,
+          "text": "Tasks",
+          "bbox": [
+            281.635009765625,
+            330.988037109375,
+            313.63897705078125,
+            347.4760437011719
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Tasks",
+              "origin": [
+                281.635009765625,
+                343.8880310058594
+              ],
+              "bbox": [
+                281.635009765625,
+                330.988037109375,
+                313.63897705078125,
+                347.4760437011719
+              ]
+            }
+          ]
+        },
+        {
+          "y": 363.2,
+          "text": "1 . Maintain programming logs, as required by station management and the Federal Communications",
+          "bbox": [
+            70.86599731445312,
+            363.20404052734375,
+            470.52899169921875,
+            375.64202880859375
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "1",
+              "origin": [
+                70.86599731445312,
+                372.8790283203125
+              ],
+              "bbox": [
+                70.86599731445312,
+                363.2490234375,
+                75.8699951171875,
+                375.64202880859375
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": ". Maintain programming logs, as required by station management and the Federal Communications",
+              "origin": [
+                75.8699951171875,
+                372.8790283203125
+              ],
+              "bbox": [
+                75.8699951171875,
+                363.20404052734375,
+                470.52899169921875,
+                375.5700378417969
+              ]
+            }
+          ]
+        },
+        {
+          "y": 375.2,
+          "text": "Commission.",
+          "bbox": [
+            70.86599731445312,
+            375.20404052734375,
+            122.86800384521484,
+            387.5700378417969
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Commission.",
+              "origin": [
+                70.86599731445312,
+                384.8790283203125
+              ],
+              "bbox": [
+                70.86599731445312,
+                375.20404052734375,
+                122.86800384521484,
+                387.5700378417969
+              ]
+            }
+          ]
+        },
+        {
+          "y": 399.6,
+          "text": "2 . Control audio equipment to regulate the volume and sound quality during radio and television broadcasts.",
+          "bbox": [
+            70.86599731445312,
+            399.6010437011719,
+            500.0849609375,
+            412.0390319824219
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "2",
+              "origin": [
+                70.86599731445312,
+                409.2760314941406
+              ],
+              "bbox": [
+                70.86599731445312,
+                399.6460266113281,
+                75.8699951171875,
+                412.0390319824219
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": ". Control audio equipment to regulate the volume and sound quality during radio and television broadcasts.",
+              "origin": [
+                75.8699951171875,
+                409.2760314941406
+              ],
+              "bbox": [
+                75.8699951171875,
+                399.6010437011719,
+                500.0849609375,
+                411.967041015625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 424.0,
+          "text": "3 . Monitor strength, clarity, and reliability of incoming and outgoing signals, and adjust equipment as necessary to",
+          "bbox": [
+            70.86599731445312,
+            423.9980163574219,
+            522.072021484375,
+            436.4360046386719
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "3",
+              "origin": [
+                70.86599731445312,
+                433.6730041503906
+              ],
+              "bbox": [
+                70.86599731445312,
+                424.0429992675781,
+                75.8699951171875,
+                436.4360046386719
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": ". Monitor strength, clarity, and reliability of incoming and outgoing signals, and adjust equipment as necessary to",
+              "origin": [
+                75.8699951171875,
+                433.6730041503906
+              ],
+              "bbox": [
+                75.8699951171875,
+                423.9980163574219,
+                522.072021484375,
+                436.364013671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 436.0,
+          "text": "maintain quality broadcasts.",
+          "bbox": [
+            70.86599731445312,
+            435.9980163574219,
+            182.41200256347656,
+            448.364013671875
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "maintain quality broadcasts.",
+              "origin": [
+                70.86599731445312,
+                445.6730041503906
+              ],
+              "bbox": [
+                70.86599731445312,
+                435.9980163574219,
+                182.41200256347656,
+                448.364013671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 460.4,
+          "text": "4 . Regulate the fidelity, brightness, and contrast of video transmissions, using video console control panels.",
+          "bbox": [
+            70.86599731445312,
+            460.39501953125,
+            497.5649108886719,
+            472.8330078125
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "4",
+              "origin": [
+                70.86599731445312,
+                470.07000732421875
+              ],
+              "bbox": [
+                70.86599731445312,
+                460.44000244140625,
+                75.8699951171875,
+                472.8330078125
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": ". Regulate the fidelity, brightness, and contrast of video transmissions, using video console control panels.",
+              "origin": [
+                75.8699951171875,
+                470.07000732421875
+              ],
+              "bbox": [
+                75.8699951171875,
+                460.39501953125,
+                497.5649108886719,
+                472.7610168457031
+              ]
+            }
+          ]
+        },
+        {
+          "y": 484.8,
+          "text": "5 . Observe monitors and converse with station personnel to determine audio and video levels and to ascertain",
+          "bbox": [
+            70.86599731445312,
+            484.7920227050781,
+            508.57196044921875,
+            497.2300109863281
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "5",
+              "origin": [
+                70.86599731445312,
+                494.4670104980469
+              ],
+              "bbox": [
+                70.86599731445312,
+                484.8370056152344,
+                75.8699951171875,
+                497.2300109863281
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": ". Observe monitors and converse with station personnel to determine audio and video levels and to ascertain",
+              "origin": [
+                75.8699951171875,
+                494.4670104980469
+              ],
+              "bbox": [
+                75.8699951171875,
+                484.7920227050781,
+                508.57196044921875,
+                497.15802001953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 496.8,
+          "text": "that programs are airing.",
+          "bbox": [
+            70.86599731445312,
+            496.7920227050781,
+            168.9029998779297,
+            509.15802001953125
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "that programs are airing.",
+              "origin": [
+                70.86599731445312,
+                506.4670104980469
+              ],
+              "bbox": [
+                70.86599731445312,
+                496.7920227050781,
+                168.9029998779297,
+                509.15802001953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 521.2,
+          "text": "6 . Preview scheduled programs to ensure that signals are functioning and programs are ready for transmission.",
+          "bbox": [
+            70.86599731445312,
+            521.1890258789062,
+            513.549072265625,
+            533.6270141601562
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "6",
+              "origin": [
+                70.86599731445312,
+                530.864013671875
+              ],
+              "bbox": [
+                70.86599731445312,
+                521.2340087890625,
+                75.8699951171875,
+                533.6270141601562
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": ". Preview scheduled programs to ensure that signals are functioning and programs are ready for transmission.",
+              "origin": [
+                75.8699951171875,
+                530.864013671875
+              ],
+              "bbox": [
+                75.8699951171875,
+                521.1890258789062,
+                513.549072265625,
+                533.5549926757812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 545.6,
+          "text": "7 . Select sources from which programming will be received, or through which programming will be transmitted.",
+          "bbox": [
+            70.86599731445312,
+            545.5860595703125,
+            509.4989929199219,
+            558.0240478515625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "7",
+              "origin": [
+                70.86599731445312,
+                555.2610473632812
+              ],
+              "bbox": [
+                70.86599731445312,
+                545.6310424804688,
+                75.8699951171875,
+                558.0240478515625
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": ". Select sources from which programming will be received, or through which programming will be transmitted.",
+              "origin": [
+                75.8699951171875,
+                555.2610473632812
+              ],
+              "bbox": [
+                75.8699951171875,
+                545.5860595703125,
+                509.4989929199219,
+                557.9520263671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 570.0,
+          "text": "8 . Report equipment problems, ensure that repairs are made, and make emergency repairs to equipment when",
+          "bbox": [
+            70.86599731445312,
+            569.9830322265625,
+            512.5590209960938,
+            582.4210205078125
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "8",
+              "origin": [
+                70.86599731445312,
+                579.6580200195312
+              ],
+              "bbox": [
+                70.86599731445312,
+                570.0280151367188,
+                75.8699951171875,
+                582.4210205078125
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": ". Report equipment problems, ensure that repairs are made, and make emergency repairs to equipment when",
+              "origin": [
+                75.8699951171875,
+                579.6580200195312
+              ],
+              "bbox": [
+                75.8699951171875,
+                569.9830322265625,
+                512.5590209960938,
+                582.3489990234375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 582.0,
+          "text": "necessary and possible.",
+          "bbox": [
+            70.86599731445312,
+            581.9830322265625,
+            167.40899658203125,
+            594.3489990234375
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "necessary and possible.",
+              "origin": [
+                70.86599731445312,
+                591.6580200195312
+              ],
+              "bbox": [
+                70.86599731445312,
+                581.9830322265625,
+                167.40899658203125,
+                594.3489990234375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 606.4,
+          "text": "9 . Record sound onto tape or film for radio or television, checking its quality and making adjustments where",
+          "bbox": [
+            70.86599731445312,
+            606.3800659179688,
+            497.5469970703125,
+            618.8180541992188
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "9",
+              "origin": [
+                70.86599731445312,
+                616.0550537109375
+              ],
+              "bbox": [
+                70.86599731445312,
+                606.425048828125,
+                75.8699951171875,
+                618.8180541992188
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": ". Record sound onto tape or film for radio or television, checking its quality and making adjustments where",
+              "origin": [
+                75.8699951171875,
+                616.0550537109375
+              ],
+              "bbox": [
+                75.8699951171875,
+                606.3800659179688,
+                497.5469970703125,
+                618.7460327148438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 618.4,
+          "text": "necessary.",
+          "bbox": [
+            70.86599731445312,
+            618.3800659179688,
+            114.38099670410156,
+            630.7460327148438
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "necessary.",
+              "origin": [
+                70.86599731445312,
+                628.0550537109375
+              ],
+              "bbox": [
+                70.86599731445312,
+                618.3800659179688,
+                114.38099670410156,
+                630.7460327148438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 642.8,
+          "text": "10 . Align antennae with receiving dishes to obtain the clearest signal for transmission of broadcasts from field",
+          "bbox": [
+            70.86599731445312,
+            642.7770385742188,
+            505.55706787109375,
+            655.2150268554688
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "10",
+              "origin": [
+                70.86599731445312,
+                652.4520263671875
+              ],
+              "bbox": [
+                70.86599731445312,
+                642.822021484375,
+                80.87399291992188,
+                655.2150268554688
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": ". Align antennae with receiving dishes to obtain the clearest signal for transmission of broadcasts from field",
+              "origin": [
+                80.8740005493164,
+                652.4520263671875
+              ],
+              "bbox": [
+                80.8740005493164,
+                642.7770385742188,
+                505.55706787109375,
+                655.1430053710938
+              ]
+            }
+          ]
+        },
+        {
+          "y": 654.8,
+          "text": "locations.",
+          "bbox": [
+            70.86599731445312,
+            654.7770385742188,
+            108.88200378417969,
+            667.1430053710938
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "locations.",
+              "origin": [
+                70.86599731445312,
+                664.4520263671875
+              ],
+              "bbox": [
+                70.86599731445312,
+                654.7770385742188,
+                108.88200378417969,
+                667.1430053710938
+              ]
+            }
+          ]
+        },
+        {
+          "y": 679.2,
+          "text": "11 . Substitute programs in cases where signals fail.",
+          "bbox": [
+            70.86599731445312,
+            679.174072265625,
+            275.948974609375,
+            691.612060546875
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "11",
+              "origin": [
+                70.86599731445312,
+                688.8490600585938
+              ],
+              "bbox": [
+                70.86599731445312,
+                679.2190551757812,
+                80.87399291992188,
+                691.612060546875
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": ". Substitute programs in cases where signals fail.",
+              "origin": [
+                80.8740005493164,
+                688.8490600585938
+              ],
+              "bbox": [
+                80.8740005493164,
+                679.174072265625,
+                275.948974609375,
+                691.5400390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 705.1,
+          "text": "Skills",
+          "bbox": [
+            283.63897705078125,
+            705.113037109375,
+            311.635009765625,
+            721.60107421875
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Skills",
+              "origin": [
+                283.63897705078125,
+                718.0130615234375
+              ],
+              "bbox": [
+                283.63897705078125,
+                705.113037109375,
+                311.635009765625,
+                721.60107421875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 737.3,
+          "text": "- Watching gauges, dials, or other indicators to make sure a machine is working properly.",
+          "bbox": [
+            162.36898803710938,
+            737.3290405273438,
+            519.0030517578125,
+            749.6950073242188
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Watching gauges, dials, or other indicators to make sure a machine is working properly.",
+              "origin": [
+                162.36898803710938,
+                747.0040283203125
+              ],
+              "bbox": [
+                162.36898803710938,
+                737.3290405273438,
+                519.0030517578125,
+                749.6950073242188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 737.4,
+          "text": "Operation Monitoring",
+          "bbox": [
+            70.86599731445312,
+            737.3740234375,
+            162.36898803710938,
+            749.7670288085938
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Operation Monitoring",
+              "origin": [
+                70.86599731445312,
+                747.0040283203125
+              ],
+              "bbox": [
+                70.86599731445312,
+                737.3740234375,
+                162.36898803710938,
+                749.7670288085938
+              ]
+            }
+          ]
+        },
+        {
+          "y": 761.7,
+          "text": "- Understanding written sentences and paragraphs in work related documents.",
+          "bbox": [
+            177.38099670410156,
+            761.72607421875,
+            492.0210266113281,
+            774.092041015625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Understanding written sentences and paragraphs in work related documents.",
+              "origin": [
+                177.38099670410156,
+                771.4010620117188
+              ],
+              "bbox": [
+                177.38099670410156,
+                761.72607421875,
+                492.0210266113281,
+                774.092041015625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 761.8,
+          "text": "Reading Comprehension",
+          "bbox": [
+            70.86599731445312,
+            761.7710571289062,
+            177.3809814453125,
+            774.1640625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Reading Comprehension",
+              "origin": [
+                70.86599731445312,
+                771.4010620117188
+              ],
+              "bbox": [
+                70.86599731445312,
+                761.7710571289062,
+                177.3809814453125,
+                774.1640625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 786.1,
+          "text": "- Controlling operations of equipment or systems.",
+          "bbox": [
+            166.37399291992188,
+            786.123046875,
+            364.95001220703125,
+            798.489013671875
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Controlling operations of equipment or systems.",
+              "origin": [
+                166.37399291992188,
+                795.7980346679688
+              ],
+              "bbox": [
+                166.37399291992188,
+                786.123046875,
+                364.95001220703125,
+                798.489013671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 786.2,
+          "text": "Operation and Control",
+          "bbox": [
+            70.86599731445312,
+            786.1680297851562,
+            166.37400817871094,
+            798.56103515625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Operation and Control",
+              "origin": [
+                70.86599731445312,
+                795.7980346679688
+              ],
+              "bbox": [
+                70.86599731445312,
+                786.1680297851562,
+                166.37400817871094,
+                798.56103515625
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_width": 595.0,
+      "page_height": 842.0,
+      "lines": [
+        {
+          "y": 41.8,
+          "text": "Broadcast Technicians, page 2 of 3",
+          "bbox": [
+            383.333984375,
+            41.754024505615234,
+            524.4090576171875,
+            54.120025634765625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Broadcast Technicians, page 2 of 3",
+              "origin": [
+                383.333984375,
+                51.42902374267578
+              ],
+              "bbox": [
+                383.333984375,
+                41.754024505615234,
+                524.4090576171875,
+                54.120025634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 83.8,
+          "text": "Troubleshooting - Determining causes of operating errors and deciding what to do about it.",
+          "bbox": [
+            70.86599731445312,
+            83.77302551269531,
+            437.50799560546875,
+            96.21102905273438
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Troubleshooting",
+              "origin": [
+                70.86599731445312,
+                93.44802856445312
+              ],
+              "bbox": [
+                70.86599731445312,
+                83.81803131103516,
+                141.86700439453125,
+                96.21102905273438
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Determining causes of operating errors and deciding what to do about it.",
+              "origin": [
+                141.86700439453125,
+                93.44802856445312
+              ],
+              "bbox": [
+                141.86700439453125,
+                83.77302551269531,
+                437.50799560546875,
+                96.13903045654297
+              ]
+            }
+          ]
+        },
+        {
+          "y": 108.3,
+          "text": "Active Listening - Giving full attention to what other people are saying, taking time to understand the points",
+          "bbox": [
+            70.86599731445312,
+            108.29202270507812,
+            500.571044921875,
+            120.73002624511719
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Active Listening",
+              "origin": [
+                70.86599731445312,
+                117.96702575683594
+              ],
+              "bbox": [
+                70.86599731445312,
+                108.33702850341797,
+                140.38198852539062,
+                120.73002624511719
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Giving full attention to what other people are saying, taking time to understand the points",
+              "origin": [
+                140.38198852539062,
+                117.96702575683594
+              ],
+              "bbox": [
+                140.38198852539062,
+                108.29202270507812,
+                500.571044921875,
+                120.65802764892578
+              ]
+            }
+          ]
+        },
+        {
+          "y": 120.3,
+          "text": "being made, asking questions as appropriate, and not interrupting at inappropriate times.",
+          "bbox": [
+            70.86599731445312,
+            120.29202270507812,
+            424.0439758300781,
+            132.65802001953125
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "being made, asking questions as appropriate, and not interrupting at inappropriate times.",
+              "origin": [
+                70.86599731445312,
+                129.96702575683594
+              ],
+              "bbox": [
+                70.86599731445312,
+                120.29202270507812,
+                424.0439758300781,
+                132.65802001953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 144.8,
+          "text": "- Understanding the implications of new information for both current and future problem-solving",
+          "bbox": [
+            138.38400268554688,
+            144.81101989746094,
+            518.0401000976562,
+            157.17701721191406
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Understanding the implications of new information for both current and future problem-solving",
+              "origin": [
+                138.38400268554688,
+                154.48602294921875
+              ],
+              "bbox": [
+                138.38400268554688,
+                144.81101989746094,
+                518.0401000976562,
+                157.17701721191406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 144.9,
+          "text": "Active Learning",
+          "bbox": [
+            70.86599731445312,
+            144.85601806640625,
+            138.38400268554688,
+            157.2490234375
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Active Learning",
+              "origin": [
+                70.86599731445312,
+                154.48602294921875
+              ],
+              "bbox": [
+                70.86599731445312,
+                144.85601806640625,
+                138.38400268554688,
+                157.2490234375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 156.8,
+          "text": "and decision-making.",
+          "bbox": [
+            70.86599731445312,
+            156.81101989746094,
+            155.8979949951172,
+            169.17701721191406
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "and decision-making.",
+              "origin": [
+                70.86599731445312,
+                166.48602294921875
+              ],
+              "bbox": [
+                70.86599731445312,
+                156.81101989746094,
+                155.8979949951172,
+                169.17701721191406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 181.3,
+          "text": "- Using logic and reasoning to identify the strengths and weaknesses of alternative solutions,",
+          "bbox": [
+            141.38099670410156,
+            181.3300323486328,
+            512.5589599609375,
+            193.69602966308594
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Using logic and reasoning to identify the strengths and weaknesses of alternative solutions,",
+              "origin": [
+                141.38099670410156,
+                191.00503540039062
+              ],
+              "bbox": [
+                141.38099670410156,
+                181.3300323486328,
+                512.5589599609375,
+                193.69602966308594
+              ]
+            }
+          ]
+        },
+        {
+          "y": 181.4,
+          "text": "Critical Thinking",
+          "bbox": [
+            70.86599731445312,
+            181.37503051757812,
+            141.38099670410156,
+            193.76803588867188
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Critical Thinking",
+              "origin": [
+                70.86599731445312,
+                191.00503540039062
+              ],
+              "bbox": [
+                70.86599731445312,
+                181.37503051757812,
+                141.38099670410156,
+                193.76803588867188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 193.3,
+          "text": "conclusions or approaches to problems.",
+          "bbox": [
+            70.86599731445312,
+            193.3300323486328,
+            229.93197631835938,
+            205.69602966308594
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "conclusions or approaches to problems.",
+              "origin": [
+                70.86599731445312,
+                203.00503540039062
+              ],
+              "bbox": [
+                70.86599731445312,
+                193.3300323486328,
+                229.93197631835938,
+                205.69602966308594
+              ]
+            }
+          ]
+        },
+        {
+          "y": 219.4,
+          "text": "Knowledge",
+          "bbox": [
+            267.95501708984375,
+            219.39102172851562,
+            327.3189697265625,
+            235.87901306152344
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Knowledge",
+              "origin": [
+                267.95501708984375,
+                232.291015625
+              ],
+              "bbox": [
+                267.95501708984375,
+                219.39102172851562,
+                327.3189697265625,
+                235.87901306152344
+              ]
+            }
+          ]
+        },
+        {
+          "y": 251.8,
+          "text": "Telecommunications - Knowledge of transmission, broadcasting, switching, control, and operation of",
+          "bbox": [
+            70.86599731445312,
+            251.7520294189453,
+            476.53204345703125,
+            264.1900329589844
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Telecommunications",
+              "origin": [
+                70.86599731445312,
+                261.4270324707031
+              ],
+              "bbox": [
+                70.86599731445312,
+                251.79702758789062,
+                160.38900756835938,
+                264.1900329589844
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Knowledge of transmission, broadcasting, switching, control, and operation of",
+              "origin": [
+                160.38900756835938,
+                261.4270324707031
+              ],
+              "bbox": [
+                160.38900756835938,
+                251.7520294189453,
+                476.53204345703125,
+                264.1180419921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 263.8,
+          "text": "telecommunications systems.",
+          "bbox": [
+            70.86599731445312,
+            263.7520446777344,
+            188.39700317382812,
+            276.1180419921875
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "telecommunications systems.",
+              "origin": [
+                70.86599731445312,
+                273.4270324707031
+              ],
+              "bbox": [
+                70.86599731445312,
+                263.7520446777344,
+                188.39700317382812,
+                276.1180419921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 288.3,
+          "text": "Communications and Media - Knowledge of media production, communication, and dissemination techniques",
+          "bbox": [
+            70.86599731445312,
+            288.2710266113281,
+            513.531005859375,
+            300.7090148925781
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Communications and Media",
+              "origin": [
+                70.86599731445312,
+                297.9460144042969
+              ],
+              "bbox": [
+                70.86599731445312,
+                288.3160095214844,
+                190.385986328125,
+                300.7090148925781
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Knowledge of media production, communication, and dissemination techniques",
+              "origin": [
+                190.385986328125,
+                297.9460144042969
+              ],
+              "bbox": [
+                190.385986328125,
+                288.2710266113281,
+                513.531005859375,
+                300.63702392578125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 300.3,
+          "text": "and methods. This includes alternative ways to inform and entertain via written, oral, and visual media.",
+          "bbox": [
+            70.86599731445312,
+            300.2710266113281,
+            478.03497314453125,
+            312.63702392578125
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "and methods. This includes alternative ways to inform and entertain via written, oral, and visual media.",
+              "origin": [
+                70.86599731445312,
+                309.9460144042969
+              ],
+              "bbox": [
+                70.86599731445312,
+                300.2710266113281,
+                478.03497314453125,
+                312.63702392578125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 324.8,
+          "text": "Computers and Electronics - Knowledge of circuit boards, processors, chips, electronic equipment, and",
+          "bbox": [
+            70.86599731445312,
+            324.7900390625,
+            489.5190124511719,
+            337.22802734375
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Computers and Electronics",
+              "origin": [
+                70.86599731445312,
+                334.46502685546875
+              ],
+              "bbox": [
+                70.86599731445312,
+                324.83502197265625,
+                187.8929901123047,
+                337.22802734375
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Knowledge of circuit boards, processors, chips, electronic equipment, and",
+              "origin": [
+                187.89300537109375,
+                334.46502685546875
+              ],
+              "bbox": [
+                187.89300537109375,
+                324.7900390625,
+                489.5190124511719,
+                337.1560363769531
+              ]
+            }
+          ]
+        },
+        {
+          "y": 336.8,
+          "text": "computer hardware and software, including applications and programming.",
+          "bbox": [
+            70.86599731445312,
+            336.7900390625,
+            368.4869689941406,
+            349.1560363769531
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "computer hardware and software, including applications and programming.",
+              "origin": [
+                70.86599731445312,
+                346.46502685546875
+              ],
+              "bbox": [
+                70.86599731445312,
+                336.7900390625,
+                368.4869689941406,
+                349.1560363769531
+              ]
+            }
+          ]
+        },
+        {
+          "y": 361.3,
+          "text": "- Knowledge of the structure and content of the English language including the meaning and",
+          "bbox": [
+            148.38299560546875,
+            361.30902099609375,
+            517.0949096679688,
+            373.6750183105469
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Knowledge of the structure and content of the English language including the meaning and",
+              "origin": [
+                148.38299560546875,
+                370.9840087890625
+              ],
+              "bbox": [
+                148.38299560546875,
+                361.30902099609375,
+                517.0949096679688,
+                373.6750183105469
+              ]
+            }
+          ]
+        },
+        {
+          "y": 361.4,
+          "text": "English Language",
+          "bbox": [
+            70.86599731445312,
+            361.35400390625,
+            148.38299560546875,
+            373.74700927734375
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "English Language",
+              "origin": [
+                70.86599731445312,
+                370.9840087890625
+              ],
+              "bbox": [
+                70.86599731445312,
+                361.35400390625,
+                148.38299560546875,
+                373.74700927734375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 373.3,
+          "text": "spelling of words, rules of composition, and grammar.",
+          "bbox": [
+            70.86599731445312,
+            373.30902099609375,
+            283.94097900390625,
+            385.6750183105469
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "spelling of words, rules of composition, and grammar.",
+              "origin": [
+                70.86599731445312,
+                382.9840087890625
+              ],
+              "bbox": [
+                70.86599731445312,
+                373.30902099609375,
+                283.94097900390625,
+                385.6750183105469
+              ]
+            }
+          ]
+        },
+        {
+          "y": 397.8,
+          "text": "- Knowledge of the practical application of engineering science and technology.",
+          "bbox": [
+            194.3909912109375,
+            397.8280334472656,
+            512.054931640625,
+            410.19403076171875
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Knowledge of the practical application of engineering science and technology.",
+              "origin": [
+                194.3909912109375,
+                407.5030212402344
+              ],
+              "bbox": [
+                194.3909912109375,
+                397.8280334472656,
+                512.054931640625,
+                410.19403076171875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 397.9,
+          "text": "Engineering and Technology",
+          "bbox": [
+            70.86599731445312,
+            397.8730163574219,
+            194.3909912109375,
+            410.2660217285156
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Engineering and Technology",
+              "origin": [
+                70.86599731445312,
+                407.5030212402344
+              ],
+              "bbox": [
+                70.86599731445312,
+                397.8730163574219,
+                194.3909912109375,
+                410.2660217285156
+              ]
+            }
+          ]
+        },
+        {
+          "y": 409.8,
+          "text": "This includes applying principles, techniques, procedures, and equipment to the design and production of various",
+          "bbox": [
+            70.86599731445312,
+            409.8280334472656,
+            520.5870361328125,
+            422.19403076171875
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "This includes applying principles, techniques, procedures, and equipment to the design and production of various",
+              "origin": [
+                70.86599731445312,
+                419.5030212402344
+              ],
+              "bbox": [
+                70.86599731445312,
+                409.8280334472656,
+                520.5870361328125,
+                422.19403076171875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 421.8,
+          "text": "goods and services.",
+          "bbox": [
+            70.86599731445312,
+            421.8280334472656,
+            150.9029998779297,
+            434.19403076171875
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "goods and services.",
+              "origin": [
+                70.86599731445312,
+                431.5030212402344
+              ],
+              "bbox": [
+                70.86599731445312,
+                421.8280334472656,
+                150.9029998779297,
+                434.19403076171875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 446.3,
+          "text": "- Knowledge of principles and methods for curriculum and training design, teaching and",
+          "bbox": [
+            170.88299560546875,
+            446.3470153808594,
+            520.5419921875,
+            458.7130126953125
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Knowledge of principles and methods for curriculum and training design, teaching and",
+              "origin": [
+                170.88299560546875,
+                456.0220031738281
+              ],
+              "bbox": [
+                170.88299560546875,
+                446.3470153808594,
+                520.5419921875,
+                458.7130126953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 446.4,
+          "text": "Education and Training",
+          "bbox": [
+            70.86599731445312,
+            446.3919982910156,
+            170.88299560546875,
+            458.7850036621094
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Education and Training",
+              "origin": [
+                70.86599731445312,
+                456.0220031738281
+              ],
+              "bbox": [
+                70.86599731445312,
+                446.3919982910156,
+                170.88299560546875,
+                458.7850036621094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 458.3,
+          "text": "instruction for individuals and groups, and the measurement of training effects.",
+          "bbox": [
+            70.86599731445312,
+            458.3470153808594,
+            383.0129699707031,
+            470.7130126953125
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "instruction for individuals and groups, and the measurement of training effects.",
+              "origin": [
+                70.86599731445312,
+                468.0220031738281
+              ],
+              "bbox": [
+                70.86599731445312,
+                458.3470153808594,
+                383.0129699707031,
+                470.7130126953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 482.9,
+          "text": "Mechanical - Knowledge of machines and tools, including their designs, uses, repair, and maintenance.",
+          "bbox": [
+            70.86599731445312,
+            482.86602783203125,
+            484.5600280761719,
+            495.30401611328125
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Mechanical",
+              "origin": [
+                70.86599731445312,
+                492.541015625
+              ],
+              "bbox": [
+                70.86599731445312,
+                482.9110107421875,
+                119.38500213623047,
+                495.30401611328125
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Knowledge of machines and tools, including their designs, uses, repair, and maintenance.",
+              "origin": [
+                119.38499450683594,
+                492.541015625
+              ],
+              "bbox": [
+                119.38499450683594,
+                482.86602783203125,
+                484.5600280761719,
+                495.2320251464844
+              ]
+            }
+          ]
+        },
+        {
+          "y": 508.9,
+          "text": "Education",
+          "bbox": [
+            270.95501708984375,
+            508.9270324707031,
+            324.3189697265625,
+            525.4150390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Education",
+              "origin": [
+                270.95501708984375,
+                521.8270263671875
+              ],
+              "bbox": [
+                270.95501708984375,
+                508.9270324707031,
+                324.3189697265625,
+                525.4150390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 541.3,
+          "text": "Job Zone Three: Medium Preparation Needed",
+          "bbox": [
+            70.86599731445312,
+            541.3330078125,
+            264.9059753417969,
+            553.7260131835938
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Job Zone Three: Medium Preparation Needed",
+              "origin": [
+                70.86599731445312,
+                550.9630126953125
+              ],
+              "bbox": [
+                70.86599731445312,
+                541.3330078125,
+                264.9059753417969,
+                553.7260131835938
+              ]
+            }
+          ]
+        },
+        {
+          "y": 562.2,
+          "text": "Most occupations in this zone require training in vocational schools, related on-the-job experience, or",
+          "bbox": [
+            117.3689956665039,
+            562.2300415039062,
+            518.5440063476562,
+            574.5960083007812
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Most occupations in this zone require training in vocational schools, related on-the-job experience, or",
+              "origin": [
+                117.3689956665039,
+                571.905029296875
+              ],
+              "bbox": [
+                117.3689956665039,
+                562.2300415039062,
+                518.5440063476562,
+                574.5960083007812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 562.3,
+          "text": "Education:",
+          "bbox": [
+            70.86599731445312,
+            562.2750244140625,
+            117.36900329589844,
+            574.6680297851562
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Education:",
+              "origin": [
+                70.86599731445312,
+                571.905029296875
+              ],
+              "bbox": [
+                70.86599731445312,
+                562.2750244140625,
+                117.36900329589844,
+                574.6680297851562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 574.2,
+          "text": "an associate's degree. Some may require a bachelor's degree.",
+          "bbox": [
+            70.86599731445312,
+            574.2300415039062,
+            320.4179382324219,
+            586.5960083007812
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "an associate's degree. Some may require a bachelor's degree.",
+              "origin": [
+                70.86599731445312,
+                583.905029296875
+              ],
+              "bbox": [
+                70.86599731445312,
+                574.2300415039062,
+                320.4179382324219,
+                586.5960083007812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 595.2,
+          "text": "Training : Employees in these occupations usually need one or two years of training involving both on-the-job",
+          "bbox": [
+            70.86599731445312,
+            595.1720581054688,
+            505.0619812011719,
+            607.6100463867188
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Training",
+              "origin": [
+                70.86599731445312,
+                604.8470458984375
+              ],
+              "bbox": [
+                70.86599731445312,
+                595.217041015625,
+                106.37100219726562,
+                607.6100463867188
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": ": Employees in these occupations usually need one or two years of training involving both on-the-job",
+              "origin": [
+                106.37100219726562,
+                604.8470458984375
+              ],
+              "bbox": [
+                106.37100219726562,
+                595.1720581054688,
+                505.0619812011719,
+                607.5380249023438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 607.2,
+          "text": "experience and informal training with experienced workers.",
+          "bbox": [
+            70.86599731445312,
+            607.1720581054688,
+            305.45098876953125,
+            619.5380249023438
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "experience and informal training with experienced workers.",
+              "origin": [
+                70.86599731445312,
+                616.8470458984375
+              ],
+              "bbox": [
+                70.86599731445312,
+                607.1720581054688,
+                305.45098876953125,
+                619.5380249023438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 633.2,
+          "text": "School Programs",
+          "bbox": [
+            251.6230010986328,
+            633.2330322265625,
+            343.6510009765625,
+            649.7210693359375
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "School Programs",
+              "origin": [
+                251.6230010986328,
+                646.133056640625
+              ],
+              "bbox": [
+                251.6230010986328,
+                633.2330322265625,
+                343.6510009765625,
+                649.7210693359375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 665.6,
+          "text": "Communications Technology/Technician. - A program that generally prepares individuals to function as",
+          "bbox": [
+            70.86599731445312,
+            665.5940551757812,
+            494.00994873046875,
+            678.0320434570312
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Communications Technology/Technician.",
+              "origin": [
+                70.86599731445312,
+                675.26904296875
+              ],
+              "bbox": [
+                70.86599731445312,
+                665.6390380859375,
+                248.90396118164062,
+                678.0320434570312
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - A program that generally prepares individuals to function as",
+              "origin": [
+                248.90399169921875,
+                675.26904296875
+              ],
+              "bbox": [
+                248.90399169921875,
+                665.5940551757812,
+                494.00994873046875,
+                677.9600219726562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 677.6,
+          "text": "workers and managers within communications industries. Includes instruction in business economics; basic",
+          "bbox": [
+            70.86599731445312,
+            677.5940551757812,
+            497.5109558105469,
+            689.9600219726562
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "workers and managers within communications industries. Includes instruction in business economics; basic",
+              "origin": [
+                70.86599731445312,
+                687.26904296875
+              ],
+              "bbox": [
+                70.86599731445312,
+                677.5940551757812,
+                497.5109558105469,
+                689.9600219726562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 689.6,
+          "text": "management; principles of interpersonal and mediated communications; radio, television, and digital media",
+          "bbox": [
+            70.86599731445312,
+            689.5940551757812,
+            496.0439453125,
+            701.9600219726562
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "management; principles of interpersonal and mediated communications; radio, television, and digital media",
+              "origin": [
+                70.86599731445312,
+                699.26904296875
+              ],
+              "bbox": [
+                70.86599731445312,
+                689.5940551757812,
+                496.0439453125,
+                701.9600219726562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 701.6,
+          "text": "production; and related aspects of technology and communications systems.",
+          "bbox": [
+            70.86599731445312,
+            701.5940551757812,
+            375.5069885253906,
+            713.9600219726562
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "production; and related aspects of technology and communications systems.",
+              "origin": [
+                70.86599731445312,
+                711.26904296875
+              ],
+              "bbox": [
+                70.86599731445312,
+                701.5940551757812,
+                375.5069885253906,
+                713.9600219726562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 726.1,
+          "text": "- A program that prepares individuals to apply",
+          "bbox": [
+            325.93499755859375,
+            726.113037109375,
+            510.0120849609375,
+            738.47900390625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - A program that prepares individuals to apply",
+              "origin": [
+                325.93499755859375,
+                735.7880249023438
+              ],
+              "bbox": [
+                325.93499755859375,
+                726.113037109375,
+                510.0120849609375,
+                738.47900390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 726.2,
+          "text": "Radio and Television Broadcasting Technology/Technician.",
+          "bbox": [
+            70.86599731445312,
+            726.1580200195312,
+            325.93487548828125,
+            738.551025390625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Radio and Television Broadcasting Technology/Technician.",
+              "origin": [
+                70.86599731445312,
+                735.7880249023438
+              ],
+              "bbox": [
+                70.86599731445312,
+                726.1580200195312,
+                325.93487548828125,
+                738.551025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 738.1,
+          "text": "technical knowledge and skills to the production of radio and television programs, and related operations, under",
+          "bbox": [
+            70.86599731445312,
+            738.113037109375,
+            514.0800170898438,
+            750.47900390625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "technical knowledge and skills to the production of radio and television programs, and related operations, under",
+              "origin": [
+                70.86599731445312,
+                747.7880249023438
+              ],
+              "bbox": [
+                70.86599731445312,
+                738.113037109375,
+                514.0800170898438,
+                750.47900390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 750.1,
+          "text": "the supervision of broadcast and studio managers, directors, editors, and producers. Includes instruction in",
+          "bbox": [
+            70.86599731445312,
+            750.113037109375,
+            495.5580139160156,
+            762.47900390625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "the supervision of broadcast and studio managers, directors, editors, and producers. Includes instruction in",
+              "origin": [
+                70.86599731445312,
+                759.7880249023438
+              ],
+              "bbox": [
+                70.86599731445312,
+                750.113037109375,
+                495.5580139160156,
+                762.47900390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 762.1,
+          "text": "sound, lighting, and camera operation and maintenance; power and feed control; studio operations; production",
+          "bbox": [
+            70.86599731445312,
+            762.113037109375,
+            510.1020202636719,
+            774.47900390625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "sound, lighting, and camera operation and maintenance; power and feed control; studio operations; production",
+              "origin": [
+                70.86599731445312,
+                771.7880249023438
+              ],
+              "bbox": [
+                70.86599731445312,
+                762.113037109375,
+                510.1020202636719,
+                774.47900390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 774.1,
+          "text": "preparation; broadcast engineering; related computer applications; and specialized applications such as news,",
+          "bbox": [
+            70.86599731445312,
+            774.113037109375,
+            509.5709228515625,
+            786.47900390625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "preparation; broadcast engineering; related computer applications; and specialized applications such as news,",
+              "origin": [
+                70.86599731445312,
+                783.7880249023438
+              ],
+              "bbox": [
+                70.86599731445312,
+                774.113037109375,
+                509.5709228515625,
+                786.47900390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 786.1,
+          "text": "entertainment, live talk, sports, commercials, and taping.",
+          "bbox": [
+            70.86599731445312,
+            786.113037109375,
+            295.45196533203125,
+            798.47900390625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "entertainment, live talk, sports, commercials, and taping.",
+              "origin": [
+                70.86599731445312,
+                795.7880249023438
+              ],
+              "bbox": [
+                70.86599731445312,
+                786.113037109375,
+                295.45196533203125,
+                798.47900390625
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_width": 595.0,
+      "page_height": 842.0,
+      "lines": [
+        {
+          "y": 41.8,
+          "text": "Broadcast Technicians, page 3 of 3",
+          "bbox": [
+            383.333984375,
+            41.754024505615234,
+            524.4090576171875,
+            54.120025634765625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Broadcast Technicians, page 3 of 3",
+              "origin": [
+                383.333984375,
+                51.42902374267578
+              ],
+              "bbox": [
+                383.333984375,
+                41.754024505615234,
+                524.4090576171875,
+                54.120025634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 83.8,
+          "text": "Audiovisual Communications Technologies/Technicians, Other. - Any instructional program in audiovisual",
+          "bbox": [
+            70.86599731445312,
+            83.77302551269531,
+            510.9930114746094,
+            96.21102905273438
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Audiovisual Communications Technologies/Technicians, Other.",
+              "origin": [
+                70.86599731445312,
+                93.44802856445312
+              ],
+              "bbox": [
+                70.86599731445312,
+                83.81803131103516,
+                343.9349060058594,
+                96.21102905273438
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Any instructional program in audiovisual",
+              "origin": [
+                343.93499755859375,
+                93.44802856445312
+              ],
+              "bbox": [
+                343.93499755859375,
+                83.77302551269531,
+                510.9930114746094,
+                96.13903045654297
+              ]
+            }
+          ]
+        },
+        {
+          "y": 95.8,
+          "text": "communications technologies not listed above.",
+          "bbox": [
+            70.86599731445312,
+            95.77302551269531,
+            256.9499816894531,
+            108.13903045654297
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "communications technologies not listed above.",
+              "origin": [
+                70.86599731445312,
+                105.44802856445312
+              ],
+              "bbox": [
+                70.86599731445312,
+                95.77302551269531,
+                256.9499816894531,
+                108.13903045654297
+              ]
+            }
+          ]
+        },
+        {
+          "y": 121.9,
+          "text": "Wages",
+          "bbox": [
+            278.9649963378906,
+            121.91503143310547,
+            316.3089904785156,
+            138.4030303955078
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Wages",
+              "origin": [
+                278.9649963378906,
+                134.81503295898438
+              ],
+              "bbox": [
+                278.9649963378906,
+                121.91503143310547,
+                316.3089904785156,
+                138.4030303955078
+              ]
+            }
+          ]
+        },
+        {
+          "y": 154.4,
+          "text": "In NY the average wage for this occupation was:",
+          "bbox": [
+            70.86599731445312,
+            154.37303161621094,
+            263.96099853515625,
+            166.73902893066406
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "In NY the average wage for this occupation was:",
+              "origin": [
+                70.86599731445312,
+                164.04803466796875
+              ],
+              "bbox": [
+                70.86599731445312,
+                154.37303161621094,
+                263.96099853515625,
+                166.73902893066406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 175.4,
+          "text": "$33,030 for entry level workers, and $65,350 for experienced workers.",
+          "bbox": [
+            70.86599731445312,
+            175.37303161621094,
+            349.9919738769531,
+            187.73902893066406
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "$33,030 for entry level workers, and $65,350 for experienced workers.",
+              "origin": [
+                70.86599731445312,
+                185.04803466796875
+              ],
+              "bbox": [
+                70.86599731445312,
+                175.37303161621094,
+                349.9919738769531,
+                187.73902893066406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 197.9,
+          "text": "Job Outlook",
+          "bbox": [
+            265.6210021972656,
+            197.9150390625,
+            329.6529846191406,
+            214.4030303955078
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Job Outlook",
+              "origin": [
+                265.6210021972656,
+                210.81503295898438
+              ],
+              "bbox": [
+                265.6210021972656,
+                197.9150390625,
+                329.6529846191406,
+                214.4030303955078
+              ]
+            }
+          ]
+        },
+        {
+          "y": 230.4,
+          "text": "Based on the total number of annual openings and its growth rate, the employment prospects for this occupation",
+          "bbox": [
+            70.86599731445312,
+            230.37303161621094,
+            517.59912109375,
+            242.73902893066406
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Based on the total number of annual openings and its growth rate, the employment prospects for this occupation",
+              "origin": [
+                70.86599731445312,
+                240.04803466796875
+              ],
+              "bbox": [
+                70.86599731445312,
+                230.37303161621094,
+                517.59912109375,
+                242.73902893066406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 242.4,
+          "text": "are described as Favorable.",
+          "bbox": [
+            70.86599731445312,
+            242.37303161621094,
+            182.41200256347656,
+            254.73902893066406
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "are described as Favorable.",
+              "origin": [
+                70.86599731445312,
+                252.04803466796875
+              ],
+              "bbox": [
+                70.86599731445312,
+                242.37303161621094,
+                182.41200256347656,
+                254.73902893066406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 263.4,
+          "text": "In 2006, employment for Broadcast Technicians in NY was: 3,630.",
+          "bbox": [
+            70.86599731445312,
+            263.373046875,
+            334.4849853515625,
+            275.7390441894531
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "In 2006, employment for Broadcast Technicians in NY was: 3,630.",
+              "origin": [
+                70.86599731445312,
+                273.04803466796875
+              ],
+              "bbox": [
+                70.86599731445312,
+                263.373046875,
+                334.4849853515625,
+                275.7390441894531
+              ]
+            }
+          ]
+        },
+        {
+          "y": 284.4,
+          "text": "It is anticipated that in the year 2016, employment in this area will number 3,930. There will be an increase of 30",
+          "bbox": [
+            70.86599731445312,
+            284.373046875,
+            516.572998046875,
+            296.7390441894531
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "It is anticipated that in the year 2016, employment in this area will number 3,930. There will be an increase of 30",
+              "origin": [
+                70.86599731445312,
+                294.04803466796875
+              ],
+              "bbox": [
+                70.86599731445312,
+                284.373046875,
+                516.572998046875,
+                296.7390441894531
+              ]
+            }
+          ]
+        },
+        {
+          "y": 296.4,
+          "text": "new positions annually (0.01%). In addition, 120 jobs per year (0.03%) will become available due to employee",
+          "bbox": [
+            70.86599731445312,
+            296.373046875,
+            507.0599365234375,
+            308.7390441894531
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "new positions annually (0.01%). In addition, 120 jobs per year (0.03%) will become available due to employee",
+              "origin": [
+                70.86599731445312,
+                306.04803466796875
+              ],
+              "bbox": [
+                70.86599731445312,
+                296.373046875,
+                507.0599365234375,
+                308.7390441894531
+              ]
+            }
+          ]
+        },
+        {
+          "y": 308.4,
+          "text": "turnover.",
+          "bbox": [
+            70.86599731445312,
+            308.373046875,
+            106.3800048828125,
+            320.7390441894531
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "turnover.",
+              "origin": [
+                70.86599731445312,
+                318.04803466796875
+              ],
+              "bbox": [
+                70.86599731445312,
+                308.373046875,
+                106.3800048828125,
+                320.7390441894531
+              ]
+            }
+          ]
+        },
+        {
+          "y": 334.5,
+          "text": "Similar Jobs",
+          "bbox": [
+            264.96697998046875,
+            334.5150146484375,
+            330.3070068359375,
+            351.0030212402344
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Similar Jobs",
+              "origin": [
+                264.96697998046875,
+                347.4150085449219
+              ],
+              "bbox": [
+                264.96697998046875,
+                334.5150146484375,
+                330.3070068359375,
+                351.0030212402344
+              ]
+            }
+          ]
+        },
+        {
+          "y": 367.0,
+          "text": "Computer Support Specialists - Provide technical assistance to computer system users. Answer questions or",
+          "bbox": [
+            70.86599731445312,
+            366.9730224609375,
+            513.5040893554688,
+            379.4110107421875
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Computer Support Specialists",
+              "origin": [
+                70.86599731445312,
+                376.64801025390625
+              ],
+              "bbox": [
+                70.86599731445312,
+                367.01800537109375,
+                199.88998413085938,
+                379.4110107421875
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Provide technical assistance to computer system users. Answer questions or",
+              "origin": [
+                199.88999938964844,
+                376.64801025390625
+              ],
+              "bbox": [
+                199.88999938964844,
+                366.9730224609375,
+                513.5040893554688,
+                379.3390197753906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 379.0,
+          "text": "resolve computer problems for clients in person, via telephone or from remote location. May provide assistance",
+          "bbox": [
+            70.86599731445312,
+            378.9730224609375,
+            512.5321044921875,
+            391.3390197753906
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "resolve computer problems for clients in person, via telephone or from remote location. May provide assistance",
+              "origin": [
+                70.86599731445312,
+                388.64801025390625
+              ],
+              "bbox": [
+                70.86599731445312,
+                378.9730224609375,
+                512.5321044921875,
+                391.3390197753906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 391.0,
+          "text": "concerning the use of computer hardware and software, including printing, installation, word processing,",
+          "bbox": [
+            70.86599731445312,
+            390.9730224609375,
+            484.0469665527344,
+            403.3390197753906
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "concerning the use of computer hardware and software, including printing, installation, word processing,",
+              "origin": [
+                70.86599731445312,
+                400.64801025390625
+              ],
+              "bbox": [
+                70.86599731445312,
+                390.9730224609375,
+                484.0469665527344,
+                403.3390197753906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 403.0,
+          "text": "electronic mail, and operating systems.",
+          "bbox": [
+            70.86599731445312,
+            402.9730224609375,
+            226.42198181152344,
+            415.3390197753906
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "electronic mail, and operating systems.",
+              "origin": [
+                70.86599731445312,
+                412.64801025390625
+              ],
+              "bbox": [
+                70.86599731445312,
+                402.9730224609375,
+                226.42198181152344,
+                415.3390197753906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 427.6,
+          "text": "Network Systems and Data Communications Analysts - Analyze, design, test, and evaluate network systems,",
+          "bbox": [
+            70.86599731445312,
+            427.5730285644531,
+            521.5231323242188,
+            440.0110168457031
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Network Systems and Data Communications Analysts",
+              "origin": [
+                70.86599731445312,
+                437.2480163574219
+              ],
+              "bbox": [
+                70.86599731445312,
+                427.6180114746094,
+                301.9229431152344,
+                440.0110168457031
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Analyze, design, test, and evaluate network systems,",
+              "origin": [
+                301.9230041503906,
+                437.2480163574219
+              ],
+              "bbox": [
+                301.9230041503906,
+                427.5730285644531,
+                521.5231323242188,
+                439.93902587890625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 439.6,
+          "text": "such as local area networks (LAN), wide area networks (WAN), Internet, intranet, and other data communications",
+          "bbox": [
+            70.86599731445312,
+            439.5730285644531,
+            521.037109375,
+            451.93902587890625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "such as local area networks (LAN), wide area networks (WAN), Internet, intranet, and other data communications",
+              "origin": [
+                70.86599731445312,
+                449.2480163574219
+              ],
+              "bbox": [
+                70.86599731445312,
+                439.5730285644531,
+                521.037109375,
+                451.93902587890625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 451.6,
+          "text": "systems. Perform network modeling, analysis, and planning. Research and recommend network and data",
+          "bbox": [
+            70.86599731445312,
+            451.5730285644531,
+            490.5360412597656,
+            463.93902587890625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "systems. Perform network modeling, analysis, and planning. Research and recommend network and data",
+              "origin": [
+                70.86599731445312,
+                461.2480163574219
+              ],
+              "bbox": [
+                70.86599731445312,
+                451.5730285644531,
+                490.5360412597656,
+                463.93902587890625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 463.6,
+          "text": "communications hardware and software. Includes telecommunications specialists who deal with the interfacing of",
+          "bbox": [
+            70.86599731445312,
+            463.5730285644531,
+            520.5419311523438,
+            475.93902587890625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "communications hardware and software. Includes telecommunications specialists who deal with the interfacing of",
+              "origin": [
+                70.86599731445312,
+                473.2480163574219
+              ],
+              "bbox": [
+                70.86599731445312,
+                463.5730285644531,
+                520.5419311523438,
+                475.93902587890625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 475.6,
+          "text": "computer and communications equipment. May supervise computer programmers.",
+          "bbox": [
+            70.86599731445312,
+            475.5730285644531,
+            399.4740295410156,
+            487.93902587890625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "computer and communications equipment. May supervise computer programmers.",
+              "origin": [
+                70.86599731445312,
+                485.2480163574219
+              ],
+              "bbox": [
+                70.86599731445312,
+                475.5730285644531,
+                399.4740295410156,
+                487.93902587890625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 500.2,
+          "text": "Radio Operators - Receive and transmit communications using radiotelegraph or radiotelephone equipment in",
+          "bbox": [
+            70.86599731445312,
+            500.17303466796875,
+            512.0369873046875,
+            512.6110229492188
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Radio Operators",
+              "origin": [
+                70.86599731445312,
+                509.8480224609375
+              ],
+              "bbox": [
+                70.86599731445312,
+                500.218017578125,
+                141.38101196289062,
+                512.6110229492188
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Receive and transmit communications using radiotelegraph or radiotelephone equipment in",
+              "origin": [
+                141.38099670410156,
+                509.8480224609375
+              ],
+              "bbox": [
+                141.38099670410156,
+                500.17303466796875,
+                512.0369873046875,
+                512.5390014648438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 512.2,
+          "text": "accordance with government regulations. May repair equipment.",
+          "bbox": [
+            70.86599731445312,
+            512.1730346679688,
+            326.969970703125,
+            524.5390014648438
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "accordance with government regulations. May repair equipment.",
+              "origin": [
+                70.86599731445312,
+                521.8480224609375
+              ],
+              "bbox": [
+                70.86599731445312,
+                512.1730346679688,
+                326.969970703125,
+                524.5390014648438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 536.8,
+          "text": "Sound Engineering Technicians - Operate machines and equipment to record, synchronize, mix, or reproduce",
+          "bbox": [
+            70.86599731445312,
+            536.7730712890625,
+            517.527099609375,
+            549.2110595703125
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Sound Engineering Technicians",
+              "origin": [
+                70.86599731445312,
+                546.4480590820312
+              ],
+              "bbox": [
+                70.86599731445312,
+                536.8180541992188,
+                207.89999389648438,
+                549.2110595703125
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Operate machines and equipment to record, synchronize, mix, or reproduce",
+              "origin": [
+                207.89999389648438,
+                546.4480590820312
+              ],
+              "bbox": [
+                207.89999389648438,
+                536.7730712890625,
+                517.527099609375,
+                549.1390380859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 548.8,
+          "text": "music, voices, or sound effects in sporting arenas, theater productions, recording studios, or movie and video",
+          "bbox": [
+            70.86599731445312,
+            548.7730712890625,
+            504.5579833984375,
+            561.1390380859375
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "music, voices, or sound effects in sporting arenas, theater productions, recording studios, or movie and video",
+              "origin": [
+                70.86599731445312,
+                558.4480590820312
+              ],
+              "bbox": [
+                70.86599731445312,
+                548.7730712890625,
+                504.5579833984375,
+                561.1390380859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 560.8,
+          "text": "productions.",
+          "bbox": [
+            70.86599731445312,
+            560.7730712890625,
+            119.88900756835938,
+            573.1390380859375
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "productions.",
+              "origin": [
+                70.86599731445312,
+                570.4480590820312
+              ],
+              "bbox": [
+                70.86599731445312,
+                560.7730712890625,
+                119.88900756835938,
+                573.1390380859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 585.4,
+          "text": "Film and Video Editors - Edit motion picture soundtracks, film, and video.",
+          "bbox": [
+            70.86599731445312,
+            585.373046875,
+            367.4699401855469,
+            597.81103515625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Film and Video Editors",
+              "origin": [
+                70.86599731445312,
+                595.0480346679688
+              ],
+              "bbox": [
+                70.86599731445312,
+                585.4180297851562,
+                168.38998413085938,
+                597.81103515625
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Edit motion picture soundtracks, film, and video.",
+              "origin": [
+                168.38999938964844,
+                595.0480346679688
+              ],
+              "bbox": [
+                168.38999938964844,
+                585.373046875,
+                367.4699401855469,
+                597.739013671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 610.0,
+          "text": "Telecommunications Equipment Installers and Repairers, Except Line Installers - Set-up, rearrange,",
+          "bbox": [
+            70.86599731445312,
+            609.9730834960938,
+            492.51611328125,
+            622.4110717773438
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+              "origin": [
+                70.86599731445312,
+                619.6480712890625
+              ],
+              "bbox": [
+                70.86599731445312,
+                610.01806640625,
+                411.4800109863281,
+                622.4110717773438
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Set-up, rearrange,",
+              "origin": [
+                411.4800109863281,
+                619.6480712890625
+              ],
+              "bbox": [
+                411.4800109863281,
+                609.9730834960938,
+                492.51611328125,
+                622.3390502929688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 622.0,
+          "text": "or remove switching and dialing equipment used in central offices. Service or repair telephones and other",
+          "bbox": [
+            70.86599731445312,
+            621.9730834960938,
+            489.051025390625,
+            634.3390502929688
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "or remove switching and dialing equipment used in central offices. Service or repair telephones and other",
+              "origin": [
+                70.86599731445312,
+                631.6480712890625
+              ],
+              "bbox": [
+                70.86599731445312,
+                621.9730834960938,
+                489.051025390625,
+                634.3390502929688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 634.0,
+          "text": "communication equipment on customers' property. May install equipment in new locations or install wiring and",
+          "bbox": [
+            70.86599731445312,
+            633.9730834960938,
+            507.743896484375,
+            646.3390502929688
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "communication equipment on customers' property. May install equipment in new locations or install wiring and",
+              "origin": [
+                70.86599731445312,
+                643.6480712890625
+              ],
+              "bbox": [
+                70.86599731445312,
+                633.9730834960938,
+                507.743896484375,
+                646.3390502929688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 646.0,
+          "text": "telephone jacks in buildings under construction.",
+          "bbox": [
+            70.86599731445312,
+            645.9730834960938,
+            259.95599365234375,
+            658.3390502929688
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "telephone jacks in buildings under construction.",
+              "origin": [
+                70.86599731445312,
+                655.6480712890625
+              ],
+              "bbox": [
+                70.86599731445312,
+                645.9730834960938,
+                259.95599365234375,
+                658.3390502929688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 670.6,
+          "text": "Electronic Home Entertainment Equipment Installers and Repairers - Repair, adjust, or install audio or",
+          "bbox": [
+            70.86599731445312,
+            670.5730590820312,
+            495.49505615234375,
+            683.0110473632812
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Electronic Home Entertainment Equipment Installers and Repairers",
+              "origin": [
+                70.86599731445312,
+                680.248046875
+              ],
+              "bbox": [
+                70.86599731445312,
+                670.6180419921875,
+                358.44293212890625,
+                683.0110473632812
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Repair, adjust, or install audio or",
+              "origin": [
+                358.4429931640625,
+                680.248046875
+              ],
+              "bbox": [
+                358.4429931640625,
+                670.5730590820312,
+                495.49505615234375,
+                682.9390258789062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 682.6,
+          "text": "television receivers, stereo systems, camcorders, video systems, or other electronic home entertainment",
+          "bbox": [
+            70.86599731445312,
+            682.5730590820312,
+            486.5040588378906,
+            694.9390258789062
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "television receivers, stereo systems, camcorders, video systems, or other electronic home entertainment",
+              "origin": [
+                70.86599731445312,
+                692.248046875
+              ],
+              "bbox": [
+                70.86599731445312,
+                682.5730590820312,
+                486.5040588378906,
+                694.9390258789062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 694.6,
+          "text": "equipment.",
+          "bbox": [
+            70.86599731445312,
+            694.5730590820312,
+            115.38900756835938,
+            706.9390258789062
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "equipment.",
+              "origin": [
+                70.86599731445312,
+                704.248046875
+              ],
+              "bbox": [
+                70.86599731445312,
+                694.5730590820312,
+                115.38900756835938,
+                706.9390258789062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 719.2,
+          "text": "Telecommunications Line Installers and Repairers - String and repair telephone and television cable,",
+          "bbox": [
+            70.86599731445312,
+            719.1730346679688,
+            486.53997802734375,
+            731.6110229492188
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Telecommunications Line Installers and Repairers",
+              "origin": [
+                70.86599731445312,
+                728.8480224609375
+              ],
+              "bbox": [
+                70.86599731445312,
+                719.218017578125,
+                285.93896484375,
+                731.6110229492188
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - String and repair telephone and television cable,",
+              "origin": [
+                285.9389953613281,
+                728.8480224609375
+              ],
+              "bbox": [
+                285.9389953613281,
+                719.1730346679688,
+                486.53997802734375,
+                731.5390014648438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 731.2,
+          "text": "including fiber optics and other equipment for transmitting messages or television programming.",
+          "bbox": [
+            70.86599731445312,
+            731.1730346679688,
+            451.511962890625,
+            743.5390014648438
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "including fiber optics and other equipment for transmitting messages or television programming.",
+              "origin": [
+                70.86599731445312,
+                740.8480224609375
+              ],
+              "bbox": [
+                70.86599731445312,
+                731.1730346679688,
+                451.511962890625,
+                743.5390014648438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 755.8,
+          "text": "Nuclear Power Reactor Operators - Control nuclear reactors.",
+          "bbox": [
+            70.86599731445312,
+            755.7730712890625,
+            321.4439697265625,
+            768.2110595703125
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Nuclear Power Reactor Operators",
+              "origin": [
+                70.86599731445312,
+                765.4480590820312
+              ],
+              "bbox": [
+                70.86599731445312,
+                755.8180541992188,
+                214.91099548339844,
+                768.2110595703125
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Control nuclear reactors.",
+              "origin": [
+                214.91099548339844,
+                765.4480590820312
+              ],
+              "bbox": [
+                214.91099548339844,
+                755.7730712890625,
+                321.4439697265625,
+                768.1390380859375
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

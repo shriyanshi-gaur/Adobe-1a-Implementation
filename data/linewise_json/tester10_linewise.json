@@ -3,1948 +3,3632 @@
   "pages": [
     {
       "page_number": 1,
+      "page_width": 792.0,
+      "page_height": 612.0,
       "lines": [
         {
           "y": 96.6,
-          "text": "Agencies that conduct exempt carry permit checks in Arizona, Arkansas, Kentucky, Mississippi, North Dakota, South Carolina, Texas, and Wyoming request an ",
+          "text": "Agencies that conduct exempt carry permit checks in Arizona, Arkansas, Kentucky, Mississippi, North Dakota, South Carolina, Texas, and Wyoming request an",
+          "bbox": [
+            366.135009765625,
+            96.56300354003906,
+            376.1789855957031,
+            732.8400268554688
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Agencies that conduct exempt carry permit checks in Arizona, Arkansas, Kentucky, Mississippi, North Dakota, South Carolina, Texas, and Wyoming request an ",
+              "origin": [
+                374.2799987792969,
+                732.8400268554688
+              ],
               "bbox": [
                 366.135009765625,
                 96.56300354003906,
                 376.1789855957031,
                 732.8400268554688
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 101.0,
-          "text": "Exempt carry permit is a state concealed weapons permit, issued after a background check, that exempts the holder from a new check at the time of purchase ",
+          "text": "Exempt carry permit is a state concealed weapons permit, issued after a background check, that exempts the holder from a new check at the time of purchase",
+          "bbox": [
+            464.4150085449219,
+            101.02607727050781,
+            474.458984375,
+            732.8400268554688
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Exempt carry permit is a state concealed weapons permit, issued after a background check, that exempts the holder from a new check at the time of purchase ",
+              "origin": [
+                472.55999755859375,
+                732.8400268554688
+              ],
               "bbox": [
                 464.4150085449219,
                 101.02607727050781,
                 474.458984375,
                 732.8400268554688
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 101.7,
-          "text": "Instant check requires a seller to transmit a buyer's application to a checking agency by telephone or computer; the agency is required to respond immediately ",
+          "text": "Instant check requires a seller to transmit a buyer's application to a checking agency by telephone or computer; the agency is required to respond immediately",
+          "bbox": [
+            409.57501220703125,
+            101.65687561035156,
+            419.6189880371094,
+            733.2000122070312
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Instant check requires a seller to transmit a buyer's application to a checking agency by telephone or computer; the agency is required to respond immediately ",
+              "origin": [
+                417.7200012207031,
+                733.2000122070312
+              ],
               "bbox": [
                 409.57501220703125,
                 101.65687561035156,
                 419.6189880371094,
                 733.2000122070312
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 105.0,
-          "text": "Purchase permit systems require a buyer to obtain, after a background check, a government-issued document such as a permit, license, or identification card ",
+          "text": "Purchase permit systems require a buyer to obtain, after a background check, a government-issued document such as a permit, license, or identification card",
+          "bbox": [
+            436.81500244140625,
+            105.03382873535156,
+            446.8589782714844,
+            732.8400268554688
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Purchase permit systems require a buyer to obtain, after a background check, a government-issued document such as a permit, license, or identification card ",
+              "origin": [
+                444.9599914550781,
+                732.8400268554688
+              ],
               "bbox": [
                 436.81500244140625,
                 105.03382873535156,
                 446.8589782714844,
                 732.8400268554688
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 112.8,
-          "text": "FBI background check, but the state agency makes the decision to approve or deny an applicant. Applications in these states are included in FBI checks but ",
+          "text": "FBI background check, but the state agency makes the decision to approve or deny an applicant. Applications in these states are included in FBI checks but",
+          "bbox": [
+            377.2950134277344,
+            112.83961486816406,
+            387.3389892578125,
+            736.1997680664062
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "FBI background check, but the state agency makes the decision to approve or deny an applicant. Applications in these states are included in FBI checks but ",
+              "origin": [
+                385.44000244140625,
+                736.1997680664062
+              ],
               "bbox": [
                 377.2950134277344,
                 112.83961486816406,
                 387.3389892578125,
                 736.1997680664062
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 119.7,
-          "text": "Other approval systems require a seller to transmit an application to a checking agency, with transfers delayed until a waiting period expires or the agency ",
+          "text": "Other approval systems require a seller to transmit an application to a checking agency, with transfers delayed until a waiting period expires or the agency",
+          "bbox": [
+            491.6549072265625,
+            119.70973205566406,
+            501.6988830566406,
+            734.52001953125
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Other approval systems require a seller to transmit an application to a checking agency, with transfers delayed until a waiting period expires or the agency ",
+              "origin": [
+                499.7998962402344,
+                734.52001953125
+              ],
               "bbox": [
                 491.6549072265625,
                 119.70973205566406,
                 501.6988830566406,
                 734.52001953125
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 149.3,
           "text": "denials are included in state and local checks, causing a reduction of FIST total applications by 230,767 in 2008 and by 1,001,538 for 1999 to 2008.",
+          "bbox": [
+            388.45501708984375,
+            149.31288146972656,
+            398.4989929199219,
+            736.1997680664062
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "denials are included in state and local checks, causing a reduction of FIST total applications by 230,767 in 2008 and by 1,001,538 for 1999 to 2008.",
+              "origin": [
+                396.6000061035156,
+                736.1997680664062
+              ],
               "bbox": [
                 388.45501708984375,
                 149.31288146972656,
                 398.4989929199219,
                 736.1997680664062
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 162.2,
           "text": "1.7 % 1.4 % 2.2 % 2.2 % 1.8 %",
+          "bbox": [
+            142.09439086914062,
+            162.18093872070312,
+            303.8190002441406,
+            186.3916015625
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "1.7 %",
+              "origin": [
+                150.23939514160156,
+                186.3916015625
+              ],
               "bbox": [
                 142.09439086914062,
                 162.19143676757812,
                 152.13839721679688,
                 186.3916015625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "1.4 %",
+              "origin": [
+                168.35910034179688,
+                186.38616943359375
+              ],
               "bbox": [
                 160.21409606933594,
                 162.18600463867188,
                 170.2581024169922,
                 186.38616943359375
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "2.2 %",
+              "origin": [
+                187.1999969482422,
+                186.38916015625
+              ],
               "bbox": [
                 179.05499267578125,
                 162.18899536132812,
                 189.0989990234375,
                 186.38916015625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "2.2 %",
+              "origin": [
+                218.39939880371094,
+                186.381103515625
+              ],
               "bbox": [
                 210.25439453125,
                 162.18093872070312,
                 220.29840087890625,
                 186.381103515625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "1.8 %",
+              "origin": [
+                301.9200134277344,
+                186.38946533203125
+              ],
               "bbox": [
                 293.7750244140625,
                 162.18930053710938,
                 303.8190002441406,
                 186.38946533203125
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 173.9,
-          "text": "Percent denied   2.3 2.4 2.1 1.1 2.1 1.6 0.8",
+          "text": "Percent denied 2.3 2.4 2.1.1 2.1.6 0.8",
+          "bbox": [
+            117.375,
+            173.87112426757812,
+            343.0589904785156,
+            207.94317626953125
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Percent",
+              "origin": [
+                125.5199966430664,
+                206.8839111328125
+              ],
               "bbox": [
                 117.375,
                 173.87184143066406,
                 127.41899871826172,
                 206.8839111328125
-              ],
-              "font": "Arial-BoldMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "denied  ",
+              "origin": [
+                137.87969970703125,
+                207.94317626953125
+              ],
               "bbox": [
                 129.7346954345703,
                 173.93202209472656,
                 139.77870178222656,
                 207.94317626953125
-              ],
-              "font": "Arial-BoldMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "2.3",
+              "origin": [
+                231.47999572753906,
+                186.38739013671875
+              ],
               "bbox": [
                 223.33499145507812,
                 173.87734985351562,
                 233.37899780273438,
                 186.38739013671875
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "2.4",
+              "origin": [
+                244.55999755859375,
+                186.38385009765625
+              ],
               "bbox": [
                 236.4149932861328,
                 173.87380981445312,
                 246.45899963378906,
                 186.38385009765625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "2.1",
+              "origin": [
+                257.6400146484375,
+                186.38385009765625
+              ],
               "bbox": [
                 249.49501037597656,
                 173.87380981445312,
                 259.53900146484375,
                 186.38385009765625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "1.1",
+              "origin": [
+                270.7200012207031,
+                186.38385009765625
+              ],
               "bbox": [
                 262.57501220703125,
                 173.87380981445312,
                 272.6189880371094,
                 186.38385009765625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "2.1",
+              "origin": [
+                315.0,
+                186.38385009765625
+              ],
               "bbox": [
                 306.8550109863281,
                 173.87380981445312,
                 316.89898681640625,
                 186.38385009765625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "1.6",
+              "origin": [
+                328.0799865722656,
+                186.38385009765625
+              ],
               "bbox": [
                 319.93499755859375,
                 173.87380981445312,
                 329.9789733886719,
                 186.38385009765625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "0.8",
+              "origin": [
+                341.1600036621094,
+                186.38116455078125
+              ],
               "bbox": [
                 333.0150146484375,
                 173.87112426757812,
                 343.0589904785156,
                 186.38116455078125
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 238.6,
           "text": "Denials 4,240",
+          "bbox": [
+            129.7346954345703,
+            238.56930541992188,
+            343.0589904785156,
+            270.5823974609375
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Denials",
+              "origin": [
+                137.87969970703125,
+                270.5823974609375
+              ],
               "bbox": [
                 129.7346954345703,
                 238.56930541992188,
                 139.77870178222656,
                 270.5823974609375
-              ],
-              "font": "Arial-BoldMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "4,240",
+              "origin": [
+                341.1600036621094,
+                261.1370849609375
+              ],
               "bbox": [
                 333.0150146484375,
                 238.61898803710938,
                 343.0589904785156,
                 261.1370849609375
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 238.7,
           "text": "680,905 783,035 668,222 504,814 75,936 43,426 44,046 114,813 81,436 29,137",
+          "bbox": [
+            160.21409606933594,
+            238.65676879882812,
+            329.9789733886719,
+            271.2227783203125
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "680,905",
+              "origin": [
+                168.35910034179688,
+                271.219482421875
+              ],
               "bbox": [
                 160.21409606933594,
                 238.69332885742188,
                 170.2581024169922,
                 271.219482421875
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "783,035",
+              "origin": [
+                187.1999969482422,
+                271.22247314453125
+              ],
               "bbox": [
                 179.05499267578125,
                 238.69631958007812,
                 189.0989990234375,
                 271.22247314453125
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "668,222",
+              "origin": [
+                218.39939880371094,
+                271.21441650390625
+              ],
               "bbox": [
                 210.25439453125,
                 238.68826293945312,
                 220.29840087890625,
                 271.21441650390625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "504,814",
+              "origin": [
+                231.47999572753906,
+                271.220703125
+              ],
               "bbox": [
                 223.33499145507812,
                 238.69454956054688,
                 233.37899780273438,
                 271.220703125
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "75,936",
+              "origin": [
+                244.55999755859375,
+                266.17889404296875
+              ],
               "bbox": [
                 236.4149932861328,
                 238.65676879882812,
                 246.45899963378906,
                 266.17889404296875
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "43,426",
+              "origin": [
+                257.6400146484375,
+                266.17889404296875
+              ],
               "bbox": [
                 249.49501037597656,
                 238.65676879882812,
                 259.53900146484375,
                 266.17889404296875
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "44,046",
+              "origin": [
+                270.7200012207031,
+                266.17889404296875
+              ],
               "bbox": [
                 262.57501220703125,
                 238.65676879882812,
                 272.6189880371094,
                 266.17889404296875
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "114,813",
+              "origin": [
+                301.9200134277344,
+                271.2227783203125
+              ],
               "bbox": [
                 293.7750244140625,
                 238.69662475585938,
                 303.8190002441406,
                 271.2227783203125
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "81,436",
+              "origin": [
+                315.0,
+                266.17889404296875
+              ],
               "bbox": [
                 306.8550109863281,
                 238.65676879882812,
                 316.89898681640625,
                 266.17889404296875
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "29,137",
+              "origin": [
+                328.0799865722656,
+                266.17889404296875
+              ],
               "bbox": [
                 319.93499755859375,
                 238.65676879882812,
                 329.9789733886719,
                 266.17889404296875
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 238.8,
           "text": "1,463,940",
+          "bbox": [
+            142.09439086914062,
+            238.75271606445312,
+            152.13839721679688,
+            278.784912109375
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "1,463,940",
+              "origin": [
+                150.23939514160156,
+                278.784912109375
+              ],
               "bbox": [
                 142.09439086914062,
                 238.75271606445312,
                 152.13839721679688,
                 278.784912109375
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 245.2,
           "text": "a",
+          "bbox": [
+            103.05000305175781,
+            245.18402099609375,
+            109.74600219726562,
+            248.52001953125
+          ],
           "spans": [
             {
+              "size": 6.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "a",
+              "origin": [
+                108.4800033569336,
+                248.52001953125
+              ],
               "bbox": [
                 103.05000305175781,
                 245.18402099609375,
                 109.74600219726562,
                 248.52001953125
-              ],
-              "font": "Arial-BoldMT",
-              "size": 6.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 248.8,
           "text": "1999-2008",
+          "bbox": [
+            104.77470397949219,
+            248.81057739257812,
+            114.8187026977539,
+            291.8396911621094
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "1999-2008",
+              "origin": [
+                112.9197006225586,
+                291.8396911621094
+              ],
               "bbox": [
                 104.77470397949219,
                 248.81057739257812,
                 114.8187026977539,
                 291.8396911621094
-              ],
-              "font": "Arial-BoldMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 292.2,
           "text": "Table 2. Number of applications and denials, by type of agency and type of check, 1999 - 2008",
+          "bbox": [
+            85.30655670166016,
+            292.2206115722656,
+            96.42192077636719,
+            735.5999755859375
+          ],
           "spans": [
             {
+              "size": 9.960000038146973,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Table 2. Number of applications and denials, by type of agency and type of check, 1999 - 2008",
+              "origin": [
+                94.32035827636719,
+                735.5999755859375
+              ],
               "bbox": [
                 85.30655670166016,
                 292.2206115722656,
                 96.42192077636719,
                 735.5999755859375
-              ],
-              "font": "Arial-BoldMT",
-              "size": 9.960000038146973,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 303.2,
           "text": "Applications",
+          "bbox": [
+            129.7346954345703,
+            303.2181701660156,
+            139.77870178222656,
+            357.2271728515625
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Applications",
+              "origin": [
+                137.87969970703125,
+                357.2271728515625
+              ],
               "bbox": [
                 129.7346954345703,
                 303.2181701660156,
                 139.77870178222656,
                 357.2271728515625
-              ],
-              "font": "Arial-BoldMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 303.4,
           "text": "3,202,911 2,098,762 4,152,477 6,207,965 3,824,049 1,865,517 518,399",
+          "bbox": [
+            236.4149932861328,
+            303.36419677734375,
+            343.0589904785156,
+            343.4559020996094
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "3,202,911",
+              "origin": [
+                244.55999755859375,
+                343.4519958496094
+              ],
               "bbox": [
                 236.4149932861328,
                 303.41998291015625,
                 246.45899963378906,
                 343.4519958496094
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "2,098,762",
+              "origin": [
+                257.6400146484375,
+                343.4519958496094
+              ],
               "bbox": [
                 249.49501037597656,
                 303.41998291015625,
                 259.53900146484375,
                 343.4519958496094
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "4,152,477",
+              "origin": [
+                270.7200012207031,
+                343.4519958496094
+              ],
               "bbox": [
                 262.57501220703125,
                 303.41998291015625,
                 272.6189880371094,
                 343.4519958496094
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "6,207,965",
+              "origin": [
+                301.9200134277344,
+                343.4559020996094
+              ],
               "bbox": [
                 293.7750244140625,
                 303.42388916015625,
                 303.8190002441406,
                 343.4559020996094
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "3,824,049",
+              "origin": [
+                315.0,
+                343.4519958496094
+              ],
               "bbox": [
                 306.8550109863281,
                 303.41998291015625,
                 316.89898681640625,
                 343.4519958496094
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "1,865,517",
+              "origin": [
+                328.0799865722656,
+                343.4519958496094
+              ],
               "bbox": [
                 319.93499755859375,
                 303.41998291015625,
                 329.9789733886719,
                 343.4519958496094
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "518,399",
+              "origin": [
+                341.1600036621094,
+                335.89019775390625
+              ],
               "bbox": [
                 333.0150146484375,
                 303.36419677734375,
                 343.0589904785156,
                 335.89019775390625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 303.5,
           "text": "84,340,362 48,159,005 36,181,357 30,974,930 21,520,780",
+          "bbox": [
+            142.09439086914062,
+            303.45062255859375,
+            233.37899780273438,
+            348.49713134765625
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "84,340,362",
+              "origin": [
+                150.23939514160156,
+                348.49713134765625
+              ],
               "bbox": [
                 142.09439086914062,
                 303.46112060546875,
                 152.13839721679688,
                 348.49713134765625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "48,159,005",
+              "origin": [
+                168.35910034179688,
+                348.49169921875
+              ],
               "bbox": [
                 160.21409606933594,
                 303.4556884765625,
                 170.2581024169922,
                 348.49169921875
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "36,181,357",
+              "origin": [
+                187.1999969482422,
+                348.49468994140625
+              ],
               "bbox": [
                 179.05499267578125,
                 303.45867919921875,
                 189.0989990234375,
                 348.49468994140625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "30,974,930",
+              "origin": [
+                218.39939880371094,
+                348.48663330078125
+              ],
               "bbox": [
                 210.25439453125,
                 303.45062255859375,
                 220.29840087890625,
                 348.48663330078125
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "21,520,780",
+              "origin": [
+                231.47999572753906,
+                348.4928894042969
+              ],
               "bbox": [
                 223.33499145507812,
                 303.4568786621094,
                 233.37899780273438,
                 348.4928894042969
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 386.2,
           "text": "1.5 % 1.2 % 1.9 % 1.8 % 1.7 %",
+          "bbox": [
+            142.09439086914062,
+            386.2038269042969,
+            303.8190002441406,
+            410.4144287109375
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "1.5 %",
+              "origin": [
+                150.23939514160156,
+                410.4144287109375
+              ],
               "bbox": [
                 142.09439086914062,
                 386.2143249511719,
                 152.13839721679688,
                 410.4144287109375
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "1.2 %",
+              "origin": [
+                168.35910034179688,
+                410.40899658203125
+              ],
               "bbox": [
                 160.21409606933594,
                 386.2088928222656,
                 170.2581024169922,
                 410.40899658203125
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "1.9 %",
+              "origin": [
+                187.1999969482422,
+                410.4119873046875
+              ],
               "bbox": [
                 179.05499267578125,
                 386.2118835449219,
                 189.0989990234375,
                 410.4119873046875
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "1.8 %",
+              "origin": [
+                218.39939880371094,
+                410.4039306640625
+              ],
               "bbox": [
                 210.25439453125,
                 386.2038269042969,
                 220.29840087890625,
                 410.4039306640625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "1.7 %",
+              "origin": [
+                301.9200134277344,
+                410.4132080078125
+              ],
               "bbox": [
                 293.7750244140625,
                 386.2131042480469,
                 303.8190002441406,
                 410.4132080078125
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 397.9,
           "text": "Percent 1.8 2.7 1.9 1.0 2.2 1.5 0.8",
+          "bbox": [
+            117.375,
+            397.8992919921875,
+            343.0589904785156,
+            430.9200134277344
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Percent",
+              "origin": [
+                125.5199966430664,
+                430.9200134277344
+              ],
               "bbox": [
                 117.375,
                 397.90802001953125,
                 127.41899871826172,
                 430.9200134277344
-              ],
-              "font": "Arial-BoldMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "1.8",
+              "origin": [
+                231.47999572753906,
+                410.4119873046875
+              ],
               "bbox": [
                 223.33499145507812,
                 397.9019775390625,
                 233.37899780273438,
                 410.4119873046875
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "2.7",
+              "origin": [
+                244.55999755859375,
+                410.4111022949219
+              ],
               "bbox": [
                 236.4149932861328,
                 397.9010925292969,
                 246.45899963378906,
                 410.4111022949219
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "1.9",
+              "origin": [
+                257.6400146484375,
+                410.4111022949219
+              ],
               "bbox": [
                 249.49501037597656,
                 397.9010925292969,
                 259.53900146484375,
                 410.4111022949219
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "1.0",
+              "origin": [
+                270.7200012207031,
+                410.4111022949219
+              ],
               "bbox": [
                 262.57501220703125,
                 397.9010925292969,
                 272.6189880371094,
                 410.4111022949219
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "2.2",
+              "origin": [
+                315.0,
+                410.4111022949219
+              ],
               "bbox": [
                 306.8550109863281,
                 397.9010925292969,
                 316.89898681640625,
                 410.4111022949219
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "1.5",
+              "origin": [
+                328.0799865722656,
+                410.4111022949219
+              ],
               "bbox": [
                 319.93499755859375,
                 397.9010925292969,
                 329.9789733886719,
                 410.4111022949219
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "0.8",
+              "origin": [
+                341.1600036621094,
+                410.4093017578125
+              ],
               "bbox": [
                 333.0150146484375,
                 397.8992919921875,
                 343.0589904785156,
                 410.4093017578125
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 398.0,
-          "text": "denied  ",
+          "text": "denied",
+          "bbox": [
+            129.7346954345703,
+            397.98187255859375,
+            139.77870178222656,
+            431.9928894042969
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "denied  ",
+              "origin": [
+                137.87969970703125,
+                431.9928894042969
+              ],
               "bbox": [
                 129.7346954345703,
                 397.98187255859375,
                 139.77870178222656,
                 431.9928894042969
-              ],
-              "font": "Arial-BoldMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 462.6,
           "text": "Denials 9,648 6,053 4,804 7,930 4,855 519",
+          "bbox": [
+            129.7346954345703,
+            462.5931091308594,
+            343.0589904785156,
+            494.6319885253906
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Denials",
+              "origin": [
+                137.87969970703125,
+                494.6319885253906
+              ],
               "bbox": [
                 129.7346954345703,
                 462.6189880371094,
                 139.77870178222656,
                 494.6319885253906
-              ],
-              "font": "Arial-BoldMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "9,648",
+              "origin": [
+                244.55999755859375,
+                485.1669006347656
+              ],
               "bbox": [
                 236.4149932861328,
                 462.6488952636719,
                 246.45899963378906,
                 485.1669006347656
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "6,053",
+              "origin": [
+                257.6400146484375,
+                485.1669006347656
+              ],
               "bbox": [
                 249.49501037597656,
                 462.6488952636719,
                 259.53900146484375,
                 485.1669006347656
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "4,804",
+              "origin": [
+                270.7200012207031,
+                485.1669006347656
+              ],
               "bbox": [
                 262.57501220703125,
                 462.6488952636719,
                 272.6189880371094,
                 485.1669006347656
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "7,930",
+              "origin": [
+                315.0,
+                485.1669006347656
+              ],
               "bbox": [
                 306.8550109863281,
                 462.6488952636719,
                 316.89898681640625,
                 485.1669006347656
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "4,855",
+              "origin": [
+                328.0799865722656,
+                485.1669006347656
+              ],
               "bbox": [
                 319.93499755859375,
                 462.6488952636719,
                 329.9789733886719,
                 485.1669006347656
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "519",
+              "origin": [
+                341.1600036621094,
+                477.6051025390625
+              ],
               "bbox": [
                 333.0150146484375,
                 462.5931091308594,
                 343.0589904785156,
                 477.6051025390625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 462.7,
           "text": "147,080 70,725 76,355 63,051 42,546 13,304",
+          "bbox": [
+            142.09439086914062,
+            462.67681884765625,
+            303.8190002441406,
+            495.2475280761719
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "147,080",
+              "origin": [
+                150.23939514160156,
+                495.2475280761719
+              ],
               "bbox": [
                 142.09439086914062,
                 462.7215270996094,
                 152.13839721679688,
                 495.2475280761719
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "70,725",
+              "origin": [
+                168.35910034179688,
+                490.20391845703125
+              ],
               "bbox": [
                 160.21409606933594,
                 462.6819152832031,
                 170.2581024169922,
                 490.20391845703125
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "76,355",
+              "origin": [
+                187.1999969482422,
+                490.2069091796875
+              ],
               "bbox": [
                 179.05499267578125,
                 462.6849060058594,
                 189.0989990234375,
                 490.2069091796875
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "63,051",
+              "origin": [
+                218.39939880371094,
+                490.1988220214844
+              ],
               "bbox": [
                 210.25439453125,
                 462.67681884765625,
                 220.29840087890625,
                 490.1988220214844
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "42,546",
+              "origin": [
+                231.47999572753906,
+                490.2069091796875
+              ],
               "bbox": [
                 223.33499145507812,
                 462.6849060058594,
                 233.37899780273438,
                 490.2069091796875
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "13,304",
+              "origin": [
+                301.9200134277344,
+                490.2080993652344
+              ],
               "bbox": [
                 293.7750244140625,
                 462.68609619140625,
                 303.8190002441406,
                 490.2080993652344
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 482.7,
           "text": "2008",
+          "bbox": [
+            105.01500701904297,
+            482.66400146484375,
+            115.05900573730469,
+            502.67999267578125
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "2008",
+              "origin": [
+                113.16000366210938,
+                502.67999267578125
+              ],
               "bbox": [
                 105.01500701904297,
                 482.66400146484375,
                 115.05900573730469,
                 502.67999267578125
-              ],
-              "font": "Arial-BoldMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 487.6,
           "text": "that must be presented to a seller in order to receive a firearm.",
+          "bbox": [
+            447.9750061035156,
+            487.59271240234375,
+            458.01898193359375,
+            736.19970703125
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "that must be presented to a seller in order to receive a firearm.",
+              "origin": [
+                456.1199951171875,
+                736.19970703125
+              ],
               "bbox": [
                 447.9750061035156,
                 487.59271240234375,
                 458.01898193359375,
                 736.19970703125
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 502.4,
-          "text": " for more detail.",
+          "text": "for more detail.",
+          "bbox": [
+            518.1748657226562,
+            502.43731689453125,
+            528.2188720703125,
+            564.9603271484375
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": " for more detail.",
+              "origin": [
+                526.3198852539062,
+                564.9603271484375
+              ],
               "bbox": [
                 518.1748657226562,
                 502.43731689453125,
                 528.2188720703125,
                 564.9603271484375
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 519.7,
           "text": "Totals for the 10-year period include December 1998.",
+          "bbox": [
+            346.57501220703125,
+            519.7470703125,
+            356.6189880371094,
+            732.8400268554688
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Totals for the 10-year period include December 1998.",
+              "origin": [
+                354.7200012207031,
+                732.8400268554688
+              ],
               "bbox": [
                 346.57501220703125,
                 519.7470703125,
                 356.6189880371094,
                 732.8400268554688
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 527.3,
           "text": "Applications",
+          "bbox": [
+            129.7346954345703,
+            527.2677612304688,
+            139.77870178222656,
+            581.2767333984375
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Applications",
+              "origin": [
+                137.87969970703125,
+                581.2767333984375
+              ],
               "bbox": [
                 129.7346954345703,
                 527.2677612304688,
                 139.77870178222656,
                 581.2767333984375
-              ],
-              "font": "Arial-BoldMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 527.4,
           "text": "9,900,711 5,813,249 4,087,462 3,551,936 2,395,133 361,373 323,722 471,708 766,293 367,719 334,577 63,997",
+          "bbox": [
+            142.09439086914062,
+            527.3579711914062,
+            343.0589904785156,
+            567.4806518554688
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "9,900,711",
+              "origin": [
+                150.23939514160156,
+                567.4806518554688
+              ],
               "bbox": [
                 142.09439086914062,
                 527.4486083984375,
                 152.13839721679688,
                 567.4806518554688
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "5,813,249",
+              "origin": [
+                168.35910034179688,
+                567.4769897460938
+              ],
               "bbox": [
                 160.21409606933594,
                 527.4449462890625,
                 170.2581024169922,
                 567.4769897460938
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "4,087,462",
+              "origin": [
+                187.1999969482422,
+                567.47998046875
+              ],
               "bbox": [
                 179.05499267578125,
                 527.447998046875,
                 189.0989990234375,
                 567.47998046875
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "3,551,936",
+              "origin": [
+                218.39939880371094,
+                567.471923828125
+              ],
               "bbox": [
                 210.25439453125,
                 527.4398803710938,
                 220.29840087890625,
                 567.471923828125
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "2,395,133",
+              "origin": [
+                231.47999572753906,
+                567.47998046875
+              ],
               "bbox": [
                 223.33499145507812,
                 527.447998046875,
                 233.37899780273438,
                 567.47998046875
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "361,373",
+              "origin": [
+                244.55999755859375,
+                559.9199829101562
+              ],
               "bbox": [
                 236.4149932861328,
                 527.3939819335938,
                 246.45899963378906,
                 559.9199829101562
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "323,722",
+              "origin": [
+                257.6400146484375,
+                559.9199829101562
+              ],
               "bbox": [
                 249.49501037597656,
                 527.3939819335938,
                 259.53900146484375,
                 559.9199829101562
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "471,708",
+              "origin": [
+                270.7200012207031,
+                559.9199829101562
+              ],
               "bbox": [
                 262.57501220703125,
                 527.3939819335938,
                 272.6189880371094,
                 559.9199829101562
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "766,293",
+              "origin": [
+                301.9200134277344,
+                559.9212036132812
+              ],
               "bbox": [
                 293.7750244140625,
                 527.3951416015625,
                 303.8190002441406,
                 559.9212036132812
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "367,719",
+              "origin": [
+                315.0,
+                559.9199829101562
+              ],
               "bbox": [
                 306.8550109863281,
                 527.3939819335938,
                 316.89898681640625,
                 559.9199829101562
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "334,577",
+              "origin": [
+                328.0799865722656,
+                559.9199829101562
+              ],
               "bbox": [
                 319.93499755859375,
                 527.3939819335938,
                 329.9789733886719,
                 559.9199829101562
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "63,997",
+              "origin": [
+                341.1600036621094,
+                554.8800048828125
+              ],
               "bbox": [
                 333.0150146484375,
                 527.3579711914062,
                 343.0589904785156,
                 554.8800048828125
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 564.8,
           "text": "Methodology",
+          "bbox": [
+            518.1748657226562,
+            564.7623291015625,
+            528.2188720703125,
+            620.7603149414062
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Methodology",
+              "origin": [
+                526.3198852539062,
+                620.7603149414062
+              ],
               "bbox": [
                 518.1748657226562,
                 564.7623291015625,
                 528.2188720703125,
                 620.7603149414062
-              ],
-              "font": "Arial-BoldMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 598.9,
           "text": "Download spreadsheet version",
+          "bbox": [
+            72.94619750976562,
+            598.8690795898438,
+            84.06156158447266,
+            735.5999755859375
+          ],
           "spans": [
             {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Download spreadsheet version",
+              "origin": [
+                81.95999908447266,
+                735.5999755859375
+              ],
               "bbox": [
                 72.94619750976562,
                 598.8690795898438,
                 84.06156158447266,
                 735.5999755859375
-              ],
-              "font": "ArialMT",
-              "size": 9.960000038146973,
-              "color": "0xff"
+              ]
             }
           ]
         },
         {
           "y": 603.1,
-          "text": "under an ATF ruling or state law. ",
+          "text": "under an ATF ruling or state law.",
+          "bbox": [
+            475.57501220703125,
+            603.1437377929688,
+            485.6189880371094,
+            736.19970703125
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "under an ATF ruling or state law. ",
+              "origin": [
+                483.7200012207031,
+                736.19970703125
+              ],
               "bbox": [
                 475.57501220703125,
                 603.1437377929688,
                 485.6189880371094,
                 736.19970703125
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 621.2,
           "text": "National total (FIST and FBI)",
+          "bbox": [
+            142.09439086914062,
+            621.1773071289062,
+            152.13839721679688,
+            735.7203369140625
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "National total (FIST and FBI)",
+              "origin": [
+                150.23939514160156,
+                735.7203369140625
+              ],
               "bbox": [
                 142.09439086914062,
                 621.1773071289062,
                 152.13839721679688,
                 735.7203369140625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 621.3,
-          "text": "Totals were estimated. See ",
+          "text": "Totals were estimated. See",
+          "bbox": [
+            518.1748657226562,
+            621.2940063476562,
+            528.2188720703125,
+            732.8400268554688
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Totals were estimated. See ",
+              "origin": [
+                526.3198852539062,
+                732.8400268554688
+              ],
               "bbox": [
                 518.1748657226562,
                 621.2940063476562,
                 528.2188720703125,
                 732.8400268554688
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 622.7,
           "text": "Type of checks conducted",
+          "bbox": [
+            129.7346954345703,
+            622.6893310546875,
+            139.77870178222656,
+            735.7203369140625
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Type of checks conducted",
+              "origin": [
+                137.87969970703125,
+                735.7203369140625
+              ],
               "bbox": [
                 129.7346954345703,
                 622.6893310546875,
                 139.77870178222656,
                 735.7203369140625
-              ],
-              "font": "Arial-BoldMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 624.7,
           "text": "b",
+          "bbox": [
+            176.85000610351562,
+            624.7440185546875,
+            183.54600524902344,
+            628.0800170898438
+          ],
           "spans": [
             {
+              "size": 6.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "b",
+              "origin": [
+                182.27999877929688,
+                628.0800170898438
+              ],
               "bbox": [
                 176.85000610351562,
                 624.7440185546875,
                 183.54600524902344,
                 628.0800170898438
-              ],
-              "font": "ArialMT",
-              "size": 6.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 628.7,
           "text": "State and local total (FIST)",
+          "bbox": [
+            178.5740966796875,
+            628.67431640625,
+            188.61810302734375,
+            735.7203369140625
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "State and local total (FIST)",
+              "origin": [
+                186.71910095214844,
+                735.7203369140625
+              ],
               "bbox": [
                 178.5740966796875,
                 628.67431640625,
                 188.61810302734375,
                 735.7203369140625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 637.0,
           "text": "e",
+          "bbox": [
+            247.29000854492188,
+            636.9840087890625,
+            253.9860076904297,
+            640.3200073242188
+          ],
           "spans": [
             {
+              "size": 6.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "e",
+              "origin": [
+                252.72000122070312,
+                640.3200073242188
+              ],
               "bbox": [
                 247.29000854492188,
                 636.9840087890625,
                 253.9860076904297,
                 640.3200073242188
-              ],
-              "font": "ArialMT",
-              "size": 6.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 639.2,
-          "text": "or as soon as possible.  ",
+          "text": "or as soon as possible.",
+          "bbox": [
+            420.7350158691406,
+            639.1526489257812,
+            430.77899169921875,
+            736.1996459960938
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "or as soon as possible.  ",
+              "origin": [
+                428.8800048828125,
+                736.1996459960938
+              ],
               "bbox": [
                 420.7350158691406,
                 639.1526489257812,
                 430.77899169921875,
                 736.1996459960938
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 640.7,
-          "text": "    Exempt carry permits",
+          "text": "Exempt carry permits",
+          "bbox": [
+            249.01499938964844,
+            640.69775390625,
+            259.0589904785156,
+            735.7197265625
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "    Exempt carry permits",
+              "origin": [
+                257.1600036621094,
+                735.7197265625
+              ],
               "bbox": [
                 249.01499938964844,
                 640.69775390625,
                 259.0589904785156,
                 735.7197265625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 647.1,
           "text": "e",
+          "bbox": [
+            317.7300109863281,
+            647.0640258789062,
+            324.4259948730469,
+            650.4000244140625
+          ],
           "spans": [
             {
+              "size": 6.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "e",
+              "origin": [
+                323.1600036621094,
+                650.4000244140625
+              ],
               "bbox": [
                 317.7300109863281,
                 647.0640258789062,
                 324.4259948730469,
                 650.4000244140625
-              ],
-              "font": "ArialMT",
-              "size": 6.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 650.7,
           "text": "Exempt carry permits",
+          "bbox": [
+            319.45501708984375,
+            650.7056884765625,
+            329.4989929199219,
+            735.7197265625
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Exempt carry permits",
+              "origin": [
+                327.6000061035156,
+                735.7197265625
+              ],
               "bbox": [
                 319.45501708984375,
                 650.7056884765625,
                 329.4989929199219,
                 735.7197265625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 651.7,
           "text": "d",
+          "bbox": [
+            234.2100067138672,
+            651.7440185546875,
+            240.906005859375,
+            655.0800170898438
+          ],
           "spans": [
             {
+              "size": 6.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "d",
+              "origin": [
+                239.63999938964844,
+                655.0800170898438
+              ],
               "bbox": [
                 234.2100067138672,
                 651.7440185546875,
                 240.906005859375,
                 655.0800170898438
-              ],
-              "font": "ArialMT",
-              "size": 6.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 654.2,
-          "text": "completes a check.  ",
+          "text": "completes a check.",
+          "bbox": [
+            502.8149108886719,
+            654.1644287109375,
+            512.85888671875,
+            736.199462890625
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "completes a check.  ",
+              "origin": [
+                510.95989990234375,
+                736.199462890625
+              ],
               "bbox": [
                 502.8149108886719,
                 654.1644287109375,
                 512.85888671875,
                 736.199462890625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 655.7,
-          "text": "    Purchase permits",
+          "text": "Purchase permits",
+          "bbox": [
+            235.93499755859375,
+            655.6917114257812,
+            245.97900390625,
+            735.7197265625
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "    Purchase permits",
+              "origin": [
+                244.0800018310547,
+                735.7197265625
+              ],
               "bbox": [
                 235.93499755859375,
                 655.6917114257812,
                 245.97900390625,
                 735.7197265625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 659.7,
           "text": "f",
+          "bbox": [
+            260.3699951171875,
+            659.6519775390625,
+            267.06597900390625,
+            661.3200073242188
+          ],
           "spans": [
             {
+              "size": 6.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "f",
+              "origin": [
+                265.79998779296875,
+                661.3200073242188
+              ],
               "bbox": [
                 260.3699951171875,
                 659.6519775390625,
                 267.06597900390625,
                 661.3200073242188
-              ],
-              "font": "ArialMT",
-              "size": 6.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 661.7,
-          "text": "    Other approvals",
+          "text": "Other approvals",
+          "bbox": [
+            262.09503173828125,
+            661.6857299804688,
+            272.1390075683594,
+            735.7197265625
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "    Other approvals",
+              "origin": [
+                270.2400207519531,
+                735.7197265625
+              ],
               "bbox": [
                 262.09503173828125,
                 661.6857299804688,
                 272.1390075683594,
                 735.7197265625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 661.8,
           "text": "d",
+          "bbox": [
+            304.6499938964844,
+            661.8240356445312,
+            311.3459777832031,
+            665.1600341796875
+          ],
           "spans": [
             {
+              "size": 6.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "d",
+              "origin": [
+                310.0799865722656,
+                665.1600341796875
+              ],
               "bbox": [
                 304.6499938964844,
                 661.8240356445312,
                 311.3459777832031,
                 665.1600341796875
-              ],
-              "font": "ArialMT",
-              "size": 6.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 664.6,
           "text": "c",
+          "bbox": [
+            221.1300048828125,
+            664.5599975585938,
+            227.8260040283203,
+            667.5599975585938
+          ],
           "spans": [
             {
+              "size": 6.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "c",
+              "origin": [
+                226.55999755859375,
+                667.5599975585938
+              ],
               "bbox": [
                 221.1300048828125,
                 664.5599975585938,
                 227.8260040283203,
                 667.5599975585938
-              ],
-              "font": "ArialMT",
-              "size": 6.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 665.7,
           "text": "Purchase permits",
+          "bbox": [
+            306.3750305175781,
+            665.7000122070312,
+            316.41900634765625,
+            735.719970703125
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Purchase permits",
+              "origin": [
+                314.52001953125,
+                735.719970703125
+              ],
               "bbox": [
                 306.3750305175781,
                 665.7000122070312,
                 316.41900634765625,
                 735.719970703125
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 667.5,
           "text": "g",
+          "bbox": [
+            279.45001220703125,
+            667.4639892578125,
+            286.14599609375,
+            670.7999877929688
+          ],
           "spans": [
             {
+              "size": 6.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "g",
+              "origin": [
+                284.8800048828125,
+                670.7999877929688
+              ],
               "bbox": [
                 279.45001220703125,
                 667.4639892578125,
                 286.14599609375,
                 670.7999877929688
-              ],
-              "font": "ArialMT",
-              "size": 6.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 668.2,
-          "text": "    Instant checks",
+          "text": "Instant checks",
+          "bbox": [
+            222.85440063476562,
+            668.1837158203125,
+            232.89840698242188,
+            735.7197265625
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "    Instant checks",
+              "origin": [
+                230.99940490722656,
+                735.7197265625
+              ],
               "bbox": [
                 222.85440063476562,
                 668.1837158203125,
                 232.89840698242188,
                 735.7197265625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 669.7,
           "text": "f",
+          "bbox": [
+            330.80999755859375,
+            669.7319946289062,
+            337.5059814453125,
+            671.4000244140625
+          ],
           "spans": [
             {
+              "size": 6.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "f",
+              "origin": [
+                336.239990234375,
+                671.4000244140625
+              ],
               "bbox": [
                 330.80999755859375,
                 669.7319946289062,
                 337.5059814453125,
                 671.4000244140625
-              ],
-              "font": "ArialMT",
-              "size": 6.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 671.2,
           "text": "Local agencies",
+          "bbox": [
+            281.1753234863281,
+            671.189697265625,
+            291.21929931640625,
+            735.7197265625
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Local agencies",
+              "origin": [
+                289.3203125,
+                735.7197265625
+              ],
               "bbox": [
                 281.1753234863281,
                 671.189697265625,
                 291.21929931640625,
                 735.7197265625
-              ],
-              "font": "Arial-BoldMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 671.7,
           "text": "Other approvals",
+          "bbox": [
+            332.5350036621094,
+            671.6937255859375,
+            342.5789794921875,
+            735.7197265625
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Other approvals",
+              "origin": [
+                340.67999267578125,
+                735.7197265625
+              ],
               "bbox": [
                 332.5350036621094,
                 671.6937255859375,
                 342.5789794921875,
                 735.7197265625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 672.7,
           "text": "State agencies",
+          "bbox": [
+            197.17469787597656,
+            672.6926879882812,
+            207.2187042236328,
+            735.7197265625
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "State agencies",
+              "origin": [
+                205.3197021484375,
+                735.7197265625
+              ],
               "bbox": [
                 197.17469787597656,
                 672.6926879882812,
                 207.2187042236328,
                 735.7197265625
-              ],
-              "font": "Arial-BoldMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 699.2,
           "text": "Total",
+          "bbox": [
+            293.7750244140625,
+            699.1530151367188,
+            303.8190002441406,
+            719.1600341796875
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "Total",
+              "origin": [
+                301.9200134277344,
+                719.1600341796875
+              ],
               "bbox": [
                 293.7750244140625,
                 699.1530151367188,
                 303.8190002441406,
                 719.1600341796875
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 700.7,
-          "text": "      Total",
+          "text": "Total",
+          "bbox": [
+            210.25439453125,
+            700.7007446289062,
+            220.29840087890625,
+            735.7197265625
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "      Total",
+              "origin": [
+                218.39939880371094,
+                735.7197265625
+              ],
               "bbox": [
                 210.25439453125,
                 700.7007446289062,
                 220.29840087890625,
                 735.7197265625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 702.2,
           "text": "FBI total",
+          "bbox": [
+            160.21409606933594,
+            702.204345703125,
+            170.2581024169922,
+            735.7203369140625
+          ],
           "spans": [
             {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "FBI total",
+              "origin": [
+                168.35910034179688,
+                735.7203369140625
+              ],
               "bbox": [
                 160.21409606933594,
                 702.204345703125,
                 170.2581024169922,
                 735.7203369140625
-              ],
-              "font": "ArialMT",
-              "size": 9.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 732.9,
           "text": "a b d e g",
+          "bbox": [
+            344.8500061035156,
+            732.864013671875,
+            523.1458740234375,
+            736.2000122070312
+          ],
           "spans": [
             {
+              "size": 6.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "a",
+              "origin": [
+                350.2799987792969,
+                736.2000122070312
+              ],
               "bbox": [
                 344.8500061035156,
                 732.864013671875,
                 351.5459899902344,
                 736.2000122070312
-              ],
-              "font": "ArialMT",
-              "size": 6.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 6.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "b",
+              "origin": [
+                369.8399963378906,
+                736.2000122070312
+              ],
               "bbox": [
                 364.4100036621094,
                 732.864013671875,
                 371.1059875488281,
                 736.2000122070312
-              ],
-              "font": "ArialMT",
-              "size": 6.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 6.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "d",
+              "origin": [
+                440.5199890136719,
+                736.2000122070312
+              ],
               "bbox": [
                 435.0899963378906,
                 732.864013671875,
                 441.7859802246094,
                 736.2000122070312
-              ],
-              "font": "ArialMT",
-              "size": 6.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 6.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "e",
+              "origin": [
+                468.1199951171875,
+                736.2000122070312
+              ],
               "bbox": [
                 462.69000244140625,
                 732.864013671875,
                 469.385986328125,
                 736.2000122070312
-              ],
-              "font": "ArialMT",
-              "size": 6.0,
-              "color": "0x0"
+              ]
             },
             {
+              "size": 6.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "g",
+              "origin": [
+                521.8798828125,
+                736.2000122070312
+              ],
               "bbox": [
                 516.4498901367188,
                 732.864013671875,
                 523.1458740234375,
                 736.2000122070312
-              ],
-              "font": "ArialMT",
-              "size": 6.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 733.2,
           "text": "c",
+          "bbox": [
+            407.8500061035156,
+            733.2000122070312,
+            414.5459899902344,
+            736.2000122070312
+          ],
           "spans": [
             {
+              "size": 6.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "c",
+              "origin": [
+                413.2799987792969,
+                736.2000122070312
+              ],
               "bbox": [
                 407.8500061035156,
                 733.2000122070312,
                 414.5459899902344,
                 736.2000122070312
-              ],
-              "font": "ArialMT",
-              "size": 6.0,
-              "color": "0x0"
+              ]
             }
           ]
         },
         {
           "y": 734.5,
           "text": "f",
+          "bbox": [
+            489.92999267578125,
+            734.531982421875,
+            496.6259765625,
+            736.2000122070312
+          ],
           "spans": [
             {
+              "size": 6.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
               "text": "f",
+              "origin": [
+                495.3599853515625,
+                736.2000122070312
+              ],
               "bbox": [
                 489.92999267578125,
                 734.531982421875,
                 496.6259765625,
                 736.2000122070312
-              ],
-              "font": "ArialMT",
-              "size": 6.0,
-              "color": "0x0"
+              ]
             }
           ]
         }

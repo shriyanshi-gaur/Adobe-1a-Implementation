@@ -1,30 +1,75 @@
 {
-  "title": "Labor Relations Analyst Qualifications Assessment",
-  "outline": [
-    {
-      "level": "H1",
-      "text": "SECTION 1: Tasks",
-      "page": 1
-    },
-    {
-      "level": "H2",
-      "text": "Job-Related Tasks and Knowledge Rating",
-      "page": 1
-    },
-    {
-      "level": "H3",
-      "text": "Experience Rating Scale",
-      "page": 1
-    },
-    {
-      "level": "H1",
-      "text": "Section 2: Knowledge and Abilities",
-      "page": 2
-    },
-    {
-      "level": "H2",
-      "text": "Knowledge and Abilities Rating Scale",
-      "page": 2
-    }
-  ]
+    "title": "Labor Relations Analyst Qualifications Assessment",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Section 1: Tasks",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "How much knowledge do you possess in performing this action?",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Extensive Knowledge-I possess an expert knowledge level to the extent that I could effectively perform this task in the most difficult and complex situations, and I could instruct others on specific aspects of this task.",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Substantial Knowledge- possess an advanced knowledge level to the extent that I could effectively perform this task under the majority of circumstances or situations encountered.",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Moderate Knowledge-I possess a sufficient knowledge level that would allow me to perform this task successfully.",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "Limited Knowledge-I have some knowledge of how to perform this task, but may require additional instruction to apply my knowledge effectively.",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "No Knowledge-I have no knowledge of how to perform this task or what it may entail.",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "Section 2: Knowledge and Abilities",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "How much education, training, and/or experience do you possess in the following areas?",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "Extensive Education, Training, and/or Experience-I have extensive education, training, and/or experience using and/or applying this knowledge or ability.",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "Substantial Education, Training, and/or Experience-I have substantial education, training, and/or experience using and/or applying this knowledge or ability.",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "Moderate Education, Training, and/or Experience-I have moderate education, training, and/or experience using and/or applying this knowledge or ability.",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "Minimal Education, Training, and/or Experience-I have limited education, training, and/or experience using and/or applying this knowledge or ability.",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "No Education, Training, and/or Experience-I have no education, training, and/or experience relevant to this knowledge or ability.",
+            "page": 2
+        }
+    ]
 }
