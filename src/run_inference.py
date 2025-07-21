@@ -23,8 +23,7 @@ except FileNotFoundError:
 
 def parse_pdf_to_lines(pdf_path):
     """
-    Parses a PDF and extracts lines with detailed info, similar to generate_linewise_json.
-    This now happens in memory.
+    Parses a PDF and extracts lines with detailed info, in memory.
     """
     doc = fitz.open(pdf_path)
     all_pages_data = []
@@ -73,7 +72,6 @@ def create_feature_dataframe(pages_data):
         
         prev_line_y_bottom = None
         for i, line_obj in enumerate(lines):
-            # Feature extraction logic is mirrored from the training script
             spans = line_obj.get("spans", [])
             if not spans: continue
 
@@ -118,33 +116,60 @@ def create_feature_dataframe(pages_data):
 
 def get_document_title(df_lines):
     """
-    Generalized heuristic to find the document title.
-    This replaces the hardcoded logic.
+    A refined heuristic to find the document title by identifying the most
+    prominent text block on the first page.
     """
     page1_lines = df_lines[df_lines['page'] == 1].copy()
     if page1_lines.empty:
         return ""
 
-    # Prioritize lines predicted as 'title' by the model
-    predicted_titles = page1_lines[page1_lines['label'] == 'title']
-    if not predicted_titles.empty:
-        return " ".join(predicted_titles.sort_values('y_pos')['text'])
-
-    # Fallback heuristic: Find the most prominent text on the first page
+    # --- Scoring ---
+    # Calculate a "prominence score" for each line.
+    # We prioritize large font size, bold text, and being high on the page.
     page1_lines['score'] = (
         page1_lines['font_size'] * 2 +
         page1_lines['is_bold'] * 5 -
         page1_lines['y_pos_normalized'] * 10
     )
-    # Find the line with the max score in the top half of the page
+
+    # --- Candidate Selection ---
+    # Find the single most prominent line in the top 40% of the page
     top_half_lines = page1_lines[page1_lines['y_pos_normalized'] < 0.4]
-    if not top_half_lines.empty:
-        best_candidate = top_half_lines.loc[top_half_lines['score'].idxmax()]
-        return best_candidate['text']
+    if top_half_lines.empty:
+        return page1_lines.iloc[0]['text'] if not page1_lines.empty else ""
 
-    return page1_lines.iloc[0]['text'] # Default to the very first line if all else fails
+    best_line_index = top_half_lines['score'].idxmax()
+    best_line = top_half_lines.loc[best_line_index]
+    
+    # --- Multi-line Title Logic ---
+    # Check for neighboring lines that are also part of the title
+    title_lines = [best_line]
+    
+    # Look upwards from the best line
+    current_index_loc = page1_lines.index.get_loc(best_line_index)
+    for i in range(current_index_loc - 1, -1, -1):
+        prev_line = page1_lines.iloc[i]
+        # Check if the line above is vertically close and has a similar font size
+        if (best_line['y_pos'] - prev_line['y_pos'] < best_line['font_size'] * 2 and
+            abs(best_line['font_size'] - prev_line['font_size']) < 2):
+            title_lines.insert(0, prev_line)
+        else:
+            break  # Stop if there's a large gap or font size changes
+    
+    # Look downwards from the best line
+    for i in range(current_index_loc + 1, len(page1_lines)):
+        next_line = page1_lines.iloc[i]
+        # Check if the line below is vertically close and has a similar font size
+        if (next_line['y_pos'] - title_lines[-1]['y_pos'] < title_lines[-1]['font_size'] * 2 and
+            abs(best_line['font_size'] - next_line['font_size']) < 2):
+            title_lines.append(next_line)
+        else:
+            break
 
-# In run_inference.py
+    # Combine the text from all identified title lines
+    full_title = " ".join(line['text'] for line in title_lines)
+    
+    return full_title.strip()
 
 def process_document(pdf_path, output_dir):
     """Main function to process a single PDF and generate the JSON output."""
@@ -152,13 +177,11 @@ def process_document(pdf_path, output_dir):
     print(f"Processing: {filename}...")
     start_time = time.time()
 
-    # 1. Parse PDF into lines in memory
     pages_data = parse_pdf_to_lines(pdf_path)
     if not pages_data:
         print(f"  Could not extract any lines from {filename}.")
         return
 
-    # 2. Create features and predict
     df_lines = create_feature_dataframe(pages_data)
     if df_lines.empty:
         print(f"  Could not create features for {filename}.")
@@ -170,7 +193,7 @@ def process_document(pdf_path, output_dir):
     y_pred_enc = clf.predict(X_predict)
     df_lines['label'] = le.inverse_transform(y_pred_enc)
 
-    # 3. Build the JSON output
+    # Use the new, robust heuristic to get the title
     title = get_document_title(df_lines)
 
     outline = []
@@ -178,20 +201,13 @@ def process_document(pdf_path, output_dir):
     for _, row in headings.iterrows():
         text = row['text'].strip()
         
-        # --- NEW, STRONGER POST-PROCESSING FILTERS ---
-        # Rule 1: Filter out lines that end with a period (headings rarely do).
+        # Post-processing filters to clean up noisy predictions
         if text.endswith('.'):
             continue
-            
-        # Rule 2: Filter out long lines that are likely full sentences.
         if row['word_count'] > 15:
             continue
-
-        # Rule 3: Filter out lines that start with a lowercase letter (unless it's a number).
         if text and text[0].islower() and not row['starts_number']:
             continue
-            
-        # Rule 4: A more generic filter for common non-heading content
         if row['word_count'] < 10 and re.match(r'^(page\s*\d+|table\s\d+|figure\s\d+)', text, re.I):
             continue
         
@@ -203,7 +219,6 @@ def process_document(pdf_path, output_dir):
 
     output_data = {"title": title, "outline": outline}
 
-    # 4. Save the output
     output_filename = os.path.splitext(filename)[0] + ".json"
     output_path = os.path.join(output_dir, output_filename)
     with open(output_path, 'w', encoding='utf-8') as f:
@@ -211,7 +226,7 @@ def process_document(pdf_path, output_dir):
     
     end_time = time.time()
     print(f"  ✅ Finished in {end_time - start_time:.2f}s. Output saved to {output_path}")
-    
+
 def main():
     parser = argparse.ArgumentParser(description="Extract a structured outline from PDF files.")
     parser.add_argument("--input_dir", type=str, required=True, help="Directory containing input PDF files.")
