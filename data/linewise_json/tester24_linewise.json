@@ -7,41 +7,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 18.3,
-          "text": "New York State Education Department",
-          "bbox": [
-            63.8427734375,
-            18.31103515625,
-            167.9658966064453,
-            26.177684783935547
-          ],
-          "spans": [
-            {
-              "size": 5.712890625,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "New York State Education Department",
-              "origin": [
-                63.8427734375,
-                24.423828125
-              ],
-              "bbox": [
-                63.8427734375,
-                18.31103515625,
-                167.9658966064453,
-                26.177684783935547
-              ]
-            }
-          ]
-        },
-        {
-          "y": 37.0,
+          "y": 37,
           "text": "Special Education",
           "bbox": [
             63.8427734375,
@@ -75,7 +41,7 @@
           ]
         },
         {
-          "y": 47.3,
+          "y": 47,
           "text": "School District Data Profile for",
           "bbox": [
             63.8427734375,
@@ -109,7 +75,7 @@
           ]
         },
         {
-          "y": 57.6,
+          "y": 58,
           "text": "Lafayette Central School District for 2007-08",
           "bbox": [
             63.8427734375,
@@ -143,41 +109,7 @@
           ]
         },
         {
-          "y": 77.7,
-          "text": "Vocational and Educational Services for Individuals with Disabilities",
-          "bbox": [
-            63.8427734375,
-            77.72509765625,
-            248.94032287597656,
-            85.59175109863281
-          ],
-          "spans": [
-            {
-              "size": 5.712890625,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "Vocational and Educational Services for Individuals with Disabilities",
-              "origin": [
-                63.8427734375,
-                83.837890625
-              ],
-              "bbox": [
-                63.8427734375,
-                77.72509765625,
-                248.94032287597656,
-                85.59175109863281
-              ]
-            }
-          ]
-        },
-        {
-          "y": 91.8,
+          "y": 92,
           "text": "Special Education School District Data Profile for 2007-08",
           "bbox": [
             6.7138671875,
@@ -211,7 +143,7 @@
           ]
         },
         {
-          "y": 124.0,
+          "y": 124,
           "text": "The Special Education School District Data Profile is prepared in accordance with the requirement of the Individuals with Disabilities Education Act (IDEA). Each State must have",
           "bbox": [
             6.7138671875,
@@ -245,7 +177,7 @@
           ]
         },
         {
-          "y": 134.3,
+          "y": 134,
           "text": "a State Performance Plan (SPP) to evaluate the State's efforts to meet the requirements and purposes of the implementation of IDEA. The SPP is a six-year plan which describes",
           "bbox": [
             6.7138671875,
@@ -279,7 +211,7 @@
           ]
         },
         {
-          "y": 144.5,
+          "y": 145,
           "text": "New York State's performance on 20 indicators. States must report annually to the public on the performance of the State in an Annual Performance Report (APR) and each",
           "bbox": [
             6.7138671875,
@@ -313,7 +245,7 @@
           ]
         },
         {
-          "y": 154.8,
+          "y": 155,
           "text": "school district against the State's targets. New York State's SPP and the APR that describe these indicators in detail are available at",
           "bbox": [
             6.7138671875,
@@ -347,7 +279,7 @@
           ]
         },
         {
-          "y": 165.1,
+          "y": 165,
           "text": "http://www.vesid.nysed.gov/specialed/spp/home.html .",
           "bbox": [
             6.7138671875,
@@ -403,7 +335,7 @@
           ]
         },
         {
-          "y": 175.4,
+          "y": 175,
           "text": "The following report reflects only quantifiable data collected by the State. Since performance of a school district in any indicator may be the result of unique circumstances within",
           "bbox": [
             6.7138671875,
@@ -437,7 +369,7 @@
           ]
         },
         {
-          "y": 185.7,
+          "y": 186,
           "text": "a district, readers are encouraged to consider information provided by the district's administration in interpreting these data.",
           "bbox": [
             6.7138671875,
@@ -471,7 +403,7 @@
           ]
         },
         {
-          "y": 201.6,
+          "y": 202,
           "text": "Enrollment and Classification Rate",
           "bbox": [
             6.7138671875,
@@ -505,7 +437,7 @@
           ]
         },
         {
-          "y": 235.4,
+          "y": 235,
           "text": "2007-08",
           "bbox": [
             11.2841796875,
@@ -561,7 +493,7 @@
           ]
         },
         {
-          "y": 257.1,
+          "y": 257,
           "text": "Enrollment of school-age students with disabilities on December 3 168",
           "bbox": [
             39.8486328125,
@@ -617,7 +549,7 @@
           ]
         },
         {
-          "y": 284.5,
+          "y": 285,
           "text": "District enrollment (public and nonpublic school-age students - with and without disabilities) on the first Wednesday",
           "bbox": [
             39.8486328125,
@@ -651,7 +583,7 @@
           ]
         },
         {
-          "y": 289.6,
+          "y": 290,
           "text": "956",
           "bbox": [
             499.1650390625,
@@ -685,7 +617,7 @@
           ]
         },
         {
-          "y": 294.8,
+          "y": 295,
           "text": "in October",
           "bbox": [
             39.8486328125,
@@ -719,7 +651,7 @@
           ]
         },
         {
-          "y": 322.2,
+          "y": 322,
           "text": "Special education classification rate 17.6%",
           "bbox": [
             39.8486328125,
@@ -775,7 +707,7 @@
           ]
         },
         {
-          "y": 349.6,
+          "y": 350,
           "text": "Enrollment of preschool students with disabilities on December 1 5",
           "bbox": [
             39.8486328125,
@@ -831,7 +763,7 @@
           ]
         },
         {
-          "y": 375.9,
+          "y": 376,
           "text": "Indicator 1: Graduation Rate of Students with Disabilities",
           "bbox": [
             6.7138671875,
@@ -865,7 +797,7 @@
           ]
         },
         {
-          "y": 420.0,
+          "y": 420,
           "text": "2007-08 2007-08",
           "bbox": [
             355.771484375,
@@ -921,15 +853,37 @@
           ]
         },
         {
-          "y": 430.3,
+          "y": 430,
           "text": "(2004 Total Cohort four years later as (2003 Total Cohort five years later as",
           "bbox": [
-            301.4990234375,
-            430.2584228515625,
+            11.2841796875,
+            430.18646240234375,
             576.2341918945312,
             441.3357238769531
           ],
           "spans": [
+            {
+              "size": 7.998046875,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": " ",
+              "origin": [
+                11.2841796875,
+                438.6083984375
+              ],
+              "bbox": [
+                11.2841796875,
+                430.18646240234375,
+                13.28369140625,
+                440.8558349609375
+              ]
+            },
             {
               "size": 7.998046875,
               "flags": 20,
@@ -977,7 +931,7 @@
           ]
         },
         {
-          "y": 440.5,
+          "y": 441,
           "text": "of June 30, 2008) of June 30, 2008)",
           "bbox": [
             339.2041015625,
@@ -1033,7 +987,7 @@
           ]
         },
         {
-          "y": 462.2,
+          "y": 462,
           "text": "Number of students with disabilities who first entered 9th grade anywhere (or",
           "bbox": [
             39.8486328125,
@@ -1067,7 +1021,7 @@
           ]
         },
         {
-          "y": 467.3,
+          "y": 467,
           "text": "21",
           "bbox": [
             364.912109375,
@@ -1123,7 +1077,7 @@
           ]
         },
         {
-          "y": 472.5,
+          "y": 472,
           "text": "if ungraded, became 17 years old) in 2004-05",
           "bbox": [
             39.8486328125,
@@ -1157,7 +1111,7 @@
           ]
         },
         {
-          "y": 499.9,
+          "y": 500,
           "text": "Number of students with disabilities who first entered 9th grade anywhere (or",
           "bbox": [
             39.8486328125,
@@ -1191,7 +1145,7 @@
           ]
         },
         {
-          "y": 505.0,
+          "y": 505,
           "text": "12",
           "bbox": [
             367.7685546875,
@@ -1247,7 +1201,7 @@
           ]
         },
         {
-          "y": 510.2,
+          "y": 510,
           "text": "if ungraded, became 17 years old) in 2003-04",
           "bbox": [
             39.8486328125,
@@ -1281,7 +1235,7 @@
           ]
         },
         {
-          "y": 537.6,
+          "y": 538,
           "text": "Graduation rate 23.8% 33.3%",
           "bbox": [
             39.8486328125,
@@ -1359,7 +1313,7 @@
           ]
         },
         {
-          "y": 565.0,
+          "y": 565,
           "text": "State target for 2007-08 38% or higher No State Target",
           "bbox": [
             39.8486328125,
@@ -1437,7 +1391,7 @@
           ]
         },
         {
-          "y": 592.4,
+          "y": 592,
           "text": "Meets State target? Not Applicable* Not Applicable",
           "bbox": [
             39.8486328125,
@@ -1515,7 +1469,7 @@
           ]
         },
         {
-          "y": 614.1,
+          "y": 614,
           "text": "* A graduation rate is provided only if at least 30 students with disabilities are reported in the first row.",
           "bbox": [
             11.2841796875,
@@ -1549,7 +1503,7 @@
           ]
         },
         {
-          "y": 822.2,
+          "y": 822,
           "text": "Sun May 02 00:24:42 EDT 2010 420807040000 page 1 of 7",
           "bbox": [
             6.0,
@@ -1612,41 +1566,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 13.7,
-          "text": "New York State Education Department",
-          "bbox": [
-            63.8427734375,
-            13.74072265625,
-            167.9658966064453,
-            21.607372283935547
-          ],
-          "spans": [
-            {
-              "size": 5.712890625,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "New York State Education Department",
-              "origin": [
-                63.8427734375,
-                19.853515625
-              ],
-              "bbox": [
-                63.8427734375,
-                13.74072265625,
-                167.9658966064453,
-                21.607372283935547
-              ]
-            }
-          ]
-        },
-        {
-          "y": 32.4,
+          "y": 32,
           "text": "Special Education",
           "bbox": [
             63.8427734375,
@@ -1680,7 +1600,7 @@
           ]
         },
         {
-          "y": 42.7,
+          "y": 43,
           "text": "School District Data Profile for",
           "bbox": [
             63.8427734375,
@@ -1714,7 +1634,7 @@
           ]
         },
         {
-          "y": 53.0,
+          "y": 53,
           "text": "Lafayette Central School District",
           "bbox": [
             63.8427734375,
@@ -1748,41 +1668,7 @@
           ]
         },
         {
-          "y": 73.2,
-          "text": "Vocational and Educational Services for Individuals with Disabilities",
-          "bbox": [
-            63.8427734375,
-            73.15478515625,
-            248.94032287597656,
-            81.02143859863281
-          ],
-          "spans": [
-            {
-              "size": 5.712890625,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "Vocational and Educational Services for Individuals with Disabilities",
-              "origin": [
-                63.8427734375,
-                79.267578125
-              ],
-              "bbox": [
-                63.8427734375,
-                73.15478515625,
-                248.94032287597656,
-                81.02143859863281
-              ]
-            }
-          ]
-        },
-        {
-          "y": 98.2,
+          "y": 98,
           "text": "Indicator 2: Drop-Out Rate of Students with Disabilities",
           "bbox": [
             6.7138671875,
@@ -1816,7 +1702,7 @@
           ]
         },
         {
-          "y": 142.3,
+          "y": 142,
           "text": "2007-08",
           "bbox": [
             491.73828125,
@@ -1850,7 +1736,7 @@
           ]
         },
         {
-          "y": 152.6,
+          "y": 153,
           "text": "(2004 Total Cohort as of June 30, 2008)",
           "bbox": [
             436.3232421875,
@@ -1884,7 +1770,7 @@
           ]
         },
         {
-          "y": 174.2,
+          "y": 174,
           "text": "Number of students with disabilities who first entered 9th grade anywhere (or if ungraded, became 17 years old) in",
           "bbox": [
             39.8486328125,
@@ -1918,7 +1804,7 @@
           ]
         },
         {
-          "y": 179.4,
+          "y": 179,
           "text": "21",
           "bbox": [
             501.4501953125,
@@ -1952,7 +1838,7 @@
           ]
         },
         {
-          "y": 184.5,
+          "y": 185,
           "text": "2004-05 school year",
           "bbox": [
             39.8486328125,
@@ -1986,7 +1872,7 @@
           ]
         },
         {
-          "y": 212.0,
+          "y": 212,
           "text": "Drop-out rate after four years 0%",
           "bbox": [
             39.8486328125,
@@ -2042,7 +1928,7 @@
           ]
         },
         {
-          "y": 239.4,
+          "y": 239,
           "text": "State target for 2007-08 19% or lower",
           "bbox": [
             39.8486328125,
@@ -2098,7 +1984,7 @@
           ]
         },
         {
-          "y": 266.8,
+          "y": 267,
           "text": "Meets State target? Not Applicable*",
           "bbox": [
             39.8486328125,
@@ -2154,7 +2040,7 @@
           ]
         },
         {
-          "y": 288.5,
+          "y": 289,
           "text": "* A drop-out rate is provided only if at least 30 students with disabilities are reported in the first row.",
           "bbox": [
             11.2841796875,
@@ -2188,7 +2074,7 @@
           ]
         },
         {
-          "y": 309.0,
+          "y": 309,
           "text": "Indicator 3: State Assessments",
           "bbox": [
             6.7138671875,
@@ -2222,7 +2108,7 @@
           ]
         },
         {
-          "y": 342.9,
+          "y": 343,
           "text": "2007-08",
           "bbox": [
             411.1865234375,
@@ -2256,7 +2142,7 @@
           ]
         },
         {
-          "y": 358.8,
+          "y": 359,
           "text": "Grades",
           "bbox": [
             290.64453125,
@@ -2290,7 +2176,7 @@
           ]
         },
         {
-          "y": 364.6,
+          "y": 365,
           "text": "Grades High School",
           "bbox": [
             371.1962890625,
@@ -2346,7 +2232,7 @@
           ]
         },
         {
-          "y": 366.3,
+          "y": 366,
           "text": "Participation in State Assessments",
           "bbox": [
             74.697265625,
@@ -2380,7 +2266,7 @@
           ]
         },
         {
-          "y": 369.1,
+          "y": 369,
           "text": "3-8",
           "bbox": [
             297.5,
@@ -2414,7 +2300,7 @@
           ]
         },
         {
-          "y": 369.7,
+          "y": 370,
           "text": "High School",
           "bbox": [
             524.873046875,
@@ -2448,7 +2334,7 @@
           ]
         },
         {
-          "y": 374.8,
+          "y": 375,
           "text": "3-8 English Language",
           "bbox": [
             378.0517578125,
@@ -2504,7 +2390,7 @@
           ]
         },
         {
-          "y": 379.4,
+          "y": 379,
           "text": "English Language",
           "bbox": [
             270.6494140625,
@@ -2538,7 +2424,7 @@
           ]
         },
         {
-          "y": 380.0,
+          "y": 380,
           "text": "Math",
           "bbox": [
             536.8701171875,
@@ -2572,7 +2458,7 @@
           ]
         },
         {
-          "y": 385.1,
+          "y": 385,
           "text": "Math Arts (ELA)",
           "bbox": [
             374.6240234375,
@@ -2628,7 +2514,7 @@
           ]
         },
         {
-          "y": 389.7,
+          "y": 390,
           "text": "Arts (ELA)",
           "bbox": [
             283.2177734375,
@@ -2662,7 +2548,7 @@
           ]
         },
         {
-          "y": 411.3,
+          "y": 411,
           "text": "Enrollment of students with disabilities for participation rate 88 Less Than 40* Less Than 40*",
           "bbox": [
             39.8486328125,
@@ -2784,7 +2670,7 @@
           ]
         },
         {
-          "y": 438.8,
+          "y": 439,
           "text": "Participation rate 99% 98% * *",
           "bbox": [
             39.8486328125,
@@ -2906,7 +2792,7 @@
           ]
         },
         {
-          "y": 466.2,
+          "y": 466,
           "text": "State target for 2007-08 95% 95% 95% 95%",
           "bbox": [
             39.8486328125,
@@ -3028,7 +2914,7 @@
           ]
         },
         {
-          "y": 493.6,
+          "y": 494,
           "text": "Meets State target? Yes * *",
           "bbox": [
             39.8486328125,
@@ -3150,7 +3036,7 @@
           ]
         },
         {
-          "y": 515.3,
+          "y": 515,
           "text": "* Participation rate is provided only if at least 40 students with disabilities are reported in the first row.",
           "bbox": [
             11.2841796875,
@@ -3184,7 +3070,7 @@
           ]
         },
         {
-          "y": 545.1,
+          "y": 545,
           "text": "2007-08",
           "bbox": [
             411.1865234375,
@@ -3218,7 +3104,7 @@
           ]
         },
         {
-          "y": 561.1,
+          "y": 561,
           "text": "Grades",
           "bbox": [
             290.64453125,
@@ -3252,7 +3138,7 @@
           ]
         },
         {
-          "y": 563.9,
+          "y": 564,
           "text": "Performance on State Assessments and Adequate Yearly Progress",
           "bbox": [
             18.1396484375,
@@ -3286,7 +3172,7 @@
           ]
         },
         {
-          "y": 566.8,
+          "y": 567,
           "text": "Grades High School",
           "bbox": [
             371.1962890625,
@@ -3342,7 +3228,7 @@
           ]
         },
         {
-          "y": 571.4,
+          "y": 571,
           "text": "3-8",
           "bbox": [
             297.5,
@@ -3376,7 +3262,7 @@
           ]
         },
         {
-          "y": 571.9,
+          "y": 572,
           "text": "High School",
           "bbox": [
             524.873046875,
@@ -3410,7 +3296,7 @@
           ]
         },
         {
-          "y": 574.2,
+          "y": 574,
           "text": "(AYP)",
           "bbox": [
             124.3994140625,
@@ -3444,7 +3330,7 @@
           ]
         },
         {
-          "y": 577.1,
+          "y": 577,
           "text": "3-8 English Language",
           "bbox": [
             378.0517578125,
@@ -3500,13 +3386,13 @@
           ]
         },
         {
-          "y": 581.7,
-          "text": "English Language",
+          "y": 582,
+          "text": "English Language Math",
           "bbox": [
             270.6494140625,
             581.6500244140625,
-            334.20989990234375,
-            592.7273559570312
+            555.529541015625,
+            593.2986450195312
           ],
           "spans": [
             {
@@ -3530,19 +3416,7 @@
                 334.20989990234375,
                 592.7273559570312
               ]
-            }
-          ]
-        },
-        {
-          "y": 582.2,
-          "text": "Math",
-          "bbox": [
-            536.8701171875,
-            582.2213134765625,
-            555.529541015625,
-            593.2986450195312
-          ],
-          "spans": [
+            },
             {
               "size": 7.998046875,
               "flags": 20,
@@ -3568,7 +3442,7 @@
           ]
         },
         {
-          "y": 587.4,
+          "y": 587,
           "text": "Math Arts (ELA)",
           "bbox": [
             374.6240234375,
@@ -3624,7 +3498,7 @@
           ]
         },
         {
-          "y": 591.9,
+          "y": 592,
           "text": "Arts (ELA)",
           "bbox": [
             283.2177734375,
@@ -3658,7 +3532,7 @@
           ]
         },
         {
-          "y": 613.6,
+          "y": 614,
           "text": "Enrollment of students with disabilities for performance",
           "bbox": [
             39.8486328125,
@@ -3692,7 +3566,7 @@
           ]
         },
         {
-          "y": 618.7,
+          "y": 619,
           "text": "87 86 Less Than 30** Less Than 30**",
           "bbox": [
             298.642578125,
@@ -3792,7 +3666,7 @@
           ]
         },
         {
-          "y": 623.9,
+          "y": 624,
           "text": "accountability",
           "bbox": [
             39.8486328125,
@@ -3826,7 +3700,7 @@
           ]
         },
         {
-          "y": 651.3,
+          "y": 651,
           "text": "Score on performance index 123 150 ** **",
           "bbox": [
             39.8486328125,
@@ -3948,7 +3822,7 @@
           ]
         },
         {
-          "y": 678.7,
+          "y": 679,
           "text": "State target for 2007-08 101 110 124 134",
           "bbox": [
             39.8486328125,
@@ -4070,7 +3944,7 @@
           ]
         },
         {
-          "y": 706.1,
+          "y": 706,
           "text": "Meets State target? Yes ** **",
           "bbox": [
             39.8486328125,
@@ -4192,7 +4066,7 @@
           ]
         },
         {
-          "y": 733.5,
+          "y": 734,
           "text": "Made AYP? Yes ** **",
           "bbox": [
             39.8486328125,
@@ -4314,7 +4188,7 @@
           ]
         },
         {
-          "y": 755.2,
+          "y": 755,
           "text": "** A performance index score is provided only if at least 30 students with disabilities are reported in the first row.",
           "bbox": [
             11.2841796875,
@@ -4348,7 +4222,7 @@
           ]
         },
         {
-          "y": 822.2,
+          "y": 822,
           "text": "Sun May 02 00:24:42 EDT 2010 420807040000 page 2 of 7",
           "bbox": [
             6.0,
@@ -4411,41 +4285,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 13.7,
-          "text": "New York State Education Department",
-          "bbox": [
-            63.8427734375,
-            13.74072265625,
-            167.9658966064453,
-            21.607372283935547
-          ],
-          "spans": [
-            {
-              "size": 5.712890625,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "New York State Education Department",
-              "origin": [
-                63.8427734375,
-                19.853515625
-              ],
-              "bbox": [
-                63.8427734375,
-                13.74072265625,
-                167.9658966064453,
-                21.607372283935547
-              ]
-            }
-          ]
-        },
-        {
-          "y": 32.4,
+          "y": 32,
           "text": "Special Education",
           "bbox": [
             63.8427734375,
@@ -4479,7 +4319,7 @@
           ]
         },
         {
-          "y": 42.7,
+          "y": 43,
           "text": "School District Data Profile for",
           "bbox": [
             63.8427734375,
@@ -4513,7 +4353,7 @@
           ]
         },
         {
-          "y": 53.0,
+          "y": 53,
           "text": "Lafayette Central School District",
           "bbox": [
             63.8427734375,
@@ -4547,41 +4387,7 @@
           ]
         },
         {
-          "y": 73.2,
-          "text": "Vocational and Educational Services for Individuals with Disabilities",
-          "bbox": [
-            63.8427734375,
-            73.15478515625,
-            248.94032287597656,
-            81.02143859863281
-          ],
-          "spans": [
-            {
-              "size": 5.712890625,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "Vocational and Educational Services for Individuals with Disabilities",
-              "origin": [
-                63.8427734375,
-                79.267578125
-              ],
-              "bbox": [
-                63.8427734375,
-                73.15478515625,
-                248.94032287597656,
-                81.02143859863281
-              ]
-            }
-          ]
-        },
-        {
-          "y": 98.2,
+          "y": 98,
           "text": "Indicator 4: Suspensions/Expulsions",
           "bbox": [
             6.7138671875,
@@ -4615,7 +4421,7 @@
           ]
         },
         {
-          "y": 132.0,
+          "y": 132,
           "text": "Long-term Suspension Rate 2007-08",
           "bbox": [
             167.24609375,
@@ -4671,7 +4477,7 @@
           ]
         },
         {
-          "y": 153.7,
+          "y": 154,
           "text": "Number of students with disabilities suspended out-of-school for more than 10 days 1",
           "bbox": [
             39.8486328125,
@@ -4727,7 +4533,7 @@
           ]
         },
         {
-          "y": 181.1,
+          "y": 181,
           "text": "Number of students with disabilities enrolled on December 3 168",
           "bbox": [
             39.8486328125,
@@ -4783,7 +4589,7 @@
           ]
         },
         {
-          "y": 208.5,
+          "y": 209,
           "text": "Percent of students with disabilities suspended out-of-school for more than 10 days 0.6%",
           "bbox": [
             39.8486328125,
@@ -4839,7 +4645,7 @@
           ]
         },
         {
-          "y": 235.9,
+          "y": 236,
           "text": "State target for 2007-08 2.7% or lower",
           "bbox": [
             39.8486328125,
@@ -4895,7 +4701,7 @@
           ]
         },
         {
-          "y": 263.4,
+          "y": 263,
           "text": "Meets State target? Yes",
           "bbox": [
             39.8486328125,
@@ -4951,7 +4757,7 @@
           ]
         },
         {
-          "y": 295.3,
+          "y": 295,
           "text": "Indicator 5: School-age Least Restrictive Environment (LRE)",
           "bbox": [
             6.7138671875,
@@ -4985,7 +4791,7 @@
           ]
         },
         {
-          "y": 329.1,
+          "y": 329,
           "text": "2007-2008",
           "bbox": [
             11.2841796875,
@@ -5041,7 +4847,7 @@
           ]
         },
         {
-          "y": 350.8,
+          "y": 351,
           "text": "Number of students with disabilities ages",
           "bbox": [
             39.8486328125,
@@ -5075,7 +4881,7 @@
           ]
         },
         {
-          "y": 355.9,
+          "y": 356,
           "text": "162",
           "bbox": [
             382.6220703125,
@@ -5109,7 +4915,7 @@
           ]
         },
         {
-          "y": 361.1,
+          "y": 361,
           "text": "6-21 on December 3",
           "bbox": [
             39.8486328125,
@@ -5143,7 +4949,7 @@
           ]
         },
         {
-          "y": 382.8,
+          "y": 383,
           "text": "Percent of students with disabilities in general",
           "bbox": [
             208.9501953125,
@@ -5177,7 +4983,7 @@
           ]
         },
         {
-          "y": 393.1,
+          "y": 393,
           "text": "education program for:",
           "bbox": [
             250.654296875,
@@ -5211,7 +5017,7 @@
           ]
         },
         {
-          "y": 396.6,
+          "y": 397,
           "text": "In",
           "bbox": [
             422.6123046875,
@@ -5267,7 +5073,7 @@
           ]
         },
         {
-          "y": 406.8,
+          "y": 407,
           "text": "separate Other",
           "bbox": [
             411.7578125,
@@ -5323,7 +5129,7 @@
           ]
         },
         {
-          "y": 409.1,
+          "y": 409,
           "text": "80% or Less than",
           "bbox": [
             210.6640625,
@@ -5379,7 +5185,7 @@
           ]
         },
         {
-          "y": 414.8,
+          "y": 415,
           "text": "40 to 79%",
           "bbox": [
             272.9345703125,
@@ -5413,7 +5219,7 @@
           ]
         },
         {
-          "y": 417.1,
+          "y": 417,
           "text": "schools / facilities Settings",
           "bbox": [
             395.76171875,
@@ -5469,7 +5275,7 @@
           ]
         },
         {
-          "y": 419.4,
+          "y": 419,
           "text": "more of 40% of",
           "bbox": [
             210.0927734375,
@@ -5525,7 +5331,7 @@
           ]
         },
         {
-          "y": 425.1,
+          "y": 425,
           "text": "of the day",
           "bbox": [
             273.505859375,
@@ -5559,7 +5365,7 @@
           ]
         },
         {
-          "y": 429.7,
+          "y": 430,
           "text": "the day the day",
           "bbox": [
             210.6640625,
@@ -5615,7 +5421,7 @@
           ]
         },
         {
-          "y": 451.3,
+          "y": 451,
           "text": "Percent of students ages 6-21 in each setting 77.8% 18.5% 3.7% 0% 0%",
           "bbox": [
             39.8486328125,
@@ -5759,7 +5565,7 @@
           ]
         },
         {
-          "y": 478.7,
+          "y": 479,
           "text": "State target for 2007-08 More than 53.1% No State Target Less than 24.6% Less than 6.8% No State Target",
           "bbox": [
             39.8486328125,
@@ -5903,7 +5709,7 @@
           ]
         },
         {
-          "y": 506.2,
+          "y": 506,
           "text": "Meets State target? Yes Not Applicable Yes Not Applicable",
           "bbox": [
             39.8486328125,
@@ -6047,7 +5853,7 @@
           ]
         },
         {
-          "y": 538.1,
+          "y": 538,
           "text": "Indicator 6: Preschool Least Restrictive Environment (LRE)",
           "bbox": [
             6.7138671875,
@@ -6081,7 +5887,7 @@
           ]
         },
         {
-          "y": 571.9,
+          "y": 572,
           "text": "The data for this indicator are not presented because the LRE reporting categories for preschool children with disabilities are under review by the United States Department of",
           "bbox": [
             11.2841796875,
@@ -6115,7 +5921,7 @@
           ]
         },
         {
-          "y": 582.1,
+          "y": 582,
           "text": "Education.",
           "bbox": [
             11.2841796875,
@@ -6149,7 +5955,7 @@
           ]
         },
         {
-          "y": 822.2,
+          "y": 822,
           "text": "Sun May 02 00:24:42 EDT 2010 420807040000 page 3 of 7",
           "bbox": [
             6.0,
@@ -6212,41 +6018,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 13.7,
-          "text": "New York State Education Department",
-          "bbox": [
-            63.8427734375,
-            13.74072265625,
-            167.9658966064453,
-            21.607372283935547
-          ],
-          "spans": [
-            {
-              "size": 5.712890625,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "New York State Education Department",
-              "origin": [
-                63.8427734375,
-                19.853515625
-              ],
-              "bbox": [
-                63.8427734375,
-                13.74072265625,
-                167.9658966064453,
-                21.607372283935547
-              ]
-            }
-          ]
-        },
-        {
-          "y": 32.4,
+          "y": 32,
           "text": "Special Education",
           "bbox": [
             63.8427734375,
@@ -6280,7 +6052,7 @@
           ]
         },
         {
-          "y": 42.7,
+          "y": 43,
           "text": "School District Data Profile for",
           "bbox": [
             63.8427734375,
@@ -6314,7 +6086,7 @@
           ]
         },
         {
-          "y": 53.0,
+          "y": 53,
           "text": "Lafayette Central School District",
           "bbox": [
             63.8427734375,
@@ -6348,41 +6120,7 @@
           ]
         },
         {
-          "y": 73.2,
-          "text": "Vocational and Educational Services for Individuals with Disabilities",
-          "bbox": [
-            63.8427734375,
-            73.15478515625,
-            248.94032287597656,
-            81.02143859863281
-          ],
-          "spans": [
-            {
-              "size": 5.712890625,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "Vocational and Educational Services for Individuals with Disabilities",
-              "origin": [
-                63.8427734375,
-                79.267578125
-              ],
-              "bbox": [
-                63.8427734375,
-                73.15478515625,
-                248.94032287597656,
-                81.02143859863281
-              ]
-            }
-          ]
-        },
-        {
-          "y": 98.2,
+          "y": 98,
           "text": "Indicator 7: Preschool Outcomes",
           "bbox": [
             6.7138671875,
@@ -6416,7 +6154,7 @@
           ]
         },
         {
-          "y": 140.5,
+          "y": 141,
           "text": "If data are not provided for this indicator, see the schedule posted at http://www.vesid.nysed.gov/sedcar/sppschedule.html for the school year in which this school district will",
           "bbox": [
             11.2841796875,
@@ -6494,7 +6232,7 @@
           ]
         },
         {
-          "y": 150.8,
+          "y": 151,
           "text": "report data for this indicator.",
           "bbox": [
             11.2841796875,
@@ -6528,7 +6266,7 @@
           ]
         },
         {
-          "y": 166.9,
+          "y": 167,
           "text": "2007-08",
           "bbox": [
             448.3203125,
@@ -6562,7 +6300,7 @@
           ]
         },
         {
-          "y": 182.9,
+          "y": 183,
           "text": "Use of",
           "bbox": [
             526.5869140625,
@@ -6596,7 +6334,7 @@
           ]
         },
         {
-          "y": 188.6,
+          "y": 189,
           "text": "Positive Acquisition and",
           "bbox": [
             364.3408203125,
@@ -6652,7 +6390,7 @@
           ]
         },
         {
-          "y": 193.2,
+          "y": 193,
           "text": "Appropriate Behaviors",
           "bbox": [
             498.0224609375,
@@ -6686,7 +6424,7 @@
           ]
         },
         {
-          "y": 198.9,
+          "y": 199,
           "text": "Social - Emotional Use of Knowledge",
           "bbox": [
             344.9169921875,
@@ -6742,7 +6480,7 @@
           ]
         },
         {
-          "y": 203.5,
+          "y": 203,
           "text": "to Meet",
           "bbox": [
             523.73046875,
@@ -6776,7 +6514,7 @@
           ]
         },
         {
-          "y": 209.2,
+          "y": 209,
           "text": "Skills & Skills",
           "bbox": [
             367.7685546875,
@@ -6832,7 +6570,7 @@
           ]
         },
         {
-          "y": 213.7,
+          "y": 214,
           "text": "their Needs",
           "bbox": [
             517.4462890625,
@@ -6866,7 +6604,7 @@
           ]
         },
         {
-          "y": 235.4,
+          "y": 235,
           "text": "Number of preschool students with disabilities evaluated for progress between entry into",
           "bbox": [
             39.8486328125,
@@ -6900,7 +6638,7 @@
           ]
         },
         {
-          "y": 245.7,
+          "y": 246,
           "text": "preschool special education and exit from preschool special education",
           "bbox": [
             39.8486328125,
@@ -6934,7 +6672,7 @@
           ]
         },
         {
-          "y": 273.1,
+          "y": 273,
           "text": "Percent of preschool students with disabilities who demonstrate improvement",
           "bbox": [
             39.8486328125,
@@ -6968,7 +6706,7 @@
           ]
         },
         {
-          "y": 300.5,
+          "y": 301,
           "text": "State target for 2007-08 To Be Established To Be Established To Be Established",
           "bbox": [
             39.8486328125,
@@ -7068,7 +6806,7 @@
           ]
         },
         {
-          "y": 327.9,
+          "y": 328,
           "text": "Meets State target?",
           "bbox": [
             39.8486328125,
@@ -7102,7 +6840,7 @@
           ]
         },
         {
-          "y": 359.9,
+          "y": 360,
           "text": "Indicator 8: Parental Involvement",
           "bbox": [
             6.7138671875,
@@ -7136,7 +6874,7 @@
           ]
         },
         {
-          "y": 393.6,
+          "y": 394,
           "text": "If data are not provided for this indicator, see the schedule posted at http://www.vesid.nysed.gov/sedcar/sppschedule.html for the school year in which this school district will",
           "bbox": [
             11.2841796875,
@@ -7214,7 +6952,7 @@
           ]
         },
         {
-          "y": 403.9,
+          "y": 404,
           "text": "report data for this indicator.",
           "bbox": [
             11.2841796875,
@@ -7248,15 +6986,37 @@
           ]
         },
         {
-          "y": 420.0,
+          "y": 420,
           "text": "2007-08",
           "bbox": [
-            491.73828125,
-            419.9752197265625,
+            11.2841796875,
+            419.90325927734375,
             518.395751953125,
             431.0525207519531
           ],
           "spans": [
+            {
+              "size": 7.998046875,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": " ",
+              "origin": [
+                11.2841796875,
+                428.3251953125
+              ],
+              "bbox": [
+                11.2841796875,
+                419.90325927734375,
+                13.28369140625,
+                430.5726318359375
+              ]
+            },
             {
               "size": 7.998046875,
               "flags": 20,
@@ -7282,7 +7042,7 @@
           ]
         },
         {
-          "y": 441.6,
+          "y": 442,
           "text": "Number of completed parent surveys returned",
           "bbox": [
             39.8486328125,
@@ -7316,7 +7076,7 @@
           ]
         },
         {
-          "y": 469.0,
+          "y": 469,
           "text": "Percent of parents who reported that schools facilitated parent involvement to improve services and results for",
           "bbox": [
             39.8486328125,
@@ -7350,7 +7110,7 @@
           ]
         },
         {
-          "y": 479.3,
+          "y": 479,
           "text": "students with disabilities",
           "bbox": [
             39.8486328125,
@@ -7384,7 +7144,7 @@
           ]
         },
         {
-          "y": 506.7,
+          "y": 507,
           "text": "State target for 2007-08 87.5% or higher",
           "bbox": [
             39.8486328125,
@@ -7440,7 +7200,7 @@
           ]
         },
         {
-          "y": 534.2,
+          "y": 534,
           "text": "Meets State target?",
           "bbox": [
             39.8486328125,
@@ -7474,7 +7234,7 @@
           ]
         },
         {
-          "y": 566.1,
+          "y": 566,
           "text": "Indicator 9: Disproportionality - Identification for Special Education",
           "bbox": [
             6.7138671875,
@@ -7508,7 +7268,7 @@
           ]
         },
         {
-          "y": 599.9,
+          "y": 600,
           "text": "2007-08",
           "bbox": [
             11.2841796875,
@@ -7564,7 +7324,7 @@
           ]
         },
         {
-          "y": 621.6,
+          "y": 622,
           "text": "Did the school district have disproportionate representation of racial and ethnic groups in special education and",
           "bbox": [
             39.8486328125,
@@ -7598,7 +7358,7 @@
           ]
         },
         {
-          "y": 626.7,
+          "y": 627,
           "text": "No",
           "bbox": [
             500.3076171875,
@@ -7632,7 +7392,7 @@
           ]
         },
         {
-          "y": 631.9,
+          "y": 632,
           "text": "related services that was the result of inappropriate policies, practices and procedures?",
           "bbox": [
             39.8486328125,
@@ -7666,7 +7426,7 @@
           ]
         },
         {
-          "y": 653.6,
+          "y": 654,
           "text": "No school districts will have disproportionality",
           "bbox": [
             428.896484375,
@@ -7700,7 +7460,7 @@
           ]
         },
         {
-          "y": 663.8,
+          "y": 664,
           "text": "State target for 2007-08 that is the result of inappropriate policies,",
           "bbox": [
             39.8486328125,
@@ -7756,7 +7516,7 @@
           ]
         },
         {
-          "y": 674.1,
+          "y": 674,
           "text": "practices and procedures.",
           "bbox": [
             463.7451171875,
@@ -7790,7 +7550,7 @@
           ]
         },
         {
-          "y": 695.8,
+          "y": 696,
           "text": "Meets State target? Yes",
           "bbox": [
             39.8486328125,
@@ -7846,7 +7606,7 @@
           ]
         },
         {
-          "y": 723.3,
+          "y": 723,
           "text": "Date the district reported correction of noncompliance for this indicator if it did not meet the State target Not Applicable",
           "bbox": [
             39.8486328125,
@@ -7902,7 +7662,7 @@
           ]
         },
         {
-          "y": 822.2,
+          "y": 822,
           "text": "Sun May 02 00:24:42 EDT 2010 420807040000 page 4 of 7",
           "bbox": [
             6.0,
@@ -7965,41 +7725,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 13.7,
-          "text": "New York State Education Department",
-          "bbox": [
-            63.8427734375,
-            13.74072265625,
-            167.9658966064453,
-            21.607372283935547
-          ],
-          "spans": [
-            {
-              "size": 5.712890625,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "New York State Education Department",
-              "origin": [
-                63.8427734375,
-                19.853515625
-              ],
-              "bbox": [
-                63.8427734375,
-                13.74072265625,
-                167.9658966064453,
-                21.607372283935547
-              ]
-            }
-          ]
-        },
-        {
-          "y": 32.4,
+          "y": 32,
           "text": "Special Education",
           "bbox": [
             63.8427734375,
@@ -8033,7 +7759,7 @@
           ]
         },
         {
-          "y": 42.7,
+          "y": 43,
           "text": "School District Data Profile for",
           "bbox": [
             63.8427734375,
@@ -8067,7 +7793,7 @@
           ]
         },
         {
-          "y": 53.0,
+          "y": 53,
           "text": "Lafayette Central School District",
           "bbox": [
             63.8427734375,
@@ -8101,41 +7827,7 @@
           ]
         },
         {
-          "y": 73.2,
-          "text": "Vocational and Educational Services for Individuals with Disabilities",
-          "bbox": [
-            63.8427734375,
-            73.15478515625,
-            248.94032287597656,
-            81.02143859863281
-          ],
-          "spans": [
-            {
-              "size": 5.712890625,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "Vocational and Educational Services for Individuals with Disabilities",
-              "origin": [
-                63.8427734375,
-                79.267578125
-              ],
-              "bbox": [
-                63.8427734375,
-                73.15478515625,
-                248.94032287597656,
-                81.02143859863281
-              ]
-            }
-          ]
-        },
-        {
-          "y": 98.2,
+          "y": 98,
           "text": "Indicator 10A: Disproportionality in Specific Disability Categories",
           "bbox": [
             6.7138671875,
@@ -8169,7 +7861,7 @@
           ]
         },
         {
-          "y": 132.0,
+          "y": 132,
           "text": "2007-08",
           "bbox": [
             11.2841796875,
@@ -8225,7 +7917,7 @@
           ]
         },
         {
-          "y": 153.7,
+          "y": 154,
           "text": "Did the school district have disproportionate representation of racial and ethnic groups in specific disability categories",
           "bbox": [
             39.8486328125,
@@ -8259,7 +7951,7 @@
           ]
         },
         {
-          "y": 158.8,
+          "y": 159,
           "text": "No",
           "bbox": [
             500.3076171875,
@@ -8293,7 +7985,7 @@
           ]
         },
         {
-          "y": 164.0,
+          "y": 164,
           "text": "that was the result of inappropriate policies, practices and procedures?",
           "bbox": [
             39.8486328125,
@@ -8327,7 +8019,7 @@
           ]
         },
         {
-          "y": 185.7,
+          "y": 186,
           "text": "No school districts will have disproportionality",
           "bbox": [
             428.896484375,
@@ -8361,7 +8053,7 @@
           ]
         },
         {
-          "y": 196.0,
+          "y": 196,
           "text": "State target for 2007-08 that is the result of inappropriate policies,",
           "bbox": [
             39.8486328125,
@@ -8417,7 +8109,7 @@
           ]
         },
         {
-          "y": 206.2,
+          "y": 206,
           "text": "practices and procedures.",
           "bbox": [
             463.7451171875,
@@ -8451,7 +8143,7 @@
           ]
         },
         {
-          "y": 228.0,
+          "y": 228,
           "text": "Meets State target? Yes",
           "bbox": [
             39.8486328125,
@@ -8507,7 +8199,7 @@
           ]
         },
         {
-          "y": 255.4,
+          "y": 255,
           "text": "Date the district reported correction of noncompliance for this indicator if it did not meet the State target Not Applicable",
           "bbox": [
             39.8486328125,
@@ -8563,7 +8255,7 @@
           ]
         },
         {
-          "y": 281.6,
+          "y": 282,
           "text": "Indicator 10B: Disproportionality in Special Education Placements",
           "bbox": [
             6.7138671875,
@@ -8597,7 +8289,7 @@
           ]
         },
         {
-          "y": 315.4,
+          "y": 315,
           "text": "2007-08",
           "bbox": [
             11.2841796875,
@@ -8653,7 +8345,7 @@
           ]
         },
         {
-          "y": 337.1,
+          "y": 337,
           "text": "Did the school district have disproportionate representation of racial and ethnic groups in particular settings that was",
           "bbox": [
             39.8486328125,
@@ -8687,7 +8379,7 @@
           ]
         },
         {
-          "y": 342.2,
+          "y": 342,
           "text": "No",
           "bbox": [
             500.3076171875,
@@ -8721,7 +8413,7 @@
           ]
         },
         {
-          "y": 347.3,
+          "y": 347,
           "text": "the result of inappropriate policies, practices and procedures?",
           "bbox": [
             39.8486328125,
@@ -8755,7 +8447,7 @@
           ]
         },
         {
-          "y": 369.1,
+          "y": 369,
           "text": "No school districts will have disproportionality",
           "bbox": [
             428.896484375,
@@ -8789,7 +8481,7 @@
           ]
         },
         {
-          "y": 379.3,
+          "y": 379,
           "text": "State target for 2007-08 that is the result of inappropriate policies,",
           "bbox": [
             39.8486328125,
@@ -8845,7 +8537,7 @@
           ]
         },
         {
-          "y": 389.6,
+          "y": 390,
           "text": "practices and procedures.",
           "bbox": [
             463.7451171875,
@@ -8879,7 +8571,7 @@
           ]
         },
         {
-          "y": 411.3,
+          "y": 411,
           "text": "Meets State target? Yes",
           "bbox": [
             39.8486328125,
@@ -8935,7 +8627,7 @@
           ]
         },
         {
-          "y": 438.8,
+          "y": 439,
           "text": "Date the district reported correction of noncompliance for this indicator if it did not meet the State target Not Applicable",
           "bbox": [
             39.8486328125,
@@ -8991,7 +8683,7 @@
           ]
         },
         {
-          "y": 465.0,
+          "y": 465,
           "text": "Indicator 11: Timely Evaluations (Child Find)",
           "bbox": [
             6.7138671875,
@@ -9025,7 +8717,7 @@
           ]
         },
         {
-          "y": 498.7,
+          "y": 499,
           "text": "If data are not provided for this indicator, see the schedule posted at http://www.vesid.nysed.gov/sedcar/sppschedule.html for the school year in which this school district will",
           "bbox": [
             11.2841796875,
@@ -9103,7 +8795,7 @@
           ]
         },
         {
-          "y": 509.0,
+          "y": 509,
           "text": "report data for this indicator.",
           "bbox": [
             11.2841796875,
@@ -9137,7 +8829,7 @@
           ]
         },
         {
-          "y": 525.1,
+          "y": 525,
           "text": "2007-08",
           "bbox": [
             491.73828125,
@@ -9171,7 +8863,7 @@
           ]
         },
         {
-          "y": 541.1,
+          "y": 541,
           "text": "Preschool School-age",
           "bbox": [
             447.7490234375,
@@ -9227,7 +8919,7 @@
           ]
         },
         {
-          "y": 562.7,
+          "y": 563,
           "text": "Number of students for whom parental consent to evaluate was received (July 1, 2007 to June 30, 2008)",
           "bbox": [
             39.8486328125,
@@ -9261,7 +8953,7 @@
           ]
         },
         {
-          "y": 590.1,
+          "y": 590,
           "text": "Number of students whose evaluations were completed within the State established timeline",
           "bbox": [
             39.8486328125,
@@ -9295,7 +8987,7 @@
           ]
         },
         {
-          "y": 617.6,
+          "y": 618,
           "text": "Number of children whose evaluations were not completed within State established time lines, but for reasons that",
           "bbox": [
             39.8486328125,
@@ -9329,7 +9021,7 @@
           ]
         },
         {
-          "y": 627.9,
+          "y": 628,
           "text": "are considered to be in compliance with State requirements",
           "bbox": [
             39.8486328125,
@@ -9363,7 +9055,7 @@
           ]
         },
         {
-          "y": 655.3,
+          "y": 655,
           "text": "Compliance Rate [Line 2 divided by (Line 1 minus Line 3)*100]",
           "bbox": [
             39.8486328125,
@@ -9397,7 +9089,7 @@
           ]
         },
         {
-          "y": 682.7,
+          "y": 683,
           "text": "State target for 2007-08 100% 100%",
           "bbox": [
             39.8486328125,
@@ -9475,7 +9167,7 @@
           ]
         },
         {
-          "y": 710.1,
+          "y": 710,
           "text": "Meets State target?",
           "bbox": [
             39.8486328125,
@@ -9509,7 +9201,7 @@
           ]
         },
         {
-          "y": 822.2,
+          "y": 822,
           "text": "Sun May 02 00:24:42 EDT 2010 420807040000 page 5 of 7",
           "bbox": [
             6.0,
@@ -9572,41 +9264,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 13.7,
-          "text": "New York State Education Department",
-          "bbox": [
-            63.8427734375,
-            13.74072265625,
-            167.9658966064453,
-            21.607372283935547
-          ],
-          "spans": [
-            {
-              "size": 5.712890625,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "New York State Education Department",
-              "origin": [
-                63.8427734375,
-                19.853515625
-              ],
-              "bbox": [
-                63.8427734375,
-                13.74072265625,
-                167.9658966064453,
-                21.607372283935547
-              ]
-            }
-          ]
-        },
-        {
-          "y": 32.4,
+          "y": 32,
           "text": "Special Education",
           "bbox": [
             63.8427734375,
@@ -9640,7 +9298,7 @@
           ]
         },
         {
-          "y": 42.7,
+          "y": 43,
           "text": "School District Data Profile for",
           "bbox": [
             63.8427734375,
@@ -9674,7 +9332,7 @@
           ]
         },
         {
-          "y": 53.0,
+          "y": 53,
           "text": "Lafayette Central School District",
           "bbox": [
             63.8427734375,
@@ -9708,41 +9366,7 @@
           ]
         },
         {
-          "y": 73.2,
-          "text": "Vocational and Educational Services for Individuals with Disabilities",
-          "bbox": [
-            63.8427734375,
-            73.15478515625,
-            248.94032287597656,
-            81.02143859863281
-          ],
-          "spans": [
-            {
-              "size": 5.712890625,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "Vocational and Educational Services for Individuals with Disabilities",
-              "origin": [
-                63.8427734375,
-                79.267578125
-              ],
-              "bbox": [
-                63.8427734375,
-                73.15478515625,
-                248.94032287597656,
-                81.02143859863281
-              ]
-            }
-          ]
-        },
-        {
-          "y": 98.2,
+          "y": 98,
           "text": "Indicator 12: Early Childhood Transition",
           "bbox": [
             6.7138671875,
@@ -9776,7 +9400,7 @@
           ]
         },
         {
-          "y": 132.0,
+          "y": 132,
           "text": "If data are not provided for this indicator, see the schedule posted at http://www.vesid.nysed.gov/sedcar/sppschedule.html for the school year in which this school district will",
           "bbox": [
             11.2841796875,
@@ -9854,7 +9478,7 @@
           ]
         },
         {
-          "y": 142.3,
+          "y": 142,
           "text": "report data for this indicator.",
           "bbox": [
             11.2841796875,
@@ -9888,7 +9512,7 @@
           ]
         },
         {
-          "y": 158.3,
+          "y": 158,
           "text": "2007-08",
           "bbox": [
             11.2841796875,
@@ -9944,7 +9568,7 @@
           ]
         },
         {
-          "y": 180.0,
+          "y": 180,
           "text": "Number of children who were served in Part C and referred to Part B for eligibility determination 0**",
           "bbox": [
             39.8486328125,
@@ -10000,7 +9624,7 @@
           ]
         },
         {
-          "y": 207.4,
+          "y": 207,
           "text": "Number of those referred determined to be NOT eligible and whose eligibilities were determined prior to their third",
           "bbox": [
             39.8486328125,
@@ -10034,7 +9658,7 @@
           ]
         },
         {
-          "y": 212.5,
+          "y": 213,
           "text": "**",
           "bbox": [
             501.4501953125,
@@ -10068,7 +9692,7 @@
           ]
         },
         {
-          "y": 217.7,
+          "y": 218,
           "text": "birthday",
           "bbox": [
             39.8486328125,
@@ -10102,7 +9726,7 @@
           ]
         },
         {
-          "y": 245.1,
+          "y": 245,
           "text": "Number of those found eligible who had an IEP developed and implemented by their third birthday **",
           "bbox": [
             39.8486328125,
@@ -10158,7 +9782,7 @@
           ]
         },
         {
-          "y": 272.5,
+          "y": 273,
           "text": "Number of children for whom delays in determination of eligibility or delays in implementing the IEP were caused by",
           "bbox": [
             39.8486328125,
@@ -10192,7 +9816,7 @@
           ]
         },
         {
-          "y": 277.7,
+          "y": 278,
           "text": "**",
           "bbox": [
             501.4501953125,
@@ -10226,7 +9850,7 @@
           ]
         },
         {
-          "y": 282.8,
+          "y": 283,
           "text": "reasons that are in \"in compliance\" with State requirements",
           "bbox": [
             39.8486328125,
@@ -10260,7 +9884,7 @@
           ]
         },
         {
-          "y": 310.2,
+          "y": 310,
           "text": "Compliance Rate [Line 3 divided by (Line 1 minus Line 2 minus Line 4) *100] **",
           "bbox": [
             39.8486328125,
@@ -10316,7 +9940,7 @@
           ]
         },
         {
-          "y": 337.6,
+          "y": 338,
           "text": "State target for 2007-08 100%",
           "bbox": [
             39.8486328125,
@@ -10372,7 +9996,7 @@
           ]
         },
         {
-          "y": 365.1,
+          "y": 365,
           "text": "Meets State target? **",
           "bbox": [
             39.8486328125,
@@ -10428,7 +10052,7 @@
           ]
         },
         {
-          "y": 386.8,
+          "y": 387,
           "text": "** 0 children referred from EI.",
           "bbox": [
             11.2841796875,
@@ -10462,7 +10086,7 @@
           ]
         },
         {
-          "y": 407.3,
+          "y": 407,
           "text": "Indicator 13: Secondary Transition",
           "bbox": [
             6.7138671875,
@@ -10496,7 +10120,7 @@
           ]
         },
         {
-          "y": 441.0,
+          "y": 441,
           "text": "If data are not provided for this indicator, see the schedule posted at http://www.vesid.nysed.gov/sedcar/sppschedule.html for the school year in which this school district will",
           "bbox": [
             11.2841796875,
@@ -10574,7 +10198,7 @@
           ]
         },
         {
-          "y": 451.3,
+          "y": 451,
           "text": "report data for this indicator.",
           "bbox": [
             11.2841796875,
@@ -10608,15 +10232,37 @@
           ]
         },
         {
-          "y": 467.4,
+          "y": 467,
           "text": "2007-08",
           "bbox": [
-            491.73828125,
-            467.3922119140625,
+            11.2841796875,
+            467.32025146484375,
             518.395751953125,
             478.4695129394531
           ],
           "spans": [
+            {
+              "size": 7.998046875,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": " ",
+              "origin": [
+                11.2841796875,
+                475.7421875
+              ],
+              "bbox": [
+                11.2841796875,
+                467.32025146484375,
+                13.28369140625,
+                477.9896240234375
+              ]
+            },
             {
               "size": 7.998046875,
               "flags": 20,
@@ -10642,7 +10288,7 @@
           ]
         },
         {
-          "y": 489.0,
+          "y": 489,
           "text": "Number of IEPs reviewed for students ages 15 and above",
           "bbox": [
             39.8486328125,
@@ -10676,7 +10322,7 @@
           ]
         },
         {
-          "y": 516.5,
+          "y": 516,
           "text": "Percent of IEPs of students ages 15 and above that include coordinated, measurable, annual IEP goals and transition",
           "bbox": [
             39.8486328125,
@@ -10710,7 +10356,7 @@
           ]
         },
         {
-          "y": 526.7,
+          "y": 527,
           "text": "services that will reasonably enable the student to meet the post-secondary goals",
           "bbox": [
             39.8486328125,
@@ -10744,7 +10390,7 @@
           ]
         },
         {
-          "y": 554.2,
+          "y": 554,
           "text": "State target for 2007-08 100%",
           "bbox": [
             39.8486328125,
@@ -10800,7 +10446,7 @@
           ]
         },
         {
-          "y": 581.6,
+          "y": 582,
           "text": "Meets State target?",
           "bbox": [
             39.8486328125,
@@ -10834,7 +10480,7 @@
           ]
         },
         {
-          "y": 609.0,
+          "y": 609,
           "text": "Date the district reported correction of noncompliance for this indicator",
           "bbox": [
             39.8486328125,
@@ -10868,7 +10514,7 @@
           ]
         },
         {
-          "y": 822.2,
+          "y": 822,
           "text": "Sun May 02 00:24:42 EDT 2010 420807040000 page 6 of 7",
           "bbox": [
             6.0,
@@ -10931,41 +10577,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 13.7,
-          "text": "New York State Education Department",
-          "bbox": [
-            63.8427734375,
-            13.74072265625,
-            167.9658966064453,
-            21.607372283935547
-          ],
-          "spans": [
-            {
-              "size": 5.712890625,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "New York State Education Department",
-              "origin": [
-                63.8427734375,
-                19.853515625
-              ],
-              "bbox": [
-                63.8427734375,
-                13.74072265625,
-                167.9658966064453,
-                21.607372283935547
-              ]
-            }
-          ]
-        },
-        {
-          "y": 32.4,
+          "y": 32,
           "text": "Special Education",
           "bbox": [
             63.8427734375,
@@ -10999,7 +10611,7 @@
           ]
         },
         {
-          "y": 42.7,
+          "y": 43,
           "text": "School District Data Profile for",
           "bbox": [
             63.8427734375,
@@ -11033,7 +10645,7 @@
           ]
         },
         {
-          "y": 53.0,
+          "y": 53,
           "text": "Lafayette Central School District",
           "bbox": [
             63.8427734375,
@@ -11067,41 +10679,7 @@
           ]
         },
         {
-          "y": 73.2,
-          "text": "Vocational and Educational Services for Individuals with Disabilities",
-          "bbox": [
-            63.8427734375,
-            73.15478515625,
-            248.94032287597656,
-            81.02143859863281
-          ],
-          "spans": [
-            {
-              "size": 5.712890625,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "Vocational and Educational Services for Individuals with Disabilities",
-              "origin": [
-                63.8427734375,
-                79.267578125
-              ],
-              "bbox": [
-                63.8427734375,
-                73.15478515625,
-                248.94032287597656,
-                81.02143859863281
-              ]
-            }
-          ]
-        },
-        {
-          "y": 98.2,
+          "y": 98,
           "text": "Indicator 14: Post-School Outcomes",
           "bbox": [
             6.7138671875,
@@ -11135,7 +10713,7 @@
           ]
         },
         {
-          "y": 132.0,
+          "y": 132,
           "text": "Data for this indicator will be posted beginning June 2008, in accordance with the schedule posted at http://www.vesid.nysed.gov/sedcar/sppschedule.html .",
           "bbox": [
             11.2841796875,
@@ -11213,7 +10791,7 @@
           ]
         },
         {
-          "y": 148.0,
+          "y": 148,
           "text": "2007-08",
           "bbox": [
             11.2841796875,
@@ -11269,7 +10847,7 @@
           ]
         },
         {
-          "y": 169.7,
+          "y": 170,
           "text": "Number of students interviewed to assess post-school outcomes one year after leaving high school",
           "bbox": [
             39.8486328125,
@@ -11303,7 +10881,7 @@
           ]
         },
         {
-          "y": 197.1,
+          "y": 197,
           "text": "Percent of students who had IEPs, are no longer in secondary school, and who have been enrolled in some type of",
           "bbox": [
             39.8486328125,
@@ -11337,7 +10915,7 @@
           ]
         },
         {
-          "y": 207.4,
+          "y": 207,
           "text": "post-secondary school AND have been competitively employed within one year of leaving high school",
           "bbox": [
             39.8486328125,
@@ -11371,7 +10949,7 @@
           ]
         },
         {
-          "y": 234.8,
+          "y": 235,
           "text": "Percent of students who had IEPs, are no longer in secondary school, and who have been enrolled in some type of",
           "bbox": [
             39.8486328125,
@@ -11405,7 +10983,7 @@
           ]
         },
         {
-          "y": 245.1,
+          "y": 245,
           "text": "post-secondary school within one year of leaving high school",
           "bbox": [
             39.8486328125,
@@ -11439,7 +11017,7 @@
           ]
         },
         {
-          "y": 272.5,
+          "y": 273,
           "text": "Percent of students who had IEPs, are no longer in secondary school, and have been competitively employed within",
           "bbox": [
             39.8486328125,
@@ -11473,7 +11051,7 @@
           ]
         },
         {
-          "y": 282.8,
+          "y": 283,
           "text": "one year of leaving high school",
           "bbox": [
             39.8486328125,
@@ -11507,7 +11085,7 @@
           ]
         },
         {
-          "y": 310.2,
+          "y": 310,
           "text": "Percent of students who had IEPs, are no longer in secondary school, and who have been enrolled in some type of",
           "bbox": [
             39.8486328125,
@@ -11541,7 +11119,7 @@
           ]
         },
         {
-          "y": 320.5,
+          "y": 320,
           "text": "post-secondary school, have been competitively employed, or both, within one year of leaving high school (sum of",
           "bbox": [
             39.8486328125,
@@ -11575,7 +11153,7 @@
           ]
         },
         {
-          "y": 330.8,
+          "y": 331,
           "text": "the three percentages above)",
           "bbox": [
             39.8486328125,
@@ -11609,7 +11187,7 @@
           ]
         },
         {
-          "y": 358.2,
+          "y": 358,
           "text": "State target for 2007-08 92%",
           "bbox": [
             39.8486328125,
@@ -11665,7 +11243,7 @@
           ]
         },
         {
-          "y": 385.6,
+          "y": 386,
           "text": "Meets State target?",
           "bbox": [
             39.8486328125,
@@ -11699,7 +11277,7 @@
           ]
         },
         {
-          "y": 822.2,
+          "y": 822,
           "text": "Sun May 02 00:24:42 EDT 2010 420807040000 page 7 of 7",
           "bbox": [
             6.0,

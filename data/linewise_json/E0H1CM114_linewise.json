@@ -7,7 +7,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72.1,
+          "y": 72,
           "text": "Ontario’s Libraries",
           "bbox": [
             95.44059753417969,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 94.6,
+          "y": 95,
           "text": "Working Together",
           "bbox": [
             95.44059753417969,
@@ -75,15 +75,37 @@
           ]
         },
         {
-          "y": 156.5,
-          "text": "RFP: R RFP: Request f quest f quest for Pr r Pr r Proposal oposal",
+          "y": 157,
+          "text": "RFP: R RFP: R RFP: R RFP: Request f quest f quest f quest for Pr r Pr r Pr r Proposal oposal oposal",
           "bbox": [
-            90.05634307861328,
+            90.02429962158203,
             156.5159454345703,
             497.4065246582031,
             201.91665649414062
           ],
           "spans": [
+            {
+              "size": 32.040000915527344,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial-Black",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.100000023841858,
+              "descender": -0.3089999854564667,
+              "text": "RFP: R",
+              "origin": [
+                90.02429962158203,
+                192.01629638671875
+              ],
+              "bbox": [
+                90.02429962158203,
+                156.7722930908203,
+                193.74102783203125,
+                201.91665649414062
+              ]
+            },
             {
               "size": 32.040000915527344,
               "flags": 0,
@@ -104,6 +126,28 @@
                 156.5159454345703,
                 193.7730712890625,
                 201.66030883789062
+              ]
+            },
+            {
+              "size": 32.040000915527344,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial-Black",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.100000023841858,
+              "descender": -0.3089999854564667,
+              "text": "RFP: R",
+              "origin": [
+                90.28062438964844,
+                192.01629638671875
+              ],
+              "bbox": [
+                90.28062438964844,
+                156.7722930908203,
+                193.99734497070312,
+                201.91665649414062
               ]
             },
             {
@@ -160,6 +204,28 @@
               "alpha": 255,
               "ascender": 1.100000023841858,
               "descender": -0.3089999854564667,
+              "text": "quest f",
+              "origin": [
+                209.66168212890625,
+                192.01629638671875
+              ],
+              "bbox": [
+                209.66168212890625,
+                156.7722930908203,
+                316.3356628417969,
+                201.91665649414062
+              ]
+            },
+            {
+              "size": 32.040000915527344,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial-Black",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.100000023841858,
+              "descender": -0.3089999854564667,
               "text": "quest for Pr",
               "origin": [
                 209.66168212890625,
@@ -192,6 +258,28 @@
                 156.5159454345703,
                 387.21136474609375,
                 201.66030883789062
+              ]
+            },
+            {
+              "size": 32.040000915527344,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial-Black",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.100000023841858,
+              "descender": -0.3089999854564667,
+              "text": "r Pr",
+              "origin": [
+                332.310791015625,
+                192.01629638671875
+              ],
+              "bbox": [
+                332.310791015625,
+                156.7722930908203,
+                387.3715515136719,
+                201.91665649414062
               ]
             },
             {
@@ -250,113 +338,13 @@
               "descender": -0.3089999854564667,
               "text": "oposal",
               "origin": [
-                385.561279296875,
-                191.75994873046875
-              ],
-              "bbox": [
-                385.561279296875,
-                156.5159454345703,
-                489.32281494140625,
-                201.66030883789062
-              ]
-            }
-          ]
-        },
-        {
-          "y": 156.8,
-          "text": "RFP: R RFP: R quest f r Pr oposal",
-          "bbox": [
-            90.02429962158203,
-            156.7722930908203,
-            489.290771484375,
-            201.91665649414062
-          ],
-          "spans": [
-            {
-              "size": 32.040000915527344,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial-Black",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.100000023841858,
-              "descender": -0.3089999854564667,
-              "text": "RFP: R",
-              "origin": [
-                90.02429962158203,
+                385.52923583984375,
                 192.01629638671875
               ],
               "bbox": [
-                90.02429962158203,
+                385.52923583984375,
                 156.7722930908203,
-                193.74102783203125,
-                201.91665649414062
-              ]
-            },
-            {
-              "size": 32.040000915527344,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial-Black",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.100000023841858,
-              "descender": -0.3089999854564667,
-              "text": "RFP: R",
-              "origin": [
-                90.28062438964844,
-                192.01629638671875
-              ],
-              "bbox": [
-                90.28062438964844,
-                156.7722930908203,
-                193.99734497070312,
-                201.91665649414062
-              ]
-            },
-            {
-              "size": 32.040000915527344,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial-Black",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.100000023841858,
-              "descender": -0.3089999854564667,
-              "text": "quest f",
-              "origin": [
-                209.66168212890625,
-                192.01629638671875
-              ],
-              "bbox": [
-                209.66168212890625,
-                156.7722930908203,
-                316.3356628417969,
-                201.91665649414062
-              ]
-            },
-            {
-              "size": 32.040000915527344,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial-Black",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.100000023841858,
-              "descender": -0.3089999854564667,
-              "text": "r Pr",
-              "origin": [
-                332.310791015625,
-                192.01629638671875
-              ],
-              "bbox": [
-                332.310791015625,
-                156.7722930908203,
-                387.3715515136719,
+                489.290771484375,
                 201.91665649414062
               ]
             },
@@ -372,20 +360,20 @@
               "descender": -0.3089999854564667,
               "text": "oposal",
               "origin": [
-                385.52923583984375,
-                192.01629638671875
+                385.561279296875,
+                191.75994873046875
               ],
               "bbox": [
-                385.52923583984375,
-                156.7722930908203,
-                489.290771484375,
-                201.91665649414062
+                385.561279296875,
+                156.5159454345703,
+                489.32281494140625,
+                201.66030883789062
               ]
             }
           ]
         },
         {
-          "y": 248.4,
+          "y": 248,
           "text": "To Present a Proposal for Developing",
           "bbox": [
             131.80059814453125,
@@ -419,7 +407,7 @@
           ]
         },
         {
-          "y": 276.0,
+          "y": 276,
           "text": "the Business Plan for the Ontario",
           "bbox": [
             131.80059814453125,
@@ -453,7 +441,7 @@
           ]
         },
         {
-          "y": 303.6,
+          "y": 304,
           "text": "Digital Library",
           "bbox": [
             131.80059814453125,
@@ -487,7 +475,7 @@
           ]
         },
         {
-          "y": 342.5,
+          "y": 342,
           "text": "March 21, 2003",
           "bbox": [
             238.2406005859375,
@@ -521,7 +509,7 @@
           ]
         },
         {
-          "y": 694.3,
+          "y": 694,
           "text": "The Ontario Digital Library will make Ontario a better place to study, work and live by ensuring that",
           "bbox": [
             91.6651611328125,
@@ -555,7 +543,7 @@
           ]
         },
         {
-          "y": 708.2,
+          "y": 708,
           "text": "all Ontario citizens have access to the knowledge and learning supports needed to be life-long",
           "bbox": [
             91.66511535644531,
@@ -589,7 +577,7 @@
           ]
         },
         {
-          "y": 722.1,
+          "y": 722,
           "text": "learners and effective contributors towards Ontario’s prosperity.",
           "bbox": [
             91.66506958007812,
@@ -630,7 +618,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 88.6,
+          "y": 89,
           "text": "Ontario’s Digital Library",
           "bbox": [
             90.04060363769531,
@@ -664,7 +652,7 @@
           ]
         },
         {
-          "y": 120.3,
+          "y": 120,
           "text": "A Critical Component for Implementing Ontario’s Road Map to",
           "bbox": [
             90.04060363769531,
@@ -698,7 +686,7 @@
           ]
         },
         {
-          "y": 138.7,
+          "y": 139,
           "text": "Prosperity Strategy",
           "bbox": [
             90.04060363769531,
@@ -732,7 +720,7 @@
           ]
         },
         {
-          "y": 195.7,
+          "y": 196,
           "text": "Summary",
           "bbox": [
             96.04060363769531,
@@ -766,7 +754,7 @@
           ]
         },
         {
-          "y": 228.6,
+          "y": 229,
           "text": "The purpose of this Request for Proposal ( RFP ) is to invite firms and/or consultants to",
           "bbox": [
             96.04060363769531,
@@ -888,7 +876,7 @@
           ]
         },
         {
-          "y": 241.2,
+          "y": 241,
           "text": "present a proposal for developing the business plan for the Ontario Digital Library (ODL).",
           "bbox": [
             96.04061889648438,
@@ -944,7 +932,7 @@
           ]
         },
         {
-          "y": 253.9,
+          "y": 254,
           "text": "The ODL will deliver high-quality library electronic content to all Ontario residents in order to",
           "bbox": [
             96.04061889648438,
@@ -978,7 +966,7 @@
           ]
         },
         {
-          "y": 266.6,
+          "y": 267,
           "text": "assist people as they learn, work, and enhance their quality of life. The business plan to be",
           "bbox": [
             96.04061889648438,
@@ -1012,7 +1000,7 @@
           ]
         },
         {
-          "y": 279.2,
+          "y": 279,
           "text": "developed is to document and clearly communicate:",
           "bbox": [
             96.04061889648438,
@@ -1046,7 +1034,7 @@
           ]
         },
         {
-          "y": 303.9,
+          "y": 304,
           "text": "how the ODL will be implemented, including the timeline",
           "bbox": [
             132.04205322265625,
@@ -1080,7 +1068,7 @@
           ]
         },
         {
-          "y": 316.5,
+          "y": 317,
           "text": "the financial plan for the implementation",
           "bbox": [
             132.04205322265625,
@@ -1114,7 +1102,7 @@
           ]
         },
         {
-          "y": 329.1,
+          "y": 329,
           "text": "the financial plan for the first 2 operating years, including capital and operating costs,",
           "bbox": [
             132.04205322265625,
@@ -1148,7 +1136,7 @@
           ]
         },
         {
-          "y": 341.8,
+          "y": 342,
           "text": "revenues, etc.",
           "bbox": [
             132.63821411132812,
@@ -1182,7 +1170,7 @@
           ]
         },
         {
-          "y": 354.4,
+          "y": 354,
           "text": "a financial forecast for the succeeding 2 operating years",
           "bbox": [
             132.04200744628906,
@@ -1216,7 +1204,7 @@
           ]
         },
         {
-          "y": 367.1,
+          "y": 367,
           "text": "the services and products to be delivered by the ODL",
           "bbox": [
             132.04200744628906,
@@ -1250,7 +1238,7 @@
           ]
         },
         {
-          "y": 379.7,
+          "y": 380,
           "text": "how the ODL will operate and be managed following the implementation",
           "bbox": [
             132.04200744628906,
@@ -1284,7 +1272,7 @@
           ]
         },
         {
-          "y": 392.3,
+          "y": 392,
           "text": "who will be involved, and what their role/responsibility will be, for both the",
           "bbox": [
             132.04200744628906,
@@ -1318,7 +1306,7 @@
           ]
         },
         {
-          "y": 405.1,
+          "y": 405,
           "text": "implementation and operational stages",
           "bbox": [
             132.63816833496094,
@@ -1352,7 +1340,7 @@
           ]
         },
         {
-          "y": 417.7,
+          "y": 418,
           "text": "the marketing and communications plan for the ODL",
           "bbox": [
             132.04200744628906,
@@ -1386,7 +1374,7 @@
           ]
         },
         {
-          "y": 443.0,
+          "y": 443,
           "text": "This business plan must be completed and approved by the ODL Steering Committee no",
           "bbox": [
             96.04057312011719,
@@ -1420,7 +1408,7 @@
           ]
         },
         {
-          "y": 455.6,
+          "y": 456,
           "text": "later than September 30, 2003",
           "bbox": [
             96.04061126708984,
@@ -1454,7 +1442,7 @@
           ]
         },
         {
-          "y": 480.3,
+          "y": 480,
           "text": "Timeline:",
           "bbox": [
             96.04061126708984,
@@ -1488,7 +1476,7 @@
           ]
         },
         {
-          "y": 504.9,
+          "y": 505,
           "text": "Those firms/consultants intended to submit a proposal to this RFP must indicate their",
           "bbox": [
             96.04061126708984,
@@ -1522,7 +1510,7 @@
           ]
         },
         {
-          "y": 516.3,
+          "y": 516,
           "text": "th",
           "bbox": [
             481.0006103515625,
@@ -1556,7 +1544,7 @@
           ]
         },
         {
-          "y": 517.6,
+          "y": 518,
           "text": "intention to do so in an e-mail to Michael Ridley ( mridley@uoguelph.ca ) by April 11 .",
           "bbox": [
             96.04061126708984,
@@ -1678,7 +1666,7 @@
           ]
         },
         {
-          "y": 542.2,
+          "y": 542,
           "text": "Proposals may be e-mailed, mailed, couriered or faxed to: Larry Moore",
           "bbox": [
             96.04110717773438,
@@ -1712,7 +1700,7 @@
           ]
         },
         {
-          "y": 554.8,
+          "y": 555,
           "text": "( lmoore@accessola.com ), Executive Director, The Ontario Library Association,",
           "bbox": [
             96.04110717773438,
@@ -1790,7 +1778,7 @@
           ]
         },
         {
-          "y": 555.8,
+          "y": 556,
           "text": "100 Lombard",
           "bbox": [
             463.360595703125,
@@ -1824,7 +1812,7 @@
           ]
         },
         {
-          "y": 567.6,
+          "y": 568,
           "text": "Proposals must be received by Noon on Monday,",
           "bbox": [
             269.0805969238281,
@@ -1880,7 +1868,7 @@
           ]
         },
         {
-          "y": 568.5,
+          "y": 569,
           "text": "St., Suite 303, Toronto, ON M5C 1M3.",
           "bbox": [
             96.04574584960938,
@@ -1914,7 +1902,7 @@
           ]
         },
         {
-          "y": 580.2,
+          "y": 580,
           "text": "April 21, 2003.",
           "bbox": [
             96.03964233398438,
@@ -1948,7 +1936,7 @@
           ]
         },
         {
-          "y": 604.9,
+          "y": 605,
           "text": "Those proposals that are short-listed will be invited to discuss their proposal during the week",
           "bbox": [
             96.03964233398438,
@@ -1982,7 +1970,7 @@
           ]
         },
         {
-          "y": 617.5,
+          "y": 617,
           "text": "of April 28, 2003 . No presentation will be expected. Firms or consultants invited to an",
           "bbox": [
             96.03964233398438,
@@ -2060,7 +2048,7 @@
           ]
         },
         {
-          "y": 630.2,
+          "y": 630,
           "text": "interview will be expected to discuss the project and their approach with the selection",
           "bbox": [
             96.0396499633789,
@@ -2094,7 +2082,7 @@
           ]
         },
         {
-          "y": 642.8,
+          "y": 643,
           "text": "committee .",
           "bbox": [
             96.0396499633789,
@@ -2150,7 +2138,7 @@
           ]
         },
         {
-          "y": 667.4,
+          "y": 667,
           "text": "Contracts with the firm/consultant will be signed the week of May 5, 2003 with the work to",
           "bbox": [
             96.03965759277344,
@@ -2228,7 +2216,7 @@
           ]
         },
         {
-          "y": 680.1,
+          "y": 680,
           "text": "commence as soon as possible thereafter.",
           "bbox": [
             96.05068969726562,
@@ -2262,12 +2250,12 @@
           ]
         },
         {
-          "y": 731.0,
+          "y": 731,
           "text": "2",
           "bbox": [
             516.640625,
             730.9798583984375,
-            522.6436157226562,
+            524.650634765625,
             743.660888671875
           ],
           "spans": [
@@ -2292,11 +2280,33 @@
                 522.6436157226562,
                 743.660888671875
               ]
+            },
+            {
+              "size": 9.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": " ",
+              "origin": [
+                522.400634765625,
+                740.8798828125
+              ],
+              "bbox": [
+                522.400634765625,
+                731.4028930664062,
+                524.650634765625,
+                743.4088745117188
+              ]
             }
           ]
         },
         {
-          "y": 734.0,
+          "y": 734,
           "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
           "bbox": [
             90.04060363769531,
@@ -2359,7 +2369,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72.2,
+          "y": 72,
           "text": "Please note that we reserve the right not to select any of the submitted proposals and may",
           "bbox": [
             96.04060363769531,
@@ -2393,7 +2403,7 @@
           ]
         },
         {
-          "y": 84.8,
+          "y": 85,
           "text": "seek further response to these Terms of Reference.",
           "bbox": [
             96.04060363769531,
@@ -2427,7 +2437,7 @@
           ]
         },
         {
-          "y": 109.5,
+          "y": 110,
           "text": "If you require further information or have any questions, please contact Michael Ridley by e-",
           "bbox": [
             96.04060363769531,
@@ -2461,7 +2471,7 @@
           ]
         },
         {
-          "y": 122.1,
+          "y": 122,
           "text": "mail ( mridley@uoguelph.ca ) only by 3:00 p.m. on Friday April 18th . All questions and",
           "bbox": [
             96.04060363769531,
@@ -2627,7 +2637,7 @@
           ]
         },
         {
-          "y": 134.8,
+          "y": 135,
           "text": "responses will be shared with those who have indicated that they will be submitting a",
           "bbox": [
             96.01852416992188,
@@ -2661,7 +2671,7 @@
           ]
         },
         {
-          "y": 147.4,
+          "y": 147,
           "text": "proposal. Please note, that firms/consultants who have not indicated in an e-mail to Michael",
           "bbox": [
             96.01852416992188,
@@ -2695,7 +2705,7 @@
           ]
         },
         {
-          "y": 158.7,
+          "y": 159,
           "text": "th",
           "bbox": [
             184.96060180664062,
@@ -2729,7 +2739,7 @@
           ]
         },
         {
-          "y": 160.0,
+          "y": 160,
           "text": "Ridley by April 11 that they will be submitting a proposal will not receive any further",
           "bbox": [
             96.01852416992188,
@@ -2785,7 +2795,7 @@
           ]
         },
         {
-          "y": 172.8,
+          "y": 173,
           "text": "information or question responses.",
           "bbox": [
             96.0362777709961,
@@ -2819,7 +2829,7 @@
           ]
         },
         {
-          "y": 206.2,
+          "y": 206,
           "text": "Background",
           "bbox": [
             96.04060363769531,
@@ -2853,7 +2863,7 @@
           ]
         },
         {
-          "y": 239.1,
+          "y": 239,
           "text": "First, some background on the ODL. For the last two years the Ontario Library Association",
           "bbox": [
             90.04060363769531,
@@ -2887,7 +2897,7 @@
           ]
         },
         {
-          "y": 251.7,
+          "y": 252,
           "text": "has acted as a catalyst, bringing together the stakeholders needed to create the Ontario",
           "bbox": [
             90.04060363769531,
@@ -2921,7 +2931,7 @@
           ]
         },
         {
-          "y": 264.3,
+          "y": 264,
           "text": "Digital Library (ODL). These stakeholders include Ontario’s 5000+ public libraries, university,",
           "bbox": [
             90.04060363769531,
@@ -2955,7 +2965,7 @@
           ]
         },
         {
-          "y": 277.0,
+          "y": 277,
           "text": "college, and school libraries, as well as Ontario government ministries.",
           "bbox": [
             90.04060363769531,
@@ -2989,7 +2999,7 @@
           ]
         },
         {
-          "y": 301.6,
+          "y": 302,
           "text": "Libraries that serve very different clientele recognize that by working together they can create",
           "bbox": [
             90.04060363769531,
@@ -3023,7 +3033,7 @@
           ]
         },
         {
-          "y": 314.4,
+          "y": 314,
           "text": "seamless access to quality electronic library services. Through the ODL, students will be",
           "bbox": [
             90.04060363769531,
@@ -3057,7 +3067,7 @@
           ]
         },
         {
-          "y": 327.0,
+          "y": 327,
           "text": "able to explore a topic at school, use the same child-safe resources after school (either at",
           "bbox": [
             90.04060363769531,
@@ -3091,7 +3101,7 @@
           ]
         },
         {
-          "y": 339.5,
+          "y": 340,
           "text": "home or at a public library), enter college or university with a knowledge of how to use",
           "bbox": [
             90.04060363769531,
@@ -3125,7 +3135,7 @@
           ]
         },
         {
-          "y": 352.3,
+          "y": 352,
           "text": "electronic resources that are still available and then, after graduation, continue to use these",
           "bbox": [
             90.04060363769531,
@@ -3159,7 +3169,7 @@
           ]
         },
         {
-          "y": 364.9,
+          "y": 365,
           "text": "skills and resources at work or at home.",
           "bbox": [
             90.04060363769531,
@@ -3193,7 +3203,7 @@
           ]
         },
         {
-          "y": 389.6,
+          "y": 390,
           "text": "We are moving into a period of convergence. With convergence we no longer have to license",
           "bbox": [
             90.04060363769531,
@@ -3227,7 +3237,7 @@
           ]
         },
         {
-          "y": 402.2,
+          "y": 402,
           "text": "commercial products as individual libraries or institutions. We can work together to spend our",
           "bbox": [
             90.04060363769531,
@@ -3261,7 +3271,7 @@
           ]
         },
         {
-          "y": 414.8,
+          "y": 415,
           "text": "money wisely. The provincial government has made this possible by working hard to provide",
           "bbox": [
             90.04060363769531,
@@ -3295,7 +3305,7 @@
           ]
         },
         {
-          "y": 427.5,
+          "y": 427,
           "text": "all Ontarians with a stable, high-speed communications infrastructure. While there is still a",
           "bbox": [
             90.04060363769531,
@@ -3329,7 +3339,7 @@
           ]
         },
         {
-          "y": 440.1,
+          "y": 440,
           "text": "great deal of work needed to improve this infrastructure, libraries are beginning to plan how",
           "bbox": [
             90.04060363769531,
@@ -3363,7 +3373,7 @@
           ]
         },
         {
-          "y": 452.8,
+          "y": 453,
           "text": "best to exploit communications technology. We can reduce barriers to access and create the",
           "bbox": [
             90.04060363769531,
@@ -3397,7 +3407,7 @@
           ]
         },
         {
-          "y": 465.4,
+          "y": 465,
           "text": "content infrastructure needed to support a knowledge society.",
           "bbox": [
             90.04060363769531,
@@ -3431,7 +3441,7 @@
           ]
         },
         {
-          "y": 490.0,
+          "y": 490,
           "text": "The concept of an ODL is a key element in The Roadmap to Prosperity , a strategic plan to",
           "bbox": [
             90.04060363769531,
@@ -3509,7 +3519,7 @@
           ]
         },
         {
-          "y": 502.7,
+          "y": 503,
           "text": "envision and attain Ontario’s economic goal prepared by the Ontario Jobs and Investment",
           "bbox": [
             90.04061889648438,
@@ -3543,7 +3553,7 @@
           ]
         },
         {
-          "y": 515.3,
+          "y": 515,
           "text": "Board. The OJIB strategic plan recommends an electronic library to “connect students to new",
           "bbox": [
             90.04061889648438,
@@ -3577,7 +3587,7 @@
           ]
         },
         {
-          "y": 528.0,
+          "y": 528,
           "text": "workplaces, new sources of information and applied learning opportunities”. The ODL will do",
           "bbox": [
             90.04061889648438,
@@ -3611,7 +3621,7 @@
           ]
         },
         {
-          "y": 540.6,
+          "y": 541,
           "text": "that and much more. The ODL will connect students to electronic information, and will also",
           "bbox": [
             90.04061889648438,
@@ -3645,7 +3655,7 @@
           ]
         },
         {
-          "y": 553.2,
+          "y": 553,
           "text": "leverage this investment to help connect all citizens to the electronic information they need as",
           "bbox": [
             90.04061889648438,
@@ -3679,7 +3689,7 @@
           ]
         },
         {
-          "y": 565.9,
+          "y": 566,
           "text": "they make decisions, solve problems and enhance their quality of life.",
           "bbox": [
             90.04061889648438,
@@ -3713,7 +3723,7 @@
           ]
         },
         {
-          "y": 591.3,
+          "y": 591,
           "text": "Libraries have long been a key delivery point for public services. The ODL will allow that",
           "bbox": [
             90.04061889648438,
@@ -3747,7 +3757,7 @@
           ]
         },
         {
-          "y": 603.9,
+          "y": 604,
           "text": "delivery point to move closer to citizens, into the smallest of libraries and even into living",
           "bbox": [
             90.04061889648438,
@@ -3781,7 +3791,7 @@
           ]
         },
         {
-          "y": 616.6,
+          "y": 617,
           "text": "rooms.",
           "bbox": [
             90.04061889648438,
@@ -3815,7 +3825,7 @@
           ]
         },
         {
-          "y": 641.8,
+          "y": 642,
           "text": "Libraries have a long tradition of using a practical, consultative approach to solving problems,",
           "bbox": [
             90.04061889648438,
@@ -3849,7 +3859,7 @@
           ]
         },
         {
-          "y": 654.5,
+          "y": 655,
           "text": "and of learning from others. The ODL is a very practical solution to various problems.",
           "bbox": [
             90.04061889648438,
@@ -3883,7 +3893,7 @@
           ]
         },
         {
-          "y": 679.8,
+          "y": 680,
           "text": "Jurisdiction-wide digital libraries are very practical and very real. The ODL we propose is",
           "bbox": [
             90.04061889648438,
@@ -3917,7 +3927,7 @@
           ]
         },
         {
-          "y": 692.4,
+          "y": 692,
           "text": "leading edge for Ontario but several jurisdictions have forged the path with collaborative",
           "bbox": [
             90.04061889648438,
@@ -3951,7 +3961,7 @@
           ]
         },
         {
-          "y": 705.0,
+          "y": 705,
           "text": "digital libraries. We can learn from their experiences. For example, The Alberta Library (TAL)",
           "bbox": [
             90.04061889648438,
@@ -3985,12 +3995,12 @@
           ]
         },
         {
-          "y": 731.0,
+          "y": 731,
           "text": "3",
           "bbox": [
             516.640625,
             730.9798583984375,
-            522.6436157226562,
+            524.650634765625,
             743.660888671875
           ],
           "spans": [
@@ -4015,11 +4025,33 @@
                 522.6436157226562,
                 743.660888671875
               ]
+            },
+            {
+              "size": 9.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": " ",
+              "origin": [
+                522.400634765625,
+                740.8798828125
+              ],
+              "bbox": [
+                522.400634765625,
+                731.4028930664062,
+                524.650634765625,
+                743.4088745117188
+              ]
             }
           ]
         },
         {
-          "y": 734.0,
+          "y": 734,
           "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
           "bbox": [
             90.04060363769531,
@@ -4082,7 +4114,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72.1,
+          "y": 72,
           "text": "was incorporated in 1997 as a province-wide library consortium. TAL works collaboratively",
           "bbox": [
             90.03279876708984,
@@ -4116,7 +4148,7 @@
           ]
         },
         {
-          "y": 84.7,
+          "y": 85,
           "text": "with its members to promote universal access to materials and resources in more than 250",
           "bbox": [
             90.0327377319336,
@@ -4150,7 +4182,7 @@
           ]
         },
         {
-          "y": 97.4,
+          "y": 97,
           "text": "public, post-secondary, special, government and regional libraries. Unlike ODL, TAL does",
           "bbox": [
             90.0327377319336,
@@ -4184,7 +4216,7 @@
           ]
         },
         {
-          "y": 110.0,
+          "y": 110,
           "text": "not include elementary or secondary schools. However, the timeline and funding we are",
           "bbox": [
             90.0327377319336,
@@ -4218,7 +4250,7 @@
           ]
         },
         {
-          "y": 122.7,
+          "y": 123,
           "text": "proposing for ODL is comparable to TAL‘s experience. TAL’s business planning took several",
           "bbox": [
             90.0327377319336,
@@ -4252,7 +4284,7 @@
           ]
         },
         {
-          "y": 135.3,
+          "y": 135,
           "text": "years. TAL’s implementation plan was supported by 8 million dollars in provincially shared",
           "bbox": [
             90.0327377319336,
@@ -4286,7 +4318,7 @@
           ]
         },
         {
-          "y": 147.9,
+          "y": 148,
           "text": "funding, spread over three years, later revised to 15 million dollars over 4 years. Not only is",
           "bbox": [
             90.0327377319336,
@@ -4320,7 +4352,7 @@
           ]
         },
         {
-          "y": 160.7,
+          "y": 161,
           "text": "Alberta’s population 30% of Ontario’s, TAL does not include elementary or secondary",
           "bbox": [
             90.0327377319336,
@@ -4354,7 +4386,7 @@
           ]
         },
         {
-          "y": 173.3,
+          "y": 173,
           "text": "schools as partners; it has 250 member libraries. ODL envisions universal access for all",
           "bbox": [
             90.0327377319336,
@@ -4388,7 +4420,7 @@
           ]
         },
         {
-          "y": 186.0,
+          "y": 186,
           "text": "10,000,000 Ontarians, with more than 5000 Ontario libraries as partners. Although ODL can",
           "bbox": [
             90.0327377319336,
@@ -4422,7 +4454,7 @@
           ]
         },
         {
-          "y": 198.6,
+          "y": 199,
           "text": "learn from TAL’s practices, the scope of planning and implementing ODL is much larger than",
           "bbox": [
             90.0327377319336,
@@ -4456,7 +4488,7 @@
           ]
         },
         {
-          "y": 211.2,
+          "y": 211,
           "text": "TAL.",
           "bbox": [
             90.0327377319336,
@@ -4490,7 +4522,7 @@
           ]
         },
         {
-          "y": 236.5,
+          "y": 236,
           "text": "The ODL will be a partnership-based organization providing seamless electronic information",
           "bbox": [
             90.0327377319336,
@@ -4524,7 +4556,7 @@
           ]
         },
         {
-          "y": 249.2,
+          "y": 249,
           "text": "services and resources to the citizens of Ontario. It will use local libraries as the entry point for",
           "bbox": [
             90.0327377319336,
@@ -4558,7 +4590,7 @@
           ]
         },
         {
-          "y": 261.8,
+          "y": 262,
           "text": "common resources The ODL will recognize the unique responsibilities and needs of public",
           "bbox": [
             90.0327377319336,
@@ -4592,7 +4624,7 @@
           ]
         },
         {
-          "y": 274.5,
+          "y": 275,
           "text": "libraries, school libraries, college and university libraries and special libraries. The ODL",
           "bbox": [
             90.0327377319336,
@@ -4626,7 +4658,7 @@
           ]
         },
         {
-          "y": 287.1,
+          "y": 287,
           "text": "envisions a digital network of information resources, allowing members to collaborate when",
           "bbox": [
             90.0327377319336,
@@ -4660,7 +4692,7 @@
           ]
         },
         {
-          "y": 299.7,
+          "y": 300,
           "text": "there is mutual benefit and to support the common mandates of local libraries.",
           "bbox": [
             90.0327377319336,
@@ -4694,7 +4726,7 @@
           ]
         },
         {
-          "y": 324.4,
+          "y": 324,
           "text": "The principles which will define and guide the ODL are:",
           "bbox": [
             90.0327377319336,
@@ -4728,7 +4760,7 @@
           ]
         },
         {
-          "y": 349.0,
+          "y": 349,
           "text": "Equitable access for all Ontarians:",
           "bbox": [
             90.0327377319336,
@@ -4762,7 +4794,7 @@
           ]
         },
         {
-          "y": 373.8,
+          "y": 374,
           "text": "We will bring consistent, high-quality electronic resources and services to 10 million",
           "bbox": [
             108.02793884277344,
@@ -4796,7 +4828,7 @@
           ]
         },
         {
-          "y": 386.4,
+          "y": 386,
           "text": "Ontario citizens",
           "bbox": [
             108.02793884277344,
@@ -4830,7 +4862,7 @@
           ]
         },
         {
-          "y": 410.9,
+          "y": 411,
           "text": "We will eliminate barriers to the access to information and create more consistent",
           "bbox": [
             108.02793884277344,
@@ -4864,7 +4896,7 @@
           ]
         },
         {
-          "y": 423.7,
+          "y": 424,
           "text": "services for library clients.",
           "bbox": [
             108.02793884277344,
@@ -4898,7 +4930,7 @@
           ]
         },
         {
-          "y": 448.3,
+          "y": 448,
           "text": "Shared decision-making and accountability:",
           "bbox": [
             90.0327377319336,
@@ -4932,7 +4964,7 @@
           ]
         },
         {
-          "y": 473.0,
+          "y": 473,
           "text": "We will facilitate consensus among members regarding ODL’s portfolio of electronic",
           "bbox": [
             108.02793884277344,
@@ -4966,7 +4998,7 @@
           ]
         },
         {
-          "y": 485.6,
+          "y": 486,
           "text": "licenses and services",
           "bbox": [
             108.02793884277344,
@@ -5000,7 +5032,7 @@
           ]
         },
         {
-          "y": 510.2,
+          "y": 510,
           "text": "We will balance the interests and realities of small and large as well as rich and poor",
           "bbox": [
             108.02793884277344,
@@ -5034,7 +5066,7 @@
           ]
         },
         {
-          "y": 522.9,
+          "y": 523,
           "text": "communities and institutions.",
           "bbox": [
             108.02793884277344,
@@ -5068,7 +5100,7 @@
           ]
         },
         {
-          "y": 547.5,
+          "y": 547,
           "text": "Shared governance structure:",
           "bbox": [
             90.0327377319336,
@@ -5102,7 +5134,7 @@
           ]
         },
         {
-          "y": 572.2,
+          "y": 572,
           "text": "We will share decision-making in order to enable the people we serve.",
           "bbox": [
             108.02793884277344,
@@ -5136,7 +5168,7 @@
           ]
         },
         {
-          "y": 596.8,
+          "y": 597,
           "text": "We will work based on an underlying assumption of trust and synergy.",
           "bbox": [
             108.02793884277344,
@@ -5170,7 +5202,7 @@
           ]
         },
         {
-          "y": 621.4,
+          "y": 621,
           "text": "Shared funding:",
           "bbox": [
             90.0327377319336,
@@ -5204,7 +5236,7 @@
           ]
         },
         {
-          "y": 646.1,
+          "y": 646,
           "text": "We will leverage provincial, institutional, and local dollars to realize economies of scale",
           "bbox": [
             108.02793884277344,
@@ -5238,7 +5270,7 @@
           ]
         },
         {
-          "y": 658.7,
+          "y": 659,
           "text": "and put Ontario dollars to work for everyone .",
           "bbox": [
             108.02793884277344,
@@ -5294,7 +5326,7 @@
           ]
         },
         {
-          "y": 683.4,
+          "y": 683,
           "text": "We will be willing to pool talents and dollars in order to provide common services that are",
           "bbox": [
             108.0279541015625,
@@ -5328,7 +5360,7 @@
           ]
         },
         {
-          "y": 696.0,
+          "y": 696,
           "text": "truly greater than those that can be maintained by individual institutions.",
           "bbox": [
             108.0279541015625,
@@ -5362,12 +5394,12 @@
           ]
         },
         {
-          "y": 731.0,
+          "y": 731,
           "text": "4",
           "bbox": [
             516.640625,
             730.9798583984375,
-            522.6436157226562,
+            524.650634765625,
             743.660888671875
           ],
           "spans": [
@@ -5392,11 +5424,33 @@
                 522.6436157226562,
                 743.660888671875
               ]
+            },
+            {
+              "size": 9.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": " ",
+              "origin": [
+                522.400634765625,
+                740.8798828125
+              ],
+              "bbox": [
+                522.400634765625,
+                731.4028930664062,
+                524.650634765625,
+                743.4088745117188
+              ]
             }
           ]
         },
         {
-          "y": 734.0,
+          "y": 734,
           "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
           "bbox": [
             90.04060363769531,
@@ -5459,7 +5513,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72.1,
+          "y": 72,
           "text": "Local points of entry:",
           "bbox": [
             89.99970245361328,
@@ -5493,7 +5547,7 @@
           ]
         },
         {
-          "y": 97.4,
+          "y": 97,
           "text": "We will provide the licenses, infrastructure, services and support that enable local",
           "bbox": [
             114.00066375732422,
@@ -5527,7 +5581,7 @@
           ]
         },
         {
-          "y": 110.0,
+          "y": 110,
           "text": "libraries to provide exceptional services to their clientele. ODL will focus on support,",
           "bbox": [
             114.00066375732422,
@@ -5561,7 +5615,7 @@
           ]
         },
         {
-          "y": 122.7,
+          "y": 123,
           "text": "providing the underpinning, not overshadowing.",
           "bbox": [
             114.00066375732422,
@@ -5595,7 +5649,7 @@
           ]
         },
         {
-          "y": 148.0,
+          "y": 148,
           "text": "Services envisioned for the ODL’s include:",
           "bbox": [
             89.99970245361328,
@@ -5629,7 +5683,7 @@
           ]
         },
         {
-          "y": 173.3,
+          "y": 173,
           "text": "Access:",
           "bbox": [
             89.99970245361328,
@@ -5663,7 +5717,7 @@
           ]
         },
         {
-          "y": 186.0,
+          "y": 186,
           "text": "to the “deep” web (i.e. Commercial, purchased electronic services)",
           "bbox": [
             107.99490356445312,
@@ -5697,7 +5751,7 @@
           ]
         },
         {
-          "y": 198.6,
+          "y": 199,
           "text": "to credible web sites and electronic resources",
           "bbox": [
             107.99490356445312,
@@ -5731,7 +5785,7 @@
           ]
         },
         {
-          "y": 211.2,
+          "y": 211,
           "text": "to digital government information",
           "bbox": [
             107.99490356445312,
@@ -5765,7 +5819,7 @@
           ]
         },
         {
-          "y": 223.9,
+          "y": 224,
           "text": "to local digital collections",
           "bbox": [
             107.99490356445312,
@@ -5799,7 +5853,7 @@
           ]
         },
         {
-          "y": 249.2,
+          "y": 249,
           "text": "Guidance and Advice:",
           "bbox": [
             89.99970245361328,
@@ -5833,7 +5887,7 @@
           ]
         },
         {
-          "y": 261.8,
+          "y": 262,
           "text": "to support e-learning",
           "bbox": [
             107.99490356445312,
@@ -5867,7 +5921,7 @@
           ]
         },
         {
-          "y": 274.5,
+          "y": 275,
           "text": "to support citizens, in real-time, as they try to use electronic resources",
           "bbox": [
             107.99490356445312,
@@ -5901,7 +5955,7 @@
           ]
         },
         {
-          "y": 287.1,
+          "y": 287,
           "text": "to assist citizens as they use web-links",
           "bbox": [
             107.99490356445312,
@@ -5935,7 +5989,7 @@
           ]
         },
         {
-          "y": 299.7,
+          "y": 300,
           "text": "Training:",
           "bbox": [
             89.99970245361328,
@@ -5969,7 +6023,7 @@
           ]
         },
         {
-          "y": 312.5,
+          "y": 312,
           "text": "for library workers",
           "bbox": [
             107.99490356445312,
@@ -6003,7 +6057,7 @@
           ]
         },
         {
-          "y": 325.1,
+          "y": 325,
           "text": "for the general public",
           "bbox": [
             107.99490356445312,
@@ -6037,7 +6091,7 @@
           ]
         },
         {
-          "y": 350.4,
+          "y": 350,
           "text": "Provincial Purchasing & Licensing:",
           "bbox": [
             89.99970245361328,
@@ -6071,7 +6125,7 @@
           ]
         },
         {
-          "y": 363.0,
+          "y": 363,
           "text": "of electronic content on a consortia basis for all member libraries",
           "bbox": [
             107.99490356445312,
@@ -6105,7 +6159,7 @@
           ]
         },
         {
-          "y": 388.3,
+          "y": 388,
           "text": "Technological Support:",
           "bbox": [
             89.99970245361328,
@@ -6139,7 +6193,7 @@
           ]
         },
         {
-          "y": 401.0,
+          "y": 401,
           "text": "of common standards for the preservation and archiving local digital content",
           "bbox": [
             107.99490356445312,
@@ -6173,7 +6227,7 @@
           ]
         },
         {
-          "y": 413.6,
+          "y": 414,
           "text": "of a common interface to ODL resources and services that can be imbedded in local",
           "bbox": [
             107.99490356445312,
@@ -6207,7 +6261,7 @@
           ]
         },
         {
-          "y": 426.2,
+          "y": 426,
           "text": "library web sites",
           "bbox": [
             107.99490356445312,
@@ -6241,7 +6295,7 @@
           ]
         },
         {
-          "y": 466.2,
+          "y": 466,
           "text": "What could the ODL really mean?",
           "bbox": [
             89.99971008300781,
@@ -6275,7 +6329,7 @@
           ]
         },
         {
-          "y": 493.8,
+          "y": 494,
           "text": "For each Ontario citizen it could mean:",
           "bbox": [
             89.99969482421875,
@@ -6309,7 +6363,7 @@
           ]
         },
         {
-          "y": 506.6,
+          "y": 507,
           "text": "One local point of entry to access seamless electronic library services and",
           "bbox": [
             162.0025634765625,
@@ -6343,7 +6397,7 @@
           ]
         },
         {
-          "y": 519.2,
+          "y": 519,
           "text": "resources for their personal, educational and professional needs;",
           "bbox": [
             162.0025634765625,
@@ -6377,7 +6431,7 @@
           ]
         },
         {
-          "y": 531.9,
+          "y": 532,
           "text": "Access to credible, high-quality, user-friendly electronic services through their",
           "bbox": [
             162.0025634765625,
@@ -6411,7 +6465,7 @@
           ]
         },
         {
-          "y": 544.5,
+          "y": 545,
           "text": "community, school, or academic library;",
           "bbox": [
             162.0025634765625,
@@ -6445,7 +6499,7 @@
           ]
         },
         {
-          "y": 557.1,
+          "y": 557,
           "text": "Confidence that the electronic services and sources they – and their children",
           "bbox": [
             162.00259399414062,
@@ -6479,7 +6533,7 @@
           ]
         },
         {
-          "y": 569.8,
+          "y": 570,
           "text": "– are using are safe, valid, and bringing them both global and local",
           "bbox": [
             162.00259399414062,
@@ -6513,7 +6567,7 @@
           ]
         },
         {
-          "y": 582.4,
+          "y": 582,
           "text": "perspectives;",
           "bbox": [
             162.00259399414062,
@@ -6547,7 +6601,7 @@
           ]
         },
         {
-          "y": 595.2,
+          "y": 595,
           "text": "Electronic information and tools that enhance job skills and the learning",
           "bbox": [
             162.00259399414062,
@@ -6581,7 +6635,7 @@
           ]
         },
         {
-          "y": 607.7,
+          "y": 608,
           "text": "experience",
           "bbox": [
             162.00257873535156,
@@ -6615,7 +6669,7 @@
           ]
         },
         {
-          "y": 632.2,
+          "y": 632,
           "text": "For each Ontario student it could mean:",
           "bbox": [
             89.99970245361328,
@@ -6649,7 +6703,7 @@
           ]
         },
         {
-          "y": 645.1,
+          "y": 645,
           "text": "One local point of entry to quality, curriculum- based electronic information",
           "bbox": [
             162.00257873535156,
@@ -6683,7 +6737,7 @@
           ]
         },
         {
-          "y": 657.7,
+          "y": 658,
           "text": "resources and services",
           "bbox": [
             162.00257873535156,
@@ -6717,7 +6771,7 @@
           ]
         },
         {
-          "y": 670.4,
+          "y": 670,
           "text": "Connection to their individual educational environment, whether at the",
           "bbox": [
             162.00257873535156,
@@ -6751,7 +6805,7 @@
           ]
         },
         {
-          "y": 683.0,
+          "y": 683,
           "text": "elementary, secondary or post-secondary levels",
           "bbox": [
             162.00257873535156,
@@ -6785,12 +6839,12 @@
           ]
         },
         {
-          "y": 731.0,
+          "y": 731,
           "text": "5",
           "bbox": [
             516.640625,
             730.9798583984375,
-            522.6436157226562,
+            524.650634765625,
             743.660888671875
           ],
           "spans": [
@@ -6815,11 +6869,33 @@
                 522.6436157226562,
                 743.660888671875
               ]
+            },
+            {
+              "size": 9.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": " ",
+              "origin": [
+                522.400634765625,
+                740.8798828125
+              ],
+              "bbox": [
+                522.400634765625,
+                731.4028930664062,
+                524.650634765625,
+                743.4088745117188
+              ]
             }
           ]
         },
         {
-          "y": 734.0,
+          "y": 734,
           "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
           "bbox": [
             90.04060363769531,
@@ -6882,7 +6958,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72.2,
+          "y": 72,
           "text": "Confidence that the services and resources people are using are credible,",
           "bbox": [
             162.0402069091797,
@@ -6916,7 +6992,7 @@
           ]
         },
         {
-          "y": 84.8,
+          "y": 85,
           "text": "available when they need them and adaptable to different learning styles",
           "bbox": [
             162.0402069091797,
@@ -6950,7 +7026,7 @@
           ]
         },
         {
-          "y": 110.0,
+          "y": 110,
           "text": "For each Ontario library it could mean:",
           "bbox": [
             90.0373306274414,
@@ -6984,7 +7060,7 @@
           ]
         },
         {
-          "y": 122.8,
+          "y": 123,
           "text": "One point of entry for themselves and their clientele to quality electronic",
           "bbox": [
             162.0402069091797,
@@ -7018,7 +7094,7 @@
           ]
         },
         {
-          "y": 135.4,
+          "y": 135,
           "text": "resources and services that support and enhance their collections, programs",
           "bbox": [
             162.0402069091797,
@@ -7052,7 +7128,7 @@
           ]
         },
         {
-          "y": 148.0,
+          "y": 148,
           "text": "and services",
           "bbox": [
             162.0402069091797,
@@ -7086,7 +7162,7 @@
           ]
         },
         {
-          "y": 160.8,
+          "y": 161,
           "text": "The opportunity to show case their local community, collections, services, and",
           "bbox": [
             162.0402069091797,
@@ -7120,7 +7196,7 @@
           ]
         },
         {
-          "y": 173.4,
+          "y": 173,
           "text": "expertise",
           "bbox": [
             162.0402069091797,
@@ -7154,7 +7230,7 @@
           ]
         },
         {
-          "y": 186.1,
+          "y": 186,
           "text": "The opportunity to gain from the provincial, collaborative partnership in order",
           "bbox": [
             162.0402069091797,
@@ -7188,7 +7264,7 @@
           ]
         },
         {
-          "y": 198.7,
+          "y": 199,
           "text": "to provide a seamless gateway to digital resources and services",
           "bbox": [
             162.0402069091797,
@@ -7222,7 +7298,7 @@
           ]
         },
         {
-          "y": 223.9,
+          "y": 224,
           "text": "For the Ontario government it could mean:",
           "bbox": [
             90.03731536865234,
@@ -7256,7 +7332,7 @@
           ]
         },
         {
-          "y": 236.6,
+          "y": 237,
           "text": "A point of entry to information services and resources for all Ontario citizens,",
           "bbox": [
             162.0402069091797,
@@ -7312,7 +7388,7 @@
           ]
         },
         {
-          "y": 249.3,
+          "y": 249,
           "text": "connecting to portal initiatives .",
           "bbox": [
             162.0402069091797,
@@ -7368,7 +7444,7 @@
           ]
         },
         {
-          "y": 261.9,
+          "y": 262,
           "text": "Support of the Ontario E-Learning strategy through a collaborative digital",
           "bbox": [
             162.0402069091797,
@@ -7402,7 +7478,7 @@
           ]
         },
         {
-          "y": 274.6,
+          "y": 275,
           "text": "library initiative that positions Ontario on the global e-learning scene",
           "bbox": [
             162.0402069091797,
@@ -7436,7 +7512,7 @@
           ]
         },
         {
-          "y": 287.2,
+          "y": 287,
           "text": "Improved access and flexibility for all students at all ages and stages",
           "bbox": [
             162.0402069091797,
@@ -7470,7 +7546,7 @@
           ]
         },
         {
-          "y": 299.8,
+          "y": 300,
           "text": "(supports Ontario’s lifelong learning strategy)",
           "bbox": [
             162.0402069091797,
@@ -7504,7 +7580,7 @@
           ]
         },
         {
-          "y": 312.5,
+          "y": 313,
           "text": "The opportunity to address emerging job skills shortages and facilitate school",
           "bbox": [
             162.0402069091797,
@@ -7538,7 +7614,7 @@
           ]
         },
         {
-          "y": 325.1,
+          "y": 325,
           "text": "to work and job to job transitions with the necessary information and",
           "bbox": [
             162.0402069091797,
@@ -7572,7 +7648,7 @@
           ]
         },
         {
-          "y": 337.9,
+          "y": 338,
           "text": "knowledge supports and tools",
           "bbox": [
             162.0402069091797,
@@ -7606,7 +7682,7 @@
           ]
         },
         {
-          "y": 363.1,
+          "y": 363,
           "text": "ODL will be an incorporated non-profit organization governed by a Board of Directors elected",
           "bbox": [
             90.0373306274414,
@@ -7640,7 +7716,7 @@
           ]
         },
         {
-          "y": 375.8,
+          "y": 376,
           "text": "by a voting membership. The Board will include representatives from all stakeholders. We",
           "bbox": [
             90.0483627319336,
@@ -7674,7 +7750,7 @@
           ]
         },
         {
-          "y": 388.4,
+          "y": 388,
           "text": "envision a governance model similar to that prepared for the province’s ORION network.",
           "bbox": [
             90.0483627319336,
@@ -7708,7 +7784,7 @@
           ]
         },
         {
-          "y": 413.1,
+          "y": 413,
           "text": "More information regarding the envisioned phasing, funding and resources required for the",
           "bbox": [
             90.0483627319336,
@@ -7742,7 +7818,7 @@
           ]
         },
         {
-          "y": 425.7,
+          "y": 426,
           "text": "ODL can be found in the appendixes.",
           "bbox": [
             90.0483627319336,
@@ -7776,7 +7852,7 @@
           ]
         },
         {
-          "y": 459.1,
+          "y": 459,
           "text": "The Business Plan to be Developed",
           "bbox": [
             96.04060363769531,
@@ -7810,7 +7886,7 @@
           ]
         },
         {
-          "y": 503.6,
+          "y": 504,
           "text": "The business plan which needs to be developed for the ODL must be a formal business plan",
           "bbox": [
             90.04060363769531,
@@ -7844,7 +7920,7 @@
           ]
         },
         {
-          "y": 516.2,
+          "y": 516,
           "text": "that documents and clearly communicates the ODL’s services, funding and governance",
           "bbox": [
             90.04060363769531,
@@ -7878,7 +7954,7 @@
           ]
         },
         {
-          "y": 528.8,
+          "y": 529,
           "text": "structures, as well as implementation plans for 2004-2005, and operational plans for 2005-",
           "bbox": [
             90.04060363769531,
@@ -7912,7 +7988,7 @@
           ]
         },
         {
-          "y": 541.5,
+          "y": 542,
           "text": "2007. The planning process must also secure the full commitment of all stakeholders, as",
           "bbox": [
             90.04060363769531,
@@ -7946,7 +8022,7 @@
           ]
         },
         {
-          "y": 554.1,
+          "y": 554,
           "text": "represented on the Steering Committee.",
           "bbox": [
             90.04060363769531,
@@ -7980,7 +8056,7 @@
           ]
         },
         {
-          "y": 578.2,
+          "y": 578,
           "text": "Specifically, the business plan must include:",
           "bbox": [
             90.04060363769531,
@@ -8014,7 +8090,7 @@
           ]
         },
         {
-          "y": 603.6,
+          "y": 604,
           "text": "how the ODL will be implemented, including the timeline",
           "bbox": [
             132.03675842285156,
@@ -8048,7 +8124,7 @@
           ]
         },
         {
-          "y": 616.3,
+          "y": 616,
           "text": "the financial plan for the implementation",
           "bbox": [
             132.03675842285156,
@@ -8082,7 +8158,7 @@
           ]
         },
         {
-          "y": 628.9,
+          "y": 629,
           "text": "the financial plan for the first 2 operating years, including capital and operating costs,",
           "bbox": [
             132.03675842285156,
@@ -8116,7 +8192,7 @@
           ]
         },
         {
-          "y": 641.5,
+          "y": 641,
           "text": "revenues, etc.",
           "bbox": [
             135.03964233398438,
@@ -8150,7 +8226,7 @@
           ]
         },
         {
-          "y": 654.2,
+          "y": 654,
           "text": "a financial forecast for the succeeding 2 operating years",
           "bbox": [
             132.03680419921875,
@@ -8184,7 +8260,7 @@
           ]
         },
         {
-          "y": 666.8,
+          "y": 667,
           "text": "the services and products to be delivered by the ODL",
           "bbox": [
             132.03677368164062,
@@ -8218,7 +8294,7 @@
           ]
         },
         {
-          "y": 679.5,
+          "y": 680,
           "text": "how the ODL will operate and be managed following the implementation",
           "bbox": [
             132.03677368164062,
@@ -8252,7 +8328,7 @@
           ]
         },
         {
-          "y": 692.1,
+          "y": 692,
           "text": "who will be involved, and what their role/responsibility will be, for both the",
           "bbox": [
             132.03677368164062,
@@ -8286,7 +8362,7 @@
           ]
         },
         {
-          "y": 704.7,
+          "y": 705,
           "text": "implementation and operational stages",
           "bbox": [
             130.6016082763672,
@@ -8320,12 +8396,12 @@
           ]
         },
         {
-          "y": 731.0,
+          "y": 731,
           "text": "6",
           "bbox": [
             516.640625,
             730.9798583984375,
-            522.6436157226562,
+            524.650634765625,
             743.660888671875
           ],
           "spans": [
@@ -8350,11 +8426,33 @@
                 522.6436157226562,
                 743.660888671875
               ]
+            },
+            {
+              "size": 9.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": " ",
+              "origin": [
+                522.400634765625,
+                740.8798828125
+              ],
+              "bbox": [
+                522.400634765625,
+                731.4028930664062,
+                524.650634765625,
+                743.4088745117188
+              ]
             }
           ]
         },
         {
-          "y": 734.0,
+          "y": 734,
           "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
           "bbox": [
             90.04060363769531,
@@ -8417,7 +8515,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72.2,
+          "y": 72,
           "text": "the marketing and communications plan for the ODL",
           "bbox": [
             132.0408935546875,
@@ -8451,7 +8549,7 @@
           ]
         },
         {
-          "y": 84.8,
+          "y": 85,
           "text": "the commitment of all stakeholders to their responsibilities",
           "bbox": [
             132.0408935546875,
@@ -8485,7 +8583,7 @@
           ]
         },
         {
-          "y": 110.1,
+          "y": 110,
           "text": "The process of developing this business plan must be extremely consultative to ensure that",
           "bbox": [
             90.04473876953125,
@@ -8519,7 +8617,7 @@
           ]
         },
         {
-          "y": 122.8,
+          "y": 123,
           "text": "all stakeholders are engaged in creating a synergistic ODL organization. The proposal must",
           "bbox": [
             90.04473876953125,
@@ -8575,7 +8673,7 @@
           ]
         },
         {
-          "y": 135.4,
+          "y": 135,
           "text": "indicate how this consultative process will be approached.",
           "bbox": [
             90.04473876953125,
@@ -8609,7 +8707,7 @@
           ]
         },
         {
-          "y": 160.8,
+          "y": 161,
           "text": "The business plan for the ODL must address significant issues. There are, for example,",
           "bbox": [
             90.04473876953125,
@@ -8643,7 +8741,7 @@
           ]
         },
         {
-          "y": 173.4,
+          "y": 173,
           "text": "enormous differences in the financial resources available to libraries mandated to provide",
           "bbox": [
             90.04473876953125,
@@ -8677,7 +8775,7 @@
           ]
         },
         {
-          "y": 186.1,
+          "y": 186,
           "text": "similar services. Some post-secondary and public libraries, particularly those in large urban",
           "bbox": [
             90.04473876953125,
@@ -8711,7 +8809,7 @@
           ]
         },
         {
-          "y": 198.7,
+          "y": 199,
           "text": "areas, have the facilities, funding and technological infrastructure necessary to service their",
           "bbox": [
             90.04473876953125,
@@ -8745,7 +8843,7 @@
           ]
         },
         {
-          "y": 211.3,
+          "y": 211,
           "text": "patrons with electronic services and resources. Many others, particularly in rural regions, do",
           "bbox": [
             90.04473876953125,
@@ -8779,7 +8877,7 @@
           ]
         },
         {
-          "y": 224.0,
+          "y": 224,
           "text": "not. The proposal must indicate how these issues will be approached.",
           "bbox": [
             90.04473876953125,
@@ -8835,7 +8933,7 @@
           ]
         },
         {
-          "y": 270.1,
+          "y": 270,
           "text": "Milestones",
           "bbox": [
             96.04060363769531,
@@ -8869,7 +8967,7 @@
           ]
         },
         {
-          "y": 303.0,
+          "y": 303,
           "text": "1) A preliminary report will be issued during June 2003.",
           "bbox": [
             108.04060363769531,
@@ -8903,7 +9001,7 @@
           ]
         },
         {
-          "y": 327.6,
+          "y": 328,
           "text": "2) It is expected that an Interim Report, suitable for distribution to the broader library",
           "bbox": [
             108.04060363769531,
@@ -8937,7 +9035,7 @@
           ]
         },
         {
-          "y": 340.3,
+          "y": 340,
           "text": "community will be available by August 1, 2003 and that there will be an opportunity",
           "bbox": [
             126.03580474853516,
@@ -8971,7 +9069,7 @@
           ]
         },
         {
-          "y": 352.9,
+          "y": 353,
           "text": "for responses to be evaluated.",
           "bbox": [
             126.03580474853516,
@@ -9005,7 +9103,7 @@
           ]
         },
         {
-          "y": 377.6,
+          "y": 378,
           "text": "3) The business plan must be completed and approved by the ODL Steering Committee",
           "bbox": [
             108.04060363769531,
@@ -9039,7 +9137,7 @@
           ]
         },
         {
-          "y": 390.2,
+          "y": 390,
           "text": "no later than September 30, 2003.",
           "bbox": [
             126.03580474853516,
@@ -9073,7 +9171,7 @@
           ]
         },
         {
-          "y": 423.6,
+          "y": 424,
           "text": "Approach and Specific Proposal Requirements",
           "bbox": [
             99.52059936523438,
@@ -9107,7 +9205,7 @@
           ]
         },
         {
-          "y": 456.6,
+          "y": 457,
           "text": "The firm/consultant (or proposed team of consultants) will be expected to work closely with",
           "bbox": [
             90.04060363769531,
@@ -9185,7 +9283,7 @@
           ]
         },
         {
-          "y": 469.2,
+          "y": 469,
           "text": "the ODL Steering Committee. Terms of reference for the Committee are in the appendix.",
           "bbox": [
             90.04058837890625,
@@ -9219,7 +9317,7 @@
           ]
         },
         {
-          "y": 481.9,
+          "y": 482,
           "text": "Given the consultative nature of this business planning process, the firm/consultant will also",
           "bbox": [
             90.04058837890625,
@@ -9253,7 +9351,7 @@
           ]
         },
         {
-          "y": 494.5,
+          "y": 494,
           "text": "be expected to travel and communicate regularly with various stakeholders as well as with",
           "bbox": [
             90.04058837890625,
@@ -9287,7 +9385,7 @@
           ]
         },
         {
-          "y": 507.1,
+          "y": 507,
           "text": "electronic resource publishers/vendors.",
           "bbox": [
             90.04058837890625,
@@ -9321,7 +9419,7 @@
           ]
         },
         {
-          "y": 531.8,
+          "y": 532,
           "text": "The proposal should include the following information:",
           "bbox": [
             90.04058837890625,
@@ -9355,7 +9453,7 @@
           ]
         },
         {
-          "y": 556.4,
+          "y": 556,
           "text": "a) name of the firm/consultant",
           "bbox": [
             108.0357894897461,
@@ -9389,7 +9487,7 @@
           ]
         },
         {
-          "y": 569.1,
+          "y": 569,
           "text": "b) names of those individuals who will be engaged in this project, their specific",
           "bbox": [
             108.03579711914062,
@@ -9423,7 +9521,7 @@
           ]
         },
         {
-          "y": 581.7,
+          "y": 582,
           "text": "responsibilities on this project and relevant experience/qualifications",
           "bbox": [
             108.03579711914062,
@@ -9457,7 +9555,7 @@
           ]
         },
         {
-          "y": 594.3,
+          "y": 594,
           "text": "c) description of similar engagements that highlight the firm’s experience in business",
           "bbox": [
             108.03579711914062,
@@ -9491,7 +9589,7 @@
           ]
         },
         {
-          "y": 607.0,
+          "y": 607,
           "text": "planning and building stakeholder commitment",
           "bbox": [
             108.03579711914062,
@@ -9525,7 +9623,7 @@
           ]
         },
         {
-          "y": 619.6,
+          "y": 620,
           "text": "d) references with details of work completed for these references",
           "bbox": [
             108.03579711914062,
@@ -9559,7 +9657,7 @@
           ]
         },
         {
-          "y": 632.3,
+          "y": 632,
           "text": "e) description of the approach that will be used for completing the business plan,",
           "bbox": [
             108.03579711914062,
@@ -9593,7 +9691,7 @@
           ]
         },
         {
-          "y": 644.9,
+          "y": 645,
           "text": "including a timeline",
           "bbox": [
             108.03579711914062,
@@ -9627,7 +9725,7 @@
           ]
         },
         {
-          "y": 657.5,
+          "y": 658,
           "text": "f) cost to complete the study including estimated expenses (i.e.: travel, etc.) and payment",
           "bbox": [
             108.03579711914062,
@@ -9661,7 +9759,7 @@
           ]
         },
         {
-          "y": 670.2,
+          "y": 670,
           "text": "structure",
           "bbox": [
             108.03579711914062,
@@ -9695,12 +9793,12 @@
           ]
         },
         {
-          "y": 731.0,
+          "y": 731,
           "text": "7",
           "bbox": [
             516.640625,
             730.9798583984375,
-            522.6436157226562,
+            524.650634765625,
             743.660888671875
           ],
           "spans": [
@@ -9725,11 +9823,33 @@
                 522.6436157226562,
                 743.660888671875
               ]
+            },
+            {
+              "size": 9.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": " ",
+              "origin": [
+                522.400634765625,
+                740.8798828125
+              ],
+              "bbox": [
+                522.400634765625,
+                731.4028930664062,
+                524.650634765625,
+                743.4088745117188
+              ]
             }
           ]
         },
         {
-          "y": 734.0,
+          "y": 734,
           "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
           "bbox": [
             90.04060363769531,
@@ -9792,7 +9912,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 81.0,
+          "y": 81,
           "text": "Evaluation and Awarding of Contract",
           "bbox": [
             96.04060363769531,
@@ -9826,7 +9946,7 @@
           ]
         },
         {
-          "y": 122.8,
+          "y": 123,
           "text": "The contract will be awarded to the bidder whose submission offers the best value; the contract will",
           "bbox": [
             90.04060363769531,
@@ -9860,7 +9980,7 @@
           ]
         },
         {
-          "y": 135.6,
+          "y": 136,
           "text": "not necessarily be awarded to the lowest bidder. We reserve the right not to award the contract to",
           "bbox": [
             90.04060363769531,
@@ -9894,7 +10014,7 @@
           ]
         },
         {
-          "y": 148.2,
+          "y": 148,
           "text": "any of the bidders responding to this RFP and we may seek further response.",
           "bbox": [
             90.04060363769531,
@@ -9928,7 +10048,7 @@
           ]
         },
         {
-          "y": 172.8,
+          "y": 173,
           "text": "Specifically, proposals will be evaluated proposals according to the following criteria:",
           "bbox": [
             90.04060363769531,
@@ -9962,7 +10082,7 @@
           ]
         },
         {
-          "y": 210.2,
+          "y": 210,
           "text": "Quality of the proposal /approach outlined for undertaking the business planning process",
           "bbox": [
             126.04203796386719,
@@ -9996,7 +10116,7 @@
           ]
         },
         {
-          "y": 222.9,
+          "y": 223,
           "text": "Demonstrated experience",
           "bbox": [
             126.04203796386719,
@@ -10030,7 +10150,7 @@
           ]
         },
         {
-          "y": 235.5,
+          "y": 236,
           "text": "Cost, including expenses",
           "bbox": [
             126.04203796386719,
@@ -10064,7 +10184,7 @@
           ]
         },
         {
-          "y": 248.1,
+          "y": 248,
           "text": "Timeline and projected completion date",
           "bbox": [
             126.04203796386719,
@@ -10098,7 +10218,7 @@
           ]
         },
         {
-          "y": 261.3,
+          "y": 261,
           "text": "Other relevant factors as determined by the ODL Steering Committee",
           "bbox": [
             126.04203796386719,
@@ -10132,7 +10252,7 @@
           ]
         },
         {
-          "y": 286.6,
+          "y": 287,
           "text": "Questions regarding this RFP should be directed by e-mail only to Michael Ridley",
           "bbox": [
             90.04060363769531,
@@ -10166,7 +10286,7 @@
           ]
         },
         {
-          "y": 299.3,
+          "y": 299,
           "text": "(mridley@uoguelph.ca).",
           "bbox": [
             90.04060363769531,
@@ -10200,7 +10320,7 @@
           ]
         },
         {
-          "y": 324.7,
+          "y": 325,
           "text": "Bidders are asked not to contact any other member of the ODL Catalyst Team or the ODL Steering",
           "bbox": [
             90.04060363769531,
@@ -10234,7 +10354,7 @@
           ]
         },
         {
-          "y": 337.3,
+          "y": 337,
           "text": "Committee.",
           "bbox": [
             90.04060363769531,
@@ -10268,12 +10388,12 @@
           ]
         },
         {
-          "y": 731.0,
+          "y": 731,
           "text": "8",
           "bbox": [
             516.640625,
             730.9798583984375,
-            522.6436157226562,
+            524.650634765625,
             743.660888671875
           ],
           "spans": [
@@ -10298,11 +10418,33 @@
                 522.6436157226562,
                 743.660888671875
               ]
+            },
+            {
+              "size": 9.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": " ",
+              "origin": [
+                522.400634765625,
+                740.8798828125
+              ],
+              "bbox": [
+                522.400634765625,
+                731.4028930664062,
+                524.650634765625,
+                743.4088745117188
+              ]
             }
           ]
         },
         {
-          "y": 734.0,
+          "y": 734,
           "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
           "bbox": [
             90.04060363769531,
@@ -10365,7 +10507,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 107.5,
+          "y": 108,
           "text": "Appendix A: ODL Envisioned Phases & Funding",
           "bbox": [
             90.04060363769531,
@@ -10399,7 +10541,7 @@
           ]
         },
         {
-          "y": 139.8,
+          "y": 140,
           "text": "Phase I: Business Planning",
           "bbox": [
             90.04049682617188,
@@ -10433,7 +10575,7 @@
           ]
         },
         {
-          "y": 162.8,
+          "y": 163,
           "text": "Timeline: March 2003 – September 2003",
           "bbox": [
             90.04049682617188,
@@ -10489,7 +10631,7 @@
           ]
         },
         {
-          "y": 174.3,
+          "y": 174,
           "text": "Funding Requested: ~$100,000 jointly funded by stakeholder groups and the provincial government.",
           "bbox": [
             90.0405044555664,
@@ -10545,7 +10687,7 @@
           ]
         },
         {
-          "y": 197.3,
+          "y": 197,
           "text": "Result: The ODL business plan",
           "bbox": [
             90.0405044555664,
@@ -10601,7 +10743,7 @@
           ]
         },
         {
-          "y": 220.4,
+          "y": 220,
           "text": "The first phase will be to build the ODL business plan. This plan will clearly define the ODL’s services,",
           "bbox": [
             90.04049682617188,
@@ -10635,7 +10777,7 @@
           ]
         },
         {
-          "y": 231.9,
+          "y": 232,
           "text": "funding and governance structures, as well as implementation plans for 2003-2005. It will also secure",
           "bbox": [
             90.04049682617188,
@@ -10669,7 +10811,7 @@
           ]
         },
         {
-          "y": 243.5,
+          "y": 243,
           "text": "the full commitment of all stakeholders and scope the operational plan for ODL for 2006 and beyond.",
           "bbox": [
             90.04049682617188,
@@ -10703,7 +10845,7 @@
           ]
         },
         {
-          "y": 266.4,
+          "y": 266,
           "text": "Given the number and diversity of stakeholders involved, the business planning process must be a fully",
           "bbox": [
             90.04049682617188,
@@ -10737,7 +10879,7 @@
           ]
         },
         {
-          "y": 277.9,
+          "y": 278,
           "text": "consultative approach. To ensure that the planning results in a workable plan with the full commitment",
           "bbox": [
             90.04049682617188,
@@ -10771,7 +10913,7 @@
           ]
         },
         {
-          "y": 289.4,
+          "y": 289,
           "text": "of all stakeholders it must have competent, dedicated staffing and monies for the travel and",
           "bbox": [
             90.04049682617188,
@@ -10805,7 +10947,7 @@
           ]
         },
         {
-          "y": 301.0,
+          "y": 301,
           "text": "communication components so critical in a consultative process.",
           "bbox": [
             90.04049682617188,
@@ -10839,7 +10981,7 @@
           ]
         },
         {
-          "y": 335.3,
+          "y": 335,
           "text": "Phase II: Implementing and Transitioning",
           "bbox": [
             90.04049682617188,
@@ -10873,7 +11015,7 @@
           ]
         },
         {
-          "y": 358.3,
+          "y": 358,
           "text": "Timeline: April 2004 – December 2006",
           "bbox": [
             90.04049682617188,
@@ -10929,7 +11071,7 @@
           ]
         },
         {
-          "y": 369.8,
+          "y": 370,
           "text": "Funding Requested: Funding from other states and provinces suggest that the ODL could receive",
           "bbox": [
             90.04049682617188,
@@ -10985,7 +11127,7 @@
           ]
         },
         {
-          "y": 381.4,
+          "y": 381,
           "text": "funding of up to $50 Million (over 3 years). Funding to be provided partnership of government, library",
           "bbox": [
             90.0405044555664,
@@ -11019,7 +11161,7 @@
           ]
         },
         {
-          "y": 392.8,
+          "y": 393,
           "text": "stakeholders and other interested parties.",
           "bbox": [
             90.04049682617188,
@@ -11053,7 +11195,7 @@
           ]
         },
         {
-          "y": 415.8,
+          "y": 416,
           "text": "Result: The ODL is implemented and validated",
           "bbox": [
             90.04049682617188,
@@ -11109,7 +11251,7 @@
           ]
         },
         {
-          "y": 439.0,
+          "y": 439,
           "text": "The second phase will be to implement the ODL based on the business plan. This phase recognizes",
           "bbox": [
             90.04049682617188,
@@ -11143,7 +11285,7 @@
           ]
         },
         {
-          "y": 450.5,
+          "y": 450,
           "text": "that for ODL to be optimally successful libraries must transition to a new way of doing business and",
           "bbox": [
             90.04049682617188,
@@ -11177,7 +11319,7 @@
           ]
         },
         {
-          "y": 461.9,
+          "y": 462,
           "text": "providing services. The transition must occur while libraries continue to provide existing services and",
           "bbox": [
             90.04049682617188,
@@ -11211,7 +11353,7 @@
           ]
         },
         {
-          "y": 473.4,
+          "y": 473,
           "text": "respond to current challenges. This implementation phase will funded by a partnership of government,",
           "bbox": [
             90.04049682617188,
@@ -11245,7 +11387,7 @@
           ]
         },
         {
-          "y": 484.9,
+          "y": 485,
           "text": "library stakeholders and other interested parties as a means to quickly jumpstart the ODL.",
           "bbox": [
             90.04049682617188,
@@ -11279,7 +11421,7 @@
           ]
         },
         {
-          "y": 508.0,
+          "y": 508,
           "text": "The seed money requested will allow libraries to realign their budgets and services as the infrastructure",
           "bbox": [
             90.04049682617188,
@@ -11313,7 +11455,7 @@
           ]
         },
         {
-          "y": 519.4,
+          "y": 519,
           "text": "and content of the ODL is created and secured. Some of the funding will be new money, although there",
           "bbox": [
             90.04049682617188,
@@ -11369,7 +11511,7 @@
           ]
         },
         {
-          "y": 530.8,
+          "y": 531,
           "text": "is every indication that existing budgets and methods of operating may be modified as a result of",
           "bbox": [
             90.04048156738281,
@@ -11403,7 +11545,7 @@
           ]
         },
         {
-          "y": 542.3,
+          "y": 542,
           "text": "recommendations . During this phase the polices, procedures, governance structures and accountability",
           "bbox": [
             90.04048156738281,
@@ -11459,7 +11601,7 @@
           ]
         },
         {
-          "y": 554.0,
+          "y": 554,
           "text": "mechanisms of the ODL will be put in place. Pilot projects will be initiated, evaluated and expanded.",
           "bbox": [
             90.04048919677734,
@@ -11493,7 +11635,7 @@
           ]
         },
         {
-          "y": 565.5,
+          "y": 565,
           "text": "Information resources will be identified, contracts for these resources will be negotiated and resources",
           "bbox": [
             90.04048919677734,
@@ -11527,7 +11669,7 @@
           ]
         },
         {
-          "y": 577.0,
+          "y": 577,
           "text": "will be made deployed through the ODL. Regular evaluation during this phase will ensure the ODL is",
           "bbox": [
             90.04048919677734,
@@ -11561,7 +11703,7 @@
           ]
         },
         {
-          "y": 588.5,
+          "y": 589,
           "text": "achieving its objectives and is accountable to its key communities.",
           "bbox": [
             90.04048919677734,
@@ -11595,7 +11737,7 @@
           ]
         },
         {
-          "y": 611.3,
+          "y": 611,
           "text": "Phase III: Operating and Growing the ODL",
           "bbox": [
             90.04048919677734,
@@ -11629,7 +11771,7 @@
           ]
         },
         {
-          "y": 634.4,
+          "y": 634,
           "text": "Timeline: January 2007 -",
           "bbox": [
             90.04048919677734,
@@ -11685,7 +11827,7 @@
           ]
         },
         {
-          "y": 645.9,
+          "y": 646,
           "text": "Funding: $50 Million annually ($35 Million requested from government)",
           "bbox": [
             90.04048156738281,
@@ -11741,7 +11883,7 @@
           ]
         },
         {
-          "y": 668.8,
+          "y": 669,
           "text": "Result: The ODL is fully operational and sustainable",
           "bbox": [
             90.04048919677734,
@@ -11797,7 +11939,7 @@
           ]
         },
         {
-          "y": 692.0,
+          "y": 692,
           "text": "In the third phase the ODL moves into the operational stage. Ontarians will experience the full benefits",
           "bbox": [
             90.05046081542969,
@@ -11831,7 +11973,7 @@
           ]
         },
         {
-          "y": 703.5,
+          "y": 703,
           "text": "of the initiative and libraries will consolidate support around the ODL to grow resources and extend",
           "bbox": [
             90.05046081542969,
@@ -11865,12 +12007,12 @@
           ]
         },
         {
-          "y": 731.0,
+          "y": 731,
           "text": "9",
           "bbox": [
             516.640625,
             730.9798583984375,
-            522.6436157226562,
+            524.650634765625,
             743.660888671875
           ],
           "spans": [
@@ -11895,11 +12037,33 @@
                 522.6436157226562,
                 743.660888671875
               ]
+            },
+            {
+              "size": 9.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": " ",
+              "origin": [
+                522.400634765625,
+                740.8798828125
+              ],
+              "bbox": [
+                522.400634765625,
+                731.4028930664062,
+                524.650634765625,
+                743.4088745117188
+              ]
             }
           ]
         },
         {
-          "y": 734.0,
+          "y": 734,
           "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
           "bbox": [
             90.04060363769531,
@@ -11962,7 +12126,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72.2,
+          "y": 72,
           "text": "capabilities. The challenge is to secure resources sufficient to both sustain the original investments and",
           "bbox": [
             90.04060363769531,
@@ -11996,7 +12160,7 @@
           ]
         },
         {
-          "y": 83.7,
+          "y": 84,
           "text": "to enhance the ODL.",
           "bbox": [
             90.04060363769531,
@@ -12030,7 +12194,7 @@
           ]
         },
         {
-          "y": 106.7,
+          "y": 107,
           "text": "The ongoing funding of the ODL will be based on a partnership model involving all the key participants",
           "bbox": [
             90.04060363769531,
@@ -12064,7 +12228,7 @@
           ]
         },
         {
-          "y": 118.2,
+          "y": 118,
           "text": "(i.e. government, libraries, donors, public and private sectors). All participants (i.e. beneficiaries) are",
           "bbox": [
             90.04060363769531,
@@ -12098,7 +12262,7 @@
           ]
         },
         {
-          "y": 129.7,
+          "y": 130,
           "text": "expected to make financial contributions to the ODL. It is important in achieving the full impact of the",
           "bbox": [
             90.0505599975586,
@@ -12132,7 +12296,7 @@
           ]
         },
         {
-          "y": 141.2,
+          "y": 141,
           "text": "ODL on Ontario’s economy, society and learning support that all library sectors are participants",
           "bbox": [
             90.0505599975586,
@@ -12166,7 +12330,7 @@
           ]
         },
         {
-          "y": 152.8,
+          "y": 153,
           "text": "(university, colleges, public libraries and schools).",
           "bbox": [
             90.0505599975586,
@@ -12200,7 +12364,7 @@
           ]
         },
         {
-          "y": 170.3,
+          "y": 170,
           "text": "The proposed funding model requires a continuing government investment, but also recognizes that as",
           "bbox": [
             90.0505599975586,
@@ -12234,7 +12398,7 @@
           ]
         },
         {
-          "y": 181.7,
+          "y": 182,
           "text": "the ODL matures a growing share of ODL funding will come from libraries and non-governmental",
           "bbox": [
             90.04060363769531,
@@ -12268,7 +12432,7 @@
           ]
         },
         {
-          "y": 193.2,
+          "y": 193,
           "text": "sources. During the 3-year implementation phase (2004 – 2006) libraries will realign their budgets to",
           "bbox": [
             90.04060363769531,
@@ -12302,7 +12466,7 @@
           ]
         },
         {
-          "y": 204.7,
+          "y": 205,
           "text": "enable ongoing funding contributions to ODL. During the same period ODL must build the proposed",
           "bbox": [
             90.04060363769531,
@@ -12336,7 +12500,7 @@
           ]
         },
         {
-          "y": 216.3,
+          "y": 216,
           "text": "endowment and secure public and private sector gifts and/or in-kind contributions. The following chart",
           "bbox": [
             90.04060363769531,
@@ -12370,7 +12534,7 @@
           ]
         },
         {
-          "y": 227.8,
+          "y": 228,
           "text": "outlines the model. This model is based on these assumptions:",
           "bbox": [
             90.04060363769531,
@@ -12404,7 +12568,7 @@
           ]
         },
         {
-          "y": 245.3,
+          "y": 245,
           "text": "1. that ODL expenditures will increase by 50% over a 10 year period",
           "bbox": [
             108.03832244873047,
@@ -12438,7 +12602,7 @@
           ]
         },
         {
-          "y": 262.7,
+          "y": 263,
           "text": "2. that government funding will decrease from 70% to 45% during that 10 year period",
           "bbox": [
             108.03832244873047,
@@ -12472,7 +12636,7 @@
           ]
         },
         {
-          "y": 280.2,
+          "y": 280,
           "text": "3. that library contributions, endowment and gifts/in-kind funding will increase from 30% to 55%",
           "bbox": [
             108.03832244873047,
@@ -12506,7 +12670,7 @@
           ]
         },
         {
-          "y": 291.7,
+          "y": 292,
           "text": "during the same period",
           "bbox": [
             126.0459976196289,
@@ -12540,7 +12704,7 @@
           ]
         },
         {
-          "y": 320.7,
+          "y": 321,
           "text": "OVERVIEW OF ODL FUNDING MODEL",
           "bbox": [
             245.80503845214844,
@@ -12574,7 +12738,7 @@
           ]
         },
         {
-          "y": 344.1,
+          "y": 344,
           "text": "Funding Source 2007 2017",
           "bbox": [
             114.40059661865234,
@@ -12652,7 +12816,7 @@
           ]
         },
         {
-          "y": 358.4,
+          "y": 358,
           "text": "Government $35M (70%) $33.75M (45%)",
           "bbox": [
             114.40059661865234,
@@ -12730,7 +12894,7 @@
           ]
         },
         {
-          "y": 370.4,
+          "y": 370,
           "text": "Libraries $10M (20%) $22.5M (30%)",
           "bbox": [
             114.40060424804688,
@@ -12808,7 +12972,7 @@
           ]
         },
         {
-          "y": 382.4,
+          "y": 382,
           "text": "Endowment $4.5M (9%) $15M (20%)",
           "bbox": [
             114.41058349609375,
@@ -12886,7 +13050,7 @@
           ]
         },
         {
-          "y": 394.4,
+          "y": 394,
           "text": "Gifts/In-Kind $0.5M (1%) $3.75M (5%)",
           "bbox": [
             114.41058349609375,
@@ -12964,13 +13128,13 @@
           ]
         },
         {
-          "y": 406.3,
-          "text": "TOTAL ANNUAL",
+          "y": 406,
+          "text": "TOTAL ANNUAL $50M $75M",
           "bbox": [
             114.41061401367188,
             406.31390380859375,
-            195.06167602539062,
-            417.42926025390625
+            452.6921081542969,
+            417.54876708984375
           ],
           "spans": [
             {
@@ -12994,19 +13158,7 @@
                 195.06167602539062,
                 417.42926025390625
               ]
-            }
-          ]
-        },
-        {
-          "y": 406.4,
-          "text": "$50M $75M",
-          "bbox": [
-            314.3277587890625,
-            406.43341064453125,
-            452.6921081542969,
-            417.54876708984375
-          ],
-          "spans": [
+            },
             {
               "size": 9.960000038146973,
               "flags": 0,
@@ -13054,7 +13206,7 @@
           ]
         },
         {
-          "y": 441.5,
+          "y": 441,
           "text": "While the private sector will be invited to participate in the ODL through the endowment, gifts and in-",
           "bbox": [
             90.0484619140625,
@@ -13088,7 +13240,7 @@
           ]
         },
         {
-          "y": 453.0,
+          "y": 453,
           "text": "kind contributions, the ODL will also explore compatible commercial services which leverage the reach",
           "bbox": [
             90.0484619140625,
@@ -13122,7 +13274,7 @@
           ]
         },
         {
-          "y": 464.5,
+          "y": 465,
           "text": "of the ODL and help to offset operating costs.",
           "bbox": [
             90.0484619140625,
@@ -13156,7 +13308,7 @@
           ]
         },
         {
-          "y": 487.6,
+          "y": 488,
           "text": "A $50M budget leverages the consortium buying power of the province’s libraries to secure the best",
           "bbox": [
             90.0484619140625,
@@ -13190,7 +13342,7 @@
           ]
         },
         {
-          "y": 499.0,
+          "y": 499,
           "text": "prices for information resources, the widest accessibility and the most favourable contracts. A budget of",
           "bbox": [
             90.0484619140625,
@@ -13224,7 +13376,7 @@
           ]
         },
         {
-          "y": 510.5,
+          "y": 510,
           "text": "this nature will ensure a core digital collection of sufficient scope and coverage to address a substantial",
           "bbox": [
             90.0484619140625,
@@ -13258,7 +13410,7 @@
           ]
         },
         {
-          "y": 522.0,
+          "y": 522,
           "text": "amount of the wide and diverse information and learning needs of the citizens of Ontario (an overview",
           "bbox": [
             90.0484619140625,
@@ -13292,7 +13444,7 @@
           ]
         },
         {
-          "y": 533.5,
+          "y": 534,
           "text": "of the nature of the ODL digital collection is appended). The proposed ODL expenditures in 2006",
           "bbox": [
             90.0484619140625,
@@ -13348,7 +13500,7 @@
           ]
         },
         {
-          "y": 545.1,
+          "y": 545,
           "text": "represent an investment of $5.00 per citizen.",
           "bbox": [
             90.04847717285156,
@@ -13382,7 +13534,7 @@
           ]
         },
         {
-          "y": 568.0,
+          "y": 568,
           "text": "It is important to recognize that every new dollar per citizen invested in the Ontario Digital Library has a",
           "bbox": [
             90.04847717285156,
@@ -13416,7 +13568,7 @@
           ]
         },
         {
-          "y": 579.5,
+          "y": 579,
           "text": "double benefit: it supports a province-wide library of high quality information resources and it",
           "bbox": [
             90.04847717285156,
@@ -13450,7 +13602,7 @@
           ]
         },
         {
-          "y": 591.0,
+          "y": 591,
           "text": "strengthens every local library in Ontario by allowing them to reinvest existing dollars in new resources",
           "bbox": [
             90.04847717285156,
@@ -13484,7 +13636,7 @@
           ]
         },
         {
-          "y": 602.5,
+          "y": 603,
           "text": "that enhance local services. This multiplier means that for every dollar invested in ODL the return",
           "bbox": [
             90.04847717285156,
@@ -13540,7 +13692,7 @@
           ]
         },
         {
-          "y": 614.1,
+          "y": 614,
           "text": "on investment is worth $2 of value for Ontario.",
           "bbox": [
             90.04847717285156,
@@ -13574,68 +13726,12 @@
           ]
         },
         {
-          "y": 731.0,
-          "text": "10",
+          "y": 731,
+          "text": "10 10",
           "bbox": [
             510.87750244140625,
             730.9798583984375,
-            522.6431884765625,
-            743.660888671875
-          ],
-          "spans": [
-            {
-              "size": 9.0,
-              "flags": 2,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial-BlackItalic",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.100000023841858,
-              "descender": -0.3089999854564667,
-              "text": "10",
-              "origin": [
-                510.87750244140625,
-                740.8798828125
-              ],
-              "bbox": [
-                510.87750244140625,
-                730.9798583984375,
-                522.4002075195312,
-                743.660888671875
-              ]
-            },
-            {
-              "size": 9.0,
-              "flags": 2,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial-BlackItalic",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.100000023841858,
-              "descender": -0.3089999854564667,
-              "text": "10",
-              "origin": [
-                511.1205139160156,
-                740.8798828125
-              ],
-              "bbox": [
-                511.1205139160156,
-                730.9798583984375,
-                522.6431884765625,
-                743.660888671875
-              ]
-            }
-          ]
-        },
-        {
-          "y": 731.2,
-          "text": "10",
-          "bbox": [
-            510.87750244140625,
-            731.222900390625,
-            522.6405029296875,
+            524.1669311523438,
             743.9039306640625
           ],
           "spans": [
@@ -13673,6 +13769,28 @@
               "descender": -0.3089999854564667,
               "text": "10",
               "origin": [
+                510.87750244140625,
+                740.8798828125
+              ],
+              "bbox": [
+                510.87750244140625,
+                730.9798583984375,
+                522.4002075195312,
+                743.660888671875
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 2,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial-BlackItalic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.100000023841858,
+              "descender": -0.3089999854564667,
+              "text": "10",
+              "origin": [
                 511.1178283691406,
                 741.1229248046875
               ],
@@ -13682,11 +13800,55 @@
                 522.6405029296875,
                 743.9039306640625
               ]
+            },
+            {
+              "size": 9.0,
+              "flags": 2,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial-BlackItalic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.100000023841858,
+              "descender": -0.3089999854564667,
+              "text": "10",
+              "origin": [
+                511.1205139160156,
+                740.8798828125
+              ],
+              "bbox": [
+                511.1205139160156,
+                730.9798583984375,
+                522.6431884765625,
+                743.660888671875
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": " ",
+              "origin": [
+                521.9169311523438,
+                740.8798828125
+              ],
+              "bbox": [
+                521.9169311523438,
+                731.4028930664062,
+                524.1669311523438,
+                743.4088745117188
+              ]
             }
           ]
         },
         {
-          "y": 734.0,
+          "y": 734,
           "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
           "bbox": [
             90.04060363769531,
@@ -13749,7 +13911,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 92.5,
+          "y": 93,
           "text": "Appendix B: ODL Steering Committee Terms of Reference",
           "bbox": [
             96.04060363769531,
@@ -13805,7 +13967,7 @@
           ]
         },
         {
-          "y": 136.8,
+          "y": 137,
           "text": "1. Preamble",
           "bbox": [
             90.04060363769531,
@@ -13839,7 +14001,7 @@
           ]
         },
         {
-          "y": 159.9,
+          "y": 160,
           "text": "Implementation of the Ontario Digital Library (ODL) requires a detailed business plan to be developed",
           "bbox": [
             95.7974853515625,
@@ -13873,7 +14035,7 @@
           ]
         },
         {
-          "y": 171.3,
+          "y": 171,
           "text": "and supported by its diverse stakeholder communities (see: www.odl.on.ca ). The business",
           "bbox": [
             95.7974853515625,
@@ -13951,7 +14113,7 @@
           ]
         },
         {
-          "y": 182.9,
+          "y": 183,
           "text": "development planning and commitment process will be overseen by a Steering Committee, who are",
           "bbox": [
             95.79751586914062,
@@ -13985,7 +14147,7 @@
           ]
         },
         {
-          "y": 194.4,
+          "y": 194,
           "text": "accountable to potential ODL funders including the Province of Ontario.",
           "bbox": [
             95.79751586914062,
@@ -14019,7 +14181,7 @@
           ]
         },
         {
-          "y": 217.3,
+          "y": 217,
           "text": "2. Terms of Reference",
           "bbox": [
             90.04063415527344,
@@ -14053,7 +14215,7 @@
           ]
         },
         {
-          "y": 240.3,
+          "y": 240,
           "text": "In broad terms, the ODL Business Plan Steering Committee is responsible for development of the",
           "bbox": [
             95.79751586914062,
@@ -14087,7 +14249,7 @@
           ]
         },
         {
-          "y": 251.9,
+          "y": 252,
           "text": "business plan, securing sector support, and management of the planners and process. Specific",
           "bbox": [
             95.79751586914062,
@@ -14121,7 +14283,7 @@
           ]
         },
         {
-          "y": 263.4,
+          "y": 263,
           "text": "responsibilities include:",
           "bbox": [
             95.79751586914062,
@@ -14155,7 +14317,7 @@
           ]
         },
         {
-          "y": 286.4,
+          "y": 286,
           "text": "2.1 developing a detailed business plan for the three-year implementation phase of the ODL, including",
           "bbox": [
             95.79751586914062,
@@ -14189,7 +14351,7 @@
           ]
         },
         {
-          "y": 297.8,
+          "y": 298,
           "text": "governance, management, funding model and structure, organizational structure, marketing,",
           "bbox": [
             131.79295349121094,
@@ -14223,7 +14385,7 @@
           ]
         },
         {
-          "y": 309.4,
+          "y": 309,
           "text": "staffing, and evaluation;",
           "bbox": [
             131.79295349121094,
@@ -14257,7 +14419,7 @@
           ]
         },
         {
-          "y": 320.9,
+          "y": 321,
           "text": "2.2 consulting with and reporting to stakeholder communities, to ensure open, consistent and two-way",
           "bbox": [
             95.79751586914062,
@@ -14291,7 +14453,7 @@
           ]
         },
         {
-          "y": 332.4,
+          "y": 332,
           "text": "communication, and to ensure meaningful opportunities for stakeholder input into decision-",
           "bbox": [
             131.79295349121094,
@@ -14325,7 +14487,7 @@
           ]
         },
         {
-          "y": 343.9,
+          "y": 344,
           "text": "making;",
           "bbox": [
             131.79295349121094,
@@ -14359,7 +14521,7 @@
           ]
         },
         {
-          "y": 355.5,
+          "y": 355,
           "text": "2.3 recruiting and managing the business planner(s);",
           "bbox": [
             95.79751586914062,
@@ -14393,7 +14555,7 @@
           ]
         },
         {
-          "y": 366.9,
+          "y": 367,
           "text": "2.4 defining terms of reference and resource parameters for business planner(s), and authorizing",
           "bbox": [
             95.79751586914062,
@@ -14427,7 +14589,7 @@
           ]
         },
         {
-          "y": 378.4,
+          "y": 378,
           "text": "expenditures;",
           "bbox": [
             131.79295349121094,
@@ -14461,7 +14623,7 @@
           ]
         },
         {
-          "y": 389.9,
+          "y": 390,
           "text": "2.5 serving as a focus group for business planner(s) to test ideas;",
           "bbox": [
             95.79751586914062,
@@ -14495,7 +14657,7 @@
           ]
         },
         {
-          "y": 401.4,
+          "y": 401,
           "text": "2.6 providing signoff for business planner(s) at key decision points of business plan development;",
           "bbox": [
             95.79751586914062,
@@ -14529,7 +14691,7 @@
           ]
         },
         {
-          "y": 413.0,
+          "y": 413,
           "text": "2.7 securing commitment from library, government, and institutional stakeholders for implementation",
           "bbox": [
             95.79751586914062,
@@ -14563,7 +14725,7 @@
           ]
         },
         {
-          "y": 424.5,
+          "y": 424,
           "text": "of the business plan;",
           "bbox": [
             131.79295349121094,
@@ -14597,7 +14759,7 @@
           ]
         },
         {
-          "y": 435.9,
+          "y": 436,
           "text": "2.8 presenting the business plan to funders",
           "bbox": [
             95.79751586914062,
@@ -14631,7 +14793,7 @@
           ]
         },
         {
-          "y": 447.4,
+          "y": 447,
           "text": "2.9 undertaking advocacy efforts to promote the ODL to the broader communities including library",
           "bbox": [
             95.79751586914062,
@@ -14665,7 +14827,7 @@
           ]
         },
         {
-          "y": 458.9,
+          "y": 459,
           "text": "and education communities.",
           "bbox": [
             131.79295349121094,
@@ -14699,7 +14861,7 @@
           ]
         },
         {
-          "y": 481.9,
+          "y": 482,
           "text": "3. Membership",
           "bbox": [
             90.03067016601562,
@@ -14733,7 +14895,7 @@
           ]
         },
         {
-          "y": 504.9,
+          "y": 505,
           "text": "Each of the four sectors, Schools, Colleges, Universities, and Public Libraries can appoint up to two",
           "bbox": [
             95.78755187988281,
@@ -14767,7 +14929,7 @@
           ]
         },
         {
-          "y": 516.4,
+          "y": 516,
           "text": "representatives to the steering committee",
           "bbox": [
             95.78755187988281,
@@ -14801,7 +14963,7 @@
           ]
         },
         {
-          "y": 539.4,
+          "y": 539,
           "text": "3.1 Schools:",
           "bbox": [
             95.78755187988281,
@@ -14835,7 +14997,7 @@
           ]
         },
         {
-          "y": 551.0,
+          "y": 551,
           "text": "- Ontario School Library Association (OSLA) and The Association of Library Consultants and",
           "bbox": [
             126.02610778808594,
@@ -14869,7 +15031,7 @@
           ]
         },
         {
-          "y": 562.3,
+          "y": 562,
           "text": "Coordinators of Ontario (TALCO) ( Executive Council of OSLA to name representative in",
           "bbox": [
             126.02610778808594,
@@ -14925,7 +15087,7 @@
           ]
         },
         {
-          "y": 573.8,
+          "y": 574,
           "text": "consultation with TALCO )",
           "bbox": [
             126.02609252929688,
@@ -14981,7 +15143,7 @@
           ]
         },
         {
-          "y": 585.4,
+          "y": 585,
           "text": "3.2 Universities:",
           "bbox": [
             95.78753662109375,
@@ -15015,7 +15177,7 @@
           ]
         },
         {
-          "y": 596.8,
+          "y": 597,
           "text": "- Ontario Council of University Libraries (OCUL) ( OCUL to name )",
           "bbox": [
             126.02609252929688,
@@ -15093,7 +15255,7 @@
           ]
         },
         {
-          "y": 608.5,
+          "y": 608,
           "text": "3.3 Colleges:",
           "bbox": [
             95.78753662109375,
@@ -15127,7 +15289,7 @@
           ]
         },
         {
-          "y": 619.9,
+          "y": 620,
           "text": "- Bibliocentre, and Heads of Libraries and Learning Resources (UAG and HLLR to name )",
           "bbox": [
             126.02609252929688,
@@ -15205,7 +15367,7 @@
           ]
         },
         {
-          "y": 631.4,
+          "y": 631,
           "text": "3.4 Public libraries:",
           "bbox": [
             95.77761840820312,
@@ -15239,7 +15401,7 @@
           ]
         },
         {
-          "y": 642.9,
+          "y": 643,
           "text": "- Administrators of Medium-sized Public Libraries of Ontario (AMPLO), Administrators of Rural",
           "bbox": [
             126.01617431640625,
@@ -15273,7 +15435,7 @@
           ]
         },
         {
-          "y": 654.4,
+          "y": 654,
           "text": "Urban Public Libraries of Ontario (ARUPLO), Administrators of Small Public Libraries of",
           "bbox": [
             126.01616668701172,
@@ -15307,7 +15469,7 @@
           ]
         },
         {
-          "y": 666.0,
+          "y": 666,
           "text": "Ontario (ASPLO) and Chief Executives of Large-sized Public Libraries of Ontario (CELPLO)",
           "bbox": [
             126.01616668701172,
@@ -15341,7 +15503,7 @@
           ]
         },
         {
-          "y": 677.4,
+          "y": 677,
           "text": "( Executives of AMPLO, ARUPLO, ASPLO and CELPLO to name )",
           "bbox": [
             126.01616668701172,
@@ -15419,68 +15581,12 @@
           ]
         },
         {
-          "y": 731.0,
-          "text": "11",
+          "y": 731,
+          "text": "11 11",
           "bbox": [
             510.87750244140625,
             730.9798583984375,
-            522.6431884765625,
-            743.660888671875
-          ],
-          "spans": [
-            {
-              "size": 9.0,
-              "flags": 2,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial-BlackItalic",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.100000023841858,
-              "descender": -0.3089999854564667,
-              "text": "11",
-              "origin": [
-                510.87750244140625,
-                740.8798828125
-              ],
-              "bbox": [
-                510.87750244140625,
-                730.9798583984375,
-                522.4002075195312,
-                743.660888671875
-              ]
-            },
-            {
-              "size": 9.0,
-              "flags": 2,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial-BlackItalic",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.100000023841858,
-              "descender": -0.3089999854564667,
-              "text": "11",
-              "origin": [
-                511.1205139160156,
-                740.8798828125
-              ],
-              "bbox": [
-                511.1205139160156,
-                730.9798583984375,
-                522.6431884765625,
-                743.660888671875
-              ]
-            }
-          ]
-        },
-        {
-          "y": 731.2,
-          "text": "11",
-          "bbox": [
-            510.87750244140625,
-            731.222900390625,
-            522.6405029296875,
+            524.1669311523438,
             743.9039306640625
           ],
           "spans": [
@@ -15518,6 +15624,28 @@
               "descender": -0.3089999854564667,
               "text": "11",
               "origin": [
+                510.87750244140625,
+                740.8798828125
+              ],
+              "bbox": [
+                510.87750244140625,
+                730.9798583984375,
+                522.4002075195312,
+                743.660888671875
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 2,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial-BlackItalic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.100000023841858,
+              "descender": -0.3089999854564667,
+              "text": "11",
+              "origin": [
                 511.1178283691406,
                 741.1229248046875
               ],
@@ -15527,11 +15655,55 @@
                 522.6405029296875,
                 743.9039306640625
               ]
+            },
+            {
+              "size": 9.0,
+              "flags": 2,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial-BlackItalic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.100000023841858,
+              "descender": -0.3089999854564667,
+              "text": "11",
+              "origin": [
+                511.1205139160156,
+                740.8798828125
+              ],
+              "bbox": [
+                511.1205139160156,
+                730.9798583984375,
+                522.6431884765625,
+                743.660888671875
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": " ",
+              "origin": [
+                521.9169311523438,
+                740.8798828125
+              ],
+              "bbox": [
+                521.9169311523438,
+                731.4028930664062,
+                524.1669311523438,
+                743.4088745117188
+              ]
             }
           ]
         },
         {
-          "y": 734.0,
+          "y": 734,
           "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
           "bbox": [
             90.04060363769531,
@@ -15594,7 +15766,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72.1,
+          "y": 72,
           "text": "3.5 Ontario Library Association representative (ex-officio) ( OLA to appoint one representative )",
           "bbox": [
             95.81950378417969,
@@ -15672,7 +15844,7 @@
           ]
         },
         {
-          "y": 83.8,
+          "y": 84,
           "text": "- Role of the OLA ex-officio member: To act as a liaison between the steering committee and",
           "bbox": [
             126.06802368164062,
@@ -15706,7 +15878,7 @@
           ]
         },
         {
-          "y": 95.3,
+          "y": 95,
           "text": "the OLA Board, and to assist the chair with the administrative responsibilities connected with",
           "bbox": [
             126.0680160522461,
@@ -15740,7 +15912,7 @@
           ]
         },
         {
-          "y": 106.7,
+          "y": 107,
           "text": "the preparation of the business plan, finance, and communications.",
           "bbox": [
             126.0680160522461,
@@ -15774,7 +15946,7 @@
           ]
         },
         {
-          "y": 129.7,
+          "y": 130,
           "text": "3.6 It is anticipated that as planning for the ODL evolves, the Steering Committee may, at its",
           "bbox": [
             95.82945251464844,
@@ -15808,7 +15980,7 @@
           ]
         },
         {
-          "y": 141.3,
+          "y": 141,
           "text": "discretion, call on invited experts to advise on issues as required.",
           "bbox": [
             95.82945251464844,
@@ -15842,7 +16014,7 @@
           ]
         },
         {
-          "y": 164.2,
+          "y": 164,
           "text": "4. Appointment Criteria and Process",
           "bbox": [
             90.07257080078125,
@@ -15876,7 +16048,7 @@
           ]
         },
         {
-          "y": 187.8,
+          "y": 188,
           "text": "4.1 Groups and organizations named in Section 3 above are responsible for appointing up to two",
           "bbox": [
             95.82945251464844,
@@ -15932,7 +16104,7 @@
           ]
         },
         {
-          "y": 199.8,
+          "y": 200,
           "text": "representatives to the Steering Committee.",
           "bbox": [
             131.83485412597656,
@@ -15966,7 +16138,7 @@
           ]
         },
         {
-          "y": 223.8,
+          "y": 224,
           "text": "4.2 Desired characteristics for steering committee appointees include:",
           "bbox": [
             95.83941650390625,
@@ -16022,7 +16194,7 @@
           ]
         },
         {
-          "y": 246.9,
+          "y": 247,
           "text": "•",
           "bbox": [
             108.08025360107422,
@@ -16056,7 +16228,7 @@
           ]
         },
         {
-          "y": 248.0,
+          "y": 248,
           "text": "Strategic thinkers;",
           "bbox": [
             126.07797241210938,
@@ -16090,7 +16262,7 @@
           ]
         },
         {
-          "y": 259.2,
+          "y": 259,
           "text": "•",
           "bbox": [
             108.08025360107422,
@@ -16124,7 +16296,7 @@
           ]
         },
         {
-          "y": 260.2,
+          "y": 260,
           "text": "Committed to the concept of multi-sector partnerships;",
           "bbox": [
             126.07797241210938,
@@ -16158,7 +16330,7 @@
           ]
         },
         {
-          "y": 271.3,
+          "y": 271,
           "text": "•",
           "bbox": [
             108.08025360107422,
@@ -16192,7 +16364,7 @@
           ]
         },
         {
-          "y": 272.3,
+          "y": 272,
           "text": "Knowledgeable about digital libraries and resources;",
           "bbox": [
             126.07797241210938,
@@ -16226,7 +16398,7 @@
           ]
         },
         {
-          "y": 283.5,
+          "y": 284,
           "text": "•",
           "bbox": [
             108.08025360107422,
@@ -16260,7 +16432,7 @@
           ]
         },
         {
-          "y": 284.6,
+          "y": 285,
           "text": "Knowledgeable about government structures;",
           "bbox": [
             126.07797241210938,
@@ -16294,7 +16466,7 @@
           ]
         },
         {
-          "y": 295.6,
+          "y": 296,
           "text": "•",
           "bbox": [
             108.08025360107422,
@@ -16328,7 +16500,7 @@
           ]
         },
         {
-          "y": 296.7,
+          "y": 297,
           "text": "Respected by their communities; influential;",
           "bbox": [
             126.07797241210938,
@@ -16362,7 +16534,7 @@
           ]
         },
         {
-          "y": 307.8,
+          "y": 308,
           "text": "•",
           "bbox": [
             108.08025360107422,
@@ -16396,7 +16568,7 @@
           ]
         },
         {
-          "y": 308.8,
+          "y": 309,
           "text": "Able to take a consultative approach;",
           "bbox": [
             126.07797241210938,
@@ -16430,7 +16602,7 @@
           ]
         },
         {
-          "y": 319.9,
+          "y": 320,
           "text": "•",
           "bbox": [
             108.04060363769531,
@@ -16464,7 +16636,7 @@
           ]
         },
         {
-          "y": 323.0,
+          "y": 323,
           "text": "Able to devote time to Steering Committee business: approximately one day per month for",
           "bbox": [
             126.04060363769531,
@@ -16498,7 +16670,7 @@
           ]
         },
         {
-          "y": 334.4,
+          "y": 334,
           "text": ".",
           "bbox": [
             386.68060302734375,
@@ -16532,7 +16704,7 @@
           ]
         },
         {
-          "y": 336.2,
+          "y": 336,
           "text": "meetings plus 2-3 working days per month on related activities",
           "bbox": [
             126.04060363769531,
@@ -16566,7 +16738,7 @@
           ]
         },
         {
-          "y": 359.6,
+          "y": 360,
           "text": "5. Term",
           "bbox": [
             90.04049682617188,
@@ -16600,7 +16772,7 @@
           ]
         },
         {
-          "y": 382.8,
+          "y": 383,
           "text": "Expected term on the Steering Committee is the time required to complete development of the",
           "bbox": [
             95.79737854003906,
@@ -16634,7 +16806,7 @@
           ]
         },
         {
-          "y": 394.2,
+          "y": 394,
           "text": "business plan plus two months. This process is expected to take approximately 6 months.",
           "bbox": [
             95.79737854003906,
@@ -16668,7 +16840,7 @@
           ]
         },
         {
-          "y": 417.1,
+          "y": 417,
           "text": "6. Chair",
           "bbox": [
             90.04049682617188,
@@ -16702,7 +16874,7 @@
           ]
         },
         {
-          "y": 440.3,
+          "y": 440,
           "text": "Chair will be appointed by the Board of the Ontario Library Association.",
           "bbox": [
             95.79737854003906,
@@ -16736,7 +16908,7 @@
           ]
         },
         {
-          "y": 465.5,
+          "y": 465,
           "text": "Role of the Chair:",
           "bbox": [
             95.79737854003906,
@@ -16770,7 +16942,7 @@
           ]
         },
         {
-          "y": 488.5,
+          "y": 488,
           "text": "In addition to the characteristics for appointees (4.2) the role of the chair will be as a process agent",
           "bbox": [
             95.79737854003906,
@@ -16804,7 +16976,7 @@
           ]
         },
         {
-          "y": 500.0,
+          "y": 500,
           "text": "working with the selected consultant(s), OLA, and the Steering Committee to prepare the business",
           "bbox": [
             95.79737854003906,
@@ -16838,7 +17010,7 @@
           ]
         },
         {
-          "y": 511.5,
+          "y": 512,
           "text": "plan. The chair must be able to devote 5-8 days per month on activities related to the preparation of",
           "bbox": [
             95.79737854003906,
@@ -16872,7 +17044,7 @@
           ]
         },
         {
-          "y": 523.1,
+          "y": 523,
           "text": "the business plan, and communications to stakeholders, funders, and government.",
           "bbox": [
             95.79737854003906,
@@ -16906,7 +17078,7 @@
           ]
         },
         {
-          "y": 545.9,
+          "y": 546,
           "text": "7. Meetings",
           "bbox": [
             90.04049682617188,
@@ -16940,7 +17112,7 @@
           ]
         },
         {
-          "y": 569.0,
+          "y": 569,
           "text": "It is expected that in person meetings are held once per month and the majority of business will be",
           "bbox": [
             95.79737854003906,
@@ -16974,7 +17146,7 @@
           ]
         },
         {
-          "y": 580.5,
+          "y": 581,
           "text": "conducted by e-mail, and teleconference.",
           "bbox": [
             95.79737854003906,
@@ -17008,7 +17180,7 @@
           ]
         },
         {
-          "y": 603.3,
+          "y": 603,
           "text": "8. Lines of Accountability and Communication",
           "bbox": [
             90.04049682617188,
@@ -17042,7 +17214,7 @@
           ]
         },
         {
-          "y": 626.5,
+          "y": 627,
           "text": "8.1 The Steering Committee is accountable to the Province of Ontario, and to its business plan",
           "bbox": [
             95.79737854003906,
@@ -17076,7 +17248,7 @@
           ]
         },
         {
-          "y": 638.0,
+          "y": 638,
           "text": "funders.",
           "bbox": [
             131.79281616210938,
@@ -17110,7 +17282,7 @@
           ]
         },
         {
-          "y": 661.1,
+          "y": 661,
           "text": "8.2 The role of the Ontario Library Association is to assume responsibility for funds contributed by the",
           "bbox": [
             95.79737854003906,
@@ -17144,7 +17316,7 @@
           ]
         },
         {
-          "y": 672.5,
+          "y": 672,
           "text": "ODL funders to finance the business plan, to hold the funds in a separate account, and",
           "bbox": [
             131.79281616210938,
@@ -17178,7 +17350,7 @@
           ]
         },
         {
-          "y": 684.0,
+          "y": 684,
           "text": "disperse them for purposes as directed by the Steering Committee. OLA will provide",
           "bbox": [
             131.79281616210938,
@@ -17212,7 +17384,7 @@
           ]
         },
         {
-          "y": 695.5,
+          "y": 696,
           "text": "financial reports to the Steering Committee as requested and shall comply with all",
           "bbox": [
             131.79281616210938,
@@ -17246,7 +17418,7 @@
           ]
         },
         {
-          "y": 707.0,
+          "y": 707,
           "text": "government reporting regulations for funds received.",
           "bbox": [
             131.79281616210938,
@@ -17280,68 +17452,12 @@
           ]
         },
         {
-          "y": 731.0,
-          "text": "12",
+          "y": 731,
+          "text": "12 12",
           "bbox": [
             510.87750244140625,
             730.9798583984375,
-            522.6431884765625,
-            743.660888671875
-          ],
-          "spans": [
-            {
-              "size": 9.0,
-              "flags": 2,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial-BlackItalic",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.100000023841858,
-              "descender": -0.3089999854564667,
-              "text": "12",
-              "origin": [
-                510.87750244140625,
-                740.8798828125
-              ],
-              "bbox": [
-                510.87750244140625,
-                730.9798583984375,
-                522.4002075195312,
-                743.660888671875
-              ]
-            },
-            {
-              "size": 9.0,
-              "flags": 2,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial-BlackItalic",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.100000023841858,
-              "descender": -0.3089999854564667,
-              "text": "12",
-              "origin": [
-                511.1205139160156,
-                740.8798828125
-              ],
-              "bbox": [
-                511.1205139160156,
-                730.9798583984375,
-                522.6431884765625,
-                743.660888671875
-              ]
-            }
-          ]
-        },
-        {
-          "y": 731.2,
-          "text": "12",
-          "bbox": [
-            510.87750244140625,
-            731.222900390625,
-            522.6405029296875,
+            524.1669311523438,
             743.9039306640625
           ],
           "spans": [
@@ -17379,6 +17495,28 @@
               "descender": -0.3089999854564667,
               "text": "12",
               "origin": [
+                510.87750244140625,
+                740.8798828125
+              ],
+              "bbox": [
+                510.87750244140625,
+                730.9798583984375,
+                522.4002075195312,
+                743.660888671875
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 2,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial-BlackItalic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.100000023841858,
+              "descender": -0.3089999854564667,
+              "text": "12",
+              "origin": [
                 511.1178283691406,
                 741.1229248046875
               ],
@@ -17388,11 +17526,55 @@
                 522.6405029296875,
                 743.9039306640625
               ]
+            },
+            {
+              "size": 9.0,
+              "flags": 2,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial-BlackItalic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.100000023841858,
+              "descender": -0.3089999854564667,
+              "text": "12",
+              "origin": [
+                511.1205139160156,
+                740.8798828125
+              ],
+              "bbox": [
+                511.1205139160156,
+                730.9798583984375,
+                522.6431884765625,
+                743.660888671875
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": " ",
+              "origin": [
+                521.9169311523438,
+                740.8798828125
+              ],
+              "bbox": [
+                521.9169311523438,
+                731.4028930664062,
+                524.1669311523438,
+                743.4088745117188
+              ]
             }
           ]
         },
         {
-          "y": 734.0,
+          "y": 734,
           "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
           "bbox": [
             90.04060363769531,
@@ -17455,7 +17637,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 83.8,
+          "y": 84,
           "text": "8.3 The Steering Committee is accountable to its constituent groups and other stakeholders for",
           "bbox": [
             95.80059814453125,
@@ -17489,7 +17671,7 @@
           ]
         },
         {
-          "y": 95.3,
+          "y": 95,
           "text": "ongoing communications and consultation on issues and progress. The Steering committee",
           "bbox": [
             131.80599975585938,
@@ -17523,7 +17705,7 @@
           ]
         },
         {
-          "y": 106.7,
+          "y": 107,
           "text": "is responsible for strong liaison with government particularly the Chief Information Officer",
           "bbox": [
             131.80599975585938,
@@ -17557,7 +17739,7 @@
           ]
         },
         {
-          "y": 118.2,
+          "y": 118,
           "text": "Community Services Cluster, ADM’s and Deputy Ministers.",
           "bbox": [
             131.80599975585938,
@@ -17591,7 +17773,7 @@
           ]
         },
         {
-          "y": 141.1,
+          "y": 141,
           "text": "9. Financial and Administrative Policies",
           "bbox": [
             90.04371643066406,
@@ -17625,7 +17807,7 @@
           ]
         },
         {
-          "y": 164.3,
+          "y": 164,
           "text": "9.1 Service on the Steering Committee is non-remunerative",
           "bbox": [
             95.81055450439453,
@@ -17659,7 +17841,7 @@
           ]
         },
         {
-          "y": 175.7,
+          "y": 176,
           "text": "9.2 Travel and meeting expenses for Steering Committee members are reimbursed according to the",
           "bbox": [
             95.81055450439453,
@@ -17693,7 +17875,7 @@
           ]
         },
         {
-          "y": 187.2,
+          "y": 187,
           "text": "policies of the Ontario Library Association",
           "bbox": [
             131.81594848632812,
@@ -17727,7 +17909,7 @@
           ]
         },
         {
-          "y": 198.7,
+          "y": 199,
           "text": "9.3 Conflict of Interest:",
           "bbox": [
             95.810546875,
@@ -17761,7 +17943,7 @@
           ]
         },
         {
-          "y": 210.3,
+          "y": 210,
           "text": "The ODL Steering Committee will function according to standard conflict of interest guidelines",
           "bbox": [
             126.04910278320312,
@@ -17795,7 +17977,7 @@
           ]
         },
         {
-          "y": 221.8,
+          "y": 222,
           "text": "ensuring that members, their immediate family members, or their places of employment, will",
           "bbox": [
             126.04910278320312,
@@ -17829,7 +18011,7 @@
           ]
         },
         {
-          "y": 233.3,
+          "y": 233,
           "text": "not benefit financially from the decisions the Steering Committee might make. As a first",
           "bbox": [
             126.0490951538086,
@@ -17863,7 +18045,7 @@
           ]
         },
         {
-          "y": 244.7,
+          "y": 245,
           "text": "order of business, the Steering Committee will be expected to adopt a conflict of interest policy",
           "bbox": [
             126.0490951538086,
@@ -17897,7 +18079,7 @@
           ]
         },
         {
-          "y": 256.2,
+          "y": 256,
           "text": "statement and procedural guidelines that will govern its work.",
           "bbox": [
             126.0490951538086,
@@ -17931,68 +18113,12 @@
           ]
         },
         {
-          "y": 731.0,
-          "text": "13",
+          "y": 731,
+          "text": "13 13",
           "bbox": [
             510.87750244140625,
             730.9798583984375,
-            522.6431884765625,
-            743.660888671875
-          ],
-          "spans": [
-            {
-              "size": 9.0,
-              "flags": 2,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial-BlackItalic",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.100000023841858,
-              "descender": -0.3089999854564667,
-              "text": "13",
-              "origin": [
-                510.87750244140625,
-                740.8798828125
-              ],
-              "bbox": [
-                510.87750244140625,
-                730.9798583984375,
-                522.4002075195312,
-                743.660888671875
-              ]
-            },
-            {
-              "size": 9.0,
-              "flags": 2,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial-BlackItalic",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.100000023841858,
-              "descender": -0.3089999854564667,
-              "text": "13",
-              "origin": [
-                511.1205139160156,
-                740.8798828125
-              ],
-              "bbox": [
-                511.1205139160156,
-                730.9798583984375,
-                522.6431884765625,
-                743.660888671875
-              ]
-            }
-          ]
-        },
-        {
-          "y": 731.2,
-          "text": "13",
-          "bbox": [
-            510.87750244140625,
-            731.222900390625,
-            522.6405029296875,
+            524.1669311523438,
             743.9039306640625
           ],
           "spans": [
@@ -18030,6 +18156,28 @@
               "descender": -0.3089999854564667,
               "text": "13",
               "origin": [
+                510.87750244140625,
+                740.8798828125
+              ],
+              "bbox": [
+                510.87750244140625,
+                730.9798583984375,
+                522.4002075195312,
+                743.660888671875
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 2,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial-BlackItalic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.100000023841858,
+              "descender": -0.3089999854564667,
+              "text": "13",
+              "origin": [
                 511.1178283691406,
                 741.1229248046875
               ],
@@ -18039,11 +18187,55 @@
                 522.6405029296875,
                 743.9039306640625
               ]
+            },
+            {
+              "size": 9.0,
+              "flags": 2,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial-BlackItalic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.100000023841858,
+              "descender": -0.3089999854564667,
+              "text": "13",
+              "origin": [
+                511.1205139160156,
+                740.8798828125
+              ],
+              "bbox": [
+                511.1205139160156,
+                730.9798583984375,
+                522.6431884765625,
+                743.660888671875
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": " ",
+              "origin": [
+                521.9169311523438,
+                740.8798828125
+              ],
+              "bbox": [
+                521.9169311523438,
+                731.4028930664062,
+                524.1669311523438,
+                743.4088745117188
+              ]
             }
           ]
         },
         {
-          "y": 734.0,
+          "y": 734,
           "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
           "bbox": [
             90.04060363769531,
@@ -18106,7 +18298,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 92.5,
+          "y": 93,
           "text": "Appendix C: ODL’s Envisioned Electronic Resources",
           "bbox": [
             96.04060363769531,
@@ -18162,7 +18354,7 @@
           ]
         },
         {
-          "y": 136.9,
+          "y": 137,
           "text": "The purpose of the ODL is to provide equal access to information for all Ontario citizens through",
           "bbox": [
             96.04039764404297,
@@ -18196,7 +18388,7 @@
           ]
         },
         {
-          "y": 148.4,
+          "y": 148,
           "text": "collaboration and resource sharing. ODL will be a portal - capable of customization as",
           "bbox": [
             96.04039764404297,
@@ -18230,7 +18422,7 @@
           ]
         },
         {
-          "y": 160.0,
+          "y": 160,
           "text": "a home page for local libraries - to organized, comprehensive, authoritative and validated",
           "bbox": [
             96.04039764404297,
@@ -18264,7 +18456,7 @@
           ]
         },
         {
-          "y": 171.4,
+          "y": 171,
           "text": "e-information resources to meet the needs of all Ontario citizens at all stages and in all aspects",
           "bbox": [
             96.04039764404297,
@@ -18298,7 +18490,7 @@
           ]
         },
         {
-          "y": 182.9,
+          "y": 183,
           "text": "of their education, life and work. Some examples:",
           "bbox": [
             96.04039764404297,
@@ -18332,7 +18524,7 @@
           ]
         },
         {
-          "y": 205.9,
+          "y": 206,
           "text": "1. Reference Resources",
           "bbox": [
             96.04039764404297,
@@ -18366,7 +18558,7 @@
           ]
         },
         {
-          "y": 229.0,
+          "y": 229,
           "text": "- directories: companies, associations, organizations, governments, educational institutions,",
           "bbox": [
             96.04039764404297,
@@ -18400,7 +18592,7 @@
           ]
         },
         {
-          "y": 240.4,
+          "y": 240,
           "text": "etc. etc.",
           "bbox": [
             96.04039764404297,
@@ -18434,7 +18626,7 @@
           ]
         },
         {
-          "y": 251.9,
+          "y": 252,
           "text": "- almanacs, country information",
           "bbox": [
             96.04039764404297,
@@ -18468,7 +18660,7 @@
           ]
         },
         {
-          "y": 263.4,
+          "y": 263,
           "text": "- dictionaries, thesauri, encyclopedias",
           "bbox": [
             96.04039764404297,
@@ -18502,7 +18694,7 @@
           ]
         },
         {
-          "y": 274.9,
+          "y": 275,
           "text": "-consumer information",
           "bbox": [
             96.04039764404297,
@@ -18536,7 +18728,7 @@
           ]
         },
         {
-          "y": 286.5,
+          "y": 286,
           "text": "- phone books,",
           "bbox": [
             96.04039764404297,
@@ -18570,7 +18762,7 @@
           ]
         },
         {
-          "y": 297.9,
+          "y": 298,
           "text": "- travel guides, entertainment guides",
           "bbox": [
             96.04039764404297,
@@ -18604,7 +18796,7 @@
           ]
         },
         {
-          "y": 309.4,
+          "y": 309,
           "text": "- weather information",
           "bbox": [
             96.04039764404297,
@@ -18638,7 +18830,7 @@
           ]
         },
         {
-          "y": 320.9,
+          "y": 321,
           "text": "- media/newspapers",
           "bbox": [
             96.04039764404297,
@@ -18672,7 +18864,7 @@
           ]
         },
         {
-          "y": 332.4,
+          "y": 332,
           "text": "- leisure time, recreational activity guides",
           "bbox": [
             96.04039764404297,
@@ -18706,7 +18898,7 @@
           ]
         },
         {
-          "y": 344.0,
+          "y": 344,
           "text": "- indexing and abstracting services",
           "bbox": [
             96.04039764404297,
@@ -18740,7 +18932,7 @@
           ]
         },
         {
-          "y": 355.5,
+          "y": 355,
           "text": "- currency converters,",
           "bbox": [
             96.04039764404297,
@@ -18774,7 +18966,7 @@
           ]
         },
         {
-          "y": 366.9,
+          "y": 367,
           "text": "- virtual reference services",
           "bbox": [
             96.04039764404297,
@@ -18808,7 +19000,7 @@
           ]
         },
         {
-          "y": 378.4,
+          "y": 378,
           "text": "-vocational/career information",
           "bbox": [
             96.04039764404297,
@@ -18842,7 +19034,7 @@
           ]
         },
         {
-          "y": 389.9,
+          "y": 390,
           "text": "-internet search engines",
           "bbox": [
             96.04039764404297,
@@ -18876,7 +19068,7 @@
           ]
         },
         {
-          "y": 401.5,
+          "y": 401,
           "text": "-current awareness services",
           "bbox": [
             96.04039764404297,
@@ -18910,7 +19102,7 @@
           ]
         },
         {
-          "y": 424.5,
+          "y": 424,
           "text": "2. Subject Guides",
           "bbox": [
             96.03853607177734,
@@ -18944,7 +19136,7 @@
           ]
         },
         {
-          "y": 447.4,
+          "y": 447,
           "text": "-arts and humanities",
           "bbox": [
             96.03853607177734,
@@ -18978,7 +19170,7 @@
           ]
         },
         {
-          "y": 458.9,
+          "y": 459,
           "text": "- business and economics",
           "bbox": [
             96.03853607177734,
@@ -19012,7 +19204,7 @@
           ]
         },
         {
-          "y": 470.5,
+          "y": 470,
           "text": "- education",
           "bbox": [
             96.0404052734375,
@@ -19046,7 +19238,7 @@
           ]
         },
         {
-          "y": 482.0,
+          "y": 482,
           "text": "-recreation and sports",
           "bbox": [
             96.0404052734375,
@@ -19080,7 +19272,7 @@
           ]
         },
         {
-          "y": 493.4,
+          "y": 493,
           "text": "-entertainment - games, activities for kids",
           "bbox": [
             96.0404052734375,
@@ -19114,7 +19306,7 @@
           ]
         },
         {
-          "y": 504.9,
+          "y": 505,
           "text": "-health information",
           "bbox": [
             96.0404052734375,
@@ -19148,7 +19340,7 @@
           ]
         },
         {
-          "y": 516.4,
+          "y": 516,
           "text": "-science and technology",
           "bbox": [
             96.0404052734375,
@@ -19182,7 +19374,7 @@
           ]
         },
         {
-          "y": 528.0,
+          "y": 528,
           "text": "-social sciences",
           "bbox": [
             96.0404052734375,
@@ -19216,7 +19408,7 @@
           ]
         },
         {
-          "y": 539.5,
+          "y": 539,
           "text": "-society and culture",
           "bbox": [
             96.0404052734375,
@@ -19250,7 +19442,7 @@
           ]
         },
         {
-          "y": 562.4,
+          "y": 562,
           "text": "3. Educational tool-kits",
           "bbox": [
             96.0404052734375,
@@ -19284,7 +19476,7 @@
           ]
         },
         {
-          "y": 585.4,
+          "y": 585,
           "text": "-guides to information gathering methodologies, information literacy",
           "bbox": [
             96.0404052734375,
@@ -19318,7 +19510,7 @@
           ]
         },
         {
-          "y": 597.0,
+          "y": 597,
           "text": "-study guides",
           "bbox": [
             96.04039001464844,
@@ -19352,7 +19544,7 @@
           ]
         },
         {
-          "y": 608.5,
+          "y": 608,
           "text": "-study skill development",
           "bbox": [
             96.04039001464844,
@@ -19386,7 +19578,7 @@
           ]
         },
         {
-          "y": 620.0,
+          "y": 620,
           "text": "-web-based curricula",
           "bbox": [
             96.04039001464844,
@@ -19420,7 +19612,7 @@
           ]
         },
         {
-          "y": 631.4,
+          "y": 631,
           "text": "-internet search guides",
           "bbox": [
             96.04241180419922,
@@ -19454,7 +19646,7 @@
           ]
         },
         {
-          "y": 654.4,
+          "y": 654,
           "text": "4. Journals, books, maps, music etc.",
           "bbox": [
             96.04241180419922,
@@ -19488,68 +19680,12 @@
           ]
         },
         {
-          "y": 731.0,
-          "text": "14",
+          "y": 731,
+          "text": "14 14",
           "bbox": [
             510.87750244140625,
             730.9798583984375,
-            522.6431884765625,
-            743.660888671875
-          ],
-          "spans": [
-            {
-              "size": 9.0,
-              "flags": 2,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial-BlackItalic",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.100000023841858,
-              "descender": -0.3089999854564667,
-              "text": "14",
-              "origin": [
-                510.87750244140625,
-                740.8798828125
-              ],
-              "bbox": [
-                510.87750244140625,
-                730.9798583984375,
-                522.4002075195312,
-                743.660888671875
-              ]
-            },
-            {
-              "size": 9.0,
-              "flags": 2,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial-BlackItalic",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.100000023841858,
-              "descender": -0.3089999854564667,
-              "text": "14",
-              "origin": [
-                511.1205139160156,
-                740.8798828125
-              ],
-              "bbox": [
-                511.1205139160156,
-                730.9798583984375,
-                522.6431884765625,
-                743.660888671875
-              ]
-            }
-          ]
-        },
-        {
-          "y": 731.2,
-          "text": "14",
-          "bbox": [
-            510.87750244140625,
-            731.222900390625,
-            522.6405029296875,
+            524.1669311523438,
             743.9039306640625
           ],
           "spans": [
@@ -19587,6 +19723,28 @@
               "descender": -0.3089999854564667,
               "text": "14",
               "origin": [
+                510.87750244140625,
+                740.8798828125
+              ],
+              "bbox": [
+                510.87750244140625,
+                730.9798583984375,
+                522.4002075195312,
+                743.660888671875
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 2,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial-BlackItalic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.100000023841858,
+              "descender": -0.3089999854564667,
+              "text": "14",
+              "origin": [
                 511.1178283691406,
                 741.1229248046875
               ],
@@ -19596,11 +19754,55 @@
                 522.6405029296875,
                 743.9039306640625
               ]
+            },
+            {
+              "size": 9.0,
+              "flags": 2,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial-BlackItalic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.100000023841858,
+              "descender": -0.3089999854564667,
+              "text": "14",
+              "origin": [
+                511.1205139160156,
+                740.8798828125
+              ],
+              "bbox": [
+                511.1205139160156,
+                730.9798583984375,
+                522.6431884765625,
+                743.660888671875
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": " ",
+              "origin": [
+                521.9169311523438,
+                740.8798828125
+              ],
+              "bbox": [
+                521.9169311523438,
+                731.4028930664062,
+                524.1669311523438,
+                743.4088745117188
+              ]
             }
           ]
         },
         {
-          "y": 734.0,
+          "y": 734,
           "text": "RFP: To Develop the Ontario Digital Library Business Plan March 2003",
           "bbox": [
             90.04060363769531,

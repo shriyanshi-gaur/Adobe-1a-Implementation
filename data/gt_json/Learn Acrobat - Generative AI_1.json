@@ -1,0 +1,180 @@
+{
+        "title": "Learn Acrobat: Generative AI",
+        "outline": [
+            {
+                "level": "H1",
+                "text": "Overview of generative AI features",
+                "page": 2
+            },
+            {
+                "level": "H1",
+                "text": "Benefits of generative AI features",
+                "page": 3
+            },
+            {
+                "level": "H1",
+                "text": "Turn off generative AI features",
+                "page": 3
+            },
+            {
+                "level": "H1",
+                "text": "User Guidelines",
+                "page": 3
+            },
+            {
+                "level": "H1",
+                "text": "Attributions",
+                "page": 3
+            },
+            {
+                "level": "H1",
+                "text": "Feedback",
+                "page": 4
+            },
+            {
+                "level": "H1",
+                "text": "Content usage and handling practices",
+                "page": 4
+            },
+            {
+                "level": "H2",
+                "text": "Will adobe ever look at your content while you're using generative ai in acrobat and acrobat reader?",
+                "page": 4
+            },
+            {
+                "level": "H2",
+                "text": "What steps do we take to protect your content when you share it with us as part of providing feedback?",
+                "page": 5
+            },
+            {
+                "level": "H2",
+                "text": "If you flag content as being harmful, illegal, or offensive or if you contribute content as feedback, how long do we retain that content?",
+                "page": 5
+            },
+            {
+                "level": "H2",
+                "text": "Do acrobat's generative ai features process my documents when i launch the application or open a file in the application?",
+                "page": 5
+            },
+            {
+                "level": "H2",
+                "text": "If I'm signed into my adobe account, does acrobat's generative ai features automatically start processing my documents when I launch the application, or open a file in the application?",
+                "page": 5
+            },
+            {
+                "level": "H2",
+                "text": "What LLMS are we leveraging to power generative ai in acrobat?",
+                "page": 6
+            },
+            {
+                "level": "H2",
+                "text": "Does adobe concurrently train any large language models (\"LLMS\") with your content while you're using generative ai features in acrobat?",
+                "page": 6
+            },
+            {
+                "level": "H1",
+                "text": "Managing chat history",
+                "page": 6
+            },
+            {
+                "level": "H2",
+                "text": "What is chat history?",
+                "page": 6
+            },
+            {
+                "level": "H2",
+                "text": "How can I see my chat history?",
+                "page": 6
+            },
+            {
+                "level": "H2",
+                "text": "Where is my chat history stored?",
+                "page": 7
+            },
+            {
+                "level": "H2",
+                "text": "Can I export my chat history in AI Assistant?",
+                "page": 7
+            },
+            {
+                "level": "H2",
+                "text": "How can I clear my chat history in AI Assistant?",
+                "page": 7
+            },
+            {
+                "level": "H2",
+                "text": "Can I disable chat history in AI Assistant?",
+                "page": 7
+            },
+            {
+                "level": "H2",
+                "text": "Can i share my chat history with others?",
+                "page": 7
+            },
+            {
+                "level": "H2",
+                "text": "What happens if I disconnect acrobat from other third-party cloud storage services such as google drive or OneDrive?",
+                "page": 7
+            },
+            {
+                "level": "H1",
+                "text": "Before You Begin",
+                "page": 9
+            },
+            {
+                "level": "H1",
+                "text": "Get AI-generated answers",
+                "page": 10
+            },
+            {
+                "level": "H2",
+                "text": "AI Assistant",
+                "page": 10
+            },
+            {
+                "level": "H1",
+                "text": "Accessing chat history in Acrobat",
+                "page": 12
+            },
+            {
+                "level": "H1",
+                "text": "Get AI-generated overviews and summaries",
+                "page": 12
+            },
+            {
+                "level": "H1",
+                "text": "Streaming summaries for long PDFs",
+                "page": 14
+            },
+            {
+                "level": "H1",
+                "text": "Use generative AI features in meeting apps",
+                "page": 14
+            },
+            {
+                "level": "H2",
+                "text": "Acrobat",
+                "page": 15
+            },
+            {
+                "level": "H2",
+                "text": "Access Zoom meeting transcripts in Acrobat",
+                "page": 15
+            },
+            {
+                "level": "H2",
+                "text": "Manually open meeting transcripts in Acrobat",
+                "page": 16
+            },
+            {
+                "level": "H1",
+                "text": "Know how to use generative AI features from Acrobat desktop and Acrobat online Home",
+                "page": 16
+            },
+            {
+                "level": "H1",
+                "text": "Use generative AI features in Acrobat Reader",
+                "page": 18
+            }
+        ]
+    }

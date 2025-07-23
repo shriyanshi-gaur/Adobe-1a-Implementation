@@ -7,7 +7,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72.4,
+          "y": 72,
           "text": "Labor Relations Analyst",
           "bbox": [
             221.4600067138672,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 90.9,
+          "y": 91,
           "text": "Qualifications Assessment",
           "bbox": [
             212.160400390625,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 121.8,
+          "y": 122,
           "text": "Section 1: Tasks",
           "bbox": [
             90.0,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 134.4,
+          "y": 134,
           "text": "Using the rating scale(s) provided below, you will rate your experience performing",
           "bbox": [
             90.0,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 147.0,
+          "y": 147,
           "text": "specific job-related tasks.",
           "bbox": [
             90.0,
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "y": 172.3,
+          "y": 172,
           "text": "Respond to each of the following statements by indicating how the statement applies to",
           "bbox": [
             90.0,
@@ -211,7 +211,7 @@
           ]
         },
         {
-          "y": 184.9,
+          "y": 185,
           "text": "you. You are required to respond to every statement by marking one option from the",
           "bbox": [
             90.0,
@@ -245,7 +245,7 @@
           ]
         },
         {
-          "y": 197.6,
+          "y": 198,
           "text": "scale(s) provided.",
           "bbox": [
             90.0,
@@ -279,7 +279,7 @@
           ]
         },
         {
-          "y": 222.9,
+          "y": 223,
           "text": "In responding to each statement, you may refer to your FORMAL EDUCATION,",
           "bbox": [
             90.0,
@@ -313,7 +313,7 @@
           ]
         },
         {
-          "y": 235.5,
+          "y": 236,
           "text": "FORMAL TRAINING COURSES, and/or WORK EXPERIENCE whether paid or",
           "bbox": [
             90.0,
@@ -347,7 +347,7 @@
           ]
         },
         {
-          "y": 248.2,
+          "y": 248,
           "text": "volunteer.",
           "bbox": [
             90.0,
@@ -381,7 +381,7 @@
           ]
         },
         {
-          "y": 260.9,
+          "y": 261,
           "text": "How much knowledge do you possess in performing this action?",
           "bbox": [
             90.0,
@@ -415,7 +415,7 @@
           ]
         },
         {
-          "y": 286.2,
+          "y": 286,
           "text": " Extensive Knowledge —I possess an expert knowledge level to the extent that I",
           "bbox": [
             107.99949645996094,
@@ -559,7 +559,7 @@
           ]
         },
         {
-          "y": 298.8,
+          "y": 299,
           "text": "could effectively perform this task in the most difficult and complex situations,",
           "bbox": [
             126.00668334960938,
@@ -593,7 +593,7 @@
           ]
         },
         {
-          "y": 311.4,
+          "y": 311,
           "text": "and I could instruct others on specific aspects of this task.",
           "bbox": [
             126.00668334960938,
@@ -627,15 +627,37 @@
           ]
         },
         {
-          "y": 324.1,
-          "text": "Substantial Knowledge —I possess an advanced knowledge level to the extent",
+          "y": 324,
+          "text": " Substantial Knowledge —I possess an advanced knowledge level to the extent",
           "bbox": [
-            113.03931427001953,
+            107.99949645996094,
             324.0809020996094,
             518.510498046875,
             336.3345642089844
           ],
           "spans": [
+            {
+              "size": 10.979999542236328,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 144,
+              "font": "Wingdings-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.8980000019073486,
+              "descender": -0.20999999344348907,
+              "text": "",
+              "origin": [
+                107.99949645996094,
+                334.0177917480469
+              ],
+              "bbox": [
+                107.99949645996094,
+                324.1577453613281,
+                113.0173568725586,
+                336.3235778808594
+              ]
+            },
             {
               "size": 10.979999542236328,
               "flags": 0,
@@ -705,41 +727,7 @@
           ]
         },
         {
-          "y": 324.2,
-          "text": "",
-          "bbox": [
-            107.99949645996094,
-            324.1577453613281,
-            113.0173568725586,
-            336.3235778808594
-          ],
-          "spans": [
-            {
-              "size": 10.979999542236328,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 144,
-              "font": "Wingdings-Regular",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.8980000019073486,
-              "descender": -0.20999999344348907,
-              "text": "",
-              "origin": [
-                107.99949645996094,
-                334.0177917480469
-              ],
-              "bbox": [
-                107.99949645996094,
-                324.1577453613281,
-                113.0173568725586,
-                336.3235778808594
-              ]
-            }
-          ]
-        },
-        {
-          "y": 336.7,
+          "y": 337,
           "text": "that I could effectively perform this task under the majority of circumstances or",
           "bbox": [
             125.99571228027344,
@@ -773,7 +761,7 @@
           ]
         },
         {
-          "y": 349.4,
+          "y": 349,
           "text": "situations encountered.",
           "bbox": [
             125.99571228027344,
@@ -807,7 +795,7 @@
           ]
         },
         {
-          "y": 362.1,
+          "y": 362,
           "text": " Moderate Knowledge —I possess a sufficient knowledge level that would allow",
           "bbox": [
             107.99949645996094,
@@ -907,7 +895,7 @@
           ]
         },
         {
-          "y": 374.7,
+          "y": 375,
           "text": "me to perform this task successfully.",
           "bbox": [
             125.99571228027344,
@@ -941,15 +929,37 @@
           ]
         },
         {
-          "y": 387.3,
-          "text": "Limited Knowledge —I have some knowledge of how to perform this task, but",
+          "y": 387,
+          "text": " Limited Knowledge —I have some knowledge of how to perform this task, but",
           "bbox": [
-            113.03931427001953,
+            107.99949645996094,
             387.3202209472656,
             509.95001220703125,
             399.5738830566406
           ],
           "spans": [
+            {
+              "size": 10.979999542236328,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 144,
+              "font": "Wingdings-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.8980000019073486,
+              "descender": -0.20999999344348907,
+              "text": "",
+              "origin": [
+                107.99949645996094,
+                397.2571105957031
+              ],
+              "bbox": [
+                107.99949645996094,
+                387.3970642089844,
+                113.0173568725586,
+                399.5628967285156
+              ]
+            },
             {
               "size": 10.979999542236328,
               "flags": 0,
@@ -1019,41 +1029,7 @@
           ]
         },
         {
-          "y": 387.4,
-          "text": "",
-          "bbox": [
-            107.99949645996094,
-            387.3970642089844,
-            113.0173568725586,
-            399.5628967285156
-          ],
-          "spans": [
-            {
-              "size": 10.979999542236328,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 144,
-              "font": "Wingdings-Regular",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.8980000019073486,
-              "descender": -0.20999999344348907,
-              "text": "",
-              "origin": [
-                107.99949645996094,
-                397.2571105957031
-              ],
-              "bbox": [
-                107.99949645996094,
-                387.3970642089844,
-                113.0173568725586,
-                399.5628967285156
-              ]
-            }
-          ]
-        },
-        {
-          "y": 400.0,
+          "y": 400,
           "text": "may require additional instruction to apply my knowledge effectively.",
           "bbox": [
             125.99571228027344,
@@ -1087,15 +1063,37 @@
           ]
         },
         {
-          "y": 412.6,
-          "text": "No Knowledge —I have no knowledge of how to perform this task or what it may",
+          "y": 413,
+          "text": " No Knowledge —I have no knowledge of how to perform this task or what it may",
           "bbox": [
-            113.03931427001953,
+            107.99949645996094,
             412.6401062011719,
             520.8442993164062,
             424.8937683105469
           ],
           "spans": [
+            {
+              "size": 10.979999542236328,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 144,
+              "font": "Wingdings-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.8980000019073486,
+              "descender": -0.20999999344348907,
+              "text": "",
+              "origin": [
+                107.99949645996094,
+                422.5769958496094
+              ],
+              "bbox": [
+                107.99949645996094,
+                412.7169494628906,
+                113.0173568725586,
+                424.8827819824219
+              ]
+            },
             {
               "size": 10.979999542236328,
               "flags": 0,
@@ -1165,41 +1163,7 @@
           ]
         },
         {
-          "y": 412.7,
-          "text": "",
-          "bbox": [
-            107.99949645996094,
-            412.7169494628906,
-            113.0173568725586,
-            424.8827819824219
-          ],
-          "spans": [
-            {
-              "size": 10.979999542236328,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 144,
-              "font": "Wingdings-Regular",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.8980000019073486,
-              "descender": -0.20999999344348907,
-              "text": "",
-              "origin": [
-                107.99949645996094,
-                422.5769958496094
-              ],
-              "bbox": [
-                107.99949645996094,
-                412.7169494628906,
-                113.0173568725586,
-                424.8827819824219
-              ]
-            }
-          ]
-        },
-        {
-          "y": 425.3,
+          "y": 425,
           "text": "entail.",
           "bbox": [
             125.99571228027344,
@@ -1233,7 +1197,7 @@
           ]
         },
         {
-          "y": 451.7,
+          "y": 452,
           "text": "1. Serving as a liaison between two parties in the resolution of issues.",
           "bbox": [
             108.0,
@@ -1267,7 +1231,7 @@
           ]
         },
         {
-          "y": 477.0,
+          "y": 477,
           "text": "2. Advising and informing decision makers regarding the interpretation of",
           "bbox": [
             108.0,
@@ -1301,7 +1265,7 @@
           ]
         },
         {
-          "y": 489.7,
+          "y": 490,
           "text": "provisions of contractual agreements.",
           "bbox": [
             125.9962158203125,
@@ -1335,7 +1299,7 @@
           ]
         },
         {
-          "y": 515.0,
+          "y": 515,
           "text": "3. Determining compliance with policies, procedures, contractural agreements,",
           "bbox": [
             107.9989013671875,
@@ -1369,7 +1333,7 @@
           ]
         },
         {
-          "y": 527.6,
+          "y": 528,
           "text": "rules and laws.",
           "bbox": [
             125.9951171875,
@@ -1403,7 +1367,7 @@
           ]
         },
         {
-          "y": 552.9,
+          "y": 553,
           "text": "4. Researching allegations made in grievances and/or complaints.",
           "bbox": [
             107.997802734375,
@@ -1437,7 +1401,7 @@
           ]
         },
         {
-          "y": 578.2,
+          "y": 578,
           "text": "5. Preparing responses to complaints and/or grievances.",
           "bbox": [
             107.997802734375,
@@ -1471,7 +1435,7 @@
           ]
         },
         {
-          "y": 603.5,
+          "y": 604,
           "text": "6. Making recommendations in response to complaints and/or grievances.",
           "bbox": [
             107.997802734375,
@@ -1505,7 +1469,7 @@
           ]
         },
         {
-          "y": 628.8,
+          "y": 629,
           "text": "7. Analyzing case law or administrative regulations relating to employment.",
           "bbox": [
             107.997802734375,
@@ -1539,7 +1503,7 @@
           ]
         },
         {
-          "y": 654.1,
+          "y": 654,
           "text": "8. Conducting research on assignments and projects relating to various aspects of",
           "bbox": [
             107.997802734375,
@@ -1573,7 +1537,7 @@
           ]
         },
         {
-          "y": 666.7,
+          "y": 667,
           "text": "labor relations (e.g., grievances, legislative analysis, special projects, public",
           "bbox": [
             125.9940185546875,
@@ -1607,7 +1571,7 @@
           ]
         },
         {
-          "y": 679.4,
+          "y": 679,
           "text": "inquiries, union information requests) to obtain and/or provide information, using",
           "bbox": [
             125.9940185546875,
@@ -1641,7 +1605,7 @@
           ]
         },
         {
-          "y": 692.1,
+          "y": 692,
           "text": "collective bargaining agreements, policies, procedures, laws, rules, and past",
           "bbox": [
             125.9940185546875,
@@ -1675,7 +1639,7 @@
           ]
         },
         {
-          "y": 704.7,
+          "y": 705,
           "text": "practice as directed by management.",
           "bbox": [
             125.9940185546875,
@@ -1716,7 +1680,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 84.9,
+          "y": 85,
           "text": "9. Preparing written correspondence regarding labor relations, human resources, or",
           "bbox": [
             107.99949645996094,
@@ -1750,7 +1714,7 @@
           ]
         },
         {
-          "y": 97.6,
+          "y": 98,
           "text": "employment.",
           "bbox": [
             125.99571228027344,
@@ -1784,7 +1748,7 @@
           ]
         },
         {
-          "y": 126.3,
+          "y": 126,
           "text": "10. Participating in groups or committees to develop or change policies and",
           "bbox": [
             108.0,
@@ -1818,7 +1782,7 @@
           ]
         },
         {
-          "y": 139.0,
+          "y": 139,
           "text": "procedures.",
           "bbox": [
             125.9962158203125,
@@ -1852,7 +1816,7 @@
           ]
         },
         {
-          "y": 164.3,
+          "y": 164,
           "text": "Section 2: Knowledge and Abilities",
           "bbox": [
             89.99939727783203,
@@ -1886,7 +1850,7 @@
           ]
         },
         {
-          "y": 176.9,
+          "y": 177,
           "text": "Using the rating scale(s) provided below, you will rate your experience in accordance to",
           "bbox": [
             89.99939727783203,
@@ -1920,7 +1884,7 @@
           ]
         },
         {
-          "y": 189.6,
+          "y": 190,
           "text": "specific job-related knowledge and abilities.",
           "bbox": [
             89.99939727783203,
@@ -1954,7 +1918,7 @@
           ]
         },
         {
-          "y": 214.8,
+          "y": 215,
           "text": "Respond to each of the following statements by indicating how the statement applies to",
           "bbox": [
             89.99939727783203,
@@ -1988,7 +1952,7 @@
           ]
         },
         {
-          "y": 227.5,
+          "y": 227,
           "text": "you. You are required to respond to every statement by marking one option from the",
           "bbox": [
             89.99939727783203,
@@ -2022,7 +1986,7 @@
           ]
         },
         {
-          "y": 240.1,
+          "y": 240,
           "text": "scale(s) provided.",
           "bbox": [
             89.99939727783203,
@@ -2056,7 +2020,7 @@
           ]
         },
         {
-          "y": 265.5,
+          "y": 265,
           "text": "In responding to each statement, you may refer to your FORMAL EDUCATION,",
           "bbox": [
             89.99939727783203,
@@ -2090,7 +2054,7 @@
           ]
         },
         {
-          "y": 278.1,
+          "y": 278,
           "text": "FORMAL TRAINING COURSES, and/or WORK EXPERIENCE whether paid or",
           "bbox": [
             89.99939727783203,
@@ -2124,7 +2088,7 @@
           ]
         },
         {
-          "y": 290.7,
+          "y": 291,
           "text": "volunteer.",
           "bbox": [
             89.99939727783203,
@@ -2158,7 +2122,7 @@
           ]
         },
         {
-          "y": 316.1,
+          "y": 316,
           "text": "How much education, training, and/or experience do you possess in the following",
           "bbox": [
             89.99939727783203,
@@ -2192,7 +2156,7 @@
           ]
         },
         {
-          "y": 328.8,
+          "y": 329,
           "text": "areas?",
           "bbox": [
             89.99939727783203,
@@ -2226,7 +2190,7 @@
           ]
         },
         {
-          "y": 354.0,
+          "y": 354,
           "text": " Extensive Education, Training, and/or Experience —I have extensive",
           "bbox": [
             107.9989013671875,
@@ -2326,7 +2290,7 @@
           ]
         },
         {
-          "y": 366.6,
+          "y": 367,
           "text": "education, training, and/or experience using and/or applying this knowledge or",
           "bbox": [
             125.9951171875,
@@ -2360,7 +2324,7 @@
           ]
         },
         {
-          "y": 379.3,
+          "y": 379,
           "text": "ability. I could effectively apply this knowledge or ability to the most difficult and",
           "bbox": [
             125.9951171875,
@@ -2438,7 +2402,7 @@
           ]
         },
         {
-          "y": 391.9,
+          "y": 392,
           "text": "complex situations, and I could instruct others on the specific aspects of this",
           "bbox": [
             125.99512481689453,
@@ -2472,7 +2436,7 @@
           ]
         },
         {
-          "y": 404.6,
+          "y": 405,
           "text": "knowledge or ability.",
           "bbox": [
             125.99512481689453,
@@ -2528,7 +2492,7 @@
           ]
         },
         {
-          "y": 417.3,
+          "y": 417,
           "text": " Substantial Education, Training, and/or Experience —I have substantial",
           "bbox": [
             107.9989013671875,
@@ -2628,7 +2592,7 @@
           ]
         },
         {
-          "y": 429.9,
+          "y": 430,
           "text": "education, training, and/or experience using and/or applying this knowledge or",
           "bbox": [
             125.9951171875,
@@ -2662,7 +2626,7 @@
           ]
         },
         {
-          "y": 442.5,
+          "y": 443,
           "text": "ability. I could effectively apply this knowledge or ability to many circumstances",
           "bbox": [
             125.9951171875,
@@ -2696,7 +2660,7 @@
           ]
         },
         {
-          "y": 455.2,
+          "y": 455,
           "text": "or situations.",
           "bbox": [
             125.9951171875,
@@ -2752,15 +2716,37 @@
           ]
         },
         {
-          "y": 467.8,
-          "text": "Moderate Education, Training, and/or Experience —I have moderate",
+          "y": 468,
+          "text": " Moderate Education, Training, and/or Experience —I have moderate",
           "bbox": [
-            113.0387191772461,
+            107.9989013671875,
             467.84051513671875,
             475.66864013671875,
             480.09417724609375
           ],
           "spans": [
+            {
+              "size": 10.979999542236328,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 144,
+              "font": "Wingdings-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.8980000019073486,
+              "descender": -0.20999999344348907,
+              "text": "",
+              "origin": [
+                107.9989013671875,
+                477.77740478515625
+              ],
+              "bbox": [
+                107.9989013671875,
+                467.9173583984375,
+                113.01676177978516,
+                480.08319091796875
+              ]
+            },
             {
               "size": 10.979999542236328,
               "flags": 0,
@@ -2830,41 +2816,7 @@
           ]
         },
         {
-          "y": 467.9,
-          "text": "",
-          "bbox": [
-            107.9989013671875,
-            467.9173583984375,
-            113.01676177978516,
-            480.08319091796875
-          ],
-          "spans": [
-            {
-              "size": 10.979999542236328,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 144,
-              "font": "Wingdings-Regular",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.8980000019073486,
-              "descender": -0.20999999344348907,
-              "text": "",
-              "origin": [
-                107.9989013671875,
-                477.77740478515625
-              ],
-              "bbox": [
-                107.9989013671875,
-                467.9173583984375,
-                113.01676177978516,
-                480.08319091796875
-              ]
-            }
-          ]
-        },
-        {
-          "y": 480.5,
+          "y": 481,
           "text": "education, training, and/or experience using and/or applying this knowledge or",
           "bbox": [
             125.9951171875,
@@ -2898,7 +2850,7 @@
           ]
         },
         {
-          "y": 493.1,
+          "y": 493,
           "text": "ability.",
           "bbox": [
             125.9951171875,
@@ -2954,7 +2906,7 @@
           ]
         },
         {
-          "y": 505.8,
+          "y": 506,
           "text": " Minimal Education, Training, and/or Experience —I have limited education,",
           "bbox": [
             107.997802734375,
@@ -3054,7 +3006,7 @@
           ]
         },
         {
-          "y": 518.4,
+          "y": 518,
           "text": "training, and/or experience using and/or applying this knowledge or ability.",
           "bbox": [
             125.9940185546875,
@@ -3110,15 +3062,37 @@
           ]
         },
         {
-          "y": 531.1,
-          "text": "No Education, Training, and/or Experience —I have no education, training,",
+          "y": 531,
+          "text": " No Education, Training, and/or Experience —I have no education, training,",
           "bbox": [
-            113.03651428222656,
+            107.99669647216797,
             531.079833984375,
             503.1918640136719,
             543.33349609375
           ],
           "spans": [
+            {
+              "size": 10.979999542236328,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 144,
+              "font": "Wingdings-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.8980000019073486,
+              "descender": -0.20999999344348907,
+              "text": "",
+              "origin": [
+                107.99669647216797,
+                541.0167236328125
+              ],
+              "bbox": [
+                107.99669647216797,
+                531.1566772460938,
+                113.01455688476562,
+                543.322509765625
+              ]
+            },
             {
               "size": 10.979999542236328,
               "flags": 0,
@@ -3188,41 +3162,7 @@
           ]
         },
         {
-          "y": 531.2,
-          "text": "",
-          "bbox": [
-            107.99669647216797,
-            531.1566772460938,
-            113.01455688476562,
-            543.322509765625
-          ],
-          "spans": [
-            {
-              "size": 10.979999542236328,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 144,
-              "font": "Wingdings-Regular",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.8980000019073486,
-              "descender": -0.20999999344348907,
-              "text": "",
-              "origin": [
-                107.99669647216797,
-                541.0167236328125
-              ],
-              "bbox": [
-                107.99669647216797,
-                531.1566772460938,
-                113.01455688476562,
-                543.322509765625
-              ]
-            }
-          ]
-        },
-        {
-          "y": 543.7,
+          "y": 544,
           "text": "and/or experience relevant to this knowledge or ability.",
           "bbox": [
             125.99290466308594,
@@ -3278,7 +3218,7 @@
           ]
         },
         {
-          "y": 581.7,
+          "y": 582,
           "text": "11. Knowledge of the structure and content of the English language including the",
           "bbox": [
             107.99559783935547,
@@ -3312,7 +3252,7 @@
           ]
         },
         {
-          "y": 594.3,
+          "y": 594,
           "text": "meaning and spelling of words, rules of composition, and grammar in order to",
           "bbox": [
             125.9918212890625,
@@ -3346,7 +3286,7 @@
           ]
         },
         {
-          "y": 607.0,
+          "y": 607,
           "text": "effectively communicate in writing and verbally to others.",
           "bbox": [
             125.9918212890625,
@@ -3380,7 +3320,7 @@
           ]
         },
         {
-          "y": 632.2,
+          "y": 632,
           "text": "12. Knowledge of arithmetic computations such as addition, subtraction,",
           "bbox": [
             107.99449920654297,
@@ -3414,7 +3354,7 @@
           ]
         },
         {
-          "y": 644.9,
+          "y": 645,
           "text": "multiplication, division, ratios, decimals, and percentages.",
           "bbox": [
             125.99072265625,
@@ -3448,7 +3388,7 @@
           ]
         },
         {
-          "y": 670.2,
+          "y": 670,
           "text": "13. Knowledge of problem solving processes to facilitate the resolution of issues.",
           "bbox": [
             107.99340057373047,
@@ -3489,7 +3429,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72.3,
+          "y": 72,
           "text": "14. Knowledge of internet, electronic mail software, and other basic personal",
           "bbox": [
             108.0,
@@ -3523,7 +3463,7 @@
           ]
         },
         {
-          "y": 84.9,
+          "y": 85,
           "text": "computer functions and software applications to complete projects and",
           "bbox": [
             125.9962158203125,
@@ -3557,7 +3497,7 @@
           ]
         },
         {
-          "y": 97.6,
+          "y": 98,
           "text": "assignments.",
           "bbox": [
             125.9962158203125,
@@ -3591,7 +3531,7 @@
           ]
         },
         {
-          "y": 122.8,
+          "y": 123,
           "text": "15. Ability to use a personal computer to input data, access information, and/or",
           "bbox": [
             107.9989013671875,
@@ -3625,7 +3565,7 @@
           ]
         },
         {
-          "y": 135.5,
+          "y": 136,
           "text": "create materials, documents and presentations using a variety of software",
           "bbox": [
             125.9951171875,
@@ -3659,7 +3599,7 @@
           ]
         },
         {
-          "y": 148.2,
+          "y": 148,
           "text": "applications.",
           "bbox": [
             125.9951171875,
@@ -3693,7 +3633,7 @@
           ]
         },
         {
-          "y": 173.5,
+          "y": 173,
           "text": "16. Ability to handle stressful or sensitive situations with professionalism, tact, and",
           "bbox": [
             107.997802734375,
@@ -3727,7 +3667,7 @@
           ]
         },
         {
-          "y": 186.1,
+          "y": 186,
           "text": "diplomacy in order to achieve a resolution.",
           "bbox": [
             125.9940185546875,
@@ -3761,7 +3701,7 @@
           ]
         },
         {
-          "y": 211.4,
+          "y": 211,
           "text": "17. Ability to work with all levels in an organization to provide information and ensure",
           "bbox": [
             107.99669647216797,
@@ -3795,7 +3735,7 @@
           ]
         },
         {
-          "y": 224.1,
+          "y": 224,
           "text": "employer is in compliance with labor/management relations laws, policies,",
           "bbox": [
             125.992919921875,
@@ -3829,7 +3769,7 @@
           ]
         },
         {
-          "y": 236.7,
+          "y": 237,
           "text": "procedures, and labor agreements.",
           "bbox": [
             125.992919921875,
@@ -3863,7 +3803,7 @@
           ]
         },
         {
-          "y": 262.0,
+          "y": 262,
           "text": "18. Ability to analyze various forms of data to provide statistical and/or informational",
           "bbox": [
             107.99559783935547,
@@ -3897,7 +3837,7 @@
           ]
         },
         {
-          "y": 274.6,
+          "y": 275,
           "text": "reports to management or others.",
           "bbox": [
             125.9918212890625,
@@ -3931,7 +3871,7 @@
           ]
         },
         {
-          "y": 300.0,
+          "y": 300,
           "text": "19. Ability to analyze and apply appropriate laws, rules, regulations, and collective",
           "bbox": [
             107.99449920654297,
@@ -3965,7 +3905,7 @@
           ]
         },
         {
-          "y": 312.6,
+          "y": 313,
           "text": "bargaining agreements.",
           "bbox": [
             125.99072265625,
@@ -3999,7 +3939,7 @@
           ]
         },
         {
-          "y": 337.9,
+          "y": 338,
           "text": "20. Ability to conduct research from various sources, compile information and data,",
           "bbox": [
             107.99340057373047,
@@ -4033,7 +3973,7 @@
           ]
         },
         {
-          "y": 350.5,
+          "y": 351,
           "text": "analyze, develop, evaluate alternatives and take effective action.",
           "bbox": [
             125.9896240234375,
@@ -4067,7 +4007,7 @@
           ]
         },
         {
-          "y": 375.9,
+          "y": 376,
           "text": "21. Ability to use good judgment and make sound recommendations in critical",
           "bbox": [
             107.99230194091797,
@@ -4101,7 +4041,7 @@
           ]
         },
         {
-          "y": 388.5,
+          "y": 388,
           "text": "situations.",
           "bbox": [
             125.988525390625,
@@ -4135,7 +4075,7 @@
           ]
         },
         {
-          "y": 413.8,
+          "y": 414,
           "text": "22. Ability to maintain confidentiality to preserve the integrity of labor relations issues",
           "bbox": [
             107.99120330810547,
@@ -4169,7 +4109,7 @@
           ]
         },
         {
-          "y": 426.4,
+          "y": 426,
           "text": "or human resources related matters.",
           "bbox": [
             125.9874267578125,
@@ -4203,7 +4143,7 @@
           ]
         },
         {
-          "y": 451.7,
+          "y": 452,
           "text": "23. Ability to support and advocate an employer’s positions to others.",
           "bbox": [
             107.99009704589844,
@@ -4237,7 +4177,7 @@
           ]
         },
         {
-          "y": 477.0,
+          "y": 477,
           "text": "24. Ability to communicate and promote a cooperative working environment during",
           "bbox": [
             107.99009704589844,
@@ -4271,7 +4211,7 @@
           ]
         },
         {
-          "y": 489.7,
+          "y": 490,
           "text": "stressful situations in the resolutions of issues.",
           "bbox": [
             125.99728393554688,
@@ -4305,7 +4245,7 @@
           ]
         },
         {
-          "y": 515.0,
+          "y": 515,
           "text": "25. Ability to communicate with all levels in an organization to provide and/or",
           "bbox": [
             107.98899841308594,
@@ -4339,7 +4279,7 @@
           ]
         },
         {
-          "y": 527.6,
+          "y": 528,
           "text": "summarize information related to labor/management relations laws, policies,",
           "bbox": [
             125.98521423339844,
@@ -4373,7 +4313,7 @@
           ]
         },
         {
-          "y": 540.3,
+          "y": 540,
           "text": "procedures, and labor agreements.",
           "bbox": [
             125.98521423339844,
@@ -4407,7 +4347,7 @@
           ]
         },
         {
-          "y": 565.6,
+          "y": 566,
           "text": "26. Ability to be flexible in adapting to changes in priorities, assignments, and/or",
           "bbox": [
             107.98789978027344,
@@ -4441,7 +4381,7 @@
           ]
         },
         {
-          "y": 578.2,
+          "y": 578,
           "text": "other interruptions, which may impact pre-established timelines and courses of",
           "bbox": [
             125.98411560058594,
@@ -4475,7 +4415,7 @@
           ]
         },
         {
-          "y": 590.8,
+          "y": 591,
           "text": "action for completing projects and assignments.",
           "bbox": [
             125.98411560058594,
@@ -4509,7 +4449,7 @@
           ]
         },
         {
-          "y": 616.2,
+          "y": 616,
           "text": "27. Ability to evaluate written materials and make recommendations for action based",
           "bbox": [
             107.98680114746094,
@@ -4543,7 +4483,7 @@
           ]
         },
         {
-          "y": 628.8,
+          "y": 629,
           "text": "upon documented data and information.",
           "bbox": [
             125.98301696777344,
@@ -4577,7 +4517,7 @@
           ]
         },
         {
-          "y": 654.1,
+          "y": 654,
           "text": "28. Ability to write clear and concise reports, correspondence, policies or procedures",
           "bbox": [
             107.98570251464844,
@@ -4611,7 +4551,7 @@
           ]
         },
         {
-          "y": 666.7,
+          "y": 667,
           "text": "using proper English, grammar, punctuation, and sentence structure.",
           "bbox": [
             125.98191833496094,
@@ -4645,7 +4585,7 @@
           ]
         },
         {
-          "y": 692.1,
+          "y": 692,
           "text": "29. Ability to interpret data obtained through various methods, such as surveys,",
           "bbox": [
             107.9845962524414,
@@ -4679,7 +4619,7 @@
           ]
         },
         {
-          "y": 704.7,
+          "y": 705,
           "text": "questionnaires, or interviews.",
           "bbox": [
             125.98081970214844,
@@ -4720,7 +4660,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 84.9,
+          "y": 85,
           "text": "30. Ability to extract specific, relevant data and information from a larger body of",
           "bbox": [
             107.99949645996094,
@@ -4754,7 +4694,7 @@
           ]
         },
         {
-          "y": 97.6,
+          "y": 98,
           "text": "material.",
           "bbox": [
             125.99571228027344,
@@ -4788,7 +4728,7 @@
           ]
         },
         {
-          "y": 122.8,
+          "y": 123,
           "text": "31. Ability to read and comprehend various technical documents such as policies,",
           "bbox": [
             107.99839782714844,
@@ -4822,7 +4762,7 @@
           ]
         },
         {
-          "y": 135.5,
+          "y": 136,
           "text": "procedures, standards, regulations, technical reports, and/or contracts.",
           "bbox": [
             125.99461364746094,
@@ -4856,7 +4796,7 @@
           ]
         },
         {
-          "y": 160.8,
+          "y": 161,
           "text": "32. Ability to present data in a clear and logical format such as tables, bar charts, pie",
           "bbox": [
             107.99729919433594,
@@ -4890,7 +4830,7 @@
           ]
         },
         {
-          "y": 173.5,
+          "y": 173,
           "text": "charts, and line graphs in order to determine the meaning of data presented for",
           "bbox": [
             125.99351501464844,
@@ -4924,7 +4864,7 @@
           ]
         },
         {
-          "y": 186.1,
+          "y": 186,
           "text": "assigned programs and/or projects.",
           "bbox": [
             125.99351501464844,
@@ -4958,7 +4898,7 @@
           ]
         },
         {
-          "y": 211.4,
+          "y": 211,
           "text": "33. Ability to analyze and evaluate policies and/or procedures for effectiveness",
           "bbox": [
             107.99620056152344,
@@ -4992,7 +4932,7 @@
           ]
         },
         {
-          "y": 224.1,
+          "y": 224,
           "text": "and/or impact.",
           "bbox": [
             125.99241638183594,
@@ -5026,7 +4966,7 @@
           ]
         },
         {
-          "y": 249.3,
+          "y": 249,
           "text": "34. Ability to establish and maintain cooperative working relationships and credibility",
           "bbox": [
             107.99510192871094,
@@ -5060,7 +5000,7 @@
           ]
         },
         {
-          "y": 262.0,
+          "y": 262,
           "text": "with others.",
           "bbox": [
             125.99131774902344,

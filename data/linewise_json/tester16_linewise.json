@@ -7,7 +7,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 41.8,
+          "y": 42,
           "text": "Broadcast Technicians, page 1 of 3",
           "bbox": [
             383.333984375,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 82.3,
+          "y": 82,
           "text": "A CareerZone Occupational Brief for:",
           "bbox": [
             70.86599731445312,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 97.6,
+          "y": 98,
           "text": "Broadcast Technicians",
           "bbox": [
             70.86599731445312,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 119.8,
+          "y": 120,
           "text": "An occupation in Engineering and Technologies",
           "bbox": [
             70.86599731445312,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 132.8,
+          "y": 133,
           "text": "New York State Department of Labor",
           "bbox": [
             367.8810119628906,
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "y": 145.8,
+          "y": 146,
           "text": "David A. Paterson, Governor",
           "bbox": [
             401.8739929199219,
@@ -211,7 +211,7 @@
           ]
         },
         {
-          "y": 166.7,
+          "y": 167,
           "text": "Job Description",
           "bbox": [
             256.291015625,
@@ -245,7 +245,7 @@
           ]
         },
         {
-          "y": 198.9,
+          "y": 199,
           "text": "Set up, operate, and maintain the electronic equipment used to transmit radio and television programs. Control",
           "bbox": [
             70.86599731445312,
@@ -279,7 +279,7 @@
           ]
         },
         {
-          "y": 210.9,
+          "y": 211,
           "text": "audio equipment to regulate volume level and quality of sound during radio and television broadcasts. Operate",
           "bbox": [
             70.86599731445312,
@@ -313,7 +313,7 @@
           ]
         },
         {
-          "y": 222.9,
+          "y": 223,
           "text": "radio transmitter to broadcast radio and television programs.",
           "bbox": [
             70.86599731445312,
@@ -347,7 +347,7 @@
           ]
         },
         {
-          "y": 248.8,
+          "y": 249,
           "text": "Interests",
           "bbox": [
             274.62701416015625,
@@ -381,15 +381,37 @@
           ]
         },
         {
-          "y": 281.0,
-          "text": "- Realistic occupations frequently involve work activities that include practical, hands-on problems and",
+          "y": 281,
+          "text": "Realistic - Realistic occupations frequently involve work activities that include practical, hands-on problems and",
           "bbox": [
-            107.88299560546875,
+            70.86599731445312,
             281.0490417480469,
             515.5380249023438,
-            293.4150390625
+            293.4870300292969
           ],
           "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Realistic",
+              "origin": [
+                70.86599731445312,
+                290.7240295410156
+              ],
+              "bbox": [
+                70.86599731445312,
+                281.0940246582031,
+                107.88299560546875,
+                293.4870300292969
+              ]
+            },
             {
               "size": 9.0,
               "flags": 0,
@@ -415,41 +437,7 @@
           ]
         },
         {
-          "y": 281.1,
-          "text": "Realistic",
-          "bbox": [
-            70.86599731445312,
-            281.0940246582031,
-            107.88299560546875,
-            293.4870300292969
-          ],
-          "spans": [
-            {
-              "size": 9.0,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "Realistic",
-              "origin": [
-                70.86599731445312,
-                290.7240295410156
-              ],
-              "bbox": [
-                70.86599731445312,
-                281.0940246582031,
-                107.88299560546875,
-                293.4870300292969
-              ]
-            }
-          ]
-        },
-        {
-          "y": 293.0,
+          "y": 293,
           "text": "solutions. They often deal with plants, animals, and real-world materials like wood, tools, and machinery. Many of",
           "bbox": [
             70.86599731445312,
@@ -483,7 +471,7 @@
           ]
         },
         {
-          "y": 305.0,
+          "y": 305,
           "text": "the occupations require working outside, and do not involve a lot of paperwork or working closely with others.",
           "bbox": [
             70.86599731445312,
@@ -517,7 +505,7 @@
           ]
         },
         {
-          "y": 331.0,
+          "y": 331,
           "text": "Tasks",
           "bbox": [
             281.635009765625,
@@ -551,7 +539,7 @@
           ]
         },
         {
-          "y": 363.2,
+          "y": 363,
           "text": "1 . Maintain programming logs, as required by station management and the Federal Communications",
           "bbox": [
             70.86599731445312,
@@ -607,7 +595,7 @@
           ]
         },
         {
-          "y": 375.2,
+          "y": 375,
           "text": "Commission.",
           "bbox": [
             70.86599731445312,
@@ -641,7 +629,7 @@
           ]
         },
         {
-          "y": 399.6,
+          "y": 400,
           "text": "2 . Control audio equipment to regulate the volume and sound quality during radio and television broadcasts.",
           "bbox": [
             70.86599731445312,
@@ -697,7 +685,7 @@
           ]
         },
         {
-          "y": 424.0,
+          "y": 424,
           "text": "3 . Monitor strength, clarity, and reliability of incoming and outgoing signals, and adjust equipment as necessary to",
           "bbox": [
             70.86599731445312,
@@ -753,7 +741,7 @@
           ]
         },
         {
-          "y": 436.0,
+          "y": 436,
           "text": "maintain quality broadcasts.",
           "bbox": [
             70.86599731445312,
@@ -787,7 +775,7 @@
           ]
         },
         {
-          "y": 460.4,
+          "y": 460,
           "text": "4 . Regulate the fidelity, brightness, and contrast of video transmissions, using video console control panels.",
           "bbox": [
             70.86599731445312,
@@ -843,7 +831,7 @@
           ]
         },
         {
-          "y": 484.8,
+          "y": 485,
           "text": "5 . Observe monitors and converse with station personnel to determine audio and video levels and to ascertain",
           "bbox": [
             70.86599731445312,
@@ -899,7 +887,7 @@
           ]
         },
         {
-          "y": 496.8,
+          "y": 497,
           "text": "that programs are airing.",
           "bbox": [
             70.86599731445312,
@@ -933,7 +921,7 @@
           ]
         },
         {
-          "y": 521.2,
+          "y": 521,
           "text": "6 . Preview scheduled programs to ensure that signals are functioning and programs are ready for transmission.",
           "bbox": [
             70.86599731445312,
@@ -989,7 +977,7 @@
           ]
         },
         {
-          "y": 545.6,
+          "y": 546,
           "text": "7 . Select sources from which programming will be received, or through which programming will be transmitted.",
           "bbox": [
             70.86599731445312,
@@ -1045,7 +1033,7 @@
           ]
         },
         {
-          "y": 570.0,
+          "y": 570,
           "text": "8 . Report equipment problems, ensure that repairs are made, and make emergency repairs to equipment when",
           "bbox": [
             70.86599731445312,
@@ -1101,7 +1089,7 @@
           ]
         },
         {
-          "y": 582.0,
+          "y": 582,
           "text": "necessary and possible.",
           "bbox": [
             70.86599731445312,
@@ -1135,7 +1123,7 @@
           ]
         },
         {
-          "y": 606.4,
+          "y": 606,
           "text": "9 . Record sound onto tape or film for radio or television, checking its quality and making adjustments where",
           "bbox": [
             70.86599731445312,
@@ -1191,7 +1179,7 @@
           ]
         },
         {
-          "y": 618.4,
+          "y": 618,
           "text": "necessary.",
           "bbox": [
             70.86599731445312,
@@ -1225,7 +1213,7 @@
           ]
         },
         {
-          "y": 642.8,
+          "y": 643,
           "text": "10 . Align antennae with receiving dishes to obtain the clearest signal for transmission of broadcasts from field",
           "bbox": [
             70.86599731445312,
@@ -1281,7 +1269,7 @@
           ]
         },
         {
-          "y": 654.8,
+          "y": 655,
           "text": "locations.",
           "bbox": [
             70.86599731445312,
@@ -1315,7 +1303,7 @@
           ]
         },
         {
-          "y": 679.2,
+          "y": 679,
           "text": "11 . Substitute programs in cases where signals fail.",
           "bbox": [
             70.86599731445312,
@@ -1371,7 +1359,7 @@
           ]
         },
         {
-          "y": 705.1,
+          "y": 705,
           "text": "Skills",
           "bbox": [
             283.63897705078125,
@@ -1405,15 +1393,37 @@
           ]
         },
         {
-          "y": 737.3,
-          "text": "- Watching gauges, dials, or other indicators to make sure a machine is working properly.",
+          "y": 737,
+          "text": "Operation Monitoring - Watching gauges, dials, or other indicators to make sure a machine is working properly.",
           "bbox": [
-            162.36898803710938,
+            70.86599731445312,
             737.3290405273438,
             519.0030517578125,
-            749.6950073242188
+            749.7670288085938
           ],
           "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Operation Monitoring",
+              "origin": [
+                70.86599731445312,
+                747.0040283203125
+              ],
+              "bbox": [
+                70.86599731445312,
+                737.3740234375,
+                162.36898803710938,
+                749.7670288085938
+              ]
+            },
             {
               "size": 9.0,
               "flags": 0,
@@ -1439,13 +1449,13 @@
           ]
         },
         {
-          "y": 737.4,
-          "text": "Operation Monitoring",
+          "y": 762,
+          "text": "Reading Comprehension - Understanding written sentences and paragraphs in work related documents.",
           "bbox": [
             70.86599731445312,
-            737.3740234375,
-            162.36898803710938,
-            749.7670288085938
+            761.72607421875,
+            492.0210266113281,
+            774.1640625
           ],
           "spans": [
             {
@@ -1458,30 +1468,18 @@
               "alpha": 255,
               "ascender": 1.0700000524520874,
               "descender": -0.3070000112056732,
-              "text": "Operation Monitoring",
+              "text": "Reading Comprehension",
               "origin": [
                 70.86599731445312,
-                747.0040283203125
+                771.4010620117188
               ],
               "bbox": [
                 70.86599731445312,
-                737.3740234375,
-                162.36898803710938,
-                749.7670288085938
+                761.7710571289062,
+                177.3809814453125,
+                774.1640625
               ]
-            }
-          ]
-        },
-        {
-          "y": 761.7,
-          "text": "- Understanding written sentences and paragraphs in work related documents.",
-          "bbox": [
-            177.38099670410156,
-            761.72607421875,
-            492.0210266113281,
-            774.092041015625
-          ],
-          "spans": [
+            },
             {
               "size": 9.0,
               "flags": 0,
@@ -1507,80 +1505,12 @@
           ]
         },
         {
-          "y": 761.8,
-          "text": "Reading Comprehension",
+          "y": 786,
+          "text": "Operation and Control - Controlling operations of equipment or systems.",
           "bbox": [
             70.86599731445312,
-            761.7710571289062,
-            177.3809814453125,
-            774.1640625
-          ],
-          "spans": [
-            {
-              "size": 9.0,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "Reading Comprehension",
-              "origin": [
-                70.86599731445312,
-                771.4010620117188
-              ],
-              "bbox": [
-                70.86599731445312,
-                761.7710571289062,
-                177.3809814453125,
-                774.1640625
-              ]
-            }
-          ]
-        },
-        {
-          "y": 786.1,
-          "text": "- Controlling operations of equipment or systems.",
-          "bbox": [
-            166.37399291992188,
             786.123046875,
             364.95001220703125,
-            798.489013671875
-          ],
-          "spans": [
-            {
-              "size": 9.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Helvetica",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0750000476837158,
-              "descender": -0.29899999499320984,
-              "text": " - Controlling operations of equipment or systems.",
-              "origin": [
-                166.37399291992188,
-                795.7980346679688
-              ],
-              "bbox": [
-                166.37399291992188,
-                786.123046875,
-                364.95001220703125,
-                798.489013671875
-              ]
-            }
-          ]
-        },
-        {
-          "y": 786.2,
-          "text": "Operation and Control",
-          "bbox": [
-            70.86599731445312,
-            786.1680297851562,
-            166.37400817871094,
             798.56103515625
           ],
           "spans": [
@@ -1605,6 +1535,28 @@
                 166.37400817871094,
                 798.56103515625
               ]
+            },
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " - Controlling operations of equipment or systems.",
+              "origin": [
+                166.37399291992188,
+                795.7980346679688
+              ],
+              "bbox": [
+                166.37399291992188,
+                786.123046875,
+                364.95001220703125,
+                798.489013671875
+              ]
             }
           ]
         }
@@ -1616,7 +1568,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 41.8,
+          "y": 42,
           "text": "Broadcast Technicians, page 2 of 3",
           "bbox": [
             383.333984375,
@@ -1650,7 +1602,7 @@
           ]
         },
         {
-          "y": 83.8,
+          "y": 84,
           "text": "Troubleshooting - Determining causes of operating errors and deciding what to do about it.",
           "bbox": [
             70.86599731445312,
@@ -1706,7 +1658,7 @@
           ]
         },
         {
-          "y": 108.3,
+          "y": 108,
           "text": "Active Listening - Giving full attention to what other people are saying, taking time to understand the points",
           "bbox": [
             70.86599731445312,
@@ -1762,7 +1714,7 @@
           ]
         },
         {
-          "y": 120.3,
+          "y": 120,
           "text": "being made, asking questions as appropriate, and not interrupting at inappropriate times.",
           "bbox": [
             70.86599731445312,
@@ -1796,15 +1748,37 @@
           ]
         },
         {
-          "y": 144.8,
-          "text": "- Understanding the implications of new information for both current and future problem-solving",
+          "y": 145,
+          "text": "Active Learning - Understanding the implications of new information for both current and future problem-solving",
           "bbox": [
-            138.38400268554688,
+            70.86599731445312,
             144.81101989746094,
             518.0401000976562,
-            157.17701721191406
+            157.2490234375
           ],
           "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Active Learning",
+              "origin": [
+                70.86599731445312,
+                154.48602294921875
+              ],
+              "bbox": [
+                70.86599731445312,
+                144.85601806640625,
+                138.38400268554688,
+                157.2490234375
+              ]
+            },
             {
               "size": 9.0,
               "flags": 0,
@@ -1830,41 +1804,7 @@
           ]
         },
         {
-          "y": 144.9,
-          "text": "Active Learning",
-          "bbox": [
-            70.86599731445312,
-            144.85601806640625,
-            138.38400268554688,
-            157.2490234375
-          ],
-          "spans": [
-            {
-              "size": 9.0,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "Active Learning",
-              "origin": [
-                70.86599731445312,
-                154.48602294921875
-              ],
-              "bbox": [
-                70.86599731445312,
-                144.85601806640625,
-                138.38400268554688,
-                157.2490234375
-              ]
-            }
-          ]
-        },
-        {
-          "y": 156.8,
+          "y": 157,
           "text": "and decision-making.",
           "bbox": [
             70.86599731445312,
@@ -1898,15 +1838,37 @@
           ]
         },
         {
-          "y": 181.3,
-          "text": "- Using logic and reasoning to identify the strengths and weaknesses of alternative solutions,",
+          "y": 181,
+          "text": "Critical Thinking - Using logic and reasoning to identify the strengths and weaknesses of alternative solutions,",
           "bbox": [
-            141.38099670410156,
+            70.86599731445312,
             181.3300323486328,
             512.5589599609375,
-            193.69602966308594
+            193.76803588867188
           ],
           "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Critical Thinking",
+              "origin": [
+                70.86599731445312,
+                191.00503540039062
+              ],
+              "bbox": [
+                70.86599731445312,
+                181.37503051757812,
+                141.38099670410156,
+                193.76803588867188
+              ]
+            },
             {
               "size": 9.0,
               "flags": 0,
@@ -1932,41 +1894,7 @@
           ]
         },
         {
-          "y": 181.4,
-          "text": "Critical Thinking",
-          "bbox": [
-            70.86599731445312,
-            181.37503051757812,
-            141.38099670410156,
-            193.76803588867188
-          ],
-          "spans": [
-            {
-              "size": 9.0,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "Critical Thinking",
-              "origin": [
-                70.86599731445312,
-                191.00503540039062
-              ],
-              "bbox": [
-                70.86599731445312,
-                181.37503051757812,
-                141.38099670410156,
-                193.76803588867188
-              ]
-            }
-          ]
-        },
-        {
-          "y": 193.3,
+          "y": 193,
           "text": "conclusions or approaches to problems.",
           "bbox": [
             70.86599731445312,
@@ -2000,7 +1928,7 @@
           ]
         },
         {
-          "y": 219.4,
+          "y": 219,
           "text": "Knowledge",
           "bbox": [
             267.95501708984375,
@@ -2034,7 +1962,7 @@
           ]
         },
         {
-          "y": 251.8,
+          "y": 252,
           "text": "Telecommunications - Knowledge of transmission, broadcasting, switching, control, and operation of",
           "bbox": [
             70.86599731445312,
@@ -2090,7 +2018,7 @@
           ]
         },
         {
-          "y": 263.8,
+          "y": 264,
           "text": "telecommunications systems.",
           "bbox": [
             70.86599731445312,
@@ -2124,7 +2052,7 @@
           ]
         },
         {
-          "y": 288.3,
+          "y": 288,
           "text": "Communications and Media - Knowledge of media production, communication, and dissemination techniques",
           "bbox": [
             70.86599731445312,
@@ -2180,7 +2108,7 @@
           ]
         },
         {
-          "y": 300.3,
+          "y": 300,
           "text": "and methods. This includes alternative ways to inform and entertain via written, oral, and visual media.",
           "bbox": [
             70.86599731445312,
@@ -2214,7 +2142,7 @@
           ]
         },
         {
-          "y": 324.8,
+          "y": 325,
           "text": "Computers and Electronics - Knowledge of circuit boards, processors, chips, electronic equipment, and",
           "bbox": [
             70.86599731445312,
@@ -2270,7 +2198,7 @@
           ]
         },
         {
-          "y": 336.8,
+          "y": 337,
           "text": "computer hardware and software, including applications and programming.",
           "bbox": [
             70.86599731445312,
@@ -2304,15 +2232,37 @@
           ]
         },
         {
-          "y": 361.3,
-          "text": "- Knowledge of the structure and content of the English language including the meaning and",
+          "y": 361,
+          "text": "English Language - Knowledge of the structure and content of the English language including the meaning and",
           "bbox": [
-            148.38299560546875,
+            70.86599731445312,
             361.30902099609375,
             517.0949096679688,
-            373.6750183105469
+            373.74700927734375
           ],
           "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "English Language",
+              "origin": [
+                70.86599731445312,
+                370.9840087890625
+              ],
+              "bbox": [
+                70.86599731445312,
+                361.35400390625,
+                148.38299560546875,
+                373.74700927734375
+              ]
+            },
             {
               "size": 9.0,
               "flags": 0,
@@ -2338,41 +2288,7 @@
           ]
         },
         {
-          "y": 361.4,
-          "text": "English Language",
-          "bbox": [
-            70.86599731445312,
-            361.35400390625,
-            148.38299560546875,
-            373.74700927734375
-          ],
-          "spans": [
-            {
-              "size": 9.0,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "English Language",
-              "origin": [
-                70.86599731445312,
-                370.9840087890625
-              ],
-              "bbox": [
-                70.86599731445312,
-                361.35400390625,
-                148.38299560546875,
-                373.74700927734375
-              ]
-            }
-          ]
-        },
-        {
-          "y": 373.3,
+          "y": 373,
           "text": "spelling of words, rules of composition, and grammar.",
           "bbox": [
             70.86599731445312,
@@ -2406,15 +2322,37 @@
           ]
         },
         {
-          "y": 397.8,
-          "text": "- Knowledge of the practical application of engineering science and technology.",
+          "y": 398,
+          "text": "Engineering and Technology - Knowledge of the practical application of engineering science and technology.",
           "bbox": [
-            194.3909912109375,
+            70.86599731445312,
             397.8280334472656,
             512.054931640625,
-            410.19403076171875
+            410.2660217285156
           ],
           "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Engineering and Technology",
+              "origin": [
+                70.86599731445312,
+                407.5030212402344
+              ],
+              "bbox": [
+                70.86599731445312,
+                397.8730163574219,
+                194.3909912109375,
+                410.2660217285156
+              ]
+            },
             {
               "size": 9.0,
               "flags": 0,
@@ -2440,41 +2378,7 @@
           ]
         },
         {
-          "y": 397.9,
-          "text": "Engineering and Technology",
-          "bbox": [
-            70.86599731445312,
-            397.8730163574219,
-            194.3909912109375,
-            410.2660217285156
-          ],
-          "spans": [
-            {
-              "size": 9.0,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "Engineering and Technology",
-              "origin": [
-                70.86599731445312,
-                407.5030212402344
-              ],
-              "bbox": [
-                70.86599731445312,
-                397.8730163574219,
-                194.3909912109375,
-                410.2660217285156
-              ]
-            }
-          ]
-        },
-        {
-          "y": 409.8,
+          "y": 410,
           "text": "This includes applying principles, techniques, procedures, and equipment to the design and production of various",
           "bbox": [
             70.86599731445312,
@@ -2508,7 +2412,7 @@
           ]
         },
         {
-          "y": 421.8,
+          "y": 422,
           "text": "goods and services.",
           "bbox": [
             70.86599731445312,
@@ -2542,15 +2446,37 @@
           ]
         },
         {
-          "y": 446.3,
-          "text": "- Knowledge of principles and methods for curriculum and training design, teaching and",
+          "y": 446,
+          "text": "Education and Training - Knowledge of principles and methods for curriculum and training design, teaching and",
           "bbox": [
-            170.88299560546875,
+            70.86599731445312,
             446.3470153808594,
             520.5419921875,
-            458.7130126953125
+            458.7850036621094
           ],
           "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Education and Training",
+              "origin": [
+                70.86599731445312,
+                456.0220031738281
+              ],
+              "bbox": [
+                70.86599731445312,
+                446.3919982910156,
+                170.88299560546875,
+                458.7850036621094
+              ]
+            },
             {
               "size": 9.0,
               "flags": 0,
@@ -2576,41 +2502,7 @@
           ]
         },
         {
-          "y": 446.4,
-          "text": "Education and Training",
-          "bbox": [
-            70.86599731445312,
-            446.3919982910156,
-            170.88299560546875,
-            458.7850036621094
-          ],
-          "spans": [
-            {
-              "size": 9.0,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "Education and Training",
-              "origin": [
-                70.86599731445312,
-                456.0220031738281
-              ],
-              "bbox": [
-                70.86599731445312,
-                446.3919982910156,
-                170.88299560546875,
-                458.7850036621094
-              ]
-            }
-          ]
-        },
-        {
-          "y": 458.3,
+          "y": 458,
           "text": "instruction for individuals and groups, and the measurement of training effects.",
           "bbox": [
             70.86599731445312,
@@ -2644,7 +2536,7 @@
           ]
         },
         {
-          "y": 482.9,
+          "y": 483,
           "text": "Mechanical - Knowledge of machines and tools, including their designs, uses, repair, and maintenance.",
           "bbox": [
             70.86599731445312,
@@ -2700,7 +2592,7 @@
           ]
         },
         {
-          "y": 508.9,
+          "y": 509,
           "text": "Education",
           "bbox": [
             270.95501708984375,
@@ -2734,7 +2626,7 @@
           ]
         },
         {
-          "y": 541.3,
+          "y": 541,
           "text": "Job Zone Three: Medium Preparation Needed",
           "bbox": [
             70.86599731445312,
@@ -2768,15 +2660,37 @@
           ]
         },
         {
-          "y": 562.2,
-          "text": "Most occupations in this zone require training in vocational schools, related on-the-job experience, or",
+          "y": 562,
+          "text": "Education: Most occupations in this zone require training in vocational schools, related on-the-job experience, or",
           "bbox": [
-            117.3689956665039,
+            70.86599731445312,
             562.2300415039062,
             518.5440063476562,
-            574.5960083007812
+            574.6680297851562
           ],
           "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Education:",
+              "origin": [
+                70.86599731445312,
+                571.905029296875
+              ],
+              "bbox": [
+                70.86599731445312,
+                562.2750244140625,
+                117.36900329589844,
+                574.6680297851562
+              ]
+            },
             {
               "size": 9.0,
               "flags": 0,
@@ -2802,41 +2716,7 @@
           ]
         },
         {
-          "y": 562.3,
-          "text": "Education:",
-          "bbox": [
-            70.86599731445312,
-            562.2750244140625,
-            117.36900329589844,
-            574.6680297851562
-          ],
-          "spans": [
-            {
-              "size": 9.0,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "Education:",
-              "origin": [
-                70.86599731445312,
-                571.905029296875
-              ],
-              "bbox": [
-                70.86599731445312,
-                562.2750244140625,
-                117.36900329589844,
-                574.6680297851562
-              ]
-            }
-          ]
-        },
-        {
-          "y": 574.2,
+          "y": 574,
           "text": "an associate's degree. Some may require a bachelor's degree.",
           "bbox": [
             70.86599731445312,
@@ -2870,7 +2750,7 @@
           ]
         },
         {
-          "y": 595.2,
+          "y": 595,
           "text": "Training : Employees in these occupations usually need one or two years of training involving both on-the-job",
           "bbox": [
             70.86599731445312,
@@ -2926,7 +2806,7 @@
           ]
         },
         {
-          "y": 607.2,
+          "y": 607,
           "text": "experience and informal training with experienced workers.",
           "bbox": [
             70.86599731445312,
@@ -2960,7 +2840,7 @@
           ]
         },
         {
-          "y": 633.2,
+          "y": 633,
           "text": "School Programs",
           "bbox": [
             251.6230010986328,
@@ -2994,7 +2874,7 @@
           ]
         },
         {
-          "y": 665.6,
+          "y": 666,
           "text": "Communications Technology/Technician. - A program that generally prepares individuals to function as",
           "bbox": [
             70.86599731445312,
@@ -3050,7 +2930,7 @@
           ]
         },
         {
-          "y": 677.6,
+          "y": 678,
           "text": "workers and managers within communications industries. Includes instruction in business economics; basic",
           "bbox": [
             70.86599731445312,
@@ -3084,7 +2964,7 @@
           ]
         },
         {
-          "y": 689.6,
+          "y": 690,
           "text": "management; principles of interpersonal and mediated communications; radio, television, and digital media",
           "bbox": [
             70.86599731445312,
@@ -3118,7 +2998,7 @@
           ]
         },
         {
-          "y": 701.6,
+          "y": 702,
           "text": "production; and related aspects of technology and communications systems.",
           "bbox": [
             70.86599731445312,
@@ -3152,15 +3032,37 @@
           ]
         },
         {
-          "y": 726.1,
-          "text": "- A program that prepares individuals to apply",
+          "y": 726,
+          "text": "Radio and Television Broadcasting Technology/Technician. - A program that prepares individuals to apply",
           "bbox": [
-            325.93499755859375,
+            70.86599731445312,
             726.113037109375,
             510.0120849609375,
-            738.47900390625
+            738.551025390625
           ],
           "spans": [
+            {
+              "size": 9.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Helvetica-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0700000524520874,
+              "descender": -0.3070000112056732,
+              "text": "Radio and Television Broadcasting Technology/Technician.",
+              "origin": [
+                70.86599731445312,
+                735.7880249023438
+              ],
+              "bbox": [
+                70.86599731445312,
+                726.1580200195312,
+                325.93487548828125,
+                738.551025390625
+              ]
+            },
             {
               "size": 9.0,
               "flags": 0,
@@ -3186,41 +3088,7 @@
           ]
         },
         {
-          "y": 726.2,
-          "text": "Radio and Television Broadcasting Technology/Technician.",
-          "bbox": [
-            70.86599731445312,
-            726.1580200195312,
-            325.93487548828125,
-            738.551025390625
-          ],
-          "spans": [
-            {
-              "size": 9.0,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Helvetica-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0700000524520874,
-              "descender": -0.3070000112056732,
-              "text": "Radio and Television Broadcasting Technology/Technician.",
-              "origin": [
-                70.86599731445312,
-                735.7880249023438
-              ],
-              "bbox": [
-                70.86599731445312,
-                726.1580200195312,
-                325.93487548828125,
-                738.551025390625
-              ]
-            }
-          ]
-        },
-        {
-          "y": 738.1,
+          "y": 738,
           "text": "technical knowledge and skills to the production of radio and television programs, and related operations, under",
           "bbox": [
             70.86599731445312,
@@ -3254,7 +3122,7 @@
           ]
         },
         {
-          "y": 750.1,
+          "y": 750,
           "text": "the supervision of broadcast and studio managers, directors, editors, and producers. Includes instruction in",
           "bbox": [
             70.86599731445312,
@@ -3288,7 +3156,7 @@
           ]
         },
         {
-          "y": 762.1,
+          "y": 762,
           "text": "sound, lighting, and camera operation and maintenance; power and feed control; studio operations; production",
           "bbox": [
             70.86599731445312,
@@ -3322,7 +3190,7 @@
           ]
         },
         {
-          "y": 774.1,
+          "y": 774,
           "text": "preparation; broadcast engineering; related computer applications; and specialized applications such as news,",
           "bbox": [
             70.86599731445312,
@@ -3356,7 +3224,7 @@
           ]
         },
         {
-          "y": 786.1,
+          "y": 786,
           "text": "entertainment, live talk, sports, commercials, and taping.",
           "bbox": [
             70.86599731445312,
@@ -3397,7 +3265,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 41.8,
+          "y": 42,
           "text": "Broadcast Technicians, page 3 of 3",
           "bbox": [
             383.333984375,
@@ -3431,7 +3299,7 @@
           ]
         },
         {
-          "y": 83.8,
+          "y": 84,
           "text": "Audiovisual Communications Technologies/Technicians, Other. - Any instructional program in audiovisual",
           "bbox": [
             70.86599731445312,
@@ -3487,7 +3355,7 @@
           ]
         },
         {
-          "y": 95.8,
+          "y": 96,
           "text": "communications technologies not listed above.",
           "bbox": [
             70.86599731445312,
@@ -3521,7 +3389,7 @@
           ]
         },
         {
-          "y": 121.9,
+          "y": 122,
           "text": "Wages",
           "bbox": [
             278.9649963378906,
@@ -3555,7 +3423,7 @@
           ]
         },
         {
-          "y": 154.4,
+          "y": 154,
           "text": "In NY the average wage for this occupation was:",
           "bbox": [
             70.86599731445312,
@@ -3589,7 +3457,7 @@
           ]
         },
         {
-          "y": 175.4,
+          "y": 175,
           "text": "$33,030 for entry level workers, and $65,350 for experienced workers.",
           "bbox": [
             70.86599731445312,
@@ -3623,7 +3491,7 @@
           ]
         },
         {
-          "y": 197.9,
+          "y": 198,
           "text": "Job Outlook",
           "bbox": [
             265.6210021972656,
@@ -3657,7 +3525,7 @@
           ]
         },
         {
-          "y": 230.4,
+          "y": 230,
           "text": "Based on the total number of annual openings and its growth rate, the employment prospects for this occupation",
           "bbox": [
             70.86599731445312,
@@ -3691,7 +3559,7 @@
           ]
         },
         {
-          "y": 242.4,
+          "y": 242,
           "text": "are described as Favorable.",
           "bbox": [
             70.86599731445312,
@@ -3725,7 +3593,7 @@
           ]
         },
         {
-          "y": 263.4,
+          "y": 263,
           "text": "In 2006, employment for Broadcast Technicians in NY was: 3,630.",
           "bbox": [
             70.86599731445312,
@@ -3759,7 +3627,7 @@
           ]
         },
         {
-          "y": 284.4,
+          "y": 284,
           "text": "It is anticipated that in the year 2016, employment in this area will number 3,930. There will be an increase of 30",
           "bbox": [
             70.86599731445312,
@@ -3793,7 +3661,7 @@
           ]
         },
         {
-          "y": 296.4,
+          "y": 296,
           "text": "new positions annually (0.01%). In addition, 120 jobs per year (0.03%) will become available due to employee",
           "bbox": [
             70.86599731445312,
@@ -3827,7 +3695,7 @@
           ]
         },
         {
-          "y": 308.4,
+          "y": 308,
           "text": "turnover.",
           "bbox": [
             70.86599731445312,
@@ -3861,7 +3729,7 @@
           ]
         },
         {
-          "y": 334.5,
+          "y": 335,
           "text": "Similar Jobs",
           "bbox": [
             264.96697998046875,
@@ -3895,7 +3763,7 @@
           ]
         },
         {
-          "y": 367.0,
+          "y": 367,
           "text": "Computer Support Specialists - Provide technical assistance to computer system users. Answer questions or",
           "bbox": [
             70.86599731445312,
@@ -3951,7 +3819,7 @@
           ]
         },
         {
-          "y": 379.0,
+          "y": 379,
           "text": "resolve computer problems for clients in person, via telephone or from remote location. May provide assistance",
           "bbox": [
             70.86599731445312,
@@ -3985,7 +3853,7 @@
           ]
         },
         {
-          "y": 391.0,
+          "y": 391,
           "text": "concerning the use of computer hardware and software, including printing, installation, word processing,",
           "bbox": [
             70.86599731445312,
@@ -4019,7 +3887,7 @@
           ]
         },
         {
-          "y": 403.0,
+          "y": 403,
           "text": "electronic mail, and operating systems.",
           "bbox": [
             70.86599731445312,
@@ -4053,7 +3921,7 @@
           ]
         },
         {
-          "y": 427.6,
+          "y": 428,
           "text": "Network Systems and Data Communications Analysts - Analyze, design, test, and evaluate network systems,",
           "bbox": [
             70.86599731445312,
@@ -4109,7 +3977,7 @@
           ]
         },
         {
-          "y": 439.6,
+          "y": 440,
           "text": "such as local area networks (LAN), wide area networks (WAN), Internet, intranet, and other data communications",
           "bbox": [
             70.86599731445312,
@@ -4143,7 +4011,7 @@
           ]
         },
         {
-          "y": 451.6,
+          "y": 452,
           "text": "systems. Perform network modeling, analysis, and planning. Research and recommend network and data",
           "bbox": [
             70.86599731445312,
@@ -4177,7 +4045,7 @@
           ]
         },
         {
-          "y": 463.6,
+          "y": 464,
           "text": "communications hardware and software. Includes telecommunications specialists who deal with the interfacing of",
           "bbox": [
             70.86599731445312,
@@ -4211,7 +4079,7 @@
           ]
         },
         {
-          "y": 475.6,
+          "y": 476,
           "text": "computer and communications equipment. May supervise computer programmers.",
           "bbox": [
             70.86599731445312,
@@ -4245,7 +4113,7 @@
           ]
         },
         {
-          "y": 500.2,
+          "y": 500,
           "text": "Radio Operators - Receive and transmit communications using radiotelegraph or radiotelephone equipment in",
           "bbox": [
             70.86599731445312,
@@ -4301,7 +4169,7 @@
           ]
         },
         {
-          "y": 512.2,
+          "y": 512,
           "text": "accordance with government regulations. May repair equipment.",
           "bbox": [
             70.86599731445312,
@@ -4335,7 +4203,7 @@
           ]
         },
         {
-          "y": 536.8,
+          "y": 537,
           "text": "Sound Engineering Technicians - Operate machines and equipment to record, synchronize, mix, or reproduce",
           "bbox": [
             70.86599731445312,
@@ -4391,7 +4259,7 @@
           ]
         },
         {
-          "y": 548.8,
+          "y": 549,
           "text": "music, voices, or sound effects in sporting arenas, theater productions, recording studios, or movie and video",
           "bbox": [
             70.86599731445312,
@@ -4425,7 +4293,7 @@
           ]
         },
         {
-          "y": 560.8,
+          "y": 561,
           "text": "productions.",
           "bbox": [
             70.86599731445312,
@@ -4459,7 +4327,7 @@
           ]
         },
         {
-          "y": 585.4,
+          "y": 585,
           "text": "Film and Video Editors - Edit motion picture soundtracks, film, and video.",
           "bbox": [
             70.86599731445312,
@@ -4515,7 +4383,7 @@
           ]
         },
         {
-          "y": 610.0,
+          "y": 610,
           "text": "Telecommunications Equipment Installers and Repairers, Except Line Installers - Set-up, rearrange,",
           "bbox": [
             70.86599731445312,
@@ -4571,7 +4439,7 @@
           ]
         },
         {
-          "y": 622.0,
+          "y": 622,
           "text": "or remove switching and dialing equipment used in central offices. Service or repair telephones and other",
           "bbox": [
             70.86599731445312,
@@ -4605,7 +4473,7 @@
           ]
         },
         {
-          "y": 634.0,
+          "y": 634,
           "text": "communication equipment on customers' property. May install equipment in new locations or install wiring and",
           "bbox": [
             70.86599731445312,
@@ -4639,7 +4507,7 @@
           ]
         },
         {
-          "y": 646.0,
+          "y": 646,
           "text": "telephone jacks in buildings under construction.",
           "bbox": [
             70.86599731445312,
@@ -4673,7 +4541,7 @@
           ]
         },
         {
-          "y": 670.6,
+          "y": 671,
           "text": "Electronic Home Entertainment Equipment Installers and Repairers - Repair, adjust, or install audio or",
           "bbox": [
             70.86599731445312,
@@ -4729,7 +4597,7 @@
           ]
         },
         {
-          "y": 682.6,
+          "y": 683,
           "text": "television receivers, stereo systems, camcorders, video systems, or other electronic home entertainment",
           "bbox": [
             70.86599731445312,
@@ -4763,7 +4631,7 @@
           ]
         },
         {
-          "y": 694.6,
+          "y": 695,
           "text": "equipment.",
           "bbox": [
             70.86599731445312,
@@ -4797,7 +4665,7 @@
           ]
         },
         {
-          "y": 719.2,
+          "y": 719,
           "text": "Telecommunications Line Installers and Repairers - String and repair telephone and television cable,",
           "bbox": [
             70.86599731445312,
@@ -4853,7 +4721,7 @@
           ]
         },
         {
-          "y": 731.2,
+          "y": 731,
           "text": "including fiber optics and other equipment for transmitting messages or television programming.",
           "bbox": [
             70.86599731445312,
@@ -4887,7 +4755,7 @@
           ]
         },
         {
-          "y": 755.8,
+          "y": 756,
           "text": "Nuclear Power Reactor Operators - Control nuclear reactors.",
           "bbox": [
             70.86599731445312,

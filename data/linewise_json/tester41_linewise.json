@@ -1,0 +1,5207 @@
+{
+  "filename": "tester41.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "page_width": 595.280029296875,
+      "page_height": 841.8900146484375,
+      "lines": [
+        {
+          "y": 11,
+          "text": "Constituent Service Success Stories",
+          "bbox": [
+            45.349998474121094,
+            10.971031188964844,
+            236.69496154785156,
+            27.625032424926758
+          ],
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
+              "text": "Constituent Service Success Stories",
+              "origin": [
+                45.349998474121094,
+                23.72003173828125
+              ],
+              "bbox": [
+                45.349998474121094,
+                10.971031188964844,
+                236.69496154785156,
+                27.625032424926758
+              ]
+            }
+          ]
+        },
+        {
+          "y": 104,
+          "text": "My office is here to help you with issues and problems you may be having with an agency of the",
+          "bbox": [
+            42.79999923706055,
+            103.94801330566406,
+            551.035888671875,
+            123.14801788330078
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "My office is here to help you with issues and problems you may be having with an agency of the",
+              "origin": [
+                42.79999923706055,
+                117.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                103.94801330566406,
+                551.035888671875,
+                123.14801788330078
+              ]
+            }
+          ]
+        },
+        {
+          "y": 119,
+          "text": "federal government, such as obtaining benefits and services from the Department of Veterans",
+          "bbox": [
+            42.79999923706055,
+            118.94801330566406,
+            540.3678588867188,
+            138.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "federal government, such as obtaining benefits and services from the Department of Veterans",
+              "origin": [
+                42.79999923706055,
+                132.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                118.94801330566406,
+                540.3678588867188,
+                138.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 134,
+          "text": "Affairs, Social Security Administration, Centers for Medicare and Medicaid Services, as well as",
+          "bbox": [
+            42.79999923706055,
+            133.94801330566406,
+            544.2918701171875,
+            153.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Affairs, Social Security Administration, Centers for Medicare and Medicaid Services, as well as",
+              "origin": [
+                42.79999923706055,
+                147.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                133.94801330566406,
+                544.2918701171875,
+                153.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 149,
+          "text": "assistance with military service records and medals, and passport issues. I invite you to read",
+          "bbox": [
+            42.79999923706055,
+            148.94801330566406,
+            536.98388671875,
+            168.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "assistance with military service records and medals, and passport issues.  I invite you to read",
+              "origin": [
+                42.79999923706055,
+                162.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                148.94801330566406,
+                536.98388671875,
+                168.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 164,
+          "text": "the following examples of how I’ve been able to help constituents and if you are in need of",
+          "bbox": [
+            42.79999923706055,
+            163.94801330566406,
+            519.7158813476562,
+            183.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "the following examples of how I’ve been able to help constituents and if you are in need of",
+              "origin": [
+                42.79999923706055,
+                177.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                163.94801330566406,
+                519.7158813476562,
+                183.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 179,
+          "text": "assistance, please visit my Help with a Federal Agency page to contact me directly.",
+          "bbox": [
+            42.79999923706055,
+            178.7320098876953,
+            500.5419616699219,
+            198.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "assistance, please visit my ",
+              "origin": [
+                42.79999923706055,
+                192.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                178.94801330566406,
+                188.1799774169922,
+                198.14801025390625
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
+              "text": "Help with a Federal Agency",
+              "origin": [
+                191.3000030517578,
+                192.6400146484375
+              ],
+              "bbox": [
+                191.3000030517578,
+                178.7320098876953,
+                347.3479919433594,
+                196.90000915527344
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "  page to contact me directly.",
+              "origin": [
+                347.3479919433594,
+                192.6400146484375
+              ],
+              "bbox": [
+                347.3479919433594,
+                178.94801330566406,
+                500.5419616699219,
+                198.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 209,
+          "text": "Melissa McIlrath, Stockton",
+          "bbox": [
+            42.79999923706055,
+            208.7320098876953,
+            200.74798583984375,
+            228.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "  ",
+              "origin": [
+                42.79999923706055,
+                222.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                208.94801330566406,
+                49.47200012207031,
+                228.14801025390625
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
+              "text": "Melissa McIlrath, Stockton",
+              "origin": [
+                50.040000915527344,
+                222.6400146484375
+              ],
+              "bbox": [
+                50.040000915527344,
+                208.7320098876953,
+                200.74798583984375,
+                226.90000915527344
+              ]
+            }
+          ]
+        },
+        {
+          "y": 254,
+          "text": "Ms. McIlrath contacted my office in June 2008 because she had yet to receive benefits from the",
+          "bbox": [
+            42.79999923706055,
+            253.94801330566406,
+            549.0438232421875,
+            273.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Ms. McIlrath contacted my office in June 2008 because she had yet to receive benefits from the",
+              "origin": [
+                42.79999923706055,
+                267.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                253.94801330566406,
+                549.0438232421875,
+                273.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 269,
+          "text": "Social Security Administration seven months after they determined she was eligible. My staff",
+          "bbox": [
+            42.79999923706055,
+            268.9480285644531,
+            536.3239135742188,
+            288.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Social Security Administration seven months after they determined she was eligible.  My staff",
+              "origin": [
+                42.79999923706055,
+                282.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                268.9480285644531,
+                536.3239135742188,
+                288.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 284,
+          "text": "immediately contacted the local Social Security office and explained Ms. McIlrath’s situation.",
+          "bbox": [
+            42.79999923706055,
+            283.9480285644531,
+            531.6439208984375,
+            303.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "immediately contacted the local Social Security office and explained Ms. McIlrath’s situation.",
+              "origin": [
+                42.79999923706055,
+                297.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                283.9480285644531,
+                531.6439208984375,
+                303.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 344,
+          "text": "Upon making an initial inquiry, my office was able to determine that Ms. McIlrath’s benefit",
+          "bbox": [
+            42.79999923706055,
+            343.9480285644531,
+            514.9639282226562,
+            363.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Upon making an initial inquiry, my office was able to determine that Ms. McIlrath’s benefit",
+              "origin": [
+                42.79999923706055,
+                357.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                343.9480285644531,
+                514.9639282226562,
+                363.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 359,
+          "text": "payment had been issued twice to an incorrect address. As it turned out, she was eligible to",
+          "bbox": [
+            42.79999923706055,
+            358.9480285644531,
+            531.7039184570312,
+            378.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "payment had been issued twice to an incorrect address.  As it turned out, she was eligible to",
+              "origin": [
+                42.79999923706055,
+                372.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                358.9480285644531,
+                531.7039184570312,
+                378.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 374,
+          "text": "receive benefits in excess of $45,000. A swift correction to the problem was made and Ms.",
+          "bbox": [
+            42.79999923706055,
+            373.9480285644531,
+            525.6798706054688,
+            393.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "receive benefits in excess of $45,000.  A swift correction to the problem was made and Ms.",
+              "origin": [
+                42.79999923706055,
+                387.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                373.9480285644531,
+                525.6798706054688,
+                393.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 389,
+          "text": "McIlrath received the back payments.",
+          "bbox": [
+            42.79999923706055,
+            388.9480285644531,
+            241.54396057128906,
+            408.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "McIlrath received the back payments.",
+              "origin": [
+                42.79999923706055,
+                402.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                388.9480285644531,
+                241.54396057128906,
+                408.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 419,
+          "text": "Paula Anderson, Brentwood",
+          "bbox": [
+            42.79999923706055,
+            418.7320251464844,
+            210.73199462890625,
+            438.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "  ",
+              "origin": [
+                42.79999923706055,
+                432.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                418.9480285644531,
+                49.47200012207031,
+                438.14801025390625
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
+              "text": "Paula Anderson, Brentwood",
+              "origin": [
+                50.040000915527344,
+                432.6400146484375
+              ],
+              "bbox": [
+                50.040000915527344,
+                418.7320251464844,
+                210.73199462890625,
+                436.9000244140625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 464,
+          "text": "Mrs. Anderson first contacted my office in June 2008 regarding Social Security disability",
+          "bbox": [
+            42.79999923706055,
+            463.9480285644531,
+            508.3158874511719,
+            483.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Mrs. Anderson first contacted my office in June 2008 regarding Social Security disability",
+              "origin": [
+                42.79999923706055,
+                477.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                463.9480285644531,
+                508.3158874511719,
+                483.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 479,
+          "text": "benefits. The Social Security Administration had ruled the previous April that Mrs. Anderson",
+          "bbox": [
+            42.79999923706055,
+            478.9480285644531,
+            528.3319091796875,
+            498.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "benefits. The Social Security Administration had ruled the previous April that Mrs. Anderson",
+              "origin": [
+                42.79999923706055,
+                492.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                478.9480285644531,
+                528.3319091796875,
+                498.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 494,
+          "text": "was entitled to benefits, but to date she had not received any.",
+          "bbox": [
+            42.79999923706055,
+            493.9480285644531,
+            368.99591064453125,
+            513.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "was entitled to benefits, but to date she had not received any.",
+              "origin": [
+                42.79999923706055,
+                507.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                493.9480285644531,
+                368.99591064453125,
+                513.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 554,
+          "text": "After waiting more than 60 days for her settlement payment, Mrs. Anderson and her family were",
+          "bbox": [
+            42.79999923706055,
+            553.947998046875,
+            550.33984375,
+            573.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "After waiting more than 60 days for her settlement payment, Mrs. Anderson and her family were",
+              "origin": [
+                42.79999923706055,
+                567.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                553.947998046875,
+                550.33984375,
+                573.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 569,
+          "text": "encountering financial straits and were close to losing their home.",
+          "bbox": [
+            42.79999923706055,
+            568.947998046875,
+            390.283935546875,
+            588.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "encountering financial straits and were close to losing their home.",
+              "origin": [
+                42.79999923706055,
+                582.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                568.947998046875,
+                390.283935546875,
+                588.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 629,
+          "text": "My staff called the local Social Security Administration office and Mrs. Anderson’s payment was",
+          "bbox": [
+            42.79999923706055,
+            628.947998046875,
+            548.971923828125,
+            648.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "My staff called the local Social Security Administration office and Mrs. Anderson’s payment was",
+              "origin": [
+                42.79999923706055,
+                642.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                628.947998046875,
+                548.971923828125,
+                648.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 644,
+          "text": "expedited. Soon thereafter, she received a $40,000 lump sum payment.",
+          "bbox": [
+            42.79999923706055,
+            643.947998046875,
+            423.66790771484375,
+            663.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "expedited. Soon thereafter, she received a $40,000 lump sum payment.",
+              "origin": [
+                42.79999923706055,
+                657.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                643.947998046875,
+                423.66790771484375,
+                663.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 704,
+          "text": "Mrs. Anderson was thankful to receive the funds and said, \"We really appreciated it and the",
+          "bbox": [
+            42.79999923706055,
+            703.947998046875,
+            527.2879028320312,
+            723.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Mrs. Anderson was thankful to receive the funds and said, \"We really appreciated it and the",
+              "origin": [
+                42.79999923706055,
+                717.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                703.947998046875,
+                527.2879028320312,
+                723.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 719,
+          "text": "Congressman totally jumping on it as we almost lost our home.\"",
+          "bbox": [
+            42.79999923706055,
+            718.947998046875,
+            380.5159606933594,
+            738.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Congressman totally jumping on it as we almost lost our home.\"",
+              "origin": [
+                42.79999923706055,
+                732.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                718.947998046875,
+                380.5159606933594,
+                738.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 749,
+          "text": "Frank Alvarez, Tracy",
+          "bbox": [
+            42.79999923706055,
+            748.7319946289062,
+            167.42398071289062,
+            768.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "  ",
+              "origin": [
+                42.79999923706055,
+                762.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                748.947998046875,
+                49.47200012207031,
+                768.1480102539062
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
+              "text": "Frank Alvarez, Tracy",
+              "origin": [
+                50.040000915527344,
+                762.6400146484375
+              ],
+              "bbox": [
+                50.040000915527344,
+                748.7319946289062,
+                167.42398071289062,
+                766.9000244140625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 802,
+          "text": "1 / 6",
+          "bbox": [
+            524.8900146484375,
+            801.81201171875,
+            542.6820068359375,
+            814.6119995117188
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": " 1 / 6",
+              "origin": [
+                524.8900146484375,
+                810.9400024414062
+              ],
+              "bbox": [
+                524.8900146484375,
+                801.81201171875,
+                542.6820068359375,
+                814.6119995117188
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_width": 595.280029296875,
+      "page_height": 841.8900146484375,
+      "lines": [
+        {
+          "y": 11,
+          "text": "Constituent Service Success Stories",
+          "bbox": [
+            42.79999923706055,
+            10.971031188964844,
+            234.14495849609375,
+            27.625032424926758
+          ],
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
+              "text": "Constituent Service Success Stories",
+              "origin": [
+                42.79999923706055,
+                23.72003173828125
+              ],
+              "bbox": [
+                42.79999923706055,
+                10.971031188964844,
+                234.14495849609375,
+                27.625032424926758
+              ]
+            }
+          ]
+        },
+        {
+          "y": 104,
+          "text": "Mr. Alvarez is a Vietnam veteran who was awarded a non-service connected pension by the VA",
+          "bbox": [
+            42.79999923706055,
+            103.94801330566406,
+            550.3519897460938,
+            123.14801788330078
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Mr. Alvarez is a Vietnam veteran who was awarded a non-service connected pension by the VA",
+              "origin": [
+                42.79999923706055,
+                117.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                103.94801330566406,
+                550.3519897460938,
+                123.14801788330078
+              ]
+            }
+          ]
+        },
+        {
+          "y": 119,
+          "text": "in 2004. The VA determined that he was permanently and totally disabled and unable to obtain",
+          "bbox": [
+            42.79999923706055,
+            118.94801330566406,
+            544.411865234375,
+            138.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "in 2004. The VA determined that he was permanently and totally disabled and unable to obtain",
+              "origin": [
+                42.79999923706055,
+                132.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                118.94801330566406,
+                544.411865234375,
+                138.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 134,
+          "text": "gainful employment.",
+          "bbox": [
+            42.79999923706055,
+            133.94801330566406,
+            150.17599487304688,
+            153.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "gainful employment.",
+              "origin": [
+                42.79999923706055,
+                147.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                133.94801330566406,
+                150.17599487304688,
+                153.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 194,
+          "text": "He is also the father of two young boys, one biological and one adopted. He took them both in",
+          "bbox": [
+            42.79999923706055,
+            193.94801330566406,
+            540.4158935546875,
+            213.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "He is also the father of two young boys, one biological and one adopted. He took them both in",
+              "origin": [
+                42.79999923706055,
+                207.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                193.94801330566406,
+                540.4158935546875,
+                213.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 209,
+          "text": "when their mother passed away in August 2005. Due to their mother’s death, each of the boys",
+          "bbox": [
+            42.79999923706055,
+            208.94801330566406,
+            545.0479125976562,
+            228.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "when their mother passed away in August 2005.  Due to their mother’s death, each of the boys",
+              "origin": [
+                42.79999923706055,
+                222.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                208.94801330566406,
+                545.0479125976562,
+                228.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 224,
+          "text": "receives a small monthly survivor benefit from the Social Security Administration. The VA",
+          "bbox": [
+            42.79999923706055,
+            223.94801330566406,
+            514.9519653320312,
+            243.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "receives a small monthly survivor benefit from the Social Security Administration. The VA",
+              "origin": [
+                42.79999923706055,
+                237.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                223.94801330566406,
+                514.9519653320312,
+                243.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 239,
+          "text": "considered the children’s survivor benefits as part of Mr. Alvarez’s income and thus determined",
+          "bbox": [
+            42.79999923706055,
+            238.94801330566406,
+            546.9678344726562,
+            258.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "considered the children’s survivor benefits as part of Mr. Alvarez’s income and thus determined",
+              "origin": [
+                42.79999923706055,
+                252.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                238.94801330566406,
+                546.9678344726562,
+                258.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 254,
+          "text": "that his monthly income of just under $17,000 exceeded the VA limit for pension eligibility –",
+          "bbox": [
+            42.79999923706055,
+            253.94801330566406,
+            525.69189453125,
+            273.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "that his monthly income of just under $17,000 exceeded the VA limit for pension eligibility –",
+              "origin": [
+                42.79999923706055,
+                267.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                253.94801330566406,
+                525.69189453125,
+                273.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 269,
+          "text": "even though the limit was exceeded by just $490.",
+          "bbox": [
+            42.79999923706055,
+            268.9480285644531,
+            304.93994140625,
+            288.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "even though the limit was exceeded by just $490.",
+              "origin": [
+                42.79999923706055,
+                282.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                268.9480285644531,
+                304.93994140625,
+                288.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 329,
+          "text": "Mr. Alvarez contacted my office in January 2008 after the VA made this determination and",
+          "bbox": [
+            42.79999923706055,
+            328.9480285644531,
+            520.3519287109375,
+            348.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Mr. Alvarez contacted my office in January 2008 after the VA made this determination and",
+              "origin": [
+                42.79999923706055,
+                342.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                328.9480285644531,
+                520.3519287109375,
+                348.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 344,
+          "text": "informed him of the need to repay what the VA considered an overage.",
+          "bbox": [
+            42.79999923706055,
+            343.9480285644531,
+            418.9999084472656,
+            363.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "informed him of the need to repay what the VA considered an overage.",
+              "origin": [
+                42.79999923706055,
+                357.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                343.9480285644531,
+                418.9999084472656,
+                363.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 404,
+          "text": "My staff helped Mr. Alvarez submit his request for a waiver of overpayment to the VA Pension",
+          "bbox": [
+            42.79999923706055,
+            403.9480285644531,
+            539.6719360351562,
+            423.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "My staff helped Mr. Alvarez submit his request for a waiver of overpayment to the VA Pension",
+              "origin": [
+                42.79999923706055,
+                417.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                403.9480285644531,
+                539.6719360351562,
+                423.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 419,
+          "text": "Center. After evaluating the case and the circumstances, the VA granted Mr. Alvarez’s waiver",
+          "bbox": [
+            42.79999923706055,
+            418.9480285644531,
+            538.327880859375,
+            438.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Center. After evaluating the case and the circumstances, the VA granted Mr. Alvarez’s waiver",
+              "origin": [
+                42.79999923706055,
+                432.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                418.9480285644531,
+                538.327880859375,
+                438.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 434,
+          "text": "request. However, due to a bureaucratic snafu the VA continued to collect money from Mr.",
+          "bbox": [
+            42.79999923706055,
+            433.9480285644531,
+            525.0198364257812,
+            453.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "request.  However, due to a bureaucratic snafu the VA continued to collect money from Mr.",
+              "origin": [
+                42.79999923706055,
+                447.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                433.9480285644531,
+                525.0198364257812,
+                453.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 449,
+          "text": "Alvarez.",
+          "bbox": [
+            42.79999923706055,
+            448.9480285644531,
+            86.14399719238281,
+            468.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Alvarez.",
+              "origin": [
+                42.79999923706055,
+                462.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                448.9480285644531,
+                86.14399719238281,
+                468.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 509,
+          "text": "My staff then contacted the Pension Center to get a formal letter issued to the VA Debt",
+          "bbox": [
+            42.79999923706055,
+            508.9480285644531,
+            502.3758850097656,
+            528.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "My staff then contacted the Pension Center to get a formal letter issued to the VA Debt",
+              "origin": [
+                42.79999923706055,
+                522.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                508.9480285644531,
+                502.3758850097656,
+                528.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 524,
+          "text": "Management Center, so that Mr. Alvarez’s records would reflect that the overpayment was",
+          "bbox": [
+            42.79999923706055,
+            523.947998046875,
+            522.3079223632812,
+            543.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Management Center, so that Mr. Alvarez’s records would reflect that the overpayment was",
+              "origin": [
+                42.79999923706055,
+                537.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                523.947998046875,
+                522.3079223632812,
+                543.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 539,
+          "text": "waived. The Debt Management Center updated their records and Mr. Alvarez will now receive",
+          "bbox": [
+            42.79999923706055,
+            538.947998046875,
+            543.6559448242188,
+            558.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "waived.  The Debt Management Center updated their records and Mr. Alvarez will now receive",
+              "origin": [
+                42.79999923706055,
+                552.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                538.947998046875,
+                543.6559448242188,
+                558.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 554,
+          "text": "his pension in the full amount as well as a refund of the money that was previously deducted.",
+          "bbox": [
+            42.79999923706055,
+            553.947998046875,
+            535.7119140625,
+            573.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "his pension in the full amount as well as a refund of the money that was previously deducted.",
+              "origin": [
+                42.79999923706055,
+                567.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                553.947998046875,
+                535.7119140625,
+                573.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 584,
+          "text": "Gary Fulkerson, Acampo",
+          "bbox": [
+            42.79999923706055,
+            583.7319946289062,
+            192.083984375,
+            603.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "  ",
+              "origin": [
+                42.79999923706055,
+                597.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                583.947998046875,
+                49.47200012207031,
+                603.1480102539062
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
+              "text": "Gary Fulkerson, Acampo",
+              "origin": [
+                50.040000915527344,
+                597.6400146484375
+              ],
+              "bbox": [
+                50.040000915527344,
+                583.7319946289062,
+                192.083984375,
+                601.9000244140625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 629,
+          "text": "Mr. Fulkerson contacted my office in April 2008 after his wife received a letter from the VA",
+          "bbox": [
+            42.79999923706055,
+            628.947998046875,
+            518.98388671875,
+            648.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Mr. Fulkerson contacted my office in April 2008 after his wife received a letter from the VA",
+              "origin": [
+                42.79999923706055,
+                642.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                628.947998046875,
+                518.98388671875,
+                648.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 644,
+          "text": "stating that he was deceased and she would need to repay $5,520 in veterans benefits.",
+          "bbox": [
+            42.79999923706055,
+            643.947998046875,
+            506.4078674316406,
+            663.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "stating that he was deceased and she would need to repay $5,520 in veterans benefits.",
+              "origin": [
+                42.79999923706055,
+                657.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                643.947998046875,
+                506.4078674316406,
+                663.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 704,
+          "text": "My staff immediately contacted the VA and was informed that the VA’s records indicated that",
+          "bbox": [
+            42.79999923706055,
+            703.947998046875,
+            534.3439331054688,
+            723.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "My staff immediately contacted the VA and was informed that the VA’s records indicated that",
+              "origin": [
+                42.79999923706055,
+                717.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                703.947998046875,
+                534.3439331054688,
+                723.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 719,
+          "text": "Mr. Fulkerson had passed away in February of 2008. Fortunately, my staff was able to provide",
+          "bbox": [
+            42.79999923706055,
+            718.947998046875,
+            542.347900390625,
+            738.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Mr. Fulkerson had passed away in February of 2008. Fortunately, my staff was able to provide",
+              "origin": [
+                42.79999923706055,
+                732.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                718.947998046875,
+                542.347900390625,
+                738.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 734,
+          "text": "the VA with a copy of Mr. Fulkerson’s signed privacy release form, indicating that in fact Mr.",
+          "bbox": [
+            42.79999923706055,
+            733.947998046875,
+            527.6358642578125,
+            753.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "the VA with a copy of Mr. Fulkerson’s signed privacy release form, indicating that in fact Mr.",
+              "origin": [
+                42.79999923706055,
+                747.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                733.947998046875,
+                527.6358642578125,
+                753.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 749,
+          "text": "Fulkerson is alive and well and entitled to continue receiving VA benefits.",
+          "bbox": [
+            42.79999923706055,
+            748.947998046875,
+            429.6439208984375,
+            768.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Fulkerson is alive and well and entitled to continue receiving VA benefits.",
+              "origin": [
+                42.79999923706055,
+                762.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                748.947998046875,
+                429.6439208984375,
+                768.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 802,
+          "text": "2 / 6",
+          "bbox": [
+            524.8900146484375,
+            801.81201171875,
+            542.6820068359375,
+            814.6119995117188
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": " 2 / 6",
+              "origin": [
+                524.8900146484375,
+                810.9400024414062
+              ],
+              "bbox": [
+                524.8900146484375,
+                801.81201171875,
+                542.6820068359375,
+                814.6119995117188
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_width": 595.280029296875,
+      "page_height": 841.8900146484375,
+      "lines": [
+        {
+          "y": 11,
+          "text": "Constituent Service Success Stories",
+          "bbox": [
+            42.79999923706055,
+            10.971031188964844,
+            234.14495849609375,
+            27.625032424926758
+          ],
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
+              "text": "Constituent Service Success Stories",
+              "origin": [
+                42.79999923706055,
+                23.72003173828125
+              ],
+              "bbox": [
+                42.79999923706055,
+                10.971031188964844,
+                234.14495849609375,
+                27.625032424926758
+              ]
+            }
+          ]
+        },
+        {
+          "y": 104,
+          "text": "Mr. Fulkerson’s benefits were reinstated and the VA will now require a certified death certificate",
+          "bbox": [
+            42.79999923706055,
+            103.94801330566406,
+            547.6519165039062,
+            123.14801788330078
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Mr. Fulkerson’s benefits were reinstated and the VA will now require a certified death certificate",
+              "origin": [
+                42.79999923706055,
+                117.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                103.94801330566406,
+                547.6519165039062,
+                123.14801788330078
+              ]
+            }
+          ]
+        },
+        {
+          "y": 119,
+          "text": "from Mr. Fulkerson’s family before terminating his benefits.",
+          "bbox": [
+            42.79999923706055,
+            118.94801330566406,
+            354.2119445800781,
+            138.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "from Mr. Fulkerson’s family before terminating his benefits.",
+              "origin": [
+                42.79999923706055,
+                132.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                118.94801330566406,
+                354.2119445800781,
+                138.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 149,
+          "text": "Antoinette Muti, Pleasanton",
+          "bbox": [
+            42.79999923706055,
+            148.7320098876953,
+            208.05599975585938,
+            168.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "  ",
+              "origin": [
+                42.79999923706055,
+                162.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                148.94801330566406,
+                49.47200012207031,
+                168.14801025390625
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
+              "text": "Antoinette Muti, Pleasanton",
+              "origin": [
+                50.040000915527344,
+                162.6400146484375
+              ],
+              "bbox": [
+                50.040000915527344,
+                148.7320098876953,
+                208.05599975585938,
+                166.90000915527344
+              ]
+            }
+          ]
+        },
+        {
+          "y": 194,
+          "text": "Mrs. Muti is the surviving spouse of Mr. Michael Muti, a Merchant Marine who served during",
+          "bbox": [
+            42.79999923706055,
+            193.94801330566406,
+            529.6159057617188,
+            213.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Mrs. Muti is the surviving spouse of Mr. Michael Muti, a Merchant Marine who served during",
+              "origin": [
+                42.79999923706055,
+                207.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                193.94801330566406,
+                529.6159057617188,
+                213.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 209,
+          "text": "World War II. In February 2007, after Mr. Muti passed away, Mrs. Muti applied for a VA pension",
+          "bbox": [
+            42.79999923706055,
+            208.94801330566406,
+            548.3239135742188,
+            228.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "World War II. In February 2007, after Mr. Muti passed away, Mrs. Muti applied for a VA pension",
+              "origin": [
+                42.79999923706055,
+                222.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                208.94801330566406,
+                548.3239135742188,
+                228.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 224,
+          "text": "as the surviving spouse of a veteran. She had already spent the previous four months waiting",
+          "bbox": [
+            42.79999923706055,
+            223.94801330566406,
+            537.7158813476562,
+            243.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "as the surviving spouse of a veteran. She had already spent the previous four months waiting",
+              "origin": [
+                42.79999923706055,
+                237.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                223.94801330566406,
+                537.7158813476562,
+                243.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 239,
+          "text": "for the Coast Guard to provide her with documentation verifying her husband’s service, which",
+          "bbox": [
+            42.79999923706055,
+            238.94801330566406,
+            536.9959106445312,
+            258.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "for the Coast Guard to provide her with documentation verifying her husband’s service, which",
+              "origin": [
+                42.79999923706055,
+                252.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                238.94801330566406,
+                536.9959106445312,
+                258.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 254,
+          "text": "she needed in order to submit her claim to the VA.",
+          "bbox": [
+            42.79999923706055,
+            253.94801330566406,
+            309.595947265625,
+            273.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "she needed in order to submit her claim to the VA.",
+              "origin": [
+                42.79999923706055,
+                267.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                253.94801330566406,
+                309.595947265625,
+                273.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 314,
+          "text": "She reached out to my office in October 2007 after having received letter after letter from the",
+          "bbox": [
+            42.79999923706055,
+            313.9480285644531,
+            533.7078857421875,
+            333.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "She reached out to my office in October 2007 after having received letter after letter from the",
+              "origin": [
+                42.79999923706055,
+                327.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                313.9480285644531,
+                533.7078857421875,
+                333.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 329,
+          "text": "VA apologizing for the delay in processing her claim. My staff contacted the VA Pension Center",
+          "bbox": [
+            42.79999923706055,
+            328.9480285644531,
+            547.6998291015625,
+            348.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "VA apologizing for the delay in processing her claim. My staff contacted the VA Pension Center",
+              "origin": [
+                42.79999923706055,
+                342.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                328.9480285644531,
+                547.6998291015625,
+                348.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 344,
+          "text": "and requested the expedited processing of Ms. Muti’s claim. The VA approved Ms. Muti’s claim",
+          "bbox": [
+            42.79999923706055,
+            343.9480285644531,
+            546.9678955078125,
+            363.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "and requested the expedited processing of Ms. Muti’s claim. The VA approved Ms. Muti’s claim",
+              "origin": [
+                42.79999923706055,
+                357.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                343.9480285644531,
+                546.9678955078125,
+                363.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 359,
+          "text": "for spousal pension for ongoing monthly benefits as well as a retroactive payment.",
+          "bbox": [
+            42.79999923706055,
+            358.9480285644531,
+            478.9999084472656,
+            378.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "for spousal pension for ongoing monthly benefits as well as a retroactive payment.",
+              "origin": [
+                42.79999923706055,
+                372.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                358.9480285644531,
+                478.9999084472656,
+                378.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 419,
+          "text": "I’m grateful for the opportunity to help Mrs. Muti and pleased that she will now receive monthly",
+          "bbox": [
+            42.79999923706055,
+            418.9480285644531,
+            541.6638793945312,
+            438.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "I’m grateful for the opportunity to help Mrs. Muti and pleased that she will now receive monthly",
+              "origin": [
+                42.79999923706055,
+                432.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                418.9480285644531,
+                541.6638793945312,
+                438.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 434,
+          "text": "payments and a retroactive payment to account for the time she waited for the claim to be",
+          "bbox": [
+            42.79999923706055,
+            433.9480285644531,
+            518.3599243164062,
+            453.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "payments and a retroactive payment to account for the time she waited for the claim to be",
+              "origin": [
+                42.79999923706055,
+                447.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                433.9480285644531,
+                518.3599243164062,
+                453.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 449,
+          "text": "processed.",
+          "bbox": [
+            42.79999923706055,
+            448.9480285644531,
+            101.49198913574219,
+            468.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "processed.",
+              "origin": [
+                42.79999923706055,
+                462.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                448.9480285644531,
+                101.49198913574219,
+                468.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 479,
+          "text": "Dennis Wilson, Acampo",
+          "bbox": [
+            42.79999923706055,
+            478.7320251464844,
+            186.73199462890625,
+            498.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "  ",
+              "origin": [
+                42.79999923706055,
+                492.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                478.9480285644531,
+                49.47200012207031,
+                498.14801025390625
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
+              "text": "Dennis Wilson, Acampo",
+              "origin": [
+                50.040000915527344,
+                492.6400146484375
+              ],
+              "bbox": [
+                50.040000915527344,
+                478.7320251464844,
+                186.73199462890625,
+                496.9000244140625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 524,
+          "text": "Mr. Wilson arrived at my office in July of 2007 after driving from his home in Acampo all the way",
+          "bbox": [
+            42.79999923706055,
+            523.947998046875,
+            550.303955078125,
+            543.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Mr. Wilson arrived at my office in July of 2007 after driving from his home in Acampo all the way",
+              "origin": [
+                42.79999923706055,
+                537.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                523.947998046875,
+                550.303955078125,
+                543.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 539,
+          "text": "to the Pleasanton. In December 2006, he was denied a claim for social security benefits despite",
+          "bbox": [
+            42.79999923706055,
+            538.947998046875,
+            550.3759155273438,
+            558.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "to the Pleasanton. In December 2006, he was denied a claim for social security benefits despite",
+              "origin": [
+                42.79999923706055,
+                552.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                538.947998046875,
+                550.3759155273438,
+                558.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 554,
+          "text": "both having suffered a stroke which impairs his vision and facing vascular dementia which",
+          "bbox": [
+            42.79999923706055,
+            553.947998046875,
+            519.6558837890625,
+            573.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "both having suffered a stroke which impairs his vision and facing vascular dementia which",
+              "origin": [
+                42.79999923706055,
+                567.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                553.947998046875,
+                519.6558837890625,
+                573.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 569,
+          "text": "prevents him from working.",
+          "bbox": [
+            42.79999923706055,
+            568.947998046875,
+            186.8359832763672,
+            588.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "prevents him from working.",
+              "origin": [
+                42.79999923706055,
+                582.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                568.947998046875,
+                186.8359832763672,
+                588.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 629,
+          "text": "My office was able to expedite a hearing date for Mr. Wilson, which was held in January. In",
+          "bbox": [
+            42.79999923706055,
+            628.947998046875,
+            527.6719360351562,
+            648.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "My office was able to expedite a hearing date for Mr. Wilson, which was held in January.  In",
+              "origin": [
+                42.79999923706055,
+                642.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                628.947998046875,
+                527.6719360351562,
+                648.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 644,
+          "text": "March, Mr. Wilson still hadn’t heard anything and contacted the office again, asking for",
+          "bbox": [
+            42.79999923706055,
+            643.947998046875,
+            500.9958801269531,
+            663.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "March, Mr. Wilson still hadn’t heard anything and contacted the office again, asking for",
+              "origin": [
+                42.79999923706055,
+                657.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                643.947998046875,
+                500.9958801269531,
+                663.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 659,
+          "text": "assistance with securing a decision as soon as possible. He was concerned about being able to",
+          "bbox": [
+            42.79999923706055,
+            658.947998046875,
+            550.3759155273438,
+            678.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "assistance with securing a decision as soon as possible. He was concerned about being able to",
+              "origin": [
+                42.79999923706055,
+                672.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                658.947998046875,
+                550.3759155273438,
+                678.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 674,
+          "text": "make his April mortgage payment.",
+          "bbox": [
+            42.79999923706055,
+            673.947998046875,
+            224.8639678955078,
+            693.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "make his April mortgage payment.",
+              "origin": [
+                42.79999923706055,
+                687.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                673.947998046875,
+                224.8639678955078,
+                693.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 734,
+          "text": "My office contacted the Social Security Administration for a status check and we were told that",
+          "bbox": [
+            42.79999923706055,
+            733.947998046875,
+            543.0198974609375,
+            753.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "My office contacted the Social Security Administration for a status check and we were told that",
+              "origin": [
+                42.79999923706055,
+                747.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                733.947998046875,
+                543.0198974609375,
+                753.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 749,
+          "text": "Mr. Wilson was determined to be disabled after his hearing in January. He was also determined",
+          "bbox": [
+            42.79999923706055,
+            748.947998046875,
+            548.995849609375,
+            768.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Mr. Wilson was determined to be disabled after his hearing in January. He was also determined",
+              "origin": [
+                42.79999923706055,
+                762.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                748.947998046875,
+                548.995849609375,
+                768.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 802,
+          "text": "3 / 6",
+          "bbox": [
+            524.8900146484375,
+            801.81201171875,
+            542.6820068359375,
+            814.6119995117188
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": " 3 / 6",
+              "origin": [
+                524.8900146484375,
+                810.9400024414062
+              ],
+              "bbox": [
+                524.8900146484375,
+                801.81201171875,
+                542.6820068359375,
+                814.6119995117188
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_width": 595.280029296875,
+      "page_height": 841.8900146484375,
+      "lines": [
+        {
+          "y": 11,
+          "text": "Constituent Service Success Stories",
+          "bbox": [
+            42.79999923706055,
+            10.971031188964844,
+            234.14495849609375,
+            27.625032424926758
+          ],
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
+              "text": "Constituent Service Success Stories",
+              "origin": [
+                42.79999923706055,
+                23.72003173828125
+              ],
+              "bbox": [
+                42.79999923706055,
+                10.971031188964844,
+                234.14495849609375,
+                27.625032424926758
+              ]
+            }
+          ]
+        },
+        {
+          "y": 74,
+          "text": "to be eligible for retroactive payments due to the date of his disability.",
+          "bbox": [
+            42.79999923706055,
+            73.94801330566406,
+            410.3119201660156,
+            93.14801788330078
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "to be eligible for retroactive payments due to the date of his disability.",
+              "origin": [
+                42.79999923706055,
+                87.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                73.94801330566406,
+                410.3119201660156,
+                93.14801788330078
+              ]
+            }
+          ]
+        },
+        {
+          "y": 134,
+          "text": "Mr. Wilson received a lump sum payment in and is now receiving regular benefits on a monthly",
+          "bbox": [
+            42.79999923706055,
+            133.94801330566406,
+            545.6478881835938,
+            153.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Mr. Wilson received a lump sum payment in and is now receiving regular benefits on a monthly",
+              "origin": [
+                42.79999923706055,
+                147.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                133.94801330566406,
+                545.6478881835938,
+                153.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 149,
+          "text": "basis. He was very thankful for the help and I’m honored that we were able to assist him.",
+          "bbox": [
+            42.79999923706055,
+            148.94801330566406,
+            512.9959106445312,
+            168.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "basis. He was very thankful for the help and I’m honored that we were able to assist him.",
+              "origin": [
+                42.79999923706055,
+                162.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                148.94801330566406,
+                512.9959106445312,
+                168.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 179,
+          "text": "Michael Carney, Stockton",
+          "bbox": [
+            42.79999923706055,
+            178.7320098876953,
+            196.07998657226562,
+            198.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "  ",
+              "origin": [
+                42.79999923706055,
+                192.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                178.94801330566406,
+                49.47200012207031,
+                198.14801025390625
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
+              "text": "Michael Carney, Stockton",
+              "origin": [
+                50.040000915527344,
+                192.6400146484375
+              ],
+              "bbox": [
+                50.040000915527344,
+                178.7320098876953,
+                196.07998657226562,
+                196.90000915527344
+              ]
+            }
+          ]
+        },
+        {
+          "y": 224,
+          "text": "Mr. Carney, a Vietnam veteran, originally contacted my office in September 2007 to request",
+          "bbox": [
+            42.79999923706055,
+            223.94801330566406,
+            528.3439331054688,
+            243.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Mr. Carney, a Vietnam veteran, originally contacted my office in September 2007 to request",
+              "origin": [
+                42.79999923706055,
+                237.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                223.94801330566406,
+                528.3439331054688,
+                243.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 239,
+          "text": "assistance with an appeal he had filed in response to the VA’s denial of his Post Traumatic",
+          "bbox": [
+            42.79999923706055,
+            238.94801330566406,
+            523.6879272460938,
+            258.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "assistance with an appeal he had filed in response to the VA’s denial of his Post Traumatic",
+              "origin": [
+                42.79999923706055,
+                252.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                238.94801330566406,
+                523.6879272460938,
+                258.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 254,
+          "text": "Stress Disorder claim. He was initially granted a 30 percent disability rating for PTSD, but",
+          "bbox": [
+            42.79999923706055,
+            253.94801330566406,
+            515.6239013671875,
+            273.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Stress Disorder claim. He was initially granted a 30 percent disability rating for PTSD, but",
+              "origin": [
+                42.79999923706055,
+                267.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                253.94801330566406,
+                515.6239013671875,
+                273.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 269,
+          "text": "believed that it should have been more.",
+          "bbox": [
+            42.79999923706055,
+            268.9480285644531,
+            252.24795532226562,
+            288.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "believed that it should have been more.",
+              "origin": [
+                42.79999923706055,
+                282.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                268.9480285644531,
+                252.24795532226562,
+                288.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 329,
+          "text": "Mr. Carney is a former employee of San Joaquin County. He was granted a medical retirement",
+          "bbox": [
+            42.79999923706055,
+            328.9480285644531,
+            544.9879150390625,
+            348.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Mr. Carney is a former employee of San Joaquin County. He was granted a medical retirement",
+              "origin": [
+                42.79999923706055,
+                342.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                328.9480285644531,
+                544.9879150390625,
+                348.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 344,
+          "text": "as a result of his disabilities. According to Mr. Carney, the Social Security Administration also",
+          "bbox": [
+            42.79999923706055,
+            343.9480285644531,
+            535.6399536132812,
+            363.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "as a result of his disabilities. According to Mr. Carney, the Social Security Administration also",
+              "origin": [
+                42.79999923706055,
+                357.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                343.9480285644531,
+                535.6399536132812,
+                363.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 359,
+          "text": "recognizes him as permanently disabled.",
+          "bbox": [
+            42.79999923706055,
+            358.9480285644531,
+            260.2159729003906,
+            378.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "recognizes him as permanently disabled.",
+              "origin": [
+                42.79999923706055,
+                372.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                358.9480285644531,
+                260.2159729003906,
+                378.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 419,
+          "text": "After reviewing the case, I worked with my staff to write a letter on Mr. Carney’s behalf to the VA",
+          "bbox": [
+            42.79999923706055,
+            418.9480285644531,
+            551.6599731445312,
+            438.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "After reviewing the case, I worked with my staff to write a letter on Mr. Carney’s behalf to the VA",
+              "origin": [
+                42.79999923706055,
+                432.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                418.9480285644531,
+                551.6599731445312,
+                438.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 434,
+          "text": "Board of Veterans Appeals, requesting a review of his situation.",
+          "bbox": [
+            42.79999923706055,
+            433.9480285644531,
+            380.2999267578125,
+            453.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Board of Veterans Appeals, requesting a review of his situation.",
+              "origin": [
+                42.79999923706055,
+                447.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                433.9480285644531,
+                380.2999267578125,
+                453.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 494,
+          "text": "I was lucky enough to meet Mr. Carney at a Congress at Your Corner event I held in Manteca.",
+          "bbox": [
+            42.79999923706055,
+            493.9480285644531,
+            541.6879272460938,
+            513.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "I was lucky enough to meet Mr. Carney at a Congress at Your Corner event I held in Manteca.",
+              "origin": [
+                42.79999923706055,
+                507.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                493.9480285644531,
+                541.6879272460938,
+                513.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 509,
+          "text": "When we talked at the time, I told him that I was proud to be able to advocate on his behalf and",
+          "bbox": [
+            42.79999923706055,
+            508.9480285644531,
+            547.7478637695312,
+            528.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "When we talked at the time, I told him that I was proud to be able to advocate on his behalf and",
+              "origin": [
+                42.79999923706055,
+                522.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                508.9480285644531,
+                547.7478637695312,
+                528.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 524,
+          "text": "in return, he told me, \"Without your assistance, I'd still be where I was eight years ago: nowhere",
+          "bbox": [
+            42.79999923706055,
+            523.947998046875,
+            550.1399536132812,
+            543.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "in return, he told me, \"Without your assistance, I'd still be where I was eight years ago: ",
+              "origin": [
+                42.79999923706055,
+                537.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                523.947998046875,
+                503.5518798828125,
+                543.1480102539062
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSansOblique",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.4189999997615814,
+              "text": "nowhere",
+              "origin": [
+                504.1199951171875,
+                537.6400146484375
+              ],
+              "bbox": [
+                504.1199951171875,
+                523.947998046875,
+                550.1399536132812,
+                542.6680297851562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 539,
+          "text": ".\"",
+          "bbox": [
+            42.79999923706055,
+            538.947998046875,
+            50.39600372314453,
+            558.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": ".\"",
+              "origin": [
+                42.79999923706055,
+                552.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                538.947998046875,
+                50.39600372314453,
+                558.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 569,
+          "text": "Evelyn Jansen, Discovery Bay",
+          "bbox": [
+            42.79999923706055,
+            568.7319946289062,
+            222.79196166992188,
+            588.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "  ",
+              "origin": [
+                42.79999923706055,
+                582.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                568.947998046875,
+                49.47200012207031,
+                588.1480102539062
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
+              "text": "Evelyn Jansen, Discovery Bay",
+              "origin": [
+                50.040000915527344,
+                582.6400146484375
+              ],
+              "bbox": [
+                50.040000915527344,
+                568.7319946289062,
+                222.79196166992188,
+                586.9000244140625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 614,
+          "text": "Mrs. Jansen of Discovery Bay contacted my office to seek assistance in dealing with the Social",
+          "bbox": [
+            42.79999923706055,
+            613.947998046875,
+            545.6719360351562,
+            633.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Mrs. Jansen of Discovery Bay contacted my office to seek assistance in dealing with the Social",
+              "origin": [
+                42.79999923706055,
+                627.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                613.947998046875,
+                545.6719360351562,
+                633.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 629,
+          "text": "Security Administration. Her husband was receiving Social Security disability benefits until he",
+          "bbox": [
+            42.79999923706055,
+            628.947998046875,
+            539.64794921875,
+            648.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Security Administration.  Her husband was receiving Social Security disability benefits until he",
+              "origin": [
+                42.79999923706055,
+                642.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                628.947998046875,
+                539.64794921875,
+                648.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 644,
+          "text": "passed away on July 21, 2007. With the passing of her husband, Mrs. Jansen was without any",
+          "bbox": [
+            42.79999923706055,
+            643.947998046875,
+            547.0518798828125,
+            663.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "passed away on July 21, 2007.  With the passing of her husband, Mrs. Jansen was without any",
+              "origin": [
+                42.79999923706055,
+                657.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                643.947998046875,
+                547.0518798828125,
+                663.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 659,
+          "text": "source of income and her monthly bills were becoming more than she could handle.",
+          "bbox": [
+            42.79999923706055,
+            658.947998046875,
+            486.99188232421875,
+            678.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "source of income and her monthly bills were becoming more than she could handle.",
+              "origin": [
+                42.79999923706055,
+                672.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                658.947998046875,
+                486.99188232421875,
+                678.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 719,
+          "text": "Mrs. Jansen thought she would continue to receive her husband’s benefits but the local Social",
+          "bbox": [
+            42.79999923706055,
+            718.947998046875,
+            541.0399169921875,
+            738.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Mrs. Jansen thought she would continue to receive her husband’s benefits but the local Social",
+              "origin": [
+                42.79999923706055,
+                732.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                718.947998046875,
+                541.0399169921875,
+                738.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 734,
+          "text": "Security office informed her that she was ineligible because of her age. She was 57 at the",
+          "bbox": [
+            42.79999923706055,
+            733.947998046875,
+            521.7078857421875,
+            753.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Security office informed her that she was ineligible because of her age.  She was 57 at the",
+              "origin": [
+                42.79999923706055,
+                747.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                733.947998046875,
+                521.7078857421875,
+                753.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 749,
+          "text": "time. This news couldn’t have come at a worse time given that she was facing unpaid medical",
+          "bbox": [
+            42.79999923706055,
+            748.947998046875,
+            542.9959106445312,
+            768.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "time.  This news couldn’t have come at a worse time given that she was facing unpaid medical",
+              "origin": [
+                42.79999923706055,
+                762.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                748.947998046875,
+                542.9959106445312,
+                768.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 802,
+          "text": "4 / 6",
+          "bbox": [
+            524.8900146484375,
+            801.81201171875,
+            542.6820068359375,
+            814.6119995117188
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": " 4 / 6",
+              "origin": [
+                524.8900146484375,
+                810.9400024414062
+              ],
+              "bbox": [
+                524.8900146484375,
+                801.81201171875,
+                542.6820068359375,
+                814.6119995117188
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "page_width": 595.280029296875,
+      "page_height": 841.8900146484375,
+      "lines": [
+        {
+          "y": 11,
+          "text": "Constituent Service Success Stories",
+          "bbox": [
+            42.79999923706055,
+            10.971031188964844,
+            234.14495849609375,
+            27.625032424926758
+          ],
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
+              "text": "Constituent Service Success Stories",
+              "origin": [
+                42.79999923706055,
+                23.72003173828125
+              ],
+              "bbox": [
+                42.79999923706055,
+                10.971031188964844,
+                234.14495849609375,
+                27.625032424926758
+              ]
+            }
+          ]
+        },
+        {
+          "y": 74,
+          "text": "bills and mounting financial hardship.",
+          "bbox": [
+            42.79999923706055,
+            73.94801330566406,
+            239.5519561767578,
+            93.14801788330078
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "bills and mounting financial hardship.",
+              "origin": [
+                42.79999923706055,
+                87.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                73.94801330566406,
+                239.5519561767578,
+                93.14801788330078
+              ]
+            }
+          ]
+        },
+        {
+          "y": 134,
+          "text": "I worked with my staff to make an inquiry on Mrs. Jansen’s behalf. We were told that, in fact,",
+          "bbox": [
+            42.79999923706055,
+            133.94801330566406,
+            531.6558837890625,
+            153.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "I worked with my staff to make an inquiry on Mrs. Jansen’s behalf. We were told that, in fact,",
+              "origin": [
+                42.79999923706055,
+                147.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                133.94801330566406,
+                531.6558837890625,
+                153.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 149,
+          "text": "Mrs. Jansen is not entitled to Social Security disability because of her age. However, due to the",
+          "bbox": [
+            42.79999923706055,
+            148.94801330566406,
+            551.035888671875,
+            168.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Mrs. Jansen is not entitled to Social Security disability because of her age.  However, due to the",
+              "origin": [
+                42.79999923706055,
+                162.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                148.94801330566406,
+                551.035888671875,
+                168.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 164,
+          "text": "inquiry, the Social Security Administration determined that she was entitled to nearly $13,000 in",
+          "bbox": [
+            42.79999923706055,
+            163.94801330566406,
+            548.3599243164062,
+            183.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "inquiry, the Social Security Administration determined that she was entitled to nearly $13,000 in",
+              "origin": [
+                42.79999923706055,
+                177.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                163.94801330566406,
+                548.3599243164062,
+                183.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 179,
+          "text": "unpaid disability benefits for her late husband.",
+          "bbox": [
+            42.79999923706055,
+            178.94801330566406,
+            286.9279479980469,
+            198.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "unpaid disability benefits for her late husband.",
+              "origin": [
+                42.79999923706055,
+                192.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                178.94801330566406,
+                286.9279479980469,
+                198.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 239,
+          "text": "Mrs. Jansen was overwhelmed upon hearing the news and I’m proud that we were able to",
+          "bbox": [
+            42.79999923706055,
+            238.94801330566406,
+            519.6679077148438,
+            258.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Mrs. Jansen was overwhelmed upon hearing the news and I’m proud that we were able to",
+              "origin": [
+                42.79999923706055,
+                252.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                238.94801330566406,
+                519.6679077148438,
+                258.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 254,
+          "text": "assist her.",
+          "bbox": [
+            42.79999923706055,
+            253.94801330566406,
+            97.48399353027344,
+            273.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "assist her.",
+              "origin": [
+                42.79999923706055,
+                267.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                253.94801330566406,
+                97.48399353027344,
+                273.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 284,
+          "text": "Robert Vannatter, Pleasanton",
+          "bbox": [
+            42.79999923706055,
+            283.7320251464844,
+            218.07598876953125,
+            303.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "  ",
+              "origin": [
+                42.79999923706055,
+                297.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                283.9480285644531,
+                49.47200012207031,
+                303.14801025390625
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
+              "text": "Robert Vannatter, Pleasanton",
+              "origin": [
+                50.040000915527344,
+                297.6400146484375
+              ],
+              "bbox": [
+                50.040000915527344,
+                283.7320251464844,
+                218.07598876953125,
+                301.9000244140625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 329,
+          "text": "I originally met Mr. Vannatter when I went to the Pleasanton Gardens Senior Center. He asked",
+          "bbox": [
+            42.79999923706055,
+            328.9480285644531,
+            547.6998901367188,
+            348.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "I originally met Mr. Vannatter when I went to the Pleasanton Gardens Senior Center.  He asked",
+              "origin": [
+                42.79999923706055,
+                342.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                328.9480285644531,
+                547.6998901367188,
+                348.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 344,
+          "text": "me for help in verifying the medals he earned during his service with the U.S. Army during",
+          "bbox": [
+            42.79999923706055,
+            343.9480285644531,
+            518.9839477539062,
+            363.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "me for help in verifying the medals he earned during his service with the U.S. Army during",
+              "origin": [
+                42.79999923706055,
+                357.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                343.9480285644531,
+                518.9839477539062,
+                363.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 359,
+          "text": "World War II.",
+          "bbox": [
+            42.79999923706055,
+            358.9480285644531,
+            116.14399719238281,
+            378.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "World War II. ",
+              "origin": [
+                42.79999923706055,
+                372.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                358.9480285644531,
+                116.14399719238281,
+                378.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 389,
+          "text": "As a member of the 507th Parachute Infantry Regiment, Mr. Vannatter participated in the Allied",
+          "bbox": [
+            42.79999923706055,
+            388.9480285644531,
+            550.3759155273438,
+            408.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": " As a member of the 507th Parachute Infantry Regiment, Mr. Vannatter participated in the Allied",
+              "origin": [
+                42.79999923706055,
+                402.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                388.9480285644531,
+                550.3759155273438,
+                408.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 404,
+          "text": "operations at Normandy. He said that during the battle he lost a pair of pants. I didn’t ask him",
+          "bbox": [
+            42.79999923706055,
+            403.9480285644531,
+            539.035888671875,
+            423.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "operations at Normandy. He said that during the battle he lost a pair of pants.  I didn’t ask him",
+              "origin": [
+                42.79999923706055,
+                417.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                403.9480285644531,
+                539.035888671875,
+                423.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 419,
+          "text": "whether they were the ones he was wearing at the time.",
+          "bbox": [
+            42.79999923706055,
+            418.9480285644531,
+            339.6079406738281,
+            438.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "whether they were the ones he was wearing at the time.",
+              "origin": [
+                42.79999923706055,
+                432.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                418.9480285644531,
+                339.6079406738281,
+                438.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 479,
+          "text": "Unbeknownst to him, the pants were recovered, and, years later, were placed on display at a",
+          "bbox": [
+            42.79999923706055,
+            478.9480285644531,
+            535.0278930664062,
+            498.14801025390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Unbeknownst to him, the pants were recovered, and, years later, were placed on display at a",
+              "origin": [
+                42.79999923706055,
+                492.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                478.9480285644531,
+                535.0278930664062,
+                498.14801025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 494,
+          "text": "museum in France as part of a World War II exhibit.",
+          "bbox": [
+            42.79999923706055,
+            493.9480285644531,
+            320.22796630859375,
+            513.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "museum in France as part of a World War II exhibit. ",
+              "origin": [
+                42.79999923706055,
+                507.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                493.9480285644531,
+                320.22796630859375,
+                513.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 524,
+          "text": "Recently, a visiting scholar from New York was at the French museum and examined the",
+          "bbox": [
+            42.79999923706055,
+            523.947998046875,
+            524.3119506835938,
+            543.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": " Recently, a visiting scholar from New   York was at the French museum and examined the",
+              "origin": [
+                42.79999923706055,
+                537.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                523.947998046875,
+                524.3119506835938,
+                543.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 539,
+          "text": "pants for identifying characteristics. He found Mr. Vannatter’s Army Identification number on",
+          "bbox": [
+            42.79999923706055,
+            538.947998046875,
+            532.9879150390625,
+            558.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "pants for identifying characteristics.  He found Mr. Vannatter’s Army Identification number on",
+              "origin": [
+                42.79999923706055,
+                552.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                538.947998046875,
+                532.9879150390625,
+                558.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 554,
+          "text": "the underside of the belt buckle. The scholar was able to track down Mr. Vannatter’s name and",
+          "bbox": [
+            42.79999923706055,
+            553.947998046875,
+            549.0318603515625,
+            573.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "the underside of the belt buckle.  The scholar was able to track down Mr. Vannatter’s name and",
+              "origin": [
+                42.79999923706055,
+                567.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                553.947998046875,
+                549.0318603515625,
+                573.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 569,
+          "text": "contact information through the U.S. Army and National Personnel Records Center (NPRC).",
+          "bbox": [
+            42.79999923706055,
+            568.947998046875,
+            533.6478881835938,
+            588.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "contact information through the U.S. Army and National Personnel Records Center (NPRC). ",
+              "origin": [
+                42.79999923706055,
+                582.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                568.947998046875,
+                533.6478881835938,
+                588.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 599,
+          "text": "Mr. Vannatter was then asked to provide a memory of his experience in World War II to",
+          "bbox": [
+            42.79999923706055,
+            598.947998046875,
+            508.31591796875,
+            618.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": " Mr. Vannatter was then asked to provide a memory of his experience in World War II to",
+              "origin": [
+                42.79999923706055,
+                612.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                598.947998046875,
+                508.31591796875,
+                618.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 614,
+          "text": "supplement the museum exhibit in France. He recalled having earned a Bronze Star but was",
+          "bbox": [
+            42.79999923706055,
+            613.947998046875,
+            537.0198974609375,
+            633.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "supplement the museum exhibit in France.  He recalled having earned a Bronze Star but was",
+              "origin": [
+                42.79999923706055,
+                627.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                613.947998046875,
+                537.0198974609375,
+                633.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 629,
+          "text": "not certain. In the interest of making his memoirs as accurate as possible, he asked me for help",
+          "bbox": [
+            42.79999923706055,
+            628.947998046875,
+            552.3558959960938,
+            648.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "not certain.  In the interest of making his memoirs as accurate as possible, he asked me for help",
+              "origin": [
+                42.79999923706055,
+                642.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                628.947998046875,
+                552.3558959960938,
+                648.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 644,
+          "text": "in seeking verification of his military awards.",
+          "bbox": [
+            42.79999923706055,
+            643.947998046875,
+            276.1999816894531,
+            663.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "in seeking verification of his military awards.",
+              "origin": [
+                42.79999923706055,
+                657.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                643.947998046875,
+                276.1999816894531,
+                663.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 674,
+          "text": "I worked with my staff to submit a request to the NPRC to review Mr. Vannatter’s eligibility for",
+          "bbox": [
+            42.79999923706055,
+            673.947998046875,
+            539.6239013671875,
+            693.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": " I worked with my staff to submit a request to the NPRC to review Mr. Vannatter’s eligibility for",
+              "origin": [
+                42.79999923706055,
+                687.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                673.947998046875,
+                539.6239013671875,
+                693.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 689,
+          "text": "various medals and marks of distinction. The NPRC was able to verify that Mr. Vannatter did in",
+          "bbox": [
+            42.79999923706055,
+            688.947998046875,
+            548.3239135742188,
+            708.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "various medals and marks of distinction.  The NPRC was able to verify that Mr. Vannatter did in",
+              "origin": [
+                42.79999923706055,
+                702.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                688.947998046875,
+                548.3239135742188,
+                708.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 704,
+          "text": "fact earn a Bronze Star for his service at Normandy. They mailed the medal to my district office",
+          "bbox": [
+            42.79999923706055,
+            703.947998046875,
+            549.6559448242188,
+            723.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "fact earn a Bronze Star for his service at Normandy.  They mailed the medal to my district office",
+              "origin": [
+                42.79999923706055,
+                717.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                703.947998046875,
+                549.6559448242188,
+                723.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 719,
+          "text": "in Pleasanton, along with the European-African-Middle Eastern Campaign Medal.",
+          "bbox": [
+            42.79999923706055,
+            718.947998046875,
+            474.3199157714844,
+            738.1480102539062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "in Pleasanton, along with the European-African-Middle Eastern Campaign Medal.",
+              "origin": [
+                42.79999923706055,
+                732.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                718.947998046875,
+                474.3199157714844,
+                738.1480102539062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 802,
+          "text": "5 / 6",
+          "bbox": [
+            524.8900146484375,
+            801.81201171875,
+            542.6820068359375,
+            814.6119995117188
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": " 5 / 6",
+              "origin": [
+                524.8900146484375,
+                810.9400024414062
+              ],
+              "bbox": [
+                524.8900146484375,
+                801.81201171875,
+                542.6820068359375,
+                814.6119995117188
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "page_width": 595.280029296875,
+      "page_height": 841.8900146484375,
+      "lines": [
+        {
+          "y": 11,
+          "text": "Constituent Service Success Stories",
+          "bbox": [
+            42.79999923706055,
+            10.971031188964844,
+            234.14495849609375,
+            27.625032424926758
+          ],
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
+              "text": "Constituent Service Success Stories",
+              "origin": [
+                42.79999923706055,
+                23.72003173828125
+              ],
+              "bbox": [
+                42.79999923706055,
+                10.971031188964844,
+                234.14495849609375,
+                27.625032424926758
+              ]
+            }
+          ]
+        },
+        {
+          "y": 74,
+          "text": "I was lucky enough to then be able to present Mr. Vannatter with the Bronze Star, the Armed",
+          "bbox": [
+            42.79999923706055,
+            73.94801330566406,
+            533.7198486328125,
+            93.14801788330078
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "I was lucky enough to then be able to present Mr. Vannatter with the Bronze Star, the Armed",
+              "origin": [
+                42.79999923706055,
+                87.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                73.94801330566406,
+                533.7198486328125,
+                93.14801788330078
+              ]
+            }
+          ]
+        },
+        {
+          "y": 89,
+          "text": "Forces’ fourth highest combat award, earned for his service during World War II.",
+          "bbox": [
+            42.79999923706055,
+            88.94801330566406,
+            468.2719421386719,
+            108.14801788330078
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": "Forces’ fourth highest combat award, earned for his service during World War II.",
+              "origin": [
+                42.79999923706055,
+                102.6400146484375
+              ],
+              "bbox": [
+                42.79999923706055,
+                88.94801330566406,
+                468.2719421386719,
+                108.14801788330078
+              ]
+            }
+          ]
+        },
+        {
+          "y": 802,
+          "text": "6 / 6",
+          "bbox": [
+            522.3400268554688,
+            801.81201171875,
+            540.1320190429688,
+            814.6119995117188
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "FreeSans",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.1410000324249268,
+              "descender": -0.45899999141693115,
+              "text": " 6 / 6",
+              "origin": [
+                522.3400268554688,
+                810.9400024414062
+              ],
+              "bbox": [
+                522.3400268554688,
+                801.81201171875,
+                540.1320190429688,
+                814.6119995117188
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

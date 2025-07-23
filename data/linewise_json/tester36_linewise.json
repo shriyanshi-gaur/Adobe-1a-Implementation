@@ -1,0 +1,2441 @@
+{
+  "filename": "tester36.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 44,
+          "text": "STATE OF CALIFORNIA - STATE AND CONSUMER SERVICES AGENCY Gray, Davis, Governor",
+          "bbox": [
+            30.0,
+            43.714115142822266,
+            572.9911499023438,
+            52.706748962402344
+          ],
+          "spans": [
+            {
+              "size": 8.050700187683105,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "STATE OF CALIFORNIA - STATE AND CONSUMER SERVICES AGENCY",
+              "origin": [
+                30.0,
+                51.0
+              ],
+              "bbox": [
+                30.0,
+                43.714115142822266,
+                299.27899169921875,
+                52.706748962402344
+              ]
+            },
+            {
+              "size": 8.050700187683105,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "Gray, Davis, Governor",
+              "origin": [
+                492.7494201660156,
+                51.0
+              ],
+              "bbox": [
+                492.7494201660156,
+                43.714115142822266,
+                572.9911499023438,
+                52.706748962402344
+              ]
+            }
+          ]
+        },
+        {
+          "y": 72,
+          "text": "HEARING AID DISPENSERS BUREAU",
+          "bbox": [
+            186.0,
+            72.37551879882812,
+            406.226318359375,
+            85.79739379882812
+          ],
+          "spans": [
+            {
+              "size": 12.015999794006348,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "  HEARING AID DISPENSERS BUREAU",
+              "origin": [
+                186.0,
+                83.25
+              ],
+              "bbox": [
+                186.0,
+                72.37551879882812,
+                406.226318359375,
+                85.79739379882812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 87,
+          "text": "1422 Howe Avenue, Suite 5, Sacramento, CA 95825-3204",
+          "bbox": [
+            192.0,
+            87.21411895751953,
+            403.53692626953125,
+            96.20674896240234
+          ],
+          "spans": [
+            {
+              "size": 8.050700187683105,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "1422  Howe  Avenue, Suite 5, Sacramento, CA 95825-3204",
+              "origin": [
+                192.0,
+                94.5
+              ],
+              "bbox": [
+                192.0,
+                87.21411895751953,
+                403.53692626953125,
+                96.20674896240234
+              ]
+            }
+          ]
+        },
+        {
+          "y": 96,
+          "text": "Telephone: (916) 263-2288 Fax: (916) 263-2290",
+          "bbox": [
+            207.0,
+            96.21411895751953,
+            390.0069274902344,
+            105.20674896240234
+          ],
+          "spans": [
+            {
+              "size": 8.050700187683105,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "Telephone:   (916) 263-2288   Fax:  (916) 263-2290",
+              "origin": [
+                207.0,
+                103.5
+              ],
+              "bbox": [
+                207.0,
+                96.21411895751953,
+                390.0069274902344,
+                105.20674896240234
+              ]
+            }
+          ]
+        },
+        {
+          "y": 132,
+          "text": "Consumers and the 30-day",
+          "bbox": [
+            195.75,
+            131.6219940185547,
+            441.9755859375,
+            158.7899932861328
+          ],
+          "spans": [
+            {
+              "size": 24.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialNarrow",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.921999990940094,
+              "descender": -0.20999999344348907,
+              "text": "Consumers and the 30-day ",
+              "origin": [
+                195.75,
+                153.75
+              ],
+              "bbox": [
+                195.75,
+                131.6219940185547,
+                441.9755859375,
+                158.7899932861328
+              ]
+            }
+          ]
+        },
+        {
+          "y": 159,
+          "text": "Warranty On Hearing Aids",
+          "bbox": [
+            199.5,
+            159.3719940185547,
+            437.47198486328125,
+            186.5399932861328
+          ],
+          "spans": [
+            {
+              "size": 24.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialNarrow",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.921999990940094,
+              "descender": -0.20999999344348907,
+              "text": "Warranty On Hearing Aids ",
+              "origin": [
+                199.5,
+                181.5
+              ],
+              "bbox": [
+                199.5,
+                159.3719940185547,
+                437.47198486328125,
+                186.5399932861328
+              ]
+            }
+          ]
+        },
+        {
+          "y": 216,
+          "text": "The California Song-Beverly Consumer Warranty Act provides a 30-day warranty on all new and used",
+          "bbox": [
+            43.5,
+            215.63999938964844,
+            573.231689453125,
+            229.04400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "The California Song-Beverly Consumer Warranty Act provides a 30-day warranty on all new and used ",
+              "origin": [
+                43.5,
+                226.5
+              ],
+              "bbox": [
+                43.5,
+                215.63999938964844,
+                573.231689453125,
+                229.04400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 230,
+          "text": "hearing aids sold in California. If the hearing aid is not specifically fit for the buyer's particular needs, the",
+          "bbox": [
+            43.5,
+            229.88999938964844,
+            573.336669921875,
+            243.29400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "hearing aids sold in California.  If the hearing aid is not specifically fit for the buyer's particular needs, the ",
+              "origin": [
+                43.5,
+                240.75
+              ],
+              "bbox": [
+                43.5,
+                229.88999938964844,
+                573.336669921875,
+                243.29400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 244,
+          "text": "device may be returned to the hearing aid dispenser within 30 days of the date of actual receipt by the",
+          "bbox": [
+            43.5,
+            244.13999938964844,
+            573.1575317382812,
+            257.54400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "device may be returned to the hearing aid dispenser within 30 days of the date of actual receipt by the ",
+              "origin": [
+                43.5,
+                255.0
+              ],
+              "bbox": [
+                43.5,
+                244.13999938964844,
+                573.1575317382812,
+                257.54400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 258,
+          "text": "buyer or completion of fitting by the seller, whichever occurs later. If the buyer returns the device, the seller",
+          "bbox": [
+            43.5,
+            258.3900146484375,
+            573.305908203125,
+            271.79400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "buyer or completion of fitting by the seller, whichever occurs later. If the buyer returns the device, the seller ",
+              "origin": [
+                43.5,
+                269.25
+              ],
+              "bbox": [
+                43.5,
+                258.3900146484375,
+                573.305908203125,
+                271.79400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 273,
+          "text": "must either adjust or replace the device or promptly refund the total amount paid.",
+          "bbox": [
+            43.5,
+            272.6400146484375,
+            459.33599853515625,
+            286.04400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "must either adjust or replace the device or promptly refund the total amount paid. ",
+              "origin": [
+                43.5,
+                283.5
+              ],
+              "bbox": [
+                43.5,
+                272.6400146484375,
+                459.33599853515625,
+                286.04400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 301,
+          "text": "If the buyer returns the device within the 30-day period, the seller is required, without charge and within a",
+          "bbox": [
+            43.5,
+            301.1400146484375,
+            573.9636840820312,
+            314.54400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "If the buyer returns the device within the 30-day period, the seller is required, without charge and within a ",
+              "origin": [
+                43.5,
+                312.0
+              ],
+              "bbox": [
+                43.5,
+                301.1400146484375,
+                573.9636840820312,
+                314.54400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 315,
+          "text": "reasonable time, to adjust, repair or replace the device. If, after the adjustment, repair or replacement, the",
+          "bbox": [
+            43.5,
+            315.3900146484375,
+            573.3367309570312,
+            328.79400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "reasonable time, to adjust, repair or replace the device.  If, after the adjustment, repair or replacement, the ",
+              "origin": [
+                43.5,
+                326.25
+              ],
+              "bbox": [
+                43.5,
+                315.3900146484375,
+                573.3367309570312,
+                328.79400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 330,
+          "text": "device is still not specifically fit for the buyer’s particular needs, the device may be returned for a refund of",
+          "bbox": [
+            43.5,
+            329.6400146484375,
+            573.2869262695312,
+            343.04400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "device is still not specifically fit for the buyer’s particular needs, the device may be returned for a refund of ",
+              "origin": [
+                43.5,
+                340.5
+              ],
+              "bbox": [
+                43.5,
+                329.6400146484375,
+                573.2869262695312,
+                343.04400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 344,
+          "text": "the total amount paid including all payments and any trade-in exchanged as part of the transaction.",
+          "bbox": [
+            43.5,
+            343.8900146484375,
+            562.8359985351562,
+            357.29400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "the total amount paid",
+              "origin": [
+                43.5,
+                354.75
+              ],
+              "bbox": [
+                43.5,
+                343.8900146484375,
+                162.81263732910156,
+                357.29400634765625
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": " including all payments and any trade-in exchanged as part of the transaction. ",
+              "origin": [
+                163.5,
+                354.75
+              ],
+              "bbox": [
+                163.5,
+                343.8900146484375,
+                562.8359985351562,
+                357.29400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 373,
+          "text": "The Office of the Attorney General’s legal opinion confirms that “the seller may NOT retain any portion of",
+          "bbox": [
+            43.5,
+            373.1400146484375,
+            573.0186157226562,
+            386.54400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "The Office of the Attorney General’s legal opinion confirms that “the seller may NOT retain any portion of ",
+              "origin": [
+                43.5,
+                384.0
+              ],
+              "bbox": [
+                43.5,
+                373.1400146484375,
+                573.0186157226562,
+                386.54400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 387,
+          "text": "the total amount paid on the basis that such part payment was for fitting the device or other ancillary",
+          "bbox": [
+            43.5,
+            387.3900146484375,
+            570.98095703125,
+            400.79400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "the total amount paid on the basis that such part payment was for fitting the device or other ancillary ",
+              "origin": [
+                43.5,
+                398.25
+              ],
+              "bbox": [
+                43.5,
+                387.3900146484375,
+                570.98095703125,
+                400.79400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 402,
+          "text": "service or for one or more of the component parts that the seller refuses to take back.” This means the",
+          "bbox": [
+            43.5,
+            401.6400146484375,
+            573.24755859375,
+            415.04400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "service or for one or more of the component parts that the seller refuses to take back.” This means the ",
+              "origin": [
+                43.5,
+                412.5
+              ],
+              "bbox": [
+                43.5,
+                401.6400146484375,
+                573.24755859375,
+                415.04400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 416,
+          "text": "hearing aid dispenser may not retain a fee or other charge in connection with the purchase, fitting,",
+          "bbox": [
+            43.5,
+            415.8900146484375,
+            571.23974609375,
+            429.29400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "hearing aid dispenser may not retain a fee or other charge in connection with the purchase, fitting, ",
+              "origin": [
+                43.5,
+                426.75
+              ],
+              "bbox": [
+                43.5,
+                415.8900146484375,
+                571.23974609375,
+                429.29400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 430,
+          "text": "financing, or return of the device, and no fee should be listed as “non-refundable” on the purchase",
+          "bbox": [
+            43.5,
+            430.1400146484375,
+            572.0252685546875,
+            443.54400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "financing, or return of the device, and no fee should be listed as “non-refundable” on the purchase ",
+              "origin": [
+                43.5,
+                441.0
+              ],
+              "bbox": [
+                43.5,
+                430.1400146484375,
+                572.0252685546875,
+                443.54400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 444,
+          "text": "agreement.",
+          "bbox": [
+            43.5,
+            444.3900146484375,
+            106.08599853515625,
+            457.79400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "agreement. ",
+              "origin": [
+                43.5,
+                455.25
+              ],
+              "bbox": [
+                43.5,
+                444.3900146484375,
+                106.08599853515625,
+                457.79400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 489,
+          "text": "Application of the Law",
+          "bbox": [
+            43.5,
+            488.6400146484375,
+            173.58599853515625,
+            502.04400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "Application of the Law",
+              "origin": [
+                43.5,
+                499.5
+              ],
+              "bbox": [
+                43.5,
+                488.6400146484375,
+                170.2119903564453,
+                502.04400634765625
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": " ",
+              "origin": [
+                170.25,
+                499.5
+              ],
+              "bbox": [
+                170.25,
+                488.6400146484375,
+                173.58599853515625,
+                502.04400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 518,
+          "text": "The hearing aid may be returned at any time within 30 days after the date of the actual delivery or",
+          "bbox": [
+            43.5,
+            517.8900146484375,
+            571.1270141601562,
+            531.2940063476562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "The hearing aid may be returned at any time within 30 days after the date of the actual delivery or ",
+              "origin": [
+                43.5,
+                528.75
+              ],
+              "bbox": [
+                43.5,
+                517.8900146484375,
+                571.1270141601562,
+                531.2940063476562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 532,
+          "text": "completion of the fitting, whichever occurs later. For example, if the device is ordered on July 1, and",
+          "bbox": [
+            43.5,
+            532.1400146484375,
+            572.5907592773438,
+            545.5440063476562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "completion of the fitting, whichever occurs later.  For example, if the device is ordered on July 1, and ",
+              "origin": [
+                43.5,
+                543.0
+              ],
+              "bbox": [
+                43.5,
+                532.1400146484375,
+                572.5907592773438,
+                545.5440063476562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 546,
+          "text": "delivered on July 15, it may be returned for adjustment or replacement through August 15. If, however, the",
+          "bbox": [
+            43.5,
+            546.3900146484375,
+            573.2825927734375,
+            559.7940063476562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "delivered on July 15, it may be returned for adjustment or replacement through August 15.  If, however, the ",
+              "origin": [
+                43.5,
+                557.25
+              ],
+              "bbox": [
+                43.5,
+                546.3900146484375,
+                573.2825927734375,
+                559.7940063476562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 561,
+          "text": "process of the fitting only begins on July 15 and the fitting is not completed until August 20, the buyer is",
+          "bbox": [
+            43.5,
+            560.6400146484375,
+            572.5664672851562,
+            574.0440063476562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "process of the fitting only begins on July 15 and the fitting is not completed until August 20, the buyer is ",
+              "origin": [
+                43.5,
+                571.5
+              ],
+              "bbox": [
+                43.5,
+                560.6400146484375,
+                572.5664672851562,
+                574.0440063476562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 575,
+          "text": "entitled to return the device for adjustment or replacement through September 20.",
+          "bbox": [
+            43.5,
+            574.8900146484375,
+            464.58599853515625,
+            588.2940063476562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "entitled to return the device for adjustment or replacement through September 20. ",
+              "origin": [
+                43.5,
+                585.75
+              ],
+              "bbox": [
+                43.5,
+                574.8900146484375,
+                464.58599853515625,
+                588.2940063476562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 603,
+          "text": "The hearing aid dispenser has the right to attempt to achieve a proper fitting by adjusting, repairing or",
+          "bbox": [
+            43.5,
+            603.3900146484375,
+            572.3388061523438,
+            616.7940063476562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "The hearing aid dispenser has the right to attempt to achieve a proper fitting by adjusting, repairing or ",
+              "origin": [
+                43.5,
+                614.25
+              ],
+              "bbox": [
+                43.5,
+                603.3900146484375,
+                572.3388061523438,
+                616.7940063476562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 618,
+          "text": "replacing the device. If, after the adjustment, the device is still not suited to the buyer’s particular needs,",
+          "bbox": [
+            43.5,
+            617.6400146484375,
+            572.9612426757812,
+            631.0440063476562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "replacing the device.  If, after the adjustment, the device is still not suited to the buyer’s particular needs, ",
+              "origin": [
+                43.5,
+                628.5
+              ],
+              "bbox": [
+                43.5,
+                617.6400146484375,
+                572.9612426757812,
+                631.0440063476562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 632,
+          "text": "then the device may be returned for a refund of the total amount paid.",
+          "bbox": [
+            43.5,
+            631.8900146484375,
+            400.08599853515625,
+            645.2940063476562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "then the device may be returned for a refund of the total amount paid. ",
+              "origin": [
+                43.5,
+                642.75
+              ],
+              "bbox": [
+                43.5,
+                631.8900146484375,
+                400.08599853515625,
+                645.2940063476562
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 45,
+          "text": "Buyer’s and Seller’s Responsibilities",
+          "bbox": [
+            36.0,
+            44.63999938964844,
+            247.83599853515625,
+            58.04399871826172
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "Buyer’s and Seller’s Responsibilities",
+              "origin": [
+                36.0,
+                55.5
+              ],
+              "bbox": [
+                36.0,
+                44.63999938964844,
+                244.52230834960938,
+                58.04399871826172
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": " ",
+              "origin": [
+                244.5,
+                55.5
+              ],
+              "bbox": [
+                244.5,
+                44.63999938964844,
+                247.83599853515625,
+                58.04399871826172
+              ]
+            }
+          ]
+        },
+        {
+          "y": 74,
+          "text": "The hearing aid dispenser must act in good faith in honoring the buyer's rights, and the buyer, too, must act in",
+          "bbox": [
+            36.0,
+            73.88999938964844,
+            579.5234375,
+            87.29399871826172
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "The hearing aid dispenser must act in good faith in honoring the buyer's rights, and the buyer, too, must act in ",
+              "origin": [
+                36.0,
+                84.75
+              ],
+              "bbox": [
+                36.0,
+                73.88999938964844,
+                579.5234375,
+                87.29399871826172
+              ]
+            }
+          ]
+        },
+        {
+          "y": 88,
+          "text": "good faith in enforcing such rights. Whether the device is or is not specifically fit for the buyer's particular",
+          "bbox": [
+            36.0,
+            88.13999938964844,
+            579.3389282226562,
+            101.54399871826172
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "good faith in enforcing such rights.  Whether the device is or is not specifically fit for the buyer's particular ",
+              "origin": [
+                36.0,
+                99.0
+              ],
+              "bbox": [
+                36.0,
+                88.13999938964844,
+                579.3389282226562,
+                101.54399871826172
+              ]
+            }
+          ]
+        },
+        {
+          "y": 102,
+          "text": "needs will always be a question of fact. The fact that the buyer sincerely believes that the device is unfit is",
+          "bbox": [
+            36.0,
+            102.38999938964844,
+            579.36669921875,
+            115.79399871826172
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "needs will always be a question of fact.  The fact that the buyer sincerely believes that the device is unfit is ",
+              "origin": [
+                36.0,
+                113.25
+              ],
+              "bbox": [
+                36.0,
+                102.38999938964844,
+                579.36669921875,
+                115.79399871826172
+              ]
+            }
+          ]
+        },
+        {
+          "y": 117,
+          "text": "relevant, but will never be conclusive, just as the fact that the seller believes that the device is fit will never be",
+          "bbox": [
+            36.0,
+            116.63999938964844,
+            580.6260986328125,
+            130.04400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "relevant, but will never be conclusive, just as the fact that the seller believes that the device is fit will never be ",
+              "origin": [
+                36.0,
+                127.5
+              ],
+              "bbox": [
+                36.0,
+                116.63999938964844,
+                580.6260986328125,
+                130.04400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 131,
+          "text": "conclusive. In a dispute, the opinion of an unrelated third person will be helpful -- but again, never conclusive.",
+          "bbox": [
+            36.0,
+            130.88999938964844,
+            579.3402099609375,
+            144.29400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "conclusive.  In a dispute, the opinion of an unrelated third person will be helpful -- but again, never conclusive. ",
+              "origin": [
+                36.0,
+                141.75
+              ],
+              "bbox": [
+                36.0,
+                130.88999938964844,
+                579.3402099609375,
+                144.29400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 145,
+          "text": "As usually is the case, the seller and buyer will have to work to resolve any differences to each other's",
+          "bbox": [
+            36.0,
+            145.13999938964844,
+            578.2486572265625,
+            158.54400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "As usually is the case, the seller and buyer will have to work to resolve any differences to each other's ",
+              "origin": [
+                36.0,
+                156.0
+              ],
+              "bbox": [
+                36.0,
+                145.13999938964844,
+                578.2486572265625,
+                158.54400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 159,
+          "text": "satisfaction.",
+          "bbox": [
+            36.0,
+            159.38999938964844,
+            101.58599853515625,
+            172.79400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "satisfaction. ",
+              "origin": [
+                36.0,
+                170.25
+              ],
+              "bbox": [
+                36.0,
+                159.38999938964844,
+                101.58599853515625,
+                172.79400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 188,
+          "text": "The buyer does not have an unqualified option to return the device for a refund and may return the hearing aid",
+          "bbox": [
+            36.0,
+            187.88999938964844,
+            580.100341796875,
+            201.29400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "The buyer does not have an unqualified option to return the device for a refund and may return the hearing aid ",
+              "origin": [
+                36.0,
+                198.75
+              ],
+              "bbox": [
+                36.0,
+                187.88999938964844,
+                580.100341796875,
+                201.29400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 202,
+          "text": "for a refund only if:",
+          "bbox": [
+            36.0,
+            202.13999938964844,
+            133.08599853515625,
+            215.54400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "for a refund only if: ",
+              "origin": [
+                36.0,
+                213.0
+              ],
+              "bbox": [
+                36.0,
+                202.13999938964844,
+                133.08599853515625,
+                215.54400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 231,
+          "text": "(a) the device is not specifically fit for the particular needs of the buyer, and",
+          "bbox": [
+            36.0,
+            230.63999938964844,
+            422.58599853515625,
+            244.04400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "(a) the device is not specifically fit for the particular needs of the buyer, and ",
+              "origin": [
+                36.0,
+                241.5
+              ],
+              "bbox": [
+                36.0,
+                230.63999938964844,
+                422.58599853515625,
+                244.04400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 245,
+          "text": "(b) the buyer has not abused the device, and",
+          "bbox": [
+            36.0,
+            244.88999938964844,
+            268.08599853515625,
+            258.29400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "(b) the buyer has not abused the device, and ",
+              "origin": [
+                36.0,
+                255.75
+              ],
+              "bbox": [
+                36.0,
+                244.88999938964844,
+                268.08599853515625,
+                258.29400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 259,
+          "text": "(c) the buyer has returned the device to the seller for adjustment or replacement within the 30 days, and",
+          "bbox": [
+            36.0,
+            259.1400146484375,
+            566.5859985351562,
+            272.54400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "(c) the buyer has returned the device to the seller for adjustment or replacement within the 30 days, and ",
+              "origin": [
+                36.0,
+                270.0
+              ],
+              "bbox": [
+                36.0,
+                259.1400146484375,
+                566.5859985351562,
+                272.54400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 273,
+          "text": "(d) the seller has failed to adjust the device or, if appropriate, replace it with a device that is specifically fit for",
+          "bbox": [
+            36.0,
+            273.3900146484375,
+            580.06396484375,
+            286.79400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "(d) the seller has failed to adjust the device or, if appropriate, replace it with a device that is specifically fit for ",
+              "origin": [
+                36.0,
+                284.25
+              ],
+              "bbox": [
+                36.0,
+                273.3900146484375,
+                580.06396484375,
+                286.79400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 288,
+          "text": "the buyer's particular needs.",
+          "bbox": [
+            36.0,
+            287.6400146484375,
+            184.08599853515625,
+            301.04400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "the buyer's particular needs. ",
+              "origin": [
+                36.0,
+                298.5
+              ],
+              "bbox": [
+                36.0,
+                287.6400146484375,
+                184.08599853515625,
+                301.04400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 316,
+          "text": "The hearing aid dispenser is not required by law to provide a refund if:",
+          "bbox": [
+            36.0,
+            316.1400146484375,
+            399.33599853515625,
+            329.54400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "The hearing aid dispenser is not required by law to provide a refund if: ",
+              "origin": [
+                36.0,
+                327.0
+              ],
+              "bbox": [
+                36.0,
+                316.1400146484375,
+                399.33599853515625,
+                329.54400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 345,
+          "text": "(a) the device has been abused or damaged by the buyer;",
+          "bbox": [
+            36.0,
+            344.6400146484375,
+            337.83599853515625,
+            358.04400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "(a) the device has been abused or damaged by the buyer; ",
+              "origin": [
+                36.0,
+                355.5
+              ],
+              "bbox": [
+                36.0,
+                344.6400146484375,
+                337.83599853515625,
+                358.04400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 359,
+          "text": "(b) the buyer keeps the device for more than 30 days after delivery without seeking an adjustment;",
+          "bbox": [
+            36.0,
+            358.8900146484375,
+            541.0859985351562,
+            372.29400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "(b) the buyer keeps the device for more than 30 days after delivery without seeking an adjustment; ",
+              "origin": [
+                36.0,
+                369.75
+              ],
+              "bbox": [
+                36.0,
+                358.8900146484375,
+                541.0859985351562,
+                372.29400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 373,
+          "text": "(c) the buyer does not allow the dispenser an opportunity to adjust, repair or replace the device;",
+          "bbox": [
+            36.0,
+            373.1400146484375,
+            527.5859985351562,
+            386.54400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "(c) the buyer does not allow the dispenser an opportunity to adjust, repair or replace the device; ",
+              "origin": [
+                36.0,
+                384.0
+              ],
+              "bbox": [
+                36.0,
+                373.1400146484375,
+                527.5859985351562,
+                386.54400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 387,
+          "text": "(d) the buyer feels he/she paid too much and returns the hearing aid; or",
+          "bbox": [
+            36.0,
+            387.3900146484375,
+            406.08599853515625,
+            400.79400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "(d) the buyer feels he/she paid too much and returns the hearing aid; or  ",
+              "origin": [
+                36.0,
+                398.25
+              ],
+              "bbox": [
+                36.0,
+                387.3900146484375,
+                406.08599853515625,
+                400.79400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 402,
+          "text": "(e) the hearing aid is returned after the death of the buyer.",
+          "bbox": [
+            36.0,
+            401.6400146484375,
+            334.83599853515625,
+            415.04400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "(e) the hearing aid is returned after the death of the buyer. ",
+              "origin": [
+                36.0,
+                412.5
+              ],
+              "bbox": [
+                36.0,
+                401.6400146484375,
+                334.83599853515625,
+                415.04400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 430,
+          "text": "It is important that both the buyer and the seller keep accurate written records of the dates of all adjustments.",
+          "bbox": [
+            36.0,
+            430.1400146484375,
+            580.0364990234375,
+            443.54400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "It is important that both the buyer and the seller keep accurate written records of the dates of all adjustments. ",
+              "origin": [
+                36.0,
+                441.0
+              ],
+              "bbox": [
+                36.0,
+                430.1400146484375,
+                580.0364990234375,
+                443.54400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 444,
+          "text": "In a dispute, the records will be essential in making a determination of the issue.",
+          "bbox": [
+            36.0,
+            444.3900146484375,
+            450.33599853515625,
+            457.79400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "In a dispute, the records will be essential in making a determination of the issue. ",
+              "origin": [
+                36.0,
+                455.25
+              ],
+              "bbox": [
+                36.0,
+                444.3900146484375,
+                450.33599853515625,
+                457.79400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 474,
+          "text": "The Purchase Agreement Written Warranty Requirement",
+          "bbox": [
+            36.0,
+            473.6400146484375,
+            361.83599853515625,
+            487.04400634765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "The Purchase Agreement Written Warranty Requirement  ",
+              "origin": [
+                36.0,
+                484.5
+              ],
+              "bbox": [
+                36.0,
+                473.6400146484375,
+                361.83599853515625,
+                487.04400634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 503,
+          "text": "The following warranty language must appear on the hearing aid purchase agreement/receipt delivered to the",
+          "bbox": [
+            36.0,
+            502.8900146484375,
+            580.1497192382812,
+            516.2940063476562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "The following warranty language must appear on the hearing aid purchase agreement/receipt delivered to the ",
+              "origin": [
+                36.0,
+                513.75
+              ],
+              "bbox": [
+                36.0,
+                502.8900146484375,
+                580.1497192382812,
+                516.2940063476562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 517,
+          "text": "buyer:",
+          "bbox": [
+            36.0,
+            517.1400146484375,
+            70.83599853515625,
+            530.5440063476562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "buyer: ",
+              "origin": [
+                36.0,
+                528.0
+              ],
+              "bbox": [
+                36.0,
+                517.1400146484375,
+                70.83599853515625,
+                530.5440063476562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 545,
+          "text": "This assistive device is warranted to be specifically fit for the particular needs of you, the buyer. If the",
+          "bbox": [
+            72.0,
+            545.42626953125,
+            542.707763671875,
+            556.3170166015625
+          ],
+          "spans": [
+            {
+              "size": 9.75,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "This assistive device is warranted to be specifically fit for the particular needs of you, the buyer.  If the ",
+              "origin": [
+                72.0,
+                554.25
+              ],
+              "bbox": [
+                72.0,
+                545.42626953125,
+                542.707763671875,
+                556.3170166015625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 557,
+          "text": "device is not specifically fit for your particular needs, it may be returned to the seller within 30 days of",
+          "bbox": [
+            72.0,
+            557.4265747070312,
+            542.0372314453125,
+            568.3173217773438
+          ],
+          "spans": [
+            {
+              "size": 9.75,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "device is not specifically fit for your particular needs, it may be returned to the seller within 30 days of ",
+              "origin": [
+                72.0,
+                566.2503051757812
+              ],
+              "bbox": [
+                72.0,
+                557.4265747070312,
+                542.0372314453125,
+                568.3173217773438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 569,
+          "text": "the date of actual receipt by you or completion of fitting by the seller, whichever occurs later. If you",
+          "bbox": [
+            72.0,
+            569.4268798828125,
+            543.0776977539062,
+            580.317626953125
+          ],
+          "spans": [
+            {
+              "size": 9.75,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "the date of actual receipt by you or completion of fitting by the seller, whichever occurs later.  If you ",
+              "origin": [
+                72.0,
+                578.2506103515625
+              ],
+              "bbox": [
+                72.0,
+                569.4268798828125,
+                543.0776977539062,
+                580.317626953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 581,
+          "text": "return the device, the seller will either adjust or replace the device or promptly refund the total",
+          "bbox": [
+            72.0,
+            581.4271850585938,
+            541.7283325195312,
+            592.3179321289062
+          ],
+          "spans": [
+            {
+              "size": 9.75,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "return the device, the seller will either adjust or replace the device or promptly refund the total ",
+              "origin": [
+                72.0,
+                590.2509155273438
+              ],
+              "bbox": [
+                72.0,
+                581.4271850585938,
+                541.7283325195312,
+                592.3179321289062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 593,
+          "text": "amount paid. This warranty does not affect the protections and remedies you have under other laws.",
+          "bbox": [
+            72.0,
+            593.427490234375,
+            542.7105102539062,
+            604.3182373046875
+          ],
+          "spans": [
+            {
+              "size": 9.75,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "amount paid.  This warranty does not affect the protections and remedies you have under other laws. ",
+              "origin": [
+                72.0,
+                602.251220703125
+              ],
+              "bbox": [
+                72.0,
+                593.427490234375,
+                542.7105102539062,
+                604.3182373046875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 621,
+          "text": "Hearing Aid Dispensers Bureau",
+          "bbox": [
+            36.0,
+            620.6400146484375,
+            215.45999145507812,
+            634.0440063476562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "Hearing Aid Dispensers Bureau",
+              "origin": [
+                36.0,
+                631.5
+              ],
+              "bbox": [
+                36.0,
+                620.6400146484375,
+                215.45999145507812,
+                634.0440063476562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 650,
+          "text": "The Hearing Aid Dispensers Bureau's mission is to protect consumers through its licensing and",
+          "bbox": [
+            36.0,
+            649.8900146484375,
+            569.595947265625,
+            663.2940063476562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "The Hearing Aid Dispensers Bureau's mission is to protect consumers through its licensing and ",
+              "origin": [
+                36.0,
+                660.75
+              ],
+              "bbox": [
+                36.0,
+                649.8900146484375,
+                569.595947265625,
+                663.2940063476562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 664,
+          "text": "enforcement functions. Consumers are encouraged to file a formal complaint if there is any question",
+          "bbox": [
+            36.0,
+            664.1400146484375,
+            577.951171875,
+            677.5440063476562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "enforcement functions.  Consumers are encouraged to file a formal complaint if there is any question ",
+              "origin": [
+                36.0,
+                675.0
+              ],
+              "bbox": [
+                36.0,
+                664.1400146484375,
+                577.951171875,
+                677.5440063476562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 678,
+          "text": "regarding care provided by a hearing aid dispenser.",
+          "bbox": [
+            36.0,
+            678.3900146484375,
+            314.58599853515625,
+            691.7940063476562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "regarding care provided by a hearing aid dispenser.   ",
+              "origin": [
+                36.0,
+                689.25
+              ],
+              "bbox": [
+                36.0,
+                678.3900146484375,
+                314.58599853515625,
+                691.7940063476562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 707,
+          "text": "If you have any questions regarding a hearing aid dispenser or the purchase or return of hearing aids, or",
+          "bbox": [
+            36.0,
+            706.8900146484375,
+            572.5859985351562,
+            720.2940063476562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "If you have any questions regarding a hearing aid dispenser or the purchase or return of hearing aids, or ",
+              "origin": [
+                36.0,
+                717.75
+              ],
+              "bbox": [
+                36.0,
+                706.8900146484375,
+                572.5859985351562,
+                720.2940063476562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 721,
+          "text": "if you wish to obtain a complaint form, please contact us at 1422 Howe Avenue, Suite 5, Sacramento,",
+          "bbox": [
+            36.0,
+            721.1400146484375,
+            559.8466796875,
+            734.5440063476562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "if you wish to obtain a complaint form, please contact us at 1422 Howe Avenue, Suite 5, Sacramento, ",
+              "origin": [
+                36.0,
+                732.0
+              ],
+              "bbox": [
+                36.0,
+                721.1400146484375,
+                559.8466796875,
+                734.5440063476562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 735,
+          "text": "CA 95825-3204, or call 916/263-2288. 7/99",
+          "bbox": [
+            36.0,
+            735.3900146484375,
+            507.33599853515625,
+            748.7940063476562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "CA 95825-3204, or call 916/263-2288.   ",
+              "origin": [
+                36.0,
+                746.25
+              ],
+              "bbox": [
+                36.0,
+                735.3900146484375,
+                247.08599853515625,
+                748.7940063476562
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "       7/99 ",
+              "origin": [
+                459.75,
+                746.25
+              ],
+              "bbox": [
+                459.75,
+                735.3900146484375,
+                507.33599853515625,
+                748.7940063476562
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

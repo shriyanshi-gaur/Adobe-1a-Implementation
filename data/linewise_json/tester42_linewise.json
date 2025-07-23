@@ -1,0 +1,4664 @@
+{
+  "filename": "tester42.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 159,
+          "text": "§ 1000.175 25 CFR Ch. VI (4–1–07 Edition)",
+          "bbox": [
+            132.0001983642578,
+            158.8000030517578,
+            482.52044677734375,
+            167.8000030517578
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "AvantGarde-Demi",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7400000095367432,
+              "descender": -0.1850000023841858,
+              "text": "§ 1000.175 ",
+              "origin": [
+                132.0001983642578,
+                166.0
+              ],
+              "bbox": [
+                132.0001983642578,
+                158.8000030517578,
+                178.85955810546875,
+                167.8000030517578
+              ]
+            },
+            {
+              "size": 9.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "AvantGarde-Demi",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7400000095367432,
+              "descender": -0.1850000023841858,
+              "text": "25 CFR Ch. VI (4–1–07 Edition) ",
+              "origin": [
+                350.0,
+                166.0
+              ],
+              "bbox": [
+                350.0,
+                158.8000030517578,
+                482.52044677734375,
+                167.8000030517578
+              ]
+            }
+          ]
+        },
+        {
+          "y": 177,
+          "text": "(2) The Senate Committee on Indian",
+          "bbox": [
+            320.0,
+            177.4025421142578,
+            482.7120666503906,
+            185.4025421142578
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(2) The Senate Committee on Indian ",
+              "origin": [
+                320.0,
+                184.0
+              ],
+              "bbox": [
+                320.0,
+                177.4025421142578,
+                482.7120666503906,
+                185.4025421142578
+              ]
+            }
+          ]
+        },
+        {
+          "y": 179,
+          "text": "§ 1000.175 What is the process for con-",
+          "bbox": [
+            132.0,
+            178.74098205566406,
+            300.08001708984375,
+            186.74098205566406
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "§ 1000.175",
+              "origin": [
+                132.0,
+                185.0
+              ],
+              "bbox": [
+                132.0,
+                178.74098205566406,
+                171.68797302246094,
+                186.74098205566406
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "What is the process for con-",
+              "origin": [
+                179.68797302246094,
+                185.0
+              ],
+              "bbox": [
+                179.68797302246094,
+                178.74098205566406,
+                300.08001708984375,
+                186.74098205566406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 186,
+          "text": "Affairs;",
+          "bbox": [
+            312.0,
+            186.3025665283203,
+            346.416015625,
+            194.3025665283203
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "Affairs; ",
+              "origin": [
+                312.0,
+                192.9000244140625
+              ],
+              "bbox": [
+                312.0,
+                186.3025665283203,
+                346.416015625,
+                194.3025665283203
+              ]
+            }
+          ]
+        },
+        {
+          "y": 187,
+          "text": "ducting the negotiation phase?",
+          "bbox": [
+            148.0,
+            186.74098205566406,
+            279.8800354003906,
+            194.74098205566406
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "ducting the negotiation phase? ",
+              "origin": [
+                148.0,
+                193.0
+              ],
+              "bbox": [
+                148.0,
+                186.74098205566406,
+                279.8800354003906,
+                194.74098205566406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 195,
+          "text": "(c) For BIA programs, the AFA is",
+          "bbox": [
+            320.0,
+            195.10255432128906,
+            482.63995361328125,
+            203.10255432128906
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(c) For BIA programs, the AFA is ",
+              "origin": [
+                320.0,
+                201.70001220703125
+              ],
+              "bbox": [
+                320.0,
+                195.10255432128906,
+                482.63995361328125,
+                203.10255432128906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 199,
+          "text": "(a) Within 30 days of receiving a writ-",
+          "bbox": [
+            140.0,
+            198.8025665283203,
+            300.03997802734375,
+            206.8025665283203
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(a) Within 30 days of receiving a writ-",
+              "origin": [
+                140.0,
+                205.4000244140625
+              ],
+              "bbox": [
+                140.0,
+                198.8025665283203,
+                300.03997802734375,
+                206.8025665283203
+              ]
+            }
+          ]
+        },
+        {
+          "y": 204,
+          "text": "also forwarded to each Indian Tribe/",
+          "bbox": [
+            312.0,
+            204.00257873535156,
+            482.6200866699219,
+            212.00257873535156
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "also forwarded to each Indian Tribe/ ",
+              "origin": [
+                312.0,
+                210.60003662109375
+              ],
+              "bbox": [
+                312.0,
+                204.00257873535156,
+                482.6200866699219,
+                212.00257873535156
+              ]
+            }
+          ]
+        },
+        {
+          "y": 208,
+          "text": "ten request to negotiate, the bureau",
+          "bbox": [
+            132.0,
+            207.8025665283203,
+            302.70001220703125,
+            215.8025665283203
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "ten request to negotiate, the bureau ",
+              "origin": [
+                132.0,
+                214.4000244140625
+              ],
+              "bbox": [
+                132.0,
+                207.8025665283203,
+                302.70001220703125,
+                215.8025665283203
+              ]
+            }
+          ]
+        },
+        {
+          "y": 213,
+          "text": "Consortium served by the BIA Agency",
+          "bbox": [
+            312.0,
+            212.90260314941406,
+            482.6800537109375,
+            220.90260314941406
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "Consortium served by the BIA Agency ",
+              "origin": [
+                312.0,
+                219.50006103515625
+              ],
+              "bbox": [
+                312.0,
+                212.90260314941406,
+                482.6800537109375,
+                220.90260314941406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 217,
+          "text": "and the Tribe/Consortium will agree to",
+          "bbox": [
+            132.0,
+            216.8025665283203,
+            302.6920166015625,
+            224.8025665283203
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "and the Tribe/Consortium will agree to ",
+              "origin": [
+                132.0,
+                223.4000244140625
+              ],
+              "bbox": [
+                132.0,
+                216.8025665283203,
+                302.6920166015625,
+                224.8025665283203
+              ]
+            }
+          ]
+        },
+        {
+          "y": 222,
+          "text": "that serves any Tribe/Consortium that",
+          "bbox": [
+            312.0,
+            221.80262756347656,
+            482.72802734375,
+            229.80262756347656
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "that serves any Tribe/Consortium that ",
+              "origin": [
+                312.0,
+                228.40008544921875
+              ],
+              "bbox": [
+                312.0,
+                221.80262756347656,
+                482.72802734375,
+                229.80262756347656
+              ]
+            }
+          ]
+        },
+        {
+          "y": 226,
+          "text": "a date to conduct an initial negotiation",
+          "bbox": [
+            132.0,
+            225.8025665283203,
+            302.8480529785156,
+            233.8025665283203
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "a date to conduct an initial negotiation ",
+              "origin": [
+                132.0,
+                232.4000244140625
+              ],
+              "bbox": [
+                132.0,
+                225.8025665283203,
+                302.8480529785156,
+                233.8025665283203
+              ]
+            }
+          ]
+        },
+        {
+          "y": 231,
+          "text": "is a party to the AFA.",
+          "bbox": [
+            312.0,
+            230.70265197753906,
+            408.1481018066406,
+            238.70265197753906
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "is a party to the AFA. ",
+              "origin": [
+                312.0,
+                237.30010986328125
+              ],
+              "bbox": [
+                312.0,
+                230.70265197753906,
+                408.1481018066406,
+                238.70265197753906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 235,
+          "text": "meeting. Subsequent meetings will be",
+          "bbox": [
+            132.0,
+            234.8025665283203,
+            302.7279968261719,
+            242.8025665283203
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "meeting. Subsequent meetings will be ",
+              "origin": [
+                132.0,
+                241.4000244140625
+              ],
+              "bbox": [
+                132.0,
+                234.8025665283203,
+                302.7279968261719,
+                242.8025665283203
+              ]
+            }
+          ]
+        },
+        {
+          "y": 244,
+          "text": "held with reasonable frequency at rea-",
+          "bbox": [
+            132.0,
+            243.8025665283203,
+            300.0279846191406,
+            251.8025665283203
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "held with reasonable frequency at rea-",
+              "origin": [
+                132.0,
+                250.4000244140625
+              ],
+              "bbox": [
+                132.0,
+                243.8025665283203,
+                300.0279846191406,
+                251.8025665283203
+              ]
+            }
+          ]
+        },
+        {
+          "y": 247,
+          "text": "§ 1000.178 When does the AFA become",
+          "bbox": [
+            312.0,
+            246.84107971191406,
+            482.35211181640625,
+            254.84107971191406
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "§ 1000.178",
+              "origin": [
+                312.0,
+                253.10009765625
+              ],
+              "bbox": [
+                312.0,
+                246.84107971191406,
+                351.6880798339844,
+                254.84107971191406
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "When does the AFA become ",
+              "origin": [
+                359.6880798339844,
+                253.10009765625
+              ],
+              "bbox": [
+                359.6880798339844,
+                246.84107971191406,
+                482.35211181640625,
+                254.84107971191406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 253,
+          "text": "sonable times.",
+          "bbox": [
+            132.0,
+            252.8025665283203,
+            195.4919891357422,
+            260.80255126953125
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "sonable times. ",
+              "origin": [
+                132.0,
+                259.4000244140625
+              ],
+              "bbox": [
+                132.0,
+                252.8025665283203,
+                195.4919891357422,
+                260.80255126953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 255,
+          "text": "effective?",
+          "bbox": [
+            328.0,
+            254.74110412597656,
+            370.0,
+            262.7410888671875
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "effective? ",
+              "origin": [
+                328.0,
+                261.0001220703125
+              ],
+              "bbox": [
+                328.0,
+                254.74110412597656,
+                370.0,
+                262.7410888671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 262,
+          "text": "(b) Tribe/Consortium and bureau lead",
+          "bbox": [
+            140.0,
+            262.20257568359375,
+            302.696044921875,
+            270.20257568359375
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(b) Tribe/Consortium and bureau lead ",
+              "origin": [
+                140.0,
+                268.800048828125
+              ],
+              "bbox": [
+                140.0,
+                262.20257568359375,
+                302.696044921875,
+                270.20257568359375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 266,
+          "text": "The effective date is not earlier than",
+          "bbox": [
+            320.0,
+            266.20263671875,
+            482.64013671875,
+            274.20263671875
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "The effective date is not earlier than ",
+              "origin": [
+                320.0,
+                272.80010986328125
+              ],
+              "bbox": [
+                320.0,
+                266.20263671875,
+                482.64013671875,
+                274.20263671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 271,
+          "text": "negotiators must:",
+          "bbox": [
+            132.0,
+            271.20257568359375,
+            210.07598876953125,
+            279.20257568359375
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "negotiators must: ",
+              "origin": [
+                132.0,
+                277.800048828125
+              ],
+              "bbox": [
+                132.0,
+                271.20257568359375,
+                210.07598876953125,
+                279.20257568359375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 275,
+          "text": "90 days after the AFA is submitted to",
+          "bbox": [
+            312.0,
+            275.1026306152344,
+            482.7521057128906,
+            283.1026306152344
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "90 days after the AFA is submitted to ",
+              "origin": [
+                312.0,
+                281.7001037597656
+              ],
+              "bbox": [
+                312.0,
+                275.1026306152344,
+                482.7521057128906,
+                283.1026306152344
+              ]
+            }
+          ]
+        },
+        {
+          "y": 281,
+          "text": "(1) Be authorized to negotiate on be-",
+          "bbox": [
+            140.0,
+            280.6025695800781,
+            300.0960388183594,
+            288.6025695800781
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(1) Be authorized to negotiate on be-",
+              "origin": [
+                140.0,
+                287.2000427246094
+              ],
+              "bbox": [
+                140.0,
+                280.6025695800781,
+                300.0960388183594,
+                288.6025695800781
+              ]
+            }
+          ]
+        },
+        {
+          "y": 284,
+          "text": "the Congressional committees under",
+          "bbox": [
+            312.0,
+            284.00262451171875,
+            482.696044921875,
+            292.00262451171875
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "the Congressional committees under ",
+              "origin": [
+                312.0,
+                290.60009765625
+              ],
+              "bbox": [
+                312.0,
+                284.00262451171875,
+                482.696044921875,
+                292.00262451171875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 290,
+          "text": "half of their government; and",
+          "bbox": [
+            132.0,
+            289.6025695800781,
+            259.2879638671875,
+            297.6025695800781
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "half of their government; and ",
+              "origin": [
+                132.0,
+                296.2000427246094
+              ],
+              "bbox": [
+                132.0,
+                289.6025695800781,
+                259.2879638671875,
+                297.6025695800781
+              ]
+            }
+          ]
+        },
+        {
+          "y": 293,
+          "text": "§ 1000.177(b).",
+          "bbox": [
+            312.0,
+            292.9026184082031,
+            364.15203857421875,
+            300.9026184082031
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "§ 1000.177(b). ",
+              "origin": [
+                312.0,
+                299.5000915527344
+              ],
+              "bbox": [
+                312.0,
+                292.9026184082031,
+                364.15203857421875,
+                300.9026184082031
+              ]
+            }
+          ]
+        },
+        {
+          "y": 299,
+          "text": "(2) Involve all necessary persons in",
+          "bbox": [
+            140.0,
+            299.0025634765625,
+            302.71600341796875,
+            307.0025634765625
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(2) Involve all necessary persons in ",
+              "origin": [
+                140.0,
+                305.60003662109375
+              ],
+              "bbox": [
+                140.0,
+                299.0025634765625,
+                302.71600341796875,
+                307.0025634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 308,
+          "text": "the negotiation process.",
+          "bbox": [
+            132.0,
+            308.0025634765625,
+            236.4959716796875,
+            316.0025634765625
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "the negotiation process. ",
+              "origin": [
+                132.0,
+                314.60003662109375
+              ],
+              "bbox": [
+                132.0,
+                308.0025634765625,
+                236.4959716796875,
+                316.0025634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 309,
+          "text": "§ 1000.179 What happens if the Tribe/",
+          "bbox": [
+            312.0,
+            309.0410461425781,
+            482.34405517578125,
+            317.0410461425781
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "§ 1000.179",
+              "origin": [
+                312.0,
+                315.3000793457031
+              ],
+              "bbox": [
+                312.0,
+                309.0410461425781,
+                351.6880798339844,
+                317.0410461425781
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "What happens if the Tribe/ ",
+              "origin": [
+                359.6880798339844,
+                315.3000793457031
+              ],
+              "bbox": [
+                359.6880798339844,
+                309.0410461425781,
+                482.34405517578125,
+                317.0410461425781
+              ]
+            }
+          ]
+        },
+        {
+          "y": 317,
+          "text": "(c) Once negotiations have been suc- Consortium and bureau negotiators",
+          "bbox": [
+            140.0,
+            316.9410400390625,
+            482.3400573730469,
+            325.4025573730469
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(c) Once negotiations have been suc-",
+              "origin": [
+                140.0,
+                324.0000305175781
+              ],
+              "bbox": [
+                140.0,
+                317.4025573730469,
+                299.9959716796875,
+                325.4025573730469
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "Consortium and bureau negotiators ",
+              "origin": [
+                328.0,
+                323.2000732421875
+              ],
+              "bbox": [
+                328.0,
+                316.9410400390625,
+                482.3400573730469,
+                324.9410400390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 325,
+          "text": "fail to reach an agreement?",
+          "bbox": [
+            328.0,
+            324.8410339355469,
+            445.2159729003906,
+            332.8410339355469
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "fail to reach an agreement? ",
+              "origin": [
+                328.0,
+                331.1000671386719
+              ],
+              "bbox": [
+                328.0,
+                324.8410339355469,
+                445.2159729003906,
+                332.8410339355469
+              ]
+            }
+          ]
+        },
+        {
+          "y": 326,
+          "text": "cessfully completed, the bureau and",
+          "bbox": [
+            132.0,
+            326.4025573730469,
+            302.72003173828125,
+            334.4025573730469
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "cessfully completed, the bureau and ",
+              "origin": [
+                132.0,
+                333.0000305175781
+              ],
+              "bbox": [
+                132.0,
+                326.4025573730469,
+                302.72003173828125,
+                334.4025573730469
+              ]
+            }
+          ]
+        },
+        {
+          "y": 335,
+          "text": "Tribe/Consortium will prepare and ei-",
+          "bbox": [
+            132.0,
+            335.4025573730469,
+            300.06402587890625,
+            343.4025573730469
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "Tribe/Consortium will prepare and ei-",
+              "origin": [
+                132.0,
+                342.0000305175781
+              ],
+              "bbox": [
+                132.0,
+                335.4025573730469,
+                300.06402587890625,
+                343.4025573730469
+              ]
+            }
+          ]
+        },
+        {
+          "y": 336,
+          "text": "(a) If the Tribe/Consortium and bu-",
+          "bbox": [
+            320.0,
+            336.3025817871094,
+            480.02410888671875,
+            344.3025817871094
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(a) If the Tribe/Consortium and bu-",
+              "origin": [
+                320.0,
+                342.9000549316406
+              ],
+              "bbox": [
+                320.0,
+                336.3025817871094,
+                480.02410888671875,
+                344.3025817871094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 344,
+          "text": "ther execute or disapprove an AFA",
+          "bbox": [
+            132.0,
+            344.4025573730469,
+            302.7400207519531,
+            352.4025573730469
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "ther execute or disapprove an AFA ",
+              "origin": [
+                132.0,
+                351.0000305175781
+              ],
+              "bbox": [
+                132.0,
+                344.4025573730469,
+                302.7400207519531,
+                352.4025573730469
+              ]
+            }
+          ]
+        },
+        {
+          "y": 345,
+          "text": "reau representatives do not reach",
+          "bbox": [
+            312.0,
+            345.20257568359375,
+            482.64013671875,
+            353.20257568359375
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "reau ",
+              "origin": [
+                312.0,
+                351.800048828125
+              ],
+              "bbox": [
+                312.0,
+                345.20257568359375,
+                333.42401123046875,
+                353.20257568359375
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "representatives ",
+              "origin": [
+                339.9040222167969,
+                351.800048828125
+              ],
+              "bbox": [
+                339.9040222167969,
+                345.20257568359375,
+                407.8480529785156,
+                353.20257568359375
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "do ",
+              "origin": [
+                414.32806396484375,
+                351.800048828125
+              ],
+              "bbox": [
+                414.32806396484375,
+                345.20257568359375,
+                426.83209228515625,
+                353.20257568359375
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "not ",
+              "origin": [
+                433.3121032714844,
+                351.800048828125
+              ],
+              "bbox": [
+                433.3121032714844,
+                345.20257568359375,
+                450.23211669921875,
+                353.20257568359375
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "reach ",
+              "origin": [
+                456.7121276855469,
+                351.800048828125
+              ],
+              "bbox": [
+                456.7121276855469,
+                345.20257568359375,
+                482.64013671875,
+                353.20257568359375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 353,
+          "text": "within 30 days or by a mutually agreed",
+          "bbox": [
+            132.0,
+            353.4025573730469,
+            302.72802734375,
+            361.4025573730469
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "within 30 days or by a mutually agreed ",
+              "origin": [
+                132.0,
+                360.0000305175781
+              ],
+              "bbox": [
+                132.0,
+                353.4025573730469,
+                302.72802734375,
+                361.4025573730469
+              ]
+            }
+          ]
+        },
+        {
+          "y": 354,
+          "text": "agreement during the negotiation",
+          "bbox": [
+            312.0,
+            354.1025695800781,
+            482.6760559082031,
+            362.1025695800781
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "agreement ",
+              "origin": [
+                312.0,
+                360.7000427246094
+              ],
+              "bbox": [
+                312.0,
+                354.1025695800781,
+                359.4320068359375,
+                362.1025695800781
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "during ",
+              "origin": [
+                367.61199951171875,
+                360.7000427246094
+              ],
+              "bbox": [
+                367.61199951171875,
+                354.1025695800781,
+                397.9560241699219,
+                362.1025695800781
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "the ",
+              "origin": [
+                406.1360168457031,
+                360.7000427246094
+              ],
+              "bbox": [
+                406.1360168457031,
+                354.1025695800781,
+                422.6400146484375,
+                362.1025695800781
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "negotiation ",
+              "origin": [
+                430.82000732421875,
+                360.7000427246094
+              ],
+              "bbox": [
+                430.82000732421875,
+                354.1025695800781,
+                482.6760559082031,
+                362.1025695800781
+              ]
+            }
+          ]
+        },
+        {
+          "y": 362,
+          "text": "upon date.",
+          "bbox": [
+            132.0,
+            362.4025573730469,
+            178.82798767089844,
+            370.4025573730469
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "upon date. ",
+              "origin": [
+                132.0,
+                369.0000305175781
+              ],
+              "bbox": [
+                132.0,
+                362.4025573730469,
+                178.82798767089844,
+                370.4025573730469
+              ]
+            }
+          ]
+        },
+        {
+          "y": 363,
+          "text": "phase by the mutually agreed to date",
+          "bbox": [
+            312.0,
+            363.0025634765625,
+            482.64019775390625,
+            371.0025634765625
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "phase by the mutually agreed to date ",
+              "origin": [
+                312.0,
+                369.60003662109375
+              ],
+              "bbox": [
+                312.0,
+                363.0025634765625,
+                482.64019775390625,
+                371.0025634765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 372,
+          "text": "for completing negotiations, the Tribe/",
+          "bbox": [
+            312.0,
+            371.9025573730469,
+            482.6480407714844,
+            379.9025573730469
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "for completing negotiations, the Tribe/ ",
+              "origin": [
+                312.0,
+                378.5000305175781
+              ],
+              "bbox": [
+                312.0,
+                371.9025573730469,
+                482.6480407714844,
+                379.9025573730469
+              ]
+            }
+          ]
+        },
+        {
+          "y": 379,
+          "text": "§ 1000.176 What issues must the bu-",
+          "bbox": [
+            132.0,
+            379.1409912109375,
+            300.0479736328125,
+            387.1409912109375
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "§ 1000.176",
+              "origin": [
+                132.0,
+                385.4000244140625
+              ],
+              "bbox": [
+                132.0,
+                379.1409912109375,
+                171.68797302246094,
+                387.1409912109375
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "What issues must the bu-",
+              "origin": [
+                179.68797302246094,
+                385.4000244140625
+              ],
+              "bbox": [
+                179.68797302246094,
+                379.1409912109375,
+                300.0479736328125,
+                387.1409912109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 381,
+          "text": "Consortium and the bureau may each",
+          "bbox": [
+            312.0,
+            380.80255126953125,
+            482.7080383300781,
+            388.80255126953125
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "Consortium and the bureau may each ",
+              "origin": [
+                312.0,
+                387.4000244140625
+              ],
+              "bbox": [
+                312.0,
+                380.80255126953125,
+                482.7080383300781,
+                388.80255126953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 387,
+          "text": "reau and the Tribe/Consortium ad-",
+          "bbox": [
+            148.0,
+            387.1409912109375,
+            300.03997802734375,
+            395.1409912109375
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "reau and the Tribe/Consortium ad-",
+              "origin": [
+                148.0,
+                393.4000244140625
+              ],
+              "bbox": [
+                148.0,
+                387.1409912109375,
+                300.03997802734375,
+                395.1409912109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 390,
+          "text": "make a last and best offer to the other",
+          "bbox": [
+            312.0,
+            389.7025451660156,
+            482.6800842285156,
+            397.7025451660156
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "make a last and best offer to the other ",
+              "origin": [
+                312.0,
+                396.3000183105469
+              ],
+              "bbox": [
+                312.0,
+                389.7025451660156,
+                482.6800842285156,
+                397.7025451660156
+              ]
+            }
+          ]
+        },
+        {
+          "y": 395,
+          "text": "dress at negotiation meetings?",
+          "bbox": [
+            148.0,
+            395.1409912109375,
+            278.1040344238281,
+            403.1409912109375
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "dress at negotiation meetings? ",
+              "origin": [
+                148.0,
+                401.4000244140625
+              ],
+              "bbox": [
+                148.0,
+                395.1409912109375,
+                278.1040344238281,
+                403.1409912109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 399,
+          "text": "party.",
+          "bbox": [
+            312.0,
+            398.6025390625,
+            340.5040283203125,
+            406.6025390625
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "party. ",
+              "origin": [
+                312.0,
+                405.20001220703125
+              ],
+              "bbox": [
+                312.0,
+                398.6025390625,
+                340.5040283203125,
+                406.6025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 407,
+          "text": "The negotiation meetings referred to (b) If a last and best offer is not ac-",
+          "bbox": [
+            140.0,
+            407.2025451660156,
+            479.9880676269531,
+            415.40252685546875
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "The negotiation meetings referred to ",
+              "origin": [
+                140.0,
+                413.8000183105469
+              ],
+              "bbox": [
+                140.0,
+                407.2025451660156,
+                302.6719970703125,
+                415.2025451660156
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(b) If a last and best offer is not ac-",
+              "origin": [
+                320.0,
+                414.0
+              ],
+              "bbox": [
+                320.0,
+                407.40252685546875,
+                479.9880676269531,
+                415.40252685546875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 416,
+          "text": "in § 1000.175 must address at a minimum cepted within 15 days, the bureau will",
+          "bbox": [
+            132.0,
+            416.2025451660156,
+            482.69598388671875,
+            424.3025207519531
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "in § 1000.175 must address at a minimum ",
+              "origin": [
+                132.0,
+                422.8000183105469
+              ],
+              "bbox": [
+                132.0,
+                416.2025451660156,
+                302.60797119140625,
+                424.2025451660156
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "cepted within 15 days, the bureau will ",
+              "origin": [
+                312.0,
+                422.8999938964844
+              ],
+              "bbox": [
+                312.0,
+                416.3025207519531,
+                482.69598388671875,
+                424.3025207519531
+              ]
+            }
+          ]
+        },
+        {
+          "y": 425,
+          "text": "the following: provide a written explanation to the",
+          "bbox": [
+            132.0,
+            425.2025146484375,
+            482.70013427734375,
+            433.2025451660156
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "the following: ",
+              "origin": [
+                132.0,
+                431.8000183105469
+              ],
+              "bbox": [
+                132.0,
+                425.2025451660156,
+                193.24398803710938,
+                433.2025451660156
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "provide a written explanation to the ",
+              "origin": [
+                312.0,
+                431.79998779296875
+              ],
+              "bbox": [
+                312.0,
+                425.2025146484375,
+                482.70013427734375,
+                433.2025146484375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 434,
+          "text": "Tribe/Consortium explaining its rea-",
+          "bbox": [
+            312.0,
+            434.1025085449219,
+            480.0281066894531,
+            442.1025085449219
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "Tribe/Consortium explaining its rea-",
+              "origin": [
+                312.0,
+                440.6999816894531
+              ],
+              "bbox": [
+                312.0,
+                434.1025085449219,
+                480.0281066894531,
+                442.1025085449219
+              ]
+            }
+          ]
+        },
+        {
+          "y": 435,
+          "text": "(a) The specific Tribe/Consortium",
+          "bbox": [
+            140.0,
+            434.6025390625,
+            302.71197509765625,
+            442.6025390625
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(a) The specific Tribe/Consortium ",
+              "origin": [
+                140.0,
+                441.20001220703125
+              ],
+              "bbox": [
+                140.0,
+                434.6025390625,
+                302.71197509765625,
+                442.6025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 443,
+          "text": "sons for not entering into an AFA for",
+          "bbox": [
+            312.0,
+            443.00250244140625,
+            482.6841125488281,
+            451.00250244140625
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "sons for not entering into an AFA for ",
+              "origin": [
+                312.0,
+                449.5999755859375
+              ],
+              "bbox": [
+                312.0,
+                443.00250244140625,
+                482.6841125488281,
+                451.00250244140625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 444,
+          "text": "proposal(s) and intentions;",
+          "bbox": [
+            132.0,
+            443.6025390625,
+            247.66397094726562,
+            451.6025390625
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "proposal(s) and intentions; ",
+              "origin": [
+                132.0,
+                450.20001220703125
+              ],
+              "bbox": [
+                132.0,
+                443.6025390625,
+                247.66397094726562,
+                451.6025390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 452,
+          "text": "the requested program, together with",
+          "bbox": [
+            312.0,
+            451.9024963378906,
+            482.66412353515625,
+            459.9024963378906
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "the requested program, together with ",
+              "origin": [
+                312.0,
+                458.4999694824219
+              ],
+              "bbox": [
+                312.0,
+                451.9024963378906,
+                482.66412353515625,
+                459.9024963378906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 453,
+          "text": "(b) Legal or program issues that the",
+          "bbox": [
+            140.0,
+            453.0025329589844,
+            302.64801025390625,
+            461.0025329589844
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(b) Legal or program issues that the ",
+              "origin": [
+                140.0,
+                459.6000061035156
+              ],
+              "bbox": [
+                140.0,
+                453.0025329589844,
+                302.64801025390625,
+                461.0025329589844
+              ]
+            }
+          ]
+        },
+        {
+          "y": 461,
+          "text": "the applicable statement prescribed in",
+          "bbox": [
+            312.0,
+            460.802490234375,
+            482.6800842285156,
+            468.802490234375
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "the applicable statement prescribed in ",
+              "origin": [
+                312.0,
+                467.39996337890625
+              ],
+              "bbox": [
+                312.0,
+                460.802490234375,
+                482.6800842285156,
+                468.802490234375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 462,
+          "text": "bureau or the Tribe/Consortium iden-",
+          "bbox": [
+            132.0,
+            462.0025329589844,
+            300.02398681640625,
+            470.0025329589844
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "bureau or the Tribe/Consortium iden-",
+              "origin": [
+                132.0,
+                468.6000061035156
+              ],
+              "bbox": [
+                132.0,
+                462.0025329589844,
+                300.02398681640625,
+                470.0025329589844
+              ]
+            }
+          ]
+        },
+        {
+          "y": 470,
+          "text": "subpart R of this part, concerning ap-",
+          "bbox": [
+            312.0,
+            469.7024841308594,
+            480.0081481933594,
+            477.7024841308594
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "subpart R of this part, concerning ap-",
+              "origin": [
+                312.0,
+                476.2999572753906
+              ],
+              "bbox": [
+                312.0,
+                469.7024841308594,
+                480.0081481933594,
+                477.7024841308594
+              ]
+            }
+          ]
+        },
+        {
+          "y": 471,
+          "text": "tify as concerns;",
+          "bbox": [
+            132.0,
+            471.0025329589844,
+            204.31198120117188,
+            479.0025329589844
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "tify as concerns; ",
+              "origin": [
+                132.0,
+                477.6000061035156
+              ],
+              "bbox": [
+                132.0,
+                471.0025329589844,
+                204.31198120117188,
+                479.0025329589844
+              ]
+            }
+          ]
+        },
+        {
+          "y": 479,
+          "text": "peal or review rights.",
+          "bbox": [
+            312.0,
+            478.60247802734375,
+            404.8760986328125,
+            486.60247802734375
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "peal or review rights. ",
+              "origin": [
+                312.0,
+                485.199951171875
+              ],
+              "bbox": [
+                312.0,
+                478.60247802734375,
+                404.8760986328125,
+                486.60247802734375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 480,
+          "text": "(c) Options for negotiating programs",
+          "bbox": [
+            140.0,
+            480.40252685546875,
+            302.6720275878906,
+            488.40252685546875
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(c) Options for negotiating programs ",
+              "origin": [
+                140.0,
+                487.0
+              ],
+              "bbox": [
+                140.0,
+                480.40252685546875,
+                302.6720275878906,
+                488.40252685546875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 487,
+          "text": "(c) The Tribe/Consortium has 30 days",
+          "bbox": [
+            320.0,
+            487.4024658203125,
+            482.6999816894531,
+            495.4024658203125
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(c) The Tribe/Consortium has 30 days ",
+              "origin": [
+                320.0,
+                493.99993896484375
+              ],
+              "bbox": [
+                320.0,
+                487.4024658203125,
+                482.6999816894531,
+                495.4024658203125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 489,
+          "text": "and related budget amounts, including",
+          "bbox": [
+            132.0,
+            489.40252685546875,
+            302.7039794921875,
+            497.40252685546875
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "and related budget amounts, including ",
+              "origin": [
+                132.0,
+                496.0
+              ],
+              "bbox": [
+                132.0,
+                489.40252685546875,
+                302.7039794921875,
+                497.40252685546875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 496,
+          "text": "from receipt of the bureau’s written ex-",
+          "bbox": [
+            312.0,
+            496.3024597167969,
+            479.9840393066406,
+            504.3024597167969
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "from receipt of the bureau’s written ex-",
+              "origin": [
+                312.0,
+                502.8999328613281
+              ],
+              "bbox": [
+                312.0,
+                496.3024597167969,
+                479.9840393066406,
+                504.3024597167969
+              ]
+            }
+          ]
+        },
+        {
+          "y": 498,
+          "text": "mutually agreeable options for devel-",
+          "bbox": [
+            132.0,
+            498.40252685546875,
+            300.0160217285156,
+            506.40252685546875
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "mutually agreeable options for devel-",
+              "origin": [
+                132.0,
+                505.0
+              ],
+              "bbox": [
+                132.0,
+                498.40252685546875,
+                300.0160217285156,
+                506.40252685546875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 505,
+          "text": "planation to file an appeal. Appeals are",
+          "bbox": [
+            312.0,
+            505.20245361328125,
+            482.7361755371094,
+            513.2024536132812
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "planation to file an appeal. Appeals are ",
+              "origin": [
+                312.0,
+                511.7999267578125
+              ],
+              "bbox": [
+                312.0,
+                505.20245361328125,
+                482.7361755371094,
+                513.2024536132812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 507,
+          "text": "oping alternative formats for pre-",
+          "bbox": [
+            132.0,
+            507.40252685546875,
+            300.00799560546875,
+            515.4025268554688
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "oping alternative formats for pre-",
+              "origin": [
+                132.0,
+                514.0
+              ],
+              "bbox": [
+                132.0,
+                507.40252685546875,
+                300.00799560546875,
+                515.4025268554688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 514,
+          "text": "handled in accordance with subpart R",
+          "bbox": [
+            312.0,
+            514.1024780273438,
+            482.74420166015625,
+            522.1024780273438
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "handled in accordance with subpart R ",
+              "origin": [
+                312.0,
+                520.699951171875
+              ],
+              "bbox": [
+                312.0,
+                514.1024780273438,
+                482.74420166015625,
+                522.1024780273438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 516,
+          "text": "senting budget information to the",
+          "bbox": [
+            132.0,
+            516.4025268554688,
+            302.6400146484375,
+            524.4025268554688
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "senting budget information to the ",
+              "origin": [
+                132.0,
+                523.0
+              ],
+              "bbox": [
+                132.0,
+                516.4025268554688,
+                302.6400146484375,
+                524.4025268554688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 523,
+          "text": "of this part.",
+          "bbox": [
+            312.0,
+            523.00244140625,
+            365.0480651855469,
+            531.00244140625
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "of this part. ",
+              "origin": [
+                312.0,
+                529.5999145507812
+              ],
+              "bbox": [
+                312.0,
+                523.00244140625,
+                365.0480651855469,
+                531.00244140625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 525,
+          "text": "Tribe/Consortium;",
+          "bbox": [
+            132.0,
+            525.4025268554688,
+            211.98399353027344,
+            533.4025268554688
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "Tribe/Consortium; ",
+              "origin": [
+                132.0,
+                532.0
+              ],
+              "bbox": [
+                132.0,
+                525.4025268554688,
+                211.98399353027344,
+                533.4025268554688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 535,
+          "text": "(d) Dates for conducting and con-",
+          "bbox": [
+            140.0,
+            534.8025512695312,
+            300.0,
+            542.8025512695312
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(d) Dates for conducting and con-",
+              "origin": [
+                140.0,
+                541.4000244140625
+              ],
+              "bbox": [
+                140.0,
+                534.8025512695312,
+                300.0,
+                542.8025512695312
+              ]
+            }
+          ]
+        },
+        {
+          "y": 539,
+          "text": "N P S",
+          "bbox": [
+            317.3399963378906,
+            538.8024291992188,
+            477.3334045410156,
+            546.8024291992188
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "N",
+              "origin": [
+                317.3399963378906,
+                545.39990234375
+              ],
+              "bbox": [
+                317.3399963378906,
+                538.8024291992188,
+                324.0039978027344,
+                546.8024291992188
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": " P",
+              "origin": [
+                370.71820068359375,
+                545.39990234375
+              ],
+              "bbox": [
+                370.71820068359375,
+                538.8024291992188,
+                379.6084899902344,
+                546.8024291992188
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": " S",
+              "origin": [
+                426.88330078125,
+                545.39990234375
+              ],
+              "bbox": [
+                426.88330078125,
+                538.8024291992188,
+                435.3570861816406,
+                546.8024291992188
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": " ",
+              "origin": [
+                474.6694030761719,
+                545.39990234375
+              ],
+              "bbox": [
+                474.6694030761719,
+                538.8024291992188,
+                477.3334045410156,
+                546.8024291992188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 540,
+          "text": "EGOTIATION ROCESS FOR UCCESSOR",
+          "bbox": [
+            324.00390625,
+            540.0604248046875,
+            474.66778564453125,
+            546.5350341796875
+          ],
+          "spans": [
+            {
+              "size": 6.4745659828186035,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "EGOTIATION",
+              "origin": [
+                324.00390625,
+                545.39990234375
+              ],
+              "bbox": [
+                324.00390625,
+                540.0604248046875,
+                370.71820068359375,
+                546.5350341796875
+              ]
+            },
+            {
+              "size": 6.4745659828186035,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "ROCESS FOR",
+              "origin": [
+                379.6083984375,
+                545.39990234375
+              ],
+              "bbox": [
+                379.6083984375,
+                540.0604248046875,
+                426.88330078125,
+                546.5350341796875
+              ]
+            },
+            {
+              "size": 6.4745659828186035,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "UCCESSOR",
+              "origin": [
+                435.3570861816406,
+                545.39990234375
+              ],
+              "bbox": [
+                435.3570861816406,
+                540.0604248046875,
+                474.66778564453125,
+                546.5350341796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 544,
+          "text": "cluding negotiations;",
+          "bbox": [
+            132.0,
+            543.8025512695312,
+            224.51597595214844,
+            551.8025512695312
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "cluding negotiations; ",
+              "origin": [
+                132.0,
+                550.4000244140625
+              ],
+              "bbox": [
+                132.0,
+                543.8025512695312,
+                224.51597595214844,
+                551.8025512695312
+              ]
+            }
+          ]
+        },
+        {
+          "y": 548,
+          "text": "A F A",
+          "bbox": [
+            332.11981201171875,
+            547.7023315429688,
+            462.5889892578125,
+            555.7024536132812
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "A",
+              "origin": [
+                332.11981201171875,
+                554.2999267578125
+              ],
+              "bbox": [
+                332.11981201171875,
+                547.7024536132812,
+                338.7838134765625,
+                555.7024536132812
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": " F",
+              "origin": [
+                365.1045837402344,
+                554.2998046875
+              ],
+              "bbox": [
+                365.1045837402344,
+                547.7023315429688,
+                373.9931945800781,
+                555.7023315429688
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": " A",
+              "origin": [
+                403.51312255859375,
+                554.2998046875
+              ],
+              "bbox": [
+                403.51312255859375,
+                547.7023315429688,
+                412.818115234375,
+                555.7023315429688
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": " ",
+              "origin": [
+                459.92498779296875,
+                554.2998046875
+              ],
+              "bbox": [
+                459.92498779296875,
+                547.7023315429688,
+                462.5889892578125,
+                555.7023315429688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 549,
+          "text": "NNUAL UNDING GREEMENTS",
+          "bbox": [
+            338.7839050292969,
+            548.9603271484375,
+            459.9234313964844,
+            555.4349365234375
+          ],
+          "spans": [
+            {
+              "size": 6.4745659828186035,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "NNUAL",
+              "origin": [
+                338.7839050292969,
+                554.2998046875
+              ],
+              "bbox": [
+                338.7839050292969,
+                548.9603271484375,
+                365.1045837402344,
+                555.4349365234375
+              ]
+            },
+            {
+              "size": 6.4745659828186035,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "UNDING",
+              "origin": [
+                373.99310302734375,
+                554.2998046875
+              ],
+              "bbox": [
+                373.99310302734375,
+                548.9603271484375,
+                403.51312255859375,
+                555.4349365234375
+              ]
+            },
+            {
+              "size": 6.4745659828186035,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "GREEMENTS",
+              "origin": [
+                412.818115234375,
+                554.2998046875
+              ],
+              "bbox": [
+                412.818115234375,
+                548.9603271484375,
+                459.9234313964844,
+                555.4349365234375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 553,
+          "text": "(e) Protocols for conducting negotia-",
+          "bbox": [
+            140.0,
+            553.2025146484375,
+            299.9840393066406,
+            561.2025146484375
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(e) Protocols for conducting negotia-",
+              "origin": [
+                140.0,
+                559.7999877929688
+              ],
+              "bbox": [
+                140.0,
+                553.2025146484375,
+                299.9840393066406,
+                561.2025146484375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 562,
+          "text": "tions;",
+          "bbox": [
+            132.0,
+            562.2025146484375,
+            158.7519989013672,
+            570.2025146484375
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "tions; ",
+              "origin": [
+                132.0,
+                568.7999877929688
+              ],
+              "bbox": [
+                132.0,
+                562.2025146484375,
+                158.7519989013672,
+                570.2025146484375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 564,
+          "text": "§ 1000.180 What is a successor AFA?",
+          "bbox": [
+            312.00018310546875,
+            563.8407592773438,
+            468.0081481933594,
+            571.8407592773438
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "§ 1000.180",
+              "origin": [
+                312.00018310546875,
+                570.0997924804688
+              ],
+              "bbox": [
+                312.00018310546875,
+                563.8407592773438,
+                351.6882629394531,
+                571.8407592773438
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "What is a successor AFA? ",
+              "origin": [
+                359.6882629394531,
+                570.0997924804688
+              ],
+              "bbox": [
+                359.6882629394531,
+                563.8407592773438,
+                468.0081481933594,
+                571.8407592773438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 572,
+          "text": "(f) Responsibility for preparation of a",
+          "bbox": [
+            140.0,
+            571.6024780273438,
+            302.6560363769531,
+            579.6024780273438
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(f) Responsibility for preparation of a ",
+              "origin": [
+                140.0,
+                578.199951171875
+              ],
+              "bbox": [
+                140.0,
+                571.6024780273438,
+                302.6560363769531,
+                579.6024780273438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 575,
+          "text": "A successor AFA is a funding agree-",
+          "bbox": [
+            320.00018310546875,
+            575.3023071289062,
+            480.0801696777344,
+            583.3023071289062
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "A successor AFA is a funding agree-",
+              "origin": [
+                320.00018310546875,
+                581.8997802734375
+              ],
+              "bbox": [
+                320.00018310546875,
+                575.3023071289062,
+                480.0801696777344,
+                583.3023071289062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 581,
+          "text": "written summary of the discussions;",
+          "bbox": [
+            132.0,
+            580.6024780273438,
+            302.6880187988281,
+            588.6024780273438
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "written summary of the discussions; ",
+              "origin": [
+                132.0,
+                587.199951171875
+              ],
+              "bbox": [
+                132.0,
+                580.6024780273438,
+                302.6880187988281,
+                588.6024780273438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 584,
+          "text": "ment negotiated after a Tribe’s/Consor-",
+          "bbox": [
+            312.00018310546875,
+            584.2023315429688,
+            480.06427001953125,
+            592.2023315429688
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "ment negotiated after a Tribe’s/Consor-",
+              "origin": [
+                312.00018310546875,
+                590.7998046875
+              ],
+              "bbox": [
+                312.00018310546875,
+                584.2023315429688,
+                480.06427001953125,
+                592.2023315429688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 590,
+          "text": "and",
+          "bbox": [
+            132.0,
+            589.6024780273438,
+            149.83999633789062,
+            597.6024780273438
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "and ",
+              "origin": [
+                132.0,
+                596.199951171875
+              ],
+              "bbox": [
+                132.0,
+                589.6024780273438,
+                149.83999633789062,
+                597.6024780273438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 593,
+          "text": "tium’s initial agreement with a bureau",
+          "bbox": [
+            312.00018310546875,
+            593.1023559570312,
+            482.7322692871094,
+            601.1023559570312
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "tium’s initial agreement with a bureau ",
+              "origin": [
+                312.00018310546875,
+                599.6998291015625
+              ],
+              "bbox": [
+                312.00018310546875,
+                593.1023559570312,
+                482.7322692871094,
+                601.1023559570312
+              ]
+            }
+          ]
+        },
+        {
+          "y": 599,
+          "text": "(g) Who will prepare an initial draft",
+          "bbox": [
+            140.0,
+            599.0025024414062,
+            302.76800537109375,
+            607.0025024414062
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(g) Who will prepare an initial draft ",
+              "origin": [
+                140.0,
+                605.5999755859375
+              ],
+              "bbox": [
+                140.0,
+                599.0025024414062,
+                302.76800537109375,
+                607.0025024414062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 602,
+          "text": "for continuing to perform a particular",
+          "bbox": [
+            312.00018310546875,
+            602.0023193359375,
+            482.66424560546875,
+            610.0023193359375
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "for continuing to perform a particular ",
+              "origin": [
+                312.00018310546875,
+                608.5997924804688
+              ],
+              "bbox": [
+                312.00018310546875,
+                602.0023193359375,
+                482.66424560546875,
+                610.0023193359375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 608,
+          "text": "of the AFA.",
+          "bbox": [
+            132.0,
+            608.0025024414062,
+            184.1199951171875,
+            616.0025024414062
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "of the AFA. ",
+              "origin": [
+                132.0,
+                614.5999755859375
+              ],
+              "bbox": [
+                132.0,
+                608.0025024414062,
+                184.1199951171875,
+                616.0025024414062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 611,
+          "text": "program. The parties to the AFA",
+          "bbox": [
+            312.00018310546875,
+            610.9022827148438,
+            482.6442565917969,
+            618.9022827148438
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "program. The parties to the AFA ",
+              "origin": [
+                312.00018310546875,
+                617.499755859375
+              ],
+              "bbox": [
+                312.00018310546875,
+                610.9022827148438,
+                482.6442565917969,
+                618.9022827148438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 620,
+          "text": "should generally use the terms of the",
+          "bbox": [
+            312.00018310546875,
+            619.8023071289062,
+            482.69622802734375,
+            627.8023071289062
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "should generally use the terms of the ",
+              "origin": [
+                312.00018310546875,
+                626.3997802734375
+              ],
+              "bbox": [
+                312.00018310546875,
+                619.8023071289062,
+                482.69622802734375,
+                627.8023071289062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 625,
+          "text": "§ 1000.177 What happens when the",
+          "bbox": [
+            132.0,
+            624.740966796875,
+            302.3320007324219,
+            632.740966796875
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "§ 1000.177",
+              "origin": [
+                132.0,
+                631.0
+              ],
+              "bbox": [
+                132.0,
+                624.740966796875,
+                171.68797302246094,
+                632.740966796875
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "What ",
+              "origin": [
+                179.68797302246094,
+                631.0
+              ],
+              "bbox": [
+                179.68797302246094,
+                624.740966796875,
+                203.6079864501953,
+                632.740966796875
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "happens ",
+              "origin": [
+                210.46798706054688,
+                631.0
+              ],
+              "bbox": [
+                210.46798706054688,
+                624.740966796875,
+                247.8759765625,
+                632.740966796875
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "when ",
+              "origin": [
+                254.73597717285156,
+                631.0
+              ],
+              "bbox": [
+                254.73597717285156,
+                624.740966796875,
+                279.6960144042969,
+                632.740966796875
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "the ",
+              "origin": [
+                286.5559997558594,
+                631.0
+              ],
+              "bbox": [
+                286.5559997558594,
+                624.740966796875,
+                302.3320007324219,
+                632.740966796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 629,
+          "text": "existing AFA to expedite and simplify",
+          "bbox": [
+            312.00018310546875,
+            628.8023071289062,
+            482.7203063964844,
+            636.8023071289062
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "existing AFA to expedite and simplify ",
+              "origin": [
+                312.00018310546875,
+                635.3997802734375
+              ],
+              "bbox": [
+                312.00018310546875,
+                628.8023071289062,
+                482.7203063964844,
+                636.8023071289062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 633,
+          "text": "AFA is signed?",
+          "bbox": [
+            148.0,
+            632.740966796875,
+            211.74403381347656,
+            640.740966796875
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "AFA is signed? ",
+              "origin": [
+                148.0,
+                639.0
+              ],
+              "bbox": [
+                148.0,
+                632.740966796875,
+                211.74403381347656,
+                640.740966796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 638,
+          "text": "the exchange of information and the",
+          "bbox": [
+            312.00018310546875,
+            637.8023071289062,
+            482.6883239746094,
+            645.8023071289062
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "the exchange of information and the ",
+              "origin": [
+                312.00018310546875,
+                644.3997802734375
+              ],
+              "bbox": [
+                312.00018310546875,
+                637.8023071289062,
+                482.6883239746094,
+                645.8023071289062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 645,
+          "text": "(a) After all parties have signed the",
+          "bbox": [
+            140.0,
+            644.802490234375,
+            302.7359924316406,
+            652.802490234375
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(a) After all parties have signed the ",
+              "origin": [
+                140.0,
+                651.3999633789062
+              ],
+              "bbox": [
+                140.0,
+                644.802490234375,
+                302.7359924316406,
+                652.802490234375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 647,
+          "text": "negotiation process.",
+          "bbox": [
+            312.00018310546875,
+            646.8023071289062,
+            400.01226806640625,
+            654.8023071289062
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "negotiation process. ",
+              "origin": [
+                312.00018310546875,
+                653.3997802734375
+              ],
+              "bbox": [
+                312.00018310546875,
+                646.8023071289062,
+                400.01226806640625,
+                654.8023071289062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 654,
+          "text": "AFA, a copy is sent to the Tribe/Con-",
+          "bbox": [
+            132.0,
+            653.802490234375,
+            299.93597412109375,
+            661.802490234375
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "AFA, a copy is sent to the Tribe/Con-",
+              "origin": [
+                132.0,
+                660.3999633789062
+              ],
+              "bbox": [
+                132.0,
+                653.802490234375,
+                299.93597412109375,
+                661.802490234375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 663,
+          "text": "sortium. § 1000.181 How does the Tribe/Consor-",
+          "bbox": [
+            132.0,
+            662.802490234375,
+            480.0562438964844,
+            670.9407348632812
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "sortium. ",
+              "origin": [
+                132.0,
+                669.3999633789062
+              ],
+              "bbox": [
+                132.0,
+                662.802490234375,
+                170.83200073242188,
+                670.802490234375
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "§ 1000.181",
+              "origin": [
+                312.00018310546875,
+                669.1997680664062
+              ],
+              "bbox": [
+                312.00018310546875,
+                662.9407348632812,
+                351.6882629394531,
+                670.9407348632812
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "How does the Tribe/Consor-",
+              "origin": [
+                359.6882629394531,
+                669.1997680664062
+              ],
+              "bbox": [
+                359.6882629394531,
+                662.9407348632812,
+                480.0562438964844,
+                670.9407348632812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 671,
+          "text": "tium initiate the negotiation of a",
+          "bbox": [
+            328.00018310546875,
+            670.9407348632812,
+            482.3920593261719,
+            678.9407348632812
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "tium initiate the negotiation of a ",
+              "origin": [
+                328.00018310546875,
+                677.1997680664062
+              ],
+              "bbox": [
+                328.00018310546875,
+                670.9407348632812,
+                482.3920593261719,
+                678.9407348632812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 672,
+          "text": "(b) The Secretary forwards copies of",
+          "bbox": [
+            140.0,
+            672.1024780273438,
+            302.7240295410156,
+            680.1024780273438
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(b) The Secretary forwards copies of ",
+              "origin": [
+                140.0,
+                678.699951171875
+              ],
+              "bbox": [
+                140.0,
+                672.1024780273438,
+                302.7240295410156,
+                680.1024780273438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 679,
+          "text": "successor AFA?",
+          "bbox": [
+            328.00018310546875,
+            678.9407348632812,
+            394.8801574707031,
+            686.9407348632812
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "NewCenturySchlbk-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7369999885559082,
+              "descender": -0.20499999821186066,
+              "text": "successor AFA? ",
+              "origin": [
+                328.00018310546875,
+                685.1997680664062
+              ],
+              "bbox": [
+                328.00018310546875,
+                678.9407348632812,
+                394.8801574707031,
+                686.9407348632812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 681,
+          "text": "the AFA to:",
+          "bbox": [
+            132.0,
+            681.1024780273438,
+            184.95199584960938,
+            689.1024780273438
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "the AFA to: ",
+              "origin": [
+                132.0,
+                687.699951171875
+              ],
+              "bbox": [
+                132.0,
+                681.1024780273438,
+                184.95199584960938,
+                689.1024780273438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 690,
+          "text": "(1) The House Subcommittee on Na- Although a written request is desir-",
+          "bbox": [
+            140.0,
+            690.4022827148438,
+            479.98431396484375,
+            698.4025268554688
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "(1) The House Subcommittee on Na-",
+              "origin": [
+                140.0,
+                697.0
+              ],
+              "bbox": [
+                140.0,
+                690.4025268554688,
+                300.0240478515625,
+                698.4025268554688
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "Although a written request is desir-",
+              "origin": [
+                320.00018310546875,
+                696.999755859375
+              ],
+              "bbox": [
+                320.00018310546875,
+                690.4022827148438,
+                479.98431396484375,
+                698.4022827148438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 699,
+          "text": "tive Americans and Insular Affairs; and able to document the precise request",
+          "bbox": [
+            132.0,
+            699.4022827148438,
+            482.6202697753906,
+            707.4025268554688
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "tive Americans and Insular Affairs; and ",
+              "origin": [
+                132.0,
+                706.0
+              ],
+              "bbox": [
+                132.0,
+                699.4025268554688,
+                302.7000427246094,
+                707.4025268554688
+              ]
+            },
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "able to document the precise request ",
+              "origin": [
+                312.00018310546875,
+                705.999755859375
+              ],
+              "bbox": [
+                312.00018310546875,
+                699.4022827148438,
+                482.6202697753906,
+                707.4022827148438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 718,
+          "text": "1182",
+          "bbox": [
+            296.0,
+            717.753173828125,
+            319.3299865722656,
+            727.753173828125
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "MIonic",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7149999737739563,
+              "descender": -0.15199999511241913,
+              "text": "1182 ",
+              "origin": [
+                296.0,
+                726.0
+              ],
+              "bbox": [
+                296.0,
+                717.753173828125,
+                319.3299865722656,
+                727.753173828125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 765,
+          "text": "VerDate Aug<31>2005 14:28 May 24, 2007 Jkt 211082 PO 00000 Frm 01192 Fmt 8010 Sfmt 8010 Y:\\SGML\\211082.XXX 211082",
+          "bbox": [
+            25.0,
+            765.0125122070312,
+            442.6858825683594,
+            773.9434814453125
+          ],
+          "spans": [
+            {
+              "size": 6.5,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "VerDate Aug<31>2005 ",
+              "origin": [
+                25.0,
+                772.0
+              ],
+              "bbox": [
+                25.0,
+                765.0125122070312,
+                93.29548645019531,
+                773.9434814453125
+              ]
+            },
+            {
+              "size": 6.5,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "14:28 May 24, 2007",
+              "origin": [
+                100.29533386230469,
+                772.0
+              ],
+              "bbox": [
+                100.29533386230469,
+                765.0125122070312,
+                157.74884033203125,
+                773.9434814453125
+              ]
+            },
+            {
+              "size": 6.5,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Jkt 211082",
+              "origin": [
+                164.74868774414062,
+                772.0
+              ],
+              "bbox": [
+                164.74868774414062,
+                765.0125122070312,
+                196.54669189453125,
+                773.9434814453125
+              ]
+            },
+            {
+              "size": 6.5,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "PO 00000",
+              "origin": [
+                203.54653930664062,
+                772.0
+              ],
+              "bbox": [
+                203.54653930664062,
+                765.0125122070312,
+                232.8160400390625,
+                773.9434814453125
+              ]
+            },
+            {
+              "size": 6.5,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Frm 01192",
+              "origin": [
+                239.81588745117188,
+                772.0
+              ],
+              "bbox": [
+                239.81588745117188,
+                765.0125122070312,
+                271.24346923828125,
+                773.9434814453125
+              ]
+            },
+            {
+              "size": 6.5,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Fmt 8010",
+              "origin": [
+                278.2433166503906,
+                772.0
+              ],
+              "bbox": [
+                278.2433166503906,
+                765.0125122070312,
+                305.6993713378906,
+                773.9434814453125
+              ]
+            },
+            {
+              "size": 6.5,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Sfmt 8010",
+              "origin": [
+                312.69921875,
+                772.0
+              ],
+              "bbox": [
+                312.69921875,
+                765.0125122070312,
+                342.3262939453125,
+                773.9434814453125
+              ]
+            },
+            {
+              "size": 6.5,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Y:\\SGML\\211082.XXX",
+              "origin": [
+                349.3261413574219,
+                772.0
+              ],
+              "bbox": [
+                349.3261413574219,
+                765.0125122070312,
+                414.0013122558594,
+                773.9434814453125
+              ]
+            },
+            {
+              "size": 6.5,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "211082",
+              "origin": [
+                421.0018005371094,
+                772.0
+              ],
+              "bbox": [
+                421.0018005371094,
+                765.0125122070312,
+                442.6858825683594,
+                773.9434814453125
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

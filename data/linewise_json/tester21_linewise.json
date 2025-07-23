@@ -7,7 +7,7 @@
       "page_height": 791.760009765625,
       "lines": [
         {
-          "y": 93.1,
+          "y": 93,
           "text": "CompanyLLC",
           "bbox": [
             194.47999572753906,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 161.5,
+          "y": 162,
           "text": "December 18, 2014",
           "bbox": [
             71.25,
@@ -119,7 +119,7 @@
           ]
         },
         {
-          "y": 182.3,
+          "y": 182,
           "text": "RECEl\"'IED",
           "bbox": [
             377.17999267578125,
@@ -153,47 +153,13 @@
           ]
         },
         {
-          "y": 188.6,
-          "text": "R.",
-          "bbox": [
-            92.11000061035156,
-            188.57691955566406,
-            104.39464569091797,
-            205.51870727539062
-          ],
-          "spans": [
-            {
-              "size": 11.925588607788086,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 0,
-              "font": "Times-Roman",
-              "color": 0,
-              "alpha": 0,
-              "ascender": 1.0529999732971191,
-              "descender": -0.2809999883174896,
-              "text": "R. ",
-              "origin": [
-                92.11000061035156,
-                201.95001220703125
-              ],
-              "bbox": [
-                92.11000061035156,
-                188.57691955566406,
-                104.39464569091797,
-                205.51870727539062
-              ]
-            }
-          ]
-        },
-        {
-          "y": 189.4,
-          "text": "Mr. M. Seeley",
+          "y": 189,
+          "text": "Mr. R. M. Seeley",
           "bbox": [
             71.51000213623047,
-            189.3725128173828,
+            188.57691955566406,
             163.1785125732422,
-            205.4483184814453
+            205.51870727539062
           ],
           "spans": [
             {
@@ -216,6 +182,28 @@
                 189.3725128173828,
                 89.92051696777344,
                 205.4483184814453
+              ]
+            },
+            {
+              "size": 11.925588607788086,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 0,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 0,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": "R. ",
+              "origin": [
+                92.11000061035156,
+                201.95001220703125
+              ],
+              "bbox": [
+                92.11000061035156,
+                188.57691955566406,
+                104.39464569091797,
+                205.51870727539062
               ]
             },
             {
@@ -265,7 +253,7 @@
           ]
         },
         {
-          "y": 203.0,
+          "y": 203,
           "text": "Director, Southwest Region",
           "bbox": [
             71.49030303955078,
@@ -299,7 +287,7 @@
           ]
         },
         {
-          "y": 205.2,
+          "y": 205,
           "text": "DEC 9 2014",
           "bbox": [
             397.4599914550781,
@@ -377,7 +365,7 @@
           ]
         },
         {
-          "y": 206.4,
+          "y": 206,
           "text": "1",
           "bbox": [
             422.1600036621094,
@@ -411,7 +399,7 @@
           ]
         },
         {
-          "y": 216.7,
+          "y": 217,
           "text": "Pipeline and Hazardous Material Safety Administration",
           "bbox": [
             71.73600006103516,
@@ -445,7 +433,7 @@
           ]
         },
         {
-          "y": 230.4,
+          "y": 230,
           "text": "8701 South Gessner, Suite 1110",
           "bbox": [
             71.62999725341797,
@@ -501,7 +489,7 @@
           ]
         },
         {
-          "y": 231.0,
+          "y": 231,
           "text": "BY:",
           "bbox": [
             375.5400085449219,
@@ -535,7 +523,7 @@
           ]
         },
         {
-          "y": 244.1,
+          "y": 244,
           "text": "Houston, TX 77074",
           "bbox": [
             71.96788024902344,
@@ -569,7 +557,7 @@
           ]
         },
         {
-          "y": 285.4,
+          "y": 285,
           "text": "Re: Panther Control Room Management Inspection CPF 4-2014-5033M. Notice of",
           "bbox": [
             71.9800033569336,
@@ -625,7 +613,7 @@
           ]
         },
         {
-          "y": 299.1,
+          "y": 299,
           "text": "Amendment.",
           "bbox": [
             71.50982666015625,
@@ -659,7 +647,7 @@
           ]
         },
         {
-          "y": 326.7,
+          "y": 327,
           "text": "Dear Mr. Seeley:",
           "bbox": [
             72.18842315673828,
@@ -737,7 +725,7 @@
           ]
         },
         {
-          "y": 353.8,
+          "y": 354,
           "text": "Panther has reviewed the Notice of Amendment, dated December 10, 2014,",
           "bbox": [
             72.6884994506836,
@@ -771,7 +759,7 @@
           ]
         },
         {
-          "y": 367.7,
+          "y": 368,
           "text": "associated with the subject inspection and does not contest the alleged inadequacies.",
           "bbox": [
             72.34921264648438,
@@ -805,7 +793,7 @@
           ]
         },
         {
-          "y": 395.3,
+          "y": 395,
           "text": "Upon receipt of the Notice of Amendment, Panther began reviewing, evaluating and",
           "bbox": [
             72.68850708007812,
@@ -839,7 +827,7 @@
           ]
         },
         {
-          "y": 409.2,
+          "y": 409,
           "text": "modifying the procedures noted by the inspector and will be continue modifying those",
           "bbox": [
             72.5013427734375,
@@ -873,7 +861,7 @@
           ]
         },
         {
-          "y": 423.1,
+          "y": 423,
           "text": "procedures in question during the coming weeks. Panther anticipates completion of",
           "bbox": [
             72.73532104492188,
@@ -951,7 +939,7 @@
           ]
         },
         {
-          "y": 436.8,
+          "y": 437,
           "text": "the modifications by March 1, 2015 and will submit the revised procedures to your",
           "bbox": [
             72.41552734375,
@@ -1029,7 +1017,7 @@
           ]
         },
         {
-          "y": 450.7,
+          "y": 451,
           "text": "office upon completion.",
           "bbox": [
             72.86691284179688,
@@ -1063,7 +1051,7 @@
           ]
         },
         {
-          "y": 478.1,
+          "y": 478,
           "text": "I trust this plan and timeline is agreeable and if there are any questions do not hesitate",
           "bbox": [
             73.61570739746094,
@@ -1141,7 +1129,7 @@
           ]
         },
         {
-          "y": 491.8,
+          "y": 492,
           "text": "to contact me at the number below. Please note that Panther Pipeline, Ltd. had a",
           "bbox": [
             72.91250610351562,
@@ -1175,7 +1163,7 @@
           ]
         },
         {
-          "y": 505.5,
+          "y": 505,
           "text": "name conversion and is now Panther Operating Company, LLC. There were no entity",
           "bbox": [
             73.4625244140625,
@@ -1253,7 +1241,7 @@
           ]
         },
         {
-          "y": 519.1,
+          "y": 519,
           "text": "changes made, other than the name change.",
           "bbox": [
             73.3048095703125,
@@ -1287,7 +1275,7 @@
           ]
         },
         {
-          "y": 560.2,
+          "y": 560,
           "text": "Sincerely,",
           "bbox": [
             73.53880310058594,
@@ -1321,7 +1309,7 @@
           ]
         },
         {
-          "y": 577.5,
+          "y": 578,
           "text": "~ · :L1n ~",
           "bbox": [
             69.83999633789062,
@@ -1421,7 +1409,7 @@
           ]
         },
         {
-          "y": 615.1,
+          "y": 615,
           "text": "Vice President and Secretary",
           "bbox": [
             73.43000030517578,
@@ -1455,7 +1443,7 @@
           ]
         },
         {
-          "y": 703.1,
+          "y": 703,
           "text": "16 000 Stue bn er Airline • S ui te 42 00",
           "bbox": [
             240.22999572753906,
@@ -1643,7 +1631,7 @@
           ]
         },
         {
-          "y": 712.2,
+          "y": 712,
           "text": "H ou ston, Texas 77379",
           "bbox": [
             264.5423889160156,
@@ -1721,7 +1709,7 @@
           ]
         },
         {
-          "y": 721.3,
+          "y": 721,
           "text": "Voice - (832) 552-36 00 extension 1 04• Fax- (832) 552-4030",
           "bbox": [
             195.8229522705078,

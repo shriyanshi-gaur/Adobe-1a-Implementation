@@ -1,0 +1,5125 @@
+{
+  "filename": "tester43.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 48,
+          "text": "China",
+          "bbox": [
+            324.07000732421875,
+            48.14619827270508,
+            422.6513671875,
+            92.70159912109375
+          ],
+          "spans": [
+            {
+              "size": 39.959999084472656,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "China",
+              "origin": [
+                324.07000732421875,
+                84.30999755859375
+              ],
+              "bbox": [
+                324.07000732421875,
+                48.14619827270508,
+                422.6513671875,
+                92.70159912109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 96,
+          "text": "Linking U.S. Businesses to",
+          "bbox": [
+            326.8800048828125,
+            95.64622497558594,
+            516.8200073242188,
+            113.4416275024414
+          ],
+          "spans": [
+            {
+              "size": 15.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Linking U.S. Businesses to",
+              "origin": [
+                326.8800048828125,
+                110.09002685546875
+              ],
+              "bbox": [
+                326.8800048828125,
+                95.64622497558594,
+                516.8200073242188,
+                113.4416275024414
+              ]
+            }
+          ]
+        },
+        {
+          "y": 115,
+          "text": "Global Infrastructure Opportunities",
+          "bbox": [
+            326.8800048828125,
+            114.84617614746094,
+            575.8877563476562,
+            132.64157104492188
+          ],
+          "spans": [
+            {
+              "size": 15.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Global Infrastructure Opportunities ",
+              "origin": [
+                326.8800048828125,
+                129.28997802734375
+              ],
+              "bbox": [
+                326.8800048828125,
+                114.84617614746094,
+                575.8877563476562,
+                132.64157104492188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 184,
+          "text": "w w. u s t d a . g o v",
+          "bbox": [
+            34.79999923706055,
+            183.92379760742188,
+            164.76829528808594,
+            199.57839965820312
+          ],
+          "spans": [
+            {
+              "size": 14.039999961853027,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "w w w. u s t d a . g o v",
+              "origin": [
+                34.79999923706055,
+                196.6300048828125
+              ],
+              "bbox": [
+                34.79999923706055,
+                183.92379760742188,
+                164.76829528808594,
+                199.57839965820312
+              ]
+            }
+          ]
+        },
+        {
+          "y": 223,
+          "text": "The U.S. Trade and Development Agency helps companies create U.S. jobs through the export of U.S. goods and services",
+          "bbox": [
+            34.65599822998047,
+            222.77618408203125,
+            577.2269897460938,
+            233.88157653808594
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "The U.S. Trade and Development Agency helps companies create U.S. jobs through the export of U.S. goods and services ",
+              "origin": [
+                34.65599822998047,
+                231.78997802734375
+              ],
+              "bbox": [
+                34.65599822998047,
+                222.77618408203125,
+                577.2269897460938,
+                233.88157653808594
+              ]
+            }
+          ]
+        },
+        {
+          "y": 235,
+          "text": "for priority development projects in emerging economies. USTDA links U.S. businesses to export opportunities by funding",
+          "bbox": [
+            34.65599822998047,
+            234.77618408203125,
+            570.7532958984375,
+            245.88157653808594
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "for priority development projects in emerging economies. USTDA links U.S. businesses to export opportunities by funding ",
+              "origin": [
+                34.65599822998047,
+                243.78997802734375
+              ],
+              "bbox": [
+                34.65599822998047,
+                234.77618408203125,
+                570.7532958984375,
+                245.88157653808594
+              ]
+            }
+          ]
+        },
+        {
+          "y": 247,
+          "text": "project planning activities, pilot projects, and reverse trade missions while creating sustainable infrastructure and economic",
+          "bbox": [
+            34.65599822998047,
+            246.77618408203125,
+            577.3988647460938,
+            257.881591796875
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "project planning activities, pilot projects, and reverse trade missions while creating sustainable infrastructure and economic ",
+              "origin": [
+                34.65599822998047,
+                255.78997802734375
+              ],
+              "bbox": [
+                34.65599822998047,
+                246.77618408203125,
+                577.3988647460938,
+                257.881591796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 259,
+          "text": "growth in partner countries.",
+          "bbox": [
+            34.65599822998047,
+            258.77618408203125,
+            155.24171447753906,
+            269.881591796875
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "growth in partner countries.",
+              "origin": [
+                34.65599822998047,
+                267.78997802734375
+              ],
+              "bbox": [
+                34.65599822998047,
+                258.77618408203125,
+                155.24171447753906,
+                269.881591796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 279,
+          "text": "USTDA in China Implementing Climate Change Policy Goals",
+          "bbox": [
+            31.031999588012695,
+            278.70880126953125,
+            550.42431640625,
+            292.5799865722656
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 8288,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "USTDA in China",
+              "origin": [
+                31.031999588012695,
+                290.05999755859375
+              ],
+              "bbox": [
+                31.031999588012695,
+                279.20001220703125,
+                122.65199279785156,
+                292.5799865722656
+              ]
+            },
+            {
+              "size": 11.039999961853027,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 8288,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Implementing Climate Change Policy Goals",
+              "origin": [
+                323.80999755859375,
+                288.70001220703125
+              ],
+              "bbox": [
+                323.80999755859375,
+                278.70880126953125,
+                550.42431640625,
+                291.0184020996094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 304,
+          "text": "One of USTDA’s primary goals in China is to take bilateral",
+          "bbox": [
+            323.80999755859375,
+            303.92620849609375,
+            595.8101806640625,
+            315.0316162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 5855577,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "One of USTDA’s primary goals in China is to take bilateral",
+              "origin": [
+                323.80999755859375,
+                312.94000244140625
+              ],
+              "bbox": [
+                323.80999755859375,
+                303.92620849609375,
+                595.8101806640625,
+                315.0316162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 306,
+          "text": "USTDA's program in China focuses on advancing U.S.",
+          "bbox": [
+            31.031999588012695,
+            305.5262145996094,
+            289.0888977050781,
+            316.6316223144531
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "USTDA's program in China focuses on advancing U.S.",
+              "origin": [
+                31.031999588012695,
+                314.5400085449219
+              ],
+              "bbox": [
+                31.031999588012695,
+                305.5262145996094,
+                289.0888977050781,
+                316.6316223144531
+              ]
+            }
+          ]
+        },
+        {
+          "y": 316,
+          "text": "policies and move them toward implementation. For example,",
+          "bbox": [
+            323.80999755859375,
+            315.92620849609375,
+            595.897705078125,
+            327.0316162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 5855577,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "policies and move them toward implementation. For example,",
+              "origin": [
+                323.80999755859375,
+                324.94000244140625
+              ],
+              "bbox": [
+                323.80999755859375,
+                315.92620849609375,
+                595.897705078125,
+                327.0316162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 318,
+          "text": "policy and U.S. industry trade and commercial interests in",
+          "bbox": [
+            31.031999588012695,
+            317.5262145996094,
+            289.0977783203125,
+            328.6316223144531
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "policy and U.S. industry trade and commercial interests in",
+              "origin": [
+                31.031999588012695,
+                326.5400085449219
+              ],
+              "bbox": [
+                31.031999588012695,
+                317.5262145996094,
+                289.0977783203125,
+                328.6316223144531
+              ]
+            }
+          ]
+        },
+        {
+          "y": 328,
+          "text": "at the 2016 U.S.-China Strategic & Economic Dialogue in",
+          "bbox": [
+            323.80999755859375,
+            327.92620849609375,
+            595.7977905273438,
+            339.0316162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "at the 2016 U.S.-China Strategic & Economic Dialogue in",
+              "origin": [
+                323.80999755859375,
+                336.94000244140625
+              ],
+              "bbox": [
+                323.80999755859375,
+                327.92620849609375,
+                595.7977905273438,
+                339.0316162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 330,
+          "text": "the transportation, energy, agriculture , and healthcare",
+          "bbox": [
+            31.031999588012695,
+            329.5262145996094,
+            289.2731018066406,
+            340.6316223144531
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "the transportation, energy,",
+              "origin": [
+                31.031999588012695,
+                338.5400085449219
+              ],
+              "bbox": [
+                31.031999588012695,
+                329.5262145996094,
+                155.7370147705078,
+                340.6316223144531
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 5855577,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": " agriculture",
+              "origin": [
+                155.7370147705078,
+                338.5400085449219
+              ],
+              "bbox": [
+                155.7370147705078,
+                329.5262145996094,
+                209.23362731933594,
+                340.6316223144531
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": ", and healthcare",
+              "origin": [
+                209.25999450683594,
+                338.5400085449219
+              ],
+              "bbox": [
+                209.25999450683594,
+                329.5262145996094,
+                289.2731018066406,
+                340.6316223144531
+              ]
+            }
+          ]
+        },
+        {
+          "y": 340,
+          "text": "Beijing, USTDA announced several new activities that",
+          "bbox": [
+            323.80999755859375,
+            339.92620849609375,
+            596.046630859375,
+            351.0316162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Beijing,",
+              "origin": [
+                323.80999755859375,
+                348.94000244140625
+              ],
+              "bbox": [
+                323.80999755859375,
+                339.92620849609375,
+                356.3293762207031,
+                351.0316162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "USTDA",
+              "origin": [
+                364.989990234375,
+                348.94000244140625
+              ],
+              "bbox": [
+                364.989990234375,
+                339.92620849609375,
+                398.8639831542969,
+                351.0316162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "announced",
+              "origin": [
+                407.3500061035156,
+                348.94000244140625
+              ],
+              "bbox": [
+                407.3500061035156,
+                339.92620849609375,
+                456.5623474121094,
+                351.0316162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "several",
+              "origin": [
+                465.07000732421875,
+                348.94000244140625
+              ],
+              "bbox": [
+                465.07000732421875,
+                339.92620849609375,
+                497.1412048339844,
+                351.0316162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "new",
+              "origin": [
+                505.6600036621094,
+                348.94000244140625
+              ],
+              "bbox": [
+                505.6600036621094,
+                339.92620849609375,
+                523.996337890625,
+                351.0316162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "activities",
+              "origin": [
+                532.4199829101562,
+                348.94000244140625
+              ],
+              "bbox": [
+                532.4199829101562,
+                339.92620849609375,
+                570.8257446289062,
+                351.0316162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "that",
+              "origin": [
+                579.4600219726562,
+                348.94000244140625
+              ],
+              "bbox": [
+                579.4600219726562,
+                339.92620849609375,
+                596.046630859375,
+                351.0316162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 342,
+          "text": "sectors. These efforts help open China’s market for",
+          "bbox": [
+            31.031999588012695,
+            341.5262145996094,
+            289.1655578613281,
+            352.6316223144531
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "sectors. These efforts help open China’s market for",
+              "origin": [
+                31.031999588012695,
+                350.5400085449219
+              ],
+              "bbox": [
+                31.031999588012695,
+                341.5262145996094,
+                289.1655578613281,
+                352.6316223144531
+              ]
+            }
+          ]
+        },
+        {
+          "y": 352,
+          "text": "promote public-private collaboration to address climate",
+          "bbox": [
+            323.80999755859375,
+            351.92620849609375,
+            595.9226684570312,
+            363.0316162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "promote",
+              "origin": [
+                323.80999755859375,
+                360.94000244140625
+              ],
+              "bbox": [
+                323.80999755859375,
+                351.92620849609375,
+                360.44287109375,
+                363.0316162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "public-private",
+              "origin": [
+                369.30999755859375,
+                360.94000244140625
+              ],
+              "bbox": [
+                369.30999755859375,
+                351.92620849609375,
+                428.4998779296875,
+                363.0316162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "collaboration",
+              "origin": [
+                437.3500061035156,
+                360.94000244140625
+              ],
+              "bbox": [
+                437.3500061035156,
+                351.92620849609375,
+                493.6538391113281,
+                363.0316162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "to",
+              "origin": [
+                502.5400085449219,
+                360.94000244140625
+              ],
+              "bbox": [
+                502.5400085449219,
+                351.92620849609375,
+                510.8377685546875,
+                363.0316162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "address",
+              "origin": [
+                519.8200073242188,
+                360.94000244140625
+              ],
+              "bbox": [
+                519.8200073242188,
+                351.92620849609375,
+                555.2676391601562,
+                363.0316162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "climate",
+              "origin": [
+                564.219970703125,
+                360.94000244140625
+              ],
+              "bbox": [
+                564.219970703125,
+                351.92620849609375,
+                595.9226684570312,
+                363.0316162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 354,
+          "text": "increased exports of U.S.-manufactured goods.",
+          "bbox": [
+            31.031999588012695,
+            353.5262145996094,
+            239.50888061523438,
+            364.6316223144531
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "increased exports of U.S.-manufactured goods.",
+              "origin": [
+                31.031999588012695,
+                362.5400085449219
+              ],
+              "bbox": [
+                31.031999588012695,
+                353.5262145996094,
+                239.50888061523438,
+                364.6316223144531
+              ]
+            }
+          ]
+        },
+        {
+          "y": 364,
+          "text": "change. One initiative will reduce emissions from seaports in",
+          "bbox": [
+            323.80999755859375,
+            363.92620849609375,
+            595.9177856445312,
+            375.0316162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "change. One initiative will reduce emissions from seaports in",
+              "origin": [
+                323.80999755859375,
+                372.94000244140625
+              ],
+              "bbox": [
+                323.80999755859375,
+                363.92620849609375,
+                595.9177856445312,
+                375.0316162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 376,
+          "text": "China while another will demonstrate big data technologies",
+          "bbox": [
+            323.80999755859375,
+            375.92620849609375,
+            595.7271118164062,
+            387.0316162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "China while another will demonstrate big data technologies",
+              "origin": [
+                323.80999755859375,
+                384.94000244140625
+              ],
+              "bbox": [
+                323.80999755859375,
+                375.92620849609375,
+                595.7271118164062,
+                387.0316162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 378,
+          "text": "The Agency’s success in China is due in part to the public-",
+          "bbox": [
+            31.031999588012695,
+            377.5262145996094,
+            289.03668212890625,
+            388.6316223144531
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "The Agency’s success in China is due in part to the public-",
+              "origin": [
+                31.031999588012695,
+                386.5400085449219
+              ],
+              "bbox": [
+                31.031999588012695,
+                377.5262145996094,
+                289.03668212890625,
+                388.6316223144531
+              ]
+            }
+          ]
+        },
+        {
+          "y": 388,
+          "text": "for smarter grids and greater integration of renewable energy.",
+          "bbox": [
+            323.80999755859375,
+            387.92620849609375,
+            594.348876953125,
+            399.0316162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "for smarter grids and greater integration of renewable energy.",
+              "origin": [
+                323.80999755859375,
+                396.94000244140625
+              ],
+              "bbox": [
+                323.80999755859375,
+                387.92620849609375,
+                594.348876953125,
+                399.0316162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 390,
+          "text": "private Cooperation Programs that are the hallmark of",
+          "bbox": [
+            31.031999588012695,
+            389.55621337890625,
+            289.2086486816406,
+            400.66162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "private Cooperation Programs that are the hallmark of",
+              "origin": [
+                31.031999588012695,
+                398.57000732421875
+              ],
+              "bbox": [
+                31.031999588012695,
+                389.55621337890625,
+                289.2086486816406,
+                400.66162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 402,
+          "text": "USTDA’s programs in country. These programs provide a",
+          "bbox": [
+            31.031999588012695,
+            401.55621337890625,
+            289.3377380371094,
+            412.66162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "USTDA’s programs in country. These programs provide a",
+              "origin": [
+                31.031999588012695,
+                410.57000732421875
+              ],
+              "bbox": [
+                31.031999588012695,
+                401.55621337890625,
+                289.3377380371094,
+                412.66162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 412,
+          "text": "USTDA also announced eight workshops and two study tours",
+          "bbox": [
+            323.80999755859375,
+            411.9461975097656,
+            595.7111206054688,
+            423.0516052246094
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "USTDA also announced eight workshops and two study tours",
+              "origin": [
+                323.80999755859375,
+                420.9599914550781
+              ],
+              "bbox": [
+                323.80999755859375,
+                411.9461975097656,
+                595.7111206054688,
+                423.0516052246094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 414,
+          "text": "forum for government agencies and private companies",
+          "bbox": [
+            31.031999588012695,
+            413.55621337890625,
+            289.1070251464844,
+            424.66162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "forum for government agencies and private companies",
+              "origin": [
+                31.031999588012695,
+                422.57000732421875
+              ],
+              "bbox": [
+                31.031999588012695,
+                413.55621337890625,
+                289.1070251464844,
+                424.66162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 424,
+          "text": "that will focus on electric vehicles, promoting environmental",
+          "bbox": [
+            323.80999755859375,
+            423.9461975097656,
+            595.9388427734375,
+            435.0516052246094
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "that will focus on electric vehicles, promoting environmental",
+              "origin": [
+                323.80999755859375,
+                432.9599914550781
+              ],
+              "bbox": [
+                323.80999755859375,
+                423.9461975097656,
+                595.9388427734375,
+                435.0516052246094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 426,
+          "text": "from both countries can share technical, policy, and",
+          "bbox": [
+            31.031999588012695,
+            425.55621337890625,
+            289.3376770019531,
+            436.66162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "from both countries can share technical, policy, and",
+              "origin": [
+                31.031999588012695,
+                434.57000732421875
+              ],
+              "bbox": [
+                31.031999588012695,
+                425.55621337890625,
+                289.3376770019531,
+                436.66162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 436,
+          "text": "protection technologies for shale gas, and reducing nitrogen",
+          "bbox": [
+            323.80999755859375,
+            435.9461975097656,
+            595.9158935546875,
+            447.0516052246094
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "protection technologies for shale gas, and reducing nitrogen",
+              "origin": [
+                323.80999755859375,
+                444.9599914550781
+              ],
+              "bbox": [
+                323.80999755859375,
+                435.9461975097656,
+                595.9158935546875,
+                447.0516052246094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 438,
+          "text": "commercial knowledge relevant to a specific field. USTDA",
+          "bbox": [
+            31.031999588012695,
+            437.55621337890625,
+            289.0845031738281,
+            448.66162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "commercial knowledge relevant to a specific field. USTDA",
+              "origin": [
+                31.031999588012695,
+                446.57000732421875
+              ],
+              "bbox": [
+                31.031999588012695,
+                437.55621337890625,
+                289.0845031738281,
+                448.66162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 448,
+          "text": "oxide from gas-fired boilers.",
+          "bbox": [
+            323.80999755859375,
+            447.9461975097656,
+            446.598876953125,
+            459.0516052246094
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "oxide from gas-fired boilers.",
+              "origin": [
+                323.80999755859375,
+                456.9599914550781
+              ],
+              "bbox": [
+                323.80999755859375,
+                447.9461975097656,
+                446.598876953125,
+                459.0516052246094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 450,
+          "text": "has successfully established programs based on this",
+          "bbox": [
+            31.031999588012695,
+            449.55621337890625,
+            289.1380920410156,
+            460.66162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "has successfully established programs based on this",
+              "origin": [
+                31.031999588012695,
+                458.57000732421875
+              ],
+              "bbox": [
+                31.031999588012695,
+                449.55621337890625,
+                289.1380920410156,
+                460.66162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 462,
+          "text": "model in the aviation , energy, agriculture and healthcare",
+          "bbox": [
+            31.031999588012695,
+            461.55621337890625,
+            289.1640319824219,
+            472.66162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "model in the aviation",
+              "origin": [
+                31.031999588012695,
+                470.57000732421875
+              ],
+              "bbox": [
+                31.031999588012695,
+                461.55621337890625,
+                126.70500183105469,
+                472.66162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 5855577,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": ",",
+              "origin": [
+                126.69999694824219,
+                470.57000732421875
+              ],
+              "bbox": [
+                126.69999694824219,
+                461.55621337890625,
+                129.4688720703125,
+                472.66162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": " energy, agriculture and healthcare",
+              "origin": [
+                129.4688720703125,
+                470.57000732421875
+              ],
+              "bbox": [
+                129.4688720703125,
+                461.55621337890625,
+                289.1640319824219,
+                472.66162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 472,
+          "text": "At the 2 nd U.S.-China Climate Leaders’ Summit in Beijing, two",
+          "bbox": [
+            323.80999755859375,
+            471.8783874511719,
+            595.918212890625,
+            483.0516052246094
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "At the 2",
+              "origin": [
+                323.80999755859375,
+                480.9599914550781
+              ],
+              "bbox": [
+                323.80999755859375,
+                471.9461975097656,
+                358.1477355957031,
+                483.0516052246094
+              ]
+            },
+            {
+              "size": 6.71999979019165,
+              "flags": 1,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "nd",
+              "origin": [
+                358.1499938964844,
+                477.9599914550781
+              ],
+              "bbox": [
+                358.1499938964844,
+                471.8783874511719,
+                365.6063537597656,
+                479.3711853027344
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "U.S.-China Climate Leaders’ Summit in Beijing, two",
+              "origin": [
+                368.4700012207031,
+                480.9599914550781
+              ],
+              "bbox": [
+                368.4700012207031,
+                471.9461975097656,
+                595.918212890625,
+                483.0516052246094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 474,
+          "text": "sectors.",
+          "bbox": [
+            31.031999588012695,
+            473.55621337890625,
+            66.08087921142578,
+            484.66162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "sectors.",
+              "origin": [
+                31.031999588012695,
+                482.57000732421875
+              ],
+              "bbox": [
+                31.031999588012695,
+                473.55621337890625,
+                66.08087921142578,
+                484.66162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 484,
+          "text": "contracts were signed launching USTDA-supported projects.",
+          "bbox": [
+            323.80999755859375,
+            483.9461975097656,
+            596.0288696289062,
+            495.0516052246094
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "contracts were signed launching USTDA-supported projects.",
+              "origin": [
+                323.80999755859375,
+                492.9599914550781
+              ],
+              "bbox": [
+                323.80999755859375,
+                483.9461975097656,
+                596.0288696289062,
+                495.0516052246094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 496,
+          "text": "The Agency is partnering with the Beijing Environmental",
+          "bbox": [
+            323.80999755859375,
+            495.9461975097656,
+            595.9041137695312,
+            507.0516052246094
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "The Agency is partnering with the Beijing Environmental",
+              "origin": [
+                323.80999755859375,
+                504.9599914550781
+              ],
+              "bbox": [
+                323.80999755859375,
+                495.9461975097656,
+                595.9041137695312,
+                507.0516052246094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 498,
+          "text": "By adapting to the evolving needs of China’s market and",
+          "bbox": [
+            31.031999588012695,
+            497.55621337890625,
+            289.3376770019531,
+            508.66162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "By adapting to the evolving needs of China’s market and",
+              "origin": [
+                31.031999588012695,
+                506.57000732421875
+              ],
+              "bbox": [
+                31.031999588012695,
+                497.55621337890625,
+                289.3376770019531,
+                508.66162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 508,
+          "text": "Protection Bureau and Kansas-based firm, Power Flame, to",
+          "bbox": [
+            323.80999755859375,
+            507.9461669921875,
+            596.0377807617188,
+            519.0515747070312
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Protection Bureau and Kansas-based firm, Power Flame, to",
+              "origin": [
+                323.80999755859375,
+                516.9599609375
+              ],
+              "bbox": [
+                323.80999755859375,
+                507.9461669921875,
+                596.0377807617188,
+                519.0515747070312
+              ]
+            }
+          ]
+        },
+        {
+          "y": 510,
+          "text": "closely coordinating with Chinese decision makers, these",
+          "bbox": [
+            31.031999588012695,
+            509.55621337890625,
+            289.2030944824219,
+            520.66162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "closely coordinating with Chinese decision makers, these",
+              "origin": [
+                31.031999588012695,
+                518.5700073242188
+              ],
+              "bbox": [
+                31.031999588012695,
+                509.55621337890625,
+                289.2030944824219,
+                520.66162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 520,
+          "text": "pilot technologies that will lower nitrogen oxide (NOx)",
+          "bbox": [
+            323.80999755859375,
+            519.9461669921875,
+            595.8228149414062,
+            531.0515747070312
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "pilot",
+              "origin": [
+                323.80999755859375,
+                528.9599609375
+              ],
+              "bbox": [
+                323.80999755859375,
+                519.9461669921875,
+                341.95709228515625,
+                531.0515747070312
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "technologies",
+              "origin": [
+                350.0899963378906,
+                528.9599609375
+              ],
+              "bbox": [
+                350.0899963378906,
+                519.9461669921875,
+                405.8261413574219,
+                531.0515747070312
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "that",
+              "origin": [
+                414.07000732421875,
+                528.9599609375
+              ],
+              "bbox": [
+                414.07000732421875,
+                519.9461669921875,
+                430.6566467285156,
+                531.0515747070312
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "will",
+              "origin": [
+                438.9100036621094,
+                528.9599609375
+              ],
+              "bbox": [
+                438.9100036621094,
+                519.9461669921875,
+                452.7544250488281,
+                531.0515747070312
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "lower",
+              "origin": [
+                460.989990234375,
+                528.9599609375
+              ],
+              "bbox": [
+                460.989990234375,
+                519.9461669921875,
+                484.7146911621094,
+                531.0515747070312
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "nitrogen",
+              "origin": [
+                493.0299987792969,
+                528.9599609375
+              ],
+              "bbox": [
+                493.0299987792969,
+                519.9461669921875,
+                528.9259033203125,
+                531.0515747070312
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "oxide",
+              "origin": [
+                537.0999755859375,
+                528.9599609375
+              ],
+              "bbox": [
+                537.0999755859375,
+                519.9461669921875,
+                560.884521484375,
+                531.0515747070312
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "(NOx)",
+              "origin": [
+                569.1400146484375,
+                528.9599609375
+              ],
+              "bbox": [
+                569.1400146484375,
+                519.9461669921875,
+                595.8228149414062,
+                531.0515747070312
+              ]
+            }
+          ]
+        },
+        {
+          "y": 522,
+          "text": "public-private partnerships have achieved long-term",
+          "bbox": [
+            31.031999588012695,
+            521.5562133789062,
+            289.08001708984375,
+            532.66162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "public-private",
+              "origin": [
+                31.031999588012695,
+                530.5700073242188
+              ],
+              "bbox": [
+                31.031999588012695,
+                521.5562133789062,
+                90.22188568115234,
+                532.66162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "partnerships",
+              "origin": [
+                100.38999938964844,
+                530.5700073242188
+              ],
+              "bbox": [
+                100.38999938964844,
+                521.5562133789062,
+                155.15008544921875,
+                532.66162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "have",
+              "origin": [
+                165.4600067138672,
+                530.5700073242188
+              ],
+              "bbox": [
+                165.4600067138672,
+                521.5562133789062,
+                186.95370483398438,
+                532.66162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "achieved",
+              "origin": [
+                197.13999938964844,
+                530.5700073242188
+              ],
+              "bbox": [
+                197.13999938964844,
+                521.5562133789062,
+                236.8804168701172,
+                532.66162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "long-term",
+              "origin": [
+                247.05999755859375,
+                530.5700073242188
+              ],
+              "bbox": [
+                247.05999755859375,
+                521.5562133789062,
+                289.08001708984375,
+                532.66162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 532,
+          "text": "emissions from gas-fired boiler sites across Beijing.",
+          "bbox": [
+            323.80999755859375,
+            531.9462280273438,
+            550.308837890625,
+            543.0516357421875
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "emissions from gas-fired boiler sites across Beijing.",
+              "origin": [
+                323.80999755859375,
+                540.9600219726562
+              ],
+              "bbox": [
+                323.80999755859375,
+                531.9462280273438,
+                550.308837890625,
+                543.0516357421875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 534,
+          "text": "success. Specifically, the partnerships are providing",
+          "bbox": [
+            31.031999588012695,
+            533.5562133789062,
+            289.0879211425781,
+            544.66162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "success.",
+              "origin": [
+                31.031999588012695,
+                542.5700073242188
+              ],
+              "bbox": [
+                31.031999588012695,
+                533.5562133789062,
+                69.92088317871094,
+                544.66162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Specifically, the partnerships are providing",
+              "origin": [
+                84.31199645996094,
+                542.5700073242188
+              ],
+              "bbox": [
+                84.31199645996094,
+                533.5562133789062,
+                289.0879211425781,
+                544.66162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 546,
+          "text": "increased market access for U.S. companies and",
+          "bbox": [
+            31.031999588012695,
+            545.5562133789062,
+            289.3376770019531,
+            556.66162109375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "increased",
+              "origin": [
+                31.031999588012695,
+                554.5700073242188
+              ],
+              "bbox": [
+                31.031999588012695,
+                545.5562133789062,
+                74.22852325439453,
+                556.66162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "market",
+              "origin": [
+                83.83200073242188,
+                554.5700073242188
+              ],
+              "bbox": [
+                83.83200073242188,
+                545.5562133789062,
+                114.43907928466797,
+                556.66162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "access",
+              "origin": [
+                124.05999755859375,
+                554.5700073242188
+              ],
+              "bbox": [
+                124.05999755859375,
+                545.5562133789062,
+                154.94595336914062,
+                556.66162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "for",
+              "origin": [
+                164.6199951171875,
+                554.5700073242188
+              ],
+              "bbox": [
+                164.6199951171875,
+                545.5562133789062,
+                176.34291076660156,
+                556.66162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "U.S.",
+              "origin": [
+                185.97999572753906,
+                554.5700073242188
+              ],
+              "bbox": [
+                185.97999572753906,
+                545.5562133789062,
+                205.30886840820312,
+                556.66162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "companies",
+              "origin": [
+                214.89999389648438,
+                554.5700073242188
+              ],
+              "bbox": [
+                214.89999389648438,
+                545.5562133789062,
+                263.06658935546875,
+                556.66162109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "and",
+              "origin": [
+                272.760009765625,
+                554.5700073242188
+              ],
+              "bbox": [
+                272.760009765625,
+                545.5562133789062,
+                289.3376770019531,
+                556.66162109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 556,
+          "text": "The other program will develop and demonstrate a new",
+          "bbox": [
+            323.80999755859375,
+            555.9462280273438,
+            595.8909912109375,
+            567.0516357421875
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "The other program will develop and demonstrate a new",
+              "origin": [
+                323.80999755859375,
+                564.9600219726562
+              ],
+              "bbox": [
+                323.80999755859375,
+                555.9462280273438,
+                595.8909912109375,
+                567.0516357421875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 558,
+          "text": "advancing U.S. policy interests including climate change",
+          "bbox": [
+            31.031999588012695,
+            557.576171875,
+            289.29937744140625,
+            568.6815795898438
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "advancing U.S. policy interests including climate change",
+              "origin": [
+                31.031999588012695,
+                566.5899658203125
+              ],
+              "bbox": [
+                31.031999588012695,
+                557.576171875,
+                289.29937744140625,
+                568.6815795898438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 568,
+          "text": "model for smart grid information and communication",
+          "bbox": [
+            323.80999755859375,
+            567.9462280273438,
+            595.76171875,
+            579.0516357421875
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "model",
+              "origin": [
+                323.80999755859375,
+                576.9600219726562
+              ],
+              "bbox": [
+                323.80999755859375,
+                567.9462280273438,
+                350.9609680175781,
+                579.0516357421875
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "for",
+              "origin": [
+                360.7900085449219,
+                576.9600219726562
+              ],
+              "bbox": [
+                360.7900085449219,
+                567.9462280273438,
+                372.512939453125,
+                579.0516357421875
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "smart",
+              "origin": [
+                382.2699890136719,
+                576.9600219726562
+              ],
+              "bbox": [
+                382.2699890136719,
+                567.9462280273438,
+                407.3194274902344,
+                579.0516357421875
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "grid",
+              "origin": [
+                417.07000732421875,
+                576.9600219726562
+              ],
+              "bbox": [
+                417.07000732421875,
+                567.9462280273438,
+                433.6733093261719,
+                579.0516357421875
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "information",
+              "origin": [
+                443.4700012207031,
+                576.9600219726562
+              ],
+              "bbox": [
+                443.4700012207031,
+                567.9462280273438,
+                492.7919006347656,
+                579.0516357421875
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "and",
+              "origin": [
+                502.6600036621094,
+                576.9600219726562
+              ],
+              "bbox": [
+                502.6600036621094,
+                567.9462280273438,
+                519.2377319335938,
+                579.0516357421875
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "communication",
+              "origin": [
+                528.9400024414062,
+                576.9600219726562
+              ],
+              "bbox": [
+                528.9400024414062,
+                567.9462280273438,
+                595.76171875,
+                579.0516357421875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 570,
+          "text": "and aviation safety and security.",
+          "bbox": [
+            31.031999588012695,
+            569.576171875,
+            172.6688690185547,
+            580.6815795898438
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "and aviation safety and security.",
+              "origin": [
+                31.031999588012695,
+                578.5899658203125
+              ],
+              "bbox": [
+                31.031999588012695,
+                569.576171875,
+                172.6688690185547,
+                580.6815795898438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 580,
+          "text": "integration for State Grid Corporation of China (SGCC).",
+          "bbox": [
+            323.80999755859375,
+            579.9661865234375,
+            595.7888793945312,
+            591.0715942382812
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "integration for State Grid Corporation of China (SGCC).",
+              "origin": [
+                323.80999755859375,
+                588.97998046875
+              ],
+              "bbox": [
+                323.80999755859375,
+                579.9661865234375,
+                595.7888793945312,
+                591.0715942382812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 592,
+          "text": "USTDA is partnering with California-based firm, OSIsoft, and",
+          "bbox": [
+            323.80999755859375,
+            591.9661865234375,
+            596.0377197265625,
+            603.0715942382812
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "USTDA is partnering with California-based firm, OSIsoft, and",
+              "origin": [
+                323.80999755859375,
+                600.97998046875
+              ],
+              "bbox": [
+                323.80999755859375,
+                591.9661865234375,
+                596.0377197265625,
+                603.0715942382812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 604,
+          "text": "the China Power Electric Research Institute (CEPRI), on this",
+          "bbox": [
+            323.80999755859375,
+            603.9661865234375,
+            595.8380737304688,
+            615.0715942382812
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "the China Power Electric Research Institute (CEPRI), on this",
+              "origin": [
+                323.80999755859375,
+                612.97998046875
+              ],
+              "bbox": [
+                323.80999755859375,
+                603.9661865234375,
+                595.8380737304688,
+                615.0715942382812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 616,
+          "text": "innovative initiative.",
+          "bbox": [
+            323.80999755859375,
+            615.9661865234375,
+            409.7588806152344,
+            627.0715942382812
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "innovative initiative.",
+              "origin": [
+                323.80999755859375,
+                624.97998046875
+              ],
+              "bbox": [
+                323.80999755859375,
+                615.9661865234375,
+                409.7588806152344,
+                627.0715942382812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 736,
+          "text": "In 2016, USTDA conducted 9 reverse trade missions to introduce",
+          "bbox": [
+            42.28799819946289,
+            736.4118041992188,
+            276.3887023925781,
+            745.3764038085938
+          ],
+          "spans": [
+            {
+              "size": 8.039999961853027,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "In 2016, USTDA conducted 9 reverse trade missions to introduce ",
+              "origin": [
+                42.28799819946289,
+                743.68798828125
+              ],
+              "bbox": [
+                42.28799819946289,
+                736.4118041992188,
+                276.3887023925781,
+                745.3764038085938
+              ]
+            }
+          ]
+        },
+        {
+          "y": 746,
+          "text": "Chinese public and private sector officials to U.S. best practices",
+          "bbox": [
+            42.28799819946289,
+            746.0118408203125,
+            271.1949462890625,
+            754.9764404296875
+          ],
+          "spans": [
+            {
+              "size": 8.039999961853027,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Chinese public and private sector officials to U.S. best practices ",
+              "origin": [
+                42.28799819946289,
+                753.2880249023438
+              ],
+              "bbox": [
+                42.28799819946289,
+                746.0118408203125,
+                271.1949462890625,
+                754.9764404296875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 747,
+          "text": "Director Leocadia I. Zak delivers remarks at the 2nd U.S.-China",
+          "bbox": [
+            334.25,
+            746.5158081054688,
+            562.6068725585938,
+            755.4804077148438
+          ],
+          "spans": [
+            {
+              "size": 8.039999961853027,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Director Leocadia I. Zak delivers remarks at the 2nd U.S.-China ",
+              "origin": [
+                334.25,
+                753.7919921875
+              ],
+              "bbox": [
+                334.25,
+                746.5158081054688,
+                562.6068725585938,
+                755.4804077148438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 756,
+          "text": "and advanced technology solutions. Climate Leaders’ Summit.",
+          "bbox": [
+            42.28799819946289,
+            755.61181640625,
+            426.4044189453125,
+            765.0804443359375
+          ],
+          "spans": [
+            {
+              "size": 8.039999961853027,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "and advanced technology solutions. ",
+              "origin": [
+                42.28799819946289,
+                762.8880004882812
+              ],
+              "bbox": [
+                42.28799819946289,
+                755.61181640625,
+                172.6968536376953,
+                764.576416015625
+              ]
+            },
+            {
+              "size": 8.039999961853027,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Climate Leaders’ Summit.",
+              "origin": [
+                334.25,
+                763.3920288085938
+              ],
+              "bbox": [
+                334.25,
+                756.1158447265625,
+                426.4044189453125,
+                765.0804443359375
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 20,
+          "text": "China",
+          "bbox": [
+            310.8500061035156,
+            19.62619400024414,
+            378.23358154296875,
+            50.80159378051758
+          ],
+          "spans": [
+            {
+              "size": 27.959999084472656,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "China",
+              "origin": [
+                310.8500061035156,
+                44.92999267578125
+              ],
+              "bbox": [
+                310.8500061035156,
+                19.62619400024414,
+                378.23358154296875,
+                50.80159378051758
+              ]
+            }
+          ]
+        },
+        {
+          "y": 50,
+          "text": "Linking U.S. Businesses to",
+          "bbox": [
+            311.6600036621094,
+            50.483802795410156,
+            481.908935546875,
+            66.1384048461914
+          ],
+          "spans": [
+            {
+              "size": 14.039999961853027,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Linking U.S. Businesses to ",
+              "origin": [
+                311.6600036621094,
+                63.19000244140625
+              ],
+              "bbox": [
+                311.6600036621094,
+                50.483802795410156,
+                481.908935546875,
+                66.1384048461914
+              ]
+            }
+          ]
+        },
+        {
+          "y": 67,
+          "text": "Global Infrastructure Opportunities",
+          "bbox": [
+            311.6600036621094,
+            67.2837905883789,
+            529.1395874023438,
+            82.93839263916016
+          ],
+          "spans": [
+            {
+              "size": 14.039999961853027,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Global Infrastructure Opportunities ",
+              "origin": [
+                311.6600036621094,
+                79.989990234375
+              ],
+              "bbox": [
+                311.6600036621094,
+                67.2837905883789,
+                529.1395874023438,
+                82.93839263916016
+              ]
+            }
+          ]
+        },
+        {
+          "y": 95,
+          "text": "w w. u s t d a . g o v",
+          "bbox": [
+            27.600000381469727,
+            95.0738296508789,
+            157.56829833984375,
+            110.72843170166016
+          ],
+          "spans": [
+            {
+              "size": 14.039999961853027,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "w w w. u s t d a . g o v",
+              "origin": [
+                27.600000381469727,
+                107.780029296875
+              ],
+              "bbox": [
+                27.600000381469727,
+                95.0738296508789,
+                157.56829833984375,
+                110.72843170166016
+              ]
+            }
+          ]
+        },
+        {
+          "y": 129,
+          "text": "Leveraging Partnerships for Win-Win Results",
+          "bbox": [
+            22.27199935913086,
+            128.86997985839844,
+            280.52398681640625,
+            142.24998474121094
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 8288,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Leveraging Partnerships for Win-Win Results",
+              "origin": [
+                22.27199935913086,
+                139.72998046875
+              ],
+              "bbox": [
+                22.27199935913086,
+                128.86997985839844,
+                280.52398681640625,
+                142.24998474121094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 149,
+          "text": "Aviation Cooperation Program (ACP): The U.S.-China Aviation Cooperation Program",
+          "bbox": [
+            22.27199935913086,
+            149.19622802734375,
+            417.146728515625,
+            160.30162048339844
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 18,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldItalicMT",
+              "color": 8288,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Aviation Cooperation Program (ACP):",
+              "origin": [
+                22.27199935913086,
+                158.21002197265625
+              ],
+              "bbox": [
+                22.27199935913086,
+                149.19622802734375,
+                202.85667419433594,
+                160.30162048339844
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": " The U.S.-China Aviation Cooperation Program",
+              "origin": [
+                202.85667419433594,
+                158.21002197265625
+              ],
+              "bbox": [
+                202.85667419433594,
+                149.19622802734375,
+                417.146728515625,
+                160.30162048339844
+              ]
+            }
+          ]
+        },
+        {
+          "y": 161,
+          "text": "(ACP) promotes aviation sector-wide cooperation. Endorsed by the U.S. Federal Aviation",
+          "bbox": [
+            22.27199935913086,
+            161.19622802734375,
+            417.1681823730469,
+            172.30162048339844
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "(ACP) promotes aviation sector-wide cooperation. Endorsed by the U.S. Federal Aviation",
+              "origin": [
+                22.27199935913086,
+                170.21002197265625
+              ],
+              "bbox": [
+                22.27199935913086,
+                161.19622802734375,
+                417.1681823730469,
+                172.30162048339844
+              ]
+            }
+          ]
+        },
+        {
+          "y": 173,
+          "text": "Administration and the Civil Aviation Administration of China, ACP works cooperatively to",
+          "bbox": [
+            22.27199935913086,
+            173.19622802734375,
+            417.1577453613281,
+            184.30162048339844
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Administration and the Civil Aviation Administration of China, ACP works cooperatively to",
+              "origin": [
+                22.27199935913086,
+                182.21002197265625
+              ],
+              "bbox": [
+                22.27199935913086,
+                173.19622802734375,
+                417.1577453613281,
+                184.30162048339844
+              ]
+            }
+          ]
+        },
+        {
+          "y": 185,
+          "text": "design programs that promote technical, policy and commercial collaboration.",
+          "bbox": [
+            22.27199935913086,
+            185.19622802734375,
+            362.9089050292969,
+            196.30162048339844
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "design programs that promote technical, policy and commercial collaboration.",
+              "origin": [
+                22.27199935913086,
+                194.21002197265625
+              ],
+              "bbox": [
+                22.27199935913086,
+                185.19622802734375,
+                362.9089050292969,
+                196.30162048339844
+              ]
+            }
+          ]
+        },
+        {
+          "y": 207,
+          "text": "USTDA partners with the ACP in several key areas, including executive leadership",
+          "bbox": [
+            22.27199935913086,
+            206.81622314453125,
+            417.25537109375,
+            217.92161560058594
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "USTDA partners with the ACP in several key areas, including executive leadership",
+              "origin": [
+                22.27199935913086,
+                215.83001708984375
+              ],
+              "bbox": [
+                22.27199935913086,
+                206.81622314453125,
+                417.25537109375,
+                217.92161560058594
+              ]
+            }
+          ]
+        },
+        {
+          "y": 219,
+          "text": "development training programs, technical assistance aimed at reducing flight delays,",
+          "bbox": [
+            22.27199935913086,
+            218.81622314453125,
+            417.1238098144531,
+            229.92161560058594
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "development training programs, technical assistance aimed at reducing flight delays,",
+              "origin": [
+                22.27199935913086,
+                227.83001708984375
+              ],
+              "bbox": [
+                22.27199935913086,
+                218.81622314453125,
+                417.1238098144531,
+                229.92161560058594
+              ]
+            }
+          ]
+        },
+        {
+          "y": 231,
+          "text": "advancing general aviation, and reducing the environmental footprint of the aviation",
+          "bbox": [
+            22.27199935913086,
+            230.81622314453125,
+            417.16253662109375,
+            241.92161560058594
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "advancing general aviation, and reducing the environmental footprint of the aviation",
+              "origin": [
+                22.27199935913086,
+                239.83001708984375
+              ],
+              "bbox": [
+                22.27199935913086,
+                230.81622314453125,
+                417.16253662109375,
+                241.92161560058594
+              ]
+            }
+          ]
+        },
+        {
+          "y": 243,
+          "text": "sector. Now in its 12 th phase with over 40 U.S. industry members and 6 public sector",
+          "bbox": [
+            22.27199935913086,
+            242.7484130859375,
+            417.2113037109375,
+            253.92161560058594
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "sector. Now in its 12",
+              "origin": [
+                22.27199935913086,
+                251.83001708984375
+              ],
+              "bbox": [
+                22.27199935913086,
+                242.81622314453125,
+                118.07771301269531,
+                253.92161560058594
+              ]
+            },
+            {
+              "size": 6.71999979019165,
+              "flags": 1,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "th",
+              "origin": [
+                118.05999755859375,
+                248.83001708984375
+              ],
+              "bbox": [
+                118.05999755859375,
+                242.7484130859375,
+                123.71627807617188,
+                250.2412109375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "phase with over 40 U.S. industry members and 6 public sector",
+              "origin": [
+                128.02000427246094,
+                251.83001708984375
+              ],
+              "bbox": [
+                128.02000427246094,
+                242.81622314453125,
+                417.2113037109375,
+                253.92161560058594
+              ]
+            }
+          ]
+        },
+        {
+          "y": 255,
+          "text": "partners, the ACP has provided executive and safety management training for over 1,500",
+          "bbox": [
+            22.27199935913086,
+            254.81622314453125,
+            417.2776794433594,
+            265.921630859375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "partners, the ACP has provided executive and safety management training for over 1,500",
+              "origin": [
+                22.27199935913086,
+                263.83001708984375
+              ],
+              "bbox": [
+                22.27199935913086,
+                254.81622314453125,
+                417.2776794433594,
+                265.921630859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 267,
+          "text": "Chinese aviation officials.",
+          "bbox": [
+            22.27199935913086,
+            266.81622314453125,
+            134.62887573242188,
+            277.921630859375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Chinese aviation officials.",
+              "origin": [
+                22.27199935913086,
+                275.83001708984375
+              ],
+              "bbox": [
+                22.27199935913086,
+                266.81622314453125,
+                134.62887573242188,
+                277.921630859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 288,
+          "text": "Energy Cooperation Program (ECP): The U.S.-China Energy Cooperation Program",
+          "bbox": [
+            22.27199935913086,
+            288.41619873046875,
+            417.0267028808594,
+            299.5216064453125
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 18,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldItalicMT",
+              "color": 8288,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Energy Cooperation Program (ECP):",
+              "origin": [
+                22.27199935913086,
+                297.42999267578125
+              ],
+              "bbox": [
+                22.27199935913086,
+                288.41619873046875,
+                199.9766845703125,
+                299.5216064453125
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "The U.S.-China Energy Cooperation Program",
+              "origin": [
+                209.16000366210938,
+                297.42999267578125
+              ],
+              "bbox": [
+                209.16000366210938,
+                288.41619873046875,
+                417.0267028808594,
+                299.5216064453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 300,
+          "text": "(ECP) promotes the development and commercialization of clean energy and energy",
+          "bbox": [
+            22.27199935913086,
+            300.41619873046875,
+            417.4273681640625,
+            311.5216064453125
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "(ECP) promotes the development and commercialization of clean energy and energy",
+              "origin": [
+                22.27199935913086,
+                309.42999267578125
+              ],
+              "bbox": [
+                22.27199935913086,
+                300.41619873046875,
+                417.4273681640625,
+                311.5216064453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 312,
+          "text": "efficiency solutions. USTDA has supported a number of projects under the ECP focused",
+          "bbox": [
+            22.27199935913086,
+            312.41619873046875,
+            417.26971435546875,
+            323.5216064453125
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "efficiency solutions. USTDA has supported a number of projects under the ECP focused",
+              "origin": [
+                22.27199935913086,
+                321.42999267578125
+              ],
+              "bbox": [
+                22.27199935913086,
+                312.41619873046875,
+                417.26971435546875,
+                323.5216064453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 324,
+          "text": "on developing clean energy technologies such as smart grid, natural gas, energy",
+          "bbox": [
+            22.27199935913086,
+            324.41619873046875,
+            417.4269104003906,
+            335.5216064453125
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "on developing",
+              "origin": [
+                22.27199935913086,
+                333.42999267578125
+              ],
+              "bbox": [
+                22.27199935913086,
+                324.41619873046875,
+                87.09960174560547,
+                335.5216064453125
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "clean energy technologies such as smart grid, natural gas, energy",
+              "origin": [
+                98.85600280761719,
+                333.42999267578125
+              ],
+              "bbox": [
+                98.85600280761719,
+                324.41619873046875,
+                417.4269104003906,
+                335.5216064453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 336,
+          "text": "efficiency, fuel cells, and distributed energy combined heat and power.",
+          "bbox": [
+            22.27199935913086,
+            336.41619873046875,
+            331.4488830566406,
+            347.5216064453125
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "efficiency, fuel cells, and distributed energy combined heat and power.",
+              "origin": [
+                22.27199935913086,
+                345.42999267578125
+              ],
+              "bbox": [
+                22.27199935913086,
+                336.41619873046875,
+                331.4488830566406,
+                347.5216064453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 358,
+          "text": "The U.S.-China ECP has expanded membership to over 25 U.S. companies across 10",
+          "bbox": [
+            22.27199935913086,
+            358.0162048339844,
+            417.397705078125,
+            369.1216125488281
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "The U.S.-China ECP has expanded membership to over 25 U.S. companies across 10",
+              "origin": [
+                22.27199935913086,
+                367.0299987792969
+              ],
+              "bbox": [
+                22.27199935913086,
+                358.0162048339844,
+                417.397705078125,
+                369.1216125488281
+              ]
+            }
+          ]
+        },
+        {
+          "y": 370,
+          "text": "subsector working groups. To support ECP and promote clean energy development in",
+          "bbox": [
+            22.27199935913086,
+            370.04620361328125,
+            417.27777099609375,
+            381.151611328125
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "subsector working groups. To support ECP and promote clean energy development in",
+              "origin": [
+                22.27199935913086,
+                379.05999755859375
+              ],
+              "bbox": [
+                22.27199935913086,
+                370.04620361328125,
+                417.27777099609375,
+                381.151611328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 382,
+          "text": "China, USTDA has funded a number of reverse trade missions, pilot projects, feasibility",
+          "bbox": [
+            22.27199935913086,
+            382.04620361328125,
+            417.2751159667969,
+            393.151611328125
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "China, USTDA has funded a number of reverse trade missions, pilot projects, feasibility",
+              "origin": [
+                22.27199935913086,
+                391.05999755859375
+              ],
+              "bbox": [
+                22.27199935913086,
+                382.04620361328125,
+                417.2751159667969,
+                393.151611328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 394,
+          "text": "studies, technical assistance programs, and workshops for Chinese public and private",
+          "bbox": [
+            22.27199935913086,
+            394.04620361328125,
+            417.12957763671875,
+            405.151611328125
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "studies, technical assistance programs, and workshops for Chinese public and private",
+              "origin": [
+                22.27199935913086,
+                403.05999755859375
+              ],
+              "bbox": [
+                22.27199935913086,
+                394.04620361328125,
+                417.12957763671875,
+                405.151611328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 406,
+          "text": "sector leaders.",
+          "bbox": [
+            22.27199935913086,
+            406.04620361328125,
+            87.58488464355469,
+            417.151611328125
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "sector leaders.",
+              "origin": [
+                22.27199935913086,
+                415.05999755859375
+              ],
+              "bbox": [
+                22.27199935913086,
+                406.04620361328125,
+                87.58488464355469,
+                417.151611328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 428,
+          "text": "Healthcare Cooperation Program (HCP): The HCP focuses on improving healthcare",
+          "bbox": [
+            22.27199935913086,
+            427.6462097167969,
+            417.23358154296875,
+            438.7516174316406
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 18,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldItalicMT",
+              "color": 8288,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Healthcare Cooperation Program (HCP):",
+              "origin": [
+                22.27199935913086,
+                436.6600036621094
+              ],
+              "bbox": [
+                22.27199935913086,
+                427.6462097167969,
+                216.07667541503906,
+                438.7516174316406
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": " The HCP focuses on improving healthcare",
+              "origin": [
+                216.07667541503906,
+                436.6600036621094
+              ],
+              "bbox": [
+                216.07667541503906,
+                427.6462097167969,
+                417.23358154296875,
+                438.7516174316406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 440,
+          "text": "delivery by connecting industry and government resources to promote health system",
+          "bbox": [
+            22.27199935913086,
+            439.6462097167969,
+            417.0436706542969,
+            450.7516174316406
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "delivery by connecting industry and government resources to promote health system",
+              "origin": [
+                22.27199935913086,
+                448.6600036621094
+              ],
+              "bbox": [
+                22.27199935913086,
+                439.6462097167969,
+                417.0436706542969,
+                450.7516174316406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 452,
+          "text": "development, cooperation, and trade between the U.S. and China. The HCP has over 30",
+          "bbox": [
+            22.27199935913086,
+            451.6462097167969,
+            417.2777099609375,
+            462.7516174316406
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "development, cooperation, and trade between the U.S. and China. The HCP has over 30",
+              "origin": [
+                22.27199935913086,
+                460.6600036621094
+              ],
+              "bbox": [
+                22.27199935913086,
+                451.6462097167969,
+                417.2777099609375,
+                462.7516174316406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 464,
+          "text": "U.S. industry and 9 non-governmental members. USTDA supports HCP by partnering",
+          "bbox": [
+            22.27199935913086,
+            463.6462097167969,
+            417.14971923828125,
+            474.7516174316406
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "U.S. industry and 9 non-governmental members. USTDA supports HCP by partnering",
+              "origin": [
+                22.27199935913086,
+                472.6600036621094
+              ],
+              "bbox": [
+                22.27199935913086,
+                463.6462097167969,
+                417.14971923828125,
+                474.7516174316406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 476,
+          "text": "with U.S. universities and hospitals, alongside HCP member companies to host executive",
+          "bbox": [
+            22.27199935913086,
+            475.6462097167969,
+            417.1418151855469,
+            486.7516174316406
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "with U.S. universities and hospitals, alongside HCP member companies to host executive",
+              "origin": [
+                22.27199935913086,
+                484.6600036621094
+              ],
+              "bbox": [
+                22.27199935913086,
+                475.6462097167969,
+                417.1418151855469,
+                486.7516174316406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 488,
+          "text": "training programs in the United States and workshops in China.",
+          "bbox": [
+            22.27199935913086,
+            487.6462097167969,
+            300.7288818359375,
+            498.7516174316406
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "training programs in the United States and workshops in China.",
+              "origin": [
+                22.27199935913086,
+                496.6600036621094
+              ],
+              "bbox": [
+                22.27199935913086,
+                487.6462097167969,
+                300.7288818359375,
+                498.7516174316406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 509,
+          "text": "Agriculture & Food Partnership (AFP): The U.S.-China Agriculture & Food Partnership",
+          "bbox": [
+            22.27199935913086,
+            509.2462158203125,
+            417.25518798828125,
+            520.3516235351562
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 18,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldItalicMT",
+              "color": 8288,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Agriculture & Food Partnership (AFP):",
+              "origin": [
+                22.27199935913086,
+                518.260009765625
+              ],
+              "bbox": [
+                22.27199935913086,
+                509.2462158203125,
+                203.81668090820312,
+                520.3516235351562
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": " The U.S.-China Agriculture & Food Partnership",
+              "origin": [
+                203.81668090820312,
+                518.260009765625
+              ],
+              "bbox": [
+                203.81668090820312,
+                509.2462158203125,
+                417.25518798828125,
+                520.3516235351562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 521,
+          "text": "(AFP) is a public-private partnership that aims to enhance U.S.-China agricultural",
+          "bbox": [
+            22.27199935913086,
+            521.2462158203125,
+            417.1647033691406,
+            532.3516235351562
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "(AFP) is a public-private partnership that aims to enhance U.S.-China agricultural",
+              "origin": [
+                22.27199935913086,
+                530.260009765625
+              ],
+              "bbox": [
+                22.27199935913086,
+                521.2462158203125,
+                417.1647033691406,
+                532.3516235351562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 533,
+          "text": "cooperation. USTDA supports the AFP by acting as an advisor and supporting workshops",
+          "bbox": [
+            22.27199935913086,
+            533.2462158203125,
+            417.2890625,
+            544.3516235351562
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "cooperation. USTDA supports the AFP by acting as an advisor and supporting workshops",
+              "origin": [
+                22.27199935913086,
+                542.260009765625
+              ],
+              "bbox": [
+                22.27199935913086,
+                533.2462158203125,
+                417.2890625,
+                544.3516235351562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 545,
+          "text": "and reverse trade missions in the agribusiness, cold chain, and food safety sectors in",
+          "bbox": [
+            22.27199935913086,
+            545.2662353515625,
+            417.27777099609375,
+            556.3716430664062
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "and reverse trade missions in the agribusiness, cold chain, and food safety sectors in",
+              "origin": [
+                22.27199935913086,
+                554.280029296875
+              ],
+              "bbox": [
+                22.27199935913086,
+                545.2662353515625,
+                417.27777099609375,
+                556.3716430664062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 557,
+          "text": "China. In addition, USTDA is launching a fourth phase of its Agricultural Biotechnology",
+          "bbox": [
+            22.27199935913086,
+            557.2662353515625,
+            417.4286804199219,
+            568.3716430664062
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "China. In addition, USTDA is launching a fourth phase of its Agricultural Biotechnology",
+              "origin": [
+                22.27199935913086,
+                566.280029296875
+              ],
+              "bbox": [
+                22.27199935913086,
+                557.2662353515625,
+                417.4286804199219,
+                568.3716430664062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 569,
+          "text": "Training Program. This training will bring the public and private sectors together to",
+          "bbox": [
+            22.27199935913086,
+            569.2662353515625,
+            417.39776611328125,
+            580.3716430664062
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Training Program. This training will bring the public and private sectors together to",
+              "origin": [
+                22.27199935913086,
+                578.280029296875
+              ],
+              "bbox": [
+                22.27199935913086,
+                569.2662353515625,
+                417.39776611328125,
+                580.3716430664062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 581,
+          "text": "discuss new advances in agricultural biotechnology.",
+          "bbox": [
+            22.27199935913086,
+            581.2662353515625,
+            250.32887268066406,
+            592.3716430664062
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "discuss new advances in agricultural biotechnology.",
+              "origin": [
+                22.27199935913086,
+                590.280029296875
+              ],
+              "bbox": [
+                22.27199935913086,
+                581.2662353515625,
+                250.32887268066406,
+                592.3716430664062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 603,
+          "text": "Standards & Conformity Assessment: USTDA has partnered with the private sector in",
+          "bbox": [
+            22.27199935913086,
+            602.8662109375,
+            417.27777099609375,
+            613.9716186523438
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 18,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldItalicMT",
+              "color": 533573,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Standards & Conformity Assessment:",
+              "origin": [
+                22.27199935913086,
+                611.8800048828125
+              ],
+              "bbox": [
+                22.27199935913086,
+                602.8662109375,
+                202.37667846679688,
+                613.9716186523438
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": " USTDA has partnered with the private sector in",
+              "origin": [
+                202.37667846679688,
+                611.8800048828125
+              ],
+              "bbox": [
+                202.37667846679688,
+                602.8662109375,
+                417.27777099609375,
+                613.9716186523438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 615,
+          "text": "organizing over 60 workshops covering a wide range of sectoral topics related to",
+          "bbox": [
+            22.27199935913086,
+            614.8662109375,
+            417.39776611328125,
+            625.9716186523438
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "organizing over 60 workshops covering a wide range of sectoral topics related to",
+              "origin": [
+                22.27199935913086,
+                623.8800048828125
+              ],
+              "bbox": [
+                22.27199935913086,
+                614.8662109375,
+                417.39776611328125,
+                625.9716186523438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 627,
+          "text": "standards harmonization, conformity assessment programs, and technical regulations",
+          "bbox": [
+            22.27199935913086,
+            626.8662109375,
+            417.1751403808594,
+            637.9716186523438
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "standards harmonization, conformity assessment programs, and technical regulations",
+              "origin": [
+                22.27199935913086,
+                635.8800048828125
+              ],
+              "bbox": [
+                22.27199935913086,
+                626.8662109375,
+                417.1751403808594,
+                637.9716186523438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 639,
+          "text": "that impact U.S. industry in China.",
+          "bbox": [
+            22.27199935913086,
+            638.8662109375,
+            172.6688690185547,
+            649.9716186523438
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "that impact U.S. industry in China.",
+              "origin": [
+                22.27199935913086,
+                647.8800048828125
+              ],
+              "bbox": [
+                22.27199935913086,
+                638.8662109375,
+                172.6688690185547,
+                649.9716186523438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 673,
+          "text": "Connect with USTDA",
+          "bbox": [
+            454.7300109863281,
+            673.2861938476562,
+            554.5690307617188,
+            684.3916015625
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Connect with USTDA",
+              "origin": [
+                454.7300109863281,
+                682.2999877929688
+              ],
+              "bbox": [
+                454.7300109863281,
+                673.2861938476562,
+                554.5690307617188,
+                684.3916015625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 680,
+          "text": "Contact us for more information:",
+          "bbox": [
+            28.799999237060547,
+            679.7362060546875,
+            184.61424255371094,
+            690.8416137695312
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Contact us for more information:",
+              "origin": [
+                28.799999237060547,
+                688.75
+              ],
+              "bbox": [
+                28.799999237060547,
+                679.7362060546875,
+                184.61424255371094,
+                690.8416137695312
+              ]
+            }
+          ]
+        },
+        {
+          "y": 692,
+          "text": "E-mail: East_Asia@ustda.gov Phone: 703-875-4357",
+          "bbox": [
+            28.799999237060547,
+            691.7382202148438,
+            266.8187255859375,
+            702.8436279296875
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "E-mail: ",
+              "origin": [
+                28.799999237060547,
+                700.7520141601562
+              ],
+              "bbox": [
+                28.799999237060547,
+                691.7382202148438,
+                64.79544067382812,
+                702.8436279296875
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "East_Asia@ustda.gov",
+              "origin": [
+                64.8239974975586,
+                700.7520141601562
+              ],
+              "bbox": [
+                64.8239974975586,
+                691.7382202148438,
+                162.7805938720703,
+                702.8436279296875
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": " Phone: ",
+              "origin": [
+                162.7805938720703,
+                700.7520141601562
+              ],
+              "bbox": [
+                162.7805938720703,
+                691.7382202148438,
+                202.043212890625,
+                702.8436279296875
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "703-875-4357 ",
+              "origin": [
+                202.10000610351562,
+                700.7520141601562
+              ],
+              "bbox": [
+                202.10000610351562,
+                691.7382202148438,
+                266.8187255859375,
+                702.8436279296875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 701,
+          "text": "twitter.com/USTDA",
+          "bbox": [
+            454.7300109863281,
+            701.2421875,
+            539.6028442382812,
+            712.3475952148438
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "twitter.com/USTDA",
+              "origin": [
+                454.7300109863281,
+                710.2559814453125
+              ],
+              "bbox": [
+                454.7300109863281,
+                701.2421875,
+                539.6028442382812,
+                712.3475952148438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 715,
+          "text": "facebook.com/USTDA",
+          "bbox": [
+            454.7300109863281,
+            715.2822265625,
+            553.5133056640625,
+            726.3876342773438
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "facebook.com/USTDA",
+              "origin": [
+                454.7300109863281,
+                724.2960205078125
+              ],
+              "bbox": [
+                454.7300109863281,
+                715.2822265625,
+                553.5133056640625,
+                726.3876342773438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 716,
+          "text": "Carl B. Kress – East Asia Regional Director",
+          "bbox": [
+            28.799999237060547,
+            715.7382202148438,
+            223.86166381835938,
+            726.8436279296875
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Carl B. Kress ",
+              "origin": [
+                28.799999237060547,
+                724.7520141601562
+              ],
+              "bbox": [
+                28.799999237060547,
+                715.7382202148438,
+                94.07783508300781,
+                726.8436279296875
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "– East Asia Regional Director",
+              "origin": [
+                94.10399627685547,
+                724.7520141601562
+              ],
+              "bbox": [
+                94.10399627685547,
+                715.7382202148438,
+                223.86166381835938,
+                726.8436279296875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 728,
+          "text": "Verinda Fike – East Asia Country Manager",
+          "bbox": [
+            28.799999237060547,
+            727.76220703125,
+            220.48574829101562,
+            738.8676147460938
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Verinda Fike ",
+              "origin": [
+                28.799999237060547,
+                736.7760009765625
+              ],
+              "bbox": [
+                28.799999237060547,
+                727.76220703125,
+                90.72132873535156,
+                738.8676147460938
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "– East Asia Country Manager",
+              "origin": [
+                90.74400329589844,
+                736.7760009765625
+              ],
+              "bbox": [
+                90.74400329589844,
+                727.76220703125,
+                220.48574829101562,
+                738.8676147460938
+              ]
+            }
+          ]
+        },
+        {
+          "y": 729,
+          "text": "youtube.com/USTDAvideo",
+          "bbox": [
+            454.7300109863281,
+            729.3222045898438,
+            571.8690185546875,
+            740.4276123046875
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "youtube.com/USTDAvideo",
+              "origin": [
+                454.7300109863281,
+                738.3359985351562
+              ],
+              "bbox": [
+                454.7300109863281,
+                729.3222045898438,
+                571.8690185546875,
+                740.4276123046875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 740,
+          "text": "Susan Shifflett – East Asia Country Manager",
+          "bbox": [
+            28.799999237060547,
+            739.76220703125,
+            231.16221618652344,
+            750.8676147460938
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Susan Shifflett ",
+              "origin": [
+                28.799999237060547,
+                748.7760009765625
+              ],
+              "bbox": [
+                28.799999237060547,
+                739.76220703125,
+                101.32872772216797,
+                750.8676147460938
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "– East Asia Country Manager",
+              "origin": [
+                101.41999816894531,
+                748.7760009765625
+              ],
+              "bbox": [
+                101.41999816894531,
+                739.76220703125,
+                231.16221618652344,
+                750.8676147460938
+              ]
+            }
+          ]
+        },
+        {
+          "y": 743,
+          "text": "flickr.com/USTDAphotos",
+          "bbox": [
+            454.7300109863281,
+            743.2421875,
+            563.7542724609375,
+            754.3475952148438
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "flickr.com/USTDAphotos",
+              "origin": [
+                454.7300109863281,
+                752.2559814453125
+              ],
+              "bbox": [
+                454.7300109863281,
+                743.2421875,
+                563.7542724609375,
+                754.3475952148438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 752,
+          "text": "Steve Winkates – Director of Program Management, U.S. Embassy",
+          "bbox": [
+            28.799999237060547,
+            751.76220703125,
+            329.2210998535156,
+            762.8676147460938
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Steve Winkates –",
+              "origin": [
+                28.799999237060547,
+                760.7760009765625
+              ],
+              "bbox": [
+                28.799999237060547,
+                751.76220703125,
+                110.0777587890625,
+                762.8676147460938
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": " Director of Program Management, U.S. Embassy",
+              "origin": [
+                110.0777587890625,
+                760.7760009765625
+              ],
+              "bbox": [
+                110.0777587890625,
+                751.76220703125,
+                329.2210998535156,
+                762.8676147460938
+              ]
+            }
+          ]
+        },
+        {
+          "y": 764,
+          "text": "Xiaolei Wan – USTDA China Representative",
+          "bbox": [
+            28.799999237060547,
+            763.76220703125,
+            227.8929901123047,
+            774.8676147460938
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "Xiaolei Wan",
+              "origin": [
+                28.799999237060547,
+                772.7760009765625
+              ],
+              "bbox": [
+                28.799999237060547,
+                763.76220703125,
+                84.69551086425781,
+                774.8676147460938
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 4476765,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": " – USTDA China Representative",
+              "origin": [
+                84.69551086425781,
+                772.7760009765625
+              ],
+              "bbox": [
+                84.69551086425781,
+                763.76220703125,
+                227.8929901123047,
+                774.8676147460938
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

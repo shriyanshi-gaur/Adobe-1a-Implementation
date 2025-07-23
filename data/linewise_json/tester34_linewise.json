@@ -1,0 +1,6612 @@
+{
+  "filename": "tester34.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 73,
+          "text": "A Brief Introduction to Artificial Intelligence",
+          "bbox": [
+            84.94725799560547,
+            72.97705078125,
+            524.5215454101562,
+            98.44775390625
+          ],
+          "spans": [
+            {
+              "size": 23.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "A Brief Introduction to Artificial Intelligence",
+              "origin": [
+                84.94725799560547,
+                93.47265625
+              ],
+              "bbox": [
+                84.94725799560547,
+                72.97705078125,
+                524.5215454101562,
+                98.44775390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 99,
+          "text": "What is AI and how is it going to shape the future",
+          "bbox": [
+            167.31488037109375,
+            99.04248046875,
+            444.4376525878906,
+            114.54638671875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPS-ItalicMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "What is AI and how is it going to shape the future",
+              "origin": [
+                167.31488037109375,
+                111.51806640625
+              ],
+              "bbox": [
+                167.31488037109375,
+                99.04248046875,
+                444.4376525878906,
+                114.54638671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 115,
+          "text": "By Dibbyo Saha, Undergraduate Student, Computer Science, Ryerson University",
+          "bbox": [
+            85.76678466796875,
+            115.14111328125,
+            540.0037841796875,
+            130.64501953125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "By Dibbyo Saha, Undergraduate Student, Computer Science, Ryerson University",
+              "origin": [
+                85.76678466796875,
+                127.61669921875
+              ],
+              "bbox": [
+                85.76678466796875,
+                115.14111328125,
+                540.0037841796875,
+                130.64501953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 152,
+          "text": "What is Artificial Intelligence?",
+          "bbox": [
+            72.0,
+            152.02294921875,
+            281.25543212890625,
+            169.74169921875
+          ],
+          "spans": [
+            {
+              "size": 16.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "What is Artificial Intelligence?",
+              "origin": [
+                72.0,
+                166.28076171875
+              ],
+              "bbox": [
+                72.0,
+                152.02294921875,
+                281.25543212890625,
+                169.74169921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 507,
+          "text": "Image by Gerd Altmann from Pixabay",
+          "bbox": [
+            72.0,
+            507.43896484375,
+            207.86898803710938,
+            516.43896484375
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 1645350,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Image by Gerd Altmann from Pixabay",
+              "origin": [
+                72.0,
+                514.18896484375
+              ],
+              "bbox": [
+                72.0,
+                507.43896484375,
+                207.86898803710938,
+                516.43896484375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 525,
+          "text": "Generally speaking, Artificial Intelligence is a computing concept that helps a",
+          "bbox": [
+            72.0,
+            525.0830078125,
+            539.8323364257812,
+            540.5869140625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Generally speaking, Artificial Intelligence is a computing concept that helps a",
+              "origin": [
+                72.0,
+                537.55859375
+              ],
+              "bbox": [
+                72.0,
+                525.0830078125,
+                539.8323364257812,
+                540.5869140625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 541,
+          "text": "machine think and solve complex problems as we humans do with our intelligence.",
+          "bbox": [
+            72.0,
+            541.181640625,
+            539.41162109375,
+            556.685546875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "machine think and solve complex problems as we humans do with our intelligence.",
+              "origin": [
+                72.0,
+                553.6572265625
+              ],
+              "bbox": [
+                72.0,
+                541.181640625,
+                539.41162109375,
+                556.685546875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 557,
+          "text": "For example, we perform a task, make mistakes and learn from our mistakes (At",
+          "bbox": [
+            72.0,
+            557.2802734375,
+            539.5870971679688,
+            572.7841796875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "For example, we perform a task, make mistakes and learn from our mistakes (At",
+              "origin": [
+                72.0,
+                569.755859375
+              ],
+              "bbox": [
+                72.0,
+                557.2802734375,
+                539.5870971679688,
+                572.7841796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 573,
+          "text": "least the wise ones of us do!). Likewise, an AI or Artificial Intelligence is supposed",
+          "bbox": [
+            72.0,
+            573.37890625,
+            539.8114624023438,
+            588.8828125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "least the wise ones of us do!). Likewise, an AI or Artificial Intelligence is supposed",
+              "origin": [
+                72.0,
+                585.8544921875
+              ],
+              "bbox": [
+                72.0,
+                573.37890625,
+                539.8114624023438,
+                588.8828125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 589,
+          "text": "to work on a problem, make some mistakes in solving the problem and learn from",
+          "bbox": [
+            72.0,
+            589.4775390625,
+            539.928955078125,
+            604.9814453125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "to work on a problem, make some mistakes in solving the problem and learn from",
+              "origin": [
+                72.0,
+                601.953125
+              ],
+              "bbox": [
+                72.0,
+                589.4775390625,
+                539.928955078125,
+                604.9814453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 606,
+          "text": "the problems in a self-correcting manner as a part of its self-improvement. Or in",
+          "bbox": [
+            72.0,
+            605.576171875,
+            539.8824462890625,
+            621.080078125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "the problems in a self-correcting manner as a part of its self-improvement. Or in",
+              "origin": [
+                72.0,
+                618.0517578125
+              ],
+              "bbox": [
+                72.0,
+                605.576171875,
+                539.8824462890625,
+                621.080078125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 622,
+          "text": "other words, think of this like playing a game of chess. Every bad move you make",
+          "bbox": [
+            72.0,
+            621.6748046875,
+            539.9701538085938,
+            637.1787109375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "other words, think of this like playing a game of chess. Every bad move you make",
+              "origin": [
+                72.0,
+                634.150390625
+              ],
+              "bbox": [
+                72.0,
+                621.6748046875,
+                539.9701538085938,
+                637.1787109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 638,
+          "text": "reduces your chances of winning the game. So, every time you lose against your",
+          "bbox": [
+            72.0,
+            637.7734375,
+            539.56982421875,
+            653.27734375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "reduces your chances of winning the game. So, every time you lose against your",
+              "origin": [
+                72.0,
+                650.2490234375
+              ],
+              "bbox": [
+                72.0,
+                637.7734375,
+                539.56982421875,
+                653.27734375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 654,
+          "text": "friend, you try remembering the moves you made which you shouldn’t have and",
+          "bbox": [
+            72.0,
+            653.8720703125,
+            539.3319702148438,
+            669.3759765625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "friend, you try remembering the moves you made which you shouldn’t have and",
+              "origin": [
+                72.0,
+                666.34765625
+              ],
+              "bbox": [
+                72.0,
+                653.8720703125,
+                539.3319702148438,
+                669.3759765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 670,
+          "text": "apply that knowledge in your next game and so on. Eventually, you get better and",
+          "bbox": [
+            72.0,
+            669.970703125,
+            539.333251953125,
+            685.474609375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "apply that knowledge in your next game and so on. Eventually, you get better and",
+              "origin": [
+                72.0,
+                682.4462890625
+              ],
+              "bbox": [
+                72.0,
+                669.970703125,
+                539.333251953125,
+                685.474609375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 686,
+          "text": "your precision, or in this case probability of winning or solving a problem",
+          "bbox": [
+            72.0,
+            686.0693359375,
+            539.8711547851562,
+            701.5732421875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "your precision, or in this case probability of winning or solving a problem",
+              "origin": [
+                72.0,
+                698.544921875
+              ],
+              "bbox": [
+                72.0,
+                686.0693359375,
+                539.8711547851562,
+                701.5732421875
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 73,
+          "text": "improves by a noteworthy extent. AI is programmed to do something similar to",
+          "bbox": [
+            72.0,
+            72.5947265625,
+            539.4306640625,
+            88.0986328125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "improves by a noteworthy extent. AI is programmed to do something similar to",
+              "origin": [
+                72.0,
+                85.0703125
+              ],
+              "bbox": [
+                72.0,
+                72.5947265625,
+                539.4306640625,
+                88.0986328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 89,
+          "text": "that!",
+          "bbox": [
+            72.0,
+            88.693359375,
+            97.64344787597656,
+            104.197265625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "that!",
+              "origin": [
+                72.0,
+                101.1689453125
+              ],
+              "bbox": [
+                72.0,
+                88.693359375,
+                97.64344787597656,
+                104.197265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 105,
+          "text": "Artificial Intelligence vs Traditional Robotics",
+          "bbox": [
+            72.0,
+            104.876953125,
+            379.7517395019531,
+            122.595703125
+          ],
+          "spans": [
+            {
+              "size": 16.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Artificial Intelligence vs Traditional Robotics",
+              "origin": [
+                72.0,
+                119.134765625
+              ],
+              "bbox": [
+                72.0,
+                104.876953125,
+                379.7517395019531,
+                122.595703125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 341,
+          "text": "Photo by Possessed Photography on Unsplash",
+          "bbox": [
+            72.0,
+            340.69140625,
+            239.2025909423828,
+            349.69140625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Photo by Possessed Photography on Unsplash",
+              "origin": [
+                72.0,
+                347.44140625
+              ],
+              "bbox": [
+                72.0,
+                340.69140625,
+                239.2025909423828,
+                349.69140625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 366,
+          "text": "When we hear the word “Robot”, an image of a metal box with creepy eyes and",
+          "bbox": [
+            72.0,
+            366.384765625,
+            539.80419921875,
+            381.888671875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "When we hear the word “Robot”, an image of a metal box with creepy eyes and",
+              "origin": [
+                72.0,
+                378.8603515625
+              ],
+              "bbox": [
+                72.0,
+                366.384765625,
+                539.80419921875,
+                381.888671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 382,
+          "text": "speaking in a mechanical voice pops into our head. I mean that’s what we have",
+          "bbox": [
+            72.0,
+            382.4833984375,
+            539.2770385742188,
+            397.9873046875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "speaking in a mechanical voice pops into our head. I mean that’s what we have",
+              "origin": [
+                72.0,
+                394.958984375
+              ],
+              "bbox": [
+                72.0,
+                382.4833984375,
+                539.2770385742188,
+                397.9873046875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 399,
+          "text": "been watching in television for years, isn’t it? And to a certain degree we are right.",
+          "bbox": [
+            72.0,
+            398.58203125,
+            539.7607421875,
+            414.0859375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "been watching in television for years, isn’t it? And to a certain degree we are right.",
+              "origin": [
+                72.0,
+                411.0576171875
+              ],
+              "bbox": [
+                72.0,
+                398.58203125,
+                539.7607421875,
+                414.0859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 415,
+          "text": "Traditional robotics has been perceived by pop culture as an arena that creates",
+          "bbox": [
+            72.0,
+            414.6806640625,
+            539.7125244140625,
+            430.1845703125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Traditional robotics has been perceived by pop culture as an arena that creates",
+              "origin": [
+                72.0,
+                427.15625
+              ],
+              "bbox": [
+                72.0,
+                414.6806640625,
+                539.7125244140625,
+                430.1845703125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 431,
+          "text": "humanlike machines to work for us as saviours and sometimes as super-villains",
+          "bbox": [
+            72.0,
+            430.779296875,
+            539.9124145507812,
+            446.283203125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "humanlike machines to work for us as saviours and sometimes as super-villains",
+              "origin": [
+                72.0,
+                443.2548828125
+              ],
+              "bbox": [
+                72.0,
+                430.779296875,
+                539.9124145507812,
+                446.283203125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 447,
+          "text": "bringing in a cascade of tyranny into the human world. However, real life robots",
+          "bbox": [
+            72.0,
+            446.8779296875,
+            539.7727661132812,
+            462.3818359375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "bringing in a cascade of tyranny into the human world. However, real life robots",
+              "origin": [
+                72.0,
+                459.353515625
+              ],
+              "bbox": [
+                72.0,
+                446.8779296875,
+                539.7727661132812,
+                462.3818359375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 463,
+          "text": "aren’t as humanlike as we want them to be, yet. They are programmed in a specific",
+          "bbox": [
+            72.0,
+            462.9765625,
+            539.8152465820312,
+            478.48046875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "aren’t as humanlike as we want them to be, yet. They are programmed in a specific",
+              "origin": [
+                72.0,
+                475.4521484375
+              ],
+              "bbox": [
+                72.0,
+                462.9765625,
+                539.8152465820312,
+                478.48046875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 479,
+          "text": "way to only execute tasks that it has been programmed to perform.",
+          "bbox": [
+            72.0,
+            479.0751953125,
+            445.0153503417969,
+            494.5791015625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "way to only execute tasks that it has been programmed to perform.",
+              "origin": [
+                72.0,
+                491.55078125
+              ],
+              "bbox": [
+                72.0,
+                479.0751953125,
+                445.0153503417969,
+                494.5791015625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 511,
+          "text": "Imagine a self-driving car that has been designed to drive you on its own according",
+          "bbox": [
+            72.0,
+            511.2724609375,
+            539.7689208984375,
+            526.7763671875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Imagine a self-driving car that has been designed to drive you on its own according",
+              "origin": [
+                72.0,
+                523.748046875
+              ],
+              "bbox": [
+                72.0,
+                511.2724609375,
+                539.7689208984375,
+                526.7763671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 527,
+          "text": "to where you instruct it to take you. Now for a traditional robot, the car is going to",
+          "bbox": [
+            72.0,
+            527.37109375,
+            539.9752807617188,
+            542.875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "to where you instruct it to take you. Now for a traditional robot, the car is going to",
+              "origin": [
+                72.0,
+                539.8466796875
+              ],
+              "bbox": [
+                72.0,
+                527.37109375,
+                539.9752807617188,
+                542.875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 543,
+          "text": "go through the exact road that it was programmed to select for a certain destination",
+          "bbox": [
+            72.0,
+            543.4697265625,
+            539.697509765625,
+            558.9736328125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "go through the exact road that it was programmed to select for a certain destination",
+              "origin": [
+                72.0,
+                555.9453125
+              ],
+              "bbox": [
+                72.0,
+                543.4697265625,
+                539.697509765625,
+                558.9736328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 560,
+          "text": "by its creators, possibly without the knowledge of traffic and cause accidents.",
+          "bbox": [
+            72.0,
+            559.568359375,
+            539.516357421875,
+            575.072265625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "by its creators, possibly without the knowledge of traffic and cause accidents.",
+              "origin": [
+                72.0,
+                572.0439453125
+              ],
+              "bbox": [
+                72.0,
+                559.568359375,
+                539.516357421875,
+                575.072265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 576,
+          "text": "However, a human driver would have chosen the shortest path or check which",
+          "bbox": [
+            72.0,
+            575.6669921875,
+            539.3345947265625,
+            591.1708984375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "However, a human driver would have chosen the shortest path or check which",
+              "origin": [
+                72.0,
+                588.142578125
+              ],
+              "bbox": [
+                72.0,
+                575.6669921875,
+                539.3345947265625,
+                591.1708984375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 592,
+          "text": "paths have the least traffic today and would be the most convenient path for that",
+          "bbox": [
+            72.0,
+            591.765625,
+            539.636962890625,
+            607.26953125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "paths have the least traffic today and would be the most convenient path for that",
+              "origin": [
+                72.0,
+                604.2412109375
+              ],
+              "bbox": [
+                72.0,
+                591.765625,
+                539.636962890625,
+                607.26953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 608,
+          "text": "particular destination. That is the exact humanlike creative thinking the traditional",
+          "bbox": [
+            72.0,
+            607.8642578125,
+            539.899169921875,
+            623.3681640625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "particular destination. That is the exact humanlike creative thinking the traditional",
+              "origin": [
+                72.0,
+                620.33984375
+              ],
+              "bbox": [
+                72.0,
+                607.8642578125,
+                539.899169921875,
+                623.3681640625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 624,
+          "text": "robots lack! They are fixed in their own “not so smart” way and are largely",
+          "bbox": [
+            72.0,
+            623.962890625,
+            539.3882446289062,
+            639.466796875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "robots lack! They are fixed in their own “not so smart” way and are largely",
+              "origin": [
+                72.0,
+                636.4384765625
+              ],
+              "bbox": [
+                72.0,
+                623.962890625,
+                539.3882446289062,
+                639.466796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 640,
+          "text": "dependent on the program they are built on and the instructions that they are being",
+          "bbox": [
+            72.0,
+            640.0615234375,
+            539.6094360351562,
+            655.5654296875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "dependent on the program they are built on and the instructions that they are being",
+              "origin": [
+                72.0,
+                652.537109375
+              ],
+              "bbox": [
+                72.0,
+                640.0615234375,
+                539.6094360351562,
+                655.5654296875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 656,
+          "text": "given. If a certain instruction doesn’t coincide with their program, the robot won’t",
+          "bbox": [
+            72.0,
+            656.16015625,
+            539.7744750976562,
+            671.6640625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "given. If a certain instruction doesn’t coincide with their program, the robot won’t",
+              "origin": [
+                72.0,
+                668.6357421875
+              ],
+              "bbox": [
+                72.0,
+                656.16015625,
+                539.7744750976562,
+                671.6640625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 672,
+          "text": "even be able to run, let alone going the extra step of being creative. This is the",
+          "bbox": [
+            72.0,
+            672.2587890625,
+            539.5005493164062,
+            687.7626953125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "even be able to run, let alone going the extra step of being creative. This is the",
+              "origin": [
+                72.0,
+                684.734375
+              ],
+              "bbox": [
+                72.0,
+                672.2587890625,
+                539.5005493164062,
+                687.7626953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 688,
+          "text": "limitation of traditional robots Artificial Intelligence is being developed to",
+          "bbox": [
+            72.0,
+            688.357421875,
+            539.9121704101562,
+            703.861328125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "limitation of traditional robots Artificial Intelligence is being developed to",
+              "origin": [
+                72.0,
+                700.8330078125
+              ],
+              "bbox": [
+                72.0,
+                688.357421875,
+                539.9121704101562,
+                703.861328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 704,
+          "text": "overcome. Unlike the conventional “bips and bops”, a good AI will simulate the",
+          "bbox": [
+            72.0,
+            704.4560546875,
+            539.9471435546875,
+            719.9599609375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "overcome. Unlike the conventional “bips and bops”, a good AI will simulate the",
+              "origin": [
+                72.0,
+                716.931640625
+              ],
+              "bbox": [
+                72.0,
+                704.4560546875,
+                539.9471435546875,
+                719.9599609375
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 73,
+          "text": "complicated and intuitive sense of thinking and problem-solving abilities of the",
+          "bbox": [
+            72.0,
+            72.5947265625,
+            539.8013305664062,
+            88.0986328125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "complicated and intuitive sense of thinking and problem-solving abilities of the",
+              "origin": [
+                72.0,
+                85.0703125
+              ],
+              "bbox": [
+                72.0,
+                72.5947265625,
+                539.8013305664062,
+                88.0986328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 89,
+          "text": "human mind.",
+          "bbox": [
+            72.0,
+            88.693359375,
+            145.84353637695312,
+            104.197265625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "human mind.",
+              "origin": [
+                72.0,
+                101.1689453125
+              ],
+              "bbox": [
+                72.0,
+                88.693359375,
+                145.84353637695312,
+                104.197265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 121,
+          "text": "A Brief History of AI",
+          "bbox": [
+            72.0,
+            120.9755859375,
+            215.057373046875,
+            138.6943359375
+          ],
+          "spans": [
+            {
+              "size": 16.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "A Brief History of AI",
+              "origin": [
+                72.0,
+                135.2333984375
+              ],
+              "bbox": [
+                72.0,
+                120.9755859375,
+                215.057373046875,
+                138.6943359375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 155,
+          "text": "The concept of Artificial Intelligence is not as modern as we think it is. This traces",
+          "bbox": [
+            72.0,
+            155.3876953125,
+            539.6571655273438,
+            170.8916015625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "The concept of Artificial Intelligence is not as modern as we think it is. This traces",
+              "origin": [
+                72.0,
+                167.86328125
+              ],
+              "bbox": [
+                72.0,
+                155.3876953125,
+                539.6571655273438,
+                170.8916015625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 171,
+          "text": "back to as early as 1950 when Alan Turing invented the Turing test. Then the first",
+          "bbox": [
+            72.0,
+            171.486328125,
+            539.3027954101562,
+            186.990234375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "back to as early as 1950 when Alan Turing invented the Turing test. Then the first",
+              "origin": [
+                72.0,
+                183.9619140625
+              ],
+              "bbox": [
+                72.0,
+                171.486328125,
+                539.3027954101562,
+                186.990234375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 187,
+          "text": "[1]",
+          "bbox": [
+            416.6126708984375,
+            187.2626495361328,
+            428.49505615234375,
+            201.87753295898438
+          ],
+          "spans": [
+            {
+              "size": 8.399999618530273,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": " ",
+              "origin": [
+                416.6126708984375,
+                200.060546875
+              ],
+              "bbox": [
+                416.6126708984375,
+                187.2626495361328,
+                418.7084045410156,
+                201.87753295898438
+              ]
+            },
+            {
+              "size": 8.399999618530273,
+              "flags": 21,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "[1]",
+              "origin": [
+                418.7084045410156,
+                194.7480010986328
+              ],
+              "bbox": [
+                418.7084045410156,
+                187.2626495361328,
+                428.49505615234375,
+                196.5649871826172
+              ]
+            }
+          ]
+        },
+        {
+          "y": 188,
+          "text": "chatbot computer program, ELIZA, was created in the 1960s. IBM deep blue was",
+          "bbox": [
+            72.0,
+            187.5849609375,
+            539.7814331054688,
+            203.0888671875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "chatbot computer program, ELIZA, was created in the 1960s.",
+              "origin": [
+                72.0,
+                200.060546875
+              ],
+              "bbox": [
+                72.0,
+                187.5849609375,
+                416.6126708984375,
+                203.0888671875
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "IBM deep blue was",
+              "origin": [
+                430.58966064453125,
+                200.060546875
+              ],
+              "bbox": [
+                430.58966064453125,
+                187.5849609375,
+                539.7814331054688,
+                203.0888671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 204,
+          "text": "a chess computer made in 1977 beat a world chess champion in two out of six",
+          "bbox": [
+            72.0,
+            203.68359375,
+            539.87841796875,
+            219.1875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "a chess computer made in 1977 beat a world chess champion in two out of six",
+              "origin": [
+                72.0,
+                216.1591796875
+              ],
+              "bbox": [
+                72.0,
+                203.68359375,
+                539.87841796875,
+                219.1875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 219,
+          "text": "[2]",
+          "bbox": [
+            471.28436279296875,
+            219.4599151611328,
+            483.1667175292969,
+            234.07479858398438
+          ],
+          "spans": [
+            {
+              "size": 8.399999618530273,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": " ",
+              "origin": [
+                471.28436279296875,
+                232.2578125
+              ],
+              "bbox": [
+                471.28436279296875,
+                219.4599151611328,
+                473.38006591796875,
+                234.07479858398438
+              ]
+            },
+            {
+              "size": 8.399999618530273,
+              "flags": 21,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "[2]",
+              "origin": [
+                473.38006591796875,
+                226.9452667236328
+              ],
+              "bbox": [
+                473.38006591796875,
+                219.4599151611328,
+                483.1667175292969,
+                228.7622528076172
+              ]
+            }
+          ]
+        },
+        {
+          "y": 220,
+          "text": "games, one won by the champion and the other three games were draw.",
+          "bbox": [
+            72.0,
+            219.7822265625,
+            471.28436279296875,
+            235.2861328125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "games, one won by the champion and the other three games were draw.",
+              "origin": [
+                72.0,
+                232.2578125
+              ],
+              "bbox": [
+                72.0,
+                219.7822265625,
+                471.28436279296875,
+                235.2861328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 236,
+          "text": "In 2011, Siri was announced as a digital assistant by Apple. [3]",
+          "bbox": [
+            72.0,
+            235.5585479736328,
+            416.7860412597656,
+            251.384765625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "In 2011, Siri was announced as a digital assistant by Apple.",
+              "origin": [
+                72.0,
+                248.3564453125
+              ],
+              "bbox": [
+                72.0,
+                235.880859375,
+                404.1311950683594,
+                251.384765625
+              ]
+            },
+            {
+              "size": 8.399999618530273,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": " ",
+              "origin": [
+                404.1311950683594,
+                248.3564453125
+              ],
+              "bbox": [
+                404.1311950683594,
+                235.5585479736328,
+                406.9993896484375,
+                250.17343139648438
+              ]
+            },
+            {
+              "size": 8.399999618530273,
+              "flags": 21,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "[3]",
+              "origin": [
+                406.9993896484375,
+                243.0438995361328
+              ],
+              "bbox": [
+                406.9993896484375,
+                235.5585479736328,
+                416.7860412597656,
+                244.8608856201172
+              ]
+            }
+          ]
+        },
+        {
+          "y": 252,
+          "text": "Elon Musk and some others founded OpenAI in 2015. [4][5]",
+          "bbox": [
+            72.0,
+            251.65716552734375,
+            395.0804748535156,
+            267.4833984375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Elon Musk and some others founded OpenAI in 2015.",
+              "origin": [
+                72.0,
+                264.455078125
+              ],
+              "bbox": [
+                72.0,
+                251.9794921875,
+                375.5121765136719,
+                267.4833984375
+              ]
+            },
+            {
+              "size": 8.399999618530273,
+              "flags": 21,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "[4][5]",
+              "origin": [
+                375.5102233886719,
+                259.14251708984375
+              ],
+              "bbox": [
+                375.5102233886719,
+                251.65716552734375,
+                395.0804748535156,
+                260.9595031738281
+              ]
+            }
+          ]
+        },
+        {
+          "y": 300,
+          "text": "Artificial Intelligence vs Machine Learning vs Deep Learning",
+          "bbox": [
+            72.0,
+            300.3603515625,
+            490.07977294921875,
+            318.0791015625
+          ],
+          "spans": [
+            {
+              "size": 16.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Artificial Intelligence vs Machine Learning vs Deep Learning",
+              "origin": [
+                72.0,
+                314.6181640625
+              ],
+              "bbox": [
+                72.0,
+                300.3603515625,
+                490.07977294921875,
+                318.0791015625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 520,
+          "text": "Image by Gerd Altmann from Pixabay",
+          "bbox": [
+            72.0,
+            520.4248046875,
+            209.89971923828125,
+            529.4248046875
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 1645350,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Image by Gerd Altmann from Pixabay ",
+              "origin": [
+                72.0,
+                527.1748046875
+              ],
+              "bbox": [
+                72.0,
+                520.4248046875,
+                209.89971923828125,
+                529.4248046875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 546,
+          "text": "Up until now in this article we were discussing about Artificial Intelligence as a",
+          "bbox": [
+            72.0,
+            546.1181640625,
+            539.46435546875,
+            561.6220703125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Up until now in this article we were discussing about Artificial Intelligence as a",
+              "origin": [
+                72.0,
+                558.59375
+              ],
+              "bbox": [
+                72.0,
+                546.1181640625,
+                539.46435546875,
+                561.6220703125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 562,
+          "text": "process that is going to help machines achieve a humanlike mental behaviour. AI is",
+          "bbox": [
+            72.0,
+            562.216796875,
+            539.779052734375,
+            577.720703125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "process that is going to help machines achieve a humanlike mental behaviour. AI is",
+              "origin": [
+                72.0,
+                574.6923828125
+              ],
+              "bbox": [
+                72.0,
+                562.216796875,
+                539.779052734375,
+                577.720703125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 578,
+          "text": "a vast and growing field which also includes a lot more subfields like machine",
+          "bbox": [
+            72.0,
+            578.3154296875,
+            539.9529418945312,
+            593.8193359375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "a vast and growing field which also includes a lot more subfields like machine",
+              "origin": [
+                72.0,
+                590.791015625
+              ],
+              "bbox": [
+                72.0,
+                578.3154296875,
+                539.9529418945312,
+                593.8193359375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 594,
+          "text": "learning and deep learning and so on. Machine learning is in a nutshell the concept",
+          "bbox": [
+            72.0,
+            594.4140625,
+            539.2935791015625,
+            609.91796875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "learning and deep learning and so on. Machine learning is in a nutshell the concept",
+              "origin": [
+                72.0,
+                606.8896484375
+              ],
+              "bbox": [
+                72.0,
+                594.4140625,
+                539.2935791015625,
+                609.91796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 611,
+          "text": "of computers learning to improve their predictions and creativity to resemble a",
+          "bbox": [
+            72.0,
+            610.5126953125,
+            539.9766235351562,
+            626.0166015625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "of computers learning to improve their predictions and creativity to resemble a",
+              "origin": [
+                72.0,
+                622.98828125
+              ],
+              "bbox": [
+                72.0,
+                610.5126953125,
+                539.9766235351562,
+                626.0166015625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 627,
+          "text": "humanlike thinking process using algorithms. Machine learning involves a number",
+          "bbox": [
+            72.0,
+            626.611328125,
+            539.735595703125,
+            642.115234375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "humanlike thinking process using algorithms. Machine learning involves a number",
+              "origin": [
+                72.0,
+                639.0869140625
+              ],
+              "bbox": [
+                72.0,
+                626.611328125,
+                539.735595703125,
+                642.115234375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 643,
+          "text": "of learning processes such as:",
+          "bbox": [
+            72.0,
+            642.7099609375,
+            238.3052215576172,
+            658.2138671875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "of learning processes such as:",
+              "origin": [
+                72.0,
+                655.185546875
+              ],
+              "bbox": [
+                72.0,
+                642.7099609375,
+                238.3052215576172,
+                658.2138671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 675,
+          "text": "Supervised learning : Supervised learning is a process where our machines",
+          "bbox": [
+            108.0,
+            674.9072265625,
+            539.880126953125,
+            690.4111328125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPS-ItalicMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Supervised learning",
+              "origin": [
+                108.0,
+                687.3828125
+              ],
+              "bbox": [
+                108.0,
+                674.9072265625,
+                222.56033325195312,
+                690.4111328125
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": ": Supervised learning is a process where our machines",
+              "origin": [
+                222.55642700195312,
+                687.3828125
+              ],
+              "bbox": [
+                222.55642700195312,
+                674.9072265625,
+                539.880126953125,
+                690.4111328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 691,
+          "text": "are designed to learn with the feeding of labelled data. In this process our machine",
+          "bbox": [
+            72.0,
+            691.005859375,
+            539.9443969726562,
+            706.509765625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "are designed to learn with the feeding of labelled data. In this process our machine",
+              "origin": [
+                72.0,
+                703.4814453125
+              ],
+              "bbox": [
+                72.0,
+                691.005859375,
+                539.9443969726562,
+                706.509765625
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 73,
+          "text": "is being trained by giving it access to a huge amount of data and training the",
+          "bbox": [
+            72.0,
+            72.5947265625,
+            539.5405883789062,
+            88.0986328125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "is being trained by giving it access to a huge amount of data and training the",
+              "origin": [
+                72.0,
+                85.0703125
+              ],
+              "bbox": [
+                72.0,
+                72.5947265625,
+                539.5405883789062,
+                88.0986328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 89,
+          "text": "machine to analyze it. For instance, the machine is given a number of images of",
+          "bbox": [
+            72.0,
+            88.693359375,
+            539.8301391601562,
+            104.197265625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "machine to analyze it. For instance, the machine is given a number of images of",
+              "origin": [
+                72.0,
+                101.1689453125
+              ],
+              "bbox": [
+                72.0,
+                88.693359375,
+                539.8301391601562,
+                104.197265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 105,
+          "text": "dogs taken from many different angles with colour variations, breeds and many",
+          "bbox": [
+            72.0,
+            104.7919921875,
+            539.5125122070312,
+            120.2958984375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "dogs taken from many different angles with colour variations, breeds and many",
+              "origin": [
+                72.0,
+                117.267578125
+              ],
+              "bbox": [
+                72.0,
+                104.7919921875,
+                539.5125122070312,
+                120.2958984375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 121,
+          "text": "more diversity. So that, the machine learns to analyze data from these diverse",
+          "bbox": [
+            72.0,
+            120.890625,
+            539.9539184570312,
+            136.39453125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "more diversity. So that, the machine learns to analyze data from these diverse",
+              "origin": [
+                72.0,
+                133.3662109375
+              ],
+              "bbox": [
+                72.0,
+                120.890625,
+                539.9539184570312,
+                136.39453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 137,
+          "text": "images of dogs and the “insight” of machines keep increasing and soon the",
+          "bbox": [
+            72.0,
+            136.9892578125,
+            539.6550903320312,
+            152.4931640625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "images of dogs and the “insight” of machines keep increasing and soon the",
+              "origin": [
+                72.0,
+                149.46484375
+              ],
+              "bbox": [
+                72.0,
+                136.9892578125,
+                539.6550903320312,
+                152.4931640625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 153,
+          "text": "machine can predict if it’s a dog from a whole different picture which was not even",
+          "bbox": [
+            72.0,
+            153.087890625,
+            539.8488159179688,
+            168.591796875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "machine can predict if it’s a dog from a whole different picture which was not even",
+              "origin": [
+                72.0,
+                165.5634765625
+              ],
+              "bbox": [
+                72.0,
+                153.087890625,
+                539.8488159179688,
+                168.591796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 169,
+          "text": "a part of the labelled data set of dog images the machine was fed earlier.",
+          "bbox": [
+            72.0,
+            169.1865234375,
+            475.66375732421875,
+            184.6904296875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "a part of the labelled data set of dog images the machine was fed earlier.",
+              "origin": [
+                72.0,
+                181.662109375
+              ],
+              "bbox": [
+                72.0,
+                169.1865234375,
+                475.66375732421875,
+                184.6904296875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 201,
+          "text": "Unsupervised learning : Contrary to the supervised learning, the",
+          "bbox": [
+            108.0,
+            201.3837890625,
+            539.7312622070312,
+            216.8876953125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPS-ItalicMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Unsupervised",
+              "origin": [
+                108.0,
+                213.859375
+              ],
+              "bbox": [
+                108.0,
+                201.3837890625,
+                184.947265625,
+                216.8876953125
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPS-ItalicMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "learning",
+              "origin": [
+                199.69140625,
+                213.859375
+              ],
+              "bbox": [
+                199.69140625,
+                201.3837890625,
+                247.11026000976562,
+                216.8876953125
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": ":",
+              "origin": [
+                247.10635375976562,
+                213.859375
+              ],
+              "bbox": [
+                247.10635375976562,
+                201.3837890625,
+                250.99835205078125,
+                216.8876953125
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Contrary",
+              "origin": [
+                265.74188232421875,
+                213.859375
+              ],
+              "bbox": [
+                265.74188232421875,
+                201.3837890625,
+                315.4836730957031,
+                216.8876953125
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "to",
+              "origin": [
+                329.477783203125,
+                213.859375
+              ],
+              "bbox": [
+                329.477783203125,
+                201.3837890625,
+                340.365234375,
+                216.8876953125
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "the",
+              "origin": [
+                354.359375,
+                213.859375
+              ],
+              "bbox": [
+                354.359375,
+                201.3837890625,
+                371.4589538574219,
+                216.8876953125
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "supervised",
+              "origin": [
+                385.451416015625,
+                213.859375
+              ],
+              "bbox": [
+                385.451416015625,
+                201.3837890625,
+                445.2978515625,
+                216.8876953125
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "learning,",
+              "origin": [
+                459.2919921875,
+                213.859375
+              ],
+              "bbox": [
+                459.2919921875,
+                201.3837890625,
+                508.635498046875,
+                216.8876953125
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "the",
+              "origin": [
+                522.6316528320312,
+                213.859375
+              ],
+              "bbox": [
+                522.6316528320312,
+                201.3837890625,
+                539.7312622070312,
+                216.8876953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 217,
+          "text": "unsupervised learning algorithms comprises analyzing unlabelled data i.e., in this",
+          "bbox": [
+            72.0,
+            217.482421875,
+            539.4095458984375,
+            232.986328125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "unsupervised learning algorithms comprises analyzing unlabelled data i.e., in this",
+              "origin": [
+                72.0,
+                229.9580078125
+              ],
+              "bbox": [
+                72.0,
+                217.482421875,
+                539.4095458984375,
+                232.986328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 234,
+          "text": "case we are training the machine to analyze and learn from a series of data, the",
+          "bbox": [
+            72.0,
+            233.5810546875,
+            539.5477294921875,
+            249.0849609375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "case we are training the machine to analyze and learn from a series of data, the",
+              "origin": [
+                72.0,
+                246.056640625
+              ],
+              "bbox": [
+                72.0,
+                233.5810546875,
+                539.5477294921875,
+                249.0849609375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 250,
+          "text": "meaning of which is not apparently comprehendible by the human eyes. The",
+          "bbox": [
+            72.0,
+            249.6796875,
+            539.9452514648438,
+            265.18359375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "meaning of which is not apparently comprehendible by the human eyes. The",
+              "origin": [
+                72.0,
+                262.1552734375
+              ],
+              "bbox": [
+                72.0,
+                249.6796875,
+                539.9452514648438,
+                265.18359375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 266,
+          "text": "machine looks for patterns and draws conclusions on its own from the patterns of",
+          "bbox": [
+            72.0,
+            265.7783203125,
+            539.7855224609375,
+            281.2822265625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "machine looks for patterns and draws conclusions on its own from the patterns of",
+              "origin": [
+                72.0,
+                278.25390625
+              ],
+              "bbox": [
+                72.0,
+                265.7783203125,
+                539.7855224609375,
+                281.2822265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 282,
+          "text": "the data. Important thing to remember that the dataset used in this instance is not",
+          "bbox": [
+            72.0,
+            281.876953125,
+            539.636474609375,
+            297.380859375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "the data. Important thing to remember that the dataset used in this instance is not",
+              "origin": [
+                72.0,
+                294.3525390625
+              ],
+              "bbox": [
+                72.0,
+                281.876953125,
+                539.636474609375,
+                297.380859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 298,
+          "text": "labelled and the conclusions are drawn by the machines.",
+          "bbox": [
+            72.0,
+            297.9755859375,
+            387.106201171875,
+            313.4794921875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "labelled and the conclusions are drawn by the machines.",
+              "origin": [
+                72.0,
+                310.451171875
+              ],
+              "bbox": [
+                72.0,
+                297.9755859375,
+                387.106201171875,
+                313.4794921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 330,
+          "text": "Reinforcement learning : Reinforcement learning is a feedback dependent",
+          "bbox": [
+            108.0,
+            330.1728515625,
+            539.878173828125,
+            345.6767578125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPS-ItalicMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Reinforcement learning",
+              "origin": [
+                108.0,
+                342.6484375
+              ],
+              "bbox": [
+                108.0,
+                330.1728515625,
+                243.73655700683594,
+                345.6767578125
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": ": Reinforcement learning is a feedback dependent",
+              "origin": [
+                243.73265075683594,
+                342.6484375
+              ],
+              "bbox": [
+                243.73265075683594,
+                330.1728515625,
+                539.878173828125,
+                345.6767578125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 346,
+          "text": "machine learning model. In this process the machine is given a data and made to",
+          "bbox": [
+            72.0,
+            346.271484375,
+            539.57958984375,
+            361.775390625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "machine learning model. In this process the machine is given a data and made to",
+              "origin": [
+                72.0,
+                358.7470703125
+              ],
+              "bbox": [
+                72.0,
+                346.271484375,
+                539.57958984375,
+                361.775390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 362,
+          "text": "predict what the data was. If the machine generates an inaccurate conclusion about",
+          "bbox": [
+            72.0,
+            362.3701171875,
+            539.9600830078125,
+            377.8740234375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "predict what the data was. If the machine generates an inaccurate conclusion about",
+              "origin": [
+                72.0,
+                374.845703125
+              ],
+              "bbox": [
+                72.0,
+                362.3701171875,
+                539.9600830078125,
+                377.8740234375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 378,
+          "text": "the input data, the machine is given feedback about its incorrectness. For example,",
+          "bbox": [
+            72.0,
+            378.46875,
+            539.983154296875,
+            393.97265625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "the input data, the machine is given feedback about its incorrectness. For example,",
+              "origin": [
+                72.0,
+                390.9443359375
+              ],
+              "bbox": [
+                72.0,
+                378.46875,
+                539.983154296875,
+                393.97265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 395,
+          "text": "if you give the machine an image of a basketball and it identifies the basketball as a",
+          "bbox": [
+            72.0,
+            394.5673828125,
+            539.807861328125,
+            410.0712890625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "if you give the machine an image of a basketball and it identifies the basketball as a",
+              "origin": [
+                72.0,
+                407.04296875
+              ],
+              "bbox": [
+                72.0,
+                394.5673828125,
+                539.807861328125,
+                410.0712890625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 411,
+          "text": "tennis ball or something else, you give a negative feedback to the machine and",
+          "bbox": [
+            72.0,
+            410.666015625,
+            539.58544921875,
+            426.169921875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "tennis ball or something else, you give a negative feedback to the machine and",
+              "origin": [
+                72.0,
+                423.1416015625
+              ],
+              "bbox": [
+                72.0,
+                410.666015625,
+                539.58544921875,
+                426.169921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 427,
+          "text": "eventually the machine learns to identify an image of a basketball on its own when",
+          "bbox": [
+            72.0,
+            426.7646484375,
+            539.6603393554688,
+            442.2685546875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "eventually the machine learns to identify an image of a basketball on its own when",
+              "origin": [
+                72.0,
+                439.240234375
+              ],
+              "bbox": [
+                72.0,
+                426.7646484375,
+                539.6603393554688,
+                442.2685546875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 443,
+          "text": "it comes across a completely different picture of a basketball.",
+          "bbox": [
+            72.0,
+            442.86328125,
+            415.1997375488281,
+            458.3671875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "it comes across a completely different picture of a basketball.",
+              "origin": [
+                72.0,
+                455.3388671875
+              ],
+              "bbox": [
+                72.0,
+                442.86328125,
+                415.1997375488281,
+                458.3671875
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 74,
+          "text": "Source:http://datasciencecentral.com",
+          "bbox": [
+            72.0,
+            73.986328125,
+            210.2064666748047,
+            82.986328125
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Source:http://datasciencecentral.com",
+              "origin": [
+                72.0,
+                80.736328125
+              ],
+              "bbox": [
+                72.0,
+                73.986328125,
+                210.2064666748047,
+                82.986328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 95,
+          "text": "Deep Learning, on the other hand is the concept of computers simulating the",
+          "bbox": [
+            72.0,
+            94.5673828125,
+            539.5846557617188,
+            110.0712890625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Deep Learning, on the other hand is the concept of computers simulating the",
+              "origin": [
+                72.0,
+                107.04296875
+              ],
+              "bbox": [
+                72.0,
+                94.5673828125,
+                539.5846557617188,
+                110.0712890625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 111,
+          "text": "process a human brain takes to analyze, think and learn. The deep learning process",
+          "bbox": [
+            72.0,
+            110.666015625,
+            539.9835815429688,
+            126.169921875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "process a human brain takes to analyze, think and learn. The deep learning process",
+              "origin": [
+                72.0,
+                123.1416015625
+              ],
+              "bbox": [
+                72.0,
+                110.666015625,
+                539.9835815429688,
+                126.169921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 127,
+          "text": "involves something called a neural network as a part of the thinking process for an",
+          "bbox": [
+            72.0,
+            126.7646484375,
+            539.6094360351562,
+            142.2685546875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "involves something called a neural network as a part of the thinking process for an",
+              "origin": [
+                72.0,
+                139.240234375
+              ],
+              "bbox": [
+                72.0,
+                126.7646484375,
+                539.6094360351562,
+                142.2685546875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 143,
+          "text": "AI. It takes an enormous amount of data to train deep learning and a considerably",
+          "bbox": [
+            72.0,
+            142.86328125,
+            539.7899780273438,
+            158.3671875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "AI. It takes an enormous amount of data to train deep learning and a considerably",
+              "origin": [
+                72.0,
+                155.3388671875
+              ],
+              "bbox": [
+                72.0,
+                142.86328125,
+                539.7899780273438,
+                158.3671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 159,
+          "text": "powerful computing device for such computation methods.",
+          "bbox": [
+            72.0,
+            158.9619140625,
+            402.68341064453125,
+            174.4658203125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "powerful computing device for such computation methods.",
+              "origin": [
+                72.0,
+                171.4375
+              ],
+              "bbox": [
+                72.0,
+                158.9619140625,
+                402.68341064453125,
+                174.4658203125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 210,
+          "text": "AI at Work Today",
+          "bbox": [
+            72.0,
+            209.642578125,
+            195.72103881835938,
+            227.361328125
+          ],
+          "spans": [
+            {
+              "size": 16.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "AI at Work Today",
+              "origin": [
+                72.0,
+                223.900390625
+              ],
+              "bbox": [
+                72.0,
+                209.642578125,
+                195.72103881835938,
+                227.361328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 564,
+          "text": "Photo by Dan Seifert / The Verge",
+          "bbox": [
+            72.0,
+            563.841796875,
+            191.03424072265625,
+            572.841796875
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Photo by Dan Seifert / The Verge",
+              "origin": [
+                72.0,
+                570.591796875
+              ],
+              "bbox": [
+                72.0,
+                563.841796875,
+                191.03424072265625,
+                572.841796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 590,
+          "text": "The most common examples of uses of Artificial Intelligence can be found today",
+          "bbox": [
+            72.0,
+            589.53515625,
+            539.33447265625,
+            605.0390625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "The most common examples of uses of Artificial Intelligence can be found today",
+              "origin": [
+                72.0,
+                602.0107421875
+              ],
+              "bbox": [
+                72.0,
+                589.53515625,
+                539.33447265625,
+                605.0390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 606,
+          "text": "in smart personal assistants like Apple’s Siri and Amazon’s Alexa. People interact",
+          "bbox": [
+            72.0,
+            605.6337890625,
+            539.5635986328125,
+            621.1376953125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "in smart personal assistants like Apple’s Siri and Amazon’s Alexa. People interact",
+              "origin": [
+                72.0,
+                618.109375
+              ],
+              "bbox": [
+                72.0,
+                605.6337890625,
+                539.5635986328125,
+                621.1376953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 622,
+          "text": "with these devices to command them on a daily basis and these devices use the",
+          "bbox": [
+            72.0,
+            621.732421875,
+            539.6653442382812,
+            637.236328125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "with these devices to command them on a daily basis and these devices use the",
+              "origin": [
+                72.0,
+                634.2080078125
+              ],
+              "bbox": [
+                72.0,
+                621.732421875,
+                539.6653442382812,
+                637.236328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 638,
+          "text": "commands as a part of their dataset to learn from. Another known example of",
+          "bbox": [
+            72.0,
+            637.8310546875,
+            539.3956909179688,
+            653.3349609375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "commands as a part of their dataset to learn from. Another known example of",
+              "origin": [
+                72.0,
+                650.306640625
+              ],
+              "bbox": [
+                72.0,
+                637.8310546875,
+                539.3956909179688,
+                653.3349609375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 654,
+          "text": "Artificial Intelligence is the use of algorithms in Netflix. Netflix provides very",
+          "bbox": [
+            72.0,
+            653.9296875,
+            539.583984375,
+            669.43359375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Artificial Intelligence is the use of algorithms in Netflix. Netflix provides very",
+              "origin": [
+                72.0,
+                666.4052734375
+              ],
+              "bbox": [
+                72.0,
+                653.9296875,
+                539.583984375,
+                669.43359375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 670,
+          "text": "much accurate and relevant suggestions of movies, tv series from our data which is",
+          "bbox": [
+            72.0,
+            670.0283203125,
+            539.7149047851562,
+            685.5322265625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "much accurate and relevant suggestions of movies, tv series from our data which is",
+              "origin": [
+                72.0,
+                682.50390625
+              ],
+              "bbox": [
+                72.0,
+                670.0283203125,
+                539.7149047851562,
+                685.5322265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 686,
+          "text": "created every time we stream or click on something in Netflix. As the dataset for",
+          "bbox": [
+            72.0,
+            686.126953125,
+            539.622314453125,
+            701.630859375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "created every time we stream or click on something in Netflix. As the dataset for",
+              "origin": [
+                72.0,
+                698.6025390625
+              ],
+              "bbox": [
+                72.0,
+                686.126953125,
+                539.622314453125,
+                701.630859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 702,
+          "text": "these systems grows, their accuracy and precision increase as well. Artificial",
+          "bbox": [
+            72.0,
+            702.2255859375,
+            539.9387817382812,
+            717.7294921875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "these systems grows, their accuracy and precision increase as well. Artificial",
+              "origin": [
+                72.0,
+                714.701171875
+              ],
+              "bbox": [
+                72.0,
+                702.2255859375,
+                539.9387817382812,
+                717.7294921875
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 73,
+          "text": "Intelligence is also viewed as a great tool for better cybersecurity. Many banks are",
+          "bbox": [
+            72.0,
+            72.5947265625,
+            539.3820190429688,
+            88.0986328125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Intelligence is also viewed as a great tool for better cybersecurity. Many banks are",
+              "origin": [
+                72.0,
+                85.0703125
+              ],
+              "bbox": [
+                72.0,
+                72.5947265625,
+                539.3820190429688,
+                88.0986328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 89,
+          "text": "using AI as a means to identify unauthorized credit cards uses. From analyzing",
+          "bbox": [
+            72.0,
+            88.693359375,
+            539.3031005859375,
+            104.197265625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "using AI as a means to identify unauthorized credit cards uses. From analyzing",
+              "origin": [
+                72.0,
+                101.1689453125
+              ],
+              "bbox": [
+                72.0,
+                88.693359375,
+                539.3031005859375,
+                104.197265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 105,
+          "text": "complex genetic data to perform the most delicate surgeries at the highest precision",
+          "bbox": [
+            72.0,
+            104.7919921875,
+            539.5243530273438,
+            120.2958984375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "complex genetic data to perform the most delicate surgeries at the highest precision",
+              "origin": [
+                72.0,
+                117.267578125
+              ],
+              "bbox": [
+                72.0,
+                104.7919921875,
+                539.5243530273438,
+                120.2958984375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 121,
+          "text": "is also being worked on to integrate with AI. We all know about companies like",
+          "bbox": [
+            72.0,
+            120.890625,
+            539.8857421875,
+            136.39453125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "is also being worked on to integrate with AI. We all know about companies like",
+              "origin": [
+                72.0,
+                133.3662109375
+              ],
+              "bbox": [
+                72.0,
+                120.890625,
+                539.8857421875,
+                136.39453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 137,
+          "text": "Tesla and Apple working to make flawless self-driving cars which is going to have",
+          "bbox": [
+            72.0,
+            136.9892578125,
+            539.873291015625,
+            152.4931640625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Tesla and Apple working to make flawless self-driving cars which is going to have",
+              "origin": [
+                72.0,
+                149.46484375
+              ],
+              "bbox": [
+                72.0,
+                136.9892578125,
+                539.873291015625,
+                152.4931640625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 153,
+          "text": "game changing impacts on the future of transportation.",
+          "bbox": [
+            72.0,
+            153.087890625,
+            378.96240234375,
+            168.591796875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "game changing impacts on the future of transportation.",
+              "origin": [
+                72.0,
+                165.5634765625
+              ],
+              "bbox": [
+                72.0,
+                153.087890625,
+                378.96240234375,
+                168.591796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 201,
+          "text": "Concerns about AI",
+          "bbox": [
+            72.0,
+            201.46875,
+            200.87356567382812,
+            219.1875
+          ],
+          "spans": [
+            {
+              "size": 16.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Concerns about AI",
+              "origin": [
+                72.0,
+                215.7265625
+              ],
+              "bbox": [
+                72.0,
+                201.46875,
+                200.87356567382812,
+                219.1875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 236,
+          "text": "One of the most immediate concerns about Artificial Intelligence is the fear of",
+          "bbox": [
+            72.0,
+            235.880859375,
+            539.5126342773438,
+            251.384765625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "One of the most immediate concerns about Artificial Intelligence is the fear of",
+              "origin": [
+                72.0,
+                248.3564453125
+              ],
+              "bbox": [
+                72.0,
+                235.880859375,
+                539.5126342773438,
+                251.384765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 252,
+          "text": "losing jobs. Artificial Intelligence enhancing automation is also causing huge job",
+          "bbox": [
+            72.0,
+            251.9794921875,
+            539.7291870117188,
+            267.4833984375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "losing jobs. Artificial Intelligence enhancing automation is also causing huge job",
+              "origin": [
+                72.0,
+                264.455078125
+              ],
+              "bbox": [
+                72.0,
+                251.9794921875,
+                539.7291870117188,
+                267.4833984375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 268,
+          "text": "losses around the world. According to a Forbes article, it is predicted that by 2025",
+          "bbox": [
+            72.0,
+            268.078125,
+            539.5570068359375,
+            283.58203125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "losses around the world. According to a Forbes article, it is predicted that by 2025",
+              "origin": [
+                72.0,
+                280.5537109375
+              ],
+              "bbox": [
+                72.0,
+                268.078125,
+                539.5570068359375,
+                283.58203125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 284,
+          "text": "automation will cause a loss of 85 million jobs. [6] Bigger fears regarding AI",
+          "bbox": [
+            72.0,
+            283.85443115234375,
+            539.675048828125,
+            299.6806640625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "automation will cause a loss of 85 million jobs.",
+              "origin": [
+                72.0,
+                296.65234375
+              ],
+              "bbox": [
+                72.0,
+                284.1767578125,
+                365.15789794921875,
+                299.6806640625
+              ]
+            },
+            {
+              "size": 8.399999618530273,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": " ",
+              "origin": [
+                365.15789794921875,
+                296.65234375
+              ],
+              "bbox": [
+                365.15789794921875,
+                283.85443115234375,
+                370.25360107421875,
+                298.4693298339844
+              ]
+            },
+            {
+              "size": 8.399999618530273,
+              "flags": 21,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "[6]",
+              "origin": [
+                370.25360107421875,
+                291.33978271484375
+              ],
+              "bbox": [
+                370.25360107421875,
+                283.85443115234375,
+                380.0402526855469,
+                293.1567687988281
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Bigger fears regarding AI",
+              "origin": [
+                386.53521728515625,
+                296.65234375
+              ],
+              "bbox": [
+                386.53521728515625,
+                284.1767578125,
+                539.675048828125,
+                299.6806640625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 300,
+          "text": "includes the scenario whereas machines become smarter and smarter they going to",
+          "bbox": [
+            72.0,
+            300.275390625,
+            539.9647216796875,
+            315.779296875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "includes the scenario whereas machines become smarter and smarter they going to",
+              "origin": [
+                72.0,
+                312.7509765625
+              ],
+              "bbox": [
+                72.0,
+                300.275390625,
+                539.9647216796875,
+                315.779296875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 316,
+          "text": "end up being as opinionated and biased like some of the people training it.",
+          "bbox": [
+            72.0,
+            316.3740234375,
+            539.527587890625,
+            331.8779296875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "end up being as opinionated and biased like some of the people training it.",
+              "origin": [
+                72.0,
+                328.849609375
+              ],
+              "bbox": [
+                72.0,
+                316.3740234375,
+                539.527587890625,
+                331.8779296875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 332,
+          "text": "Automatization of weapons is also a big reason people worry about the future of",
+          "bbox": [
+            72.0,
+            332.47265625,
+            539.56982421875,
+            347.9765625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Automatization of weapons is also a big reason people worry about the future of",
+              "origin": [
+                72.0,
+                344.9482421875
+              ],
+              "bbox": [
+                72.0,
+                332.47265625,
+                539.56982421875,
+                347.9765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 349,
+          "text": "Artificial Intelligence. The idea that weapons can be used to search and target",
+          "bbox": [
+            72.0,
+            348.5712890625,
+            539.4863891601562,
+            364.0751953125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Artificial Intelligence. The idea that weapons can be used to search and target",
+              "origin": [
+                72.0,
+                361.046875
+              ],
+              "bbox": [
+                72.0,
+                348.5712890625,
+                539.4863891601562,
+                364.0751953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 365,
+          "text": "someone with pre-programmed instructions and the misuse of this by governments",
+          "bbox": [
+            72.0,
+            364.669921875,
+            539.7118530273438,
+            380.173828125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "someone with pre-programmed instructions and the misuse of this by governments",
+              "origin": [
+                72.0,
+                377.1455078125
+              ],
+              "bbox": [
+                72.0,
+                364.669921875,
+                539.7118530273438,
+                380.173828125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 381,
+          "text": "or mafias or rogue AI can be something very deadly and devastating. However,",
+          "bbox": [
+            72.0,
+            380.7685546875,
+            539.9324951171875,
+            396.2724609375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "or mafias or rogue AI can be something very deadly and devastating. However,",
+              "origin": [
+                72.0,
+                393.244140625
+              ],
+              "bbox": [
+                72.0,
+                380.7685546875,
+                539.9324951171875,
+                396.2724609375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 397,
+          "text": "there are many myths in disguise of concerns surrounding AI that spreads panic",
+          "bbox": [
+            72.0,
+            396.8671875,
+            539.8317260742188,
+            412.37109375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "there are many myths in disguise of concerns surrounding AI that spreads panic",
+              "origin": [
+                72.0,
+                409.3427734375
+              ],
+              "bbox": [
+                72.0,
+                396.8671875,
+                539.8317260742188,
+                412.37109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 413,
+          "text": "and misinformation. AI today is nowhere near to become a super-intelligent entity",
+          "bbox": [
+            72.0,
+            412.9658203125,
+            539.2781982421875,
+            428.4697265625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "and misinformation. AI today is nowhere near to become a super-intelligent entity",
+              "origin": [
+                72.0,
+                425.44140625
+              ],
+              "bbox": [
+                72.0,
+                412.9658203125,
+                539.2781982421875,
+                428.4697265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 429,
+          "text": "and turn into our overlords like in sci-fi movies. However, heavy regulations and",
+          "bbox": [
+            72.0,
+            429.064453125,
+            539.5223999023438,
+            444.568359375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "and turn into our overlords like in sci-fi movies. However, heavy regulations and",
+              "origin": [
+                72.0,
+                441.5400390625
+              ],
+              "bbox": [
+                72.0,
+                429.064453125,
+                539.5223999023438,
+                444.568359375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 445,
+          "text": "cautions are being advised by Big Tech giants like Elon Musk while developing",
+          "bbox": [
+            72.0,
+            445.1630859375,
+            539.6806640625,
+            460.6669921875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "cautions are being advised by Big Tech giants like Elon Musk while developing",
+              "origin": [
+                72.0,
+                457.638671875
+              ],
+              "bbox": [
+                72.0,
+                445.1630859375,
+                539.6806640625,
+                460.6669921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 461,
+          "text": "this industry.",
+          "bbox": [
+            72.0,
+            461.26171875,
+            144.16915893554688,
+            476.765625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "this industry.",
+              "origin": [
+                72.0,
+                473.7373046875
+              ],
+              "bbox": [
+                72.0,
+                461.26171875,
+                144.16915893554688,
+                476.765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 510,
+          "text": "Artificial Intelligence and The Future",
+          "bbox": [
+            72.0,
+            509.642578125,
+            328.2228088378906,
+            527.361328125
+          ],
+          "spans": [
+            {
+              "size": 16.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Artificial Intelligence and The Future",
+              "origin": [
+                72.0,
+                523.900390625
+              ],
+              "bbox": [
+                72.0,
+                509.642578125,
+                328.2228088378906,
+                527.361328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 544,
+          "text": "It is said that AI is the greatest thing humankind has ever worked on. AI is being",
+          "bbox": [
+            72.0,
+            544.0546875,
+            539.65625,
+            559.55859375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "It is said that AI is the greatest thing humankind has ever worked on. AI is being",
+              "origin": [
+                72.0,
+                556.5302734375
+              ],
+              "bbox": [
+                72.0,
+                544.0546875,
+                539.65625,
+                559.55859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 560,
+          "text": "used in image and speech recognition and analysis which will be far better than",
+          "bbox": [
+            72.0,
+            560.1533203125,
+            539.3623657226562,
+            575.6572265625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "used in image and speech recognition and analysis which will be far better than",
+              "origin": [
+                72.0,
+                572.62890625
+              ],
+              "bbox": [
+                72.0,
+                560.1533203125,
+                539.3623657226562,
+                575.6572265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 576,
+          "text": "human recognition of image and speech and its application stretches wide and far.",
+          "bbox": [
+            72.0,
+            576.251953125,
+            530.0953369140625,
+            591.755859375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "human recognition of image and speech and its application stretches wide and far.",
+              "origin": [
+                72.0,
+                588.7275390625
+              ],
+              "bbox": [
+                72.0,
+                576.251953125,
+                530.0953369140625,
+                591.755859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 592,
+          "text": "There are research and works being conducted using AI that is going to play a very",
+          "bbox": [
+            72.0,
+            592.3505859375,
+            539.3369140625,
+            607.8544921875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "There are research and works being conducted using AI that is going to play a very",
+              "origin": [
+                72.0,
+                604.826171875
+              ],
+              "bbox": [
+                72.0,
+                592.3505859375,
+                539.3369140625,
+                607.8544921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 608,
+          "text": "important role in our future healthcare. AI is being worked on to cure Alzheimer’s",
+          "bbox": [
+            72.0,
+            608.44921875,
+            539.3040161132812,
+            623.953125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "important role in our future healthcare. AI is being worked on to cure Alzheimer’s",
+              "origin": [
+                72.0,
+                620.9248046875
+              ],
+              "bbox": [
+                72.0,
+                608.44921875,
+                539.3040161132812,
+                623.953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 625,
+          "text": "disease and someday even blindness. Someone with dyslexia is being helped to",
+          "bbox": [
+            72.0,
+            624.5478515625,
+            539.777587890625,
+            640.0517578125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "disease and someday even blindness. Someone with dyslexia is being helped to",
+              "origin": [
+                72.0,
+                637.0234375
+              ],
+              "bbox": [
+                72.0,
+                624.5478515625,
+                539.777587890625,
+                640.0517578125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 641,
+          "text": "read better with the help of AI. Genetic data is being analyzed by bioinformatics;",
+          "bbox": [
+            72.0,
+            640.646484375,
+            539.3145141601562,
+            656.150390625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "read better with the help of AI. Genetic data is being analyzed by bioinformatics;",
+              "origin": [
+                72.0,
+                653.1220703125
+              ],
+              "bbox": [
+                72.0,
+                640.646484375,
+                539.3145141601562,
+                656.150390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 657,
+          "text": "data science integrated with AI for way better data analysis in healthcare that has",
+          "bbox": [
+            72.0,
+            656.7451171875,
+            539.6372680664062,
+            672.2490234375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "data science integrated with AI for way better data analysis in healthcare that has",
+              "origin": [
+                72.0,
+                669.220703125
+              ],
+              "bbox": [
+                72.0,
+                656.7451171875,
+                539.6372680664062,
+                672.2490234375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 673,
+          "text": "not been possible for us in the past. Fields like cancer research and other such",
+          "bbox": [
+            72.0,
+            672.84375,
+            539.7933349609375,
+            688.34765625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "not been possible for us in the past. Fields like cancer research and other such",
+              "origin": [
+                72.0,
+                685.3193359375
+              ],
+              "bbox": [
+                72.0,
+                672.84375,
+                539.7933349609375,
+                688.34765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 689,
+          "text": "diseases are being impacted greatly by advanced applications of AI. AI can be a",
+          "bbox": [
+            72.0,
+            688.9423828125,
+            539.8211059570312,
+            704.4462890625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "diseases are being impacted greatly by advanced applications of AI. AI can be a",
+              "origin": [
+                72.0,
+                701.41796875
+              ],
+              "bbox": [
+                72.0,
+                688.9423828125,
+                539.8211059570312,
+                704.4462890625
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 73,
+          "text": "great tool in the future of education. AI can be used to analyze data from an",
+          "bbox": [
+            72.0,
+            72.5947265625,
+            539.7362060546875,
+            88.0986328125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "great tool in the future of education. AI can be used to analyze data from an",
+              "origin": [
+                72.0,
+                85.0703125
+              ],
+              "bbox": [
+                72.0,
+                72.5947265625,
+                539.7362060546875,
+                88.0986328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 89,
+          "text": "individual’s personal and intellectual needs, capabilities, choices and limitations to",
+          "bbox": [
+            72.0,
+            88.693359375,
+            539.2909545898438,
+            104.197265625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "individual’s personal and intellectual needs, capabilities, choices and limitations to",
+              "origin": [
+                72.0,
+                101.1689453125
+              ],
+              "bbox": [
+                72.0,
+                88.693359375,
+                539.2909545898438,
+                104.197265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 105,
+          "text": "develop customized curriculum, strategies and schedules that will be more well",
+          "bbox": [
+            72.0,
+            104.7919921875,
+            539.369873046875,
+            120.2958984375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "develop customized curriculum, strategies and schedules that will be more well",
+              "origin": [
+                72.0,
+                117.267578125
+              ],
+              "bbox": [
+                72.0,
+                104.7919921875,
+                539.369873046875,
+                120.2958984375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 121,
+          "text": "suited, appealling and inclusive of most, if not all, children and adults. The uses of",
+          "bbox": [
+            72.0,
+            120.890625,
+            539.6422119140625,
+            136.39453125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "suited, appealling and inclusive of most, if not all, children and adults. The uses of",
+              "origin": [
+                72.0,
+                133.3662109375
+              ],
+              "bbox": [
+                72.0,
+                120.890625,
+                539.6422119140625,
+                136.39453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 137,
+          "text": "AI are also going to change the way we are going to commute in the future. In",
+          "bbox": [
+            72.0,
+            136.9892578125,
+            539.8951416015625,
+            152.4931640625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "AI are also going to change the way we are going to commute in the future. In",
+              "origin": [
+                72.0,
+                149.46484375
+              ],
+              "bbox": [
+                72.0,
+                136.9892578125,
+                539.8951416015625,
+                152.4931640625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 153,
+          "text": "addition to self-driving cars, work is being done to manufacture “self-flying”",
+          "bbox": [
+            72.0,
+            153.087890625,
+            539.664306640625,
+            168.591796875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "addition to self-driving cars, work is being done to manufacture “self-flying”",
+              "origin": [
+                72.0,
+                165.5634765625
+              ],
+              "bbox": [
+                72.0,
+                153.087890625,
+                539.664306640625,
+                168.591796875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 169,
+          "text": "planes and drones that conveniently deliver your food faster and better. One of the",
+          "bbox": [
+            72.0,
+            169.1865234375,
+            539.539306640625,
+            184.6904296875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "planes and drones that conveniently deliver your food faster and better. One of the",
+              "origin": [
+                72.0,
+                181.662109375
+              ],
+              "bbox": [
+                72.0,
+                169.1865234375,
+                539.539306640625,
+                184.6904296875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 185,
+          "text": "biggest concerns about AI is that jobs are being replaced due to automation.",
+          "bbox": [
+            72.0,
+            185.28515625,
+            539.4434814453125,
+            200.7890625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "biggest concerns about AI is that jobs are being replaced due to automation.",
+              "origin": [
+                72.0,
+                197.7607421875
+              ],
+              "bbox": [
+                72.0,
+                185.28515625,
+                539.4434814453125,
+                200.7890625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 201,
+          "text": "However, AI might be creating more jobs than it replaces. This will change the",
+          "bbox": [
+            72.0,
+            201.3837890625,
+            539.5026245117188,
+            216.8876953125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "However, AI might be creating more jobs than it replaces. This will change the",
+              "origin": [
+                72.0,
+                213.859375
+              ],
+              "bbox": [
+                72.0,
+                201.3837890625,
+                539.5026245117188,
+                216.8876953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 217,
+          "text": "way humans work by creating new types of jobs.",
+          "bbox": [
+            72.0,
+            217.482421875,
+            345.9563903808594,
+            232.986328125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "way humans work by creating new types of jobs.",
+              "origin": [
+                72.0,
+                229.9580078125
+              ],
+              "bbox": [
+                72.0,
+                217.482421875,
+                345.9563903808594,
+                232.986328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 565,
+          "text": "Source: https://hackernoon.com/artificial-intelligence-and-big-data-zys3258",
+          "bbox": [
+            72.0,
+            564.97265625,
+            349.44482421875,
+            573.97265625
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Source: https://hackernoon.com/artificial-intelligence-and-big-data-zys3258",
+              "origin": [
+                72.0,
+                571.72265625
+              ],
+              "bbox": [
+                72.0,
+                564.97265625,
+                349.44482421875,
+                573.97265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 591,
+          "text": "AI is still in a fairly preliminary (but rapidly growing) stage today and it requires",
+          "bbox": [
+            72.0,
+            590.666015625,
+            539.3297729492188,
+            606.169921875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "AI is still in a fairly preliminary (but rapidly growing) stage today and it requires",
+              "origin": [
+                72.0,
+                603.1416015625
+              ],
+              "bbox": [
+                72.0,
+                590.666015625,
+                539.3297729492188,
+                606.169921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 607,
+          "text": "more and more training to develop. Trainers, engineers, system designers and",
+          "bbox": [
+            72.0,
+            606.7646484375,
+            539.2791137695312,
+            622.2685546875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "more and more training to develop. Trainers, engineers, system designers and",
+              "origin": [
+                72.0,
+                619.240234375
+              ],
+              "bbox": [
+                72.0,
+                606.7646484375,
+                539.2791137695312,
+                622.2685546875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 623,
+          "text": "software developer jobs in machine learning, data science and many such related",
+          "bbox": [
+            72.0,
+            622.86328125,
+            539.9857177734375,
+            638.3671875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "software developer jobs in machine learning, data science and many such related",
+              "origin": [
+                72.0,
+                635.3388671875
+              ],
+              "bbox": [
+                72.0,
+                622.86328125,
+                539.9857177734375,
+                638.3671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 639,
+          "text": "fields are being created in abundance. New business and investment opportunities",
+          "bbox": [
+            72.0,
+            638.9619140625,
+            539.8582153320312,
+            654.4658203125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "fields are being created in abundance. New business and investment opportunities",
+              "origin": [
+                72.0,
+                651.4375
+              ],
+              "bbox": [
+                72.0,
+                638.9619140625,
+                539.8582153320312,
+                654.4658203125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 655,
+          "text": "are also on the rise due to endless AI applications in agriculture, education,",
+          "bbox": [
+            72.0,
+            655.060546875,
+            539.6597290039062,
+            670.564453125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "are also on the rise due to endless AI applications in agriculture, education,",
+              "origin": [
+                72.0,
+                667.5361328125
+              ],
+              "bbox": [
+                72.0,
+                655.060546875,
+                539.6597290039062,
+                670.564453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 671,
+          "text": "transportation, finance, biotechnology, cybersecurity, gaming etc. As new",
+          "bbox": [
+            72.0,
+            671.1591796875,
+            539.8534545898438,
+            686.6630859375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "transportation,",
+              "origin": [
+                72.0,
+                683.634765625
+              ],
+              "bbox": [
+                72.0,
+                671.1591796875,
+                153.21539306640625,
+                686.6630859375
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "finance,",
+              "origin": [
+                164.96148681640625,
+                683.634765625
+              ],
+              "bbox": [
+                164.96148681640625,
+                671.1591796875,
+                209.63186645507812,
+                686.6630859375
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "biotechnology,",
+              "origin": [
+                221.37796020507812,
+                683.634765625
+              ],
+              "bbox": [
+                221.37796020507812,
+                671.1591796875,
+                304.0207214355469,
+                686.6630859375
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "cybersecurity,",
+              "origin": [
+                315.766845703125,
+                683.634765625
+              ],
+              "bbox": [
+                315.766845703125,
+                671.1591796875,
+                393.7227783203125,
+                686.6630859375
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "gaming",
+              "origin": [
+                405.4688720703125,
+                683.634765625
+              ],
+              "bbox": [
+                405.4688720703125,
+                671.1591796875,
+                447.4425048828125,
+                686.6630859375
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "etc. As new",
+              "origin": [
+                459.1866760253906,
+                683.634765625
+              ],
+              "bbox": [
+                459.1866760253906,
+                671.1591796875,
+                539.8534545898438,
+                686.6630859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 687,
+          "text": "businesses are being created so are new jobs. Many existing jobs are becoming",
+          "bbox": [
+            72.0,
+            687.2578125,
+            539.2962646484375,
+            702.76171875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "businesses are being created so are new jobs. Many existing jobs are becoming",
+              "origin": [
+                72.0,
+                699.7333984375
+              ],
+              "bbox": [
+                72.0,
+                687.2578125,
+                539.2962646484375,
+                702.76171875
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 73,
+          "text": "redefined and more specialised which is really important for the new world to",
+          "bbox": [
+            72.0,
+            72.5947265625,
+            539.4259643554688,
+            88.0986328125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "redefined and more specialised which is really important for the new world to",
+              "origin": [
+                72.0,
+                85.0703125
+              ],
+              "bbox": [
+                72.0,
+                72.5947265625,
+                539.4259643554688,
+                88.0986328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 89,
+          "text": "prosper and advance.",
+          "bbox": [
+            72.0,
+            88.693359375,
+            190.491455078125,
+            104.197265625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "prosper and advance.",
+              "origin": [
+                72.0,
+                101.1689453125
+              ],
+              "bbox": [
+                72.0,
+                88.693359375,
+                190.491455078125,
+                104.197265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 105,
+          "text": "Towards Conclusion…",
+          "bbox": [
+            72.0,
+            104.876953125,
+            227.4187774658203,
+            122.595703125
+          ],
+          "spans": [
+            {
+              "size": 16.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Towards Conclusion…",
+              "origin": [
+                72.0,
+                119.134765625
+              ],
+              "bbox": [
+                72.0,
+                104.876953125,
+                227.4187774658203,
+                122.595703125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 139,
+          "text": "The growth of Artificial Intelligence in recent times has been exponential. We",
+          "bbox": [
+            72.0,
+            139.2890625,
+            539.8590698242188,
+            154.79296875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "The growth of Artificial Intelligence in recent times has been exponential. We",
+              "origin": [
+                72.0,
+                151.7646484375
+              ],
+              "bbox": [
+                72.0,
+                139.2890625,
+                539.8590698242188,
+                154.79296875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 155,
+          "text": "cannot even imagine how big and impactful AI is going to be in the near future and",
+          "bbox": [
+            72.0,
+            155.3876953125,
+            539.7757568359375,
+            170.8916015625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "cannot even imagine how big and impactful AI is going to be in the near future and",
+              "origin": [
+                72.0,
+                167.86328125
+              ],
+              "bbox": [
+                72.0,
+                155.3876953125,
+                539.7757568359375,
+                170.8916015625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 171,
+          "text": "how drastically it is going to change and upgrade the world we live in today. There",
+          "bbox": [
+            72.0,
+            171.486328125,
+            539.5674438476562,
+            186.990234375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "how drastically it is going to change and upgrade the world we live in today. There",
+              "origin": [
+                72.0,
+                183.9619140625
+              ],
+              "bbox": [
+                72.0,
+                171.486328125,
+                539.5674438476562,
+                186.990234375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 188,
+          "text": "are a lot more to learn about AI and its rapidly growing applications in our life. I",
+          "bbox": [
+            72.0,
+            187.5849609375,
+            539.6207275390625,
+            203.0888671875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "are a lot more to learn about AI and its rapidly growing applications in our life. I",
+              "origin": [
+                72.0,
+                200.060546875
+              ],
+              "bbox": [
+                72.0,
+                187.5849609375,
+                539.6207275390625,
+                203.0888671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 204,
+          "text": "believe it would be wise to adapt to this changing world and acquire skills related",
+          "bbox": [
+            72.0,
+            203.68359375,
+            539.4346923828125,
+            219.1875
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "believe it would be wise to adapt to this changing world and acquire skills related",
+              "origin": [
+                72.0,
+                216.1591796875
+              ],
+              "bbox": [
+                72.0,
+                203.68359375,
+                539.4346923828125,
+                219.1875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 220,
+          "text": "to Artificial Intelligence and technology. Just like AI learns and develops, we",
+          "bbox": [
+            72.0,
+            219.7822265625,
+            539.5849609375,
+            235.2861328125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "to Artificial Intelligence and technology. Just like AI learns and develops, we",
+              "origin": [
+                72.0,
+                232.2578125
+              ],
+              "bbox": [
+                72.0,
+                219.7822265625,
+                539.5849609375,
+                235.2861328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 236,
+          "text": "should too - to make this world a better place.",
+          "bbox": [
+            72.0,
+            235.880859375,
+            328.45928955078125,
+            251.384765625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "should too - to make this world a better place.",
+              "origin": [
+                72.0,
+                248.3564453125
+              ],
+              "bbox": [
+                72.0,
+                235.880859375,
+                328.45928955078125,
+                251.384765625
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 89,
+          "text": "References:",
+          "bbox": [
+            72.0,
+            88.7783203125,
+            151.63795471191406,
+            106.4970703125
+          ],
+          "spans": [
+            {
+              "size": 16.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "References:",
+              "origin": [
+                72.0,
+                103.0361328125
+              ],
+              "bbox": [
+                72.0,
+                88.7783203125,
+                151.63795471191406,
+                106.4970703125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 125,
+          "text": "[1]",
+          "bbox": [
+            72.0,
+            125.20683288574219,
+            83.19171905517578,
+            135.8380889892578
+          ],
+          "spans": [
+            {
+              "size": 9.600000381469727,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "[1]",
+              "origin": [
+                72.0,
+                133.7615203857422
+              ],
+              "bbox": [
+                72.0,
+                125.20683288574219,
+                83.19171905517578,
+                135.8380889892578
+              ]
+            }
+          ]
+        },
+        {
+          "y": 127,
+          "text": "https://news.harvard.edu/gazette/story/2012/09/alan-turing-at-100/",
+          "bbox": [
+            83.1910171508789,
+            127.357421875,
+            455.4436950683594,
+            142.861328125
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 353217,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "https://news.harvard.edu/gazette/story/2012/09/alan-turing-at-100/",
+              "origin": [
+                83.1910171508789,
+                139.8330078125
+              ],
+              "bbox": [
+                83.1910171508789,
+                127.357421875,
+                455.4436950683594,
+                142.861328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 160,
+          "text": "[2] https://www.ibm.com/ibm/history/ibm100/us/en/icons/deepblue/",
+          "bbox": [
+            72.0,
+            159.6649932861328,
+            443.0974426269531,
+            175.4912109375
+          ],
+          "spans": [
+            {
+              "size": 8.399999618530273,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "[2]",
+              "origin": [
+                72.0,
+                167.1503448486328
+              ],
+              "bbox": [
+                72.0,
+                159.6649932861328,
+                81.78665924072266,
+                168.9673309326172
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 353217,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "https://www.ibm.com/ibm/history/ibm100/us/en/icons/deepblue/",
+              "origin": [
+                81.78359985351562,
+                172.462890625
+              ],
+              "bbox": [
+                81.78359985351562,
+                159.9873046875,
+                443.0974426269531,
+                175.4912109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 192,
+          "text": "[3] https://www.firstpost.com/tech/news-analysis/siri-google-now-and-cortana-how-",
+          "bbox": [
+            72.0,
+            191.8622589111328,
+            533.962646484375,
+            207.6884765625
+          ],
+          "spans": [
+            {
+              "size": 8.399999618530273,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "[3]",
+              "origin": [
+                72.0,
+                199.3476104736328
+              ],
+              "bbox": [
+                72.0,
+                191.8622589111328,
+                81.78665924072266,
+                201.1645965576172
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 353217,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "https://www.firstpost.com/tech/news-analysis/siri-google-now-and-cortana-how-",
+              "origin": [
+                81.78359985351562,
+                204.66015625
+              ],
+              "bbox": [
+                81.78359985351562,
+                192.1845703125,
+                533.962646484375,
+                207.6884765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 208,
+          "text": "digital-assistants-predict-what-you-need-3671725.html",
+          "bbox": [
+            72.0,
+            208.283203125,
+            380.14691162109375,
+            223.787109375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 353217,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "digital-assistants-predict-what-you-need-3671725.html",
+              "origin": [
+                72.0,
+                220.7587890625
+              ],
+              "bbox": [
+                72.0,
+                208.283203125,
+                380.14691162109375,
+                223.787109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 240,
+          "text": "[4] https://openai.com/blog/introducing-openai/",
+          "bbox": [
+            72.0,
+            240.1581573486328,
+            328.55072021484375,
+            255.984375
+          ],
+          "spans": [
+            {
+              "size": 8.399999618530273,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "[4]",
+              "origin": [
+                72.0,
+                247.6435089111328
+              ],
+              "bbox": [
+                72.0,
+                240.1581573486328,
+                81.78665924072266,
+                249.4604949951172
+              ]
+            },
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 353217,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "https://openai.com/blog/introducing-openai/",
+              "origin": [
+                81.78359985351562,
+                252.9560546875
+              ],
+              "bbox": [
+                81.78359985351562,
+                240.48046875,
+                328.55072021484375,
+                255.984375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 272,
+          "text": "[5]",
+          "bbox": [
+            72.0,
+            272.35540771484375,
+            81.78665924072266,
+            281.6577453613281
+          ],
+          "spans": [
+            {
+              "size": 8.399999618530273,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "[5]",
+              "origin": [
+                72.0,
+                279.84075927734375
+              ],
+              "bbox": [
+                72.0,
+                272.35540771484375,
+                81.78665924072266,
+                281.6577453613281
+              ]
+            }
+          ]
+        },
+        {
+          "y": 273,
+          "text": "https://www.bbc.com/news/technology-35082344",
+          "bbox": [
+            81.78359985351562,
+            272.677734375,
+            360.68792724609375,
+            288.181640625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 353217,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "https://www.bbc.com/news/technology-35082344",
+              "origin": [
+                81.78359985351562,
+                285.1533203125
+              ],
+              "bbox": [
+                81.78359985351562,
+                272.677734375,
+                360.68792724609375,
+                288.181640625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 305,
+          "text": "[6]",
+          "bbox": [
+            72.0,
+            304.55267333984375,
+            81.78665924072266,
+            313.8550109863281
+          ],
+          "spans": [
+            {
+              "size": 8.399999618530273,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRomanPS-BoldMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "[6]",
+              "origin": [
+                72.0,
+                312.03802490234375
+              ],
+              "bbox": [
+                72.0,
+                304.55267333984375,
+                81.78665924072266,
+                313.8550109863281
+              ]
+            }
+          ]
+        },
+        {
+          "y": 306,
+          "text": "https://www.forbes.com/sites/jackkelly/2020/10/27/us-lost-over-60-million-jobs-now-ro",
+          "bbox": [
+            81.78359985351562,
+            305.76611328125,
+            539.8153076171875,
+            320.16259765625
+          ],
+          "spans": [
+            {
+              "size": 13.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 353217,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "https://www.forbes.com/sites/jackkelly/2020/10/27/us-lost-over-60-million-jobs-now-ro",
+              "origin": [
+                81.78359985351562,
+                317.3505859375
+              ],
+              "bbox": [
+                81.78359985351562,
+                305.76611328125,
+                539.8153076171875,
+                320.16259765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 321,
+          "text": "bots-tech-and-artificial-intelligence-will-take-millions-more/?sh=57d352421a52",
+          "bbox": [
+            72.0,
+            320.93115234375,
+            490.0157165527344,
+            335.32763671875
+          ],
+          "spans": [
+            {
+              "size": 13.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 353217,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "bots-tech-and-artificial-intelligence-will-take-millions-more/?sh=57d352421a52",
+              "origin": [
+                72.0,
+                332.515625
+              ],
+              "bbox": [
+                72.0,
+                320.93115234375,
+                490.0157165527344,
+                335.32763671875
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

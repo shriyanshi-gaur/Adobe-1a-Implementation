@@ -1,0 +1,110 @@
+{
+  "title": "• File Save 2. In the editing app, choose > . The object is automatically updated and displayed in the PDF when you bring Acrobat to the foreground. Note: For Photoshop, if the image is in a format supported by Photoshop 6.0 or later, your edited image is saved back into the PDF. However, if the image is in an unsupported format, Photoshop handles the image as a generic PDF image. The edited image is saved to disk instead of the PDF.",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Rotate, move, delete, extract, or renumber",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "pages in a PDF",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Rotate pages in a PDF",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Extract pages from a PDF",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "the dialog.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Extract random pages from a PDF",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Split PDFs into multiple documents",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Split multiple PDFs",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Move or copy pages in a PDF",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Copy a page between two PDFs",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Delete or replace pages in a PDF",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Delete multiple pages in a PDF",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Delete a page in a PDF",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Replace pages in a PDF",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Replace pages between multiple PDFs",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Renumber pages in a PDF",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Edit Scanned PDFs",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Recognize text on scanned PDF",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Edit a scanned document",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Enhance scanned file or camera images for",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "clear PDFs",
+      "page": 16
+    }
+  ]
+}

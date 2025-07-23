@@ -7,7 +7,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 106.1,
+          "y": 106,
           "text": "Application form for grant of LTC advance",
           "bbox": [
             199.86000061035156,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 133.0,
+          "y": 133,
           "text": "Name of the Government Servant",
           "bbox": [
             95.99856567382812,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 135.9,
+          "y": 136,
           "text": "1.",
           "bbox": [
             70.0199966430664,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 151.0,
+          "y": 151,
           "text": "Designation",
           "bbox": [
             95.99856567382812,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 154.1,
+          "y": 154,
           "text": "2.",
           "bbox": [
             70.0199966430664,
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "y": 169.2,
+          "y": 169,
           "text": "Date of entering the Central Government",
           "bbox": [
             95.99856567382812,
@@ -211,7 +211,7 @@
           ]
         },
         {
-          "y": 180.9,
+          "y": 181,
           "text": "3.",
           "bbox": [
             70.0199966430664,
@@ -245,7 +245,7 @@
           ]
         },
         {
-          "y": 186.7,
+          "y": 187,
           "text": "Service",
           "bbox": [
             95.99856567382812,
@@ -279,7 +279,7 @@
           ]
         },
         {
-          "y": 204.9,
+          "y": 205,
           "text": "PAY + SI + NPA",
           "bbox": [
             95.99856567382812,
@@ -313,7 +313,7 @@
           ]
         },
         {
-          "y": 207.8,
+          "y": 208,
           "text": "4.",
           "bbox": [
             70.0199966430664,
@@ -347,7 +347,7 @@
           ]
         },
         {
-          "y": 222.9,
+          "y": 223,
           "text": "Whether permanent or temporary",
           "bbox": [
             95.99856567382812,
@@ -381,7 +381,7 @@
           ]
         },
         {
-          "y": 225.9,
+          "y": 226,
           "text": "5.",
           "bbox": [
             70.0199966430664,
@@ -415,7 +415,7 @@
           ]
         },
         {
-          "y": 241.1,
+          "y": 241,
           "text": "6. Home Town as recorded in the Service Book",
           "bbox": [
             70.0199966430664,
@@ -471,7 +471,7 @@
           ]
         },
         {
-          "y": 253.3,
+          "y": 253,
           "text": "Whether wife / husband is employed and if",
           "bbox": [
             95.99856567382812,
@@ -505,7 +505,7 @@
           ]
         },
         {
-          "y": 265.0,
+          "y": 265,
           "text": "7.",
           "bbox": [
             70.0199966430664,
@@ -539,7 +539,7 @@
           ]
         },
         {
-          "y": 270.9,
+          "y": 271,
           "text": "so whether entitled to LTC",
           "bbox": [
             95.99856567382812,
@@ -573,7 +573,7 @@
           ]
         },
         {
-          "y": 289.0,
+          "y": 289,
           "text": "Whether the concession is to be availed for",
           "bbox": [
             95.99856567382812,
@@ -607,7 +607,7 @@
           ]
         },
         {
-          "y": 306.6,
+          "y": 307,
           "text": "visiting home town and if so block for which",
           "bbox": [
             95.99856567382812,
@@ -641,7 +641,7 @@
           ]
         },
         {
-          "y": 309.6,
+          "y": 310,
           "text": "8.",
           "bbox": [
             70.0199966430664,
@@ -675,7 +675,7 @@
           ]
         },
         {
-          "y": 324.2,
+          "y": 324,
           "text": "LTC is to be availed.",
           "bbox": [
             95.99856567382812,
@@ -709,7 +709,7 @@
           ]
         },
         {
-          "y": 342.3,
+          "y": 342,
           "text": "(a) If the concession is to visit anywhere in",
           "bbox": [
             95.99856567382812,
@@ -743,7 +743,7 @@
           ]
         },
         {
-          "y": 359.9,
+          "y": 360,
           "text": "India, the place to be visited.",
           "bbox": [
             95.99856567382812,
@@ -777,7 +777,7 @@
           ]
         },
         {
-          "y": 362.8,
+          "y": 363,
           "text": "9.",
           "bbox": [
             70.0199966430664,
@@ -811,7 +811,7 @@
           ]
         },
         {
-          "y": 377.5,
+          "y": 377,
           "text": "(b) Block for which to be availed.",
           "bbox": [
             95.99856567382812,
@@ -845,7 +845,7 @@
           ]
         },
         {
-          "y": 395.6,
+          "y": 396,
           "text": "Single rail fare/bus fare from the",
           "bbox": [
             95.99856567382812,
@@ -989,7 +989,7 @@
           ]
         },
         {
-          "y": 413.2,
+          "y": 413,
           "text": "headquarters to home town/place of visit by",
           "bbox": [
             95.99856567382812,
@@ -1023,7 +1023,7 @@
           ]
         },
         {
-          "y": 416.2,
+          "y": 416,
           "text": "10.",
           "bbox": [
             70.0199966430664,
@@ -1057,7 +1057,7 @@
           ]
         },
         {
-          "y": 430.8,
+          "y": 431,
           "text": "shortest route.",
           "bbox": [
             95.99856567382812,
@@ -1091,7 +1091,7 @@
           ]
         },
         {
-          "y": 448.9,
+          "y": 449,
           "text": "Persons in respect of whom LTC is proposed to be availed.",
           "bbox": [
             95.99856567382812,
@@ -1125,7 +1125,7 @@
           ]
         },
         {
-          "y": 464.1,
+          "y": 464,
           "text": "S.No Name Age Relationship",
           "bbox": [
             95.99856567382812,
@@ -1225,7 +1225,7 @@
           ]
         },
         {
-          "y": 476.2,
+          "y": 476,
           "text": "1.",
           "bbox": [
             103.62838745117188,
@@ -1259,7 +1259,7 @@
           ]
         },
         {
-          "y": 488.5,
+          "y": 488,
           "text": "2.",
           "bbox": [
             103.62838745117188,
@@ -1293,7 +1293,7 @@
           ]
         },
         {
-          "y": 498.6,
+          "y": 499,
           "text": "11.",
           "bbox": [
             70.0199966430664,
@@ -1327,7 +1327,7 @@
           ]
         },
         {
-          "y": 500.7,
+          "y": 501,
           "text": "3.",
           "bbox": [
             103.62838745117188,
@@ -1361,7 +1361,7 @@
           ]
         },
         {
-          "y": 513.0,
+          "y": 513,
           "text": "4.",
           "bbox": [
             103.62838745117188,
@@ -1395,7 +1395,7 @@
           ]
         },
         {
-          "y": 529.5,
+          "y": 529,
           "text": "5.",
           "bbox": [
             103.62838745117188,
@@ -1429,7 +1429,7 @@
           ]
         },
         {
-          "y": 541.7,
+          "y": 542,
           "text": "6.",
           "bbox": [
             103.62838745117188,
@@ -1463,7 +1463,7 @@
           ]
         },
         {
-          "y": 561.1,
+          "y": 561,
           "text": "Amount of advance required. Rs.",
           "bbox": [
             96.00826263427734,
@@ -1519,7 +1519,7 @@
           ]
         },
         {
-          "y": 567.0,
+          "y": 567,
           "text": "12.",
           "bbox": [
             70.02969360351562,
@@ -1553,7 +1553,7 @@
           ]
         },
         {
-          "y": 596.8,
+          "y": 597,
           "text": "I declare that the particulars furnished above are true and correct to the best of my knowledge. I",
           "bbox": [
             105.07057189941406,
@@ -1587,7 +1587,7 @@
           ]
         },
         {
-          "y": 608.5,
+          "y": 609,
           "text": "undertake to produce the tickets for the outward journey within ten days of receipt of the advance.",
           "bbox": [
             70.0296630859375,
@@ -1621,7 +1621,7 @@
           ]
         },
         {
-          "y": 632.1,
+          "y": 632,
           "text": "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of",
           "bbox": [
             105.08027648925781,
@@ -1655,7 +1655,7 @@
           ]
         },
         {
-          "y": 643.8,
+          "y": 644,
           "text": "advance, I undertake to refund the entire advance in one lump sum.",
           "bbox": [
             70.0394287109375,
@@ -1689,7 +1689,7 @@
           ]
         },
         {
-          "y": 679.0,
+          "y": 679,
           "text": "Date",
           "bbox": [
             70.0394287109375,
@@ -1723,7 +1723,7 @@
           ]
         },
         {
-          "y": 690.7,
+          "y": 691,
           "text": "Signature of Government Servant.",
           "bbox": [
             403.0445556640625,

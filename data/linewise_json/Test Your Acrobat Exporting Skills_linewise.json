@@ -1,0 +1,2089 @@
+{
+  "filename": "Test Your Acrobat Exporting Skills.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 74,
+          "text": "Export Expert: Test Your Acrobat Exporting Skills",
+          "bbox": [
+            72.0,
+            74.4000244140625,
+            313.4120178222656,
+            86.4000244140625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Export Expert: Test Your Acrobat Exporting Skills ",
+              "origin": [
+                72.0,
+                83.4000244140625
+              ],
+              "bbox": [
+                72.0,
+                74.4000244140625,
+                313.4120178222656,
+                86.4000244140625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 108,
+          "text": "Welcome to the ultimate test of your Acrobat exporting skills! Think you know everything",
+          "bbox": [
+            72.0,
+            108.3599853515625,
+            519.4559326171875,
+            120.3599853515625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Welcome to the ultimate test of your Acrobat exporting skills! Think you know everything ",
+              "origin": [
+                72.0,
+                117.3599853515625
+              ],
+              "bbox": [
+                72.0,
+                108.3599853515625,
+                519.4559326171875,
+                120.3599853515625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 125,
+          "text": "about saving, converting, and exporting PDFs? It's time to put your knowledge to the test.",
+          "bbox": [
+            72.0,
+            125.29998779296875,
+            520.43994140625,
+            137.29998779296875
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "about saving, converting, and exporting PDFs? It's time to put your knowledge to the test. ",
+              "origin": [
+                72.0,
+                134.29998779296875
+              ],
+              "bbox": [
+                72.0,
+                125.29998779296875,
+                520.43994140625,
+                137.29998779296875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 142,
+          "text": "Dive into real-world scenarios, answer intriguing questions, and see if you have what it takes",
+          "bbox": [
+            72.0,
+            142.280029296875,
+            534.7639770507812,
+            154.280029296875
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Dive into real-world scenarios, answer intriguing questions, and see if you have what it takes ",
+              "origin": [
+                72.0,
+                151.280029296875
+              ],
+              "bbox": [
+                72.0,
+                142.280029296875,
+                534.7639770507812,
+                154.280029296875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 159,
+          "text": "to be a true PDF exporting pro",
+          "bbox": [
+            72.0,
+            159.260009765625,
+            224.9720001220703,
+            171.260009765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "to be a true PDF exporting pro ",
+              "origin": [
+                72.0,
+                168.260009765625
+              ],
+              "bbox": [
+                72.0,
+                159.260009765625,
+                224.9720001220703,
+                171.260009765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 201,
+          "text": "1. Yes or No: Can you save a PDF in text format to use with a screen reader?",
+          "bbox": [
+            90.0,
+            201.20001220703125,
+            466.9720153808594,
+            213.20001220703125
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "1.",
+              "origin": [
+                90.0,
+                210.20001220703125
+              ],
+              "bbox": [
+                90.0,
+                201.20001220703125,
+                99.08399963378906,
+                213.20001220703125
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Yes or No:",
+              "origin": [
+                108.0199966430664,
+                210.20001220703125
+              ],
+              "bbox": [
+                108.0199966430664,
+                201.20001220703125,
+                157.97598266601562,
+                213.20001220703125
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " Can you save a PDF in text format to use with a screen reader? ",
+              "origin": [
+                158.0,
+                210.20001220703125
+              ],
+              "bbox": [
+                158.0,
+                201.20001220703125,
+                466.9720153808594,
+                213.20001220703125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 226,
+          "text": "2. True or False: Saving a digitally signed PDF invalidates the signature.",
+          "bbox": [
+            90.0,
+            226.15997314453125,
+            441.11199951171875,
+            238.15997314453125
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "2.",
+              "origin": [
+                90.0,
+                235.15997314453125
+              ],
+              "bbox": [
+                90.0,
+                226.15997314453125,
+                99.08399963378906,
+                238.15997314453125
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "True or False:",
+              "origin": [
+                108.0199966430664,
+                235.15997314453125
+              ],
+              "bbox": [
+                108.0199966430664,
+                226.15997314453125,
+                174.427978515625,
+                238.15997314453125
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " Saving a digitally signed PDF invalidates the signature. ",
+              "origin": [
+                174.44000244140625,
+                235.15997314453125
+              ],
+              "bbox": [
+                174.44000244140625,
+                226.15997314453125,
+                441.11199951171875,
+                238.15997314453125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 251,
+          "text": "3. Scenario: Imagine you're working on an important report and your computer crashes.",
+          "bbox": [
+            90.0,
+            251.1199951171875,
+            527.2998046875,
+            263.1199951171875
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "3.",
+              "origin": [
+                90.0,
+                260.1199951171875
+              ],
+              "bbox": [
+                90.0,
+                251.1199951171875,
+                99.08399963378906,
+                263.1199951171875
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Scenario:",
+              "origin": [
+                108.0199966430664,
+                260.1199951171875
+              ],
+              "bbox": [
+                108.0199966430664,
+                251.1199951171875,
+                154.14797973632812,
+                263.1199951171875
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " Imagine you're working on an important report and your computer crashes. ",
+              "origin": [
+                154.16000366210938,
+                260.1199951171875
+              ],
+              "bbox": [
+                154.16000366210938,
+                251.1199951171875,
+                527.2998046875,
+                263.1199951171875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 268,
+          "text": "Do you rely on the Autosave feature to recover your work or start from scratch?",
+          "bbox": [
+            108.0199966430664,
+            268.0999755859375,
+            497.81201171875,
+            280.0999755859375
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Do you rely on the Autosave feature to recover your work or start from scratch? ",
+              "origin": [
+                108.0199966430664,
+                277.0999755859375
+              ],
+              "bbox": [
+                108.0199966430664,
+                268.0999755859375,
+                497.81201171875,
+                280.0999755859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 293,
+          "text": "4. Yes or No: Can you recover the last saved version of a PDF if you accidentally delete it?",
+          "bbox": [
+            90.0,
+            293.05999755859375,
+            530.9920043945312,
+            305.05999755859375
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "4.",
+              "origin": [
+                90.0,
+                302.05999755859375
+              ],
+              "bbox": [
+                90.0,
+                293.05999755859375,
+                99.08399963378906,
+                305.05999755859375
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Yes or No:",
+              "origin": [
+                108.0199966430664,
+                302.05999755859375
+              ],
+              "bbox": [
+                108.0199966430664,
+                293.05999755859375,
+                157.97598266601562,
+                305.05999755859375
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " Can you recover the last saved version of a PDF if you accidentally delete it? ",
+              "origin": [
+                158.0,
+                302.05999755859375
+              ],
+              "bbox": [
+                158.0,
+                293.05999755859375,
+                530.9920043945312,
+                305.05999755859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 318,
+          "text": "5. True or False: The Autosave feature in Acrobat saves your work every 15 minutes by",
+          "bbox": [
+            90.0,
+            318.0199890136719,
+            518.4318237304688,
+            330.0199890136719
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "5.",
+              "origin": [
+                90.0,
+                327.0199890136719
+              ],
+              "bbox": [
+                90.0,
+                318.0199890136719,
+                99.08399963378906,
+                330.0199890136719
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "True or False:",
+              "origin": [
+                108.0199966430664,
+                327.0199890136719
+              ],
+              "bbox": [
+                108.0199966430664,
+                318.0199890136719,
+                174.427978515625,
+                330.0199890136719
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " The Autosave feature in Acrobat saves your work every 15 minutes by ",
+              "origin": [
+                174.44000244140625,
+                327.0199890136719
+              ],
+              "bbox": [
+                174.44000244140625,
+                318.0199890136719,
+                518.4318237304688,
+                330.0199890136719
+              ]
+            }
+          ]
+        },
+        {
+          "y": 335,
+          "text": "default.",
+          "bbox": [
+            108.0199966430664,
+            335.0,
+            148.17201232910156,
+            347.0
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "default. ",
+              "origin": [
+                108.0199966430664,
+                344.0
+              ],
+              "bbox": [
+                108.0199966430664,
+                335.0,
+                148.17201232910156,
+                347.0
+              ]
+            }
+          ]
+        },
+        {
+          "y": 360,
+          "text": "6. Scenario: You're preparing a presentation for a big meeting. Do you use Acrobat to",
+          "bbox": [
+            90.0,
+            359.9599914550781,
+            511.85595703125,
+            371.9599914550781
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "6.",
+              "origin": [
+                90.0,
+                368.9599914550781
+              ],
+              "bbox": [
+                90.0,
+                359.9599914550781,
+                99.08399963378906,
+                371.9599914550781
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Scenario:",
+              "origin": [
+                108.0199966430664,
+                368.9599914550781
+              ],
+              "bbox": [
+                108.0199966430664,
+                359.9599914550781,
+                154.13597106933594,
+                371.9599914550781
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " You're preparing a presentation for a big meeting. Do you use Acrobat to ",
+              "origin": [
+                154.16000366210938,
+                368.9599914550781
+              ],
+              "bbox": [
+                154.16000366210938,
+                359.9599914550781,
+                511.85595703125,
+                371.9599914550781
+              ]
+            }
+          ]
+        },
+        {
+          "y": 377,
+          "text": "convert your PDF to a PowerPoint file or manually recreate the slides?",
+          "bbox": [
+            108.0199966430664,
+            376.94000244140625,
+            450.5320129394531,
+            388.94000244140625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "convert your PDF to a PowerPoint file or manually recreate the slides? ",
+              "origin": [
+                108.0199966430664,
+                385.94000244140625
+              ],
+              "bbox": [
+                108.0199966430664,
+                376.94000244140625,
+                450.5320129394531,
+                388.94000244140625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 402,
+          "text": "7. Yes or No: Can you export a PDF to a reusable format like Microsoft Word?",
+          "bbox": [
+            90.0,
+            401.9200134277344,
+            472.9720153808594,
+            413.9200134277344
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "7.",
+              "origin": [
+                90.0,
+                410.9200134277344
+              ],
+              "bbox": [
+                90.0,
+                401.9200134277344,
+                99.08399963378906,
+                413.9200134277344
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Yes or No:",
+              "origin": [
+                108.0199966430664,
+                410.9200134277344
+              ],
+              "bbox": [
+                108.0199966430664,
+                401.9200134277344,
+                157.97598266601562,
+                413.9200134277344
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " Can you export a PDF to a reusable format like Microsoft Word? ",
+              "origin": [
+                158.0,
+                410.9200134277344
+              ],
+              "bbox": [
+                158.0,
+                401.9200134277344,
+                472.9720153808594,
+                413.9200134277344
+              ]
+            }
+          ]
+        },
+        {
+          "y": 427,
+          "text": "8. True or False: Acrobat Reader users can save a copy of a PDF if the creator has enabled",
+          "bbox": [
+            90.0,
+            426.8800048828125,
+            532.2078247070312,
+            438.8800048828125
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "8.",
+              "origin": [
+                90.0,
+                435.8800048828125
+              ],
+              "bbox": [
+                90.0,
+                426.8800048828125,
+                99.08399963378906,
+                438.8800048828125
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "True or False:",
+              "origin": [
+                108.0199966430664,
+                435.8800048828125
+              ],
+              "bbox": [
+                108.0199966430664,
+                426.8800048828125,
+                174.427978515625,
+                438.8800048828125
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " Acrobat Reader users can save a copy of a PDF if the creator has enabled ",
+              "origin": [
+                174.44000244140625,
+                435.8800048828125
+              ],
+              "bbox": [
+                174.44000244140625,
+                426.8800048828125,
+                532.2078247070312,
+                438.8800048828125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 444,
+          "text": "usage rights.",
+          "bbox": [
+            108.0199966430664,
+            443.8599853515625,
+            172.17201232910156,
+            455.8599853515625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "usage rights. ",
+              "origin": [
+                108.0199966430664,
+                452.8599853515625
+              ],
+              "bbox": [
+                108.0199966430664,
+                443.8599853515625,
+                172.17201232910156,
+                455.8599853515625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 469,
+          "text": "9. Scenario: You're a graphic designer who needs to save a copy of a PDF Portfolio for a",
+          "bbox": [
+            90.0,
+            468.82000732421875,
+            520.867919921875,
+            480.82000732421875
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "9.",
+              "origin": [
+                90.0,
+                477.82000732421875
+              ],
+              "bbox": [
+                90.0,
+                468.82000732421875,
+                99.08399963378906,
+                480.82000732421875
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Scenario:",
+              "origin": [
+                108.0199966430664,
+                477.82000732421875
+              ],
+              "bbox": [
+                108.0199966430664,
+                468.82000732421875,
+                154.13597106933594,
+                480.82000732421875
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " You're a graphic designer who needs to save a copy of a PDF Portfolio for a ",
+              "origin": [
+                154.16000366210938,
+                477.82000732421875
+              ],
+              "bbox": [
+                154.16000366210938,
+                468.82000732421875,
+                520.867919921875,
+                480.82000732421875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 486,
+          "text": "client. Do you use \"File > Save\" or \"File > Save As\"?",
+          "bbox": [
+            108.0199966430664,
+            485.79998779296875,
+            356.5119934082031,
+            497.79998779296875
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "client. Do you use \"File > Save\" or \"File > Save As\"? ",
+              "origin": [
+                108.0199966430664,
+                494.79998779296875
+              ],
+              "bbox": [
+                108.0199966430664,
+                485.79998779296875,
+                356.5119934082031,
+                497.79998779296875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 511,
+          "text": "10. Yes or No: Does the Autosave feature work if a document's security settings are",
+          "bbox": [
+            90.0,
+            510.760009765625,
+            496.72393798828125,
+            522.760009765625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "10.",
+              "origin": [
+                90.0,
+                519.760009765625
+              ],
+              "bbox": [
+                90.0,
+                510.760009765625,
+                105.14399719238281,
+                522.760009765625
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Yes or No:",
+              "origin": [
+                108.0199966430664,
+                519.760009765625
+              ],
+              "bbox": [
+                108.0199966430664,
+                510.760009765625,
+                157.97598266601562,
+                522.760009765625
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " Does the Autosave feature work if a document's security settings are ",
+              "origin": [
+                158.0,
+                519.760009765625
+              ],
+              "bbox": [
+                158.0,
+                510.760009765625,
+                496.72393798828125,
+                522.760009765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 528,
+          "text": "changed?",
+          "bbox": [
+            108.0199966430664,
+            527.739990234375,
+            157.53201293945312,
+            539.739990234375
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "changed? ",
+              "origin": [
+                108.0199966430664,
+                536.739990234375
+              ],
+              "bbox": [
+                108.0199966430664,
+                527.739990234375,
+                157.53201293945312,
+                539.739990234375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 553,
+          "text": "11. True or False: You can convert a PDF to a Microsoft PowerPoint presentation using",
+          "bbox": [
+            90.0,
+            552.7000122070312,
+            509.8158874511719,
+            564.7000122070312
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "11.",
+              "origin": [
+                90.0,
+                561.7000122070312
+              ],
+              "bbox": [
+                90.0,
+                552.7000122070312,
+                105.14399719238281,
+                564.7000122070312
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "True or False:",
+              "origin": [
+                108.0199966430664,
+                561.7000122070312
+              ],
+              "bbox": [
+                108.0199966430664,
+                552.7000122070312,
+                174.427978515625,
+                564.7000122070312
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " You can convert a PDF to a Microsoft PowerPoint presentation using ",
+              "origin": [
+                174.44000244140625,
+                561.7000122070312
+              ],
+              "bbox": [
+                174.44000244140625,
+                552.7000122070312,
+                509.8158874511719,
+                564.7000122070312
+              ]
+            }
+          ]
+        },
+        {
+          "y": 570,
+          "text": "Acrobat.",
+          "bbox": [
+            108.0199966430664,
+            569.6799926757812,
+            152.07200622558594,
+            581.6799926757812
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Acrobat. ",
+              "origin": [
+                108.0199966430664,
+                578.6799926757812
+              ],
+              "bbox": [
+                108.0199966430664,
+                569.6799926757812,
+                152.07200622558594,
+                581.6799926757812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 595,
+          "text": "12. Scenario: You're a student who needs to convert a PDF to a DOCX file for your thesis. Do",
+          "bbox": [
+            90.0,
+            594.6400146484375,
+            538.7958374023438,
+            606.6400146484375
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "12.",
+              "origin": [
+                90.0,
+                603.6400146484375
+              ],
+              "bbox": [
+                90.0,
+                594.6400146484375,
+                105.14399719238281,
+                606.6400146484375
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Scenario:",
+              "origin": [
+                108.0199966430664,
+                603.6400146484375
+              ],
+              "bbox": [
+                108.0199966430664,
+                594.6400146484375,
+                154.13597106933594,
+                606.6400146484375
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " You're a student who needs to convert a PDF to a DOCX file for your thesis. Do ",
+              "origin": [
+                154.16000366210938,
+                603.6400146484375
+              ],
+              "bbox": [
+                154.16000366210938,
+                594.6400146484375,
+                538.7958374023438,
+                606.6400146484375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 612,
+          "text": "you use the \"Convert\" button in Acrobat or retype the entire document?",
+          "bbox": [
+            108.0199966430664,
+            611.6199951171875,
+            462.4720153808594,
+            623.6199951171875
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "you use the \"Convert\" button in Acrobat or retype the entire document? ",
+              "origin": [
+                108.0199966430664,
+                620.6199951171875
+              ],
+              "bbox": [
+                108.0199966430664,
+                611.6199951171875,
+                462.4720153808594,
+                623.6199951171875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 637,
+          "text": "13. Yes or No: Can you export images from a PDF to another format using Acrobat?",
+          "bbox": [
+            90.0,
+            636.5800170898438,
+            495.8919982910156,
+            648.5800170898438
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "13.",
+              "origin": [
+                90.0,
+                645.5800170898438
+              ],
+              "bbox": [
+                90.0,
+                636.5800170898438,
+                105.14399719238281,
+                648.5800170898438
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Yes or No:",
+              "origin": [
+                108.0199966430664,
+                645.5800170898438
+              ],
+              "bbox": [
+                108.0199966430664,
+                636.5800170898438,
+                157.97598266601562,
+                648.5800170898438
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " Can you export images from a PDF to another format using Acrobat? ",
+              "origin": [
+                158.0,
+                645.5800170898438
+              ],
+              "bbox": [
+                158.0,
+                636.5800170898438,
+                495.8919982910156,
+                648.5800170898438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 662,
+          "text": "14. True or False: Higher resolutions, like 2400 ppi, are suitable for small page sizes.",
+          "bbox": [
+            90.0,
+            661.5399780273438,
+            498.4720153808594,
+            673.5399780273438
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "14.",
+              "origin": [
+                90.0,
+                670.5399780273438
+              ],
+              "bbox": [
+                90.0,
+                661.5399780273438,
+                105.14399719238281,
+                673.5399780273438
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "True or False:",
+              "origin": [
+                108.0199966430664,
+                670.5399780273438
+              ],
+              "bbox": [
+                108.0199966430664,
+                661.5399780273438,
+                174.427978515625,
+                673.5399780273438
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " Higher resolutions, like 2400 ppi, are suitable for small page sizes. ",
+              "origin": [
+                174.44000244140625,
+                670.5399780273438
+              ],
+              "bbox": [
+                174.44000244140625,
+                661.5399780273438,
+                498.4720153808594,
+                673.5399780273438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 687,
+          "text": "15. Scenario: You're a photographer who wants to save a PDF as a JPEG image for your",
+          "bbox": [
+            90.0,
+            686.52001953125,
+            512.7799072265625,
+            698.52001953125
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "15.",
+              "origin": [
+                90.0,
+                695.52001953125
+              ],
+              "bbox": [
+                90.0,
+                686.52001953125,
+                105.14399719238281,
+                698.52001953125
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Scenario:",
+              "origin": [
+                108.0199966430664,
+                695.52001953125
+              ],
+              "bbox": [
+                108.0199966430664,
+                686.52001953125,
+                154.13597106933594,
+                698.52001953125
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " You're a photographer who wants to save a PDF as a JPEG image for your ",
+              "origin": [
+                154.16000366210938,
+                695.52001953125
+              ],
+              "bbox": [
+                154.16000366210938,
+                686.52001953125,
+                512.7799072265625,
+                698.52001953125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 704,
+          "text": "portfolio. Do you use the \"Convert to JPEG\" option or take a screenshot?",
+          "bbox": [
+            108.0199966430664,
+            703.5,
+            462.5920104980469,
+            715.5
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "portfolio. Do you use the \"Convert to JPEG\" option or take a screenshot? ",
+              "origin": [
+                108.0199966430664,
+                712.5
+              ],
+              "bbox": [
+                108.0199966430664,
+                703.5,
+                462.5920104980469,
+                715.5
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "page_width": 612.0,
+      "page_height": 792.0,
+      "lines": [
+        {
+          "y": 74,
+          "text": "16. Yes or No: Can you export a PDF to XML format using Acrobat?",
+          "bbox": [
+            90.0,
+            74.4000244140625,
+            415.37200927734375,
+            86.4000244140625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "16.",
+              "origin": [
+                90.0,
+                83.4000244140625
+              ],
+              "bbox": [
+                90.0,
+                74.4000244140625,
+                105.14399719238281,
+                86.4000244140625
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Yes or No:",
+              "origin": [
+                108.0199966430664,
+                83.4000244140625
+              ],
+              "bbox": [
+                108.0199966430664,
+                74.4000244140625,
+                157.97598266601562,
+                86.4000244140625
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " Can you export a PDF to XML format using Acrobat? ",
+              "origin": [
+                158.0,
+                83.4000244140625
+              ],
+              "bbox": [
+                158.0,
+                74.4000244140625,
+                415.37200927734375,
+                86.4000244140625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 99,
+          "text": "17. True or False: You can use the Snapshot tool to copy selected content as an image.",
+          "bbox": [
+            90.0,
+            99.3599853515625,
+            511.25201416015625,
+            111.3599853515625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "17.",
+              "origin": [
+                90.0,
+                108.3599853515625
+              ],
+              "bbox": [
+                90.0,
+                99.3599853515625,
+                105.14399719238281,
+                111.3599853515625
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "True or False:",
+              "origin": [
+                108.0199966430664,
+                108.3599853515625
+              ],
+              "bbox": [
+                108.0199966430664,
+                99.3599853515625,
+                174.427978515625,
+                111.3599853515625
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " You can use the Snapshot tool to copy selected content as an image. ",
+              "origin": [
+                174.44000244140625,
+                108.3599853515625
+              ],
+              "bbox": [
+                174.44000244140625,
+                99.3599853515625,
+                511.25201416015625,
+                111.3599853515625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 124,
+          "text": "18. Scenario: You're a web developer who needs to export a PDF to HTML for your website.",
+          "bbox": [
+            90.0,
+            124.34002685546875,
+            536.3959350585938,
+            136.34002685546875
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "18.",
+              "origin": [
+                90.0,
+                133.34002685546875
+              ],
+              "bbox": [
+                90.0,
+                124.34002685546875,
+                105.14399719238281,
+                136.34002685546875
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Scenario:",
+              "origin": [
+                108.0199966430664,
+                133.34002685546875
+              ],
+              "bbox": [
+                108.0199966430664,
+                124.34002685546875,
+                154.13597106933594,
+                136.34002685546875
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " You're a web developer who needs to export a PDF to HTML for your website. ",
+              "origin": [
+                154.16000366210938,
+                133.34002685546875
+              ],
+              "bbox": [
+                154.16000366210938,
+                124.34002685546875,
+                536.3959350585938,
+                136.34002685546875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 141,
+          "text": "Do you use the \"Convert to HTML\" option or manually code the content?",
+          "bbox": [
+            108.0199966430664,
+            141.32000732421875,
+            465.11199951171875,
+            153.32000732421875
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Do you use the \"Convert to HTML\" option or manually code the content? ",
+              "origin": [
+                108.0199966430664,
+                150.32000732421875
+              ],
+              "bbox": [
+                108.0199966430664,
+                141.32000732421875,
+                465.11199951171875,
+                153.32000732421875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 166,
+          "text": "19. Yes or No: Can you select and copy text and images from a PDF using the Select tool?",
+          "bbox": [
+            90.0,
+            166.280029296875,
+            523.6719970703125,
+            178.280029296875
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "19.",
+              "origin": [
+                90.0,
+                175.280029296875
+              ],
+              "bbox": [
+                90.0,
+                166.280029296875,
+                105.14399719238281,
+                178.280029296875
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "Yes or No:",
+              "origin": [
+                108.0199966430664,
+                175.280029296875
+              ],
+              "bbox": [
+                108.0199966430664,
+                166.280029296875,
+                157.97598266601562,
+                178.280029296875
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " Can you select and copy text and images from a PDF using the Select tool? ",
+              "origin": [
+                158.0,
+                175.280029296875
+              ],
+              "bbox": [
+                158.0,
+                166.280029296875,
+                523.6719970703125,
+                178.280029296875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 191,
+          "text": "20. True or False: The Autosave feature is disabled by default in Acrobat.",
+          "bbox": [
+            90.0,
+            191.239990234375,
+            444.7720031738281,
+            203.239990234375
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "20.",
+              "origin": [
+                90.0,
+                200.239990234375
+              ],
+              "bbox": [
+                90.0,
+                191.239990234375,
+                105.14399719238281,
+                203.239990234375
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Calibri-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "True or False:",
+              "origin": [
+                108.0199966430664,
+                200.239990234375
+              ],
+              "bbox": [
+                108.0199966430664,
+                191.239990234375,
+                174.427978515625,
+                203.239990234375
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": " The Autosave feature is disabled by default in Acrobat. ",
+              "origin": [
+                174.44000244140625,
+                200.239990234375
+              ],
+              "bbox": [
+                174.44000244140625,
+                191.239990234375,
+                444.7720031738281,
+                203.239990234375
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

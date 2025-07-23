@@ -7,7 +7,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 51.4,
+          "y": 51,
           "text": "NATIONAL PARTNERSHIP FOR QUALITY AFTERSCHOOL LEARNING",
           "bbox": [
             55.0,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 64.4,
+          "y": 64,
           "text": "www.sedl.org/afterschool/toolkits",
           "bbox": [
             54.0,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 85.4,
+          "y": 85,
           "text": "\u0002\u0005\u000f\u0004 \u000e\u0003\u0007 \u000f \u0002\b \b \u0006 \u000f \b\u000f",
           "bbox": [
             54.50005340576172,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 106.9,
+          "y": 107,
           "text": "Tutoring to Enhance Science Skills",
           "bbox": [
             54.0,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 124.7,
+          "y": 125,
           "text": "Tutoring Two: Learning to Make Data Tables",
           "bbox": [
             54.0,
@@ -199,7 +199,7 @@
           ]
         },
         {
-          "y": 134.4,
+          "y": 134,
           "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
           "bbox": [
             54.0,
@@ -233,7 +233,7 @@
           ]
         },
         {
-          "y": 156.2,
+          "y": 156,
           "text": "Sample Data for Data Tables",
           "bbox": [
             53.0,
@@ -267,7 +267,7 @@
           ]
         },
         {
-          "y": 177.4,
+          "y": 177,
           "text": "Use these data to create data tables following the Guidelines for Making a Data Table and",
           "bbox": [
             54.0,
@@ -301,7 +301,7 @@
           ]
         },
         {
-          "y": 190.6,
+          "y": 191,
           "text": "Checklist for a Data Table.",
           "bbox": [
             54.0,
@@ -335,7 +335,7 @@
           ]
         },
         {
-          "y": 217.0,
+          "y": 217,
           "text": "Example 1: Pet Survey (GR 2–3)",
           "bbox": [
             54.0,
@@ -369,7 +369,7 @@
           ]
         },
         {
-          "y": 230.2,
+          "y": 230,
           "text": "Ms. Hubert’s afterschool students took a survey of the 600 students at Morales Elementary",
           "bbox": [
             54.0,
@@ -403,7 +403,7 @@
           ]
         },
         {
-          "y": 243.4,
+          "y": 243,
           "text": "School. Students were asked to select their favorite pet from a list of eight animals. Here",
           "bbox": [
             54.0,
@@ -437,7 +437,7 @@
           ]
         },
         {
-          "y": 256.6,
+          "y": 257,
           "text": "are the results.",
           "bbox": [
             54.0,
@@ -471,7 +471,7 @@
           ]
         },
         {
-          "y": 269.8,
+          "y": 270,
           "text": "Lizard 25, Dog 250, Cat 115, Bird 50, Guinea pig 30, Hamster 45, Fish 75,",
           "bbox": [
             90.0,
@@ -505,7 +505,7 @@
           ]
         },
         {
-          "y": 283.0,
+          "y": 283,
           "text": "Ferret 10",
           "bbox": [
             90.0,
@@ -539,7 +539,7 @@
           ]
         },
         {
-          "y": 309.4,
+          "y": 309,
           "text": "Example 2: Electromagnets—Increasing Coils (GR 3–5)",
           "bbox": [
             54.0,
@@ -573,7 +573,7 @@
           ]
         },
         {
-          "y": 322.6,
+          "y": 323,
           "text": "The following data were collected using an electromagnet with a 1.5 volt battery, a switch,",
           "bbox": [
             54.0,
@@ -607,7 +607,7 @@
           ]
         },
         {
-          "y": 335.8,
+          "y": 336,
           "text": "a piece of #20 insulated wire, and a nail. Three trials were run. Safety precautions in",
           "bbox": [
             54.0,
@@ -663,7 +663,7 @@
           ]
         },
         {
-          "y": 349.0,
+          "y": 349,
           "text": "repeating this experiment include using safety goggles or safety spectacles and avoiding",
           "bbox": [
             54.0,
@@ -697,7 +697,7 @@
           ]
         },
         {
-          "y": 362.2,
+          "y": 362,
           "text": "short circuits.",
           "bbox": [
             54.0,
@@ -731,7 +731,7 @@
           ]
         },
         {
-          "y": 383.6,
+          "y": 384,
           "text": "Number of Coils Number of Paperclips",
           "bbox": [
             120.7572021484375,
@@ -787,7 +787,7 @@
           ]
         },
         {
-          "y": 401.8,
+          "y": 402,
           "text": "5 3, 5, 4",
           "bbox": [
             151.63758850097656,
@@ -865,7 +865,7 @@
           ]
         },
         {
-          "y": 420.0,
+          "y": 420,
           "text": "10 7, 8, 6",
           "bbox": [
             135.0,
@@ -921,7 +921,7 @@
           ]
         },
         {
-          "y": 438.2,
+          "y": 438,
           "text": "15 11, 10, 12",
           "bbox": [
             135.0,
@@ -999,7 +999,7 @@
           ]
         },
         {
-          "y": 456.4,
+          "y": 456,
           "text": "20 15, 13, 14",
           "bbox": [
             135.0,
@@ -1077,7 +1077,7 @@
           ]
         },
         {
-          "y": 485.4,
+          "y": 485,
           "text": "Example 3: pH of Substances (GR 5–10)",
           "bbox": [
             54.0,
@@ -1111,7 +1111,7 @@
           ]
         },
         {
-          "y": 498.6,
+          "y": 499,
           "text": "The following are pH values of common household substances taken by three different",
           "bbox": [
             54.0,
@@ -1145,7 +1145,7 @@
           ]
         },
         {
-          "y": 511.8,
+          "y": 512,
           "text": "teams using pH probes. Safety precautions in repeating this experiment include hooded",
           "bbox": [
             54.0,
@@ -1201,7 +1201,7 @@
           ]
         },
         {
-          "y": 525.0,
+          "y": 525,
           "text": "ventilation, chemical-splash safety goggles, gloves, and apron. Do not use bleach,",
           "bbox": [
             54.0,
@@ -1235,7 +1235,7 @@
           ]
         },
         {
-          "y": 538.2,
+          "y": 538,
           "text": "ammonia, or strong acids with children.",
           "bbox": [
             54.0,
@@ -1269,7 +1269,7 @@
           ]
         },
         {
-          "y": 557.1,
+          "y": 557,
           "text": "Lemon juice 2.4, 2.0, 2.2; Baking soda (1 Tbsp) in Water (1 cup) 8.4, 8.3, 8.7;",
           "bbox": [
             90.0,
@@ -1303,7 +1303,7 @@
           ]
         },
         {
-          "y": 570.3,
+          "y": 570,
           "text": "Orange juice 3.5, 4.0, 3.4; Battery acid 1.0, 0.7, 0.5; Apples 3.0, 3.2, 3.5;",
           "bbox": [
             90.0,
@@ -1337,7 +1337,7 @@
           ]
         },
         {
-          "y": 583.5,
+          "y": 584,
           "text": "Tomatoes 4.5, 4.2, 4.0; Bottled water 6.7, 7.0, 7.2; Milk of magnesia 10.5, 10.3,",
           "bbox": [
             90.0,
@@ -1371,7 +1371,7 @@
           ]
         },
         {
-          "y": 596.7,
+          "y": 597,
           "text": "10.6; Liquid hand soap 9.0, 10.0, 9.5; Vinegar 2.2, 2.9, 3.0; Household bleach",
           "bbox": [
             90.0,
@@ -1405,7 +1405,7 @@
           ]
         },
         {
-          "y": 609.9,
+          "y": 610,
           "text": "12.5, 12.5, 12.7; Milk 6.6, 6.5, 6.4; Household ammonia 11.5, 11.0, 11.5;",
           "bbox": [
             90.0,
@@ -1439,7 +1439,7 @@
           ]
         },
         {
-          "y": 623.1,
+          "y": 623,
           "text": "Lye 13.0, 13.5, 13.4; and Sodium hydroxide 14.0, 14.0, 13.9; Anti-freeze 10.1,",
           "bbox": [
             90.0,
@@ -1473,7 +1473,7 @@
           ]
         },
         {
-          "y": 636.3,
+          "y": 636,
           "text": "10.9, 9.7; Windex 9.9. 10.2, 9.5; Liquid detergent 10.5, 10.0, 10.3; and",
           "bbox": [
             90.0,
@@ -1507,7 +1507,7 @@
           ]
         },
         {
-          "y": 649.5,
+          "y": 650,
           "text": "Cola 3.0, 2.5, 3.2",
           "bbox": [
             90.0,
@@ -1541,7 +1541,7 @@
           ]
         },
         {
-          "y": 675.9,
+          "y": 676,
           "text": "Teaching tip: The pH scale is from 0 to 14. Have students make two data tables, one",
           "bbox": [
             72.0,
@@ -1597,7 +1597,7 @@
           ]
         },
         {
-          "y": 689.1,
+          "y": 689,
           "text": "with the data as given and one with the pH scale 0 to 14 with the substances’ average",
           "bbox": [
             72.0,
@@ -1631,7 +1631,7 @@
           ]
         },
         {
-          "y": 702.3,
+          "y": 702,
           "text": "pH in rank order on the scale (Battery acid at the lower end and Sodium hydroxide at",
           "bbox": [
             72.0,
@@ -1665,13 +1665,13 @@
           ]
         },
         {
-          "y": 716.7,
-          "text": "the upper end) or create a pH graphic organizer",
+          "y": 717,
+          "text": "the upper end) or create a pH graphic organizer .",
           "bbox": [
             72.0,
             716.7311401367188,
-            335.6812438964844,
-            730.0081176757812
+            338.56915283203125,
+            730.3231201171875
           ],
           "spans": [
             {
@@ -1695,19 +1695,7 @@
                 335.6812438964844,
                 730.0081176757812
               ]
-            }
-          ]
-        },
-        {
-          "y": 716.8,
-          "text": ".",
-          "bbox": [
-            335.56915283203125,
-            716.775146484375,
-            338.56915283203125,
-            730.3231201171875
-          ],
-          "spans": [
+            },
             {
               "size": 12.0,
               "flags": 6,
@@ -1733,7 +1721,7 @@
           ]
         },
         {
-          "y": 740.4,
+          "y": 740,
           "text": "1",
           "bbox": [
             304.50341796875,
@@ -1774,7 +1762,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 61.4,
+          "y": 61,
           "text": "Example 4: Automobile Land Speed Records (GR 5-10)",
           "bbox": [
             54.0,
@@ -1808,7 +1796,7 @@
           ]
         },
         {
-          "y": 74.6,
+          "y": 75,
           "text": "In the first recorded automobile race in 1898, Count Gaston de Chasseloup-Laubat of",
           "bbox": [
             54.0,
@@ -1842,7 +1830,7 @@
           ]
         },
         {
-          "y": 87.8,
+          "y": 88,
           "text": "Paris, France, drove 1 kilometer in 57 seconds for an average speed of 39.2 miles per hour",
           "bbox": [
             54.0,
@@ -1876,7 +1864,7 @@
           ]
         },
         {
-          "y": 101.0,
+          "y": 101,
           "text": "(mph) or 63.1 kilometers per hour (kph). In 1904, Henry Ford drove his Ford Arrow across",
           "bbox": [
             54.0,
@@ -1910,7 +1898,7 @@
           ]
         },
         {
-          "y": 114.2,
+          "y": 114,
           "text": "frozen Lake St. Clair, MI, at an average speed of 91.4 mph. Now, the North American",
           "bbox": [
             54.0,
@@ -1944,7 +1932,7 @@
           ]
         },
         {
-          "y": 127.4,
+          "y": 127,
           "text": "Eagle is trying to break a land speed record of 800 mph. The Federation International de",
           "bbox": [
             54.0,
@@ -1978,7 +1966,7 @@
           ]
         },
         {
-          "y": 140.6,
+          "y": 141,
           "text": "L’Automobile (FIA), the world’s governing body for motor sport and land speed records,",
           "bbox": [
             54.0,
@@ -2012,7 +2000,7 @@
           ]
         },
         {
-          "y": 153.8,
+          "y": 154,
           "text": "recorded the following land speed records. (Retrieved on February 5, 2006, from",
           "bbox": [
             54.0,
@@ -2046,7 +2034,7 @@
           ]
         },
         {
-          "y": 167.0,
+          "y": 167,
           "text": "http://www.landspeed.com/lsrinfo.asp .)",
           "bbox": [
             54.0,
@@ -2102,15 +2090,59 @@
           ]
         },
         {
-          "y": 198.6,
-          "text": "Car Engine Date",
+          "y": 199,
+          "text": "Speed (mph) Driver Car Engine Date",
           "bbox": [
-            274.0,
+            66.0,
             198.646484375,
             524.1799926757812,
-            210.7264862060547
+            211.4911346435547
           ],
           "spans": [
+            {
+              "size": 10.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Verdana-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 1.0,
+              "descender": -0.20800000429153442,
+              "text": "Speed (mph)",
+              "origin": [
+                66.0,
+                209.4111328125
+              ],
+              "bbox": [
+                66.0,
+                199.4111328125,
+                139.32998657226562,
+                211.4911346435547
+              ]
+            },
+            {
+              "size": 10.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Verdana-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 1.0,
+              "descender": -0.20800000429153442,
+              "text": "Driver",
+              "origin": [
+                165.0,
+                209.4111328125
+              ],
+              "bbox": [
+                165.0,
+                199.4111328125,
+                199.8000030517578,
+                211.4911346435547
+              ]
+            },
             {
               "size": 10.0,
               "flags": 16,
@@ -2180,63 +2212,7 @@
           ]
         },
         {
-          "y": 199.4,
-          "text": "Speed (mph) Driver",
-          "bbox": [
-            66.0,
-            199.4111328125,
-            199.8000030517578,
-            211.4911346435547
-          ],
-          "spans": [
-            {
-              "size": 10.0,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Verdana-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0,
-              "descender": -0.20800000429153442,
-              "text": "Speed (mph)",
-              "origin": [
-                66.0,
-                209.4111328125
-              ],
-              "bbox": [
-                66.0,
-                199.4111328125,
-                139.32998657226562,
-                211.4911346435547
-              ]
-            },
-            {
-              "size": 10.0,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Verdana-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0,
-              "descender": -0.20800000429153442,
-              "text": "Driver",
-              "origin": [
-                165.0,
-                209.4111328125
-              ],
-              "bbox": [
-                165.0,
-                199.4111328125,
-                199.8000030517578,
-                211.4911346435547
-              ]
-            }
-          ]
-        },
-        {
-          "y": 220.2,
+          "y": 220,
           "text": "Spirit of America GE J47 8/5/63",
           "bbox": [
             274.0,
@@ -2314,7 +2290,7 @@
           ]
         },
         {
-          "y": 221.0,
+          "y": 221,
           "text": "407.447 Craig Breedlove",
           "bbox": [
             66.0,
@@ -2370,7 +2346,7 @@
           ]
         },
         {
-          "y": 241.8,
+          "y": 242,
           "text": "Wingfoot Express WE J46 10/2/64",
           "bbox": [
             274.0,
@@ -2448,7 +2424,7 @@
           ]
         },
         {
-          "y": 242.6,
+          "y": 243,
           "text": "413.199 Tom Green",
           "bbox": [
             66.0,
@@ -2504,7 +2480,7 @@
           ]
         },
         {
-          "y": 263.4,
+          "y": 263,
           "text": "Green Monster GE J79 10/5/64",
           "bbox": [
             274.0,
@@ -2582,7 +2558,7 @@
           ]
         },
         {
-          "y": 264.2,
+          "y": 264,
           "text": "434.22 Art Arfons",
           "bbox": [
             66.0,
@@ -2638,7 +2614,7 @@
           ]
         },
         {
-          "y": 285.0,
+          "y": 285,
           "text": "Spirit of America GE J79 10/13/64",
           "bbox": [
             274.0,
@@ -2716,7 +2692,7 @@
           ]
         },
         {
-          "y": 285.8,
+          "y": 286,
           "text": "468.719 Craig Breedlove",
           "bbox": [
             66.0,
@@ -2772,15 +2748,59 @@
           ]
         },
         {
-          "y": 306.6,
-          "text": "Spirit of America GE J79 10/15/65",
+          "y": 307,
+          "text": "526.277 Craig Breedlove Spirit of America GE J79 10/15/65",
           "bbox": [
-            274.0,
+            66.0,
             306.646484375,
             545.2398681640625,
-            318.71649169921875
+            319.48114013671875
           ],
           "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Verdana",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 1.0,
+              "descender": -0.2070000022649765,
+              "text": "526.277",
+              "origin": [
+                66.0,
+                317.4111328125
+              ],
+              "bbox": [
+                66.0,
+                307.4111328125,
+                107.49998474121094,
+                319.48114013671875
+              ]
+            },
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Verdana",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 1.0,
+              "descender": -0.2070000022649765,
+              "text": "Craig Breedlove",
+              "origin": [
+                165.0,
+                317.4111328125
+              ],
+              "bbox": [
+                165.0,
+                307.4111328125,
+                243.67001342773438,
+                319.48114013671875
+              ]
+            },
             {
               "size": 10.0,
               "flags": 0,
@@ -2850,63 +2870,7 @@
           ]
         },
         {
-          "y": 307.4,
-          "text": "526.277 Craig Breedlove",
-          "bbox": [
-            66.0,
-            307.4111328125,
-            243.67001342773438,
-            319.48114013671875
-          ],
-          "spans": [
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Verdana",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0,
-              "descender": -0.2070000022649765,
-              "text": "526.277",
-              "origin": [
-                66.0,
-                317.4111328125
-              ],
-              "bbox": [
-                66.0,
-                307.4111328125,
-                107.49998474121094,
-                319.48114013671875
-              ]
-            },
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Verdana",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0,
-              "descender": -0.2070000022649765,
-              "text": "Craig Breedlove",
-              "origin": [
-                165.0,
-                317.4111328125
-              ],
-              "bbox": [
-                165.0,
-                307.4111328125,
-                243.67001342773438,
-                319.48114013671875
-              ]
-            }
-          ]
-        },
-        {
-          "y": 328.2,
+          "y": 328,
           "text": "Green Monster GE J79 10/27/65",
           "bbox": [
             274.0,
@@ -2984,7 +2948,7 @@
           ]
         },
         {
-          "y": 329.0,
+          "y": 329,
           "text": "536.712 Art Arfons",
           "bbox": [
             66.0,
@@ -3040,7 +3004,7 @@
           ]
         },
         {
-          "y": 349.8,
+          "y": 350,
           "text": "Spirit of America, Sonic 1 GE J79 11/2/65",
           "bbox": [
             274.0,
@@ -3118,7 +3082,7 @@
           ]
         },
         {
-          "y": 350.6,
+          "y": 351,
           "text": "555.127 Craig Breedlove",
           "bbox": [
             66.0,
@@ -3174,7 +3138,7 @@
           ]
         },
         {
-          "y": 371.4,
+          "y": 371,
           "text": "Green Monster GE J79 11/7/65",
           "bbox": [
             274.0,
@@ -3252,7 +3216,7 @@
           ]
         },
         {
-          "y": 372.2,
+          "y": 372,
           "text": "576.553 Art Arfons",
           "bbox": [
             66.0,
@@ -3308,7 +3272,7 @@
           ]
         },
         {
-          "y": 393.0,
+          "y": 393,
           "text": "Spirit of America, Sonic 1 GE J79 11/15/65",
           "bbox": [
             274.0,
@@ -3386,7 +3350,7 @@
           ]
         },
         {
-          "y": 393.8,
+          "y": 394,
           "text": "600.601 Craig Breedlove",
           "bbox": [
             66.0,
@@ -3442,15 +3406,59 @@
           ]
         },
         {
-          "y": 414.6,
-          "text": "Blue Flame Rocket 10/23/70",
+          "y": 415,
+          "text": "622.407 Gary Gabelich Blue Flame Rocket 10/23/70",
           "bbox": [
-            274.0,
+            66.0,
             414.646484375,
             552.2799072265625,
-            426.71649169921875
+            427.48114013671875
           ],
           "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Verdana",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 1.0,
+              "descender": -0.2070000022649765,
+              "text": "622.407",
+              "origin": [
+                66.0,
+                425.4111328125
+              ],
+              "bbox": [
+                66.0,
+                415.4111328125,
+                107.49998474121094,
+                427.48114013671875
+              ]
+            },
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Verdana",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 1.0,
+              "descender": -0.2070000022649765,
+              "text": "Gary Gabelich",
+              "origin": [
+                165.0,
+                425.4111328125
+              ],
+              "bbox": [
+                165.0,
+                415.4111328125,
+                234.83998107910156,
+                427.48114013671875
+              ]
+            },
             {
               "size": 10.0,
               "flags": 0,
@@ -3520,63 +3528,7 @@
           ]
         },
         {
-          "y": 415.4,
-          "text": "622.407 Gary Gabelich",
-          "bbox": [
-            66.0,
-            415.4111328125,
-            234.83998107910156,
-            427.48114013671875
-          ],
-          "spans": [
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Verdana",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0,
-              "descender": -0.2070000022649765,
-              "text": "622.407",
-              "origin": [
-                66.0,
-                425.4111328125
-              ],
-              "bbox": [
-                66.0,
-                415.4111328125,
-                107.49998474121094,
-                427.48114013671875
-              ]
-            },
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Verdana",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0,
-              "descender": -0.2070000022649765,
-              "text": "Gary Gabelich",
-              "origin": [
-                165.0,
-                425.4111328125
-              ],
-              "bbox": [
-                165.0,
-                415.4111328125,
-                234.83998107910156,
-                427.48114013671875
-              ]
-            }
-          ]
-        },
-        {
-          "y": 436.2,
+          "y": 436,
           "text": "Thrust 2 RR RG 146 10/4/83",
           "bbox": [
             274.0,
@@ -3654,7 +3606,7 @@
           ]
         },
         {
-          "y": 437.0,
+          "y": 437,
           "text": "633.468 Richard Noble",
           "bbox": [
             66.0,
@@ -3710,7 +3662,7 @@
           ]
         },
         {
-          "y": 457.8,
+          "y": 458,
           "text": "Thrust SSC RR Spey 10/15/97",
           "bbox": [
             274.0,
@@ -3788,7 +3740,7 @@
           ]
         },
         {
-          "y": 458.6,
+          "y": 459,
           "text": "763.035 Andy Green",
           "bbox": [
             66.0,
@@ -3844,7 +3796,7 @@
           ]
         },
         {
-          "y": 486.4,
+          "y": 486,
           "text": "Example 5: Distance and Time (GR 8-10)",
           "bbox": [
             54.0,
@@ -3878,7 +3830,7 @@
           ]
         },
         {
-          "y": 499.6,
+          "y": 500,
           "text": "The following data were collected using a car with a water clock set to release a drop in",
           "bbox": [
             54.0,
@@ -3912,7 +3864,7 @@
           ]
         },
         {
-          "y": 512.8,
+          "y": 513,
           "text": "a unit of time and a meter stick. The car rolled down an inclined plane. Three trials were",
           "bbox": [
             54.0,
@@ -3946,7 +3898,7 @@
           ]
         },
         {
-          "y": 526.0,
+          "y": 526,
           "text": "run. Create a data table with an average distance column and an average velocity column,",
           "bbox": [
             54.0,
@@ -3980,7 +3932,7 @@
           ]
         },
         {
-          "y": 539.2,
+          "y": 539,
           "text": "create an average distance-time graph, and draw the best-fit line or curve. Estimate the",
           "bbox": [
             54.0,
@@ -4014,7 +3966,7 @@
           ]
         },
         {
-          "y": 552.4,
+          "y": 552,
           "text": "car’s distance traveled and velocity at six drops of water. Describe the motion of the car. Is",
           "bbox": [
             54.0,
@@ -4048,7 +4000,7 @@
           ]
         },
         {
-          "y": 565.6,
+          "y": 566,
           "text": "it going at a constant speed, accelerating, or decelerating? How do you know?",
           "bbox": [
             54.0,
@@ -4082,7 +4034,7 @@
           ]
         },
         {
-          "y": 589.9,
+          "y": 590,
           "text": "Time (drops of water) Distance (cm)",
           "bbox": [
             129.8671875,
@@ -4138,7 +4090,7 @@
           ]
         },
         {
-          "y": 608.1,
+          "y": 608,
           "text": "1 10,11,9",
           "bbox": [
             135.0,
@@ -4216,7 +4168,7 @@
           ]
         },
         {
-          "y": 626.3,
+          "y": 626,
           "text": "2 29, 31, 30",
           "bbox": [
             135.0,
@@ -4294,7 +4246,7 @@
           ]
         },
         {
-          "y": 644.5,
+          "y": 644,
           "text": "3 59, 58, 61",
           "bbox": [
             135.0,
@@ -4372,7 +4324,7 @@
           ]
         },
         {
-          "y": 662.7,
+          "y": 663,
           "text": "4 102, 100, 98",
           "bbox": [
             135.0,
@@ -4450,7 +4402,7 @@
           ]
         },
         {
-          "y": 680.9,
+          "y": 681,
           "text": "5 122, 125, 127",
           "bbox": [
             135.0,
@@ -4528,7 +4480,7 @@
           ]
         },
         {
-          "y": 723.9,
+          "y": 724,
           "text": "© 2006 WGBH Educational Foundation. All rights reserved.",
           "bbox": [
             37.0,
@@ -4562,7 +4514,7 @@
           ]
         },
         {
-          "y": 740.4,
+          "y": 740,
           "text": "2",
           "bbox": [
             302.50341796875,

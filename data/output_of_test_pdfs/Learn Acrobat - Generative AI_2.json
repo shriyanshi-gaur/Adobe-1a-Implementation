@@ -1,0 +1,40 @@
+{
+  "title": "Persistent chat history",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Clear chat history",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Request access in Acrobat",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Review the status of your request",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Common questions",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Administer AI Assistant for enterprises",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Prerequisites",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "License deployment",
+      "page": 18
+    }
+  ]
+}

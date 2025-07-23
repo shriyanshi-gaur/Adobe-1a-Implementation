@@ -1,5 +1,5 @@
 {
-    "title": "Peer Review Framework for Predictive Analytics in Humanitarian Response: Model Report: Trigger for OCHA Anticipatory Action on Drought in Chad",
+    "title": "Model Report: Trigger for OCHA Anticipatory Action on Drought in Chad",
     "outline": [
         {
             "level": "H1",
@@ -72,7 +72,7 @@
             "page": 4
         },
         {
-            "level": "H3",
+            "level": "H2",
             "text": "Feedback",
             "page": 4
         }
