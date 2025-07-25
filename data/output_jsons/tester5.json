@@ -1,0 +1,60 @@
+{
+  "title": "Section 1: Tasks",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Section 1: Tasks",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": " Moderate Knowledge —I possess a sufficient knowledge level that would allow",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "me to perform this task successfully. may require additional instruction to apply my knowledge effectively.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "No Knowledge —I have no knowledge of how to perform this task or what it may",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "procedures.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": " Extensive Education, Training, and/or Experience —I have extensive",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "education, training, and/or experience using and/or applying this knowledge or",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": " Substantial Education, Training, and/or Experience —I have substantial",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "education, training, and/or experience using and/or applying this knowledge or",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": " Minimal Education, Training, and/or Experience —I have limited education,",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "training, and/or experience using and/or applying this knowledge or ability.",
+      "page": 2
+    }
+  ]
+}

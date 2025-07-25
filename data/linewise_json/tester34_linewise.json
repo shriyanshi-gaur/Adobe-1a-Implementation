@@ -7,7 +7,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 73,
+          "y": 73.0,
           "text": "A Brief Introduction to Artificial Intelligence",
           "bbox": [
             84.94725799560547,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 99,
+          "y": 99.0,
           "text": "What is AI and how is it going to shape the future",
           "bbox": [
             167.31488037109375,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 115,
+          "y": 115.1,
           "text": "By Dibbyo Saha, Undergraduate Student, Computer Science, Ryerson University",
           "bbox": [
             85.76678466796875,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 152,
+          "y": 152.0,
           "text": "What is Artificial Intelligence?",
           "bbox": [
             72.0,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 507,
+          "y": 507.4,
           "text": "Image by Gerd Altmann from Pixabay",
           "bbox": [
             72.0,
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "y": 525,
+          "y": 525.1,
           "text": "Generally speaking, Artificial Intelligence is a computing concept that helps a",
           "bbox": [
             72.0,
@@ -211,7 +211,7 @@
           ]
         },
         {
-          "y": 541,
+          "y": 541.2,
           "text": "machine think and solve complex problems as we humans do with our intelligence.",
           "bbox": [
             72.0,
@@ -245,7 +245,7 @@
           ]
         },
         {
-          "y": 557,
+          "y": 557.3,
           "text": "For example, we perform a task, make mistakes and learn from our mistakes (At",
           "bbox": [
             72.0,
@@ -279,7 +279,7 @@
           ]
         },
         {
-          "y": 573,
+          "y": 573.4,
           "text": "least the wise ones of us do!). Likewise, an AI or Artificial Intelligence is supposed",
           "bbox": [
             72.0,
@@ -313,7 +313,7 @@
           ]
         },
         {
-          "y": 589,
+          "y": 589.5,
           "text": "to work on a problem, make some mistakes in solving the problem and learn from",
           "bbox": [
             72.0,
@@ -347,7 +347,7 @@
           ]
         },
         {
-          "y": 606,
+          "y": 605.6,
           "text": "the problems in a self-correcting manner as a part of its self-improvement. Or in",
           "bbox": [
             72.0,
@@ -381,7 +381,7 @@
           ]
         },
         {
-          "y": 622,
+          "y": 621.7,
           "text": "other words, think of this like playing a game of chess. Every bad move you make",
           "bbox": [
             72.0,
@@ -415,7 +415,7 @@
           ]
         },
         {
-          "y": 638,
+          "y": 637.8,
           "text": "reduces your chances of winning the game. So, every time you lose against your",
           "bbox": [
             72.0,
@@ -449,7 +449,7 @@
           ]
         },
         {
-          "y": 654,
+          "y": 653.9,
           "text": "friend, you try remembering the moves you made which you shouldn’t have and",
           "bbox": [
             72.0,
@@ -483,7 +483,7 @@
           ]
         },
         {
-          "y": 670,
+          "y": 670.0,
           "text": "apply that knowledge in your next game and so on. Eventually, you get better and",
           "bbox": [
             72.0,
@@ -517,7 +517,7 @@
           ]
         },
         {
-          "y": 686,
+          "y": 686.1,
           "text": "your precision, or in this case probability of winning or solving a problem",
           "bbox": [
             72.0,
@@ -558,7 +558,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 73,
+          "y": 72.6,
           "text": "improves by a noteworthy extent. AI is programmed to do something similar to",
           "bbox": [
             72.0,
@@ -592,7 +592,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 88.7,
           "text": "that!",
           "bbox": [
             72.0,
@@ -626,7 +626,7 @@
           ]
         },
         {
-          "y": 105,
+          "y": 104.9,
           "text": "Artificial Intelligence vs Traditional Robotics",
           "bbox": [
             72.0,
@@ -660,7 +660,7 @@
           ]
         },
         {
-          "y": 341,
+          "y": 340.7,
           "text": "Photo by Possessed Photography on Unsplash",
           "bbox": [
             72.0,
@@ -694,7 +694,7 @@
           ]
         },
         {
-          "y": 366,
+          "y": 366.4,
           "text": "When we hear the word “Robot”, an image of a metal box with creepy eyes and",
           "bbox": [
             72.0,
@@ -728,7 +728,7 @@
           ]
         },
         {
-          "y": 382,
+          "y": 382.5,
           "text": "speaking in a mechanical voice pops into our head. I mean that’s what we have",
           "bbox": [
             72.0,
@@ -762,7 +762,7 @@
           ]
         },
         {
-          "y": 399,
+          "y": 398.6,
           "text": "been watching in television for years, isn’t it? And to a certain degree we are right.",
           "bbox": [
             72.0,
@@ -796,7 +796,7 @@
           ]
         },
         {
-          "y": 415,
+          "y": 414.7,
           "text": "Traditional robotics has been perceived by pop culture as an arena that creates",
           "bbox": [
             72.0,
@@ -830,7 +830,7 @@
           ]
         },
         {
-          "y": 431,
+          "y": 430.8,
           "text": "humanlike machines to work for us as saviours and sometimes as super-villains",
           "bbox": [
             72.0,
@@ -864,7 +864,7 @@
           ]
         },
         {
-          "y": 447,
+          "y": 446.9,
           "text": "bringing in a cascade of tyranny into the human world. However, real life robots",
           "bbox": [
             72.0,
@@ -898,7 +898,7 @@
           ]
         },
         {
-          "y": 463,
+          "y": 463.0,
           "text": "aren’t as humanlike as we want them to be, yet. They are programmed in a specific",
           "bbox": [
             72.0,
@@ -932,7 +932,7 @@
           ]
         },
         {
-          "y": 479,
+          "y": 479.1,
           "text": "way to only execute tasks that it has been programmed to perform.",
           "bbox": [
             72.0,
@@ -966,7 +966,7 @@
           ]
         },
         {
-          "y": 511,
+          "y": 511.3,
           "text": "Imagine a self-driving car that has been designed to drive you on its own according",
           "bbox": [
             72.0,
@@ -1000,7 +1000,7 @@
           ]
         },
         {
-          "y": 527,
+          "y": 527.4,
           "text": "to where you instruct it to take you. Now for a traditional robot, the car is going to",
           "bbox": [
             72.0,
@@ -1034,7 +1034,7 @@
           ]
         },
         {
-          "y": 543,
+          "y": 543.5,
           "text": "go through the exact road that it was programmed to select for a certain destination",
           "bbox": [
             72.0,
@@ -1068,7 +1068,7 @@
           ]
         },
         {
-          "y": 560,
+          "y": 559.6,
           "text": "by its creators, possibly without the knowledge of traffic and cause accidents.",
           "bbox": [
             72.0,
@@ -1102,7 +1102,7 @@
           ]
         },
         {
-          "y": 576,
+          "y": 575.7,
           "text": "However, a human driver would have chosen the shortest path or check which",
           "bbox": [
             72.0,
@@ -1136,7 +1136,7 @@
           ]
         },
         {
-          "y": 592,
+          "y": 591.8,
           "text": "paths have the least traffic today and would be the most convenient path for that",
           "bbox": [
             72.0,
@@ -1170,7 +1170,7 @@
           ]
         },
         {
-          "y": 608,
+          "y": 607.9,
           "text": "particular destination. That is the exact humanlike creative thinking the traditional",
           "bbox": [
             72.0,
@@ -1204,7 +1204,7 @@
           ]
         },
         {
-          "y": 624,
+          "y": 624.0,
           "text": "robots lack! They are fixed in their own “not so smart” way and are largely",
           "bbox": [
             72.0,
@@ -1238,7 +1238,7 @@
           ]
         },
         {
-          "y": 640,
+          "y": 640.1,
           "text": "dependent on the program they are built on and the instructions that they are being",
           "bbox": [
             72.0,
@@ -1272,7 +1272,7 @@
           ]
         },
         {
-          "y": 656,
+          "y": 656.2,
           "text": "given. If a certain instruction doesn’t coincide with their program, the robot won’t",
           "bbox": [
             72.0,
@@ -1306,7 +1306,7 @@
           ]
         },
         {
-          "y": 672,
+          "y": 672.3,
           "text": "even be able to run, let alone going the extra step of being creative. This is the",
           "bbox": [
             72.0,
@@ -1340,7 +1340,7 @@
           ]
         },
         {
-          "y": 688,
+          "y": 688.4,
           "text": "limitation of traditional robots Artificial Intelligence is being developed to",
           "bbox": [
             72.0,
@@ -1374,7 +1374,7 @@
           ]
         },
         {
-          "y": 704,
+          "y": 704.5,
           "text": "overcome. Unlike the conventional “bips and bops”, a good AI will simulate the",
           "bbox": [
             72.0,
@@ -1415,7 +1415,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 73,
+          "y": 72.6,
           "text": "complicated and intuitive sense of thinking and problem-solving abilities of the",
           "bbox": [
             72.0,
@@ -1449,7 +1449,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 88.7,
           "text": "human mind.",
           "bbox": [
             72.0,
@@ -1483,7 +1483,7 @@
           ]
         },
         {
-          "y": 121,
+          "y": 121.0,
           "text": "A Brief History of AI",
           "bbox": [
             72.0,
@@ -1517,7 +1517,7 @@
           ]
         },
         {
-          "y": 155,
+          "y": 155.4,
           "text": "The concept of Artificial Intelligence is not as modern as we think it is. This traces",
           "bbox": [
             72.0,
@@ -1551,7 +1551,7 @@
           ]
         },
         {
-          "y": 171,
+          "y": 171.5,
           "text": "back to as early as 1950 when Alan Turing invented the Turing test. Then the first",
           "bbox": [
             72.0,
@@ -1585,7 +1585,7 @@
           ]
         },
         {
-          "y": 187,
+          "y": 187.3,
           "text": "[1]",
           "bbox": [
             416.6126708984375,
@@ -1641,7 +1641,7 @@
           ]
         },
         {
-          "y": 188,
+          "y": 187.6,
           "text": "chatbot computer program, ELIZA, was created in the 1960s. IBM deep blue was",
           "bbox": [
             72.0,
@@ -1697,7 +1697,7 @@
           ]
         },
         {
-          "y": 204,
+          "y": 203.7,
           "text": "a chess computer made in 1977 beat a world chess champion in two out of six",
           "bbox": [
             72.0,
@@ -1731,7 +1731,7 @@
           ]
         },
         {
-          "y": 219,
+          "y": 219.5,
           "text": "[2]",
           "bbox": [
             471.28436279296875,
@@ -1787,7 +1787,7 @@
           ]
         },
         {
-          "y": 220,
+          "y": 219.8,
           "text": "games, one won by the champion and the other three games were draw.",
           "bbox": [
             72.0,
@@ -1821,37 +1821,15 @@
           ]
         },
         {
-          "y": 236,
-          "text": "In 2011, Siri was announced as a digital assistant by Apple. [3]",
+          "y": 235.6,
+          "text": "[3]",
           "bbox": [
-            72.0,
+            404.1311950683594,
             235.5585479736328,
             416.7860412597656,
-            251.384765625
+            250.17343139648438
           ],
           "spans": [
-            {
-              "size": 14.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "TimesNewRomanPSMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.89111328125,
-              "descender": -0.21630859375,
-              "text": "In 2011, Siri was announced as a digital assistant by Apple.",
-              "origin": [
-                72.0,
-                248.3564453125
-              ],
-              "bbox": [
-                72.0,
-                235.880859375,
-                404.1311950683594,
-                251.384765625
-              ]
-            },
             {
               "size": 8.399999618530273,
               "flags": 20,
@@ -1899,13 +1877,13 @@
           ]
         },
         {
-          "y": 252,
-          "text": "Elon Musk and some others founded OpenAI in 2015. [4][5]",
+          "y": 235.9,
+          "text": "In 2011, Siri was announced as a digital assistant by Apple.",
           "bbox": [
             72.0,
-            251.65716552734375,
-            395.0804748535156,
-            267.4833984375
+            235.880859375,
+            404.1311950683594,
+            251.384765625
           ],
           "spans": [
             {
@@ -1918,18 +1896,30 @@
               "alpha": 255,
               "ascender": 0.89111328125,
               "descender": -0.21630859375,
-              "text": "Elon Musk and some others founded OpenAI in 2015.",
+              "text": "In 2011, Siri was announced as a digital assistant by Apple.",
               "origin": [
                 72.0,
-                264.455078125
+                248.3564453125
               ],
               "bbox": [
                 72.0,
-                251.9794921875,
-                375.5121765136719,
-                267.4833984375
+                235.880859375,
+                404.1311950683594,
+                251.384765625
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 251.7,
+          "text": "[4][5]",
+          "bbox": [
+            375.5102233886719,
+            251.65716552734375,
+            395.0804748535156,
+            260.9595031738281
+          ],
+          "spans": [
             {
               "size": 8.399999618530273,
               "flags": 21,
@@ -1955,7 +1945,41 @@
           ]
         },
         {
-          "y": 300,
+          "y": 252.0,
+          "text": "Elon Musk and some others founded OpenAI in 2015.",
+          "bbox": [
+            72.0,
+            251.9794921875,
+            375.5121765136719,
+            267.4833984375
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "Elon Musk and some others founded OpenAI in 2015.",
+              "origin": [
+                72.0,
+                264.455078125
+              ],
+              "bbox": [
+                72.0,
+                251.9794921875,
+                375.5121765136719,
+                267.4833984375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 300.4,
           "text": "Artificial Intelligence vs Machine Learning vs Deep Learning",
           "bbox": [
             72.0,
@@ -1989,7 +2013,7 @@
           ]
         },
         {
-          "y": 520,
+          "y": 520.4,
           "text": "Image by Gerd Altmann from Pixabay",
           "bbox": [
             72.0,
@@ -2023,7 +2047,7 @@
           ]
         },
         {
-          "y": 546,
+          "y": 546.1,
           "text": "Up until now in this article we were discussing about Artificial Intelligence as a",
           "bbox": [
             72.0,
@@ -2057,7 +2081,7 @@
           ]
         },
         {
-          "y": 562,
+          "y": 562.2,
           "text": "process that is going to help machines achieve a humanlike mental behaviour. AI is",
           "bbox": [
             72.0,
@@ -2091,7 +2115,7 @@
           ]
         },
         {
-          "y": 578,
+          "y": 578.3,
           "text": "a vast and growing field which also includes a lot more subfields like machine",
           "bbox": [
             72.0,
@@ -2125,7 +2149,7 @@
           ]
         },
         {
-          "y": 594,
+          "y": 594.4,
           "text": "learning and deep learning and so on. Machine learning is in a nutshell the concept",
           "bbox": [
             72.0,
@@ -2159,7 +2183,7 @@
           ]
         },
         {
-          "y": 611,
+          "y": 610.5,
           "text": "of computers learning to improve their predictions and creativity to resemble a",
           "bbox": [
             72.0,
@@ -2193,7 +2217,7 @@
           ]
         },
         {
-          "y": 627,
+          "y": 626.6,
           "text": "humanlike thinking process using algorithms. Machine learning involves a number",
           "bbox": [
             72.0,
@@ -2227,7 +2251,7 @@
           ]
         },
         {
-          "y": 643,
+          "y": 642.7,
           "text": "of learning processes such as:",
           "bbox": [
             72.0,
@@ -2261,7 +2285,7 @@
           ]
         },
         {
-          "y": 675,
+          "y": 674.9,
           "text": "Supervised learning : Supervised learning is a process where our machines",
           "bbox": [
             108.0,
@@ -2317,7 +2341,7 @@
           ]
         },
         {
-          "y": 691,
+          "y": 691.0,
           "text": "are designed to learn with the feeding of labelled data. In this process our machine",
           "bbox": [
             72.0,
@@ -2358,7 +2382,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 73,
+          "y": 72.6,
           "text": "is being trained by giving it access to a huge amount of data and training the",
           "bbox": [
             72.0,
@@ -2392,7 +2416,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 88.7,
           "text": "machine to analyze it. For instance, the machine is given a number of images of",
           "bbox": [
             72.0,
@@ -2426,7 +2450,7 @@
           ]
         },
         {
-          "y": 105,
+          "y": 104.8,
           "text": "dogs taken from many different angles with colour variations, breeds and many",
           "bbox": [
             72.0,
@@ -2460,7 +2484,7 @@
           ]
         },
         {
-          "y": 121,
+          "y": 120.9,
           "text": "more diversity. So that, the machine learns to analyze data from these diverse",
           "bbox": [
             72.0,
@@ -2494,7 +2518,7 @@
           ]
         },
         {
-          "y": 137,
+          "y": 137.0,
           "text": "images of dogs and the “insight” of machines keep increasing and soon the",
           "bbox": [
             72.0,
@@ -2528,7 +2552,7 @@
           ]
         },
         {
-          "y": 153,
+          "y": 153.1,
           "text": "machine can predict if it’s a dog from a whole different picture which was not even",
           "bbox": [
             72.0,
@@ -2562,7 +2586,7 @@
           ]
         },
         {
-          "y": 169,
+          "y": 169.2,
           "text": "a part of the labelled data set of dog images the machine was fed earlier.",
           "bbox": [
             72.0,
@@ -2596,7 +2620,7 @@
           ]
         },
         {
-          "y": 201,
+          "y": 201.4,
           "text": "Unsupervised learning : Contrary to the supervised learning, the",
           "bbox": [
             108.0,
@@ -2806,7 +2830,7 @@
           ]
         },
         {
-          "y": 217,
+          "y": 217.5,
           "text": "unsupervised learning algorithms comprises analyzing unlabelled data i.e., in this",
           "bbox": [
             72.0,
@@ -2840,7 +2864,7 @@
           ]
         },
         {
-          "y": 234,
+          "y": 233.6,
           "text": "case we are training the machine to analyze and learn from a series of data, the",
           "bbox": [
             72.0,
@@ -2874,7 +2898,7 @@
           ]
         },
         {
-          "y": 250,
+          "y": 249.7,
           "text": "meaning of which is not apparently comprehendible by the human eyes. The",
           "bbox": [
             72.0,
@@ -2908,7 +2932,7 @@
           ]
         },
         {
-          "y": 266,
+          "y": 265.8,
           "text": "machine looks for patterns and draws conclusions on its own from the patterns of",
           "bbox": [
             72.0,
@@ -2942,7 +2966,7 @@
           ]
         },
         {
-          "y": 282,
+          "y": 281.9,
           "text": "the data. Important thing to remember that the dataset used in this instance is not",
           "bbox": [
             72.0,
@@ -2976,7 +3000,7 @@
           ]
         },
         {
-          "y": 298,
+          "y": 298.0,
           "text": "labelled and the conclusions are drawn by the machines.",
           "bbox": [
             72.0,
@@ -3010,7 +3034,7 @@
           ]
         },
         {
-          "y": 330,
+          "y": 330.2,
           "text": "Reinforcement learning : Reinforcement learning is a feedback dependent",
           "bbox": [
             108.0,
@@ -3066,7 +3090,7 @@
           ]
         },
         {
-          "y": 346,
+          "y": 346.3,
           "text": "machine learning model. In this process the machine is given a data and made to",
           "bbox": [
             72.0,
@@ -3100,7 +3124,7 @@
           ]
         },
         {
-          "y": 362,
+          "y": 362.4,
           "text": "predict what the data was. If the machine generates an inaccurate conclusion about",
           "bbox": [
             72.0,
@@ -3134,7 +3158,7 @@
           ]
         },
         {
-          "y": 378,
+          "y": 378.5,
           "text": "the input data, the machine is given feedback about its incorrectness. For example,",
           "bbox": [
             72.0,
@@ -3168,7 +3192,7 @@
           ]
         },
         {
-          "y": 395,
+          "y": 394.6,
           "text": "if you give the machine an image of a basketball and it identifies the basketball as a",
           "bbox": [
             72.0,
@@ -3202,7 +3226,7 @@
           ]
         },
         {
-          "y": 411,
+          "y": 410.7,
           "text": "tennis ball or something else, you give a negative feedback to the machine and",
           "bbox": [
             72.0,
@@ -3236,7 +3260,7 @@
           ]
         },
         {
-          "y": 427,
+          "y": 426.8,
           "text": "eventually the machine learns to identify an image of a basketball on its own when",
           "bbox": [
             72.0,
@@ -3270,7 +3294,7 @@
           ]
         },
         {
-          "y": 443,
+          "y": 442.9,
           "text": "it comes across a completely different picture of a basketball.",
           "bbox": [
             72.0,
@@ -3311,7 +3335,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 74,
+          "y": 74.0,
           "text": "Source:http://datasciencecentral.com",
           "bbox": [
             72.0,
@@ -3345,7 +3369,7 @@
           ]
         },
         {
-          "y": 95,
+          "y": 94.6,
           "text": "Deep Learning, on the other hand is the concept of computers simulating the",
           "bbox": [
             72.0,
@@ -3379,7 +3403,7 @@
           ]
         },
         {
-          "y": 111,
+          "y": 110.7,
           "text": "process a human brain takes to analyze, think and learn. The deep learning process",
           "bbox": [
             72.0,
@@ -3413,7 +3437,7 @@
           ]
         },
         {
-          "y": 127,
+          "y": 126.8,
           "text": "involves something called a neural network as a part of the thinking process for an",
           "bbox": [
             72.0,
@@ -3447,7 +3471,7 @@
           ]
         },
         {
-          "y": 143,
+          "y": 142.9,
           "text": "AI. It takes an enormous amount of data to train deep learning and a considerably",
           "bbox": [
             72.0,
@@ -3481,7 +3505,7 @@
           ]
         },
         {
-          "y": 159,
+          "y": 159.0,
           "text": "powerful computing device for such computation methods.",
           "bbox": [
             72.0,
@@ -3515,7 +3539,7 @@
           ]
         },
         {
-          "y": 210,
+          "y": 209.6,
           "text": "AI at Work Today",
           "bbox": [
             72.0,
@@ -3549,7 +3573,7 @@
           ]
         },
         {
-          "y": 564,
+          "y": 563.8,
           "text": "Photo by Dan Seifert / The Verge",
           "bbox": [
             72.0,
@@ -3583,7 +3607,7 @@
           ]
         },
         {
-          "y": 590,
+          "y": 589.5,
           "text": "The most common examples of uses of Artificial Intelligence can be found today",
           "bbox": [
             72.0,
@@ -3617,7 +3641,7 @@
           ]
         },
         {
-          "y": 606,
+          "y": 605.6,
           "text": "in smart personal assistants like Apple’s Siri and Amazon’s Alexa. People interact",
           "bbox": [
             72.0,
@@ -3651,7 +3675,7 @@
           ]
         },
         {
-          "y": 622,
+          "y": 621.7,
           "text": "with these devices to command them on a daily basis and these devices use the",
           "bbox": [
             72.0,
@@ -3685,7 +3709,7 @@
           ]
         },
         {
-          "y": 638,
+          "y": 637.8,
           "text": "commands as a part of their dataset to learn from. Another known example of",
           "bbox": [
             72.0,
@@ -3719,7 +3743,7 @@
           ]
         },
         {
-          "y": 654,
+          "y": 653.9,
           "text": "Artificial Intelligence is the use of algorithms in Netflix. Netflix provides very",
           "bbox": [
             72.0,
@@ -3753,7 +3777,7 @@
           ]
         },
         {
-          "y": 670,
+          "y": 670.0,
           "text": "much accurate and relevant suggestions of movies, tv series from our data which is",
           "bbox": [
             72.0,
@@ -3787,7 +3811,7 @@
           ]
         },
         {
-          "y": 686,
+          "y": 686.1,
           "text": "created every time we stream or click on something in Netflix. As the dataset for",
           "bbox": [
             72.0,
@@ -3821,7 +3845,7 @@
           ]
         },
         {
-          "y": 702,
+          "y": 702.2,
           "text": "these systems grows, their accuracy and precision increase as well. Artificial",
           "bbox": [
             72.0,
@@ -3862,7 +3886,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 73,
+          "y": 72.6,
           "text": "Intelligence is also viewed as a great tool for better cybersecurity. Many banks are",
           "bbox": [
             72.0,
@@ -3896,7 +3920,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 88.7,
           "text": "using AI as a means to identify unauthorized credit cards uses. From analyzing",
           "bbox": [
             72.0,
@@ -3930,7 +3954,7 @@
           ]
         },
         {
-          "y": 105,
+          "y": 104.8,
           "text": "complex genetic data to perform the most delicate surgeries at the highest precision",
           "bbox": [
             72.0,
@@ -3964,7 +3988,7 @@
           ]
         },
         {
-          "y": 121,
+          "y": 120.9,
           "text": "is also being worked on to integrate with AI. We all know about companies like",
           "bbox": [
             72.0,
@@ -3998,7 +4022,7 @@
           ]
         },
         {
-          "y": 137,
+          "y": 137.0,
           "text": "Tesla and Apple working to make flawless self-driving cars which is going to have",
           "bbox": [
             72.0,
@@ -4032,7 +4056,7 @@
           ]
         },
         {
-          "y": 153,
+          "y": 153.1,
           "text": "game changing impacts on the future of transportation.",
           "bbox": [
             72.0,
@@ -4066,7 +4090,7 @@
           ]
         },
         {
-          "y": 201,
+          "y": 201.5,
           "text": "Concerns about AI",
           "bbox": [
             72.0,
@@ -4100,7 +4124,7 @@
           ]
         },
         {
-          "y": 236,
+          "y": 235.9,
           "text": "One of the most immediate concerns about Artificial Intelligence is the fear of",
           "bbox": [
             72.0,
@@ -4134,7 +4158,7 @@
           ]
         },
         {
-          "y": 252,
+          "y": 252.0,
           "text": "losing jobs. Artificial Intelligence enhancing automation is also causing huge job",
           "bbox": [
             72.0,
@@ -4168,7 +4192,7 @@
           ]
         },
         {
-          "y": 268,
+          "y": 268.1,
           "text": "losses around the world. According to a Forbes article, it is predicted that by 2025",
           "bbox": [
             72.0,
@@ -4202,37 +4226,15 @@
           ]
         },
         {
-          "y": 284,
-          "text": "automation will cause a loss of 85 million jobs. [6] Bigger fears regarding AI",
+          "y": 283.9,
+          "text": "[6]",
           "bbox": [
-            72.0,
+            365.15789794921875,
             283.85443115234375,
-            539.675048828125,
-            299.6806640625
+            380.0402526855469,
+            298.4693298339844
           ],
           "spans": [
-            {
-              "size": 14.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "TimesNewRomanPSMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.89111328125,
-              "descender": -0.21630859375,
-              "text": "automation will cause a loss of 85 million jobs.",
-              "origin": [
-                72.0,
-                296.65234375
-              ],
-              "bbox": [
-                72.0,
-                284.1767578125,
-                365.15789794921875,
-                299.6806640625
-              ]
-            },
             {
               "size": 8.399999618530273,
               "flags": 20,
@@ -4276,6 +4278,40 @@
                 380.0402526855469,
                 293.1567687988281
               ]
+            }
+          ]
+        },
+        {
+          "y": 284.2,
+          "text": "automation will cause a loss of 85 million jobs. Bigger fears regarding AI",
+          "bbox": [
+            72.0,
+            284.1767578125,
+            539.675048828125,
+            299.6806640625
+          ],
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.89111328125,
+              "descender": -0.21630859375,
+              "text": "automation will cause a loss of 85 million jobs.",
+              "origin": [
+                72.0,
+                296.65234375
+              ],
+              "bbox": [
+                72.0,
+                284.1767578125,
+                365.15789794921875,
+                299.6806640625
+              ]
             },
             {
               "size": 14.0,
@@ -4302,7 +4338,7 @@
           ]
         },
         {
-          "y": 300,
+          "y": 300.3,
           "text": "includes the scenario whereas machines become smarter and smarter they going to",
           "bbox": [
             72.0,
@@ -4336,7 +4372,7 @@
           ]
         },
         {
-          "y": 316,
+          "y": 316.4,
           "text": "end up being as opinionated and biased like some of the people training it.",
           "bbox": [
             72.0,
@@ -4370,7 +4406,7 @@
           ]
         },
         {
-          "y": 332,
+          "y": 332.5,
           "text": "Automatization of weapons is also a big reason people worry about the future of",
           "bbox": [
             72.0,
@@ -4404,7 +4440,7 @@
           ]
         },
         {
-          "y": 349,
+          "y": 348.6,
           "text": "Artificial Intelligence. The idea that weapons can be used to search and target",
           "bbox": [
             72.0,
@@ -4438,7 +4474,7 @@
           ]
         },
         {
-          "y": 365,
+          "y": 364.7,
           "text": "someone with pre-programmed instructions and the misuse of this by governments",
           "bbox": [
             72.0,
@@ -4472,7 +4508,7 @@
           ]
         },
         {
-          "y": 381,
+          "y": 380.8,
           "text": "or mafias or rogue AI can be something very deadly and devastating. However,",
           "bbox": [
             72.0,
@@ -4506,7 +4542,7 @@
           ]
         },
         {
-          "y": 397,
+          "y": 396.9,
           "text": "there are many myths in disguise of concerns surrounding AI that spreads panic",
           "bbox": [
             72.0,
@@ -4540,7 +4576,7 @@
           ]
         },
         {
-          "y": 413,
+          "y": 413.0,
           "text": "and misinformation. AI today is nowhere near to become a super-intelligent entity",
           "bbox": [
             72.0,
@@ -4574,7 +4610,7 @@
           ]
         },
         {
-          "y": 429,
+          "y": 429.1,
           "text": "and turn into our overlords like in sci-fi movies. However, heavy regulations and",
           "bbox": [
             72.0,
@@ -4608,7 +4644,7 @@
           ]
         },
         {
-          "y": 445,
+          "y": 445.2,
           "text": "cautions are being advised by Big Tech giants like Elon Musk while developing",
           "bbox": [
             72.0,
@@ -4642,7 +4678,7 @@
           ]
         },
         {
-          "y": 461,
+          "y": 461.3,
           "text": "this industry.",
           "bbox": [
             72.0,
@@ -4676,7 +4712,7 @@
           ]
         },
         {
-          "y": 510,
+          "y": 509.6,
           "text": "Artificial Intelligence and The Future",
           "bbox": [
             72.0,
@@ -4710,7 +4746,7 @@
           ]
         },
         {
-          "y": 544,
+          "y": 544.1,
           "text": "It is said that AI is the greatest thing humankind has ever worked on. AI is being",
           "bbox": [
             72.0,
@@ -4744,7 +4780,7 @@
           ]
         },
         {
-          "y": 560,
+          "y": 560.2,
           "text": "used in image and speech recognition and analysis which will be far better than",
           "bbox": [
             72.0,
@@ -4778,7 +4814,7 @@
           ]
         },
         {
-          "y": 576,
+          "y": 576.3,
           "text": "human recognition of image and speech and its application stretches wide and far.",
           "bbox": [
             72.0,
@@ -4812,7 +4848,7 @@
           ]
         },
         {
-          "y": 592,
+          "y": 592.4,
           "text": "There are research and works being conducted using AI that is going to play a very",
           "bbox": [
             72.0,
@@ -4846,7 +4882,7 @@
           ]
         },
         {
-          "y": 608,
+          "y": 608.4,
           "text": "important role in our future healthcare. AI is being worked on to cure Alzheimer’s",
           "bbox": [
             72.0,
@@ -4880,7 +4916,7 @@
           ]
         },
         {
-          "y": 625,
+          "y": 624.5,
           "text": "disease and someday even blindness. Someone with dyslexia is being helped to",
           "bbox": [
             72.0,
@@ -4914,7 +4950,7 @@
           ]
         },
         {
-          "y": 641,
+          "y": 640.6,
           "text": "read better with the help of AI. Genetic data is being analyzed by bioinformatics;",
           "bbox": [
             72.0,
@@ -4948,7 +4984,7 @@
           ]
         },
         {
-          "y": 657,
+          "y": 656.7,
           "text": "data science integrated with AI for way better data analysis in healthcare that has",
           "bbox": [
             72.0,
@@ -4982,7 +5018,7 @@
           ]
         },
         {
-          "y": 673,
+          "y": 672.8,
           "text": "not been possible for us in the past. Fields like cancer research and other such",
           "bbox": [
             72.0,
@@ -5016,7 +5052,7 @@
           ]
         },
         {
-          "y": 689,
+          "y": 688.9,
           "text": "diseases are being impacted greatly by advanced applications of AI. AI can be a",
           "bbox": [
             72.0,
@@ -5057,7 +5093,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 73,
+          "y": 72.6,
           "text": "great tool in the future of education. AI can be used to analyze data from an",
           "bbox": [
             72.0,
@@ -5091,7 +5127,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 88.7,
           "text": "individual’s personal and intellectual needs, capabilities, choices and limitations to",
           "bbox": [
             72.0,
@@ -5125,7 +5161,7 @@
           ]
         },
         {
-          "y": 105,
+          "y": 104.8,
           "text": "develop customized curriculum, strategies and schedules that will be more well",
           "bbox": [
             72.0,
@@ -5159,7 +5195,7 @@
           ]
         },
         {
-          "y": 121,
+          "y": 120.9,
           "text": "suited, appealling and inclusive of most, if not all, children and adults. The uses of",
           "bbox": [
             72.0,
@@ -5193,7 +5229,7 @@
           ]
         },
         {
-          "y": 137,
+          "y": 137.0,
           "text": "AI are also going to change the way we are going to commute in the future. In",
           "bbox": [
             72.0,
@@ -5227,7 +5263,7 @@
           ]
         },
         {
-          "y": 153,
+          "y": 153.1,
           "text": "addition to self-driving cars, work is being done to manufacture “self-flying”",
           "bbox": [
             72.0,
@@ -5261,7 +5297,7 @@
           ]
         },
         {
-          "y": 169,
+          "y": 169.2,
           "text": "planes and drones that conveniently deliver your food faster and better. One of the",
           "bbox": [
             72.0,
@@ -5295,7 +5331,7 @@
           ]
         },
         {
-          "y": 185,
+          "y": 185.3,
           "text": "biggest concerns about AI is that jobs are being replaced due to automation.",
           "bbox": [
             72.0,
@@ -5329,7 +5365,7 @@
           ]
         },
         {
-          "y": 201,
+          "y": 201.4,
           "text": "However, AI might be creating more jobs than it replaces. This will change the",
           "bbox": [
             72.0,
@@ -5363,7 +5399,7 @@
           ]
         },
         {
-          "y": 217,
+          "y": 217.5,
           "text": "way humans work by creating new types of jobs.",
           "bbox": [
             72.0,
@@ -5397,7 +5433,7 @@
           ]
         },
         {
-          "y": 565,
+          "y": 565.0,
           "text": "Source: https://hackernoon.com/artificial-intelligence-and-big-data-zys3258",
           "bbox": [
             72.0,
@@ -5431,7 +5467,7 @@
           ]
         },
         {
-          "y": 591,
+          "y": 590.7,
           "text": "AI is still in a fairly preliminary (but rapidly growing) stage today and it requires",
           "bbox": [
             72.0,
@@ -5465,7 +5501,7 @@
           ]
         },
         {
-          "y": 607,
+          "y": 606.8,
           "text": "more and more training to develop. Trainers, engineers, system designers and",
           "bbox": [
             72.0,
@@ -5499,7 +5535,7 @@
           ]
         },
         {
-          "y": 623,
+          "y": 622.9,
           "text": "software developer jobs in machine learning, data science and many such related",
           "bbox": [
             72.0,
@@ -5533,7 +5569,7 @@
           ]
         },
         {
-          "y": 639,
+          "y": 639.0,
           "text": "fields are being created in abundance. New business and investment opportunities",
           "bbox": [
             72.0,
@@ -5567,7 +5603,7 @@
           ]
         },
         {
-          "y": 655,
+          "y": 655.1,
           "text": "are also on the rise due to endless AI applications in agriculture, education,",
           "bbox": [
             72.0,
@@ -5601,7 +5637,7 @@
           ]
         },
         {
-          "y": 671,
+          "y": 671.2,
           "text": "transportation, finance, biotechnology, cybersecurity, gaming etc. As new",
           "bbox": [
             72.0,
@@ -5745,7 +5781,7 @@
           ]
         },
         {
-          "y": 687,
+          "y": 687.3,
           "text": "businesses are being created so are new jobs. Many existing jobs are becoming",
           "bbox": [
             72.0,
@@ -5786,7 +5822,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 73,
+          "y": 72.6,
           "text": "redefined and more specialised which is really important for the new world to",
           "bbox": [
             72.0,
@@ -5820,7 +5856,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 88.7,
           "text": "prosper and advance.",
           "bbox": [
             72.0,
@@ -5854,7 +5890,7 @@
           ]
         },
         {
-          "y": 105,
+          "y": 104.9,
           "text": "Towards Conclusion…",
           "bbox": [
             72.0,
@@ -5888,7 +5924,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 139.3,
           "text": "The growth of Artificial Intelligence in recent times has been exponential. We",
           "bbox": [
             72.0,
@@ -5922,7 +5958,7 @@
           ]
         },
         {
-          "y": 155,
+          "y": 155.4,
           "text": "cannot even imagine how big and impactful AI is going to be in the near future and",
           "bbox": [
             72.0,
@@ -5956,7 +5992,7 @@
           ]
         },
         {
-          "y": 171,
+          "y": 171.5,
           "text": "how drastically it is going to change and upgrade the world we live in today. There",
           "bbox": [
             72.0,
@@ -5990,7 +6026,7 @@
           ]
         },
         {
-          "y": 188,
+          "y": 187.6,
           "text": "are a lot more to learn about AI and its rapidly growing applications in our life. I",
           "bbox": [
             72.0,
@@ -6024,7 +6060,7 @@
           ]
         },
         {
-          "y": 204,
+          "y": 203.7,
           "text": "believe it would be wise to adapt to this changing world and acquire skills related",
           "bbox": [
             72.0,
@@ -6058,7 +6094,7 @@
           ]
         },
         {
-          "y": 220,
+          "y": 219.8,
           "text": "to Artificial Intelligence and technology. Just like AI learns and develops, we",
           "bbox": [
             72.0,
@@ -6092,7 +6128,7 @@
           ]
         },
         {
-          "y": 236,
+          "y": 235.9,
           "text": "should too - to make this world a better place.",
           "bbox": [
             72.0,
@@ -6133,7 +6169,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 89,
+          "y": 88.8,
           "text": "References:",
           "bbox": [
             72.0,
@@ -6167,7 +6203,7 @@
           ]
         },
         {
-          "y": 125,
+          "y": 125.2,
           "text": "[1]",
           "bbox": [
             72.0,
@@ -6201,7 +6237,7 @@
           ]
         },
         {
-          "y": 127,
+          "y": 127.4,
           "text": "https://news.harvard.edu/gazette/story/2012/09/alan-turing-at-100/",
           "bbox": [
             83.1910171508789,
@@ -6235,13 +6271,13 @@
           ]
         },
         {
-          "y": 160,
-          "text": "[2] https://www.ibm.com/ibm/history/ibm100/us/en/icons/deepblue/",
+          "y": 159.7,
+          "text": "[2]",
           "bbox": [
             72.0,
             159.6649932861328,
-            443.0974426269531,
-            175.4912109375
+            81.78665924072266,
+            168.9673309326172
           ],
           "spans": [
             {
@@ -6265,7 +6301,19 @@
                 81.78665924072266,
                 168.9673309326172
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 160.0,
+          "text": "https://www.ibm.com/ibm/history/ibm100/us/en/icons/deepblue/",
+          "bbox": [
+            81.78359985351562,
+            159.9873046875,
+            443.0974426269531,
+            175.4912109375
+          ],
+          "spans": [
             {
               "size": 14.0,
               "flags": 4,
@@ -6291,13 +6339,13 @@
           ]
         },
         {
-          "y": 192,
-          "text": "[3] https://www.firstpost.com/tech/news-analysis/siri-google-now-and-cortana-how-",
+          "y": 191.9,
+          "text": "[3]",
           "bbox": [
             72.0,
             191.8622589111328,
-            533.962646484375,
-            207.6884765625
+            81.78665924072266,
+            201.1645965576172
           ],
           "spans": [
             {
@@ -6321,7 +6369,19 @@
                 81.78665924072266,
                 201.1645965576172
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 192.2,
+          "text": "https://www.firstpost.com/tech/news-analysis/siri-google-now-and-cortana-how-",
+          "bbox": [
+            81.78359985351562,
+            192.1845703125,
+            533.962646484375,
+            207.6884765625
+          ],
+          "spans": [
             {
               "size": 14.0,
               "flags": 4,
@@ -6347,7 +6407,7 @@
           ]
         },
         {
-          "y": 208,
+          "y": 208.3,
           "text": "digital-assistants-predict-what-you-need-3671725.html",
           "bbox": [
             72.0,
@@ -6381,13 +6441,13 @@
           ]
         },
         {
-          "y": 240,
-          "text": "[4] https://openai.com/blog/introducing-openai/",
+          "y": 240.2,
+          "text": "[4]",
           "bbox": [
             72.0,
             240.1581573486328,
-            328.55072021484375,
-            255.984375
+            81.78665924072266,
+            249.4604949951172
           ],
           "spans": [
             {
@@ -6411,7 +6471,19 @@
                 81.78665924072266,
                 249.4604949951172
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 240.5,
+          "text": "https://openai.com/blog/introducing-openai/",
+          "bbox": [
+            81.78359985351562,
+            240.48046875,
+            328.55072021484375,
+            255.984375
+          ],
+          "spans": [
             {
               "size": 14.0,
               "flags": 4,
@@ -6437,7 +6509,7 @@
           ]
         },
         {
-          "y": 272,
+          "y": 272.4,
           "text": "[5]",
           "bbox": [
             72.0,
@@ -6471,7 +6543,7 @@
           ]
         },
         {
-          "y": 273,
+          "y": 272.7,
           "text": "https://www.bbc.com/news/technology-35082344",
           "bbox": [
             81.78359985351562,
@@ -6505,7 +6577,7 @@
           ]
         },
         {
-          "y": 305,
+          "y": 304.6,
           "text": "[6]",
           "bbox": [
             72.0,
@@ -6539,7 +6611,7 @@
           ]
         },
         {
-          "y": 306,
+          "y": 305.8,
           "text": "https://www.forbes.com/sites/jackkelly/2020/10/27/us-lost-over-60-million-jobs-now-ro",
           "bbox": [
             81.78359985351562,
@@ -6573,7 +6645,7 @@
           ]
         },
         {
-          "y": 321,
+          "y": 320.9,
           "text": "bots-tech-and-artificial-intelligence-will-take-millions-more/?sh=57d352421a52",
           "bbox": [
             72.0,

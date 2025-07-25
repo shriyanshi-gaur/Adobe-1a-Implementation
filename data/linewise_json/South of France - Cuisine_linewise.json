@@ -7,7 +7,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "A Culinary Journey Through the South of France",
           "bbox": [
             72.0,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "Introduction",
           "bbox": [
             72.0,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 122,
+          "y": 122.2,
           "text": "The South of France, known for its stunning landscapes and charming villages, is also a",
           "bbox": [
             72.0,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 139.3,
           "text": "paradise for food lovers. The region's cuisine is a delightful blend of Mediterranean flavors,",
           "bbox": [
             72.0,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 156,
+          "y": 156.4,
           "text": "fresh ingredients, and traditional recipes passed down through generations. This guide will",
           "bbox": [
             72.0,
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "take you through the diﬀerent types of food, famous dishes, must-visit restaurants, renowned",
           "bbox": [
             72.0,
@@ -211,7 +211,7 @@
           ]
         },
         {
-          "y": 191,
+          "y": 190.6,
           "text": "wine regions, and the types of wines they produce to help you plan an unforgettable culinary",
           "bbox": [
             72.0,
@@ -245,7 +245,7 @@
           ]
         },
         {
-          "y": 208,
+          "y": 207.7,
           "text": "adventure.",
           "bbox": [
             72.0,
@@ -286,7 +286,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Types of Food",
           "bbox": [
             72.0,
@@ -320,7 +320,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "The cuisine in the South of France is diverse, reflecting the region's rich history and cultural",
           "bbox": [
             72.0,
@@ -354,7 +354,7 @@
           ]
         },
         {
-          "y": 114,
+          "y": 114.3,
           "text": "influences. Here are some key types of food you can expect to find:",
           "bbox": [
             72.0,
@@ -388,7 +388,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 139.3,
           "text": "Seafood: With its extensive coastline, the South of France oﬀers an abundance of fresh",
           "bbox": [
             108.0,
@@ -422,13 +422,13 @@
           ]
         },
         {
-          "y": 141,
+          "y": 141.0,
           "text": "•",
           "bbox": [
             90.0,
-            140.65921020507812,
-            97.40477752685547,
-            154.33651733398438
+            141.00991821289062,
+            94.60919952392578,
+            153.284423828125
           ],
           "spans": [
             {
@@ -452,33 +452,11 @@
                 94.60919952392578,
                 153.284423828125
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                151.08001708984375
-              ],
-              "bbox": [
-                94.61921691894531,
-                140.65921020507812,
-                97.40477752685547,
-                154.33651733398438
-              ]
             }
           ]
         },
         {
-          "y": 156,
+          "y": 156.4,
           "text": "seafood. Look for dishes featuring fish, shellfish, and crustaceans, often prepared with",
           "bbox": [
             108.0,
@@ -512,7 +490,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "Mediterranean herbs and olive oil. Popular seafood dishes include grilled sardines, sea",
           "bbox": [
             108.0,
@@ -546,7 +524,7 @@
           ]
         },
         {
-          "y": 191,
+          "y": 190.6,
           "text": "bass, and mussels marinière. The region's proximity to the Mediterranean Sea ensures",
           "bbox": [
             108.0,
@@ -580,7 +558,7 @@
           ]
         },
         {
-          "y": 208,
+          "y": 207.7,
           "text": "that the seafood is always fresh and flavorful.",
           "bbox": [
             108.0,
@@ -614,7 +592,7 @@
           ]
         },
         {
-          "y": 233,
+          "y": 232.8,
           "text": "Provençal Cuisine: This style of cooking emphasizes fresh vegetables, herbs, and olive",
           "bbox": [
             108.0,
@@ -648,13 +626,13 @@
           ]
         },
         {
-          "y": 234,
+          "y": 234.5,
           "text": "•",
           "bbox": [
             90.0,
-            234.13919067382812,
-            97.40477752685547,
-            247.81649780273438
+            234.48989868164062,
+            94.60919952392578,
+            246.764404296875
           ],
           "spans": [
             {
@@ -678,33 +656,11 @@
                 94.60919952392578,
                 246.764404296875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                244.55999755859375
-              ],
-              "bbox": [
-                94.61921691894531,
-                234.13919067382812,
-                97.40477752685547,
-                247.81649780273438
-              ]
             }
           ]
         },
         {
-          "y": 250,
+          "y": 249.9,
           "text": "oil. Ratatouille, a vegetable stew, and bouillabaisse, a fish soup, are quintessential",
           "bbox": [
             108.0,
@@ -738,7 +694,7 @@
           ]
         },
         {
-          "y": 267,
+          "y": 267.0,
           "text": "Provençal dishes. Provençal cuisine also includes dishes like tapenade, a spread made",
           "bbox": [
             108.0,
@@ -772,7 +728,7 @@
           ]
         },
         {
-          "y": 284,
+          "y": 284.1,
           "text": "from olives, capers, and anchovies, and pissaladière, a savory tart topped with",
           "bbox": [
             108.0,
@@ -806,7 +762,7 @@
           ]
         },
         {
-          "y": 301,
+          "y": 301.2,
           "text": "caramelized onions, olives, and anchovies.",
           "bbox": [
             108.0,
@@ -840,7 +796,7 @@
           ]
         },
         {
-          "y": 326,
+          "y": 326.3,
           "text": "Niçoise Cuisine: Originating from Nice, this cuisine includes dishes like Salade Niçoise,",
           "bbox": [
             108.0,
@@ -874,13 +830,13 @@
           ]
         },
         {
-          "y": 328,
+          "y": 328.0,
           "text": "•",
           "bbox": [
             90.0,
-            327.61920166015625,
-            97.40477752685547,
-            341.2965087890625
+            327.96990966796875,
+            94.60919952392578,
+            340.2444152832031
           ],
           "spans": [
             {
@@ -904,33 +860,11 @@
                 94.60919952392578,
                 340.2444152832031
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                338.0400085449219
-              ],
-              "bbox": [
-                94.61921691894531,
-                327.61920166015625,
-                97.40477752685547,
-                341.2965087890625
-              ]
             }
           ]
         },
         {
-          "y": 343,
+          "y": 343.4,
           "text": "a salad with tuna, olives, and anchovies, and Socca, a chickpea flour pancake. Other",
           "bbox": [
             108.0,
@@ -964,7 +898,7 @@
           ]
         },
         {
-          "y": 361,
+          "y": 360.5,
           "text": "Niçoise specialties include pan bagnat, a sandwich made with tuna, vegetables, and",
           "bbox": [
             108.0,
@@ -998,7 +932,7 @@
           ]
         },
         {
-          "y": 378,
+          "y": 377.6,
           "text": "olive oil, and daube, a slow-cooked beef stew with red wine and vegetables.",
           "bbox": [
             108.0,
@@ -1032,7 +966,7 @@
           ]
         },
         {
-          "y": 403,
+          "y": 402.7,
           "text": "Occitan Cuisine: This cuisine features hearty dishes like cassoulet, a slow-cooked",
           "bbox": [
             108.0,
@@ -1066,13 +1000,13 @@
           ]
         },
         {
-          "y": 404,
+          "y": 404.3,
           "text": "•",
           "bbox": [
             90.0,
-            403.99920654296875,
-            97.40477752685547,
-            417.676513671875
+            404.34991455078125,
+            94.60919952392578,
+            416.6244201660156
           ],
           "spans": [
             {
@@ -1096,33 +1030,11 @@
                 94.60919952392578,
                 416.6244201660156
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                414.4200134277344
-              ],
-              "bbox": [
-                94.61921691894531,
-                403.99920654296875,
-                97.40477752685547,
-                417.676513671875
-              ]
             }
           ]
         },
         {
-          "y": 420,
+          "y": 419.8,
           "text": "casserole with beans, sausage, and duck, and aligot, a cheesy mashed potato dish.",
           "bbox": [
             108.00003051757812,
@@ -1156,7 +1068,7 @@
           ]
         },
         {
-          "y": 437,
+          "y": 436.9,
           "text": "Occitan cuisine also includes dishes like garbure, a thick soup made with cabbage,",
           "bbox": [
             108.00003051757812,
@@ -1190,7 +1102,7 @@
           ]
         },
         {
-          "y": 454,
+          "y": 454.0,
           "text": "beans, and confit de canard (duck confit), and brandade de morue, a creamy salt cod",
           "bbox": [
             108.00004577636719,
@@ -1224,7 +1136,7 @@
           ]
         },
         {
-          "y": 471,
+          "y": 471.1,
           "text": "spread.",
           "bbox": [
             108.00004577636719,
@@ -1258,7 +1170,7 @@
           ]
         },
         {
-          "y": 496,
+          "y": 496.2,
           "text": "Basque Cuisine: Influenced by neighboring Spain, Basque cuisine includes dishes like",
           "bbox": [
             108.0,
@@ -1292,7 +1204,7 @@
           ]
         },
         {
-          "y": 498,
+          "y": 497.8,
           "text": "•",
           "bbox": [
             90.0,
@@ -1326,7 +1238,7 @@
           ]
         },
         {
-          "y": 513,
+          "y": 513.3,
           "text": "piperade, a pepper and tomato stew, and axoa, a veal stew with peppers. Basque",
           "bbox": [
             108.0,
@@ -1360,7 +1272,7 @@
           ]
         },
         {
-          "y": 530,
+          "y": 530.4,
           "text": "cuisine is also known for its pintxos, small snacks typically served in bars, and gâteau",
           "bbox": [
             108.0,
@@ -1394,7 +1306,7 @@
           ]
         },
         {
-          "y": 547,
+          "y": 547.5,
           "text": "Basque, a traditional Basque cake filled with pastry cream or cherry jam.",
           "bbox": [
             108.0,
@@ -1435,7 +1347,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Famous Dishes",
           "bbox": [
             72.0,
@@ -1469,7 +1381,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "The South of France is home to many iconic dishes that you must try during your visit:",
           "bbox": [
             72.00000762939453,
@@ -1503,7 +1415,7 @@
           ]
         },
         {
-          "y": 122,
+          "y": 122.2,
           "text": "Bouillabaisse: A traditional fish stew from Marseille, made with various types of fish,",
           "bbox": [
             108.0,
@@ -1537,13 +1449,13 @@
           ]
         },
         {
-          "y": 124,
+          "y": 123.9,
           "text": "•",
           "bbox": [
             90.0,
-            123.5591812133789,
-            97.40477752685547,
-            137.23648071289062
+            123.90988159179688,
+            94.60919952392578,
+            136.18438720703125
           ],
           "spans": [
             {
@@ -1567,33 +1479,11 @@
                 94.60919952392578,
                 136.18438720703125
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                133.97998046875
-              ],
-              "bbox": [
-                94.61921691894531,
-                123.5591812133789,
-                97.40477752685547,
-                137.23648071289062
-              ]
             }
           ]
         },
         {
-          "y": 139,
+          "y": 139.3,
           "text": "shellfish, and a flavorful broth seasoned with saﬀron and herbs. Bouillabaisse is",
           "bbox": [
             108.0,
@@ -1627,7 +1517,7 @@
           ]
         },
         {
-          "y": 156,
+          "y": 156.4,
           "text": "typically served with rouille, a garlicky mayonnaise, and crusty bread. The dish is a",
           "bbox": [
             108.0,
@@ -1661,7 +1551,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "celebration of the sea and is best enjoyed in a seaside restaurant with a view of the",
           "bbox": [
             108.0,
@@ -1695,7 +1585,7 @@
           ]
         },
         {
-          "y": 191,
+          "y": 190.6,
           "text": "Mediterranean.",
           "bbox": [
             108.0,
@@ -1729,7 +1619,7 @@
           ]
         },
         {
-          "y": 216,
+          "y": 215.7,
           "text": "Ratatouille: A vegetable stew made with eggplant, zucchini, bell peppers, tomatoes,",
           "bbox": [
             108.0,
@@ -1763,13 +1653,13 @@
           ]
         },
         {
-          "y": 217,
+          "y": 217.4,
           "text": "•",
           "bbox": [
             90.0,
-            217.03921508789062,
-            97.40477752685547,
-            230.71652221679688
+            217.38992309570312,
+            94.60919952392578,
+            229.6644287109375
           ],
           "spans": [
             {
@@ -1793,33 +1683,11 @@
                 94.60919952392578,
                 229.6644287109375
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                227.46002197265625
-              ],
-              "bbox": [
-                94.61921691894531,
-                217.03921508789062,
-                97.40477752685547,
-                230.71652221679688
-              ]
             }
           ]
         },
         {
-          "y": 233,
+          "y": 232.8,
           "text": "and onions, seasoned with herbs de Provence. Ratatouille can be served as a main",
           "bbox": [
             108.0,
@@ -1853,7 +1721,7 @@
           ]
         },
         {
-          "y": 250,
+          "y": 249.9,
           "text": "dish or as a side, and it pairs beautifully with grilled meats or fish. The dish is a",
           "bbox": [
             108.0,
@@ -1887,7 +1755,7 @@
           ]
         },
         {
-          "y": 267,
+          "y": 267.0,
           "text": "testament to the region's love for fresh, seasonal produce.",
           "bbox": [
             108.0,
@@ -1921,7 +1789,7 @@
           ]
         },
         {
-          "y": 292,
+          "y": 292.1,
           "text": "Salade Niçoise: A refreshing salad with tuna, hard-boiled eggs, tomatoes, green beans,",
           "bbox": [
             108.0,
@@ -1955,7 +1823,7 @@
           ]
         },
         {
-          "y": 294,
+          "y": 293.8,
           "text": "•",
           "bbox": [
             90.0,
@@ -1989,7 +1857,7 @@
           ]
         },
         {
-          "y": 309,
+          "y": 309.2,
           "text": "olives, and anchovies, dressed with olive oil and vinegar. Salade Niçoise is a perfect",
           "bbox": [
             108.0,
@@ -2023,7 +1891,7 @@
           ]
         },
         {
-          "y": 326,
+          "y": 326.3,
           "text": "example of the Mediterranean diet, which emphasizes fresh vegetables, lean proteins,",
           "bbox": [
             108.0,
@@ -2057,7 +1925,7 @@
           ]
         },
         {
-          "y": 343,
+          "y": 343.4,
           "text": "and healthy fats. It's a light yet satisfying dish that is perfect for a warm summer day.",
           "bbox": [
             108.0,
@@ -2091,7 +1959,7 @@
           ]
         },
         {
-          "y": 368,
+          "y": 368.5,
           "text": "Socca: A thin, crispy pancake made from chickpea flour, olive oil, and water, typically",
           "bbox": [
             108.0,
@@ -2125,13 +1993,13 @@
           ]
         },
         {
-          "y": 370,
+          "y": 370.1,
           "text": "•",
           "bbox": [
             90.0,
-            369.7991943359375,
-            97.40477752685547,
-            383.47650146484375
+            370.14990234375,
+            94.60919952392578,
+            382.4244079589844
           ],
           "spans": [
             {
@@ -2155,33 +2023,11 @@
                 94.60919952392578,
                 382.4244079589844
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                380.2200012207031
-              ],
-              "bbox": [
-                94.61921691894531,
-                369.7991943359375,
-                97.40477752685547,
-                383.47650146484375
-              ]
             }
           ]
         },
         {
-          "y": 386,
+          "y": 385.6,
           "text": "enjoyed as a street food in Nice. Socca is cooked in a wood-fired oven and is best",
           "bbox": [
             108.0,
@@ -2215,7 +2061,7 @@
           ]
         },
         {
-          "y": 403,
+          "y": 402.7,
           "text": "eaten hot, straight from the oven. It's a simple yet delicious snack that showcases the",
           "bbox": [
             108.00003051757812,
@@ -2249,7 +2095,7 @@
           ]
         },
         {
-          "y": 420,
+          "y": 419.8,
           "text": "region's love for humble, rustic dishes.",
           "bbox": [
             108.00001525878906,
@@ -2283,7 +2129,7 @@
           ]
         },
         {
-          "y": 445,
+          "y": 444.9,
           "text": "Cassoulet: A hearty casserole from the Languedoc region, made with white beans,",
           "bbox": [
             108.0,
@@ -2317,7 +2163,7 @@
           ]
         },
         {
-          "y": 447,
+          "y": 446.5,
           "text": "•",
           "bbox": [
             90.0,
@@ -2351,7 +2197,7 @@
           ]
         },
         {
-          "y": 462,
+          "y": 462.0,
           "text": "sausage, and duck or pork. Cassoulet is a labor of love, requiring hours of slow",
           "bbox": [
             108.0,
@@ -2385,7 +2231,7 @@
           ]
         },
         {
-          "y": 479,
+          "y": 479.1,
           "text": "cooking to develop its rich, complex flavors. The dish is a comforting and satisfying",
           "bbox": [
             108.0,
@@ -2419,7 +2265,7 @@
           ]
         },
         {
-          "y": 496,
+          "y": 496.2,
           "text": "meal that is perfect for a chilly evening.",
           "bbox": [
             108.0,
@@ -2453,7 +2299,7 @@
           ]
         },
         {
-          "y": 521,
+          "y": 521.3,
           "text": "Tarte Tropézienne: A dessert from Saint-Tropez, consisting of a brioche filled with a",
           "bbox": [
             108.0,
@@ -2487,13 +2333,13 @@
           ]
         },
         {
-          "y": 523,
+          "y": 523.0,
           "text": "•",
           "bbox": [
             90.0,
-            522.6192626953125,
-            97.40477752685547,
-            536.2965087890625
+            522.9699096679688,
+            94.60919952392578,
+            535.2444458007812
           ],
           "spans": [
             {
@@ -2517,33 +2363,11 @@
                 94.60919952392578,
                 535.2444458007812
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                533.0400390625
-              ],
-              "bbox": [
-                94.61921691894531,
-                522.6192626953125,
-                97.40477752685547,
-                536.2965087890625
-              ]
             }
           ]
         },
         {
-          "y": 538,
+          "y": 538.4,
           "text": "creamy mixture of pastry cream and butter. Tarte Tropézienne is a sweet treat that is",
           "bbox": [
             108.0,
@@ -2577,7 +2401,7 @@
           ]
         },
         {
-          "y": 556,
+          "y": 555.5,
           "text": "perfect for a special occasion or as an indulgent afternoon snack. The dessert was",
           "bbox": [
             108.0,
@@ -2611,7 +2435,7 @@
           ]
         },
         {
-          "y": 573,
+          "y": 572.5,
           "text": "created by a Polish baker in the 1950s and quickly became a favorite among locals and",
           "bbox": [
             108.0,
@@ -2645,7 +2469,7 @@
           ]
         },
         {
-          "y": 590,
+          "y": 589.6,
           "text": "tourists alike.",
           "bbox": [
             108.0,
@@ -2686,7 +2510,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Must-Visit Restaurants",
           "bbox": [
             72.0,
@@ -2720,7 +2544,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "To truly experience the culinary delights of the South of France, here are some restaurants",
           "bbox": [
             72.00000762939453,
@@ -2754,7 +2578,7 @@
           ]
         },
         {
-          "y": 114,
+          "y": 114.3,
           "text": "you should consider visiting:",
           "bbox": [
             72.00001525878906,
@@ -2788,7 +2612,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 139.3,
           "text": "Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering",
           "bbox": [
             108.0,
@@ -2822,13 +2646,13 @@
           ]
         },
         {
-          "y": 141,
+          "y": 141.0,
           "text": "•",
           "bbox": [
             90.0,
-            140.65921020507812,
-            97.40477752685547,
-            154.33651733398438
+            141.00991821289062,
+            94.60919952392578,
+            153.284423828125
           ],
           "spans": [
             {
@@ -2852,33 +2676,11 @@
                 94.60919952392578,
                 153.284423828125
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                151.08001708984375
-              ],
-              "bbox": [
-                94.61921691894531,
-                140.65921020507812,
-                97.40477752685547,
-                154.33651733398438
-              ]
             }
           ]
         },
         {
-          "y": 156,
+          "y": 156.4,
           "text": "exquisite seafood dishes and stunning views of the Mediterranean. Chef Gérald",
           "bbox": [
             108.0,
@@ -2912,7 +2714,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "Passedat is known for his innovative approach to seafood, creating dishes that are",
           "bbox": [
             108.0,
@@ -2946,7 +2748,7 @@
           ]
         },
         {
-          "y": 191,
+          "y": 190.6,
           "text": "both visually stunning and incredibly flavorful. The restaurant's location on the cliﬀs",
           "bbox": [
             108.0,
@@ -2980,7 +2782,7 @@
           ]
         },
         {
-          "y": 208,
+          "y": 207.7,
           "text": "overlooking the sea adds to the overall dining experience.",
           "bbox": [
             108.0,
@@ -3014,7 +2816,7 @@
           ]
         },
         {
-          "y": 233,
+          "y": 232.8,
           "text": "La Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred",
           "bbox": [
             108.0,
@@ -3048,13 +2850,13 @@
           ]
         },
         {
-          "y": 234,
+          "y": 234.5,
           "text": "•",
           "bbox": [
             90.0,
-            234.13919067382812,
-            97.40477752685547,
-            247.81649780273438
+            234.48989868164062,
+            94.60919952392578,
+            246.764404296875
           ],
           "spans": [
             {
@@ -3078,33 +2880,11 @@
                 94.60919952392578,
                 246.764404296875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                244.55999755859375
-              ],
-              "bbox": [
-                94.61921691894531,
-                234.13919067382812,
-                97.40477752685547,
-                247.81649780273438
-              ]
             }
           ]
         },
         {
-          "y": 250,
+          "y": 249.9,
           "text": "restaurant serves refined Provençal cuisine with breathtaking views of the French",
           "bbox": [
             108.0,
@@ -3138,7 +2918,7 @@
           ]
         },
         {
-          "y": 267,
+          "y": 267.0,
           "text": "Riviera. The restaurant's terrace oﬀers panoramic views of the Mediterranean, making",
           "bbox": [
             108.0,
@@ -3172,7 +2952,7 @@
           ]
         },
         {
-          "y": 284,
+          "y": 284.1,
           "text": "it the perfect spot for a romantic dinner. The menu features dishes that highlight the",
           "bbox": [
             108.0,
@@ -3206,7 +2986,7 @@
           ]
         },
         {
-          "y": 301,
+          "y": 301.2,
           "text": "region's fresh, seasonal ingredients.",
           "bbox": [
             108.00000762939453,
@@ -3240,7 +3020,7 @@
           ]
         },
         {
-          "y": 326,
+          "y": 326.3,
           "text": "Le Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a",
           "bbox": [
             108.0,
@@ -3274,13 +3054,13 @@
           ]
         },
         {
-          "y": 328,
+          "y": 328.0,
           "text": "•",
           "bbox": [
             90.0,
-            327.61920166015625,
-            97.40477752685547,
-            341.2965087890625
+            327.96990966796875,
+            94.60919952392578,
+            340.2444152832031
           ],
           "spans": [
             {
@@ -3304,33 +3084,11 @@
                 94.60919952392578,
                 340.2444152832031
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                338.0400085449219
-              ],
-              "bbox": [
-                94.61921691894531,
-                327.61920166015625,
-                97.40477752685547,
-                341.2965087890625
-              ]
             }
           ]
         },
         {
-          "y": 343,
+          "y": 343.4,
           "text": "unique dining experience with a focus on fresh, local ingredients and innovative",
           "bbox": [
             108.0,
@@ -3364,7 +3122,7 @@
           ]
         },
         {
-          "y": 361,
+          "y": 360.5,
           "text": "dishes. Chef Mauro Colagreco's cuisine is inspired by the surrounding landscape, with",
           "bbox": [
             108.0,
@@ -3398,7 +3156,7 @@
           ]
         },
         {
-          "y": 378,
+          "y": 377.6,
           "text": "many ingredients sourced from the restaurant's own gardens. The menu changes with",
           "bbox": [
             108.0,
@@ -3432,7 +3190,7 @@
           ]
         },
         {
-          "y": 395,
+          "y": 394.7,
           "text": "the seasons, ensuring that each visit is a new and exciting experience.",
           "bbox": [
             108.0,
@@ -3466,7 +3224,7 @@
           ]
         },
         {
-          "y": 420,
+          "y": 419.8,
           "text": "Chez Pipo (Nice): A local favorite for Socca, this casual eatery is perfect for a quick and",
           "bbox": [
             108.0,
@@ -3500,13 +3258,13 @@
           ]
         },
         {
-          "y": 421,
+          "y": 421.4,
           "text": "•",
           "bbox": [
             90.0,
-            421.09918212890625,
-            97.40477752685547,
-            434.7764892578125
+            421.44989013671875,
+            94.60919952392578,
+            433.7243957519531
           ],
           "spans": [
             {
@@ -3530,33 +3288,11 @@
                 94.60919952392578,
                 433.7243957519531
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                431.5199890136719
-              ],
-              "bbox": [
-                94.61921691894531,
-                421.09918212890625,
-                97.40477752685547,
-                434.7764892578125
-              ]
             }
           ]
         },
         {
-          "y": 437,
+          "y": 436.9,
           "text": "delicious snack. Chez Pipo has been serving Socca since 1923 and is a beloved",
           "bbox": [
             108.0,
@@ -3590,7 +3326,7 @@
           ]
         },
         {
-          "y": 454,
+          "y": 454.0,
           "text": "institution in Nice. The restaurant's simple, no-frills approach allows the quality of the",
           "bbox": [
             108.0,
@@ -3624,7 +3360,7 @@
           ]
         },
         {
-          "y": 471,
+          "y": 471.1,
           "text": "Socca to shine through.",
           "bbox": [
             107.99993896484375,
@@ -3658,7 +3394,7 @@
           ]
         },
         {
-          "y": 496,
+          "y": 496.2,
           "text": "L'Atelier de Jean-Luc Rabanel (Arles): A Michelin-starred restaurant known for its",
           "bbox": [
             108.0,
@@ -3692,7 +3428,7 @@
           ]
         },
         {
-          "y": 498,
+          "y": 497.8,
           "text": "•",
           "bbox": [
             90.0,
@@ -3726,7 +3462,7 @@
           ]
         },
         {
-          "y": 513,
+          "y": 513.3,
           "text": "creative and contemporary take on Provençal cuisine. Chef Jean-Luc Rabanel's dishes",
           "bbox": [
             108.00003051757812,
@@ -3760,7 +3496,7 @@
           ]
         },
         {
-          "y": 530,
+          "y": 530.4,
           "text": "are a feast for the senses, combining bold flavors with artistic presentation. The",
           "bbox": [
             108.00006103515625,
@@ -3794,7 +3530,7 @@
           ]
         },
         {
-          "y": 547,
+          "y": 547.5,
           "text": "restaurant's tasting menu oﬀers a journey through the flavors of Provence, with each",
           "bbox": [
             108.00006103515625,
@@ -3828,7 +3564,7 @@
           ]
         },
         {
-          "y": 565,
+          "y": 564.6,
           "text": "course showcasing the region's finest ingredients.",
           "bbox": [
             108.00006103515625,
@@ -3862,7 +3598,7 @@
           ]
         },
         {
-          "y": 590,
+          "y": 589.6,
           "text": "La Table de Plaisance (Saint-Émilion): A two-Michelin-starred restaurant oﬀering a",
           "bbox": [
             108.0,
@@ -3896,13 +3632,13 @@
           ]
         },
         {
-          "y": 591,
+          "y": 591.3,
           "text": "•",
           "bbox": [
             90.0,
-            590.959228515625,
-            97.40477752685547,
-            604.636474609375
+            591.3098754882812,
+            94.60919952392578,
+            603.5844116210938
           ],
           "spans": [
             {
@@ -3926,33 +3662,11 @@
                 94.60919952392578,
                 603.5844116210938
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                601.3800048828125
-              ],
-              "bbox": [
-                94.61921691894531,
-                590.959228515625,
-                97.40477752685547,
-                604.636474609375
-              ]
             }
           ]
         },
         {
-          "y": 607,
+          "y": 606.7,
           "text": "sophisticated menu that highlights the flavors of the region. The restaurant is located",
           "bbox": [
             108.0,
@@ -3986,7 +3700,7 @@
           ]
         },
         {
-          "y": 624,
+          "y": 623.8,
           "text": "in a historic building in the heart of Saint-Émilion, a town known for its world-class",
           "bbox": [
             108.0,
@@ -4020,7 +3734,7 @@
           ]
         },
         {
-          "y": 641,
+          "y": 640.9,
           "text": "wines. The menu features dishes that pair beautifully with the local wines, creating a",
           "bbox": [
             108.0,
@@ -4054,7 +3768,7 @@
           ]
         },
         {
-          "y": 658,
+          "y": 658.0,
           "text": "truly memorable dining experience.",
           "bbox": [
             108.0,
@@ -4095,7 +3809,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Wine Regions and Types of Wines",
           "bbox": [
             72.0,
@@ -4129,7 +3843,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "The South of France is renowned for its diverse and exceptional wine regions. Here are some",
           "bbox": [
             72.0,
@@ -4163,7 +3877,7 @@
           ]
         },
         {
-          "y": 114,
+          "y": 114.3,
           "text": "key areas to explore and the types of wines they produce:",
           "bbox": [
             72.0,
@@ -4197,7 +3911,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 139.3,
           "text": "Provence: Famous for its rosé wines, Provence is one of the oldest wine-producing",
           "bbox": [
             108.0,
@@ -4231,13 +3945,13 @@
           ]
         },
         {
-          "y": 141,
+          "y": 141.0,
           "text": "•",
           "bbox": [
             90.0,
-            140.65921020507812,
-            97.40477752685547,
-            154.33651733398438
+            141.00991821289062,
+            94.60919952392578,
+            153.284423828125
           ],
           "spans": [
             {
@@ -4261,33 +3975,11 @@
                 94.60919952392578,
                 153.284423828125
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                151.08001708984375
-              ],
-              "bbox": [
-                94.61921691894531,
-                140.65921020507812,
-                97.40477752685547,
-                154.33651733398438
-              ]
             }
           ]
         },
         {
-          "y": 156,
+          "y": 156.4,
           "text": "regions in France. The region's sunny climate and diverse terroir contribute to the",
           "bbox": [
             107.99996948242188,
@@ -4321,7 +4013,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "production of light, refreshing rosés, as well as robust reds and aromatic whites. Key",
           "bbox": [
             107.99996948242188,
@@ -4355,7 +4047,7 @@
           ]
         },
         {
-          "y": 191,
+          "y": 190.6,
           "text": "appellations include Côtes de Provence, Bandol, and Cassis. Notable grape varieties",
           "bbox": [
             107.99996948242188,
@@ -4389,7 +4081,7 @@
           ]
         },
         {
-          "y": 208,
+          "y": 207.7,
           "text": "include Grenache, Syrah, Mourvèdre, and Cinsault for reds and rosés, and Rolle",
           "bbox": [
             107.99996948242188,
@@ -4423,7 +4115,7 @@
           ]
         },
         {
-          "y": 225,
+          "y": 224.8,
           "text": "(Vermentino) and Clairette for whites.",
           "bbox": [
             107.99996948242188,
@@ -4457,7 +4149,7 @@
           ]
         },
         {
-          "y": 250,
+          "y": 249.9,
           "text": "Languedoc-Roussillon: This vast region stretches along the Mediterranean coast and is",
           "bbox": [
             108.0,
@@ -4491,7 +4183,7 @@
           ]
         },
         {
-          "y": 252,
+          "y": 251.6,
           "text": "•",
           "bbox": [
             90.0,
@@ -4525,7 +4217,7 @@
           ]
         },
         {
-          "y": 267,
+          "y": 267.0,
           "text": "known for its variety of wine styles. Languedoc-Roussillon produces everything from",
           "bbox": [
             108.0,
@@ -4559,7 +4251,7 @@
           ]
         },
         {
-          "y": 284,
+          "y": 284.1,
           "text": "crisp whites and fruity rosés to full-bodied reds. Notable appellations include",
           "bbox": [
             108.00003051757812,
@@ -4593,7 +4285,7 @@
           ]
         },
         {
-          "y": 301,
+          "y": 301.2,
           "text": "Corbières, Minervois, and Picpoul de Pinet. Key grape varieties include Carignan,",
           "bbox": [
             108.0,
@@ -4627,7 +4319,7 @@
           ]
         },
         {
-          "y": 318,
+          "y": 318.3,
           "text": "Grenache, Syrah, and Mourvèdre for reds, and Picpoul, Marsanne, and Roussanne for",
           "bbox": [
             108.0,
@@ -4661,7 +4353,7 @@
           ]
         },
         {
-          "y": 335,
+          "y": 335.4,
           "text": "whites.",
           "bbox": [
             108.0,
@@ -4695,7 +4387,7 @@
           ]
         },
         {
-          "y": 361,
+          "y": 360.5,
           "text": "Rhône Valley: The southern part of the Rhône Valley is famous for its powerful red",
           "bbox": [
             108.0,
@@ -4729,13 +4421,13 @@
           ]
         },
         {
-          "y": 362,
+          "y": 362.2,
           "text": "•",
           "bbox": [
             90.0,
-            361.8191833496094,
-            97.40477752685547,
-            375.4964904785156
+            362.1698913574219,
+            94.60919952392578,
+            374.44439697265625
           ],
           "spans": [
             {
@@ -4759,33 +4451,11 @@
                 94.60919952392578,
                 374.44439697265625
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                372.239990234375
-              ],
-              "bbox": [
-                94.61921691894531,
-                361.8191833496094,
-                97.40477752685547,
-                375.4964904785156
-              ]
             }
           ]
         },
         {
-          "y": 378,
+          "y": 377.6,
           "text": "wines, particularly those from Châteauneuf-du-Pape. The region also produces",
           "bbox": [
             108.0,
@@ -4819,7 +4489,7 @@
           ]
         },
         {
-          "y": 395,
+          "y": 394.7,
           "text": "excellent whites and rosés. Other important appellations include Gigondas,",
           "bbox": [
             108.00003051757812,
@@ -4853,7 +4523,7 @@
           ]
         },
         {
-          "y": 412,
+          "y": 411.8,
           "text": "Vacqueyras, and Côtes du Rhône. Key grape varieties include Grenache, Syrah, and",
           "bbox": [
             108.00003051757812,
@@ -4887,7 +4557,7 @@
           ]
         },
         {
-          "y": 429,
+          "y": 428.9,
           "text": "Mourvèdre for reds, and Viognier, Marsanne, and Roussanne for whites.",
           "bbox": [
             108.00003051757812,
@@ -4921,7 +4591,7 @@
           ]
         },
         {
-          "y": 454,
+          "y": 454.0,
           "text": "South West France (Sud-Ouest): This lesser-known region is home to a variety of",
           "bbox": [
             108.0,
@@ -4955,7 +4625,7 @@
           ]
         },
         {
-          "y": 456,
+          "y": 455.6,
           "text": "•",
           "bbox": [
             90.0,
@@ -4989,7 +4659,7 @@
           ]
         },
         {
-          "y": 471,
+          "y": 471.1,
           "text": "unique wines made from indigenous grape varieties. The area includes sub-regions",
           "bbox": [
             108.00003051757812,
@@ -5023,7 +4693,7 @@
           ]
         },
         {
-          "y": 488,
+          "y": 488.2,
           "text": "such as Bergerac, Cahors, and Madiran. South West France is known for its robust reds,",
           "bbox": [
             108.00003051757812,
@@ -5057,7 +4727,7 @@
           ]
         },
         {
-          "y": 505,
+          "y": 505.3,
           "text": "aromatic whites, and sweet dessert wines. Key grape varieties include Malbec (known",
           "bbox": [
             108.00003051757812,
@@ -5091,7 +4761,7 @@
           ]
         },
         {
-          "y": 522,
+          "y": 522.4,
           "text": "locally as Côt), Tannat, and Négrette for reds, and Gros Manseng, Petit Manseng, and",
           "bbox": [
             108.00003051757812,
@@ -5125,7 +4795,7 @@
           ]
         },
         {
-          "y": 539,
+          "y": 539.5,
           "text": "Colombard for whites.",
           "bbox": [
             108.00003051757812,
@@ -5159,7 +4829,7 @@
           ]
         },
         {
-          "y": 565,
+          "y": 564.6,
           "text": "Corsica: Although technically an island, Corsica is often included in discussions of",
           "bbox": [
             108.0,
@@ -5193,13 +4863,13 @@
           ]
         },
         {
-          "y": 566,
+          "y": 566.2,
           "text": "•",
           "bbox": [
             90.0,
-            565.8792114257812,
-            97.40477752685547,
-            579.5564575195312
+            566.2298583984375,
+            94.60919952392578,
+            578.50439453125
           ],
           "spans": [
             {
@@ -5223,33 +4893,11 @@
                 94.60919952392578,
                 578.50439453125
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                576.2999877929688
-              ],
-              "bbox": [
-                94.61921691894531,
-                565.8792114257812,
-                97.40477752685547,
-                579.5564575195312
-              ]
             }
           ]
         },
         {
-          "y": 582,
+          "y": 581.7,
           "text": "Southern French wine regions. The island's diverse terroir and Mediterranean climate",
           "bbox": [
             108.0,
@@ -5283,7 +4931,7 @@
           ]
         },
         {
-          "y": 599,
+          "y": 598.8,
           "text": "produce a range of wines, including crisp whites, fruity rosés, and spicy reds. Key",
           "bbox": [
             108.0,
@@ -5317,7 +4965,7 @@
           ]
         },
         {
-          "y": 616,
+          "y": 615.9,
           "text": "appellations include Ajaccio, Patrimonio, and Vin de Corse. Notable grape varieties",
           "bbox": [
             108.0,
@@ -5351,7 +4999,7 @@
           ]
         },
         {
-          "y": 633,
+          "y": 633.0,
           "text": "include Nielluccio (Sangiovese), Sciacarello, and Vermentino.",
           "bbox": [
             108.0,
@@ -5392,7 +5040,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Culinary Experiences",
           "bbox": [
             72.0,
@@ -5426,7 +5074,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "In addition to dining at top restaurants, there are several culinary experiences you should",
           "bbox": [
             72.0,
@@ -5460,7 +5108,7 @@
           ]
         },
         {
-          "y": 114,
+          "y": 114.3,
           "text": "consider:",
           "bbox": [
             72.0,
@@ -5494,7 +5142,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 139.3,
           "text": "Cooking Classes: Many towns and cities in the South of France oﬀer cooking classes",
           "bbox": [
             108.0,
@@ -5528,13 +5176,13 @@
           ]
         },
         {
-          "y": 141,
+          "y": 141.0,
           "text": "•",
           "bbox": [
             90.0,
-            140.65921020507812,
-            97.40477752685547,
-            154.33651733398438
+            141.00991821289062,
+            94.60919952392578,
+            153.284423828125
           ],
           "spans": [
             {
@@ -5558,33 +5206,11 @@
                 94.60919952392578,
                 153.284423828125
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                151.08001708984375
-              ],
-              "bbox": [
-                94.61921691894531,
-                140.65921020507812,
-                97.40477752685547,
-                154.33651733398438
-              ]
             }
           ]
         },
         {
-          "y": 156,
+          "y": 156.4,
           "text": "where you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and",
           "bbox": [
             108.0,
@@ -5618,7 +5244,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "tarte tropézienne. These classes are a great way to immerse yourself in the local",
           "bbox": [
             108.0,
@@ -5652,7 +5278,7 @@
           ]
         },
         {
-          "y": 191,
+          "y": 190.6,
           "text": "culture and gain hands-on experience with regional recipes. Some classes even",
           "bbox": [
             108.0,
@@ -5686,7 +5312,7 @@
           ]
         },
         {
-          "y": 208,
+          "y": 207.7,
           "text": "include a visit to a local market to shop for fresh ingredients.",
           "bbox": [
             108.0,
@@ -5720,7 +5346,7 @@
           ]
         },
         {
-          "y": 233,
+          "y": 232.8,
           "text": "Food Markets: Visit local markets such as the Cours Saleya Market in Nice or the",
           "bbox": [
             108.0,
@@ -5754,13 +5380,13 @@
           ]
         },
         {
-          "y": 234,
+          "y": 234.5,
           "text": "•",
           "bbox": [
             90.0,
-            234.13919067382812,
-            97.40477752685547,
-            247.81649780273438
+            234.48989868164062,
+            94.60919952392578,
+            246.764404296875
           ],
           "spans": [
             {
@@ -5784,33 +5410,11 @@
                 94.60919952392578,
                 246.764404296875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                244.55999755859375
-              ],
-              "bbox": [
-                94.61921691894531,
-                234.13919067382812,
-                97.40477752685547,
-                247.81649780273438
-              ]
             }
           ]
         },
         {
-          "y": 250,
+          "y": 249.9,
           "text": "Marché Forville in Cannes to sample fresh produce, cheeses, and charcuterie. These",
           "bbox": [
             108.0,
@@ -5844,7 +5448,7 @@
           ]
         },
         {
-          "y": 267,
+          "y": 267.0,
           "text": "markets are a feast for the senses, with stalls overflowing with colorful fruits and",
           "bbox": [
             108.0,
@@ -5878,7 +5482,7 @@
           ]
         },
         {
-          "y": 284,
+          "y": 284.1,
           "text": "vegetables, fragrant herbs, and artisanal products. Take the time to chat with the",
           "bbox": [
             108.0,
@@ -5912,7 +5516,7 @@
           ]
         },
         {
-          "y": 301,
+          "y": 301.2,
           "text": "vendors and learn about the local specialties.",
           "bbox": [
             108.0,
@@ -5946,7 +5550,7 @@
           ]
         },
         {
-          "y": 326,
+          "y": 326.3,
           "text": "Wine Tours: The South of France is renowned for its wine regions, including Provence",
           "bbox": [
             108.0,
@@ -5980,13 +5584,13 @@
           ]
         },
         {
-          "y": 328,
+          "y": 328.0,
           "text": "•",
           "bbox": [
             90.0,
-            327.61920166015625,
-            97.40477752685547,
-            341.2965087890625
+            327.96990966796875,
+            94.60919952392578,
+            340.2444152832031
           ],
           "spans": [
             {
@@ -6010,33 +5614,11 @@
                 94.60919952392578,
                 340.2444152832031
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                338.0400085449219
-              ],
-              "bbox": [
-                94.61921691894531,
-                327.61920166015625,
-                97.40477752685547,
-                341.2965087890625
-              ]
             }
           ]
         },
         {
-          "y": 343,
+          "y": 343.4,
           "text": "and Languedoc. Take a wine tour to visit vineyards, taste local wines, and learn about",
           "bbox": [
             108.0,
@@ -6070,7 +5652,7 @@
           ]
         },
         {
-          "y": 361,
+          "y": 360.5,
           "text": "the winemaking process. Many wineries oﬀer guided tours and tastings, giving you the",
           "bbox": [
             108.0,
@@ -6104,7 +5686,7 @@
           ]
         },
         {
-          "y": 378,
+          "y": 377.6,
           "text": "opportunity to sample a variety of wines and discover new favorites. Don't miss the",
           "bbox": [
             108.0,
@@ -6138,7 +5720,7 @@
           ]
         },
         {
-          "y": 395,
+          "y": 394.7,
           "text": "chance to try rosé from Provence, which is famous for its light, refreshing flavor.",
           "bbox": [
             108.0,
@@ -6172,7 +5754,7 @@
           ]
         },
         {
-          "y": 420,
+          "y": 419.8,
           "text": "Olive Oil Tasting: The region is famous for its olive oil. Visit an olive grove to learn",
           "bbox": [
             108.0,
@@ -6206,13 +5788,13 @@
           ]
         },
         {
-          "y": 421,
+          "y": 421.4,
           "text": "•",
           "bbox": [
             90.0,
-            421.09918212890625,
-            97.40477752685547,
-            434.7764892578125
+            421.44989013671875,
+            94.60919952392578,
+            433.7243957519531
           ],
           "spans": [
             {
@@ -6236,33 +5818,11 @@
                 94.60919952392578,
                 433.7243957519531
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                431.5199890136719
-              ],
-              "bbox": [
-                94.61921691894531,
-                421.09918212890625,
-                97.40477752685547,
-                434.7764892578125
-              ]
             }
           ]
         },
         {
-          "y": 437,
+          "y": 436.9,
           "text": "about olive oil production and enjoy a tasting session. You'll have the chance to",
           "bbox": [
             108.0,
@@ -6296,7 +5856,7 @@
           ]
         },
         {
-          "y": 454,
+          "y": 454.0,
           "text": "sample diﬀerent varieties of olive oil and learn about the nuances of flavor and aroma.",
           "bbox": [
             108.0,
@@ -6330,7 +5890,7 @@
           ]
         },
         {
-          "y": 471,
+          "y": 471.1,
           "text": "Many olive groves also produce other products like tapenade and olive soap, which",
           "bbox": [
             108.0,
@@ -6364,7 +5924,7 @@
           ]
         },
         {
-          "y": 488,
+          "y": 488.2,
           "text": "make great souvenirs.",
           "bbox": [
             108.0,
@@ -6398,7 +5958,7 @@
           ]
         },
         {
-          "y": 513,
+          "y": 513.3,
           "text": "Truﬄe Hunting: The South of France is known for its truﬄes, particularly the black",
           "bbox": [
             108.0,
@@ -6432,13 +5992,13 @@
           ]
         },
         {
-          "y": 515,
+          "y": 514.9,
           "text": "•",
           "bbox": [
             90.0,
-            514.5792236328125,
-            97.40477752685547,
-            528.2564697265625
+            514.9298706054688,
+            94.60919952392578,
+            527.2044067382812
           ],
           "spans": [
             {
@@ -6462,33 +6022,11 @@
                 94.60919952392578,
                 527.2044067382812
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                525.0
-              ],
-              "bbox": [
-                94.61921691894531,
-                514.5792236328125,
-                97.40477752685547,
-                528.2564697265625
-              ]
             }
           ]
         },
         {
-          "y": 530,
+          "y": 530.4,
           "text": "truﬄes from the Périgord region. Join a truﬄe hunting tour to experience the thrill of",
           "bbox": [
             108.0,
@@ -6522,7 +6060,7 @@
           ]
         },
         {
-          "y": 547,
+          "y": 547.5,
           "text": "searching for these prized fungi. You'll be accompanied by a trained truﬄe dog and a",
           "bbox": [
             108.0,
@@ -6556,7 +6094,7 @@
           ]
         },
         {
-          "y": 565,
+          "y": 564.6,
           "text": "knowledgeable guide who will teach you about the truﬄe's history and culinary uses.",
           "bbox": [
             108.0,
@@ -6590,7 +6128,7 @@
           ]
         },
         {
-          "y": 582,
+          "y": 581.7,
           "text": "After the hunt, enjoy a truﬄe-themed meal featuring your freshly harvested finds.",
           "bbox": [
             108.0,
@@ -6624,7 +6162,7 @@
           ]
         },
         {
-          "y": 607,
+          "y": 606.7,
           "text": "Farm-to-Table Dining: Many restaurants in the South of France embrace the farm-to-",
           "bbox": [
             108.0,
@@ -6658,13 +6196,13 @@
           ]
         },
         {
-          "y": 608,
+          "y": 608.4,
           "text": "•",
           "bbox": [
             90.0,
-            608.0592041015625,
-            97.40477752685547,
-            621.7364501953125
+            608.4098510742188,
+            94.60919952392578,
+            620.6843872070312
           ],
           "spans": [
             {
@@ -6688,33 +6226,11 @@
                 94.60919952392578,
                 620.6843872070312
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                618.47998046875
-              ],
-              "bbox": [
-                94.61921691894531,
-                608.0592041015625,
-                97.40477752685547,
-                621.7364501953125
-              ]
             }
           ]
         },
         {
-          "y": 624,
+          "y": 623.8,
           "text": "table philosophy, sourcing their ingredients from local farms and producers. Look for",
           "bbox": [
             108.00003051757812,
@@ -6748,7 +6264,7 @@
           ]
         },
         {
-          "y": 641,
+          "y": 640.9,
           "text": "restaurants that highlight seasonal, locally grown produce and sustainably raised",
           "bbox": [
             108.00003051757812,
@@ -6782,7 +6298,7 @@
           ]
         },
         {
-          "y": 658,
+          "y": 658.0,
           "text": "meats. Dining at a farm-to-table restaurant is a wonderful way to support local",
           "bbox": [
             108.00003051757812,
@@ -6816,7 +6332,7 @@
           ]
         },
         {
-          "y": 675,
+          "y": 675.1,
           "text": "agriculture and enjoy the freshest ingredients available.",
           "bbox": [
             108.00003051757812,
@@ -6857,7 +6373,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Cheese Tasting: The South of France is home to a variety of delicious cheeses,",
           "bbox": [
             108.0,
@@ -6891,7 +6407,7 @@
           ]
         },
         {
-          "y": 74,
+          "y": 73.7,
           "text": "•",
           "bbox": [
             90.0,
@@ -6925,7 +6441,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 89.1,
           "text": "including Roquefort, Banon, and Picodon. Visit a local fromagerie (cheese shop) or a",
           "bbox": [
             108.0,
@@ -6959,7 +6475,7 @@
           ]
         },
         {
-          "y": 106,
+          "y": 106.2,
           "text": "farm to sample these cheeses and learn about their production. Many cheese",
           "bbox": [
             108.0,
@@ -6993,7 +6509,7 @@
           ]
         },
         {
-          "y": 123,
+          "y": 123.3,
           "text": "producers oﬀer tours and tastings, giving you the opportunity to discover the unique",
           "bbox": [
             108.0,
@@ -7027,7 +6543,7 @@
           ]
         },
         {
-          "y": 140,
+          "y": 140.4,
           "text": "flavors and textures of the region's cheeses.",
           "bbox": [
             108.0,
@@ -7061,7 +6577,7 @@
           ]
         },
         {
-          "y": 166,
+          "y": 165.5,
           "text": "Pastry Workshops: French pastries are renowned worldwide, and the South of France",
           "bbox": [
             108.0,
@@ -7095,13 +6611,13 @@
           ]
         },
         {
-          "y": 167,
+          "y": 167.2,
           "text": "•",
           "bbox": [
             90.0,
-            166.81918334960938,
-            97.40477752685547,
-            180.49649047851562
+            167.16989135742188,
+            94.60919952392578,
+            179.44439697265625
           ],
           "spans": [
             {
@@ -7125,33 +6641,11 @@
                 94.60919952392578,
                 179.44439697265625
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                177.239990234375
-              ],
-              "bbox": [
-                94.61921691894531,
-                166.81918334960938,
-                97.40477752685547,
-                180.49649047851562
-              ]
             }
           ]
         },
         {
-          "y": 183,
+          "y": 182.6,
           "text": "is no exception. Join a pastry workshop to learn how to make classic French pastries",
           "bbox": [
             108.0,
@@ -7185,7 +6679,7 @@
           ]
         },
         {
-          "y": 200,
+          "y": 199.7,
           "text": "like croissants, éclairs, and macarons. These workshops are a fun and interactive way",
           "bbox": [
             108.0,
@@ -7219,7 +6713,7 @@
           ]
         },
         {
-          "y": 217,
+          "y": 216.8,
           "text": "to improve your baking skills and take home some delicious treats.",
           "bbox": [
             108.0,
@@ -7260,7 +6754,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Conclusion",
           "bbox": [
             72.0,
@@ -7294,7 +6788,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "The South of France oﬀers a rich and diverse culinary landscape that is sure to delight any",
           "bbox": [
             72.0,
@@ -7328,7 +6822,7 @@
           ]
         },
         {
-          "y": 114,
+          "y": 114.3,
           "text": "food lover. From fresh seafood and Provençal dishes to iconic restaurants and unique culinary",
           "bbox": [
             72.0,
@@ -7362,7 +6856,7 @@
           ]
         },
         {
-          "y": 131,
+          "y": 131.4,
           "text": "experiences, there is something for everyone to enjoy. Whether you're savoring a bowl of",
           "bbox": [
             72.0,
@@ -7396,7 +6890,7 @@
           ]
         },
         {
-          "y": 148,
+          "y": 148.5,
           "text": "bouillabaisse by the sea, exploring vibrant food markets, or indulging in a Michelin-starred",
           "bbox": [
             72.0,
@@ -7430,7 +6924,7 @@
           ]
         },
         {
-          "y": 166,
+          "y": 165.6,
           "text": "meal, the flavors of this beautiful region will leave a lasting impression. Use this guide to plan",
           "bbox": [
             71.99996948242188,
@@ -7464,7 +6958,7 @@
           ]
         },
         {
-          "y": 183,
+          "y": 182.6,
           "text": "your culinary journey and savor the tastes of the South of France, creating memories that will",
           "bbox": [
             71.99996948242188,
@@ -7498,7 +6992,7 @@
           ]
         },
         {
-          "y": 200,
+          "y": 199.7,
           "text": "linger long after your trip has ended. Bon appétit!",
           "bbox": [
             71.99996948242188,

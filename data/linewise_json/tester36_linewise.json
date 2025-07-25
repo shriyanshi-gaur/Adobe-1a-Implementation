@@ -7,7 +7,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 44,
+          "y": 43.7,
           "text": "STATE OF CALIFORNIA - STATE AND CONSUMER SERVICES AGENCY Gray, Davis, Governor",
           "bbox": [
             30.0,
@@ -63,7 +63,7 @@
           ]
         },
         {
-          "y": 72,
+          "y": 72.4,
           "text": "HEARING AID DISPENSERS BUREAU",
           "bbox": [
             186.0,
@@ -97,7 +97,7 @@
           ]
         },
         {
-          "y": 87,
+          "y": 87.2,
           "text": "1422 Howe Avenue, Suite 5, Sacramento, CA 95825-3204",
           "bbox": [
             192.0,
@@ -131,7 +131,7 @@
           ]
         },
         {
-          "y": 96,
+          "y": 96.2,
           "text": "Telephone: (916) 263-2288 Fax: (916) 263-2290",
           "bbox": [
             207.0,
@@ -165,7 +165,7 @@
           ]
         },
         {
-          "y": 132,
+          "y": 131.6,
           "text": "Consumers and the 30-day",
           "bbox": [
             195.75,
@@ -199,7 +199,7 @@
           ]
         },
         {
-          "y": 159,
+          "y": 159.4,
           "text": "Warranty On Hearing Aids",
           "bbox": [
             199.5,
@@ -233,7 +233,7 @@
           ]
         },
         {
-          "y": 216,
+          "y": 215.6,
           "text": "The California Song-Beverly Consumer Warranty Act provides a 30-day warranty on all new and used",
           "bbox": [
             43.5,
@@ -267,7 +267,7 @@
           ]
         },
         {
-          "y": 230,
+          "y": 229.9,
           "text": "hearing aids sold in California. If the hearing aid is not specifically fit for the buyer's particular needs, the",
           "bbox": [
             43.5,
@@ -301,7 +301,7 @@
           ]
         },
         {
-          "y": 244,
+          "y": 244.1,
           "text": "device may be returned to the hearing aid dispenser within 30 days of the date of actual receipt by the",
           "bbox": [
             43.5,
@@ -335,7 +335,7 @@
           ]
         },
         {
-          "y": 258,
+          "y": 258.4,
           "text": "buyer or completion of fitting by the seller, whichever occurs later. If the buyer returns the device, the seller",
           "bbox": [
             43.5,
@@ -369,7 +369,7 @@
           ]
         },
         {
-          "y": 273,
+          "y": 272.6,
           "text": "must either adjust or replace the device or promptly refund the total amount paid.",
           "bbox": [
             43.5,
@@ -403,7 +403,7 @@
           ]
         },
         {
-          "y": 301,
+          "y": 301.1,
           "text": "If the buyer returns the device within the 30-day period, the seller is required, without charge and within a",
           "bbox": [
             43.5,
@@ -437,7 +437,7 @@
           ]
         },
         {
-          "y": 315,
+          "y": 315.4,
           "text": "reasonable time, to adjust, repair or replace the device. If, after the adjustment, repair or replacement, the",
           "bbox": [
             43.5,
@@ -471,7 +471,7 @@
           ]
         },
         {
-          "y": 330,
+          "y": 329.6,
           "text": "device is still not specifically fit for the buyer’s particular needs, the device may be returned for a refund of",
           "bbox": [
             43.5,
@@ -505,7 +505,7 @@
           ]
         },
         {
-          "y": 344,
+          "y": 343.9,
           "text": "the total amount paid including all payments and any trade-in exchanged as part of the transaction.",
           "bbox": [
             43.5,
@@ -561,7 +561,7 @@
           ]
         },
         {
-          "y": 373,
+          "y": 373.1,
           "text": "The Office of the Attorney General’s legal opinion confirms that “the seller may NOT retain any portion of",
           "bbox": [
             43.5,
@@ -595,7 +595,7 @@
           ]
         },
         {
-          "y": 387,
+          "y": 387.4,
           "text": "the total amount paid on the basis that such part payment was for fitting the device or other ancillary",
           "bbox": [
             43.5,
@@ -629,7 +629,7 @@
           ]
         },
         {
-          "y": 402,
+          "y": 401.6,
           "text": "service or for one or more of the component parts that the seller refuses to take back.” This means the",
           "bbox": [
             43.5,
@@ -663,7 +663,7 @@
           ]
         },
         {
-          "y": 416,
+          "y": 415.9,
           "text": "hearing aid dispenser may not retain a fee or other charge in connection with the purchase, fitting,",
           "bbox": [
             43.5,
@@ -697,7 +697,7 @@
           ]
         },
         {
-          "y": 430,
+          "y": 430.1,
           "text": "financing, or return of the device, and no fee should be listed as “non-refundable” on the purchase",
           "bbox": [
             43.5,
@@ -731,7 +731,7 @@
           ]
         },
         {
-          "y": 444,
+          "y": 444.4,
           "text": "agreement.",
           "bbox": [
             43.5,
@@ -765,7 +765,7 @@
           ]
         },
         {
-          "y": 489,
+          "y": 488.6,
           "text": "Application of the Law",
           "bbox": [
             43.5,
@@ -821,7 +821,7 @@
           ]
         },
         {
-          "y": 518,
+          "y": 517.9,
           "text": "The hearing aid may be returned at any time within 30 days after the date of the actual delivery or",
           "bbox": [
             43.5,
@@ -855,7 +855,7 @@
           ]
         },
         {
-          "y": 532,
+          "y": 532.1,
           "text": "completion of the fitting, whichever occurs later. For example, if the device is ordered on July 1, and",
           "bbox": [
             43.5,
@@ -889,7 +889,7 @@
           ]
         },
         {
-          "y": 546,
+          "y": 546.4,
           "text": "delivered on July 15, it may be returned for adjustment or replacement through August 15. If, however, the",
           "bbox": [
             43.5,
@@ -923,7 +923,7 @@
           ]
         },
         {
-          "y": 561,
+          "y": 560.6,
           "text": "process of the fitting only begins on July 15 and the fitting is not completed until August 20, the buyer is",
           "bbox": [
             43.5,
@@ -957,7 +957,7 @@
           ]
         },
         {
-          "y": 575,
+          "y": 574.9,
           "text": "entitled to return the device for adjustment or replacement through September 20.",
           "bbox": [
             43.5,
@@ -991,7 +991,7 @@
           ]
         },
         {
-          "y": 603,
+          "y": 603.4,
           "text": "The hearing aid dispenser has the right to attempt to achieve a proper fitting by adjusting, repairing or",
           "bbox": [
             43.5,
@@ -1025,7 +1025,7 @@
           ]
         },
         {
-          "y": 618,
+          "y": 617.6,
           "text": "replacing the device. If, after the adjustment, the device is still not suited to the buyer’s particular needs,",
           "bbox": [
             43.5,
@@ -1059,7 +1059,7 @@
           ]
         },
         {
-          "y": 632,
+          "y": 631.9,
           "text": "then the device may be returned for a refund of the total amount paid.",
           "bbox": [
             43.5,
@@ -1100,7 +1100,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 45,
+          "y": 44.6,
           "text": "Buyer’s and Seller’s Responsibilities",
           "bbox": [
             36.0,
@@ -1156,7 +1156,7 @@
           ]
         },
         {
-          "y": 74,
+          "y": 73.9,
           "text": "The hearing aid dispenser must act in good faith in honoring the buyer's rights, and the buyer, too, must act in",
           "bbox": [
             36.0,
@@ -1190,7 +1190,7 @@
           ]
         },
         {
-          "y": 88,
+          "y": 88.1,
           "text": "good faith in enforcing such rights. Whether the device is or is not specifically fit for the buyer's particular",
           "bbox": [
             36.0,
@@ -1224,7 +1224,7 @@
           ]
         },
         {
-          "y": 102,
+          "y": 102.4,
           "text": "needs will always be a question of fact. The fact that the buyer sincerely believes that the device is unfit is",
           "bbox": [
             36.0,
@@ -1258,7 +1258,7 @@
           ]
         },
         {
-          "y": 117,
+          "y": 116.6,
           "text": "relevant, but will never be conclusive, just as the fact that the seller believes that the device is fit will never be",
           "bbox": [
             36.0,
@@ -1292,7 +1292,7 @@
           ]
         },
         {
-          "y": 131,
+          "y": 130.9,
           "text": "conclusive. In a dispute, the opinion of an unrelated third person will be helpful -- but again, never conclusive.",
           "bbox": [
             36.0,
@@ -1326,7 +1326,7 @@
           ]
         },
         {
-          "y": 145,
+          "y": 145.1,
           "text": "As usually is the case, the seller and buyer will have to work to resolve any differences to each other's",
           "bbox": [
             36.0,
@@ -1360,7 +1360,7 @@
           ]
         },
         {
-          "y": 159,
+          "y": 159.4,
           "text": "satisfaction.",
           "bbox": [
             36.0,
@@ -1394,7 +1394,7 @@
           ]
         },
         {
-          "y": 188,
+          "y": 187.9,
           "text": "The buyer does not have an unqualified option to return the device for a refund and may return the hearing aid",
           "bbox": [
             36.0,
@@ -1428,7 +1428,7 @@
           ]
         },
         {
-          "y": 202,
+          "y": 202.1,
           "text": "for a refund only if:",
           "bbox": [
             36.0,
@@ -1462,7 +1462,7 @@
           ]
         },
         {
-          "y": 231,
+          "y": 230.6,
           "text": "(a) the device is not specifically fit for the particular needs of the buyer, and",
           "bbox": [
             36.0,
@@ -1496,7 +1496,7 @@
           ]
         },
         {
-          "y": 245,
+          "y": 244.9,
           "text": "(b) the buyer has not abused the device, and",
           "bbox": [
             36.0,
@@ -1530,7 +1530,7 @@
           ]
         },
         {
-          "y": 259,
+          "y": 259.1,
           "text": "(c) the buyer has returned the device to the seller for adjustment or replacement within the 30 days, and",
           "bbox": [
             36.0,
@@ -1564,7 +1564,7 @@
           ]
         },
         {
-          "y": 273,
+          "y": 273.4,
           "text": "(d) the seller has failed to adjust the device or, if appropriate, replace it with a device that is specifically fit for",
           "bbox": [
             36.0,
@@ -1598,7 +1598,7 @@
           ]
         },
         {
-          "y": 288,
+          "y": 287.6,
           "text": "the buyer's particular needs.",
           "bbox": [
             36.0,
@@ -1632,7 +1632,7 @@
           ]
         },
         {
-          "y": 316,
+          "y": 316.1,
           "text": "The hearing aid dispenser is not required by law to provide a refund if:",
           "bbox": [
             36.0,
@@ -1666,7 +1666,7 @@
           ]
         },
         {
-          "y": 345,
+          "y": 344.6,
           "text": "(a) the device has been abused or damaged by the buyer;",
           "bbox": [
             36.0,
@@ -1700,7 +1700,7 @@
           ]
         },
         {
-          "y": 359,
+          "y": 358.9,
           "text": "(b) the buyer keeps the device for more than 30 days after delivery without seeking an adjustment;",
           "bbox": [
             36.0,
@@ -1734,7 +1734,7 @@
           ]
         },
         {
-          "y": 373,
+          "y": 373.1,
           "text": "(c) the buyer does not allow the dispenser an opportunity to adjust, repair or replace the device;",
           "bbox": [
             36.0,
@@ -1768,7 +1768,7 @@
           ]
         },
         {
-          "y": 387,
+          "y": 387.4,
           "text": "(d) the buyer feels he/she paid too much and returns the hearing aid; or",
           "bbox": [
             36.0,
@@ -1802,7 +1802,7 @@
           ]
         },
         {
-          "y": 402,
+          "y": 401.6,
           "text": "(e) the hearing aid is returned after the death of the buyer.",
           "bbox": [
             36.0,
@@ -1836,7 +1836,7 @@
           ]
         },
         {
-          "y": 430,
+          "y": 430.1,
           "text": "It is important that both the buyer and the seller keep accurate written records of the dates of all adjustments.",
           "bbox": [
             36.0,
@@ -1870,7 +1870,7 @@
           ]
         },
         {
-          "y": 444,
+          "y": 444.4,
           "text": "In a dispute, the records will be essential in making a determination of the issue.",
           "bbox": [
             36.0,
@@ -1904,7 +1904,7 @@
           ]
         },
         {
-          "y": 474,
+          "y": 473.6,
           "text": "The Purchase Agreement Written Warranty Requirement",
           "bbox": [
             36.0,
@@ -1938,7 +1938,7 @@
           ]
         },
         {
-          "y": 503,
+          "y": 502.9,
           "text": "The following warranty language must appear on the hearing aid purchase agreement/receipt delivered to the",
           "bbox": [
             36.0,
@@ -1972,7 +1972,7 @@
           ]
         },
         {
-          "y": 517,
+          "y": 517.1,
           "text": "buyer:",
           "bbox": [
             36.0,
@@ -2006,7 +2006,7 @@
           ]
         },
         {
-          "y": 545,
+          "y": 545.4,
           "text": "This assistive device is warranted to be specifically fit for the particular needs of you, the buyer. If the",
           "bbox": [
             72.0,
@@ -2040,7 +2040,7 @@
           ]
         },
         {
-          "y": 557,
+          "y": 557.4,
           "text": "device is not specifically fit for your particular needs, it may be returned to the seller within 30 days of",
           "bbox": [
             72.0,
@@ -2074,7 +2074,7 @@
           ]
         },
         {
-          "y": 569,
+          "y": 569.4,
           "text": "the date of actual receipt by you or completion of fitting by the seller, whichever occurs later. If you",
           "bbox": [
             72.0,
@@ -2108,7 +2108,7 @@
           ]
         },
         {
-          "y": 581,
+          "y": 581.4,
           "text": "return the device, the seller will either adjust or replace the device or promptly refund the total",
           "bbox": [
             72.0,
@@ -2142,7 +2142,7 @@
           ]
         },
         {
-          "y": 593,
+          "y": 593.4,
           "text": "amount paid. This warranty does not affect the protections and remedies you have under other laws.",
           "bbox": [
             72.0,
@@ -2176,7 +2176,7 @@
           ]
         },
         {
-          "y": 621,
+          "y": 620.6,
           "text": "Hearing Aid Dispensers Bureau",
           "bbox": [
             36.0,
@@ -2210,7 +2210,7 @@
           ]
         },
         {
-          "y": 650,
+          "y": 649.9,
           "text": "The Hearing Aid Dispensers Bureau's mission is to protect consumers through its licensing and",
           "bbox": [
             36.0,
@@ -2244,7 +2244,7 @@
           ]
         },
         {
-          "y": 664,
+          "y": 664.1,
           "text": "enforcement functions. Consumers are encouraged to file a formal complaint if there is any question",
           "bbox": [
             36.0,
@@ -2278,7 +2278,7 @@
           ]
         },
         {
-          "y": 678,
+          "y": 678.4,
           "text": "regarding care provided by a hearing aid dispenser.",
           "bbox": [
             36.0,
@@ -2312,7 +2312,7 @@
           ]
         },
         {
-          "y": 707,
+          "y": 706.9,
           "text": "If you have any questions regarding a hearing aid dispenser or the purchase or return of hearing aids, or",
           "bbox": [
             36.0,
@@ -2346,7 +2346,7 @@
           ]
         },
         {
-          "y": 721,
+          "y": 721.1,
           "text": "if you wish to obtain a complaint form, please contact us at 1422 Howe Avenue, Suite 5, Sacramento,",
           "bbox": [
             36.0,
@@ -2380,7 +2380,7 @@
           ]
         },
         {
-          "y": 735,
+          "y": 735.4,
           "text": "CA 95825-3204, or call 916/263-2288. 7/99",
           "bbox": [
             36.0,

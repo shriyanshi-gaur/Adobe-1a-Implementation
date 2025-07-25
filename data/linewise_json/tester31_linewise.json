@@ -7,7 +7,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 43,
+          "y": 43.0,
           "text": "CYBERSECURITY FOR",
           "bbox": [
             47.7859992980957,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 57,
+          "y": 56.9,
           "text": "SMALL BUSINESS",
           "bbox": [
             63.11479949951172,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 133,
+          "y": 133.5,
           "text": "CYBERSECURITY BASICS",
           "bbox": [
             34.63999938964844,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 234,
+          "y": 234.5,
           "text": "Cyber criminals target",
           "bbox": [
             36.560001373291016,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 239,
+          "y": 239.3,
           "text": "Knowing some cybersecurity basics and",
           "bbox": [
             294.7582092285156,
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "y": 253,
+          "y": 253.3,
           "text": "putting them in practice will help you",
           "bbox": [
             294.7582092285156,
@@ -211,7 +211,7 @@
           ]
         },
         {
-          "y": 263,
+          "y": 263.5,
           "text": "companies of all sizes.",
           "bbox": [
             36.560001373291016,
@@ -245,7 +245,7 @@
           ]
         },
         {
-          "y": 267,
+          "y": 267.3,
           "text": "protect your business and reduce the risk",
           "bbox": [
             294.7582092285156,
@@ -279,7 +279,7 @@
           ]
         },
         {
-          "y": 281,
+          "y": 281.3,
           "text": "of a cyber attack.",
           "bbox": [
             294.7582092285156,
@@ -313,7 +313,7 @@
           ]
         },
         {
-          "y": 322,
+          "y": 322.3,
           "text": "PROTECT",
           "bbox": [
             36.0,
@@ -347,7 +347,7 @@
           ]
         },
         {
-          "y": 353,
+          "y": 353.2,
           "text": "YOUR FILES & DEVICES",
           "bbox": [
             36.31999969482422,
@@ -381,7 +381,7 @@
           ]
         },
         {
-          "y": 429,
+          "y": 429.1,
           "text": "Require passwords",
           "bbox": [
             405.54901123046875,
@@ -415,7 +415,7 @@
           ]
         },
         {
-          "y": 430,
+          "y": 430.1,
           "text": "Update your software Secure your files",
           "bbox": [
             36.31999969482422,
@@ -471,7 +471,7 @@
           ]
         },
         {
-          "y": 453,
+          "y": 453.3,
           "text": "Use passwords for all laptops,",
           "bbox": [
             405.54901123046875,
@@ -505,7 +505,7 @@
           ]
         },
         {
-          "y": 454,
+          "y": 454.3,
           "text": "This includes your apps, web Back up important files offline,",
           "bbox": [
             36.31999969482422,
@@ -561,7 +561,7 @@
           ]
         },
         {
-          "y": 467,
+          "y": 467.3,
           "text": "tablets, and smartphones.",
           "bbox": [
             405.54901123046875,
@@ -595,7 +595,7 @@
           ]
         },
         {
-          "y": 468,
+          "y": 468.3,
           "text": "browsers, and operating on an external hard drive, or in",
           "bbox": [
             36.31999969482422,
@@ -651,7 +651,7 @@
           ]
         },
         {
-          "y": 481,
+          "y": 481.3,
           "text": "Don’t leave these devices",
           "bbox": [
             405.54901123046875,
@@ -685,7 +685,7 @@
           ]
         },
         {
-          "y": 482,
+          "y": 482.3,
           "text": "systems. Set updates to the cloud. Make sure you store",
           "bbox": [
             36.31999969482422,
@@ -741,7 +741,7 @@
           ]
         },
         {
-          "y": 495,
+          "y": 495.3,
           "text": "unattended in public places.",
           "bbox": [
             405.54901123046875,
@@ -775,7 +775,7 @@
           ]
         },
         {
-          "y": 496,
+          "y": 496.3,
           "text": "happen automatically. your paper files securely, too.",
           "bbox": [
             36.31999969482422,
@@ -831,7 +831,7 @@
           ]
         },
         {
-          "y": 585,
+          "y": 584.9,
           "text": "Encrypt devices Use multi-factor authentication",
           "bbox": [
             36.791900634765625,
@@ -887,7 +887,7 @@
           ]
         },
         {
-          "y": 609,
+          "y": 609.1,
           "text": "Encrypt devices and other media that Require multi-factor authentication to access areas",
           "bbox": [
             36.791900634765625,
@@ -943,7 +943,7 @@
           ]
         },
         {
-          "y": 623,
+          "y": 623.1,
           "text": "contain sensitive personal information. of your network with sensitive information. This",
           "bbox": [
             36.791900634765625,
@@ -999,7 +999,7 @@
           ]
         },
         {
-          "y": 637,
+          "y": 637.1,
           "text": "This includes laptops, tablets, requires additional steps beyond logging in with a",
           "bbox": [
             36.791900634765625,
@@ -1055,7 +1055,7 @@
           ]
         },
         {
-          "y": 651,
+          "y": 651.1,
           "text": "smartphones, removable drives, backup password — like a temporary code on a smartphone",
           "bbox": [
             36.791900634765625,
@@ -1111,7 +1111,7 @@
           ]
         },
         {
-          "y": 665,
+          "y": 665.1,
           "text": "tapes, and cloud storage solutions. or a key that’s inserted into a computer.",
           "bbox": [
             36.791900634765625,
@@ -1167,7 +1167,7 @@
           ]
         },
         {
-          "y": 732,
+          "y": 731.6,
           "text": "LEARN MORE AT: LEARN MORE AT:",
           "bbox": [
             41.439998626708984,
@@ -1223,7 +1223,7 @@
           ]
         },
         {
-          "y": 748,
+          "y": 747.9,
           "text": "FTC.gov/SmallBusiness FTC.gov/SmallBusiness",
           "bbox": [
             41.439998626708984,
@@ -1286,7 +1286,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 43,
+          "y": 43.0,
           "text": "CYBERSECURITY FOR",
           "bbox": [
             47.7859992980957,
@@ -1320,7 +1320,7 @@
           ]
         },
         {
-          "y": 57,
+          "y": 56.9,
           "text": "SMALL BUSINESS",
           "bbox": [
             63.11479949951172,
@@ -1354,7 +1354,7 @@
           ]
         },
         {
-          "y": 117,
+          "y": 117.1,
           "text": "PROTECT",
           "bbox": [
             36.36000061035156,
@@ -1388,7 +1388,7 @@
           ]
         },
         {
-          "y": 123,
+          "y": 123.3,
           "text": "YOUR WIRELESS NETWORK",
           "bbox": [
             160.87600708007812,
@@ -1444,7 +1444,7 @@
           ]
         },
         {
-          "y": 162,
+          "y": 162.3,
           "text": "Secure your router",
           "bbox": [
             176.39999389648438,
@@ -1478,7 +1478,7 @@
           ]
         },
         {
-          "y": 186,
+          "y": 186.5,
           "text": "Change the default name and password, turn off remote management,",
           "bbox": [
             176.39999389648438,
@@ -1512,7 +1512,7 @@
           ]
         },
         {
-          "y": 200,
+          "y": 200.5,
           "text": "and log out as the administrator once the router is set up.",
           "bbox": [
             176.39999389648438,
@@ -1546,7 +1546,7 @@
           ]
         },
         {
-          "y": 233,
+          "y": 233.4,
           "text": "Use at least WPA2 encryption",
           "bbox": [
             176.39999389648438,
@@ -1580,7 +1580,7 @@
           ]
         },
         {
-          "y": 258,
+          "y": 257.5,
           "text": "Make sure your router offers WPA2 or WPA3 encryption, and that it’s",
           "bbox": [
             176.39999389648438,
@@ -1614,7 +1614,7 @@
           ]
         },
         {
-          "y": 272,
+          "y": 271.5,
           "text": "turned on. Encryption protects information sent over your network so it",
           "bbox": [
             176.39999389648438,
@@ -1648,7 +1648,7 @@
           ]
         },
         {
-          "y": 286,
+          "y": 285.5,
           "text": "can’t be read by outsiders.",
           "bbox": [
             176.39999389648438,
@@ -1682,7 +1682,7 @@
           ]
         },
         {
-          "y": 335,
+          "y": 334.8,
           "text": "MAKE",
           "bbox": [
             35.7599983215332,
@@ -1716,7 +1716,7 @@
           ]
         },
         {
-          "y": 354,
+          "y": 354.0,
           "text": "SMART SECURITY",
           "bbox": [
             35.7599983215332,
@@ -1750,7 +1750,7 @@
           ]
         },
         {
-          "y": 385,
+          "y": 385.3,
           "text": "YOUR BUSINESS AS USUAL",
           "bbox": [
             35.7599983215332,
@@ -1784,7 +1784,7 @@
           ]
         },
         {
-          "y": 506,
+          "y": 506.4,
           "text": "Have a plan",
           "bbox": [
             404.956787109375,
@@ -1818,13 +1818,13 @@
           ]
         },
         {
-          "y": 507,
-          "text": "Require strong passwords Train all staff",
+          "y": 507.3,
+          "text": "Require strong passwords",
           "bbox": [
             35.7599983215332,
             507.2681884765625,
-            301.199951171875,
-            527.9482421875
+            194.80799865722656,
+            527.7882080078125
           ],
           "spans": [
             {
@@ -1848,7 +1848,19 @@
                 194.80799865722656,
                 527.7882080078125
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 507.4,
+          "text": "Train all staff",
+          "bbox": [
+            220.55999755859375,
+            507.42822265625,
+            301.199951171875,
+            527.9482421875
+          ],
+          "spans": [
             {
               "size": 18.0,
               "flags": 20,
@@ -1874,37 +1886,15 @@
           ]
         },
         {
-          "y": 531,
-          "text": "A strong password is at least Have a plan for saving data,",
+          "y": 530.6,
+          "text": "Have a plan for saving data,",
           "bbox": [
-            35.7599983215332,
+            404.956787109375,
             530.5862426757812,
             553.9009399414062,
-            545.5741577148438
+            544.7341918945312
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ProximaNova-Regular",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 0.9070000052452087,
-              "descender": -0.2720000147819519,
-              "text": "A strong password is at least ",
-              "origin": [
-                35.7599983215332,
-                542.3101806640625
-              ],
-              "bbox": [
-                35.7599983215332,
-                531.4262084960938,
-                189.56396484375,
-                545.5741577148438
-              ]
-            },
             {
               "size": 12.0,
               "flags": 4,
@@ -1930,7 +1920,41 @@
           ]
         },
         {
-          "y": 532,
+          "y": 531.4,
+          "text": "A strong password is at least",
+          "bbox": [
+            35.7599983215332,
+            531.4262084960938,
+            189.56396484375,
+            545.5741577148438
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ProximaNova-Regular",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 0.9070000052452087,
+              "descender": -0.2720000147819519,
+              "text": "A strong password is at least ",
+              "origin": [
+                35.7599983215332,
+                542.3101806640625
+              ],
+              "bbox": [
+                35.7599983215332,
+                531.4262084960938,
+                189.56396484375,
+                545.5741577148438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 531.6,
           "text": "Create a culture of security",
           "bbox": [
             220.55999755859375,
@@ -1964,37 +1988,15 @@
           ]
         },
         {
-          "y": 545,
-          "text": "12 characters that are a mix of running the business, and",
+          "y": 544.6,
+          "text": "running the business, and",
           "bbox": [
-            35.7599983215332,
+            404.956787109375,
             544.5902099609375,
             543.1608276367188,
-            559.5781860351562
+            558.7381591796875
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ProximaNova-Regular",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 0.9070000052452087,
-              "descender": -0.2720000147819519,
-              "text": "12 characters that are a mix of ",
-              "origin": [
-                35.7599983215332,
-                556.314208984375
-              ],
-              "bbox": [
-                35.7599983215332,
-                545.4302368164062,
-                195.34796142578125,
-                559.5781860351562
-              ]
-            },
             {
               "size": 12.0,
               "flags": 4,
@@ -2020,7 +2022,41 @@
           ]
         },
         {
-          "y": 546,
+          "y": 545.4,
+          "text": "12 characters that are a mix of",
+          "bbox": [
+            35.7599983215332,
+            545.4302368164062,
+            195.34796142578125,
+            559.5781860351562
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ProximaNova-Regular",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 0.9070000052452087,
+              "descender": -0.2720000147819519,
+              "text": "12 characters that are a mix of ",
+              "origin": [
+                35.7599983215332,
+                556.314208984375
+              ],
+              "bbox": [
+                35.7599983215332,
+                545.4302368164062,
+                195.34796142578125,
+                559.5781860351562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 545.6,
           "text": "by implementing a regular",
           "bbox": [
             220.55999755859375,
@@ -2054,37 +2090,15 @@
           ]
         },
         {
-          "y": 559,
-          "text": "numbers, symbols, and capital notifying customers if you",
+          "y": 558.6,
+          "text": "notifying customers if you",
           "bbox": [
-            35.7599983215332,
+            404.956787109375,
             558.59423828125,
             542.4888916015625,
-            573.5821533203125
+            572.7421875
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ProximaNova-Regular",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 0.9070000052452087,
-              "descender": -0.2720000147819519,
-              "text": "numbers, symbols, and capital ",
-              "origin": [
-                35.7599983215332,
-                570.3181762695312
-              ],
-              "bbox": [
-                35.7599983215332,
-                559.4342041015625,
-                197.1959686279297,
-                573.5821533203125
-              ]
-            },
             {
               "size": 12.0,
               "flags": 4,
@@ -2110,7 +2124,41 @@
           ]
         },
         {
-          "y": 560,
+          "y": 559.4,
+          "text": "numbers, symbols, and capital",
+          "bbox": [
+            35.7599983215332,
+            559.4342041015625,
+            197.1959686279297,
+            573.5821533203125
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ProximaNova-Regular",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 0.9070000052452087,
+              "descender": -0.2720000147819519,
+              "text": "numbers, symbols, and capital ",
+              "origin": [
+                35.7599983215332,
+                570.3181762695312
+              ],
+              "bbox": [
+                35.7599983215332,
+                559.4342041015625,
+                197.1959686279297,
+                573.5821533203125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 559.6,
           "text": "schedule of employee training.",
           "bbox": [
             220.55999755859375,
@@ -2144,37 +2192,15 @@
           ]
         },
         {
-          "y": 573,
-          "text": "lowercase letters. experience a breach. The FTC’s",
+          "y": 572.6,
+          "text": "experience a breach. The FTC’s",
           "bbox": [
-            35.7599983215332,
+            404.956787109375,
             572.5982055664062,
             574.382568359375,
-            587.586181640625
+            586.7461547851562
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ProximaNova-Regular",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 0.9070000052452087,
-              "descender": -0.2720000147819519,
-              "text": "lowercase letters.",
-              "origin": [
-                35.7599983215332,
-                584.3222045898438
-              ],
-              "bbox": [
-                35.7599983215332,
-                573.438232421875,
-                128.11199951171875,
-                587.586181640625
-              ]
-            },
             {
               "size": 12.0,
               "flags": 4,
@@ -2200,7 +2226,41 @@
           ]
         },
         {
-          "y": 574,
+          "y": 573.4,
+          "text": "lowercase letters.",
+          "bbox": [
+            35.7599983215332,
+            573.438232421875,
+            128.11199951171875,
+            587.586181640625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ProximaNova-Regular",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 0.9070000052452087,
+              "descender": -0.2720000147819519,
+              "text": "lowercase letters.",
+              "origin": [
+                35.7599983215332,
+                584.3222045898438
+              ],
+              "bbox": [
+                35.7599983215332,
+                573.438232421875,
+                128.11199951171875,
+                587.586181640625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 573.6,
           "text": "Update employees as you",
           "bbox": [
             220.55999755859375,
@@ -2234,7 +2294,7 @@
           ]
         },
         {
-          "y": 587,
+          "y": 586.8,
           "text": "Data Breach Response: A Guide",
           "bbox": [
             404.956787109375,
@@ -2268,7 +2328,7 @@
           ]
         },
         {
-          "y": 588,
+          "y": 587.6,
           "text": "find out about new risks and",
           "bbox": [
             220.55999755859375,
@@ -2302,7 +2362,7 @@
           ]
         },
         {
-          "y": 592,
+          "y": 591.9,
           "text": "Never reuse passwords and",
           "bbox": [
             35.7599983215332,
@@ -2336,37 +2396,15 @@
           ]
         },
         {
-          "y": 601,
-          "text": "for Business gives steps you",
+          "y": 600.6,
+          "text": "gives steps you",
           "bbox": [
-            404.956787109375,
+            469.24078369140625,
             600.606201171875,
             557.0928344726562,
             614.754150390625
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ProximaNova-RegularIt",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 0.8870000243186951,
-              "descender": -0.26600000262260437,
-              "text": "for Business",
-              "origin": [
-                404.956787109375,
-                611.4901733398438
-              ],
-              "bbox": [
-                404.956787109375,
-                600.84619140625,
-                469.24078369140625,
-                614.6821899414062
-              ]
-            },
             {
               "size": 12.0,
               "flags": 4,
@@ -2392,7 +2430,41 @@
           ]
         },
         {
-          "y": 602,
+          "y": 600.8,
+          "text": "for Business",
+          "bbox": [
+            404.956787109375,
+            600.84619140625,
+            469.24078369140625,
+            614.6821899414062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ProximaNova-RegularIt",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 0.8870000243186951,
+              "descender": -0.26600000262260437,
+              "text": "for Business",
+              "origin": [
+                404.956787109375,
+                611.4901733398438
+              ],
+              "bbox": [
+                404.956787109375,
+                600.84619140625,
+                469.24078369140625,
+                614.6821899414062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 601.6,
           "text": "vulnerabilities. If employees",
           "bbox": [
             220.55999755859375,
@@ -2426,7 +2498,7 @@
           ]
         },
         {
-          "y": 606,
+          "y": 605.9,
           "text": "don’t share them on the phone,",
           "bbox": [
             35.7599983215332,
@@ -2460,7 +2532,7 @@
           ]
         },
         {
-          "y": 615,
+          "y": 614.6,
           "text": "can take. You can find it at",
           "bbox": [
             404.956787109375,
@@ -2494,7 +2566,7 @@
           ]
         },
         {
-          "y": 616,
+          "y": 615.6,
           "text": "don’t attend, consider blocking",
           "bbox": [
             220.55999755859375,
@@ -2528,7 +2600,7 @@
           ]
         },
         {
-          "y": 620,
+          "y": 620.0,
           "text": "in texts, or by email.",
           "bbox": [
             35.7599983215332,
@@ -2562,7 +2634,7 @@
           ]
         },
         {
-          "y": 629,
+          "y": 628.6,
           "text": "FTC.gov/DataBreach.",
           "bbox": [
             404.956787109375,
@@ -2596,7 +2668,7 @@
           ]
         },
         {
-          "y": 630,
+          "y": 629.6,
           "text": "their access to the network.",
           "bbox": [
             220.55999755859375,
@@ -2630,7 +2702,7 @@
           ]
         },
         {
-          "y": 638,
+          "y": 638.5,
           "text": "Limit the number of",
           "bbox": [
             35.7599983215332,
@@ -2664,7 +2736,7 @@
           ]
         },
         {
-          "y": 652,
+          "y": 652.5,
           "text": "unsuccessful log-in attempts to",
           "bbox": [
             35.7599983215332,
@@ -2698,7 +2770,7 @@
           ]
         },
         {
-          "y": 666,
+          "y": 666.5,
           "text": "limit password-guessing attacks.",
           "bbox": [
             35.7599983215332,
@@ -2732,7 +2804,7 @@
           ]
         },
         {
-          "y": 732,
+          "y": 731.6,
           "text": "LEARN MORE AT:",
           "bbox": [
             41.439998626708984,
@@ -2766,7 +2838,7 @@
           ]
         },
         {
-          "y": 748,
+          "y": 747.9,
           "text": "FTC.gov/SmallBusiness",
           "bbox": [
             41.439998626708984,
@@ -2807,7 +2879,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 43,
+          "y": 43.0,
           "text": "CYBERSECURITY FOR",
           "bbox": [
             47.7859992980957,
@@ -2841,7 +2913,7 @@
           ]
         },
         {
-          "y": 57,
+          "y": 56.9,
           "text": "SMALL BUSINESS",
           "bbox": [
             63.11479949951172,
@@ -2875,7 +2947,7 @@
           ]
         },
         {
-          "y": 108,
+          "y": 107.8,
           "text": "Understanding",
           "bbox": [
             39.560001373291016,
@@ -2909,7 +2981,7 @@
           ]
         },
         {
-          "y": 132,
+          "y": 132.2,
           "text": "THE NIST CYBERSECURITY",
           "bbox": [
             39.560001373291016,
@@ -2943,7 +3015,7 @@
           ]
         },
         {
-          "y": 177,
+          "y": 177.2,
           "text": "FRAMEWORK",
           "bbox": [
             39.560001373291016,
@@ -2977,7 +3049,7 @@
           ]
         },
         {
-          "y": 240,
+          "y": 239.6,
           "text": "You may have heard about the",
           "bbox": [
             39.560001373291016,
@@ -3011,7 +3083,7 @@
           ]
         },
         {
-          "y": 246,
+          "y": 246.3,
           "text": "businesses of all sizes better understand,",
           "bbox": [
             319.3639831542969,
@@ -3045,7 +3117,7 @@
           ]
         },
         {
-          "y": 260,
+          "y": 260.3,
           "text": "manage, and reduce their cybersecurity risk",
           "bbox": [
             319.3639831542969,
@@ -3079,7 +3151,7 @@
           ]
         },
         {
-          "y": 267,
+          "y": 266.6,
           "text": "NIST Cybersecurity Framework,",
           "bbox": [
             39.560001373291016,
@@ -3113,7 +3185,7 @@
           ]
         },
         {
-          "y": 274,
+          "y": 274.3,
           "text": "and protect their networks and data. The",
           "bbox": [
             319.3639831542969,
@@ -3147,7 +3219,7 @@
           ]
         },
         {
-          "y": 288,
+          "y": 288.3,
           "text": "Framework is voluntary. It gives your business",
           "bbox": [
             319.3639831542969,
@@ -3181,7 +3253,7 @@
           ]
         },
         {
-          "y": 294,
+          "y": 293.6,
           "text": "but what exactly is it?",
           "bbox": [
             39.560001373291016,
@@ -3215,7 +3287,7 @@
           ]
         },
         {
-          "y": 302,
+          "y": 302.3,
           "text": "an outline of best practices to help you decide",
           "bbox": [
             319.3639831542969,
@@ -3249,7 +3321,7 @@
           ]
         },
         {
-          "y": 316,
+          "y": 316.3,
           "text": "where to focus your time and money for",
           "bbox": [
             319.3639831542969,
@@ -3283,7 +3355,7 @@
           ]
         },
         {
-          "y": 330,
+          "y": 330.3,
           "text": "cybersecurity protection.",
           "bbox": [
             319.3639831542969,
@@ -3317,7 +3389,7 @@
           ]
         },
         {
-          "y": 331,
+          "y": 330.6,
           "text": "And does it apply to you?",
           "bbox": [
             39.560001373291016,
@@ -3351,37 +3423,15 @@
           ]
         },
         {
-          "y": 349,
-          "text": "NIST is the National Institute of Standards and You can put the NIST Cybersecurity Framework",
+          "y": 348.8,
+          "text": "You can put the NIST Cybersecurity Framework",
           "bbox": [
-            39.560001373291016,
+            319.3639831542969,
             348.8141784667969,
             570.15087890625,
-            363.2502136230469
+            362.9621887207031
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ProximaNova-Regular",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 0.9070000052452087,
-              "descender": -0.2720000147819519,
-              "text": "NIST is the National Institute of Standards and ",
-              "origin": [
-                39.560001373291016,
-                359.9862060546875
-              ],
-              "bbox": [
-                39.560001373291016,
-                349.1022033691406,
-                294.0320739746094,
-                363.2502136230469
-              ]
-            },
             {
               "size": 12.0,
               "flags": 4,
@@ -3407,13 +3457,13 @@
           ]
         },
         {
-          "y": 363,
-          "text": "Technology at the U.S. Department of Commerce. to work in your business in these five areas:",
+          "y": 349.1,
+          "text": "NIST is the National Institute of Standards and",
           "bbox": [
             39.560001373291016,
-            362.81817626953125,
-            551.3720703125,
-            377.25421142578125
+            349.1022033691406,
+            294.0320739746094,
+            363.2502136230469
           ],
           "spans": [
             {
@@ -3426,18 +3476,30 @@
               "alpha": 255,
               "ascender": 0.9070000052452087,
               "descender": -0.2720000147819519,
-              "text": "Technology at the U.S. Department of Commerce. ",
+              "text": "NIST is the National Institute of Standards and ",
               "origin": [
                 39.560001373291016,
-                373.9902038574219
+                359.9862060546875
               ],
               "bbox": [
                 39.560001373291016,
-                363.106201171875,
-                313.112060546875,
-                377.25421142578125
+                349.1022033691406,
+                294.0320739746094,
+                363.2502136230469
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 362.8,
+          "text": "to work in your business in these five areas:",
+          "bbox": [
+            319.3639831542969,
+            362.81817626953125,
+            551.3720703125,
+            376.9661865234375
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -3463,13 +3525,13 @@
           ]
         },
         {
-          "y": 377,
-          "text": "The NIST Cybersecurity Framework helps Identify, Protect, Detect, Respond, and Recover.",
+          "y": 363.1,
+          "text": "Technology at the U.S. Department of Commerce.",
           "bbox": [
             39.560001373291016,
-            376.8221740722656,
-            570.6646728515625,
-            391.2582092285156
+            363.106201171875,
+            313.112060546875,
+            377.25421142578125
           ],
           "spans": [
             {
@@ -3482,18 +3544,30 @@
               "alpha": 255,
               "ascender": 0.9070000052452087,
               "descender": -0.2720000147819519,
-              "text": "The NIST Cybersecurity Framework helps ",
+              "text": "Technology at the U.S. Department of Commerce. ",
               "origin": [
                 39.560001373291016,
-                387.99420166015625
+                373.9902038574219
               ],
               "bbox": [
                 39.560001373291016,
-                377.1101989746094,
-                269.5280456542969,
-                391.2582092285156
+                363.106201171875,
+                313.112060546875,
+                377.25421142578125
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 376.8,
+          "text": "Identify, Protect, Detect, Respond, and Recover.",
+          "bbox": [
+            319.3639831542969,
+            376.8221740722656,
+            570.6646728515625,
+            390.9701843261719
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -3519,37 +3593,49 @@
           ]
         },
         {
-          "y": 414,
-          "text": "1. IDENTIFY 2. PROTECT",
+          "y": 377.1,
+          "text": "The NIST Cybersecurity Framework helps",
           "bbox": [
-            40.31999969482422,
+            39.560001373291016,
+            377.1101989746094,
+            269.5280456542969,
+            391.2582092285156
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ProximaNova-Regular",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 0.9070000052452087,
+              "descender": -0.2720000147819519,
+              "text": "The NIST Cybersecurity Framework helps ",
+              "origin": [
+                39.560001373291016,
+                387.99420166015625
+              ],
+              "bbox": [
+                39.560001373291016,
+                377.1101989746094,
+                269.5280456542969,
+                391.2582092285156
+              ]
+            }
+          ]
+        },
+        {
+          "y": 413.6,
+          "text": "IDENTIFY PROTECT",
+          "bbox": [
+            55.69200134277344,
             413.6278076171875,
             474.26800537109375,
             447.3677978515625
           ],
           "spans": [
-            {
-              "size": 28.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ProximaNova-Regular",
-              "color": 6589787,
-              "alpha": 255,
-              "ascender": 0.9070000052452087,
-              "descender": -0.2720000147819519,
-              "text": "1.",
-              "origin": [
-                40.31999969482422,
-                439.0798034667969
-              ],
-              "bbox": [
-                40.31999969482422,
-                413.6838073730469,
-                55.97200012207031,
-                446.69580078125
-              ]
-            },
             {
               "size": 28.0,
               "flags": 4,
@@ -3599,28 +3685,6 @@
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
-              "font": "ProximaNova-Regular",
-              "color": 6589787,
-              "alpha": 255,
-              "ascender": 0.9070000052452087,
-              "descender": -0.2720000147819519,
-              "text": "2.",
-              "origin": [
-                318.8399963378906,
-                439.0798034667969
-              ],
-              "bbox": [
-                318.8399963378906,
-                413.6838073730469,
-                341.4639892578125,
-                446.69580078125
-              ]
-            },
-            {
-              "size": 28.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
               "font": "ProximaNova-Extrabld",
               "color": 1719662,
               "alpha": 255,
@@ -3641,37 +3705,71 @@
           ]
         },
         {
-          "y": 448,
-          "text": "Make a list of all equipment, software, and data • Control who logs on to your network and uses",
+          "y": 413.7,
+          "text": "1. 2.",
           "bbox": [
-            41.0,
-            447.5158996582031,
-            572.916259765625,
-            462.1039123535156
+            40.31999969482422,
+            413.6838073730469,
+            341.4639892578125,
+            446.69580078125
           ],
           "spans": [
             {
-              "size": 12.0,
+              "size": 28.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
               "font": "ProximaNova-Regular",
-              "color": 2301728,
+              "color": 6589787,
               "alpha": 255,
               "ascender": 0.9070000052452087,
               "descender": -0.2720000147819519,
-              "text": "Make a list of all equipment, software, and data ",
+              "text": "1.",
               "origin": [
-                41.0,
-                458.83990478515625
+                40.31999969482422,
+                439.0798034667969
               ],
               "bbox": [
-                41.0,
-                447.9559020996094,
-                290.5483703613281,
-                462.1039123535156
+                40.31999969482422,
+                413.6838073730469,
+                55.97200012207031,
+                446.69580078125
               ]
             },
+            {
+              "size": 28.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ProximaNova-Regular",
+              "color": 6589787,
+              "alpha": 255,
+              "ascender": 0.9070000052452087,
+              "descender": -0.2720000147819519,
+              "text": "2.",
+              "origin": [
+                318.8399963378906,
+                439.0798034667969
+              ],
+              "bbox": [
+                318.8399963378906,
+                413.6838073730469,
+                341.4639892578125,
+                446.69580078125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 447.5,
+          "text": "• Control who logs on to your network and uses",
+          "bbox": [
+            318.8399963378906,
+            447.5158996582031,
+            572.916259765625,
+            461.6639099121094
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -3697,13 +3795,13 @@
           ]
         },
         {
-          "y": 462,
-          "text": "you use, including laptops, smartphones, tablets, your computers and other devices.",
+          "y": 448.0,
+          "text": "Make a list of all equipment, software, and data",
           "bbox": [
             41.0,
-            461.5158996582031,
-            510.1800842285156,
-            476.10791015625
+            447.9559020996094,
+            290.5483703613281,
+            462.1039123535156
           ],
           "spans": [
             {
@@ -3716,18 +3814,30 @@
               "alpha": 255,
               "ascender": 0.9070000052452087,
               "descender": -0.2720000147819519,
-              "text": "you use, including laptops, smartphones, tablets, ",
+              "text": "Make a list of all equipment, software, and data ",
               "origin": [
                 41.0,
-                472.8439025878906
+                458.83990478515625
               ],
               "bbox": [
                 41.0,
-                461.95989990234375,
-                298.9280090332031,
-                476.10791015625
+                447.9559020996094,
+                290.5483703613281,
+                462.1039123535156
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 461.5,
+          "text": "your computers and other devices.",
+          "bbox": [
+            327.8399963378906,
+            461.5158996582031,
+            510.1800842285156,
+            475.6639099121094
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -3753,7 +3863,41 @@
           ]
         },
         {
-          "y": 476,
+          "y": 462.0,
+          "text": "you use, including laptops, smartphones, tablets,",
+          "bbox": [
+            41.0,
+            461.95989990234375,
+            298.9280090332031,
+            476.10791015625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ProximaNova-Regular",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 0.9070000052452087,
+              "descender": -0.2720000147819519,
+              "text": "you use, including laptops, smartphones, tablets, ",
+              "origin": [
+                41.0,
+                472.8439025878906
+              ],
+              "bbox": [
+                41.0,
+                461.95989990234375,
+                298.9280090332031,
+                476.10791015625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 476.0,
           "text": "and point-of-sale devices.",
           "bbox": [
             41.0,
@@ -3787,7 +3931,7 @@
           ]
         },
         {
-          "y": 485,
+          "y": 484.9,
           "text": "• Use security software to protect data.",
           "bbox": [
             318.8399963378906,
@@ -3821,7 +3965,7 @@
           ]
         },
         {
-          "y": 494,
+          "y": 494.5,
           "text": "Create and share a company cybersecurity",
           "bbox": [
             41.0,
@@ -3855,37 +3999,15 @@
           ]
         },
         {
-          "y": 508,
-          "text": "policy that covers: • Encrypt sensitive data, at rest and in transit.",
+          "y": 508.2,
+          "text": "• Encrypt sensitive data, at rest and in transit.",
           "bbox": [
-            41.0,
+            318.8399963378906,
             508.2359924316406,
             554.8681640625,
-            522.619873046875
+            522.3839721679688
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ProximaNova-Regular",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 0.9070000052452087,
-              "descender": -0.2720000147819519,
-              "text": "policy that covers:",
-              "origin": [
-                41.0,
-                519.3558959960938
-              ],
-              "bbox": [
-                41.0,
-                508.4718933105469,
-                135.8839874267578,
-                522.619873046875
-              ]
-            },
             {
               "size": 12.0,
               "flags": 4,
@@ -3911,7 +4033,41 @@
           ]
         },
         {
-          "y": 532,
+          "y": 508.5,
+          "text": "policy that covers:",
+          "bbox": [
+            41.0,
+            508.4718933105469,
+            135.8839874267578,
+            522.619873046875
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ProximaNova-Regular",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 0.9070000052452087,
+              "descender": -0.2720000147819519,
+              "text": "policy that covers:",
+              "origin": [
+                41.0,
+                519.3558959960938
+              ],
+              "bbox": [
+                41.0,
+                508.4718933105469,
+                135.8839874267578,
+                522.619873046875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 531.6,
           "text": "• Conduct regular backups of data.",
           "bbox": [
             318.8399963378906,
@@ -3945,7 +4101,7 @@
           ]
         },
         {
-          "y": 545,
+          "y": 544.7,
           "text": "Roles and responsibilities",
           "bbox": [
             111.552001953125,
@@ -3979,7 +4135,7 @@
           ]
         },
         {
-          "y": 555,
+          "y": 555.0,
           "text": "• Update security software regularly, automating",
           "bbox": [
             318.8399963378906,
@@ -4013,7 +4169,7 @@
           ]
         },
         {
-          "y": 559,
+          "y": 558.7,
           "text": "for employees, vendors, and",
           "bbox": [
             111.552001953125,
@@ -4047,7 +4203,7 @@
           ]
         },
         {
-          "y": 569,
+          "y": 569.0,
           "text": "those updates if possible.",
           "bbox": [
             327.8399963378906,
@@ -4081,7 +4237,7 @@
           ]
         },
         {
-          "y": 573,
+          "y": 572.7,
           "text": "anyone else with access to",
           "bbox": [
             111.552001953125,
@@ -4115,7 +4271,7 @@
           ]
         },
         {
-          "y": 587,
+          "y": 586.7,
           "text": "sensitive data.",
           "bbox": [
             111.552001953125,
@@ -4149,7 +4305,7 @@
           ]
         },
         {
-          "y": 592,
+          "y": 592.3,
           "text": "• Have formal policies for safely disposing of",
           "bbox": [
             318.8399963378906,
@@ -4183,7 +4339,7 @@
           ]
         },
         {
-          "y": 606,
+          "y": 606.3,
           "text": "electronic files and old devices.",
           "bbox": [
             327.8399963378906,
@@ -4217,7 +4373,7 @@
           ]
         },
         {
-          "y": 624,
+          "y": 623.7,
           "text": "Steps to take to protect against",
           "bbox": [
             111.552001953125,
@@ -4251,7 +4407,7 @@
           ]
         },
         {
-          "y": 630,
+          "y": 629.7,
           "text": "• Train everyone who uses your computers,",
           "bbox": [
             318.8399963378906,
@@ -4285,7 +4441,7 @@
           ]
         },
         {
-          "y": 638,
+          "y": 637.7,
           "text": "an attack and limit the damage \u0003if",
           "bbox": [
             111.55549621582031,
@@ -4319,7 +4475,7 @@
           ]
         },
         {
-          "y": 644,
+          "y": 643.7,
           "text": "devices, and network about cybersecurity.",
           "bbox": [
             327.8399963378906,
@@ -4353,7 +4509,7 @@
           ]
         },
         {
-          "y": 652,
+          "y": 651.7,
           "text": "one occurs.",
           "bbox": [
             111.55549621582031,
@@ -4387,7 +4543,7 @@
           ]
         },
         {
-          "y": 658,
+          "y": 657.7,
           "text": "You can help employees understand their",
           "bbox": [
             327.8399963378906,
@@ -4421,7 +4577,7 @@
           ]
         },
         {
-          "y": 672,
+          "y": 671.7,
           "text": "personal risk in addition to their crucial role",
           "bbox": [
             327.8399963378906,
@@ -4455,7 +4611,7 @@
           ]
         },
         {
-          "y": 686,
+          "y": 685.7,
           "text": "in the workplace.",
           "bbox": [
             327.8399963378906,
@@ -4489,7 +4645,7 @@
           ]
         },
         {
-          "y": 732,
+          "y": 731.6,
           "text": "LEARN MORE AT:",
           "bbox": [
             41.439998626708984,
@@ -4523,7 +4679,7 @@
           ]
         },
         {
-          "y": 748,
+          "y": 747.9,
           "text": "FTC.gov/SmallBusiness",
           "bbox": [
             41.439998626708984,
@@ -4564,7 +4720,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 43,
+          "y": 43.0,
           "text": "CYBERSECURITY FOR",
           "bbox": [
             47.7859992980957,
@@ -4598,7 +4754,7 @@
           ]
         },
         {
-          "y": 57,
+          "y": 56.9,
           "text": "SMALL BUSINESS",
           "bbox": [
             63.11479949951172,
@@ -4632,37 +4788,15 @@
           ]
         },
         {
-          "y": 110,
-          "text": "3. DETECT",
+          "y": 109.9,
+          "text": "DETECT",
           "bbox": [
-            35.50400161743164,
+            56.979698181152344,
             109.90780639648438,
             169.56771850585938,
             143.64779663085938
           ],
           "spans": [
-            {
-              "size": 28.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ProximaNova-Regular",
-              "color": 6589787,
-              "alpha": 255,
-              "ascender": 0.9070000052452087,
-              "descender": -0.2720000147819519,
-              "text": "3.",
-              "origin": [
-                35.50400161743164,
-                135.35980224609375
-              ],
-              "bbox": [
-                35.50400161743164,
-                109.96380615234375,
-                57.26000213623047,
-                142.97579956054688
-              ]
-            },
             {
               "size": 28.0,
               "flags": 4,
@@ -4710,7 +4844,41 @@
           ]
         },
         {
-          "y": 194,
+          "y": 110.0,
+          "text": "3.",
+          "bbox": [
+            35.50400161743164,
+            109.96380615234375,
+            57.26000213623047,
+            142.97579956054688
+          ],
+          "spans": [
+            {
+              "size": 28.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ProximaNova-Regular",
+              "color": 6589787,
+              "alpha": 255,
+              "ascender": 0.9070000052452087,
+              "descender": -0.2720000147819519,
+              "text": "3.",
+              "origin": [
+                35.50400161743164,
+                135.35980224609375
+              ],
+              "bbox": [
+                35.50400161743164,
+                109.96380615234375,
+                57.26000213623047,
+                142.97579956054688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 193.9,
           "text": "Monitor your computers Check your network",
           "bbox": [
             35.50400161743164,
@@ -4766,7 +4934,7 @@
           ]
         },
         {
-          "y": 195,
+          "y": 194.6,
           "text": "Investigate any unusual",
           "bbox": [
             392.0,
@@ -4800,7 +4968,7 @@
           ]
         },
         {
-          "y": 208,
+          "y": 207.9,
           "text": "for unauthorized personnel for unauthorized",
           "bbox": [
             35.50400161743164,
@@ -4856,7 +5024,7 @@
           ]
         },
         {
-          "y": 209,
+          "y": 208.6,
           "text": "activities on your network",
           "bbox": [
             392.0,
@@ -4890,7 +5058,7 @@
           ]
         },
         {
-          "y": 222,
+          "y": 221.9,
           "text": "access, devices (like USB users or connections.",
           "bbox": [
             35.50400161743164,
@@ -4946,7 +5114,7 @@
           ]
         },
         {
-          "y": 223,
+          "y": 222.6,
           "text": "or by your staff.",
           "bbox": [
             392.0,
@@ -4980,7 +5148,7 @@
           ]
         },
         {
-          "y": 236,
+          "y": 235.9,
           "text": "drives), and software.",
           "bbox": [
             35.50400161743164,
@@ -5014,7 +5182,7 @@
           ]
         },
         {
-          "y": 278,
+          "y": 277.9,
           "text": "4. RESPOND",
           "bbox": [
             35.50400161743164,
@@ -5070,7 +5238,7 @@
           ]
         },
         {
-          "y": 315,
+          "y": 314.9,
           "text": "Have a plan for:",
           "bbox": [
             35.0,
@@ -5104,7 +5272,7 @@
           ]
         },
         {
-          "y": 343,
+          "y": 343.3,
           "text": "• Notifying customers, employees, and others • Investigating and containing \u0003an attack.",
           "bbox": [
             37.50400161743164,
@@ -5160,7 +5328,7 @@
           ]
         },
         {
-          "y": 357,
+          "y": 357.3,
           "text": "whose data may be at risk.",
           "bbox": [
             46.50400161743164,
@@ -5194,7 +5362,7 @@
           ]
         },
         {
-          "y": 367,
+          "y": 367.0,
           "text": "• Updating your cybersecurity policy and",
           "bbox": [
             333.10400390625,
@@ -5228,7 +5396,7 @@
           ]
         },
         {
-          "y": 381,
+          "y": 381.0,
           "text": "• Keeping business operations \u0003up and running. plan with lessons learned.",
           "bbox": [
             37.50400161743164,
@@ -5284,7 +5452,7 @@
           ]
         },
         {
-          "y": 405,
+          "y": 404.8,
           "text": "• Reporting the attack to law enforcement and • Preparing for inadvertent events",
           "bbox": [
             37.50400161743164,
@@ -5340,7 +5508,7 @@
           ]
         },
         {
-          "y": 419,
+          "y": 418.8,
           "text": "other authorities. (like weather emergencies) that may",
           "bbox": [
             46.50400161743164,
@@ -5396,7 +5564,7 @@
           ]
         },
         {
-          "y": 433,
+          "y": 432.8,
           "text": "put data at risk.",
           "bbox": [
             342.10400390625,
@@ -5430,7 +5598,7 @@
           ]
         },
         {
-          "y": 448,
+          "y": 448.0,
           "text": "Test your plan regularly.",
           "bbox": [
             35.50400161743164,
@@ -5464,7 +5632,7 @@
           ]
         },
         {
-          "y": 498,
+          "y": 497.9,
           "text": "5. RECOVER",
           "bbox": [
             35.40399932861328,
@@ -5542,7 +5710,7 @@
           ]
         },
         {
-          "y": 535,
+          "y": 535.2,
           "text": "After an attack:",
           "bbox": [
             35.40399932861328,
@@ -5576,7 +5744,7 @@
           ]
         },
         {
-          "y": 562,
+          "y": 562.1,
           "text": "Repair and restore the Keep employees and customers",
           "bbox": [
             99.38400268554688,
@@ -5632,7 +5800,7 @@
           ]
         },
         {
-          "y": 576,
+          "y": 576.1,
           "text": "equipment and parts of your informed of your response and",
           "bbox": [
             99.38400268554688,
@@ -5688,7 +5856,7 @@
           ]
         },
         {
-          "y": 590,
+          "y": 590.1,
           "text": "network that were affected. recovery activities.",
           "bbox": [
             99.38400268554688,
@@ -5744,7 +5912,7 @@
           ]
         },
         {
-          "y": 646,
+          "y": 645.6,
           "text": "For more information on the NIST Cybersecurity Framework and resources for small businesses,",
           "bbox": [
             39.74769973754883,
@@ -5778,7 +5946,7 @@
           ]
         },
         {
-          "y": 665,
+          "y": 664.6,
           "text": "go to NIST.gov/CyberFramework and NIST.gov/Programs-Projects/Small-Business-Corner-SBC.",
           "bbox": [
             39.74769973754883,
@@ -5812,7 +5980,7 @@
           ]
         },
         {
-          "y": 732,
+          "y": 731.6,
           "text": "LEARN MORE AT:",
           "bbox": [
             41.439998626708984,
@@ -5846,7 +6014,7 @@
           ]
         },
         {
-          "y": 748,
+          "y": 747.9,
           "text": "FTC.gov/SmallBusiness",
           "bbox": [
             41.439998626708984,
@@ -5887,7 +6055,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 43,
+          "y": 43.0,
           "text": "CYBERSECURITY FOR",
           "bbox": [
             47.7859992980957,
@@ -5921,7 +6089,7 @@
           ]
         },
         {
-          "y": 57,
+          "y": 56.9,
           "text": "SMALL BUSINESS",
           "bbox": [
             63.11479949951172,
@@ -5955,7 +6123,7 @@
           ]
         },
         {
-          "y": 130,
+          "y": 130.0,
           "text": "PHYSICAL SECURITY",
           "bbox": [
             40.0,
@@ -5989,7 +6157,7 @@
           ]
         },
         {
-          "y": 241,
+          "y": 241.4,
           "text": "Cybersecurity begins with",
           "bbox": [
             37.0,
@@ -6023,7 +6191,7 @@
           ]
         },
         {
-          "y": 245,
+          "y": 245.1,
           "text": "An employee accidentally leaves a flash drive",
           "bbox": [
             306.6839904785156,
@@ -6057,7 +6225,7 @@
           ]
         },
         {
-          "y": 259,
+          "y": 259.1,
           "text": "on a coffeehouse table. When he returns hours",
           "bbox": [
             306.6839904785156,
@@ -6091,7 +6259,7 @@
           ]
         },
         {
-          "y": 266,
+          "y": 266.4,
           "text": "strong physical security.",
           "bbox": [
             37.0,
@@ -6125,7 +6293,7 @@
           ]
         },
         {
-          "y": 273,
+          "y": 273.2,
           "text": "later to get it, the drive — with hundreds of Social",
           "bbox": [
             306.6839904785156,
@@ -6159,7 +6327,7 @@
           ]
         },
         {
-          "y": 287,
+          "y": 287.2,
           "text": "Security numbers saved on it — is gone.",
           "bbox": [
             306.6839904785156,
@@ -6193,7 +6361,7 @@
           ]
         },
         {
-          "y": 303,
+          "y": 302.9,
           "text": "Lapses in physical security can expose",
           "bbox": [
             36.0,
@@ -6227,7 +6395,7 @@
           ]
         },
         {
-          "y": 306,
+          "y": 305.7,
           "text": "Another employee throws stacks of old company",
           "bbox": [
             306.6839904785156,
@@ -6261,7 +6429,7 @@
           ]
         },
         {
-          "y": 317,
+          "y": 317.0,
           "text": "sensitive company data to identity theft,",
           "bbox": [
             36.0,
@@ -6295,7 +6463,7 @@
           ]
         },
         {
-          "y": 320,
+          "y": 319.7,
           "text": "bank records into a trash can, where a criminal",
           "bbox": [
             306.6839904785156,
@@ -6329,7 +6497,7 @@
           ]
         },
         {
-          "y": 331,
+          "y": 331.0,
           "text": "with potentially serious consequences.",
           "bbox": [
             36.0,
@@ -6363,7 +6531,7 @@
           ]
         },
         {
-          "y": 334,
+          "y": 333.7,
           "text": "finds them after business hours.",
           "bbox": [
             306.6839904785156,
@@ -6397,7 +6565,7 @@
           ]
         },
         {
-          "y": 345,
+          "y": 345.0,
           "text": "For example:",
           "bbox": [
             36.0,
@@ -6431,7 +6599,7 @@
           ]
         },
         {
-          "y": 352,
+          "y": 352.2,
           "text": "A burglar steals files and computers from your",
           "bbox": [
             306.6839904785156,
@@ -6465,7 +6633,7 @@
           ]
         },
         {
-          "y": 366,
+          "y": 366.2,
           "text": "office after entering through an unlocked window.",
           "bbox": [
             306.6839904785156,
@@ -6499,7 +6667,7 @@
           ]
         },
         {
-          "y": 414,
+          "y": 414.3,
           "text": "PROTECT",
           "bbox": [
             123.16349792480469,
@@ -6533,7 +6701,7 @@
           ]
         },
         {
-          "y": 420,
+          "y": 420.4,
           "text": "HOW TO EQUIPMENT & PAPER FILES",
           "bbox": [
             35.0,
@@ -6633,7 +6801,7 @@
           ]
         },
         {
-          "y": 451,
+          "y": 451.5,
           "text": "Here are some tips for protecting information in paper files and on hard drives,",
           "bbox": [
             34.68000030517578,
@@ -6667,7 +6835,7 @@
           ]
         },
         {
-          "y": 470,
+          "y": 470.5,
           "text": "flash drives, laptops, point-of-sale devices, and other equipment.",
           "bbox": [
             34.68000030517578,
@@ -6701,7 +6869,7 @@
           ]
         },
         {
-          "y": 558,
+          "y": 557.9,
           "text": "Store securely Limit physical Send reminders Keep stock",
           "bbox": [
             35.6879997253418,
@@ -6801,7 +6969,7 @@
           ]
         },
         {
-          "y": 574,
+          "y": 573.9,
           "text": "access",
           "bbox": [
             165.2969970703125,
@@ -6835,7 +7003,7 @@
           ]
         },
         {
-          "y": 583,
+          "y": 582.6,
           "text": "When paper files or Remind employees to Keep track of and",
           "bbox": [
             36.422000885009766,
@@ -6913,7 +7081,7 @@
           ]
         },
         {
-          "y": 597,
+          "y": 596.6,
           "text": "electronic devices put paper files in locked secure any devices",
           "bbox": [
             36.422000885009766,
@@ -6991,7 +7159,7 @@
           ]
         },
         {
-          "y": 598,
+          "y": 597.6,
           "text": "When records or",
           "bbox": [
             165.2969970703125,
@@ -7025,7 +7193,7 @@
           ]
         },
         {
-          "y": 611,
+          "y": 610.6,
           "text": "contain sensitive file cabinets, log out that collect sensitive",
           "bbox": [
             36.422000885009766,
@@ -7103,7 +7271,7 @@
           ]
         },
         {
-          "y": 612,
+          "y": 611.6,
           "text": "devices contain",
           "bbox": [
             165.2969970703125,
@@ -7137,7 +7305,7 @@
           ]
         },
         {
-          "y": 625,
+          "y": 624.6,
           "text": "information, store of your network and customer information.",
           "bbox": [
             36.422000885009766,
@@ -7215,7 +7383,7 @@
           ]
         },
         {
-          "y": 626,
+          "y": 625.6,
           "text": "sensitive data,",
           "bbox": [
             165.2969970703125,
@@ -7249,7 +7417,7 @@
           ]
         },
         {
-          "y": 639,
+          "y": 638.6,
           "text": "them in a locked applications, and never Only keep files and",
           "bbox": [
             36.422000885009766,
@@ -7327,7 +7495,7 @@
           ]
         },
         {
-          "y": 640,
+          "y": 639.6,
           "text": "allow access only to",
           "bbox": [
             165.2969970703125,
@@ -7361,7 +7529,7 @@
           ]
         },
         {
-          "y": 653,
+          "y": 652.6,
           "text": "cabinet or room. leave files or devices data you need and",
           "bbox": [
             36.422000885009766,
@@ -7439,7 +7607,7 @@
           ]
         },
         {
-          "y": 654,
+          "y": 653.6,
           "text": "those who need it.",
           "bbox": [
             165.2969970703125,
@@ -7473,7 +7641,7 @@
           ]
         },
         {
-          "y": 667,
+          "y": 666.6,
           "text": "with sensitive data know who has access",
           "bbox": [
             300.7815856933594,
@@ -7529,7 +7697,7 @@
           ]
         },
         {
-          "y": 681,
+          "y": 680.6,
           "text": "unattended. to them.",
           "bbox": [
             300.7815856933594,
@@ -7585,7 +7753,7 @@
           ]
         },
         {
-          "y": 732,
+          "y": 731.6,
           "text": "LEARN MORE AT:",
           "bbox": [
             41.439998626708984,
@@ -7619,7 +7787,7 @@
           ]
         },
         {
-          "y": 748,
+          "y": 747.9,
           "text": "FTC.gov/SmallBusiness",
           "bbox": [
             41.439998626708984,

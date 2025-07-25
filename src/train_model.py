@@ -24,14 +24,7 @@ except FileNotFoundError:
     print(f"Error: Training data CSV not found at {INPUT_CSV}. Please run extract_features_from_linewise_json.py first.")
     exit()
 
-# --- REMOVED: Feature Engineering is now done in the feature extraction script ---
-
-# Remove rare classes like h4 if needed
-if 'h4' in df['label'].unique():
-    print("Removing rare class 'h4' before training.")
-    df = df[df['label'] != 'h4']
-
-# --- UPDATED: Use a fixed, final list of features for training ---
+# Use a fixed, final list of features for training
 feature_cols = [
     'font_size', 'is_bold', 'is_italic', 'y_pos_normalized', 'x_pos_normalized',
     'line_height', 'space_after_line', 'space_before_line',
@@ -41,29 +34,36 @@ feature_cols = [
     'is_conventional_heading'
 ]
 
-# Ensure all expected feature columns are present
-missing_cols = set(feature_cols) - set(df.columns)
-if missing_cols:
-    print(f"Error: The following required feature columns are missing from the input CSV: {missing_cols}")
+# Ensure all feature columns exist in the DataFrame
+missing_features = [col for col in feature_cols if col not in df.columns]
+if missing_features:
+    print(f"Error: Missing features in training_data.csv: {missing_features}")
+    print("Please ensure extract_features_from_linewise_json.py generates all required features.")
     exit()
 
-# Split features and labels
 X = df[feature_cols]
 y = df['label']
 
 # Encode labels
 le = LabelEncoder()
 y_enc = le.fit_transform(y)
-joblib.dump(le, LABEL_MAP_PATH)
 
-# Split data into training and test sets
+# Save the label encoder
+joblib.dump(le, LABEL_MAP_PATH)
+print(f"Label encoder saved to {LABEL_MAP_PATH}")
+
+# Split data
 X_train, X_test, y_train, y_test = train_test_split(
     X, y_enc, test_size=0.2, random_state=42, stratify=y_enc
 )
 
 # Apply SMOTE to handle class imbalance
 print("Class distribution before SMOTE:", pd.Series(le.inverse_transform(y_train)).value_counts().to_dict())
-smote = SMOTE(random_state=42)
+
+# --- FIX: Set k_neighbors to a value smaller than the smallest class size - 1 ---
+# Since n_samples_fit was 4, k_neighbors must be <= 3.
+smote = SMOTE(random_state=42, k_neighbors=3) 
+
 X_train_res, y_train_res = smote.fit_resample(X_train, y_train)
 print("Class distribution after SMOTE:", pd.Series(le.inverse_transform(y_train_res)).value_counts().to_dict())
 
@@ -90,16 +90,17 @@ grid_search.fit(X_train_res, y_train_res)
 end_time = time.time()
 print(f"GridSearchCV took {end_time - start_time:.2f} seconds.")
 
-# Best model
-print("\nBest parameters found by GridSearchCV:")
-print(grid_search.best_params_)
 best_clf = grid_search.best_estimator_
+print(f"Best parameters found: {grid_search.best_params_}")
+print(f"Best cross-validation F1-macro score: {grid_search.best_score_:.4f}")
 
-# Save model
-joblib.dump(best_clf, MODEL_PATH)
-print(f"\n✅ Best model saved to: {MODEL_PATH}")
-
-# Evaluate on test set
+# Evaluate the best model on the test set
 y_pred = best_clf.predict(X_test)
-print("\n✅ Classification Report on Test Set (trained with SMOTE):\n")
-print(classification_report(y_test, y_pred, target_names=le.classes_, zero_division=0))
+print("\nClassification Report on Test Set:")
+print(classification_report(y_test, y_pred, target_names=le.classes_))
+
+# Save the trained model
+joblib.dump(best_clf, MODEL_PATH)
+print(f"Model saved to {MODEL_PATH}")
+
+print("\nTraining complete.")

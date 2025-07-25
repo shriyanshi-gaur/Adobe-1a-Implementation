@@ -7,7 +7,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 55,
+          "y": 55.3,
           "text": "THE CENTRE FOR HUMANITARIAN DATA",
           "bbox": [
             53.95610046386719,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 98,
+          "y": 98.4,
           "text": "GUIDANCE NOTE SERIES",
           "bbox": [
             53.309600830078125,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 116,
+          "y": 116.4,
           "text": "DATA RESPONSIBILITY IN HUMANITARIAN ACTION",
           "bbox": [
             53.309600830078125,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 143,
+          "y": 142.7,
           "text": "RESPONSIBLE DATA SHARING WITH DONORS",
           "bbox": [
             53.309600830078125,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 196,
+          "y": 196.0,
           "text": "KEY TAKEAWAYS:",
           "bbox": [
             63.71649932861328,
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "y": 219,
+          "y": 218.7,
           "text": "• Sharing sensitive personal and non-personal data without adequate safeguards can exacerbate",
           "bbox": [
             74.98049926757812,
@@ -211,7 +211,7 @@
           ]
         },
         {
-          "y": 232,
+          "y": 231.9,
           "text": "risks for crisis-affected people, humanitarian organizations and donors.",
           "bbox": [
             86.32150268554688,
@@ -245,7 +245,7 @@
           ]
         },
         {
-          "y": 256,
+          "y": 256.1,
           "text": "• Donors regularly request data from the organizations they fund in order to fulfil their obligations",
           "bbox": [
             74.98049926757812,
@@ -279,7 +279,7 @@
           ]
         },
         {
-          "y": 269,
+          "y": 269.3,
           "text": "and objectives. Some of these requests relate to sensitive information and data which needs to",
           "bbox": [
             86.32150268554688,
@@ -313,7 +313,7 @@
           ]
         },
         {
-          "y": 282,
+          "y": 282.5,
           "text": "be protected in order to mitigate risk.",
           "bbox": [
             86.32150268554688,
@@ -347,7 +347,7 @@
           ]
         },
         {
-          "y": 307,
+          "y": 306.7,
           "text": "• Common objectives for data sharing with donors include: (i) situational awareness and",
           "bbox": [
             74.98049926757812,
@@ -381,7 +381,7 @@
           ]
         },
         {
-          "y": 320,
+          "y": 319.9,
           "text": "programme design; (ii) accountability and transparency; and (iii) legal, regulatory, and policy",
           "bbox": [
             86.32150268554688,
@@ -415,7 +415,7 @@
           ]
         },
         {
-          "y": 333,
+          "y": 333.1,
           "text": "requirements.",
           "bbox": [
             86.32150268554688,
@@ -449,7 +449,7 @@
           ]
         },
         {
-          "y": 359,
+          "y": 359.5,
           "text": "• Common constraints related to sharing data with donors include: (i) lack of regulatory framework",
           "bbox": [
             74.98049926757812,
@@ -483,7 +483,7 @@
           ]
         },
         {
-          "y": 373,
+          "y": 372.7,
           "text": "for responsibly managing sensitive non-personal data; (ii) capacity gaps; and (iii) purpose",
           "bbox": [
             86.32150268554688,
@@ -517,7 +517,7 @@
           ]
         },
         {
-          "y": 386,
+          "y": 385.9,
           "text": "limitation.",
           "bbox": [
             86.32150268554688,
@@ -551,7 +551,7 @@
           ]
         },
         {
-          "y": 410,
+          "y": 410.1,
           "text": "• Donors and humanitarian organizations can take the following steps to minimize risks while",
           "bbox": [
             74.98049926757812,
@@ -585,7 +585,7 @@
           ]
         },
         {
-          "y": 423,
+          "y": 423.3,
           "text": "maximizing benefits when sharing sensitive data: (i) reviewing and clarifying the formal or",
           "bbox": [
             86.32150268554688,
@@ -619,7 +619,7 @@
           ]
         },
         {
-          "y": 436,
+          "y": 436.5,
           "text": "informal frameworks that govern the collection and sharing of disaggregated data; (ii) formalizing",
           "bbox": [
             86.32150268554688,
@@ -653,7 +653,7 @@
           ]
         },
         {
-          "y": 450,
+          "y": 449.7,
           "text": "and standardising requests for sensitive data; (iii) investing in data management capacities of",
           "bbox": [
             86.32150268554688,
@@ -687,7 +687,7 @@
           ]
         },
         {
-          "y": 463,
+          "y": 462.9,
           "text": "staff and organisations; and (iv) adopting common principles for donor data management.",
           "bbox": [
             86.32150268554688,
@@ -721,7 +721,7 @@
           ]
         },
         {
-          "y": 510,
+          "y": 509.5,
           "text": "INTRODUCTION",
           "bbox": [
             53.53050231933594,
@@ -755,7 +755,7 @@
           ]
         },
         {
-          "y": 534,
+          "y": 534.2,
           "text": "Donors have an important role in the humanitarian data ecosystem, both as drivers of increased data",
           "bbox": [
             53.4535026550293,
@@ -789,7 +789,7 @@
           ]
         },
         {
-          "y": 547,
+          "y": 547.4,
           "text": "collection and analysis, and as direct users of data. This is not a new phenomenon; the need for",
           "bbox": [
             53.4535026550293,
@@ -823,7 +823,7 @@
           ]
         },
         {
-          "y": 561,
+          "y": 560.6,
           "text": "accountability and transparency in the use of donor funding is broadly understood and respected. However,",
           "bbox": [
             53.4535026550293,
@@ -857,7 +857,7 @@
           ]
         },
         {
-          "y": 574,
+          "y": 573.8,
           "text": "in recent years, donors have begun requesting data that can be sensitive. This includes personal data about",
           "bbox": [
             53.4535026550293,
@@ -891,7 +891,7 @@
           ]
         },
         {
-          "y": 587,
+          "y": 587.0,
           "text": "beneficiaries and various forms of disaggregated data, such as household-level survey results and data",
           "bbox": [
             53.4535026550293,
@@ -925,7 +925,7 @@
           ]
         },
         {
-          "y": 600,
+          "y": 600.2,
           "text": "about the delivery of assistance disaggregated by demographic and/or group dimensions (e.g. ethnicity,",
           "bbox": [
             53.4535026550293,
@@ -959,7 +959,7 @@
           ]
         },
         {
-          "y": 613,
+          "y": 613.4,
           "text": "protection group, etc.).",
           "bbox": [
             53.4535026550293,
@@ -1015,7 +1015,7 @@
           ]
         },
         {
-          "y": 614,
+          "y": 614.2,
           "text": "1",
           "bbox": [
             158.42349243164062,
@@ -1049,7 +1049,7 @@
           ]
         },
         {
-          "y": 640,
+          "y": 639.8,
           "text": "Concerns around requests for such data have led donors and humanitarian organizations to place more",
           "bbox": [
             53.43670654296875,
@@ -1083,7 +1083,7 @@
           ]
         },
         {
-          "y": 653,
+          "y": 653.0,
           "text": "emphasis on identifying strategies for data responsibility: the safe, ethical and effective management",
           "bbox": [
             53.43670654296875,
@@ -1117,7 +1117,7 @@
           ]
         },
         {
-          "y": 666,
+          "y": 666.2,
           "text": "of data. Data responsibility requires donors and humanitarian organizations to take actions that help",
           "bbox": [
             53.43670654296875,
@@ -1151,7 +1151,7 @@
           ]
         },
         {
-          "y": 679,
+          "y": 679.4,
           "text": "minimize risks while maximizing benefits of data. This is particularly challenging in cases where donors",
           "bbox": [
             53.43670654296875,
@@ -1185,7 +1185,7 @@
           ]
         },
         {
-          "y": 693,
+          "y": 692.6,
           "text": "request sensitive data. For example, the screening of aid recipients, which is often used to justify requests",
           "bbox": [
             53.43670654296875,
@@ -1219,7 +1219,7 @@
           ]
         },
         {
-          "y": 706,
+          "y": 705.8,
           "text": "for personal data, is not only difficult to practically implement, but also highly problematic in terms of",
           "bbox": [
             53.43670654296875,
@@ -1253,7 +1253,7 @@
           ]
         },
         {
-          "y": 719,
+          "y": 719.0,
           "text": "principled aid.",
           "bbox": [
             53.43670654296875,
@@ -1287,7 +1287,7 @@
           ]
         },
         {
-          "y": 720,
+          "y": 719.8,
           "text": "2",
           "bbox": [
             119.57150268554688,
@@ -1321,7 +1321,7 @@
           ]
         },
         {
-          "y": 738,
+          "y": 737.9,
           "text": "Because there are well-established and accepted standards and mechanisms for sharing financial information with donors, including a role for external",
           "bbox": [
             59.365699768066406,
@@ -1355,7 +1355,7 @@
           ]
         },
         {
-          "y": 747,
+          "y": 746.9,
           "text": "audits, requests for financial data are not included in this guidance note. This guidance note deals with sensitive personal and non-personal data.",
           "bbox": [
             53.86069869995117,
@@ -1389,37 +1389,15 @@
           ]
         },
         {
-          "y": 759,
-          "text": "Roepstorff, K., Faltas, C. and Hövelmann, S., 2020. Counterterrorism Measures and Sanction Regimes: Shrinking Space for Humanitarian Aid",
+          "y": 758.8,
+          "text": "Counterterrorism Measures and Sanction Regimes: Shrinking Space for Humanitarian Aid",
           "bbox": [
-            59.27989959716797,
+            218.42991638183594,
             758.8201904296875,
             520.6572875976562,
             767.5277099609375
           ],
           "spans": [
-            {
-              "size": 7.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Stag-Book",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9300000071525574,
-              "descender": -0.20800000429153442,
-              "text": "Roepstorff, K., Faltas, C. and Hövelmann, S., 2020. ",
-              "origin": [
-                59.27989959716797,
-                765.8851928710938
-              ],
-              "bbox": [
-                59.27989959716797,
-                758.9102172851562,
-                218.42991638183594,
-                767.4451904296875
-              ]
-            },
             {
               "size": 7.5,
               "flags": 4,
@@ -1445,12 +1423,46 @@
           ]
         },
         {
-          "y": 768,
-          "text": "Organisations .",
+          "y": 758.9,
+          "text": "Roepstorff, K., Faltas, C. and Hövelmann, S., 2020.",
+          "bbox": [
+            59.27989959716797,
+            758.9102172851562,
+            218.42991638183594,
+            767.4451904296875
+          ],
+          "spans": [
+            {
+              "size": 7.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Stag-Book",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9300000071525574,
+              "descender": -0.20800000429153442,
+              "text": "Roepstorff, K., Faltas, C. and Hövelmann, S., 2020. ",
+              "origin": [
+                59.27989959716797,
+                765.8851928710938
+              ],
+              "bbox": [
+                59.27989959716797,
+                758.9102172851562,
+                218.42991638183594,
+                767.4451904296875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 768.1,
+          "text": "Organisations",
           "bbox": [
             53.857398986816406,
             768.1202392578125,
-            110.45740509033203,
+            106.13915252685547,
             776.8277587890625
           ],
           "spans": [
@@ -1475,7 +1487,19 @@
                 106.13915252685547,
                 776.8277587890625
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 768.2,
+          "text": ".",
+          "bbox": [
+            106.13915252685547,
+            768.210205078125,
+            110.45740509033203,
+            776.7452392578125
+          ],
+          "spans": [
             {
               "size": 7.5,
               "flags": 4,
@@ -1523,8 +1547,8 @@
           ]
         },
         {
-          "y": 792,
-          "text": "THE CENTRE FOR HUMANITARIAN DATA DECEMBER 2020 1",
+          "y": 791.6,
+          "text": "THE CENTRE FOR HUMANITARIAN DATA 1",
           "bbox": [
             53.44820022583008,
             791.611328125,
@@ -1556,28 +1580,6 @@
             },
             {
               "size": 8.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SourceSansPro-Regular",
-              "color": 8947848,
-              "alpha": 255,
-              "ascender": 0.9679999947547913,
-              "descender": -0.2930000126361847,
-              "text": "DECEMBER 2020",
-              "origin": [
-                269.777099609375,
-                799.4176025390625
-              ],
-              "bbox": [
-                269.777099609375,
-                791.673583984375,
-                324.92681884765625,
-                801.7615966796875
-              ]
-            },
-            {
-              "size": 8.0,
               "flags": 0,
               "bidi": 0,
               "char_flags": 16,
@@ -1599,6 +1601,40 @@
               ]
             }
           ]
+        },
+        {
+          "y": 791.7,
+          "text": "DECEMBER 2020",
+          "bbox": [
+            269.777099609375,
+            791.673583984375,
+            324.92681884765625,
+            801.7615966796875
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SourceSansPro-Regular",
+              "color": 8947848,
+              "alpha": 255,
+              "ascender": 0.9679999947547913,
+              "descender": -0.2930000126361847,
+              "text": "DECEMBER 2020",
+              "origin": [
+                269.777099609375,
+                799.4176025390625
+              ],
+              "bbox": [
+                269.777099609375,
+                791.673583984375,
+                324.92681884765625,
+                801.7615966796875
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1608,7 +1644,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 45,
+          "y": 45.2,
           "text": "In addition, sharing seemingly innocuous data such as aggregated survey results can place already",
           "bbox": [
             52.858299255371094,
@@ -1642,7 +1678,7 @@
           ]
         },
         {
-          "y": 58,
+          "y": 58.4,
           "text": "vulnerable people and communities at greater risk. What may be initially considered non-personal data",
           "bbox": [
             52.858299255371094,
@@ -1698,7 +1734,7 @@
           ]
         },
         {
-          "y": 59,
+          "y": 59.2,
           "text": "3",
           "bbox": [
             523.7169799804688,
@@ -1732,7 +1768,7 @@
           ]
         },
         {
-          "y": 72,
+          "y": 71.6,
           "text": "can allow for re-identification of individuals, communities and demographic groups. Re-identification",
           "bbox": [
             52.859283447265625,
@@ -1766,7 +1802,7 @@
           ]
         },
         {
-          "y": 85,
+          "y": 84.8,
           "text": "occurs when data can be traced back or linked to an individual(s) or group(s) of individuals because it is not",
           "bbox": [
             52.859283447265625,
@@ -1800,7 +1836,7 @@
           ]
         },
         {
-          "y": 98,
+          "y": 98.0,
           "text": "adequately anonymized. This can result in a violation of data protection, privacy and other human rights",
           "bbox": [
             52.859283447265625,
@@ -1834,7 +1870,7 @@
           ]
         },
         {
-          "y": 111,
+          "y": 111.2,
           "text": "and can allow for targeting of individuals or groups with violence or other forms of harm.",
           "bbox": [
             52.859283447265625,
@@ -1868,7 +1904,7 @@
           ]
         },
         {
-          "y": 112,
+          "y": 112.0,
           "text": "4",
           "bbox": [
             456.72760009765625,
@@ -1902,7 +1938,7 @@
           ]
         },
         {
-          "y": 135,
+          "y": 135.4,
           "text": "Many donors and humanitarian actors recognize the risks and benefits associated with sharing such",
           "bbox": [
             52.858299255371094,
@@ -1936,7 +1972,7 @@
           ]
         },
         {
-          "y": 149,
+          "y": 148.6,
           "text": "sensitive data, but the sector has yet to establish a common understanding of how to balance these risks",
           "bbox": [
             52.858299255371094,
@@ -1970,7 +2006,7 @@
           ]
         },
         {
-          "y": 162,
+          "y": 161.8,
           "text": "and benefits effectively. Recent efforts to address this issue have led to more clarity on current practices,",
           "bbox": [
             52.858299255371094,
@@ -2004,7 +2040,7 @@
           ]
         },
         {
-          "y": 175,
+          "y": 175.0,
           "text": "as well as on the objectives and constraints of data sharing. In September 2020, the Government of",
           "bbox": [
             52.858299255371094,
@@ -2038,7 +2074,7 @@
           ]
         },
         {
-          "y": 188,
+          "y": 188.2,
           "text": "Switzerland, the International Committee of the Red Cross (ICRC) and the United Nations Office for",
           "bbox": [
             52.858299255371094,
@@ -2072,7 +2108,7 @@
           ]
         },
         {
-          "y": 201,
+          "y": 201.4,
           "text": "Coordination of Humanitarian Affairs (UN OCHA) Centre for Humanitarian Data (the Centre) organized a",
           "bbox": [
             52.858299255371094,
@@ -2106,8 +2142,8 @@
           ]
         },
         {
-          "y": 215,
-          "text": "virtual Wilton Park dialogue to help build common understanding on this issue. 5",
+          "y": 214.6,
+          "text": "virtual Wilton Park dialogue to help build common understanding on this issue.",
           "bbox": [
             52.858299255371094,
             214.6243438720703,
@@ -2138,28 +2174,6 @@
               ]
             },
             {
-              "size": 6.413000106811523,
-              "flags": 5,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SourceSansPro-Regular",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9679999947547913,
-              "descender": -0.2930000126361847,
-              "text": "5",
-              "origin": [
-                413.89471435546875,
-                221.60931396484375
-              ],
-              "bbox": [
-                413.89471435546875,
-                215.4015350341797,
-                417.08197021484375,
-                223.4883270263672
-              ]
-            },
-            {
               "size": 11.0,
               "flags": 4,
               "bidi": 0,
@@ -2184,7 +2198,41 @@
           ]
         },
         {
-          "y": 241,
+          "y": 215.4,
+          "text": "5",
+          "bbox": [
+            413.89471435546875,
+            215.4015350341797,
+            417.08197021484375,
+            223.4883270263672
+          ],
+          "spans": [
+            {
+              "size": 6.413000106811523,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SourceSansPro-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9679999947547913,
+              "descender": -0.2930000126361847,
+              "text": "5",
+              "origin": [
+                413.89471435546875,
+                221.60931396484375
+              ],
+              "bbox": [
+                413.89471435546875,
+                215.4015350341797,
+                417.08197021484375,
+                223.4883270263672
+              ]
+            }
+          ]
+        },
+        {
+          "y": 241.0,
           "text": "This guidance note synthesizes the outcomes of this dialogue and a related desk review. It describes the",
           "bbox": [
             52.86090087890625,
@@ -2240,7 +2288,7 @@
           ]
         },
         {
-          "y": 242,
+          "y": 241.8,
           "text": "6",
           "bbox": [
             453.42779541015625,
@@ -2274,7 +2322,7 @@
           ]
         },
         {
-          "y": 254,
+          "y": 254.2,
           "text": "challenges around sharing sensitive data with donors and offers initial recommendations for how donors",
           "bbox": [
             52.8599853515625,
@@ -2308,7 +2356,7 @@
           ]
         },
         {
-          "y": 267,
+          "y": 267.4,
           "text": "and humanitarian organizations can more effectively navigate this area.",
           "bbox": [
             52.8599853515625,
@@ -2342,7 +2390,7 @@
           ]
         },
         {
-          "y": 297,
+          "y": 297.2,
           "text": "DONOR REQUESTS FOR DATA",
           "bbox": [
             52.93698501586914,
@@ -2376,7 +2424,7 @@
           ]
         },
         {
-          "y": 322,
+          "y": 321.8,
           "text": "Donors regularly request data from their partners in order to fulfil different obligations and objectives.",
           "bbox": [
             52.8599853515625,
@@ -2410,7 +2458,7 @@
           ]
         },
         {
-          "y": 335,
+          "y": 335.0,
           "text": "These requests can be either formal or informal.",
           "bbox": [
             52.8599853515625,
@@ -2444,12 +2492,12 @@
           ]
         },
         {
-          "y": 361,
-          "text": "• Formal requests tend to be included in grant agreements in relation to reporting criteria, and are",
+          "y": 361.0,
+          "text": "• Formal requests",
           "bbox": [
             64.20098876953125,
             360.9903259277344,
-            521.7987060546875,
+            154.00389099121094,
             375.5653381347656
           ],
           "spans": [
@@ -2474,7 +2522,19 @@
                 154.00389099121094,
                 375.5653381347656
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 361.4,
+          "text": "tend to be included in grant agreements in relation to reporting criteria, and are",
+          "bbox": [
+            154.00389099121094,
+            361.4413146972656,
+            521.7987060546875,
+            375.31231689453125
+          ],
+          "spans": [
             {
               "size": 11.0,
               "flags": 4,
@@ -2500,7 +2560,7 @@
           ]
         },
         {
-          "y": 375,
+          "y": 374.6,
           "text": "typically based on legal requirements such as compliance with counter-terrorism laws. Such requests",
           "bbox": [
             75.5419921875,
@@ -2534,7 +2594,7 @@
           ]
         },
         {
-          "y": 388,
+          "y": 387.8,
           "text": "tend to be negotiated at the outset of a partnership or grant agreement, and are usually made in",
           "bbox": [
             75.5419921875,
@@ -2568,7 +2628,7 @@
           ]
         },
         {
-          "y": 401,
+          "y": 401.0,
           "text": "writing and scheduled in advance.",
           "bbox": [
             75.5419921875,
@@ -2602,12 +2662,12 @@
           ]
         },
         {
-          "y": 427,
-          "text": "• Informal requests concern information or data that typically fall outside of the normal scope of",
+          "y": 427.0,
+          "text": "• Informal requests",
           "bbox": [
             64.21199035644531,
             426.9903869628906,
-            514.1010131835938,
+            161.69288635253906,
             441.5653991699219
           ],
           "spans": [
@@ -2632,7 +2692,19 @@
                 161.69288635253906,
                 441.5653991699219
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 427.4,
+          "text": "concern information or data that typically fall outside of the normal scope of",
+          "bbox": [
+            161.69288635253906,
+            427.4413757324219,
+            514.1010131835938,
+            441.3123779296875
+          ],
+          "spans": [
             {
               "size": 11.0,
               "flags": 4,
@@ -2658,7 +2730,7 @@
           ]
         },
         {
-          "y": 441,
+          "y": 440.6,
           "text": "reporting. These ad-hoc requests often carry implicit value, meaning that while they are not",
           "bbox": [
             75.552978515625,
@@ -2692,7 +2764,7 @@
           ]
         },
         {
-          "y": 454,
+          "y": 453.8,
           "text": "formally required, delivering this supplementary data is deemed beneficial for an organization’s",
           "bbox": [
             75.552978515625,
@@ -2726,7 +2798,7 @@
           ]
         },
         {
-          "y": 467,
+          "y": 467.0,
           "text": "ongoing engagement and partnership with a donor. These requests represent a greater dilemma for",
           "bbox": [
             75.552978515625,
@@ -2760,7 +2832,7 @@
           ]
         },
         {
-          "y": 480,
+          "y": 480.2,
           "text": "humanitarian actors.",
           "bbox": [
             75.552978515625,
@@ -2794,8 +2866,8 @@
           ]
         },
         {
-          "y": 507,
-          "text": "Few donors have formal data sharing policies or guidelines in place. 7 There is also a lack of shared",
+          "y": 506.6,
+          "text": "Few donors have formal data sharing policies or guidelines in place. There is also a lack of shared",
           "bbox": [
             52.87097930908203,
             506.64141845703125,
@@ -2826,28 +2898,6 @@
               ]
             },
             {
-              "size": 6.413000106811523,
-              "flags": 5,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SourceSansPro-Regular",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9679999947547913,
-              "descender": -0.2930000126361847,
-              "text": "7",
-              "origin": [
-                361.831787109375,
-                513.634521484375
-              ],
-              "bbox": [
-                361.831787109375,
-                507.4267272949219,
-                365.01904296875,
-                515.5135498046875
-              ]
-            },
-            {
               "size": 11.0,
               "flags": 4,
               "bidi": 0,
@@ -2872,7 +2922,41 @@
           ]
         },
         {
-          "y": 520,
+          "y": 507.4,
+          "text": "7",
+          "bbox": [
+            361.831787109375,
+            507.4267272949219,
+            365.01904296875,
+            515.5135498046875
+          ],
+          "spans": [
+            {
+              "size": 6.413000106811523,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SourceSansPro-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9679999947547913,
+              "descender": -0.2930000126361847,
+              "text": "7",
+              "origin": [
+                361.831787109375,
+                513.634521484375
+              ],
+              "bbox": [
+                361.831787109375,
+                507.4267272949219,
+                365.01904296875,
+                515.5135498046875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 519.8,
           "text": "understanding of terminology and of the objectives and risks around data sharing. There are different",
           "bbox": [
             52.86102294921875,
@@ -2906,7 +2990,7 @@
           ]
         },
         {
-          "y": 533,
+          "y": 533.0,
           "text": "definitions and understanding of data-related risks, leading to inconsistent and sometimes contradictory",
           "bbox": [
             52.86102294921875,
@@ -2940,7 +3024,7 @@
           ]
         },
         {
-          "y": 546,
+          "y": 546.2,
           "text": "practices around sharing potentially sensitive data with donors in a particular context.",
           "bbox": [
             52.86102294921875,
@@ -2974,7 +3058,7 @@
           ]
         },
         {
-          "y": 547,
+          "y": 547.0,
           "text": "8",
           "bbox": [
             445.28851318359375,
@@ -3008,7 +3092,7 @@
           ]
         },
         {
-          "y": 654,
+          "y": 654.0,
           "text": "Non-personal data is defined as data which was initially personal data, but later made anonymous, such as data about the people affected by the",
           "bbox": [
             56.153499603271484,
@@ -3042,37 +3126,15 @@
           ]
         },
         {
-          "y": 663,
-          "text": "humanitarian situation and their needs, the threats and vulnerabilities they face, and their capacities (adapted from Regulation (EU)",
+          "y": 662.9,
+          "text": "Regulation (EU)",
           "bbox": [
-            53.858497619628906,
+            446.82757568359375,
             662.89111328125,
             502.6950378417969,
             671.5986328125
           ],
           "spans": [
-            {
-              "size": 7.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Stag-Book",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9300000071525574,
-              "descender": -0.20800000429153442,
-              "text": "    humanitarian situation and their needs, the threats and vulnerabilities they face, and their capacities (adapted from ",
-              "origin": [
-                53.858497619628906,
-                669.9561157226562
-              ],
-              "bbox": [
-                53.858497619628906,
-                662.9811401367188,
-                446.7525634765625,
-                671.51611328125
-              ]
-            },
             {
               "size": 7.5,
               "flags": 4,
@@ -3098,7 +3160,41 @@
           ]
         },
         {
-          "y": 672,
+          "y": 663.0,
+          "text": "humanitarian situation and their needs, the threats and vulnerabilities they face, and their capacities (adapted from",
+          "bbox": [
+            53.858497619628906,
+            662.9811401367188,
+            446.7525634765625,
+            671.51611328125
+          ],
+          "spans": [
+            {
+              "size": 7.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Stag-Book",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9300000071525574,
+              "descender": -0.20800000429153442,
+              "text": "    humanitarian situation and their needs, the threats and vulnerabilities they face, and their capacities (adapted from ",
+              "origin": [
+                53.858497619628906,
+                669.9561157226562
+              ],
+              "bbox": [
+                53.858497619628906,
+                662.9811401367188,
+                446.7525634765625,
+                671.51611328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 671.9,
           "text": "2018/1807 of the European Parliament and of the Council of 14 November 2018 on a framework for the free flow of non-personal data in the",
           "bbox": [
             53.858497619628906,
@@ -3132,12 +3228,12 @@
           ]
         },
         {
-          "y": 681,
-          "text": "European Union ).",
+          "y": 680.9,
+          "text": "European Union",
           "bbox": [
             53.858497619628906,
             680.89111328125,
-            119.30352783203125,
+            115.56852722167969,
             689.5986328125
           ],
           "spans": [
@@ -3162,7 +3258,19 @@
                 115.56852722167969,
                 689.5986328125
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 681.0,
+          "text": ").",
+          "bbox": [
+            115.6435317993164,
+            680.9811401367188,
+            119.30352783203125,
+            689.51611328125
+          ],
+          "spans": [
             {
               "size": 7.5,
               "flags": 4,
@@ -3188,13 +3296,69 @@
           ]
         },
         {
-          "y": 693,
-          "text": "See the Working Draft OCHA Guidelines for Data Responsibility and the ICRC Handbook on data protection in humanitarian action .",
+          "y": 692.9,
+          "text": "Working Draft OCHA Guidelines for Data Responsibility ICRC Handbook on data protection in humanitarian action",
+          "bbox": [
+            85.2142562866211,
+            692.89111328125,
+            499.5890197753906,
+            701.5986328125
+          ],
+          "spans": [
+            {
+              "size": 7.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Stag-Medium",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9419999718666077,
+              "descender": -0.21899999678134918,
+              "text": "Working Draft OCHA Guidelines for Data Responsibility",
+              "origin": [
+                85.2142562866211,
+                699.9561157226562
+              ],
+              "bbox": [
+                85.2142562866211,
+                692.89111328125,
+                272.5874328613281,
+                701.5986328125
+              ]
+            },
+            {
+              "size": 7.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Stag-Medium",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9419999718666077,
+              "descender": -0.21899999678134918,
+              "text": "ICRC Handbook on data protection in humanitarian action",
+              "origin": [
+                300.9150085449219,
+                699.9561157226562
+              ],
+              "bbox": [
+                300.9150085449219,
+                692.89111328125,
+                499.5890197753906,
+                701.5986328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 693.0,
+          "text": "See the and the .",
           "bbox": [
             56.3025016784668,
-            692.89111328125,
+            692.9811401367188,
             501.0290222167969,
-            701.5986328125
+            701.51611328125
           ],
           "spans": [
             {
@@ -3224,28 +3388,6 @@
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
-              "font": "Stag-Medium",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9419999718666077,
-              "descender": -0.21899999678134918,
-              "text": "Working Draft OCHA Guidelines for Data Responsibility",
-              "origin": [
-                85.2142562866211,
-                699.9561157226562
-              ],
-              "bbox": [
-                85.2142562866211,
-                692.89111328125,
-                272.5874328613281,
-                701.5986328125
-              ]
-            },
-            {
-              "size": 7.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
               "font": "Stag-Book",
               "color": 1815936,
               "alpha": 255,
@@ -3261,28 +3403,6 @@
                 692.9811401367188,
                 300.8399963378906,
                 701.51611328125
-              ]
-            },
-            {
-              "size": 7.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Stag-Medium",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9419999718666077,
-              "descender": -0.21899999678134918,
-              "text": "ICRC Handbook on data protection in humanitarian action",
-              "origin": [
-                300.9150085449219,
-                699.9561157226562
-              ],
-              "bbox": [
-                300.9150085449219,
-                692.89111328125,
-                499.5890197753906,
-                701.5986328125
               ]
             },
             {
@@ -3310,13 +3430,47 @@
           ]
         },
         {
-          "y": 705,
-          "text": "Read more about the virtual dialogue in this Wilton Park Report .",
+          "y": 704.9,
+          "text": "Wilton Park Report",
+          "bbox": [
+            208.06822204589844,
+            704.89111328125,
+            273.09320068359375,
+            713.5986328125
+          ],
+          "spans": [
+            {
+              "size": 7.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Stag-Medium",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9419999718666077,
+              "descender": -0.21899999678134918,
+              "text": "Wilton Park Report",
+              "origin": [
+                208.06822204589844,
+                711.9561157226562
+              ],
+              "bbox": [
+                208.06822204589844,
+                704.89111328125,
+                273.09320068359375,
+                713.5986328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 705.0,
+          "text": "Read more about the virtual dialogue in this .",
           "bbox": [
             56.13990020751953,
-            704.89111328125,
+            704.9811401367188,
             274.533203125,
-            713.5986328125
+            713.51611328125
           ],
           "spans": [
             {
@@ -3346,28 +3500,6 @@
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
-              "font": "Stag-Medium",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9419999718666077,
-              "descender": -0.21899999678134918,
-              "text": "Wilton Park Report",
-              "origin": [
-                208.06822204589844,
-                711.9561157226562
-              ],
-              "bbox": [
-                208.06822204589844,
-                704.89111328125,
-                273.09320068359375,
-                713.5986328125
-              ]
-            },
-            {
-              "size": 7.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
               "font": "Stag-Book",
               "color": 1815936,
               "alpha": 255,
@@ -3388,37 +3520,15 @@
           ]
         },
         {
-          "y": 717,
-          "text": "Willits-King, B. and Spencer, A., 2020. Responsible data-sharing with donors: accountability, transparency and data protection in principled",
+          "y": 716.9,
+          "text": "Responsible data-sharing with donors: accountability, transparency and data protection in principled",
           "bbox": [
-            56.44710159301758,
+            179.7613525390625,
             716.89111328125,
             516.712890625,
             725.5986328125
           ],
           "spans": [
-            {
-              "size": 7.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Stag-Book",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9300000071525574,
-              "descender": -0.20800000429153442,
-              "text": "  Willits-King, B. and Spencer, A., 2020. ",
-              "origin": [
-                56.44710159301758,
-                723.9561157226562
-              ],
-              "bbox": [
-                56.44710159301758,
-                716.9811401367188,
-                179.7613525390625,
-                725.51611328125
-              ]
-            },
             {
               "size": 7.5,
               "flags": 4,
@@ -3444,12 +3554,46 @@
           ]
         },
         {
-          "y": 726,
-          "text": "humanitarian action .",
+          "y": 717.0,
+          "text": "Willits-King, B. and Spencer, A., 2020.",
+          "bbox": [
+            56.44710159301758,
+            716.9811401367188,
+            179.7613525390625,
+            725.51611328125
+          ],
+          "spans": [
+            {
+              "size": 7.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Stag-Book",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9300000071525574,
+              "descender": -0.20800000429153442,
+              "text": "  Willits-King, B. and Spencer, A., 2020. ",
+              "origin": [
+                56.44710159301758,
+                723.9561157226562
+              ],
+              "bbox": [
+                56.44710159301758,
+                716.9811401367188,
+                179.7613525390625,
+                725.51611328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 725.9,
+          "text": "humanitarian action",
           "bbox": [
             53.85960006713867,
             725.89111328125,
-            130.11212158203125,
+            128.7471160888672,
             734.5986328125
           ],
           "spans": [
@@ -3474,7 +3618,19 @@
                 128.7471160888672,
                 734.5986328125
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 726.0,
+          "text": ".",
+          "bbox": [
+            128.7471160888672,
+            725.9811401367188,
+            130.11212158203125,
+            734.51611328125
+          ],
+          "spans": [
             {
               "size": 7.5,
               "flags": 4,
@@ -3500,37 +3656,15 @@
           ]
         },
         {
-          "y": 738,
-          "text": "At the time of writing, only USAID and GIZ had publicly available guidelines on responsible data sharing. See USAID, 2019. Considerations for using",
+          "y": 737.9,
+          "text": "Considerations for using",
           "bbox": [
-            56.12179946899414,
+            455.5319519042969,
             737.89111328125,
             536.989501953125,
             746.5986328125
           ],
           "spans": [
-            {
-              "size": 7.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Stag-Book",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9300000071525574,
-              "descender": -0.20800000429153442,
-              "text": "   At the time of writing, only USAID and GIZ had publicly available guidelines on responsible data sharing. See USAID, 2019. ",
-              "origin": [
-                56.12179946899414,
-                744.9561157226562
-              ],
-              "bbox": [
-                56.12179946899414,
-                737.9811401367188,
-                455.5319519042969,
-                746.51611328125
-              ]
-            },
             {
               "size": 7.5,
               "flags": 4,
@@ -3556,12 +3690,46 @@
           ]
         },
         {
-          "y": 747,
-          "text": "data responsibly at USAID and GIZ, 2018. GIZ’s Responsible Data Principles .",
+          "y": 738.0,
+          "text": "At the time of writing, only USAID and GIZ had publicly available guidelines on responsible data sharing. See USAID, 2019.",
+          "bbox": [
+            56.12179946899414,
+            737.9811401367188,
+            455.5319519042969,
+            746.51611328125
+          ],
+          "spans": [
+            {
+              "size": 7.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Stag-Book",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9300000071525574,
+              "descender": -0.20800000429153442,
+              "text": "   At the time of writing, only USAID and GIZ had publicly available guidelines on responsible data sharing. See USAID, 2019. ",
+              "origin": [
+                56.12179946899414,
+                744.9561157226562
+              ],
+              "bbox": [
+                56.12179946899414,
+                737.9811401367188,
+                455.5319519042969,
+                746.51611328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 746.9,
+          "text": "data responsibly at USAID GIZ’s Responsible Data Principles",
           "bbox": [
             53.8568000793457,
             746.89111328125,
-            305.3385314941406,
+            303.9735412597656,
             755.5986328125
           ],
           "spans": [
@@ -3592,28 +3760,6 @@
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
-              "font": "Stag-Book",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9300000071525574,
-              "descender": -0.20800000429153442,
-              "text": " and GIZ, 2018. ",
-              "origin": [
-                146.21182250976562,
-                753.9561157226562
-              ],
-              "bbox": [
-                146.21182250976562,
-                746.9811401367188,
-                194.07679748535156,
-                755.51611328125
-              ]
-            },
-            {
-              "size": 7.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
               "font": "Stag-Medium",
               "color": 1815936,
               "alpha": 255,
@@ -3629,6 +3775,40 @@
                 746.89111328125,
                 303.9735412597656,
                 755.5986328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 747.0,
+          "text": "and GIZ, 2018. .",
+          "bbox": [
+            146.21182250976562,
+            746.9811401367188,
+            305.3385314941406,
+            755.51611328125
+          ],
+          "spans": [
+            {
+              "size": 7.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Stag-Book",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9300000071525574,
+              "descender": -0.20800000429153442,
+              "text": " and GIZ, 2018. ",
+              "origin": [
+                146.21182250976562,
+                753.9561157226562
+              ],
+              "bbox": [
+                146.21182250976562,
+                746.9811401367188,
+                194.07679748535156,
+                755.51611328125
               ]
             },
             {
@@ -3656,37 +3836,15 @@
           ]
         },
         {
-          "y": 759,
-          "text": "Willits-King, B. and Spencer, A., 2020. Responsible data-sharing with donors: accountability, transparency and data protection in principled",
+          "y": 758.9,
+          "text": "Responsible data-sharing with donors: accountability, transparency and data protection in principled",
           "bbox": [
-            56.48780059814453,
+            182.77359008789062,
             758.89111328125,
             527.1510009765625,
             767.5986328125
           ],
           "spans": [
-            {
-              "size": 7.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Stag-Book",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9300000071525574,
-              "descender": -0.20800000429153442,
-              "text": "   Willits-King, B. and Spencer, A., 2020. ",
-              "origin": [
-                56.48780059814453,
-                765.9561157226562
-              ],
-              "bbox": [
-                56.48780059814453,
-                758.9811401367188,
-                182.69857788085938,
-                767.51611328125
-              ]
-            },
             {
               "size": 7.5,
               "flags": 4,
@@ -3712,12 +3870,46 @@
           ]
         },
         {
-          "y": 768,
-          "text": "humanitarian action .",
+          "y": 759.0,
+          "text": "Willits-King, B. and Spencer, A., 2020.",
+          "bbox": [
+            56.48780059814453,
+            758.9811401367188,
+            182.69857788085938,
+            767.51611328125
+          ],
+          "spans": [
+            {
+              "size": 7.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Stag-Book",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9300000071525574,
+              "descender": -0.20800000429153442,
+              "text": "   Willits-King, B. and Spencer, A., 2020. ",
+              "origin": [
+                56.48780059814453,
+                765.9561157226562
+              ],
+              "bbox": [
+                56.48780059814453,
+                758.9811401367188,
+                182.69857788085938,
+                767.51611328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 767.9,
+          "text": "humanitarian action",
           "bbox": [
             53.85530090332031,
             767.89111328125,
-            131.53285217285156,
+            130.0928497314453,
             776.5986328125
           ],
           "spans": [
@@ -3742,7 +3934,19 @@
                 130.0928497314453,
                 776.5986328125
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 768.0,
+          "text": ".",
+          "bbox": [
+            130.1678466796875,
+            767.9811401367188,
+            131.53285217285156,
+            776.51611328125
+          ],
+          "spans": [
             {
               "size": 7.5,
               "flags": 4,
@@ -3768,8 +3972,8 @@
           ]
         },
         {
-          "y": 792,
-          "text": "THE CENTRE FOR HUMANITARIAN DATA DECEMBER 2020 2",
+          "y": 791.6,
+          "text": "THE CENTRE FOR HUMANITARIAN DATA 2",
           "bbox": [
             53.44820022583008,
             791.611328125,
@@ -3801,28 +4005,6 @@
             },
             {
               "size": 8.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SourceSansPro-Regular",
-              "color": 8947848,
-              "alpha": 255,
-              "ascender": 0.9679999947547913,
-              "descender": -0.2930000126361847,
-              "text": "DECEMBER 2020",
-              "origin": [
-                269.777099609375,
-                799.4176025390625
-              ],
-              "bbox": [
-                269.777099609375,
-                791.673583984375,
-                324.92681884765625,
-                801.7615966796875
-              ]
-            },
-            {
-              "size": 8.0,
               "flags": 0,
               "bidi": 0,
               "char_flags": 16,
@@ -3844,6 +4026,40 @@
               ]
             }
           ]
+        },
+        {
+          "y": 791.7,
+          "text": "DECEMBER 2020",
+          "bbox": [
+            269.777099609375,
+            791.673583984375,
+            324.92681884765625,
+            801.7615966796875
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SourceSansPro-Regular",
+              "color": 8947848,
+              "alpha": 255,
+              "ascender": 0.9679999947547913,
+              "descender": -0.2930000126361847,
+              "text": "DECEMBER 2020",
+              "origin": [
+                269.777099609375,
+                799.4176025390625
+              ],
+              "bbox": [
+                269.777099609375,
+                791.673583984375,
+                324.92681884765625,
+                801.7615966796875
+              ]
+            }
+          ]
         }
       ]
     },
@@ -3853,7 +4069,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 45,
+          "y": 44.8,
           "text": "OBJECTIVES FOR DATA SHARING WITH DONORS",
           "bbox": [
             53.954898834228516,
@@ -3887,7 +4103,7 @@
           ]
         },
         {
-          "y": 70,
+          "y": 69.7,
           "text": "The most commonly identified objectives for donors requesting sensitive data from partners are",
           "bbox": [
             53.855899810791016,
@@ -3921,7 +4137,7 @@
           ]
         },
         {
-          "y": 83,
+          "y": 82.9,
           "text": "situational awareness and programme design; accountability and transparency; and legal, regulatory, and",
           "bbox": [
             53.855899810791016,
@@ -3955,7 +4171,7 @@
           ]
         },
         {
-          "y": 96,
+          "y": 96.1,
           "text": "policy requirements.",
           "bbox": [
             53.855899810791016,
@@ -3989,7 +4205,7 @@
           ]
         },
         {
-          "y": 122,
+          "y": 121.9,
           "text": "Situational awareness and programme design",
           "bbox": [
             53.855899810791016,
@@ -4023,7 +4239,7 @@
           ]
         },
         {
-          "y": 136,
+          "y": 135.7,
           "text": "Donors seek information and data from humanitarian organizations in order to understand and react",
           "bbox": [
             53.855899810791016,
@@ -4057,7 +4273,7 @@
           ]
         },
         {
-          "y": 149,
+          "y": 148.9,
           "text": "to changes in humanitarian contexts. This allows donors to improve their own programme design and",
           "bbox": [
             53.855899810791016,
@@ -4091,7 +4307,7 @@
           ]
         },
         {
-          "y": 162,
+          "y": 162.1,
           "text": "evaluation, prevent duplication of assistance, identify information gaps, and ensure appropriate targeting",
           "bbox": [
             53.855899810791016,
@@ -4125,7 +4341,7 @@
           ]
         },
         {
-          "y": 175,
+          "y": 175.3,
           "text": "of assistance.",
           "bbox": [
             53.855899810791016,
@@ -4159,7 +4375,7 @@
           ]
         },
         {
-          "y": 201,
+          "y": 201.2,
           "text": "Accountability and transparency",
           "bbox": [
             53.855899810791016,
@@ -4193,7 +4409,7 @@
           ]
         },
         {
-          "y": 215,
+          "y": 214.9,
           "text": "Donors and humanitarian organizations have an obligation to account for their activities. Data can enable",
           "bbox": [
             53.855899810791016,
@@ -4227,7 +4443,7 @@
           ]
         },
         {
-          "y": 228,
+          "y": 228.1,
           "text": "donors to explain and defend funding on foreign aid to taxpayers.",
           "bbox": [
             53.855899810791016,
@@ -4261,7 +4477,7 @@
           ]
         },
         {
-          "y": 254,
+          "y": 254.0,
           "text": "Legal, regulatory, and policy requirements",
           "bbox": [
             53.855899810791016,
@@ -4295,7 +4511,7 @@
           ]
         },
         {
-          "y": 268,
+          "y": 267.7,
           "text": "Donors are subject to certain national and international legal requirements, including political, legal and",
           "bbox": [
             53.855899810791016,
@@ -4329,7 +4545,7 @@
           ]
         },
         {
-          "y": 281,
+          "y": 280.9,
           "text": "statutory requirements related to counter-terrorism, migration and law enforcement. In many cases,",
           "bbox": [
             53.855899810791016,
@@ -4363,7 +4579,7 @@
           ]
         },
         {
-          "y": 294,
+          "y": 294.1,
           "text": "donors might want to use data to verify their compliance with these different requirements. Some donors",
           "bbox": [
             53.855899810791016,
@@ -4397,7 +4613,7 @@
           ]
         },
         {
-          "y": 307,
+          "y": 307.3,
           "text": "include counterterrorism clauses in their grant agreements, which are intended to ensure that their funds",
           "bbox": [
             53.855899810791016,
@@ -4431,7 +4647,7 @@
           ]
         },
         {
-          "y": 320,
+          "y": 320.5,
           "text": "are not used to benefit designated terrorist groups. Similarly, donors might include clauses to cover anti-",
           "bbox": [
             53.855899810791016,
@@ -4487,7 +4703,7 @@
           ]
         },
         {
-          "y": 321,
+          "y": 321.3,
           "text": "9",
           "bbox": [
             286.53759765625,
@@ -4521,12 +4737,12 @@
           ]
         },
         {
-          "y": 334,
-          "text": "bribery, anti-fraud and anti-corruption measures. 10",
+          "y": 333.7,
+          "text": "bribery, anti-fraud and anti-corruption measures.",
           "bbox": [
             53.86279296875,
             333.6841125488281,
-            285.38800048828125,
+            279.0185241699219,
             347.55511474609375
           ],
           "spans": [
@@ -4551,7 +4767,19 @@
                 279.0185241699219,
                 347.55511474609375
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 334.5,
+          "text": "10",
+          "bbox": [
+            279.01348876953125,
+            334.4613342285156,
+            285.38800048828125,
+            342.5481262207031
+          ],
+          "spans": [
             {
               "size": 6.413000106811523,
               "flags": 5,
@@ -4577,7 +4805,7 @@
           ]
         },
         {
-          "y": 371,
+          "y": 371.3,
           "text": "CONSTRAINTS FOR DATA SHARING WITH DONORS",
           "bbox": [
             53.84469985961914,
@@ -4611,7 +4839,7 @@
           ]
         },
         {
-          "y": 396,
+          "y": 396.0,
           "text": "Despite these objectives, data sharing with donors is not without its constraints, which include a lack of",
           "bbox": [
             53.74570083618164,
@@ -4645,7 +4873,7 @@
           ]
         },
         {
-          "y": 409,
+          "y": 409.2,
           "text": "regulatory frameworks for responsibly managing sensitive non-personal data, capacity gaps and lack of",
           "bbox": [
             53.74570083618164,
@@ -4679,7 +4907,7 @@
           ]
         },
         {
-          "y": 422,
+          "y": 422.4,
           "text": "purpose limitation.",
           "bbox": [
             53.74570083618164,
@@ -4713,7 +4941,7 @@
           ]
         },
         {
-          "y": 448,
+          "y": 448.2,
           "text": "Lack of regulatory frameworks for responsibly managing sensitive non-personal data",
           "bbox": [
             53.74570083618164,
@@ -4747,7 +4975,7 @@
           ]
         },
         {
-          "y": 462,
+          "y": 462.0,
           "text": "The sensitivity of personal data is generally well-known and addressed by a variety of policy and regulatory",
           "bbox": [
             53.74570083618164,
@@ -4781,7 +5009,7 @@
           ]
         },
         {
-          "y": 475,
+          "y": 475.2,
           "text": "frameworks, but the same cannot be said for sensitive non-personal data. Protecting groups and their",
           "bbox": [
             53.74570083618164,
@@ -4815,7 +5043,7 @@
           ]
         },
         {
-          "y": 488,
+          "y": 488.4,
           "text": "data remains challenging due to the current gaps in regulation and guidance and the overall lack of",
           "bbox": [
             53.74570083618164,
@@ -4849,7 +5077,7 @@
           ]
         },
         {
-          "y": 502,
+          "y": 501.6,
           "text": "understanding regarding the sensitivity of non-personal data. These data policy gaps increase the risk of",
           "bbox": [
             53.74570083618164,
@@ -4883,7 +5111,7 @@
           ]
         },
         {
-          "y": 515,
+          "y": 514.8,
           "text": "sensitive data not being stored or protected adequately or shared inadvertently by partners in order to",
           "bbox": [
             53.74570083618164,
@@ -4917,7 +5145,7 @@
           ]
         },
         {
-          "y": 528,
+          "y": 528.0,
           "text": "satisfy donors’ requests.",
           "bbox": [
             53.74570083618164,
@@ -4951,7 +5179,7 @@
           ]
         },
         {
-          "y": 554,
+          "y": 553.9,
           "text": "Capacity gaps",
           "bbox": [
             53.74570083618164,
@@ -4985,7 +5213,7 @@
           ]
         },
         {
-          "y": 568,
+          "y": 567.6,
           "text": "Responding to ad-hoc data sharing requests from donors can be viewed as an additional burden to",
           "bbox": [
             53.74570083618164,
@@ -5019,7 +5247,7 @@
           ]
         },
         {
-          "y": 581,
+          "y": 580.8,
           "text": "humanitarian responders, diverting critical time, resources and focus away from other implementing",
           "bbox": [
             53.74570083618164,
@@ -5053,7 +5281,7 @@
           ]
         },
         {
-          "y": 594,
+          "y": 594.0,
           "text": "activities. Insufficient funding for data-related capacity development has limited many organizations’",
           "bbox": [
             53.74570083618164,
@@ -5109,7 +5337,7 @@
           ]
         },
         {
-          "y": 595,
+          "y": 594.8,
           "text": "11",
           "bbox": [
             97.69219970703125,
@@ -5143,7 +5371,7 @@
           ]
         },
         {
-          "y": 607,
+          "y": 607.2,
           "text": "ability to provide their staff with the skills and resources required for managing data responsibly. Gaps",
           "bbox": [
             53.75259780883789,
@@ -5199,7 +5427,7 @@
           ]
         },
         {
-          "y": 608,
+          "y": 608.0,
           "text": "12",
           "bbox": [
             493.9497985839844,
@@ -5233,7 +5461,7 @@
           ]
         },
         {
-          "y": 620,
+          "y": 620.4,
           "text": "in capacity to fulfil donor requirements might also deter smaller and/or local NGOs from seeking funding,",
           "bbox": [
             53.746185302734375,
@@ -5267,12 +5495,12 @@
           ]
         },
         {
-          "y": 634,
-          "text": "undermining localization efforts. 13",
+          "y": 633.6,
+          "text": "undermining localization efforts.",
           "bbox": [
             53.746185302734375,
             633.5833129882812,
-            209.37921142578125,
+            203.0030059814453,
             647.454345703125
           ],
           "spans": [
@@ -5297,7 +5525,19 @@
                 203.0030059814453,
                 647.454345703125
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 634.4,
+          "text": "13",
+          "bbox": [
+            203.00469970703125,
+            634.3605346679688,
+            209.37921142578125,
+            642.4473266601562
+          ],
+          "spans": [
             {
               "size": 6.413000106811523,
               "flags": 5,
@@ -5323,47 +5563,13 @@
           ]
         },
         {
-          "y": 677,
-          "text": "Toolkit for Principled Humanitarian Action; Managing CT Risks",
-          "bbox": [
-            91.89144134521484,
-            677.4501342773438,
-            302.1614685058594,
-            686.1576538085938
-          ],
-          "spans": [
-            {
-              "size": 7.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Stag-Medium",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9419999718666077,
-              "descender": -0.21899999678134918,
-              "text": "Toolkit for Principled Humanitarian Action; Managing CT Risks",
-              "origin": [
-                91.89144134521484,
-                684.51513671875
-              ],
-              "bbox": [
-                91.89144134521484,
-                677.4501342773438,
-                302.1614685058594,
-                686.1576538085938
-              ]
-            }
-          ]
-        },
-        {
-          "y": 678,
-          "text": "See NRC's .",
+          "y": 677.5,
+          "text": "See NRC's Toolkit for Principled Humanitarian Action; Managing CT Risks .",
           "bbox": [
             56.447200775146484,
-            677.5401611328125,
+            677.4501342773438,
             303.5264587402344,
-            686.0751342773438
+            686.1576538085938
           ],
           "spans": [
             {
@@ -5393,6 +5599,28 @@
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
+              "font": "Stag-Medium",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9419999718666077,
+              "descender": -0.21899999678134918,
+              "text": "Toolkit for Principled Humanitarian Action; Managing CT Risks",
+              "origin": [
+                91.89144134521484,
+                684.51513671875
+              ],
+              "bbox": [
+                91.89144134521484,
+                677.4501342773438,
+                302.1614685058594,
+                686.1576538085938
+              ]
+            },
+            {
+              "size": 7.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
               "font": "Stag-Book",
               "color": 1815936,
               "alpha": 255,
@@ -5413,7 +5641,7 @@
           ]
         },
         {
-          "y": 690,
+          "y": 689.5,
           "text": "In order to ensure compliance, donors might request highly disaggregated data to corroborate their due diligence processes, ensuring their partners",
           "bbox": [
             58.44879913330078,
@@ -5447,47 +5675,13 @@
           ]
         },
         {
-          "y": 698,
-          "text": "Compliance Dialogue on Syria-Related Humanitarian Payments",
-          "bbox": [
-            307.61151123046875,
-            698.4501342773438,
-            519.8847045898438,
-            707.1576538085938
-          ],
-          "spans": [
-            {
-              "size": 7.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Stag-Medium",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9419999718666077,
-              "descender": -0.21899999678134918,
-              "text": "Compliance Dialogue on Syria-Related Humanitarian Payments",
-              "origin": [
-                307.61151123046875,
-                705.51513671875
-              ],
-              "bbox": [
-                307.61151123046875,
-                698.4501342773438,
-                519.8847045898438,
-                707.1576538085938
-              ]
-            }
-          ]
-        },
-        {
-          "y": 699,
-          "text": "are not engaging with any ‘sanctioned’ person or entity’. See Walker, J., 2020. .",
+          "y": 698.5,
+          "text": "are not engaging with any ‘sanctioned’ person or entity’. See Walker, J., 2020. Compliance Dialogue on Syria-Related Humanitarian Payments .",
           "bbox": [
             53.858795166015625,
-            698.5401611328125,
+            698.4501342773438,
             522.4946899414062,
-            707.0751342773438
+            707.1576538085938
           ],
           "spans": [
             {
@@ -5517,6 +5711,28 @@
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
+              "font": "Stag-Medium",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9419999718666077,
+              "descender": -0.21899999678134918,
+              "text": "Compliance Dialogue on Syria-Related Humanitarian Payments",
+              "origin": [
+                307.61151123046875,
+                705.51513671875
+              ],
+              "bbox": [
+                307.61151123046875,
+                698.4501342773438,
+                519.8847045898438,
+                707.1576538085938
+              ]
+            },
+            {
+              "size": 7.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
               "font": "Stag-Book",
               "color": 1815936,
               "alpha": 255,
@@ -5537,7 +5753,7 @@
           ]
         },
         {
-          "y": 708,
+          "y": 707.5,
           "text": "‘Sanctioned persons’ is a general term which may include individuals, terrorist groups, governments as well as companies and other entities of legal",
           "bbox": [
             53.858795166015625,
@@ -5571,7 +5787,7 @@
           ]
         },
         {
-          "y": 717,
+          "y": 716.5,
           "text": "personality. The EU, for example, has over the years considerably strengthened its legal framework for preventing money laundering and terrorism",
           "bbox": [
             53.858795166015625,
@@ -5605,15 +5821,37 @@
           ]
         },
         {
-          "y": 725,
-          "text": ". The Impact of EU Sanctions and Restrictive Measures on",
+          "y": 725.5,
+          "text": "financing in recent years and is constantly enforcing in. See: NGO Voice, 2020 . The Impact of EU Sanctions and Restrictive Measures on",
           "bbox": [
-            310.48480224609375,
+            53.858795166015625,
             725.4501342773438,
             503.9688720703125,
             734.1576538085938
           ],
           "spans": [
+            {
+              "size": 7.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Stag-Book",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9300000071525574,
+              "descender": -0.20800000429153442,
+              "text": "    financing in recent years and is constantly enforcing in. See: NGO Voice, 2020",
+              "origin": [
+                53.858795166015625,
+                732.51513671875
+              ],
+              "bbox": [
+                53.858795166015625,
+                725.5401611328125,
+                310.48480224609375,
+                734.0751342773438
+              ]
+            },
             {
               "size": 7.5,
               "flags": 4,
@@ -5639,41 +5877,7 @@
           ]
         },
         {
-          "y": 726,
-          "text": "financing in recent years and is constantly enforcing in. See: NGO Voice, 2020",
-          "bbox": [
-            53.858795166015625,
-            725.5401611328125,
-            310.48480224609375,
-            734.0751342773438
-          ],
-          "spans": [
-            {
-              "size": 7.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Stag-Book",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9300000071525574,
-              "descender": -0.20800000429153442,
-              "text": "    financing in recent years and is constantly enforcing in. See: NGO Voice, 2020",
-              "origin": [
-                53.858795166015625,
-                732.51513671875
-              ],
-              "bbox": [
-                53.858795166015625,
-                725.5401611328125,
-                310.48480224609375,
-                734.0751342773438
-              ]
-            }
-          ]
-        },
-        {
-          "y": 734,
+          "y": 734.5,
           "text": "Humanitarian Action.",
           "bbox": [
             53.858795166015625,
@@ -5707,15 +5911,37 @@
           ]
         },
         {
-          "y": 746,
-          "text": "Donor Conditions and their implications for",
+          "y": 746.5,
+          "text": "Inter-Agency Standing Committee (IASC) Humanitarian Financing Task Team (HFTT), 2016. Donor Conditions and their implications for",
           "bbox": [
-            359.7699890136719,
+            57.23789978027344,
             746.4501342773438,
             506.3715515136719,
             755.1576538085938
           ],
           "spans": [
+            {
+              "size": 7.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Stag-Book",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9300000071525574,
+              "descender": -0.20800000429153442,
+              "text": "  Inter-Agency Standing Committee (IASC) Humanitarian Financing Task Team (HFTT), 2016. ",
+              "origin": [
+                57.23789978027344,
+                753.51513671875
+              ],
+              "bbox": [
+                57.23789978027344,
+                746.5401611328125,
+                359.7699890136719,
+                755.0751342773438
+              ]
+            },
             {
               "size": 7.5,
               "flags": 4,
@@ -5741,46 +5967,12 @@
           ]
         },
         {
-          "y": 747,
-          "text": "Inter-Agency Standing Committee (IASC) Humanitarian Financing Task Team (HFTT), 2016.",
-          "bbox": [
-            57.23789978027344,
-            746.5401611328125,
-            359.7699890136719,
-            755.0751342773438
-          ],
-          "spans": [
-            {
-              "size": 7.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Stag-Book",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9300000071525574,
-              "descender": -0.20800000429153442,
-              "text": "  Inter-Agency Standing Committee (IASC) Humanitarian Financing Task Team (HFTT), 2016. ",
-              "origin": [
-                57.23789978027344,
-                753.51513671875
-              ],
-              "bbox": [
-                57.23789978027344,
-                746.5401611328125,
-                359.7699890136719,
-                755.0751342773438
-              ]
-            }
-          ]
-        },
-        {
-          "y": 755,
-          "text": "humanitarian response",
+          "y": 755.5,
+          "text": "humanitarian response .",
           "bbox": [
             53.85540008544922,
             755.4501342773438,
-            138.14791870117188,
+            139.51292419433594,
             764.1576538085938
           ],
           "spans": [
@@ -5805,19 +5997,7 @@
                 138.14791870117188,
                 764.1576538085938
               ]
-            }
-          ]
-        },
-        {
-          "y": 756,
-          "text": ".",
-          "bbox": [
-            138.14791870117188,
-            755.5401611328125,
-            139.51292419433594,
-            764.0751342773438
-          ],
-          "spans": [
+            },
             {
               "size": 7.5,
               "flags": 4,
@@ -5843,47 +6023,13 @@
           ]
         },
         {
-          "y": 767,
-          "text": "Data Use Capacity in Protracted Humanitarian Crises",
-          "bbox": [
-            159.2105712890625,
-            767.4501342773438,
-            335.0856628417969,
-            776.1576538085938
-          ],
-          "spans": [
-            {
-              "size": 7.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Stag-Medium",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9419999718666077,
-              "descender": -0.21899999678134918,
-              "text": "Data Use Capacity in Protracted Humanitarian Crises",
-              "origin": [
-                159.2105712890625,
-                774.51513671875
-              ],
-              "bbox": [
-                159.2105712890625,
-                767.4501342773438,
-                335.0856628417969,
-                776.1576538085938
-              ]
-            }
-          ]
-        },
-        {
-          "y": 768,
-          "text": "Publish What You Fund, 2020. .",
+          "y": 767.5,
+          "text": "Publish What You Fund, 2020. Data Use Capacity in Protracted Humanitarian Crises .",
           "bbox": [
             57.91559982299805,
-            767.5401611328125,
+            767.4501342773438,
             336.4506530761719,
-            776.0751342773438
+            776.1576538085938
           ],
           "spans": [
             {
@@ -5913,6 +6059,28 @@
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
+              "font": "Stag-Medium",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9419999718666077,
+              "descender": -0.21899999678134918,
+              "text": "Data Use Capacity in Protracted Humanitarian Crises",
+              "origin": [
+                159.2105712890625,
+                774.51513671875
+              ],
+              "bbox": [
+                159.2105712890625,
+                767.4501342773438,
+                335.0856628417969,
+                776.1576538085938
+              ]
+            },
+            {
+              "size": 7.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
               "font": "Stag-Book",
               "color": 1815936,
               "alpha": 255,
@@ -5933,8 +6101,8 @@
           ]
         },
         {
-          "y": 792,
-          "text": "THE CENTRE FOR HUMANITARIAN DATA DECEMBER 2020 3",
+          "y": 791.6,
+          "text": "THE CENTRE FOR HUMANITARIAN DATA 3",
           "bbox": [
             53.44820022583008,
             791.611328125,
@@ -5966,28 +6134,6 @@
             },
             {
               "size": 8.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SourceSansPro-Regular",
-              "color": 8947848,
-              "alpha": 255,
-              "ascender": 0.9679999947547913,
-              "descender": -0.2930000126361847,
-              "text": "DECEMBER 2020",
-              "origin": [
-                269.777099609375,
-                799.4176025390625
-              ],
-              "bbox": [
-                269.777099609375,
-                791.673583984375,
-                324.92681884765625,
-                801.7615966796875
-              ]
-            },
-            {
-              "size": 8.0,
               "flags": 0,
               "bidi": 0,
               "char_flags": 16,
@@ -6009,6 +6155,40 @@
               ]
             }
           ]
+        },
+        {
+          "y": 791.7,
+          "text": "DECEMBER 2020",
+          "bbox": [
+            269.777099609375,
+            791.673583984375,
+            324.92681884765625,
+            801.7615966796875
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SourceSansPro-Regular",
+              "color": 8947848,
+              "alpha": 255,
+              "ascender": 0.9679999947547913,
+              "descender": -0.2930000126361847,
+              "text": "DECEMBER 2020",
+              "origin": [
+                269.777099609375,
+                799.4176025390625
+              ],
+              "bbox": [
+                269.777099609375,
+                791.673583984375,
+                324.92681884765625,
+                801.7615966796875
+              ]
+            }
+          ]
         }
       ]
     },
@@ -6018,7 +6198,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 45,
+          "y": 45.2,
           "text": "Purpose limitation",
           "bbox": [
             53.02149963378906,
@@ -6052,7 +6232,7 @@
           ]
         },
         {
-          "y": 59,
+          "y": 58.9,
           "text": "The principle of purpose limitation requires that data is only collected for specified, explicit and legitimate",
           "bbox": [
             53.02149963378906,
@@ -6086,7 +6266,7 @@
           ]
         },
         {
-          "y": 72,
+          "y": 72.1,
           "text": "purposes, and that it not be processed further in a manner that would be incompatible with those",
           "bbox": [
             53.02149963378906,
@@ -6120,7 +6300,7 @@
           ]
         },
         {
-          "y": 85,
+          "y": 85.3,
           "text": "purposes. Even when donors specify legitimate reasons for requesting data in-line with the original",
           "bbox": [
             53.02149963378906,
@@ -6176,7 +6356,7 @@
           ]
         },
         {
-          "y": 86,
+          "y": 86.1,
           "text": "14",
           "bbox": [
             98.40869903564453,
@@ -6210,7 +6390,7 @@
           ]
         },
         {
-          "y": 98,
+          "y": 98.5,
           "text": "purposes for which the data was collected (e.g. the delivery of humanitarian assistance), it can be difficult",
           "bbox": [
             53.028099060058594,
@@ -6244,7 +6424,7 @@
           ]
         },
         {
-          "y": 112,
+          "y": 111.7,
           "text": "to ensure that the data will not be used for other purposes once shared. Data used out of context and for",
           "bbox": [
             53.028099060058594,
@@ -6278,7 +6458,7 @@
           ]
         },
         {
-          "y": 125,
+          "y": 124.9,
           "text": "purposes that are not known at the time of sharing, or retained past the intended retention for a defined",
           "bbox": [
             53.028099060058594,
@@ -6312,7 +6492,7 @@
           ]
         },
         {
-          "y": 138,
+          "y": 138.1,
           "text": "purpose represents a violation, even if unintended, of the data subjects’ rights.",
           "bbox": [
             53.028099060058594,
@@ -6346,7 +6526,7 @@
           ]
         },
         {
-          "y": 176,
+          "y": 175.6,
           "text": "RECOMMENDATIONS",
           "bbox": [
             54.10240173339844,
@@ -6380,7 +6560,7 @@
           ]
         },
         {
-          "y": 200,
+          "y": 200.3,
           "text": "In view of the objectives and constraints detailed above, the Centre, the Humanitarian Policy Group (HPG)",
           "bbox": [
             54.0254020690918,
@@ -6414,7 +6594,7 @@
           ]
         },
         {
-          "y": 213,
+          "y": 213.5,
           "text": "at ODI, the ICRC, and the Human Security Division of the Swiss Federal Department of Foreign Affairs",
           "bbox": [
             54.0254020690918,
@@ -6448,7 +6628,7 @@
           ]
         },
         {
-          "y": 227,
+          "y": 226.7,
           "text": "recommend that donors and humanitarian organizations take the following steps to minimize risks while",
           "bbox": [
             54.0254020690918,
@@ -6482,7 +6662,7 @@
           ]
         },
         {
-          "y": 240,
+          "y": 239.9,
           "text": "maximizing benefits when sharing sensitive data:",
           "bbox": [
             54.0254020690918,
@@ -6516,7 +6696,7 @@
           ]
         },
         {
-          "y": 266,
+          "y": 265.8,
           "text": "• Reviewing and clarifying the formal or informal frameworks that govern the collection and",
           "bbox": [
             65.36640167236328,
@@ -6550,12 +6730,12 @@
           ]
         },
         {
-          "y": 279,
+          "y": 279.0,
           "text": "sharing of disaggregated data",
           "bbox": [
             76.70740509033203,
             279.02911376953125,
-            224.62326049804688,
+            220.2232666015625,
             293.6041259765625
           ],
           "spans": [
@@ -6580,33 +6760,11 @@
                 220.2232666015625,
                 293.6041259765625
               ]
-            },
-            {
-              "size": 11.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SourceSansPro-Regular",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9679999947547913,
-              "descender": -0.2930000126361847,
-              "text": "  ",
-              "origin": [
-                220.2232666015625,
-                290.12811279296875
-              ],
-              "bbox": [
-                220.2232666015625,
-                279.4801025390625,
-                224.62326049804688,
-                293.3511047363281
-              ]
             }
           ]
         },
         {
-          "y": 293,
+          "y": 292.7,
           "text": "Donors and partners should examine the official, formal requirements and ad-hoc, informal",
           "bbox": [
             76.70740509033203,
@@ -6640,7 +6798,7 @@
           ]
         },
         {
-          "y": 306,
+          "y": 305.9,
           "text": "requirements of data sharing, and analyse partner and donor staff interpret whether requirements",
           "bbox": [
             76.70740509033203,
@@ -6674,7 +6832,7 @@
           ]
         },
         {
-          "y": 319,
+          "y": 319.1,
           "text": "correctly and consistently. They should assess whether there are implicit conditionalities between the",
           "bbox": [
             76.70740509033203,
@@ -6708,7 +6866,7 @@
           ]
         },
         {
-          "y": 332,
+          "y": 332.3,
           "text": "willingness to share disaggregated data and the ability of different organizations to access and sustain",
           "bbox": [
             76.70740509033203,
@@ -6742,7 +6900,7 @@
           ]
         },
         {
-          "y": 345,
+          "y": 345.5,
           "text": "funding from donors.",
           "bbox": [
             76.70740509033203,
@@ -6776,7 +6934,7 @@
           ]
         },
         {
-          "y": 371,
+          "y": 371.4,
           "text": "• Formalizing and standardizing requests for sensitive data",
           "bbox": [
             65.36640167236328,
@@ -6810,7 +6968,7 @@
           ]
         },
         {
-          "y": 385,
+          "y": 385.1,
           "text": "When sensitive data is required to meet a mutually agreed objective, donors should formalize and",
           "bbox": [
             76.70740509033203,
@@ -6844,7 +7002,7 @@
           ]
         },
         {
-          "y": 398,
+          "y": 398.3,
           "text": "standardize their requests for such data. Requests should be made in writing and should specify",
           "bbox": [
             76.70740509033203,
@@ -6878,7 +7036,7 @@
           ]
         },
         {
-          "y": 411,
+          "y": 411.5,
           "text": "which data is requested, the format desired, and the intended use of the data. Donors should only",
           "bbox": [
             76.70740509033203,
@@ -6912,7 +7070,7 @@
           ]
         },
         {
-          "y": 425,
+          "y": 424.7,
           "text": "request the information required to meet the specified purpose for which it is being requested and",
           "bbox": [
             76.70740509033203,
@@ -6946,7 +7104,7 @@
           ]
         },
         {
-          "y": 438,
+          "y": 437.9,
           "text": "should indicate a timeline for destruction of the data. Humanitarian organisations should document",
           "bbox": [
             76.70740509033203,
@@ -6980,7 +7138,7 @@
           ]
         },
         {
-          "y": 451,
+          "y": 451.1,
           "text": "all requests for data and ensure consistency in responding to these requests over time.",
           "bbox": [
             76.70740509033203,
@@ -7014,7 +7172,7 @@
           ]
         },
         {
-          "y": 477,
+          "y": 477.0,
           "text": "• Investing in data management capacities of staff and organizations",
           "bbox": [
             65.36640167236328,
@@ -7048,7 +7206,7 @@
           ]
         },
         {
-          "y": 491,
+          "y": 490.7,
           "text": "Donors and humanitarian organizations should identify opportunities to invest in building data",
           "bbox": [
             76.70740509033203,
@@ -7082,7 +7240,7 @@
           ]
         },
         {
-          "y": 504,
+          "y": 503.9,
           "text": "management expertise especially for non-technical staff. The donor community is uniquely positioned",
           "bbox": [
             76.70740509033203,
@@ -7116,7 +7274,7 @@
           ]
         },
         {
-          "y": 517,
+          "y": 517.1,
           "text": "to encourage data responsibility by providing additional resources for training and capacity building.",
           "bbox": [
             76.70740509033203,
@@ -7150,7 +7308,7 @@
           ]
         },
         {
-          "y": 543,
+          "y": 543.0,
           "text": "• Adopting common principles for donor data management",
           "bbox": [
             65.36640167236328,
@@ -7184,7 +7342,7 @@
           ]
         },
         {
-          "y": 557,
+          "y": 556.7,
           "text": "The sector already has a range of principles and commitments to inform different aspects of",
           "bbox": [
             76.70740509033203,
@@ -7218,7 +7376,7 @@
           ]
         },
         {
-          "y": 570,
+          "y": 569.9,
           "text": "humanitarian donorship. However, these do not sufficiently address concerns related to data",
           "bbox": [
             76.70740509033203,
@@ -7274,7 +7432,7 @@
           ]
         },
         {
-          "y": 571,
+          "y": 570.7,
           "text": "15",
           "bbox": [
             191.2200927734375,
@@ -7308,7 +7466,7 @@
           ]
         },
         {
-          "y": 583,
+          "y": 583.1,
           "text": "responsibility. Donors and partners should engage in the development of common principles and",
           "bbox": [
             76.70449829101562,
@@ -7342,13 +7500,47 @@
           ]
         },
         {
-          "y": 596,
-          "text": "guidelines for donor data sharing to fill this gap. The Humanitarian Data and Trust Initiative , co-led",
+          "y": 596.1,
+          "text": "Humanitarian Data and Trust Initiative",
+          "bbox": [
+            316.63330078125,
+            596.0527954101562,
+            497.4392395019531,
+            610.2868041992188
+          ],
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "SourceSansPro-Semibold",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9890000224113464,
+              "descender": -0.3050000071525574,
+              "text": "Humanitarian Data and Trust Initiative",
+              "origin": [
+                316.63330078125,
+                606.9318237304688
+              ],
+              "bbox": [
+                316.63330078125,
+                596.0527954101562,
+                497.4392395019531,
+                610.2868041992188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 596.3,
+          "text": "guidelines for donor data sharing to fill this gap. The , co-led",
           "bbox": [
             76.70449829101562,
-            596.0527954101562,
+            596.2838134765625,
             533.1771240234375,
-            610.2868041992188
+            610.1548461914062
           ],
           "spans": [
             {
@@ -7371,28 +7563,6 @@
                 596.2838134765625,
                 316.63330078125,
                 610.1548461914062
-              ]
-            },
-            {
-              "size": 11.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "SourceSansPro-Semibold",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9890000224113464,
-              "descender": -0.3050000071525574,
-              "text": "Humanitarian Data and Trust Initiative",
-              "origin": [
-                316.63330078125,
-                606.9318237304688
-              ],
-              "bbox": [
-                316.63330078125,
-                596.0527954101562,
-                497.4392395019531,
-                610.2868041992188
               ]
             },
             {
@@ -7420,7 +7590,7 @@
           ]
         },
         {
-          "y": 609,
+          "y": 609.5,
           "text": "by the Government of Switzerland, the ICRC, and the Centre, offers a platform to facilitate this process",
           "bbox": [
             76.70449829101562,
@@ -7454,7 +7624,7 @@
           ]
         },
         {
-          "y": 623,
+          "y": 622.7,
           "text": "as part of its ongoing work to build trust through dialogue.",
           "bbox": [
             76.70449829101562,
@@ -7488,7 +7658,7 @@
           ]
         },
         {
-          "y": 649,
+          "y": 649.1,
           "text": "Organizations are encouraged to share their experience in responsible data sharing with donors with the",
           "bbox": [
             54.022499084472656,
@@ -7522,13 +7692,47 @@
           ]
         },
         {
-          "y": 662,
-          "text": "Centre for Humanitarian Data via centrehumdata@un.org .",
+          "y": 662.1,
+          "text": "centrehumdata@un.org",
+          "bbox": [
+            206.7662811279297,
+            662.0527954101562,
+            320.0662841796875,
+            676.2868041992188
+          ],
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "SourceSansPro-Semibold",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9890000224113464,
+              "descender": -0.3050000071525574,
+              "text": "centrehumdata@un.org",
+              "origin": [
+                206.7662811279297,
+                672.9318237304688
+              ],
+              "bbox": [
+                206.7662811279297,
+                662.0527954101562,
+                320.0662841796875,
+                676.2868041992188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 662.3,
+          "text": "Centre for Humanitarian Data via .",
           "bbox": [
             54.022499084472656,
-            662.0527954101562,
+            662.2838134765625,
             322.8052978515625,
-            676.2868041992188
+            676.1548461914062
           ],
           "spans": [
             {
@@ -7551,28 +7755,6 @@
                 662.2838134765625,
                 206.7662811279297,
                 676.1548461914062
-              ]
-            },
-            {
-              "size": 11.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "SourceSansPro-Semibold",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9890000224113464,
-              "descender": -0.3050000071525574,
-              "text": "centrehumdata@un.org",
-              "origin": [
-                206.7662811279297,
-                672.9318237304688
-              ],
-              "bbox": [
-                206.7662811279297,
-                662.0527954101562,
-                320.0662841796875,
-                676.2868041992188
               ]
             },
             {
@@ -7600,13 +7782,47 @@
           ]
         },
         {
-          "y": 756,
-          "text": "ICRC, 2020. Handbook on data protection in humanitarian action .",
+          "y": 756.1,
+          "text": "Handbook on data protection in humanitarian action",
+          "bbox": [
+            97.85154724121094,
+            756.1036376953125,
+            274.73907470703125,
+            764.8111572265625
+          ],
+          "spans": [
+            {
+              "size": 7.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Stag-Medium",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9419999718666077,
+              "descender": -0.21899999678134918,
+              "text": "Handbook on data protection in humanitarian action",
+              "origin": [
+                97.85154724121094,
+                763.1686401367188
+              ],
+              "bbox": [
+                97.85154724121094,
+                756.1036376953125,
+                274.73907470703125,
+                764.8111572265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 756.2,
+          "text": "ICRC, 2020. .",
           "bbox": [
             58.46229934692383,
-            756.1036376953125,
+            756.1936645507812,
             276.10406494140625,
-            764.8111572265625
+            764.7286376953125
           ],
           "spans": [
             {
@@ -7636,28 +7852,6 @@
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
-              "font": "Stag-Medium",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9419999718666077,
-              "descender": -0.21899999678134918,
-              "text": "Handbook on data protection in humanitarian action",
-              "origin": [
-                97.85154724121094,
-                763.1686401367188
-              ],
-              "bbox": [
-                97.85154724121094,
-                756.1036376953125,
-                274.73907470703125,
-                764.8111572265625
-              ]
-            },
-            {
-              "size": 7.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
               "font": "Stag-Book",
               "color": 1815936,
               "alpha": 255,
@@ -7678,13 +7872,69 @@
           ]
         },
         {
-          "y": 768,
-          "text": "Examples include the Good Humanitarian Donorship Initiative and the Grand Bargain .",
+          "y": 768.1,
+          "text": "Good Humanitarian Donorship Initiative Grand Bargain",
+          "bbox": [
+            131.85911560058594,
+            768.1036376953125,
+            342.7734069824219,
+            776.8111572265625
+          ],
+          "spans": [
+            {
+              "size": 7.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Stag-Medium",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9419999718666077,
+              "descender": -0.21899999678134918,
+              "text": "Good Humanitarian Donorship Initiative",
+              "origin": [
+                131.85911560058594,
+                775.1686401367188
+              ],
+              "bbox": [
+                131.85911560058594,
+                768.1036376953125,
+                267.2641906738281,
+                776.8111572265625
+              ]
+            },
+            {
+              "size": 7.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Stag-Medium",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9419999718666077,
+              "descender": -0.21899999678134918,
+              "text": "Grand Bargain",
+              "origin": [
+                294.8409423828125,
+                775.1686401367188
+              ],
+              "bbox": [
+                294.8409423828125,
+                768.1036376953125,
+                342.7734069824219,
+                776.8111572265625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 768.2,
+          "text": "Examples include the and the .",
           "bbox": [
             59.31159973144531,
-            768.1036376953125,
+            768.1936645507812,
             344.1383972167969,
-            776.8111572265625
+            776.7286376953125
           ],
           "spans": [
             {
@@ -7714,28 +7964,6 @@
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
-              "font": "Stag-Medium",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9419999718666077,
-              "descender": -0.21899999678134918,
-              "text": "Good Humanitarian Donorship Initiative",
-              "origin": [
-                131.85911560058594,
-                775.1686401367188
-              ],
-              "bbox": [
-                131.85911560058594,
-                768.1036376953125,
-                267.2641906738281,
-                776.8111572265625
-              ]
-            },
-            {
-              "size": 7.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
               "font": "Stag-Book",
               "color": 1815936,
               "alpha": 255,
@@ -7751,28 +7979,6 @@
                 768.1936645507812,
                 294.8409423828125,
                 776.7286376953125
-              ]
-            },
-            {
-              "size": 7.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Stag-Medium",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9419999718666077,
-              "descender": -0.21899999678134918,
-              "text": "Grand Bargain",
-              "origin": [
-                294.8409423828125,
-                775.1686401367188
-              ],
-              "bbox": [
-                294.8409423828125,
-                768.1036376953125,
-                342.7734069824219,
-                776.8111572265625
               ]
             },
             {
@@ -7800,8 +8006,8 @@
           ]
         },
         {
-          "y": 792,
-          "text": "THE CENTRE FOR HUMANITARIAN DATA DECEMBER 2020 4",
+          "y": 791.6,
+          "text": "THE CENTRE FOR HUMANITARIAN DATA 4",
           "bbox": [
             53.44820022583008,
             791.611328125,
@@ -7833,28 +8039,6 @@
             },
             {
               "size": 8.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SourceSansPro-Regular",
-              "color": 8947848,
-              "alpha": 255,
-              "ascender": 0.9679999947547913,
-              "descender": -0.2930000126361847,
-              "text": "DECEMBER 2020",
-              "origin": [
-                269.777099609375,
-                799.4176025390625
-              ],
-              "bbox": [
-                269.777099609375,
-                791.673583984375,
-                324.92681884765625,
-                801.7615966796875
-              ]
-            },
-            {
-              "size": 8.0,
               "flags": 0,
               "bidi": 0,
               "char_flags": 16,
@@ -7876,6 +8060,40 @@
               ]
             }
           ]
+        },
+        {
+          "y": 791.7,
+          "text": "DECEMBER 2020",
+          "bbox": [
+            269.777099609375,
+            791.673583984375,
+            324.92681884765625,
+            801.7615966796875
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SourceSansPro-Regular",
+              "color": 8947848,
+              "alpha": 255,
+              "ascender": 0.9679999947547913,
+              "descender": -0.2930000126361847,
+              "text": "DECEMBER 2020",
+              "origin": [
+                269.777099609375,
+                799.4176025390625
+              ],
+              "bbox": [
+                269.777099609375,
+                791.673583984375,
+                324.92681884765625,
+                801.7615966796875
+              ]
+            }
+          ]
         }
       ]
     },
@@ -7885,37 +8103,15 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 544,
-          "text": "COLLABORATORS: THE HUMANITARIAN POLICY GROUP AT ODI; INTERNATIONAL COMMITTEE OF THE RED CROSS;",
+          "y": 544.1,
+          "text": "THE HUMANITARIAN POLICY GROUP AT ODI; INTERNATIONAL COMMITTEE OF THE RED CROSS;",
           "bbox": [
-            53.393699645996094,
+            130.84271240234375,
             544.1298828125,
             530.9007568359375,
             557.0698852539062
           ],
           "spans": [
-            {
-              "size": 10.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SourceSansPro-Regular",
-              "color": 6184542,
-              "alpha": 255,
-              "ascender": 0.9679999947547913,
-              "descender": -0.2930000126361847,
-              "text": "COLLABORATORS: ",
-              "origin": [
-                53.393699645996094,
-                554.0198974609375
-              ],
-              "bbox": [
-                53.393699645996094,
-                544.3399047851562,
-                130.84271240234375,
-                556.9498901367188
-              ]
-            },
             {
               "size": 10.0,
               "flags": 20,
@@ -7941,13 +8137,13 @@
           ]
         },
         {
-          "y": 556,
-          "text": "AND THE HUMAN SECURITY DIVISION, SWISS FEDERAL DEPARTMENT OF FOREIGN AFFAIRS.",
+          "y": 544.3,
+          "text": "COLLABORATORS:",
           "bbox": [
             53.393699645996094,
-            556.1298828125,
-            437.7907409667969,
-            569.0698852539062
+            544.3399047851562,
+            130.84271240234375,
+            556.9498901367188
           ],
           "spans": [
             {
@@ -7956,22 +8152,34 @@
               "bidi": 0,
               "char_flags": 16,
               "font": "SourceSansPro-Regular",
-              "color": 6118749,
+              "color": 6184542,
               "alpha": 255,
               "ascender": 0.9679999947547913,
               "descender": -0.2930000126361847,
-              "text": "AND",
+              "text": "COLLABORATORS: ",
               "origin": [
                 53.393699645996094,
-                566.0198974609375
+                554.0198974609375
               ],
               "bbox": [
                 53.393699645996094,
-                556.3399047851562,
-                71.45370483398438,
-                568.9498901367188
+                544.3399047851562,
+                130.84271240234375,
+                556.9498901367188
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 556.1,
+          "text": "THE HUMAN SECURITY DIVISION, SWISS FEDERAL DEPARTMENT OF FOREIGN AFFAIRS.",
+          "bbox": [
+            71.45370483398438,
+            556.1298828125,
+            437.7907409667969,
+            569.0698852539062
+          ],
+          "spans": [
             {
               "size": 10.0,
               "flags": 20,
@@ -7997,13 +8205,81 @@
           ]
         },
         {
-          "y": 587,
-          "text": "The Centre for Humanitarian Data ('the Center'), together with key partners, is publishing a series of eight",
+          "y": 556.3,
+          "text": "AND",
+          "bbox": [
+            53.393699645996094,
+            556.3399047851562,
+            71.45370483398438,
+            568.9498901367188
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SourceSansPro-Regular",
+              "color": 6118749,
+              "alpha": 255,
+              "ascender": 0.9679999947547913,
+              "descender": -0.2930000126361847,
+              "text": "AND",
+              "origin": [
+                53.393699645996094,
+                566.0198974609375
+              ],
+              "bbox": [
+                53.393699645996094,
+                556.3399047851562,
+                71.45370483398438,
+                568.9498901367188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 586.7,
+          "text": "Centre for Humanitarian Data",
+          "bbox": [
+            82.98440551757812,
+            586.68896484375,
+            209.492431640625,
+            599.6289672851562
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "SourceSansPro-Semibold",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9890000224113464,
+              "descender": -0.3050000071525574,
+              "text": "Centre for Humanitarian Data",
+              "origin": [
+                82.98440551757812,
+                596.5789794921875
+              ],
+              "bbox": [
+                82.98440551757812,
+                586.68896484375,
+                209.492431640625,
+                599.6289672851562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 586.9,
+          "text": "The ('the Center'), together with key partners, is publishing a series of eight",
           "bbox": [
             65.22440338134766,
-            586.68896484375,
+            586.8989868164062,
             506.69940185546875,
-            599.6289672851562
+            599.5089721679688
           ],
           "spans": [
             {
@@ -8026,28 +8302,6 @@
                 586.8989868164062,
                 80.98440551757812,
                 599.5089721679688
-              ]
-            },
-            {
-              "size": 10.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "SourceSansPro-Semibold",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9890000224113464,
-              "descender": -0.3050000071525574,
-              "text": "Centre for Humanitarian Data",
-              "origin": [
-                82.98440551757812,
-                596.5789794921875
-              ],
-              "bbox": [
-                82.98440551757812,
-                586.68896484375,
-                209.492431640625,
-                599.6289672851562
               ]
             },
             {
@@ -8097,7 +8351,7 @@
           ]
         },
         {
-          "y": 599,
+          "y": 598.9,
           "text": "guidance notes on Data Responsibility in Humanitarian Action over the course of 2019 and 2020. The Guidance",
           "bbox": [
             65.22440338134766,
@@ -8131,13 +8385,47 @@
           ]
         },
         {
-          "y": 611,
-          "text": "Note series follows the publication of the OCHA Data Responsibility Guidelines in March 2019. Through",
+          "y": 610.7,
+          "text": "OCHA Data Responsibility Guidelines",
+          "bbox": [
+            236.98245239257812,
+            610.68896484375,
+            393.9814453125,
+            623.6289672851562
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "SourceSansPro-Semibold",
+              "color": 1815936,
+              "alpha": 255,
+              "ascender": 0.9890000224113464,
+              "descender": -0.3050000071525574,
+              "text": "OCHA Data Responsibility Guidelines",
+              "origin": [
+                236.98245239257812,
+                620.5789794921875
+              ],
+              "bbox": [
+                236.98245239257812,
+                610.68896484375,
+                393.9814453125,
+                623.6289672851562
+              ]
+            }
+          ]
+        },
+        {
+          "y": 610.9,
+          "text": "Note series follows the publication of the in March 2019. Through",
           "bbox": [
             65.22440338134766,
-            610.68896484375,
+            610.8989868164062,
             495.4704284667969,
-            623.6289672851562
+            623.5089721679688
           ],
           "spans": [
             {
@@ -8160,28 +8448,6 @@
                 610.8989868164062,
                 234.98245239257812,
                 623.5089721679688
-              ]
-            },
-            {
-              "size": 10.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "SourceSansPro-Semibold",
-              "color": 1815936,
-              "alpha": 255,
-              "ascender": 0.9890000224113464,
-              "descender": -0.3050000071525574,
-              "text": "OCHA Data Responsibility Guidelines",
-              "origin": [
-                236.98245239257812,
-                620.5789794921875
-              ],
-              "bbox": [
-                236.98245239257812,
-                610.68896484375,
-                393.9814453125,
-                623.6289672851562
               ]
             },
             {
@@ -8209,7 +8475,7 @@
           ]
         },
         {
-          "y": 623,
+          "y": 622.9,
           "text": "the series, the Centre aims to provide additional guidance on specific issues, processes and tools for data",
           "bbox": [
             65.22440338134766,
@@ -8243,7 +8509,7 @@
           ]
         },
         {
-          "y": 635,
+          "y": 634.9,
           "text": "responsibility in practice. This series is made possible with the generous support of the Directorate-General for",
           "bbox": [
             65.22440338134766,
@@ -8277,7 +8543,7 @@
           ]
         },
         {
-          "y": 647,
+          "y": 646.9,
           "text": "European Civil Protection and Humanitarian Aid Operations (DG ECHO).",
           "bbox": [
             65.22440338134766,
@@ -8311,7 +8577,7 @@
           ]
         },
         {
-          "y": 683,
+          "y": 683.4,
           "text": "This document covers humanitarian aid activities implemented with the financial assistance of the",
           "bbox": [
             145.4882049560547,
@@ -8345,7 +8611,7 @@
           ]
         },
         {
-          "y": 694,
+          "y": 694.2,
           "text": "European Union. The views expressed herein should not be taken, in any way, to reflect the official opinion",
           "bbox": [
             145.4882049560547,
@@ -8379,7 +8645,7 @@
           ]
         },
         {
-          "y": 705,
+          "y": 705.0,
           "text": "of the European Union, and the European Commission is not responsible for any use that may be made of",
           "bbox": [
             145.4882049560547,
@@ -8413,7 +8679,7 @@
           ]
         },
         {
-          "y": 716,
+          "y": 715.8,
           "text": "the information it contains.",
           "bbox": [
             145.4882049560547,
@@ -8447,7 +8713,7 @@
           ]
         },
         {
-          "y": 743,
+          "y": 743.0,
           "text": "This project is co-funded",
           "bbox": [
             53.952701568603516,
@@ -8481,7 +8747,7 @@
           ]
         },
         {
-          "y": 752,
+          "y": 752.1,
           "text": "by the European Union",
           "bbox": [
             53.952701568603516,
@@ -8515,8 +8781,8 @@
           ]
         },
         {
-          "y": 792,
-          "text": "THE CENTRE FOR HUMANITARIAN DATA DECEMBER 2020 5",
+          "y": 791.6,
+          "text": "THE CENTRE FOR HUMANITARIAN DATA 5",
           "bbox": [
             53.44820022583008,
             791.611328125,
@@ -8548,28 +8814,6 @@
             },
             {
               "size": 8.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SourceSansPro-Regular",
-              "color": 8947848,
-              "alpha": 255,
-              "ascender": 0.9679999947547913,
-              "descender": -0.2930000126361847,
-              "text": "DECEMBER 2020",
-              "origin": [
-                269.777099609375,
-                799.4176025390625
-              ],
-              "bbox": [
-                269.777099609375,
-                791.673583984375,
-                324.92681884765625,
-                801.7615966796875
-              ]
-            },
-            {
-              "size": 8.0,
               "flags": 0,
               "bidi": 0,
               "char_flags": 16,
@@ -8588,6 +8832,40 @@
                 791.611328125,
                 541.7630004882812,
                 802.163330078125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 791.7,
+          "text": "DECEMBER 2020",
+          "bbox": [
+            269.777099609375,
+            791.673583984375,
+            324.92681884765625,
+            801.7615966796875
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SourceSansPro-Regular",
+              "color": 8947848,
+              "alpha": 255,
+              "ascender": 0.9679999947547913,
+              "descender": -0.2930000126361847,
+              "text": "DECEMBER 2020",
+              "origin": [
+                269.777099609375,
+                799.4176025390625
+              ],
+              "bbox": [
+                269.777099609375,
+                791.673583984375,
+                324.92681884765625,
+                801.7615966796875
               ]
             }
           ]

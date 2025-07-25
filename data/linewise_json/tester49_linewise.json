@@ -7,7 +7,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 49,
+          "y": 49.1,
           "text": "Introduction",
           "bbox": [
             256.8500061035156,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 72,
+          "y": 71.7,
           "text": "to Blogging",
           "bbox": [
             260.45001220703125,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 170,
+          "y": 170.0,
           "text": "What is a blog?",
           "bbox": [
             90.02400207519531,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 198,
+          "y": 197.5,
           "text": "The word “blog,” a contraction of “web log,” is an informational web",
           "bbox": [
             90.02400207519531,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 210,
+          "y": 210.3,
           "text": "page that consists of discrete units called “posts.” The term “log” comes",
           "bbox": [
             90.02400207519531,
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "y": 223,
+          "y": 222.9,
           "text": "from the history of nautical navigation and originally referred to a",
           "bbox": [
             90.02400207519531,
@@ -211,7 +211,7 @@
           ]
         },
         {
-          "y": 236,
+          "y": 235.6,
           "text": "record of chronological events kept by a ship’s crew (Rettberg 30). Like",
           "bbox": [
             90.02400207519531,
@@ -245,7 +245,7 @@
           ]
         },
         {
-          "y": 248,
+          "y": 248.2,
           "text": "a ship’s log, blogs on the web tend to maintain an ordered chronology,",
           "bbox": [
             90.02400207519531,
@@ -279,7 +279,7 @@
           ]
         },
         {
-          "y": 261,
+          "y": 260.8,
           "text": "although they often unfold in reverse order. Blog posts are often shorter",
           "bbox": [
             90.02400207519531,
@@ -313,7 +313,7 @@
           ]
         },
         {
-          "y": 274,
+          "y": 273.5,
           "text": "and less formal than other types of writing.",
           "bbox": [
             90.02400207519531,
@@ -347,7 +347,7 @@
           ]
         },
         {
-          "y": 299,
+          "y": 298.9,
           "text": "Blogs can be personal, artistic, academic , or professional. It is a unique",
           "bbox": [
             90.02400207519531,
@@ -425,7 +425,7 @@
           ]
         },
         {
-          "y": 311,
+          "y": 311.5,
           "text": "form of online publishing that creates opportunities for producing",
           "bbox": [
             90.02400207519531,
@@ -459,7 +459,7 @@
           ]
         },
         {
-          "y": 324,
+          "y": 324.1,
           "text": "knowledge, sharing research, building social networks, developing",
           "bbox": [
             90.02400207519531,
@@ -493,7 +493,7 @@
           ]
         },
         {
-          "y": 337,
+          "y": 336.8,
           "text": "professionally, or documenting personal growth.",
           "bbox": [
             90.02400207519531,
@@ -527,7 +527,7 @@
           ]
         },
         {
-          "y": 341,
+          "y": 341.3,
           "text": "toddbacile.wordpress.com",
           "bbox": [
             453.6700134277344,
@@ -561,7 +561,7 @@
           ]
         },
         {
-          "y": 377,
+          "y": 377.0,
           "text": "Composing a post",
           "bbox": [
             90.02400207519531,
@@ -595,7 +595,7 @@
           ]
         },
         {
-          "y": 403,
+          "y": 403.5,
           "text": "You want your blog to invite readers in and keep them coming back for updates. Great blogs are",
           "bbox": [
             90.02400207519531,
@@ -629,7 +629,7 @@
           ]
         },
         {
-          "y": 416,
+          "y": 416.1,
           "text": "vibrant and visually interesting, but they are also thoughtful and purposeful. Every post matters",
           "bbox": [
             90.02400207519531,
@@ -663,7 +663,7 @@
           ]
         },
         {
-          "y": 429,
+          "y": 428.7,
           "text": "for generating and holding attention. Consider the following principles when composing:",
           "bbox": [
             90.02400207519531,
@@ -697,7 +697,7 @@
           ]
         },
         {
-          "y": 454,
+          "y": 453.6,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -731,7 +731,7 @@
           ]
         },
         {
-          "y": 456,
+          "y": 455.8,
           "text": "Make a point. While posts do not require a formal thesis or claim, it is important to have",
           "bbox": [
             126.0199966430664,
@@ -787,7 +787,7 @@
           ]
         },
         {
-          "y": 469,
+          "y": 468.6,
           "text": "an argument, opinion, or purpose in mind when you compose.",
           "bbox": [
             126.0199966430664,
@@ -821,7 +821,7 @@
           ]
         },
         {
-          "y": 495,
+          "y": 494.5,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -855,7 +855,7 @@
           ]
         },
         {
-          "y": 497,
+          "y": 496.8,
           "text": "Be concise. Use precise language and coherent syntax to make your posts easy to read.",
           "bbox": [
             126.0199966430664,
@@ -911,13 +911,13 @@
           ]
         },
         {
-          "y": 523,
+          "y": 522.6,
           "text": "",
           "bbox": [
             108.0199966430664,
             522.61474609375,
-            178.5800018310547,
-            536.3019409179688
+            113.09839630126953,
+            536.0946044921875
           ],
           "spans": [
             {
@@ -941,63 +941,19 @@
                 113.09839630126953,
                 536.0946044921875
               ]
-            },
-            {
-              "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Times New Roman,Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.890999972820282,
-              "descender": -0.2160000056028366,
-              "text": " ",
-              "origin": [
-                175.5800018310547,
-                533.7099609375
-              ],
-              "bbox": [
-                175.5800018310547,
-                523.0179443359375,
-                178.5800018310547,
-                536.3019409179688
-              ]
             }
           ]
         },
         {
-          "y": 524,
+          "y": 523.9,
           "text": "Post often. Blogs should be updated regularly to hold readers’ interest. Actively generate",
           "bbox": [
-            113.05999755859375,
-            523.71875,
+            126.0199966430664,
+            523.873291015625,
             522.77099609375,
             536.0946044921875
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                113.05999755859375,
-                533.7099609375
-              ],
-              "bbox": [
-                113.05999755859375,
-                523.71875,
-                116.12911987304688,
-                536.0283813476562
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 20,
@@ -1045,7 +1001,7 @@
           ]
         },
         {
-          "y": 537,
+          "y": 536.6,
           "text": "new and interesting content on a daily or weekly schedule.",
           "bbox": [
             126.0199966430664,
@@ -1101,7 +1057,7 @@
           ]
         },
         {
-          "y": 563,
+          "y": 562.6,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -1135,37 +1091,15 @@
           ]
         },
         {
-          "y": 564,
+          "y": 563.8,
           "text": "Consider inviting guest bloggers to appeal to diverse readers, broaden your blog’s",
           "bbox": [
-            113.05999755859375,
-            563.6787719726562,
+            126.0199966430664,
+            563.8333740234375,
             497.1544494628906,
             576.0546264648438
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                113.05999755859375,
-                573.6699829101562
-              ],
-              "bbox": [
-                113.05999755859375,
-                563.6787719726562,
-                116.12911987304688,
-                575.9884033203125
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 20,
@@ -1213,7 +1147,7 @@
           ]
         },
         {
-          "y": 577,
+          "y": 576.6,
           "text": "scope, or refresh your own perspective on the project.",
           "bbox": [
             126.0199966430664,
@@ -1269,7 +1203,7 @@
           ]
         },
         {
-          "y": 601,
+          "y": 601.4,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -1303,7 +1237,7 @@
           ]
         },
         {
-          "y": 604,
+          "y": 603.6,
           "text": "Proofread. Careless mistakes and errors can distract readers and make you appear less",
           "bbox": [
             126.0199966430664,
@@ -1359,7 +1293,7 @@
           ]
         },
         {
-          "y": 616,
+          "y": 616.3,
           "text": "credible as a writer.",
           "bbox": [
             126.0199966430664,
@@ -1393,7 +1327,7 @@
           ]
         },
         {
-          "y": 642,
+          "y": 642.2,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -1427,37 +1361,15 @@
           ]
         },
         {
-          "y": 643,
+          "y": 643.4,
           "text": "Create visual interest. Consider which aspects of your content would pair well with",
           "bbox": [
-            113.05999755859375,
-            643.268798828125,
+            126.0199966430664,
+            643.42333984375,
             502.5005187988281,
             655.6446533203125
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                113.05999755859375,
-                653.260009765625
-              ],
-              "bbox": [
-                113.05999755859375,
-                643.268798828125,
-                116.12911987304688,
-                655.5784301757812
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 20,
@@ -1505,7 +1417,7 @@
           ]
         },
         {
-          "y": 656,
+          "y": 656.1,
           "text": "visual elements such as photographs, figures, or videos. Break up large chunks of text",
           "bbox": [
             126.0199966430664,
@@ -1539,7 +1451,7 @@
           ]
         },
         {
-          "y": 669,
+          "y": 668.9,
           "text": "with visual elements to make your blog more readable.",
           "bbox": [
             126.0199966430664,
@@ -1602,7 +1514,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 36,
+          "y": 36.0,
           "text": "2",
           "bbox": [
             515.5,
@@ -1636,7 +1548,7 @@
           ]
         },
         {
-          "y": 72,
+          "y": 72.2,
           "text": "Using Multimedia",
           "bbox": [
             90.02400207519531,
@@ -1670,7 +1582,7 @@
           ]
         },
         {
-          "y": 100,
+          "y": 99.7,
           "text": "Audio and visual interest helps grab a reader’s attention. Blogs give writers the opportunity to use",
           "bbox": [
             90.02400207519531,
@@ -1704,7 +1616,7 @@
           ]
         },
         {
-          "y": 112,
+          "y": 112.3,
           "text": "design, images, audio, and video to supplement their writing. Take advantage of these innovative",
           "bbox": [
             90.02400207519531,
@@ -1738,7 +1650,7 @@
           ]
         },
         {
-          "y": 125,
+          "y": 125.1,
           "text": "ways to enhance your presentation! Here are some guidelines to have in mind when you choose",
           "bbox": [
             90.02400207519531,
@@ -1772,7 +1684,7 @@
           ]
         },
         {
-          "y": 138,
+          "y": 137.7,
           "text": "your blog’s multimedia elements:",
           "bbox": [
             90.02400207519531,
@@ -1806,7 +1718,7 @@
           ]
         },
         {
-          "y": 164,
+          "y": 163.6,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -1840,37 +1752,15 @@
           ]
         },
         {
-          "y": 165,
+          "y": 164.9,
           "text": "Use appropriate content, size, and quality. Make sure your chosen images complement",
           "bbox": [
-            113.05999755859375,
-            164.74879455566406,
+            126.0199966430664,
+            164.90335083007812,
             523.0599975585938,
             177.1246337890625
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                113.05999755859375,
-                174.739990234375
-              ],
-              "bbox": [
-                113.05999755859375,
-                164.74879455566406,
-                116.12911987304688,
-                177.0583953857422
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 20,
@@ -1918,7 +1808,7 @@
           ]
         },
         {
-          "y": 178,
+          "y": 177.6,
           "text": "the layout of your text visually. Images should be easy to see without obstructing the text",
           "bbox": [
             126.0199966430664,
@@ -1952,7 +1842,7 @@
           ]
         },
         {
-          "y": 190,
+          "y": 190.2,
           "text": "of a post. Choose the highest possible quality image while also making sure it is easy to",
           "bbox": [
             126.0199966430664,
@@ -1986,7 +1876,7 @@
           ]
         },
         {
-          "y": 203,
+          "y": 202.8,
           "text": "load. You don’t want your readers squinting at blurry pixels, but you won’t want them to",
           "bbox": [
             126.0199966430664,
@@ -2020,7 +1910,7 @@
           ]
         },
         {
-          "y": 216,
+          "y": 215.5,
           "text": "wait 10 seconds for something to load, either.",
           "bbox": [
             126.0199966430664,
@@ -2076,7 +1966,7 @@
           ]
         },
         {
-          "y": 242,
+          "y": 241.8,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -2110,7 +2000,7 @@
           ]
         },
         {
-          "y": 244,
+          "y": 244.0,
           "text": "When linking to an online video, consider using a screen shot from that video as",
           "bbox": [
             126.0199966430664,
@@ -2144,7 +2034,7 @@
           ]
         },
         {
-          "y": 256,
+          "y": 256.5,
           "text": "your hyperlink. A screen shot can make a reader more likely to click on a link. It can",
           "bbox": [
             126.0199966430664,
@@ -2200,7 +2090,7 @@
           ]
         },
         {
-          "y": 269,
+          "y": 269.1,
           "text": "provide a visual preview, as well as demonstrate the clip’s relevance to your post.",
           "bbox": [
             126.0199966430664,
@@ -2234,7 +2124,7 @@
           ]
         },
         {
-          "y": 295,
+          "y": 295.0,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -2268,37 +2158,15 @@
           ]
         },
         {
-          "y": 296,
+          "y": 296.2,
           "text": "Attribute your sources. Like ideas, images and videos are someone else’s intellectual",
           "bbox": [
-            113.05999755859375,
-            296.05877685546875,
+            126.0199966430664,
+            296.2133483886719,
             510.3005676269531,
             308.43463134765625
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                113.05999755859375,
-                306.04998779296875
-              ],
-              "bbox": [
-                113.05999755859375,
-                296.05877685546875,
-                116.12911987304688,
-                308.3683776855469
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 20,
@@ -2346,7 +2214,7 @@
           ]
         },
         {
-          "y": 309,
+          "y": 308.9,
           "text": "property. Whenever possible, provide captions for the reader. Even a simple caption –",
           "bbox": [
             126.0199966430664,
@@ -2380,7 +2248,7 @@
           ]
         },
         {
-          "y": 322,
+          "y": 321.7,
           "text": "(Image courtesy of msnbc.com) – will help readers identify the object’s origins.",
           "bbox": [
             126.0199966430664,
@@ -2436,7 +2304,7 @@
           ]
         },
         {
-          "y": 602,
+          "y": 601.6,
           "text": "Using Hyperlinks",
           "bbox": [
             90.02400207519531,
@@ -2470,7 +2338,7 @@
           ]
         },
         {
-          "y": 629,
+          "y": 629.1,
           "text": "Hyperlinks are an important part of blogging and can really increase your credibility. They create",
           "bbox": [
             90.02400207519531,
@@ -2504,7 +2372,7 @@
           ]
         },
         {
-          "y": 642,
+          "y": 641.9,
           "text": "a sense of conversation, act like citations in more informal circumstances, and demonstrate that",
           "bbox": [
             90.02400207519531,
@@ -2538,7 +2406,7 @@
           ]
         },
         {
-          "y": 654,
+          "y": 654.5,
           "text": "you are engaged with other people’s work.",
           "bbox": [
             90.02400207519531,
@@ -2572,7 +2440,7 @@
           ]
         },
         {
-          "y": 667,
+          "y": 667.1,
           "text": "[add a line space here?]",
           "bbox": [
             90.02400207519531,
@@ -2606,7 +2474,7 @@
           ]
         },
         {
-          "y": 680,
+          "y": 679.6,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -2640,7 +2508,7 @@
           ]
         },
         {
-          "y": 682,
+          "y": 681.8,
           "text": "Examples of Effective Hyperlinks",
           "bbox": [
             126.0199966430664,
@@ -2674,37 +2542,15 @@
           ]
         },
         {
-          "y": 694,
+          "y": 694.2,
           "text": "http://blogs.nicholas.duke.edu/thegreengrok/art-makes-environmental-change-",
           "bbox": [
-            150.6199951171875,
-            694.0247802734375,
+            162.02000427246094,
+            694.1793212890625,
             507.6563415527344,
             706.400634765625
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                150.6199951171875,
-                704.0159912109375
-              ],
-              "bbox": [
-                150.6199951171875,
-                694.0247802734375,
-                153.68911743164062,
-                706.3344116210938
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -2730,7 +2576,7 @@
           ]
         },
         {
-          "y": 695,
+          "y": 694.8,
           "text": "o",
           "bbox": [
             144.02000427246094,
@@ -2764,7 +2610,7 @@
           ]
         },
         {
-          "y": 707,
+          "y": 706.9,
           "text": "real/",
           "bbox": [
             162.02000427246094,
@@ -2827,7 +2673,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 36,
+          "y": 36.0,
           "text": "3",
           "bbox": [
             515.5,
@@ -2861,13 +2707,13 @@
           ]
         },
         {
-          "y": 72,
-          "text": " Links to scientific sources",
+          "y": 72.0,
+          "text": "",
           "bbox": [
             180.02000427246094,
             71.96882629394531,
-            316.010009765625,
-            84.34466552734375
+            188.12911987304688,
+            84.2784194946289
           ],
           "spans": [
             {
@@ -2913,7 +2759,19 @@
                 188.12911987304688,
                 84.2784194946289
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 72.1,
+          "text": "Links to scientific sources",
+          "bbox": [
+            198.0500030517578,
+            72.12338256835938,
+            316.010009765625,
+            84.34466552734375
+          ],
+          "spans": [
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -2939,59 +2797,15 @@
           ]
         },
         {
-          "y": 85,
-          "text": "o http://www.npr.org/blogs/health/2014/04/03/298358419/good-day-sunshine-",
+          "y": 84.7,
+          "text": "http://www.npr.org/blogs/health/2014/04/03/298358419/good-day-sunshine-",
           "bbox": [
-            144.02000427246094,
-            84.58882141113281,
+            162.02000427246094,
+            84.74337768554688,
             500.0963439941406,
             96.96466064453125
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 12,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Courier New",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.8330000042915344,
-              "descender": -0.18799999356269836,
-              "text": "o",
-              "origin": [
-                144.02000427246094,
-                94.58001708984375
-              ],
-              "bbox": [
-                144.02000427246094,
-                85.38369750976562,
-                150.6439971923828,
-                96.6555404663086
-              ]
-            },
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                150.6199951171875,
-                94.58001708984375
-              ],
-              "bbox": [
-                150.6199951171875,
-                84.58882141113281,
-                153.68911743164062,
-                96.8984146118164
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -3017,7 +2831,41 @@
           ]
         },
         {
-          "y": 97,
+          "y": 85.4,
+          "text": "o",
+          "bbox": [
+            144.02000427246094,
+            85.38369750976562,
+            150.6439971923828,
+            96.6555404663086
+          ],
+          "spans": [
+            {
+              "size": 11.039999961853027,
+              "flags": 12,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Courier New",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.8330000042915344,
+              "descender": -0.18799999356269836,
+              "text": "o",
+              "origin": [
+                144.02000427246094,
+                94.58001708984375
+              ],
+              "bbox": [
+                144.02000427246094,
+                85.38369750976562,
+                150.6439971923828,
+                96.6555404663086
+              ]
+            }
+          ]
+        },
+        {
+          "y": 97.5,
           "text": "could-morning-light-help-keep-us-lean",
           "bbox": [
             162.02000427246094,
@@ -3073,13 +2921,13 @@
           ]
         },
         {
-          "y": 110,
-          "text": " Links to other news stories, scientific research, and biographical",
+          "y": 110.0,
+          "text": "",
           "bbox": [
             180.02000427246094,
-            109.90882873535156,
-            483.75640869140625,
-            122.28466796875
+            109.97506713867188,
+            185.07632446289062,
+            122.16322326660156
           ],
           "spans": [
             {
@@ -3103,29 +2951,19 @@
                 185.07632446289062,
                 122.16322326660156
               ]
-            },
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                185.05999755859375,
-                119.9000244140625
-              ],
-              "bbox": [
-                185.05999755859375,
-                109.90882873535156,
-                188.12911987304688,
-                122.21842193603516
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 110.1,
+          "text": "Links to other news stories, scientific research, and biographical",
+          "bbox": [
+            198.0500030517578,
+            110.06338500976562,
+            483.75640869140625,
+            122.28466796875
+          ],
+          "spans": [
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -3151,7 +2989,7 @@
           ]
         },
         {
-          "y": 123,
+          "y": 122.8,
           "text": "information for story’s interviewees",
           "bbox": [
             198.0500030517578,
@@ -3185,7 +3023,7 @@
           ]
         },
         {
-          "y": 163,
+          "y": 163.0,
           "text": "Tips To Maintain a Successful Blog",
           "bbox": [
             90.02400207519531,
@@ -3219,7 +3057,7 @@
           ]
         },
         {
-          "y": 189,
+          "y": 188.8,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -3253,37 +3091,15 @@
           ]
         },
         {
-          "y": 190,
+          "y": 190.1,
           "text": "Make post titles eye-catching but also reasonably accurate.",
           "bbox": [
-            113.05999755859375,
-            189.9488067626953,
+            126.0199966430664,
+            190.10336303710938,
             390.5500183105469,
             202.32464599609375
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                113.05999755859375,
-                199.94000244140625
-              ],
-              "bbox": [
-                113.05999755859375,
-                189.9488067626953,
-                116.12911987304688,
-                202.25840759277344
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -3309,59 +3125,15 @@
           ]
         },
         {
-          "y": 203,
-          "text": "o Example: “Trash Talk” is a post about waste management.",
+          "y": 202.8,
+          "text": "Example: “Trash Talk” is a post about waste management.",
           "bbox": [
-            144.02000427246094,
-            202.6687774658203,
+            162.02000427246094,
+            202.82333374023438,
             422.95001220703125,
             215.04461669921875
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 12,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Courier New",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.8330000042915344,
-              "descender": -0.18799999356269836,
-              "text": "o",
-              "origin": [
-                144.02000427246094,
-                212.65997314453125
-              ],
-              "bbox": [
-                144.02000427246094,
-                203.46365356445312,
-                150.6439971923828,
-                214.73548889160156
-              ]
-            },
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                150.6199951171875,
-                212.65997314453125
-              ],
-              "bbox": [
-                150.6199951171875,
-                202.6687774658203,
-                153.68911743164062,
-                214.97837829589844
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -3387,13 +3159,47 @@
           ]
         },
         {
-          "y": 215,
-          "text": "",
+          "y": 203.5,
+          "text": "o",
+          "bbox": [
+            144.02000427246094,
+            203.46365356445312,
+            150.6439971923828,
+            214.73548889160156
+          ],
+          "spans": [
+            {
+              "size": 11.039999961853027,
+              "flags": 12,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Courier New",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.8330000042915344,
+              "descender": -0.18799999356269836,
+              "text": "o",
+              "origin": [
+                144.02000427246094,
+                212.65997314453125
+              ],
+              "bbox": [
+                144.02000427246094,
+                203.46365356445312,
+                150.6439971923828,
+                214.73548889160156
+              ]
+            }
+          ]
+        },
+        {
+          "y": 215.5,
+          "text": " http://blogs.nicholas.duke.edu/devilfish/the-trash-talk/",
           "bbox": [
             180.02000427246094,
-            215.38880920410156,
-            188.12911987304688,
-            227.6984100341797
+            215.45504760742188,
+            442.27001953125,
+            227.7646484375
           ],
           "spans": [
             {
@@ -3418,40 +3224,6 @@
                 227.64320373535156
               ]
             },
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                185.05999755859375,
-                225.3800048828125
-              ],
-              "bbox": [
-                185.05999755859375,
-                215.38880920410156,
-                188.12911987304688,
-                227.6984100341797
-              ]
-            }
-          ]
-        },
-        {
-          "y": 216,
-          "text": "http://blogs.nicholas.duke.edu/devilfish/the-trash-talk/",
-          "bbox": [
-            198.0500030517578,
-            215.54336547851562,
-            442.27001953125,
-            227.7646484375
-          ],
-          "spans": [
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -3499,7 +3271,7 @@
           ]
         },
         {
-          "y": 240,
+          "y": 240.3,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -3533,7 +3305,7 @@
           ]
         },
         {
-          "y": 242,
+          "y": 241.6,
           "text": "Consider using the tag function in each post. This will help guide readers through your",
           "bbox": [
             126.0199966430664,
@@ -3567,7 +3339,7 @@
           ]
         },
         {
-          "y": 254,
+          "y": 254.3,
           "text": "content thematically instead of chronologically. Keep tags consistent, including",
           "bbox": [
             126.0199966430664,
@@ -3601,7 +3373,7 @@
           ]
         },
         {
-          "y": 267,
+          "y": 266.9,
           "text": "punctuation. For example, “African-American” and “African American” would be",
           "bbox": [
             126.0199966430664,
@@ -3635,7 +3407,7 @@
           ]
         },
         {
-          "y": 280,
+          "y": 279.5,
           "text": "regarded as two different tags because of the hyphen.",
           "bbox": [
             126.0199966430664,
@@ -3669,7 +3441,7 @@
           ]
         },
         {
-          "y": 304,
+          "y": 304.3,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -3703,7 +3475,7 @@
           ]
         },
         {
-          "y": 306,
+          "y": 305.6,
           "text": "If your hosting platform allows, link to similar blogs in order to increase your traffic.",
           "bbox": [
             126.0199966430664,
@@ -3737,7 +3509,7 @@
           ]
         },
         {
-          "y": 330,
+          "y": 330.5,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -3771,37 +3543,15 @@
           ]
         },
         {
-          "y": 332,
+          "y": 331.7,
           "text": "Unlike other writing contexts, you may find it difficult to identify your audience when",
           "bbox": [
-            113.05999755859375,
-            331.57879638671875,
+            126.0199966430664,
+            331.7333679199219,
             508.732666015625,
             343.95465087890625
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                113.05999755859375,
-                341.57000732421875
-              ],
-              "bbox": [
-                113.05999755859375,
-                331.57879638671875,
-                116.12911987304688,
-                343.8883972167969
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -3827,7 +3577,7 @@
           ]
         },
         {
-          "y": 344,
+          "y": 344.5,
           "text": "you are composing blog posts. If your blog is public, you could have a large, diverse, and",
           "bbox": [
             126.0199966430664,
@@ -3861,7 +3611,7 @@
           ]
         },
         {
-          "y": 357,
+          "y": 357.1,
           "text": "even global readership. Be aware that you are potentially addressing people with very",
           "bbox": [
             126.0199966430664,
@@ -3895,7 +3645,7 @@
           ]
         },
         {
-          "y": 370,
+          "y": 369.7,
           "text": "different knowledge bases and cultural assumptions than yours.",
           "bbox": [
             126.0199966430664,
@@ -3929,7 +3679,7 @@
           ]
         },
         {
-          "y": 394,
+          "y": 394.4,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -3963,37 +3713,15 @@
           ]
         },
         {
-          "y": 396,
+          "y": 395.7,
           "text": "Handle comments with care. As the blog’s creator, the way you handle dissenting or",
           "bbox": [
-            113.05999755859375,
-            395.5387878417969,
+            126.0199966430664,
+            395.693359375,
             500.12945556640625,
             407.9146423339844
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                113.05999755859375,
-                405.5299987792969
-              ],
-              "bbox": [
-                113.05999755859375,
-                395.5387878417969,
-                116.12911987304688,
-                407.848388671875
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -4019,7 +3747,7 @@
           ]
         },
         {
-          "y": 408,
+          "y": 408.4,
           "text": "inflammatory voices sets the tone for your readers. Consider adjusting your platform’s",
           "bbox": [
             126.0199966430664,
@@ -4053,7 +3781,7 @@
           ]
         },
         {
-          "y": 421,
+          "y": 421.1,
           "text": "comment settings if you need to regulate the conversation. For instance, requiring",
           "bbox": [
             126.0199966430664,
@@ -4087,7 +3815,7 @@
           ]
         },
         {
-          "y": 434,
+          "y": 433.8,
           "text": "minimum identification to post a comment can address the problem of inappropriate posts",
           "bbox": [
             126.0199966430664,
@@ -4121,7 +3849,7 @@
           ]
         },
         {
-          "y": 446,
+          "y": 446.4,
           "text": "by increasing a writer’s accountability.",
           "bbox": [
             126.0199966430664,
@@ -4155,7 +3883,7 @@
           ]
         },
         {
-          "y": 487,
+          "y": 486.7,
           "text": "Examples of Blogs",
           "bbox": [
             90.02400207519531,
@@ -4189,7 +3917,7 @@
           ]
         },
         {
-          "y": 514,
+          "y": 514.3,
           "text": "Academic and Professional Blogs",
           "bbox": [
             90.02400207519531,
@@ -4223,7 +3951,7 @@
           ]
         },
         {
-          "y": 528,
+          "y": 527.5,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -4257,37 +3985,15 @@
           ]
         },
         {
-          "y": 529,
+          "y": 528.8,
           "text": "http://blogs.nicholas.duke.edu/",
           "bbox": [
-            113.05999755859375,
-            528.6387939453125,
+            126.0199966430664,
+            528.7933349609375,
             264.1700134277344,
             541.0146484375
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                113.05999755859375,
-                538.6300048828125
-              ],
-              "bbox": [
-                113.05999755859375,
-                528.6387939453125,
-                116.12911987304688,
-                540.9484252929688
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -4335,37 +4041,15 @@
           ]
         },
         {
-          "y": 542,
-          "text": "o Student, faculty, and alumni blogs related to Duke’s Nicholas School of the",
+          "y": 541.5,
+          "text": "Student, faculty, and alumni blogs related to Duke’s Nicholas School of the",
           "bbox": [
-            144.02000427246094,
+            162.02000427246094,
             541.5133056640625,
             497.7016296386719,
             553.734619140625
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 12,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Courier New",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.8330000042915344,
-              "descender": -0.18799999356269836,
-              "text": "o",
-              "origin": [
-                144.02000427246094,
-                551.3499755859375
-              ],
-              "bbox": [
-                144.02000427246094,
-                542.1536865234375,
-                150.6439971923828,
-                553.4254760742188
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -4391,7 +4075,41 @@
           ]
         },
         {
-          "y": 554,
+          "y": 542.2,
+          "text": "o",
+          "bbox": [
+            144.02000427246094,
+            542.1536865234375,
+            150.6439971923828,
+            553.4254760742188
+          ],
+          "spans": [
+            {
+              "size": 11.039999961853027,
+              "flags": 12,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Courier New",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.8330000042915344,
+              "descender": -0.18799999356269836,
+              "text": "o",
+              "origin": [
+                144.02000427246094,
+                551.3499755859375
+              ],
+              "bbox": [
+                144.02000427246094,
+                542.1536865234375,
+                150.6439971923828,
+                553.4254760742188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 554.1,
           "text": "Environment.",
           "bbox": [
             162.02000427246094,
@@ -4425,7 +4143,7 @@
           ]
         },
         {
-          "y": 579,
+          "y": 578.9,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -4459,37 +4177,15 @@
           ]
         },
         {
-          "y": 580,
+          "y": 580.2,
           "text": "http://www.wired.com/category/elemental/",
           "bbox": [
-            113.05999755859375,
-            579.998779296875,
+            126.0199966430664,
+            580.1533203125,
             318.1700134277344,
             592.3746337890625
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                113.05999755859375,
-                589.989990234375
-              ],
-              "bbox": [
-                113.05999755859375,
-                579.998779296875,
-                116.12911987304688,
-                592.3084106445312
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -4537,37 +4233,15 @@
           ]
         },
         {
-          "y": 593,
+          "y": 592.9,
           "text": "The science blog of Wired magazine’s Deborah Blum.",
           "bbox": [
-            150.6199951171875,
-            592.7188110351562,
+            162.02000427246094,
+            592.8734130859375,
             404.3500061035156,
             605.0946655273438
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                150.6199951171875,
-                602.7100219726562
-              ],
-              "bbox": [
-                150.6199951171875,
-                592.7188110351562,
-                153.68911743164062,
-                605.0284423828125
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -4637,7 +4311,7 @@
           ]
         },
         {
-          "y": 594,
+          "y": 593.5,
           "text": "o",
           "bbox": [
             144.02000427246094,
@@ -4671,7 +4345,7 @@
           ]
         },
         {
-          "y": 618,
+          "y": 617.7,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -4705,37 +4379,15 @@
           ]
         },
         {
-          "y": 619,
+          "y": 618.9,
           "text": "http://www.scotusblog.com/",
           "bbox": [
-            113.05999755859375,
-            618.788818359375,
+            126.0199966430664,
+            618.943359375,
             256.1300048828125,
             631.1646728515625
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                113.05999755859375,
-                628.780029296875
-              ],
-              "bbox": [
-                113.05999755859375,
-                618.788818359375,
-                116.12911987304688,
-                631.0984497070312
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -4783,59 +4435,15 @@
           ]
         },
         {
-          "y": 632,
-          "text": "o Updates and news from the Supreme Court of the United States.",
+          "y": 631.7,
+          "text": "Updates and news from the Supreme Court of the United States.",
           "bbox": [
-            144.02000427246094,
-            631.5087890625,
+            162.02000427246094,
+            631.663330078125,
             447.4300231933594,
             643.8846435546875
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 12,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Courier New",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.8330000042915344,
-              "descender": -0.18799999356269836,
-              "text": "o",
-              "origin": [
-                144.02000427246094,
-                641.5
-              ],
-              "bbox": [
-                144.02000427246094,
-                632.3037109375,
-                150.6439971923828,
-                643.5755004882812
-              ]
-            },
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                150.6199951171875,
-                641.5
-              ],
-              "bbox": [
-                150.6199951171875,
-                631.5087890625,
-                153.68911743164062,
-                643.8184204101562
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -4861,7 +4469,41 @@
           ]
         },
         {
-          "y": 656,
+          "y": 632.3,
+          "text": "o",
+          "bbox": [
+            144.02000427246094,
+            632.3037109375,
+            150.6439971923828,
+            643.5755004882812
+          ],
+          "spans": [
+            {
+              "size": 11.039999961853027,
+              "flags": 12,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Courier New",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.8330000042915344,
+              "descender": -0.18799999356269836,
+              "text": "o",
+              "origin": [
+                144.02000427246094,
+                641.5
+              ],
+              "bbox": [
+                144.02000427246094,
+                632.3037109375,
+                150.6439971923828,
+                643.5755004882812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 656.4,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -4895,37 +4537,15 @@
           ]
         },
         {
-          "y": 658,
+          "y": 657.7,
           "text": "http://www.newyorker.com/online/blogs/culture/emily-nussbaum",
           "bbox": [
-            113.05999755859375,
-            657.5487670898438,
+            126.0199966430664,
+            657.703369140625,
             417.19000244140625,
             669.9246215820312
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                113.05999755859375,
-                667.5399780273438
-              ],
-              "bbox": [
-                113.05999755859375,
-                657.5487670898438,
-                116.12911987304688,
-                669.8583984375
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -4973,37 +4593,15 @@
           ]
         },
         {
-          "y": 670,
+          "y": 670.4,
           "text": "Notes on arts and culture from the New Yorker’s TV critic.",
           "bbox": [
-            150.6199951171875,
-            670.268798828125,
+            162.02000427246094,
+            670.42333984375,
             423.5500183105469,
             682.6446533203125
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                150.6199951171875,
-                680.260009765625
-              ],
-              "bbox": [
-                150.6199951171875,
-                670.268798828125,
-                153.68911743164062,
-                682.5784301757812
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -5073,7 +4671,7 @@
           ]
         },
         {
-          "y": 671,
+          "y": 671.1,
           "text": "o",
           "bbox": [
             144.02000427246094,
@@ -5107,7 +4705,7 @@
           ]
         },
         {
-          "y": 697,
+          "y": 696.8,
           "text": "Personal, Project-Based, and Narrative Blogs",
           "bbox": [
             90.02400207519531,
@@ -5148,7 +4746,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 36,
+          "y": 36.0,
           "text": "4",
           "bbox": [
             515.5,
@@ -5182,7 +4780,7 @@
           ]
         },
         {
-          "y": 72,
+          "y": 71.6,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -5216,37 +4814,15 @@
           ]
         },
         {
-          "y": 73,
+          "y": 72.8,
           "text": "http://dooce.com/",
           "bbox": [
-            113.05999755859375,
-            72.68879699707031,
+            126.0199966430664,
+            72.84335327148438,
             208.84999084472656,
             85.06463623046875
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                113.05999755859375,
-                82.67999267578125
-              ],
-              "bbox": [
-                113.05999755859375,
-                72.68879699707031,
-                116.12911987304688,
-                84.9983901977539
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -5294,37 +4870,15 @@
           ]
         },
         {
-          "y": 86,
-          "text": "o Although she was one of the first people fired for the content of her personal",
+          "y": 85.6,
+          "text": "Although she was one of the first people fired for the content of her personal",
           "bbox": [
-            144.02000427246094,
+            162.02000427246094,
             85.58334350585938,
             502.1036376953125,
             97.80462646484375
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 12,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Courier New",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.8330000042915344,
-              "descender": -0.18799999356269836,
-              "text": "o",
-              "origin": [
-                144.02000427246094,
-                95.41998291015625
-              ],
-              "bbox": [
-                144.02000427246094,
-                86.22366333007812,
-                150.6439971923828,
-                97.4955062866211
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -5350,7 +4904,41 @@
           ]
         },
         {
-          "y": 98,
+          "y": 86.2,
+          "text": "o",
+          "bbox": [
+            144.02000427246094,
+            86.22366333007812,
+            150.6439971923828,
+            97.4955062866211
+          ],
+          "spans": [
+            {
+              "size": 11.039999961853027,
+              "flags": 12,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Courier New",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.8330000042915344,
+              "descender": -0.18799999356269836,
+              "text": "o",
+              "origin": [
+                144.02000427246094,
+                95.41998291015625
+              ],
+              "bbox": [
+                144.02000427246094,
+                86.22366333007812,
+                150.6439971923828,
+                97.4955062866211
+              ]
+            }
+          ]
+        },
+        {
+          "y": 98.2,
           "text": "blog, Heather Armstrong has been updating it for over a decade.",
           "bbox": [
             162.02000427246094,
@@ -5384,7 +4972,7 @@
           ]
         },
         {
-          "y": 123,
+          "y": 123.0,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -5418,37 +5006,15 @@
           ]
         },
         {
-          "y": 124,
+          "y": 124.2,
           "text": "http://fortydaysofdating.com/",
           "bbox": [
-            113.05999755859375,
-            124.06880187988281,
+            126.0199966430664,
+            124.22335815429688,
             260.80999755859375,
             136.44464111328125
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                113.05999755859375,
-                134.05999755859375
-              ],
-              "bbox": [
-                113.05999755859375,
-                124.06880187988281,
-                116.12911987304688,
-                136.37840270996094
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -5496,37 +5062,15 @@
           ]
         },
         {
-          "y": 137,
+          "y": 136.9,
           "text": "Two best friends decide to date for 40 days and record their interactions.",
           "bbox": [
-            150.6199951171875,
-            136.78883361816406,
+            162.02000427246094,
+            136.94338989257812,
             483.94000244140625,
             149.1646728515625
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                150.6199951171875,
-                146.780029296875
-              ],
-              "bbox": [
-                150.6199951171875,
-                136.78883361816406,
-                153.68911743164062,
-                149.0984344482422
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -5552,7 +5096,7 @@
           ]
         },
         {
-          "y": 138,
+          "y": 137.6,
           "text": "o",
           "bbox": [
             144.02000427246094,
@@ -5586,7 +5130,7 @@
           ]
         },
         {
-          "y": 162,
+          "y": 161.7,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -5620,37 +5164,15 @@
           ]
         },
         {
-          "y": 163,
+          "y": 163.0,
           "text": "http://www.greenkitchenstories.com/",
           "bbox": [
-            113.05999755859375,
-            162.8288116455078,
+            126.0199966430664,
+            162.98336791992188,
             292.010009765625,
             175.20465087890625
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                113.05999755859375,
-                172.82000732421875
-              ],
-              "bbox": [
-                113.05999755859375,
-                162.8288116455078,
-                116.12911987304688,
-                175.13841247558594
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -5698,59 +5220,15 @@
           ]
         },
         {
-          "y": 176,
-          "text": "o Vegetarian recipes and lifestyle tips plus glossy food photography.",
+          "y": 175.7,
+          "text": "Vegetarian recipes and lifestyle tips plus glossy food photography.",
           "bbox": [
-            144.02000427246094,
-            175.5487823486328,
+            162.02000427246094,
+            175.70333862304688,
             461.260009765625,
             187.92462158203125
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 12,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Courier New",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.8330000042915344,
-              "descender": -0.18799999356269836,
-              "text": "o",
-              "origin": [
-                144.02000427246094,
-                185.53997802734375
-              ],
-              "bbox": [
-                144.02000427246094,
-                176.34365844726562,
-                150.6439971923828,
-                187.61549377441406
-              ]
-            },
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                150.6199951171875,
-                185.53997802734375
-              ],
-              "bbox": [
-                150.6199951171875,
-                175.5487823486328,
-                153.68911743164062,
-                187.85838317871094
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -5776,7 +5254,41 @@
           ]
         },
         {
-          "y": 200,
+          "y": 176.3,
+          "text": "o",
+          "bbox": [
+            144.02000427246094,
+            176.34365844726562,
+            150.6439971923828,
+            187.61549377441406
+          ],
+          "spans": [
+            {
+              "size": 11.039999961853027,
+              "flags": 12,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Courier New",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.8330000042915344,
+              "descender": -0.18799999356269836,
+              "text": "o",
+              "origin": [
+                144.02000427246094,
+                185.53997802734375
+              ],
+              "bbox": [
+                144.02000427246094,
+                176.34365844726562,
+                150.6439971923828,
+                187.61549377441406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 200.5,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -5810,37 +5322,15 @@
           ]
         },
         {
-          "y": 202,
+          "y": 201.7,
           "text": "http://ww2today.com/",
           "bbox": [
-            113.05999755859375,
-            201.5888214111328,
+            126.0199966430664,
+            201.74337768554688,
             225.64999389648438,
             213.96466064453125
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                113.05999755859375,
-                211.58001708984375
-              ],
-              "bbox": [
-                113.05999755859375,
-                201.5888214111328,
-                116.12911987304688,
-                213.89842224121094
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -5888,37 +5378,15 @@
           ]
         },
         {
-          "y": 214,
+          "y": 214.5,
           "text": "Martin Cherritt’s blog covers World War II one day at a time.",
           "bbox": [
-            150.6199951171875,
-            214.3087921142578,
+            162.02000427246094,
+            214.46334838867188,
             436.75,
             226.68463134765625
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                150.6199951171875,
-                224.29998779296875
-              ],
-              "bbox": [
-                150.6199951171875,
-                214.3087921142578,
-                153.68911743164062,
-                226.61839294433594
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -5944,7 +5412,7 @@
           ]
         },
         {
-          "y": 215,
+          "y": 215.1,
           "text": "o",
           "bbox": [
             144.02000427246094,
@@ -5978,7 +5446,7 @@
           ]
         },
         {
-          "y": 239,
+          "y": 239.2,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -6012,7 +5480,7 @@
           ]
         },
         {
-          "y": 241,
+          "y": 240.5,
           "text": "http://blog.inkyfool.com/",
           "bbox": [
             126.0199966430664,
@@ -6068,37 +5536,15 @@
           ]
         },
         {
-          "y": 253,
+          "y": 253.3,
           "text": "Collected musings on words, phrases, grammar, and rhetoric.",
           "bbox": [
-            150.6199951171875,
-            253.0988311767578,
+            162.02000427246094,
+            253.25338745117188,
             434.71002197265625,
             265.47467041015625
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                150.6199951171875,
-                263.09002685546875
-              ],
-              "bbox": [
-                150.6199951171875,
-                253.0988311767578,
-                153.68911743164062,
-                265.4084167480469
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -6124,7 +5570,7 @@
           ]
         },
         {
-          "y": 254,
+          "y": 253.9,
           "text": "o",
           "bbox": [
             144.02000427246094,
@@ -6158,7 +5604,7 @@
           ]
         },
         {
-          "y": 278,
+          "y": 277.9,
           "text": "",
           "bbox": [
             108.0199966430664,
@@ -6192,37 +5638,15 @@
           ]
         },
         {
-          "y": 279,
+          "y": 279.2,
           "text": "http://maddieonthings.com/",
           "bbox": [
-            113.05999755859375,
-            279.018798828125,
+            126.0199966430664,
+            279.1733703613281,
             252.88999938964844,
             291.3946533203125
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                113.05999755859375,
-                289.010009765625
-              ],
-              "bbox": [
-                113.05999755859375,
-                279.018798828125,
-                116.12911987304688,
-                291.3283996582031
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -6270,37 +5694,15 @@
           ]
         },
         {
-          "y": 292,
+          "y": 291.9,
           "text": "Theron Humphrey takes photographs of his coonhound, Maddie.",
           "bbox": [
-            150.6199951171875,
-            291.7388000488281,
+            162.02000427246094,
+            291.89337158203125,
             449.95001220703125,
             304.1146545410156
           ],
           "spans": [
-            {
-              "size": 11.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                150.6199951171875,
-                301.7300109863281
-              ],
-              "bbox": [
-                150.6199951171875,
-                291.7388000488281,
-                153.68911743164062,
-                304.04840087890625
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 4,
@@ -6326,7 +5728,7 @@
           ]
         },
         {
-          "y": 293,
+          "y": 292.5,
           "text": "o",
           "bbox": [
             144.02000427246094,
@@ -6360,7 +5762,7 @@
           ]
         },
         {
-          "y": 374,
+          "y": 373.7,
           "text": "Works Cited",
           "bbox": [
             351.07000732421875,
@@ -6394,7 +5796,7 @@
           ]
         },
         {
-          "y": 413,
+          "y": 413.0,
           "text": "nd",
           "bbox": [
             510.1000061035156,
@@ -6428,7 +5830,7 @@
           ]
         },
         {
-          "y": 415,
+          "y": 415.0,
           "text": "Rettberg, Jil Walker. Blogging . 2",
           "bbox": [
             351.07000732421875,
@@ -6528,7 +5930,7 @@
           ]
         },
         {
-          "y": 429,
+          "y": 428.8,
           "text": "ed. Cambridge, UK: Polity Books,",
           "bbox": [
             351.07000732421875,
@@ -6562,7 +5964,7 @@
           ]
         },
         {
-          "y": 443,
+          "y": 442.6,
           "text": "2014. Print.",
           "bbox": [
             351.07000732421875,
@@ -6596,7 +5998,7 @@
           ]
         },
         {
-          "y": 581,
+          "y": 581.4,
           "text": "maddieonthings.com",
           "bbox": [
             170.4199981689453,

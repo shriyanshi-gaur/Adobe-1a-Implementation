@@ -1,0 +1,60 @@
+{
+  "title": "Untitled Document",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "1. Background",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2.1 Technical Review",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Intended Use",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Model Evaluation",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Operational Readiness",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "False Negatives",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Insufficient Data",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "False Positives",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Lack of Trust and Ownership",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Lack of Transparency",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Inaction",
+      "page": 4
+    }
+  ]
+}

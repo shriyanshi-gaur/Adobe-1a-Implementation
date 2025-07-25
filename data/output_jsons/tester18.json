@@ -1,0 +1,40 @@
+{
+  "title": "MYTH #1:",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "MYTH #1:",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "FACT:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "MYTH #2:",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "FACT:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "MYTH #3:",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "FACT:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Need more Info?",
+      "page": 1
+    }
+  ]
+}

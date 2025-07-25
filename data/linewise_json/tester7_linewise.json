@@ -7,7 +7,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 11,
+          "y": 11.0,
           "text": "Congressman Travis Childers Backs Investigation of Economic Crisis, Votes for Final Passage of Fraud",
           "bbox": [
             45.349998474121094,
@@ -41,37 +41,15 @@
           ]
         },
         {
-          "y": 104,
+          "y": 103.7,
           "text": "Congressman Travis Childers Backs Investigation of Economic Crisis, Votes for Final",
           "bbox": [
-            42.79999923706055,
+            50.040000915527344,
             103.73200988769531,
             538.1878662109375,
-            123.14801788330078
+            121.90001678466797
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "FreeSans",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.1410000324249268,
-              "descender": -0.45899999141693115,
-              "text": "  ",
-              "origin": [
-                42.79999923706055,
-                117.6400146484375
-              ],
-              "bbox": [
-                42.79999923706055,
-                103.94801330566406,
-                49.47200012207031,
-                123.14801788330078
-              ]
-            },
             {
               "size": 12.0,
               "flags": 20,
@@ -97,13 +75,13 @@
           ]
         },
         {
-          "y": 119,
+          "y": 118.7,
           "text": "Passage of Fraud Enforcement and Recovery Act",
           "bbox": [
             42.79999923706055,
             118.73200988769531,
-            342.0279846191406,
-            138.14801025390625
+            324.21197509765625,
+            136.90000915527344
           ],
           "spans": [
             {
@@ -127,33 +105,11 @@
                 324.21197509765625,
                 136.90000915527344
               ]
-            },
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "FreeSans",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.1410000324249268,
-              "descender": -0.45899999141693115,
-              "text": "    ",
-              "origin": [
-                324.21197509765625,
-                132.6400146484375
-              ],
-              "bbox": [
-                324.21197509765625,
-                118.94801330566406,
-                342.0279846191406,
-                138.14801025390625
-              ]
             }
           ]
         },
         {
-          "y": 179,
+          "y": 178.9,
           "text": "May 6, 2009",
           "bbox": [
             42.79999923706055,
@@ -187,7 +143,7 @@
           ]
         },
         {
-          "y": 239,
+          "y": 238.9,
           "text": "Washington, DC - Congressman Travis Childers (D-MS) today joined a majority of his",
           "bbox": [
             42.79999923706055,
@@ -221,7 +177,7 @@
           ]
         },
         {
-          "y": 254,
+          "y": 253.9,
           "text": "colleagues in supporting final passage of the Fraud Enforcement and Recovery Act of 2009,",
           "bbox": [
             42.79999923706055,
@@ -255,7 +211,7 @@
           ]
         },
         {
-          "y": 269,
+          "y": 268.9,
           "text": "which won bipartisan House approval by a vote of 367 to 59. The legislation will provide critical",
           "bbox": [
             42.79999923706055,
@@ -289,7 +245,7 @@
           ]
         },
         {
-          "y": 284,
+          "y": 283.9,
           "text": "funding and tools to help law enforcement pursue and prosecute the type of fraud many blame",
           "bbox": [
             42.79999923706055,
@@ -323,7 +279,7 @@
           ]
         },
         {
-          "y": 299,
+          "y": 298.9,
           "text": "for the worst financial crisis in decades, and establishes a bipartisan commission to investigate",
           "bbox": [
             42.79999923706055,
@@ -357,7 +313,7 @@
           ]
         },
         {
-          "y": 314,
+          "y": 313.9,
           "text": "the causes of the financial system's collapse and the ensuing recession.",
           "bbox": [
             42.79999923706055,
@@ -391,7 +347,7 @@
           ]
         },
         {
-          "y": 374,
+          "y": 373.9,
           "text": "The bill passed in the Senate on April 28 by a vote of 92 to 4.",
           "bbox": [
             42.79999923706055,
@@ -425,7 +381,7 @@
           ]
         },
         {
-          "y": 434,
+          "y": 433.9,
           "text": "&quot;In the face of today's economic crisis, hard working North Mississippians have lost their",
           "bbox": [
             42.79999923706055,
@@ -459,7 +415,7 @@
           ]
         },
         {
-          "y": 449,
+          "y": 448.9,
           "text": "homes, their savings, and their jobs. This bill demands oversight and accountability from the",
           "bbox": [
             42.79999923706055,
@@ -493,7 +449,7 @@
           ]
         },
         {
-          "y": 464,
+          "y": 463.9,
           "text": "fraudulent institutions that got us into this mess,&quot; said Congressman Childers.",
           "bbox": [
             42.79999923706055,
@@ -527,7 +483,7 @@
           ]
         },
         {
-          "y": 479,
+          "y": 478.9,
           "text": "&quot;When I voted twice against TARP authorization, I disapproved that it lacked adequate",
           "bbox": [
             42.79999923706055,
@@ -561,7 +517,7 @@
           ]
         },
         {
-          "y": 494,
+          "y": 493.9,
           "text": "oversight and accountability when it came to spending billions of hard-earned taxpayer dollars.",
           "bbox": [
             42.79999923706055,
@@ -595,7 +551,7 @@
           ]
         },
         {
-          "y": 509,
+          "y": 508.9,
           "text": "Today, I am proud to support the Fraud Enforcement and Recovery Act to help determine the",
           "bbox": [
             42.79999923706055,
@@ -629,7 +585,7 @@
           ]
         },
         {
-          "y": 524,
+          "y": 523.9,
           "text": "causes of our current financial troubles, hold the responsible institutions accountable, and",
           "bbox": [
             42.79999923706055,
@@ -663,7 +619,7 @@
           ]
         },
         {
-          "y": 539,
+          "y": 538.9,
           "text": "ensure that these problems do not happen again. This important legislation also calls for the",
           "bbox": [
             42.79999923706055,
@@ -697,7 +653,7 @@
           ]
         },
         {
-          "y": 554,
+          "y": 553.9,
           "text": "diligent tracking of the funds it authorizes for these investigations, adding another level of",
           "bbox": [
             42.79999923706055,
@@ -731,7 +687,7 @@
           ]
         },
         {
-          "y": 569,
+          "y": 568.9,
           "text": "transparency to the process.&quot;",
           "bbox": [
             42.79999923706055,
@@ -765,7 +721,7 @@
           ]
         },
         {
-          "y": 629,
+          "y": 628.9,
           "text": "The Fraud Enforcement and Recovery Act is the latest in a series of consumer protection",
           "bbox": [
             42.79999923706055,
@@ -799,7 +755,7 @@
           ]
         },
         {
-          "y": 644,
+          "y": 643.9,
           "text": "reforms recently passed by the House. Last week, the House passed the Credit Cardholders'",
           "bbox": [
             42.79999923706055,
@@ -833,7 +789,7 @@
           ]
         },
         {
-          "y": 659,
+          "y": 658.9,
           "text": "Bill of Rights, which includes tough new protections for consumers facing excessive credit card",
           "bbox": [
             42.79999923706055,
@@ -867,7 +823,7 @@
           ]
         },
         {
-          "y": 674,
+          "y": 673.9,
           "text": "fees, sky-high interest rates and unfair agreements that credit card companies revise at will.",
           "bbox": [
             42.79999923706055,
@@ -901,7 +857,7 @@
           ]
         },
         {
-          "y": 689,
+          "y": 688.9,
           "text": "Later this week, the House is expected to vote on the Mortgage Reform and Anti-Predatory",
           "bbox": [
             42.79999923706055,
@@ -935,7 +891,7 @@
           ]
         },
         {
-          "y": 704,
+          "y": 703.9,
           "text": "Lending Act to curb abusive and predatory lending.",
           "bbox": [
             42.79999923706055,
@@ -969,7 +925,7 @@
           ]
         },
         {
-          "y": 802,
+          "y": 801.8,
           "text": "1 / 2",
           "bbox": [
             524.8900146484375,
@@ -1010,7 +966,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 11,
+          "y": 11.0,
           "text": "Congressman Travis Childers Backs Investigation of Economic Crisis, Votes for Final Passage of Fraud",
           "bbox": [
             42.79999923706055,
@@ -1044,7 +1000,7 @@
           ]
         },
         {
-          "y": 74,
+          "y": 73.9,
           "text": "The following measures are included in the Fraud Enforcement and Recovery Act of 2009:",
           "bbox": [
             42.79999923706055,
@@ -1078,7 +1034,7 @@
           ]
         },
         {
-          "y": 119,
+          "y": 118.9,
           "text": "- Prohibits fraudulent activities involving the Troubled Assets Relief Program (TARP) or a",
           "bbox": [
             45.349998474121094,
@@ -1112,7 +1068,7 @@
           ]
         },
         {
-          "y": 134,
+          "y": 133.9,
           "text": "federal economic stimulus, recovery, or rescue plan.",
           "bbox": [
             42.79999923706055,
@@ -1168,7 +1124,7 @@
           ]
         },
         {
-          "y": 149,
+          "y": 148.9,
           "text": "- Authorizes appropriations to the Attorney General for FY 2010-FY2011 for investigations,",
           "bbox": [
             45.349998474121094,
@@ -1202,7 +1158,7 @@
           ]
         },
         {
-          "y": 164,
+          "y": 163.9,
           "text": "prosecutions, and civil proceedings involving federal assistance programs and financial",
           "bbox": [
             42.79999923706055,
@@ -1236,7 +1192,7 @@
           ]
         },
         {
-          "y": 179,
+          "y": 178.9,
           "text": "institutions. Allocates such funds among various departments of the Department of Justice",
           "bbox": [
             42.79999923706055,
@@ -1270,7 +1226,7 @@
           ]
         },
         {
-          "y": 194,
+          "y": 193.9,
           "text": "(DOJ).",
           "bbox": [
             42.79999923706055,
@@ -1326,7 +1282,7 @@
           ]
         },
         {
-          "y": 209,
+          "y": 208.9,
           "text": "- Requires the Attorney General, in consultation with the U.S. Postal Inspection Service, the",
           "bbox": [
             45.349998474121094,
@@ -1360,7 +1316,7 @@
           ]
         },
         {
-          "y": 224,
+          "y": 223.9,
           "text": "Inspector General for HUD, and the Secretary of Homeland Security, to submit a joint report to",
           "bbox": [
             42.79999923706055,
@@ -1394,7 +1350,7 @@
           ]
         },
         {
-          "y": 239,
+          "y": 238.9,
           "text": "Congress identifying: 1) amounts spent for investigations, with a certification of compliance that",
           "bbox": [
             42.79999923706055,
@@ -1428,7 +1384,7 @@
           ]
         },
         {
-          "y": 254,
+          "y": 253.9,
           "text": "funds have been spent in accordance with this Act, and 2) amounts recovered from criminal or",
           "bbox": [
             42.79999923706055,
@@ -1462,7 +1418,7 @@
           ]
         },
         {
-          "y": 269,
+          "y": 268.9,
           "text": "civil restitution, fines, penalties, and other monetary recoveries.",
           "bbox": [
             42.79999923706055,
@@ -1518,7 +1474,7 @@
           ]
         },
         {
-          "y": 284,
+          "y": 283.9,
           "text": "- Authorizes appropriations to the Securities and Exchange Commission (SEC) for",
           "bbox": [
             45.349998474121094,
@@ -1552,7 +1508,7 @@
           ]
         },
         {
-          "y": 299,
+          "y": 298.9,
           "text": "FY2010-FY2011 for investigations and enforcement proceedings involving financial institutions",
           "bbox": [
             42.79999923706055,
@@ -1586,7 +1542,7 @@
           ]
         },
         {
-          "y": 314,
+          "y": 313.9,
           "text": "and for the SEC Office of the Inspector General.",
           "bbox": [
             42.79999923706055,
@@ -1642,7 +1598,7 @@
           ]
         },
         {
-          "y": 329,
+          "y": 328.9,
           "text": "- Establishes the bipartisan congressional Financial Markets Commission to examine the",
           "bbox": [
             45.349998474121094,
@@ -1676,7 +1632,7 @@
           ]
         },
         {
-          "y": 344,
+          "y": 343.9,
           "text": "causes of the current U.S. financial and economic crisis, taking into account fraud and abuse in",
           "bbox": [
             42.79999923706055,
@@ -1710,7 +1666,7 @@
           ]
         },
         {
-          "y": 359,
+          "y": 358.9,
           "text": "the financial sector and other specified factors. Requires the Commission to submit a report on",
           "bbox": [
             42.79999923706055,
@@ -1744,7 +1700,7 @@
           ]
         },
         {
-          "y": 374,
+          "y": 373.9,
           "text": "its finding to the President and Congress on December 15, 2010. Requires the Commission",
           "bbox": [
             42.79999923706055,
@@ -1778,7 +1734,7 @@
           ]
         },
         {
-          "y": 389,
+          "y": 388.9,
           "text": "chairperson to appear before specified congressional committees within 120 days after the",
           "bbox": [
             42.79999923706055,
@@ -1812,7 +1768,7 @@
           ]
         },
         {
-          "y": 404,
+          "y": 403.9,
           "text": "submission of the report.",
           "bbox": [
             42.79999923706055,
@@ -1868,7 +1824,7 @@
           ]
         },
         {
-          "y": 419,
+          "y": 418.9,
           "text": "- Establishes a congressional Select Committee on Investigation of the Economic Crisis to",
           "bbox": [
             45.349998474121094,
@@ -1902,7 +1858,7 @@
           ]
         },
         {
-          "y": 434,
+          "y": 433.9,
           "text": "study and investigate the facts and circumstances giving rise to the current U.S. economic crisis",
           "bbox": [
             42.79999923706055,
@@ -1936,7 +1892,7 @@
           ]
         },
         {
-          "y": 449,
+          "y": 448.9,
           "text": "and to recommend actions to prevent a recurrence of such crisis. Requires the Select",
           "bbox": [
             42.79999923706055,
@@ -1970,7 +1926,7 @@
           ]
         },
         {
-          "y": 464,
+          "y": 463.9,
           "text": "Committee to submit initial, updated, and final reports on its investigation to Congress with",
           "bbox": [
             42.79999923706055,
@@ -2004,7 +1960,7 @@
           ]
         },
         {
-          "y": 479,
+          "y": 478.9,
           "text": "findings and recommendations.",
           "bbox": [
             42.79999923706055,
@@ -2060,7 +2016,7 @@
           ]
         },
         {
-          "y": 539,
+          "y": 538.9,
           "text": "# # #",
           "bbox": [
             42.79999923706055,
@@ -2094,7 +2050,7 @@
           ]
         },
         {
-          "y": 802,
+          "y": 801.8,
           "text": "2 / 2",
           "bbox": [
             522.3400268554688,

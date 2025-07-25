@@ -7,7 +7,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 88,
+          "y": 87.7,
           "text": "Adobe LiveCycle Rights Management",
           "bbox": [
             72.0,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 117,
+          "y": 117.3,
           "text": "(ALCRM) servers",
           "bbox": [
             72.0,
@@ -75,13 +75,13 @@
           ]
         },
         {
-          "y": 162,
-          "text": "Adobe LiveCycleRights Management (ALCRM) servers let you define centralized policies to",
+          "y": 161.9,
+          "text": "Adobe LiveCycleRights Management",
           "bbox": [
             72.0,
             161.9040069580078,
-            535.1520385742188,
-            176.7840118408203
+            263.18402099609375,
+            176.68800354003906
           ],
           "spans": [
             {
@@ -105,7 +105,19 @@
                 263.18402099609375,
                 176.68800354003906
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 162.0,
+          "text": "(ALCRM) servers let you define centralized policies to",
+          "bbox": [
+            263.15997314453125,
+            162.02401733398438,
+            535.1520385742188,
+            176.7840118408203
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -131,7 +143,7 @@
           ]
         },
         {
-          "y": 177,
+          "y": 176.8,
           "text": "control access to documents. The policies are stored on the ALCRM server. You require server",
           "bbox": [
             72.0,
@@ -165,7 +177,7 @@
           ]
         },
         {
-          "y": 192,
+          "y": 191.5,
           "text": "access to use them.",
           "bbox": [
             72.0,
@@ -199,7 +211,7 @@
           ]
         },
         {
-          "y": 214,
+          "y": 213.8,
           "text": "ALCRM servers embed user access information in documents. Therefore, specify document",
           "bbox": [
             72.0,
@@ -233,7 +245,7 @@
           ]
         },
         {
-          "y": 229,
+          "y": 228.6,
           "text": "recipients in ALCRM policies. Alternatively, let the ALCRM server retrieve the list of recipients",
           "bbox": [
             72.0,
@@ -267,7 +279,7 @@
           ]
         },
         {
-          "y": 243,
+          "y": 243.3,
           "text": "from LDAP directories.",
           "bbox": [
             72.0,
@@ -301,7 +313,7 @@
           ]
         },
         {
-          "y": 266,
+          "y": 265.6,
           "text": "Use ALCRM servers to set permissions for separate document tasks, for example opening,",
           "bbox": [
             72.0,
@@ -335,7 +347,7 @@
           ]
         },
         {
-          "y": 280,
+          "y": 280.3,
           "text": "editing, and printing. You can also define document auditing policies on ALCRM servers.",
           "bbox": [
             72.0,
@@ -369,7 +381,7 @@
           ]
         },
         {
-          "y": 325,
+          "y": 324.8,
           "text": "What is a digital signature?",
           "bbox": [
             72.0,
@@ -403,7 +415,7 @@
           ]
         },
         {
-          "y": 354,
+          "y": 354.4,
           "text": "Digital signatures are a secure and efficient way to electronically sign and authenticate",
           "bbox": [
             72.0,
@@ -437,7 +449,7 @@
           ]
         },
         {
-          "y": 369,
+          "y": 369.2,
           "text": "documents, ensuring their authenticity and integrity. By using digital signatures, you can sign",
           "bbox": [
             72.0,
@@ -471,7 +483,7 @@
           ]
         },
         {
-          "y": 384,
+          "y": 384.0,
           "text": "documents quickly and easily, and be confident that they can’t be tampered with or forged.",
           "bbox": [
             72.0,
@@ -505,7 +517,7 @@
           ]
         },
         {
-          "y": 428,
+          "y": 428.4,
           "text": "Why validate a digital signature?",
           "bbox": [
             72.0,
@@ -539,7 +551,7 @@
           ]
         },
         {
-          "y": 458,
+          "y": 458.1,
           "text": "When you receive a signed document, you may want to validate its signature to verify the",
           "bbox": [
             72.0,
@@ -573,7 +585,7 @@
           ]
         },
         {
-          "y": 473,
+          "y": 472.8,
           "text": "signer and the signed content. Depending on how you’ve configured your application,",
           "bbox": [
             72.0,
@@ -607,7 +619,7 @@
           ]
         },
         {
-          "y": 488,
+          "y": 487.6,
           "text": "validation may occur automatically. Signature validity is determined by checking the",
           "bbox": [
             72.0,
@@ -641,7 +653,7 @@
           ]
         },
         {
-          "y": 502,
+          "y": 502.3,
           "text": "authenticity of the signature’s digital ID certificate status and document integrity.",
           "bbox": [
             72.0,
@@ -675,7 +687,7 @@
           ]
         },
         {
-          "y": 525,
+          "y": 524.6,
           "text": "To verify authenticity, the validator checks if the signer's certificate or its parent certificates are",
           "bbox": [
             72.0,
@@ -709,7 +721,7 @@
           ]
         },
         {
-          "y": 539,
+          "y": 539.4,
           "text": "trusted. The validity of the signing certificate is also checked based on the user's Acrobat or",
           "bbox": [
             72.0,
@@ -743,7 +755,7 @@
           ]
         },
         {
-          "y": 554,
+          "y": 554.1,
           "text": "Acrobat Reader settings.",
           "bbox": [
             72.0,
@@ -777,7 +789,7 @@
           ]
         },
         {
-          "y": 576,
+          "y": 576.4,
           "text": "To verify document integrity, the validator checks if the signed content was altered after",
           "bbox": [
             72.0,
@@ -811,7 +823,7 @@
           ]
         },
         {
-          "y": 591,
+          "y": 591.1,
           "text": "signing. If changes were made, the verification ensures that the signer allowed the changes.",
           "bbox": [
             72.0,
@@ -852,7 +864,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 489,
+          "y": 489.0,
           "text": "Set preferences for validating digital signatures",
           "bbox": [
             72.0,
@@ -886,7 +898,7 @@
           ]
         },
         {
-          "y": 519,
+          "y": 518.7,
           "text": "You can set verification preferences in advance so digital signatures are valid when you open",
           "bbox": [
             72.0,
@@ -920,7 +932,7 @@
           ]
         },
         {
-          "y": 533,
+          "y": 533.4,
           "text": "a PDF and verification details appear with the signature. When Digital Signatures are",
           "bbox": [
             72.0,
@@ -954,7 +966,7 @@
           ]
         },
         {
-          "y": 548,
+          "y": 548.2,
           "text": "validated, an icon appears in the document message bar to indicate the signature status.",
           "bbox": [
             72.0,
@@ -988,37 +1000,15 @@
           ]
         },
         {
-          "y": 570,
+          "y": 570.4,
           "text": "Acrobat Preferences",
           "bbox": [
-            109.73999786376953,
-            569.8200073242188,
+            371.70001220703125,
+            570.4439697265625,
             530.4600219726562,
-            586.2000122070312
+            585.2279663085938
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                109.73999786376953,
-                582.2999877929688
-              ],
-              "bbox": [
-                109.73999786376953,
-                569.8200073242188,
-                113.07599639892578,
-                586.2000122070312
-              ]
-            },
             {
               "size": 12.0,
               "flags": 20,
@@ -1066,7 +1056,7 @@
           ]
         },
         {
-          "y": 571,
+          "y": 570.6,
           "text": "1. Select the hamburger menu (Windows®), or go to (macOS)> .",
           "bbox": [
             103.5,
@@ -1188,11 +1178,45 @@
           ]
         },
         {
-          "y": 593,
-          "text": "2. In the Preferences dialog box, from under categories, select Signatures .",
+          "y": 592.8,
+          "text": "Signatures",
+          "bbox": [
+            418.9800109863281,
+            592.823974609375,
+            473.4599914550781,
+            607.6079711914062
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "Signatures",
+              "origin": [
+                418.9800109863281,
+                604.6799926757812
+              ],
+              "bbox": [
+                418.9800109863281,
+                592.823974609375,
+                473.4599914550781,
+                607.6079711914062
+              ]
+            }
+          ]
+        },
+        {
+          "y": 592.9,
+          "text": "2. In the Preferences dialog box, from under categories, select .",
           "bbox": [
             103.5,
-            592.823974609375,
+            592.9439697265625,
             478.572021484375,
             607.7039794921875
           ],
@@ -1243,28 +1267,6 @@
             },
             {
               "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "Signatures",
-              "origin": [
-                418.9800109863281,
-                604.6799926757812
-              ],
-              "bbox": [
-                418.9800109863281,
-                592.823974609375,
-                473.4599914550781,
-                607.6079711914062
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -1288,81 +1290,15 @@
           ]
         },
         {
-          "y": 615,
-          "text": "3. From the Verification box in the Digital Signatures panel, select More...",
+          "y": 615.2,
+          "text": "Verification Digital Signatures More...",
           "bbox": [
-            103.5,
-            614.5800170898438,
-            474.5520324707031,
-            630.9600219726562
+            170.09999084472656,
+            615.1920166015625,
+            471.7919921875,
+            630.0360107421875
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "AdobeClean-Regular",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9779999852180481,
-              "descender": -0.25200000405311584,
-              "text": "3.",
-              "origin": [
-                103.5,
-                627.0599975585938
-              ],
-              "bbox": [
-                103.5,
-                615.323974609375,
-                112.27200317382812,
-                630.083984375
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                112.26000213623047,
-                627.0599975585938
-              ],
-              "bbox": [
-                112.26000213623047,
-                614.5800170898438,
-                115.59600067138672,
-                630.9600219726562
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "AdobeClean-Regular",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9779999852180481,
-              "descender": -0.25200000405311584,
-              "text": "From the ",
-              "origin": [
-                121.5,
-                627.0599975585938
-              ],
-              "bbox": [
-                121.5,
-                615.323974609375,
-                170.11199951171875,
-                630.083984375
-              ]
-            },
             {
               "size": 12.0,
               "flags": 6,
@@ -1383,28 +1319,6 @@
                 615.1920166015625,
                 225.94798278808594,
                 630.0360107421875
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "AdobeClean-Regular",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9779999852180481,
-              "descender": -0.25200000405311584,
-              "text": " box in the ",
-              "origin": [
-                225.95999145507812,
-                627.0599975585938
-              ],
-              "bbox": [
-                225.95999145507812,
-                615.323974609375,
-                281.5920104980469,
-                630.083984375
               ]
             },
             {
@@ -1431,28 +1345,6 @@
             },
             {
               "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "AdobeClean-Regular",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9779999852180481,
-              "descender": -0.25200000405311584,
-              "text": " panel, select ",
-              "origin": [
-                368.10003662109375,
-                627.0599975585938
-              ],
-              "bbox": [
-                368.10003662109375,
-                615.323974609375,
-                435.5520935058594,
-                630.083984375
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 20,
               "bidi": 0,
               "char_flags": 24,
@@ -1471,6 +1363,106 @@
                 615.2039794921875,
                 471.7919921875,
                 629.9879760742188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 615.3,
+          "text": "3. From the box in the panel, select",
+          "bbox": [
+            103.5,
+            615.323974609375,
+            474.5520324707031,
+            630.083984375
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "AdobeClean-Regular",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9779999852180481,
+              "descender": -0.25200000405311584,
+              "text": "3.",
+              "origin": [
+                103.5,
+                627.0599975585938
+              ],
+              "bbox": [
+                103.5,
+                615.323974609375,
+                112.27200317382812,
+                630.083984375
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "AdobeClean-Regular",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9779999852180481,
+              "descender": -0.25200000405311584,
+              "text": "From the ",
+              "origin": [
+                121.5,
+                627.0599975585938
+              ],
+              "bbox": [
+                121.5,
+                615.323974609375,
+                170.11199951171875,
+                630.083984375
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "AdobeClean-Regular",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9779999852180481,
+              "descender": -0.25200000405311584,
+              "text": " box in the ",
+              "origin": [
+                225.95999145507812,
+                627.0599975585938
+              ],
+              "bbox": [
+                225.95999145507812,
+                615.323974609375,
+                281.5920104980469,
+                630.083984375
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "AdobeClean-Regular",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9779999852180481,
+              "descender": -0.25200000405311584,
+              "text": " panel, select ",
+              "origin": [
+                368.10003662109375,
+                627.0599975585938
+              ],
+              "bbox": [
+                368.10003662109375,
+                615.323974609375,
+                435.5520935058594,
+                630.083984375
               ]
             },
             {
@@ -1505,7 +1497,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 491,
+          "y": 490.5,
           "text": "4. In the 'Signature Verification Preferences' dialog that opens, you can control the",
           "bbox": [
             103.5,
@@ -1561,7 +1553,7 @@
           ]
         },
         {
-          "y": 505,
+          "y": 505.3,
           "text": "following settings:",
           "bbox": [
             121.5,
@@ -1595,13 +1587,13 @@
           ]
         },
         {
-          "y": 528,
-          "text": "Set automatic validation of signatures : With the Verify signatures when the",
+          "y": 527.5,
+          "text": "Set automatic validation of signatures Verify signatures when the",
           "bbox": [
             157.5,
             527.5320434570312,
             536.1121215820312,
-            542.4240112304688
+            542.3760375976562
           ],
           "spans": [
             {
@@ -1624,28 +1616,6 @@
                 527.5440063476562,
                 352.5,
                 542.3280029296875
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "AdobeClean-Regular",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9779999852180481,
-              "descender": -0.25200000405311584,
-              "text": ": With the ",
-              "origin": [
-                352.5,
-                539.4000244140625
-              ],
-              "bbox": [
-                352.5,
-                527.6640014648438,
-                403.7520446777344,
-                542.4240112304688
               ]
             },
             {
@@ -1673,13 +1643,47 @@
           ]
         },
         {
-          "y": 529,
+          "y": 527.7,
+          "text": ": With the",
+          "bbox": [
+            352.5,
+            527.6640014648438,
+            403.7520446777344,
+            542.4240112304688
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "AdobeClean-Regular",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9779999852180481,
+              "descender": -0.25200000405311584,
+              "text": ": With the ",
+              "origin": [
+                352.5,
+                539.4000244140625
+              ],
+              "bbox": [
+                352.5,
+                527.6640014648438,
+                403.7520446777344,
+                542.4240112304688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 529.3,
           "text": "•",
           "bbox": [
             139.5,
-            528.979248046875,
-            146.90476989746094,
-            542.656494140625
+            529.3298950195312,
+            144.1092071533203,
+            541.6044311523438
           ],
           "spans": [
             {
@@ -1703,33 +1707,11 @@
                 144.1092071533203,
                 541.6044311523438
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                144.1192169189453,
-                539.4000244140625
-              ],
-              "bbox": [
-                144.1192169189453,
-                528.979248046875,
-                146.90476989746094,
-                542.656494140625
-              ]
             }
           ]
         },
         {
-          "y": 542,
+          "y": 542.4,
           "text": "document is opened",
           "bbox": [
             157.5,
@@ -1763,7 +1745,7 @@
           ]
         },
         {
-          "y": 543,
+          "y": 542.5,
           "text": "check box selected, Acrobat automatically validates all",
           "bbox": [
             256.3800048828125,
@@ -1797,7 +1779,7 @@
           ]
         },
         {
-          "y": 557,
+          "y": 557.3,
           "text": "signatures in a PDF when you open the document.",
           "bbox": [
             157.5,
@@ -1831,13 +1813,13 @@
           ]
         },
         {
-          "y": 577,
-          "text": "Set verification behavior: The options specify methods that determine",
+          "y": 576.6,
+          "text": "Set verification behavior:",
           "bbox": [
             157.5,
             576.56396484375,
-            513.5521240234375,
-            591.4439697265625
+            287.5079650878906,
+            591.3479614257812
           ],
           "spans": [
             {
@@ -1861,7 +1843,19 @@
                 287.5079650878906,
                 591.3479614257812
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 576.7,
+          "text": "The options specify methods that determine",
+          "bbox": [
+            287.52001953125,
+            576.6839599609375,
+            513.5521240234375,
+            591.4439697265625
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -1887,13 +1881,13 @@
           ]
         },
         {
-          "y": 578,
+          "y": 578.3,
           "text": "•",
           "bbox": [
             139.5,
-            577.9992065429688,
-            146.90476989746094,
-            591.6764526367188
+            578.349853515625,
+            144.1092071533203,
+            590.6243896484375
           ],
           "spans": [
             {
@@ -1917,33 +1911,11 @@
                 144.1092071533203,
                 590.6243896484375
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                144.1192169189453,
-                588.4199829101562
-              ],
-              "bbox": [
-                144.1192169189453,
-                577.9992065429688,
-                146.90476989746094,
-                591.6764526367188
-              ]
             }
           ]
         },
         {
-          "y": 591,
+          "y": 591.4,
           "text": "which plug-in to choose when verifying a signature. The appropriate plug-in",
           "bbox": [
             157.5,
@@ -1977,7 +1949,7 @@
           ]
         },
         {
-          "y": 606,
+          "y": 606.2,
           "text": "is often selected automatically. Contact your system administrator about",
           "bbox": [
             157.5,
@@ -2011,7 +1983,7 @@
           ]
         },
         {
-          "y": 621,
+          "y": 621.0,
           "text": "specific plug-in requirements for validating signatures.",
           "bbox": [
             157.5,
@@ -2045,13 +2017,13 @@
           ]
         },
         {
-          "y": 640,
-          "text": "Check the revocation status of certificates : With the Require certificate",
+          "y": 640.2,
+          "text": "Check the revocation status of certificates Require certificate",
           "bbox": [
             157.5,
             640.2120361328125,
             513.8519897460938,
-            655.10400390625
+            655.0560302734375
           ],
           "spans": [
             {
@@ -2074,28 +2046,6 @@
                 640.2239990234375,
                 372.1200256347656,
                 655.0079956054688
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "AdobeClean-Regular",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9779999852180481,
-              "descender": -0.25200000405311584,
-              "text": ": With the ",
-              "origin": [
-                372.1199951171875,
-                652.0800170898438
-              ],
-              "bbox": [
-                372.1199951171875,
-                640.343994140625,
-                423.4320068359375,
-                655.10400390625
               ]
             },
             {
@@ -2123,13 +2073,47 @@
           ]
         },
         {
-          "y": 642,
+          "y": 640.3,
+          "text": ": With the",
+          "bbox": [
+            372.1199951171875,
+            640.343994140625,
+            423.4320068359375,
+            655.10400390625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "AdobeClean-Regular",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9779999852180481,
+              "descender": -0.25200000405311584,
+              "text": ": With the ",
+              "origin": [
+                372.1199951171875,
+                652.0800170898438
+              ],
+              "bbox": [
+                372.1199951171875,
+                640.343994140625,
+                423.4320068359375,
+                655.10400390625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 642.0,
           "text": "•",
           "bbox": [
             139.5,
-            641.6592407226562,
-            146.90476989746094,
-            655.3364868164062
+            642.0098876953125,
+            144.1092071533203,
+            654.284423828125
           ],
           "spans": [
             {
@@ -2153,39 +2137,17 @@
                 144.1092071533203,
                 654.284423828125
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                144.1192169189453,
-                652.0800170898438
-              ],
-              "bbox": [
-                144.1192169189453,
-                641.6592407226562,
-                146.90476989746094,
-                655.3364868164062
-              ]
             }
           ]
         },
         {
-          "y": 655,
-          "text": "revocation checking to succeed... checkbox selected, Acrobat checks",
+          "y": 655.2,
+          "text": "revocation checking to succeed...",
           "bbox": [
             157.5,
             655.1520385742188,
-            496.632080078125,
-            670.0440063476562
+            320.1120300292969,
+            669.9960327148438
           ],
           "spans": [
             {
@@ -2209,7 +2171,19 @@
                 320.1120300292969,
                 669.9960327148438
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 655.3,
+          "text": "checkbox selected, Acrobat checks",
+          "bbox": [
+            320.10003662109375,
+            655.2839965820312,
+            496.632080078125,
+            670.0440063476562
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -2235,7 +2209,7 @@
           ]
         },
         {
-          "y": 670,
+          "y": 670.0,
           "text": "certificates against a list of excluded certificates during validation. If you",
           "bbox": [
             157.5,
@@ -2269,7 +2243,7 @@
           ]
         },
         {
-          "y": 685,
+          "y": 684.8,
           "text": "deselect the check box, the revocation status for Acrobat Approval",
           "bbox": [
             157.5,
@@ -2310,7 +2284,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "signatures is ignored. The revocation status is always checked to certify",
           "bbox": [
             157.5,
@@ -2344,7 +2318,7 @@
           ]
         },
         {
-          "y": 87,
+          "y": 86.8,
           "text": "signatures.",
           "bbox": [
             157.5,
@@ -2378,13 +2352,13 @@
           ]
         },
         {
-          "y": 106,
-          "text": "Use expired timestamps : The option is selected by default. It u ses the time",
+          "y": 106.0,
+          "text": "Use expired timestamps",
           "bbox": [
             157.5,
             106.04402160644531,
-            533.2919921875,
-            120.92402648925781
+            282.0,
+            120.8280258178711
           ],
           "spans": [
             {
@@ -2408,7 +2382,19 @@
                 282.0,
                 120.8280258178711
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 106.2,
+          "text": ": The option is selected by default. It u ses the time",
+          "bbox": [
+            282.0,
+            106.16402435302734,
+            533.2919921875,
+            120.92402648925781
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -2456,7 +2442,7 @@
           ]
         },
         {
-          "y": 108,
+          "y": 107.8,
           "text": "•",
           "bbox": [
             139.5,
@@ -2490,7 +2476,7 @@
           ]
         },
         {
-          "y": 121,
+          "y": 120.9,
           "text": "mentioned in the timestamp or embedded in the signature, even if the",
           "bbox": [
             157.5,
@@ -2524,7 +2510,7 @@
           ]
         },
         {
-          "y": 136,
+          "y": 135.7,
           "text": "signature’s certificate has expired. If you deselect the check box, Acrobat",
           "bbox": [
             157.5,
@@ -2558,7 +2544,7 @@
           ]
         },
         {
-          "y": 150,
+          "y": 150.4,
           "text": "discards expired timestamps.",
           "bbox": [
             157.5,
@@ -2614,13 +2600,13 @@
           ]
         },
         {
-          "y": 170,
-          "text": "Set verification for time : You can select the appropriate options under",
+          "y": 169.7,
+          "text": "Set verification for time",
           "bbox": [
             157.5,
             169.70399475097656,
-            512.5909423828125,
-            184.58399963378906
+            278.5559997558594,
+            184.4879913330078
           ],
           "spans": [
             {
@@ -2644,7 +2630,19 @@
                 278.5559997558594,
                 184.4879913330078
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 169.8,
+          "text": ": You can select the appropriate options under",
+          "bbox": [
+            278.5199890136719,
+            169.82400512695312,
+            512.5909423828125,
+            184.58399963378906
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -2670,13 +2668,13 @@
           ]
         },
         {
-          "y": 171,
+          "y": 171.5,
           "text": "•",
           "bbox": [
             139.5,
-            171.13919067382812,
-            146.90476989746094,
-            184.81649780273438
+            171.48989868164062,
+            144.1092071533203,
+            183.764404296875
           ],
           "spans": [
             {
@@ -2700,33 +2698,11 @@
                 144.1092071533203,
                 183.764404296875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                144.1192169189453,
-                181.55999755859375
-              ],
-              "bbox": [
-                144.1192169189453,
-                171.13919067382812,
-                146.90476989746094,
-                184.81649780273438
-              ]
             }
           ]
         },
         {
-          "y": 185,
+          "y": 184.6,
           "text": "'Verification time' to check the time at which the signature was created, to",
           "bbox": [
             157.5,
@@ -2760,7 +2736,7 @@
           ]
         },
         {
-          "y": 199,
+          "y": 199.3,
           "text": "check the timestamp embedded in the signature, or to check the current",
           "bbox": [
             157.5,
@@ -2794,7 +2770,7 @@
           ]
         },
         {
-          "y": 214,
+          "y": 214.1,
           "text": "time.",
           "bbox": [
             157.5,
@@ -2828,13 +2804,13 @@
           ]
         },
         {
-          "y": 233,
-          "text": "Add verification information : Select appropriate options under 'Verification",
+          "y": 233.4,
+          "text": "Add verification information",
           "bbox": [
             157.5,
             233.3639678955078,
-            539.652099609375,
-            248.2439727783203
+            304.199951171875,
+            248.14796447753906
           ],
           "spans": [
             {
@@ -2858,7 +2834,19 @@
                 304.199951171875,
                 248.14796447753906
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 233.5,
+          "text": ": Select appropriate options under 'Verification",
+          "bbox": [
+            304.199951171875,
+            233.48397827148438,
+            539.652099609375,
+            248.2439727783203
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -2884,13 +2872,13 @@
           ]
         },
         {
-          "y": 235,
+          "y": 235.1,
           "text": "•",
           "bbox": [
             139.5,
-            234.79916381835938,
-            146.90476989746094,
-            248.47647094726562
+            235.14987182617188,
+            144.1092071533203,
+            247.42437744140625
           ],
           "spans": [
             {
@@ -2914,33 +2902,11 @@
                 144.1092071533203,
                 247.42437744140625
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                144.1192169189453,
-                245.219970703125
-              ],
-              "bbox": [
-                144.1192169189453,
-                234.79916381835938,
-                146.90476989746094,
-                248.47647094726562
-              ]
             }
           ]
         },
         {
-          "y": 248,
+          "y": 248.2,
           "text": "information' to add verification information to the signed PDF or to alert the",
           "bbox": [
             157.5,
@@ -2974,7 +2940,7 @@
           ]
         },
         {
-          "y": 263,
+          "y": 263.0,
           "text": "user when the verification information is too large.",
           "bbox": [
             157.5,
@@ -3008,13 +2974,13 @@
           ]
         },
         {
-          "y": 282,
-          "text": "Configure to trust the root certificates in the Windows® certificate store :",
+          "y": 282.3,
+          "text": "Configure to trust the root certificates in the Windows® certificate store",
           "bbox": [
             157.5,
             282.2640075683594,
-            526.5720825195312,
-            297.14398193359375
+            520.4760131835938,
+            297.0480041503906
           ],
           "spans": [
             {
@@ -3038,7 +3004,19 @@
                 520.4760131835938,
                 297.0480041503906
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 282.4,
+          "text": ":",
+          "bbox": [
+            520.5001220703125,
+            282.3840026855469,
+            526.5720825195312,
+            297.14398193359375
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -3064,13 +3042,13 @@
           ]
         },
         {
-          "y": 284,
+          "y": 284.0,
           "text": "•",
           "bbox": [
             139.5,
-            283.6991882324219,
-            146.90476989746094,
-            297.3764953613281
+            284.0498962402344,
+            144.1092071533203,
+            296.32440185546875
           ],
           "spans": [
             {
@@ -3094,33 +3072,11 @@
                 144.1092071533203,
                 296.32440185546875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                144.1192169189453,
-                294.1199951171875
-              ],
-              "bbox": [
-                144.1192169189453,
-                283.6991882324219,
-                146.90476989746094,
-                297.3764953613281
-              ]
             }
           ]
         },
         {
-          "y": 297,
+          "y": 297.1,
           "text": "You can specify whether to trust all root certificates in the Windows®",
           "bbox": [
             157.5,
@@ -3154,7 +3110,7 @@
           ]
         },
         {
-          "y": 312,
+          "y": 311.9,
           "text": "Certificates store for:",
           "bbox": [
             157.5,
@@ -3188,13 +3144,13 @@
           ]
         },
         {
-          "y": 331,
-          "text": "Validating signatures : Certificates are trusted for Acrobat Approval",
+          "y": 331.2,
+          "text": "Validating signatures",
           "bbox": [
             193.5,
             331.16400146484375,
-            531.0120239257812,
-            346.0439758300781
+            302.4000244140625,
+            345.947998046875
           ],
           "spans": [
             {
@@ -3218,7 +3174,19 @@
                 302.4000244140625,
                 345.947998046875
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 331.3,
+          "text": ": Certificates are trusted for Acrobat Approval",
+          "bbox": [
+            302.3999938964844,
+            331.28399658203125,
+            531.0120239257812,
+            346.0439758300781
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -3244,13 +3212,13 @@
           ]
         },
         {
-          "y": 333,
+          "y": 332.9,
           "text": "•",
           "bbox": [
             175.5,
-            332.59918212890625,
-            182.90476989746094,
-            346.2764892578125
+            332.94989013671875,
+            180.1092071533203,
+            345.2243957519531
           ],
           "spans": [
             {
@@ -3274,33 +3242,11 @@
                 180.1092071533203,
                 345.2243957519531
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                180.1192169189453,
-                343.0199890136719
-              ],
-              "bbox": [
-                180.1192169189453,
-                332.59918212890625,
-                182.90476989746094,
-                346.2764892578125
-              ]
             }
           ]
         },
         {
-          "y": 346,
+          "y": 346.0,
           "text": "signature validation.",
           "bbox": [
             193.5,
@@ -3356,13 +3302,13 @@
           ]
         },
         {
-          "y": 365,
-          "text": "Validating certified documents : Certificates are trusted for",
+          "y": 365.3,
+          "text": "Validating certified documents",
           "bbox": [
             193.5,
             365.30401611328125,
-            489.25201416015625,
-            380.1839904785156
+            352.3800048828125,
+            380.0880126953125
           ],
           "spans": [
             {
@@ -3386,7 +3332,19 @@
                 352.3800048828125,
                 380.0880126953125
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 365.4,
+          "text": ": Certificates are trusted for",
+          "bbox": [
+            352.3800048828125,
+            365.42401123046875,
+            489.25201416015625,
+            380.1839904785156
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -3412,13 +3370,13 @@
           ]
         },
         {
-          "y": 367,
+          "y": 367.1,
           "text": "•",
           "bbox": [
             175.5,
-            366.73919677734375,
-            182.90476989746094,
-            380.41650390625
+            367.08990478515625,
+            180.1092071533203,
+            379.3644104003906
           ],
           "spans": [
             {
@@ -3442,33 +3400,11 @@
                 180.1092071533203,
                 379.3644104003906
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                180.1192169189453,
-                377.1600036621094
-              ],
-              "bbox": [
-                180.1192169189453,
-                366.73919677734375,
-                182.90476989746094,
-                380.41650390625
-              ]
             }
           ]
         },
         {
-          "y": 380,
+          "y": 380.2,
           "text": "certification signature validation.",
           "bbox": [
             193.5,
@@ -3524,7 +3460,7 @@
           ]
         },
         {
-          "y": 399,
+          "y": 399.4,
           "text": "Note:",
           "bbox": [
             151.5,
@@ -3558,7 +3494,7 @@
           ]
         },
         {
-          "y": 400,
+          "y": 399.6,
           "text": "Selecting these options can compromise security.",
           "bbox": [
             180.72000122070312,
@@ -3592,7 +3528,7 @@
           ]
         },
         {
-          "y": 444,
+          "y": 444.0,
           "text": "Set the trust level of a certificate",
           "bbox": [
             72.0,
@@ -3626,7 +3562,7 @@
           ]
         },
         {
-          "y": 474,
+          "y": 473.7,
           "text": "In Acrobat or Acrobat Reader, the signature of a certified or signed document is valid if you",
           "bbox": [
             72.0,
@@ -3660,7 +3596,7 @@
           ]
         },
         {
-          "y": 488,
+          "y": 488.4,
           "text": "and the signer have a trust relationship. The trust level of the certificate indicates the actions",
           "bbox": [
             72.0,
@@ -3694,7 +3630,7 @@
           ]
         },
         {
-          "y": 503,
+          "y": 503.2,
           "text": "for which you trust the signer.",
           "bbox": [
             72.0,
@@ -3728,7 +3664,7 @@
           ]
         },
         {
-          "y": 525,
+          "y": 525.4,
           "text": "You can change the trust settings of certificates to allow specific actions. For example, you can",
           "bbox": [
             72.0,
@@ -3762,7 +3698,7 @@
           ]
         },
         {
-          "y": 540,
+          "y": 540.2,
           "text": "change the settings to enable the dynamic content and embedded JavaScript™ within the",
           "bbox": [
             72.0,
@@ -3796,7 +3732,7 @@
           ]
         },
         {
-          "y": 555,
+          "y": 555.0,
           "text": "certified document.",
           "bbox": [
             72.0,
@@ -3830,13 +3766,47 @@
           ]
         },
         {
-          "y": 577,
-          "text": "1. Navigate to the hamburger menu (Windows) or the Acrobat menu (macOS)",
+          "y": 577.2,
+          "text": "Acrobat",
+          "bbox": [
+            383.70001220703125,
+            577.2239990234375,
+            425.1240234375,
+            592.0079956054688
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "Acrobat",
+              "origin": [
+                383.70001220703125,
+                589.0800170898438
+              ],
+              "bbox": [
+                383.70001220703125,
+                577.2239990234375,
+                425.1240234375,
+                592.0079956054688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 577.3,
+          "text": "1. Navigate to the hamburger menu (Windows) or the menu (macOS)",
           "bbox": [
             103.5,
-            576.6000366210938,
+            577.343994140625,
             506.3520202636719,
-            592.9800415039062
+            592.10400390625
           ],
           "spans": [
             {
@@ -3859,28 +3829,6 @@
                 577.343994140625,
                 109.75199890136719,
                 592.10400390625
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                109.73999786376953,
-                589.0800170898438
-              ],
-              "bbox": [
-                109.73999786376953,
-                576.6000366210938,
-                113.07599639892578,
-                592.9800415039062
               ]
             },
             {
@@ -3929,28 +3877,6 @@
             },
             {
               "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "Acrobat",
-              "origin": [
-                383.70001220703125,
-                589.0800170898438
-              ],
-              "bbox": [
-                383.70001220703125,
-                577.2239990234375,
-                425.1240234375,
-                592.0079956054688
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -3974,11 +3900,67 @@
           ]
         },
         {
-          "y": 592,
-          "text": "> Preferences > Signatures .",
+          "y": 592.1,
+          "text": "Preferences Signatures",
+          "bbox": [
+            130.9199981689453,
+            592.10400390625,
+            258.7200012207031,
+            606.8880004882812
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "Preferences",
+              "origin": [
+                130.9199981689453,
+                603.9600219726562
+              ],
+              "bbox": [
+                130.9199981689453,
+                592.10400390625,
+                192.0600128173828,
+                606.8880004882812
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "Signatures",
+              "origin": [
+                204.239990234375,
+                603.9600219726562
+              ],
+              "bbox": [
+                204.239990234375,
+                592.10400390625,
+                258.7200012207031,
+                606.8880004882812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 592.2,
+          "text": "> > .",
           "bbox": [
             121.5,
-            592.10400390625,
+            592.2239990234375,
             263.8320007324219,
             606.9840087890625
           ],
@@ -4007,28 +3989,6 @@
             },
             {
               "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "Preferences",
-              "origin": [
-                130.9199981689453,
-                603.9600219726562
-              ],
-              "bbox": [
-                130.9199981689453,
-                592.10400390625,
-                192.0600128173828,
-                606.8880004882812
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -4047,28 +4007,6 @@
                 592.2239990234375,
                 204.2519989013672,
                 606.9840087890625
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "Signatures",
-              "origin": [
-                204.239990234375,
-                603.9600219726562
-              ],
-              "bbox": [
-                204.239990234375,
-                592.10400390625,
-                258.7200012207031,
-                606.8880004882812
               ]
             },
             {
@@ -4096,37 +4034,15 @@
           ]
         },
         {
-          "y": 614,
+          "y": 614.5,
           "text": "identities & Trusted Certificates More...",
           "bbox": [
-            111.95999908447266,
-            613.8599853515625,
+            141.0,
+            614.4719848632812,
             364.81201171875,
-            630.239990234375
+            629.3159790039062
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                111.95999908447266,
-                626.3399658203125
-              ],
-              "bbox": [
-                111.95999908447266,
-                613.8599853515625,
-                115.2959976196289,
-                630.239990234375
-              ]
-            },
             {
               "size": 12.0,
               "flags": 6,
@@ -4174,7 +4090,7 @@
           ]
         },
         {
-          "y": 615,
+          "y": 614.6,
           "text": "2. For , select",
           "bbox": [
             103.5,
@@ -4274,11 +4190,45 @@
           ]
         },
         {
-          "y": 637,
-          "text": "3. From the left panel, select Trusted Certificates .",
+          "y": 636.9,
+          "text": "Trusted Certificates",
+          "bbox": [
+            253.3199920654297,
+            636.8639526367188,
+            353.58001708984375,
+            651.64794921875
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "Trusted Certificates",
+              "origin": [
+                253.3199920654297,
+                648.719970703125
+              ],
+              "bbox": [
+                253.3199920654297,
+                636.8639526367188,
+                353.58001708984375,
+                651.64794921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 637.0,
+          "text": "3. From the left panel, select .",
           "bbox": [
             103.5,
-            636.8639526367188,
+            636.9839477539062,
             358.7519836425781,
             651.7439575195312
           ],
@@ -4329,28 +4279,6 @@
             },
             {
               "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "Trusted Certificates",
-              "origin": [
-                253.3199920654297,
-                648.719970703125
-              ],
-              "bbox": [
-                253.3199920654297,
-                636.8639526367188,
-                353.58001708984375,
-                651.64794921875
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -4381,13 +4309,47 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 257,
-          "text": "4. Select a certificate from the list and then select Edit Trust .",
+          "y": 257.3,
+          "text": "Edit Trust",
+          "bbox": [
+            357.6600036621094,
+            257.3039855957031,
+            406.884033203125,
+            272.0879821777344
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "Edit Trust",
+              "origin": [
+                357.6600036621094,
+                269.15997314453125
+              ],
+              "bbox": [
+                357.6600036621094,
+                257.3039855957031,
+                406.884033203125,
+                272.0879821777344
+              ]
+            }
+          ]
+        },
+        {
+          "y": 257.4,
+          "text": "4. Select a certificate from the list and then select .",
           "bbox": [
             103.5,
-            256.6799621582031,
+            257.4239807128906,
             412.0320129394531,
-            273.0599670410156
+            272.1839599609375
           ],
           "spans": [
             {
@@ -4414,28 +4376,6 @@
             },
             {
               "size": 12.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                112.26000213623047,
-                269.15997314453125
-              ],
-              "bbox": [
-                112.26000213623047,
-                256.6799621582031,
-                115.59600067138672,
-                273.0599670410156
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -4454,28 +4394,6 @@
                 257.4239807128906,
                 357.61212158203125,
                 272.1839599609375
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "Edit Trust",
-              "origin": [
-                357.6600036621094,
-                269.15997314453125
-              ],
-              "bbox": [
-                357.6600036621094,
-                257.3039855957031,
-                406.884033203125,
-                272.0879821777344
               ]
             },
             {
@@ -4503,11 +4421,45 @@
           ]
         },
         {
-          "y": 280,
-          "text": "5. In the Edit Certificate Trust dialog that opens, select any of the following items to",
+          "y": 279.6,
+          "text": "Edit Certificate Trust",
+          "bbox": [
+            152.8199920654297,
+            279.61199951171875,
+            250.5,
+            294.4560241699219
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "AdobeClean-It",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9890000224113464,
+              "descender": -0.24799999594688416,
+              "text": "Edit Certificate Trust",
+              "origin": [
+                152.8199920654297,
+                291.4800109863281
+              ],
+              "bbox": [
+                152.8199920654297,
+                279.61199951171875,
+                250.5,
+                294.4560241699219
+              ]
+            }
+          ]
+        },
+        {
+          "y": 279.7,
+          "text": "5. In the dialog that opens, select any of the following items to",
           "bbox": [
             103.5,
-            279.61199951171875,
+            279.7440185546875,
             522.7318725585938,
             294.5039978027344
           ],
@@ -4558,28 +4510,6 @@
             },
             {
               "size": 12.0,
-              "flags": 6,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "AdobeClean-It",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9890000224113464,
-              "descender": -0.24799999594688416,
-              "text": "Edit Certificate Trust",
-              "origin": [
-                152.8199920654297,
-                291.4800109863281
-              ],
-              "bbox": [
-                152.8199920654297,
-                279.61199951171875,
-                250.5,
-                294.4560241699219
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -4603,7 +4533,7 @@
           ]
         },
         {
-          "y": 295,
+          "y": 294.6,
           "text": "trust the certificate:",
           "bbox": [
             121.5,
@@ -4637,13 +4567,13 @@
           ]
         },
         {
-          "y": 317,
-          "text": "Use this certificate as a trusted root : A root certificate is an originating",
+          "y": 316.8,
+          "text": "Use this certificate as a trusted root",
           "bbox": [
             144.0,
             316.8240051269531,
-            498.9120178222656,
-            331.7039794921875
+            325.2240295410156,
+            331.6080017089844
           ],
           "spans": [
             {
@@ -4667,7 +4597,19 @@
                 325.2240295410156,
                 331.6080017089844
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 316.9,
+          "text": ": A root certificate is an originating",
+          "bbox": [
+            325.20001220703125,
+            316.9440002441406,
+            498.9120178222656,
+            331.7039794921875
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -4715,7 +4657,7 @@
           ]
         },
         {
-          "y": 319,
+          "y": 318.6,
           "text": "•",
           "bbox": [
             126.0,
@@ -4749,7 +4691,7 @@
           ]
         },
         {
-          "y": 332,
+          "y": 331.7,
           "text": "authority in a chain of certificate authorities that issued the certificate. By",
           "bbox": [
             144.0,
@@ -4783,7 +4725,7 @@
           ]
         },
         {
-          "y": 346,
+          "y": 346.5,
           "text": "trusting the root certificate, you trust all certificates issued by that certificate",
           "bbox": [
             144.0,
@@ -4817,7 +4759,7 @@
           ]
         },
         {
-          "y": 361,
+          "y": 361.2,
           "text": "authority.",
           "bbox": [
             144.0,
@@ -4873,7 +4815,7 @@
           ]
         },
         {
-          "y": 380,
+          "y": 380.5,
           "text": "Signed documents or data",
           "bbox": [
             144.0,
@@ -4907,7 +4849,7 @@
           ]
         },
         {
-          "y": 381,
+          "y": 380.6,
           "text": ": It a cknowledges the identity of the signer.",
           "bbox": [
             279.5400085449219,
@@ -4985,13 +4927,13 @@
           ]
         },
         {
-          "y": 382,
+          "y": 382.3,
           "text": "•",
           "bbox": [
             126.0,
-            381.919189453125,
-            133.40476989746094,
-            395.59649658203125
+            382.2698974609375,
+            130.6092071533203,
+            394.5444030761719
           ],
           "spans": [
             {
@@ -5015,39 +4957,17 @@
                 130.6092071533203,
                 394.5444030761719
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                130.6192169189453,
-                392.3399963378906
-              ],
-              "bbox": [
-                130.6192169189453,
-                381.919189453125,
-                133.40476989746094,
-                395.59649658203125
-              ]
             }
           ]
         },
         {
-          "y": 400,
-          "text": "Certified documents : It t rusts documents in which the author has certified the",
+          "y": 399.9,
+          "text": "Certified documents",
           "bbox": [
             144.0,
             399.864013671875,
-            534.3719482421875,
-            414.7439880371094
+            248.9399871826172,
+            414.64801025390625
           ],
           "spans": [
             {
@@ -5071,7 +4991,19 @@
                 248.9399871826172,
                 414.64801025390625
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 400.0,
+          "text": ": It t rusts documents in which the author has certified the",
+          "bbox": [
+            248.9399871826172,
+            399.9840087890625,
+            534.3719482421875,
+            414.7439880371094
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -5119,7 +5051,7 @@
           ]
         },
         {
-          "y": 402,
+          "y": 401.6,
           "text": "•",
           "bbox": [
             126.0,
@@ -5153,7 +5085,7 @@
           ]
         },
         {
-          "y": 415,
+          "y": 414.7,
           "text": "document with a signature. You trust the signer for certifying documents, and",
           "bbox": [
             144.0,
@@ -5187,7 +5119,7 @@
           ]
         },
         {
-          "y": 430,
+          "y": 429.5,
           "text": "you accept actions that the certified document takes.",
           "bbox": [
             144.0,
@@ -5221,7 +5153,7 @@
           ]
         },
         {
-          "y": 444,
+          "y": 444.3,
           "text": "When the 'Certified documents' option is selected, the following options are",
           "bbox": [
             144.0,
@@ -5255,7 +5187,7 @@
           ]
         },
         {
-          "y": 459,
+          "y": 459.0,
           "text": "available:",
           "bbox": [
             144.0,
@@ -5289,13 +5221,13 @@
           ]
         },
         {
-          "y": 478,
-          "text": "Dynamic content : It a llows movies, sound, and other dynamic elements",
+          "y": 478.3,
+          "text": "Dynamic content",
           "bbox": [
             180.0,
             478.2840270996094,
-            541.33203125,
-            493.16400146484375
+            268.2239990234375,
+            493.0680236816406
           ],
           "spans": [
             {
@@ -5319,7 +5251,19 @@
                 268.2239990234375,
                 493.0680236816406
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 478.4,
+          "text": ": It a llows movies, sound, and other dynamic elements",
+          "bbox": [
+            268.1999816894531,
+            478.4040222167969,
+            541.33203125,
+            493.16400146484375
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -5367,13 +5311,13 @@
           ]
         },
         {
-          "y": 480,
+          "y": 480.1,
           "text": "•",
           "bbox": [
             162.0,
-            479.7192077636719,
-            169.40476989746094,
-            493.3965148925781
+            480.0699157714844,
+            166.6092071533203,
+            492.34442138671875
           ],
           "spans": [
             {
@@ -5397,33 +5341,11 @@
                 166.6092071533203,
                 492.34442138671875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                166.6192169189453,
-                490.1400146484375
-              ],
-              "bbox": [
-                166.6192169189453,
-                479.7192077636719,
-                169.40476989746094,
-                493.3965148925781
-              ]
             }
           ]
         },
         {
-          "y": 493,
+          "y": 493.2,
           "text": "to play in a certified document.",
           "bbox": [
             180.0,
@@ -5479,7 +5401,7 @@
           ]
         },
         {
-          "y": 512,
+          "y": 512.4,
           "text": "Embedded high privilege JavaScript™",
           "bbox": [
             180.0,
@@ -5513,7 +5435,7 @@
           ]
         },
         {
-          "y": 513,
+          "y": 512.5,
           "text": ": It a llows privileged JavaScript™",
           "bbox": [
             369.6600341796875,
@@ -5569,13 +5491,13 @@
           ]
         },
         {
-          "y": 514,
+          "y": 514.2,
           "text": "•",
           "bbox": [
             162.0,
-            513.8592529296875,
-            169.40476989746094,
-            527.5364990234375
+            514.2098999023438,
+            166.6092071533203,
+            526.4844360351562
           ],
           "spans": [
             {
@@ -5599,33 +5521,11 @@
                 166.6092071533203,
                 526.4844360351562
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                166.6192169189453,
-                524.280029296875
-              ],
-              "bbox": [
-                166.6192169189453,
-                513.8592529296875,
-                169.40476989746094,
-                527.5364990234375
-              ]
             }
           ]
         },
         {
-          "y": 527,
+          "y": 527.3,
           "text": "embedded in PDF files to run. JavaScript™ files can be used in malicious",
           "bbox": [
             180.0,
@@ -5659,7 +5559,7 @@
           ]
         },
         {
-          "y": 542,
+          "y": 542.1,
           "text": "ways. It’s prudent to select this option only when necessary on",
           "bbox": [
             180.0,
@@ -5693,7 +5593,7 @@
           ]
         },
         {
-          "y": 557,
+          "y": 556.8,
           "text": "certificates you trust.",
           "bbox": [
             180.0,
@@ -5749,13 +5649,13 @@
           ]
         },
         {
-          "y": 576,
-          "text": "Privileged system operations : It a llows Internet connections, cross-",
+          "y": 576.1,
+          "text": "Privileged system operations",
           "bbox": [
             180.0,
             576.083984375,
-            517.2000732421875,
-            590.9639892578125
+            329.5800476074219,
+            590.8679809570312
           ],
           "spans": [
             {
@@ -5779,7 +5679,19 @@
                 329.5800476074219,
                 590.8679809570312
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 576.2,
+          "text": ": It a llows Internet connections, cross-",
+          "bbox": [
+            329.58001708984375,
+            576.2039794921875,
+            517.2000732421875,
+            590.9639892578125
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -5827,13 +5739,13 @@
           ]
         },
         {
-          "y": 578,
+          "y": 577.9,
           "text": "•",
           "bbox": [
             162.0,
-            577.5192260742188,
-            169.40476989746094,
-            591.1964721679688
+            577.869873046875,
+            166.6092071533203,
+            590.1444091796875
           ],
           "spans": [
             {
@@ -5857,33 +5769,11 @@
                 166.6092071533203,
                 590.1444091796875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                166.6192169189453,
-                587.9400024414062
-              ],
-              "bbox": [
-                166.6192169189453,
-                577.5192260742188,
-                169.40476989746094,
-                591.1964721679688
-              ]
             }
           ]
         },
         {
-          "y": 591,
+          "y": 591.0,
           "text": "domain scripting, silent printing, external-object references, and",
           "bbox": [
             180.0,
@@ -5917,7 +5807,7 @@
           ]
         },
         {
-          "y": 606,
+          "y": 605.7,
           "text": "import/export methodology operations on certified documents.",
           "bbox": [
             180.0,
@@ -5973,13 +5863,13 @@
           ]
         },
         {
-          "y": 638,
-          "text": "Note: Allow Embedded high privilege JavaScript™ and Privileged system operations only",
+          "y": 637.9,
+          "text": "Note: Embedded high privilege JavaScript™ Privileged system operations",
           "bbox": [
             108.0,
             637.8720092773438,
-            542.3519897460938,
-            652.7639770507812
+            514.968017578125,
+            652.7160034179688
           ],
           "spans": [
             {
@@ -6006,28 +5896,6 @@
             },
             {
               "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "AdobeClean-Regular",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9779999852180481,
-              "descender": -0.25200000405311584,
-              "text": " Allow ",
-              "origin": [
-                137.22000122070312,
-                649.739990234375
-              ],
-              "bbox": [
-                137.22000122070312,
-                638.0039672851562,
-                171.91200256347656,
-                652.7639770507812
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 6,
               "bidi": 0,
               "char_flags": 16,
@@ -6050,28 +5918,6 @@
             },
             {
               "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "AdobeClean-Regular",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9779999852180481,
-              "descender": -0.25200000405311584,
-              "text": "and ",
-              "origin": [
-                353.280029296875,
-                649.739990234375
-              ],
-              "bbox": [
-                353.280029296875,
-                638.0039672851562,
-                374.9520263671875,
-                652.7639770507812
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 6,
               "bidi": 0,
               "char_flags": 16,
@@ -6090,6 +5936,62 @@
                 637.8720092773438,
                 514.968017578125,
                 652.7160034179688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 638.0,
+          "text": "Allow and only",
+          "bbox": [
+            137.22000122070312,
+            638.0039672851562,
+            542.3519897460938,
+            652.7639770507812
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "AdobeClean-Regular",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9779999852180481,
+              "descender": -0.25200000405311584,
+              "text": " Allow ",
+              "origin": [
+                137.22000122070312,
+                649.739990234375
+              ],
+              "bbox": [
+                137.22000122070312,
+                638.0039672851562,
+                171.91200256347656,
+                652.7639770507812
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "AdobeClean-Regular",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9779999852180481,
+              "descender": -0.25200000405311584,
+              "text": "and ",
+              "origin": [
+                353.280029296875,
+                649.739990234375
+              ],
+              "bbox": [
+                353.280029296875,
+                638.0039672851562,
+                374.9520263671875,
+                652.7639770507812
               ]
             },
             {
@@ -6117,7 +6019,7 @@
           ]
         },
         {
-          "y": 653,
+          "y": 652.8,
           "text": "for sources that you trust and work closely with. For example, use these options for",
           "bbox": [
             108.0,
@@ -6151,7 +6053,7 @@
           ]
         },
         {
-          "y": 668,
+          "y": 667.5,
           "text": "your employer or service provider.",
           "bbox": [
             108.0,
@@ -6185,13 +6087,47 @@
           ]
         },
         {
-          "y": 682,
-          "text": "6. Select OK .",
+          "y": 682.3,
+          "text": "OK",
+          "bbox": [
+            140.75999450683594,
+            682.2839965820312,
+            157.15199279785156,
+            697.0679931640625
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "OK",
+              "origin": [
+                140.75999450683594,
+                694.1400146484375
+              ],
+              "bbox": [
+                140.75999450683594,
+                682.2839965820312,
+                157.15199279785156,
+                697.0679931640625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 682.4,
+          "text": "6. Select .",
           "bbox": [
             90.0,
-            681.6600341796875,
+            682.4039916992188,
             165.07199096679688,
-            698.0400390625
+            697.1640014648438
           ],
           "spans": [
             {
@@ -6218,28 +6154,6 @@
             },
             {
               "size": 12.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                99.30000305175781,
-                694.1400146484375
-              ],
-              "bbox": [
-                99.30000305175781,
-                681.6600341796875,
-                102.63600158691406,
-                698.0400390625
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -6258,28 +6172,6 @@
                 682.4039916992188,
                 140.77200317382812,
                 697.1640014648438
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "OK",
-              "origin": [
-                140.75999450683594,
-                694.1400146484375
-              ],
-              "bbox": [
-                140.75999450683594,
-                682.2839965820312,
-                157.15199279785156,
-                697.0679931640625
               ]
             },
             {
@@ -6314,13 +6206,13 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
-          "text": "Note: You can right-click a signature field in the Signatures panel to do most signature-",
+          "y": 72.0,
+          "text": "Note: Signatures",
           "bbox": [
             72.0,
             72.02400207519531,
-            507.5401611328125,
-            86.90400695800781
+            366.7799987792969,
+            86.8080062866211
           ],
           "spans": [
             {
@@ -6347,28 +6239,6 @@
             },
             {
               "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "AdobeClean-Regular",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9779999852180481,
-              "descender": -0.25200000405311584,
-              "text": " You can right-click a signature field in the ",
-              "origin": [
-                101.22000122070312,
-                83.8800048828125
-              ],
-              "bbox": [
-                101.22000122070312,
-                72.14400482177734,
-                312.3719787597656,
-                86.90400695800781
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 20,
               "bidi": 0,
               "char_flags": 24,
@@ -6387,6 +6257,40 @@
                 72.02400207519531,
                 366.7799987792969,
                 86.8080062866211
+              ]
+            }
+          ]
+        },
+        {
+          "y": 72.1,
+          "text": "You can right-click a signature field in the panel to do most signature-",
+          "bbox": [
+            101.22000122070312,
+            72.14400482177734,
+            507.5401611328125,
+            86.90400695800781
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "AdobeClean-Regular",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9779999852180481,
+              "descender": -0.25200000405311584,
+              "text": " You can right-click a signature field in the ",
+              "origin": [
+                101.22000122070312,
+                83.8800048828125
+              ],
+              "bbox": [
+                101.22000122070312,
+                72.14400482177734,
+                312.3719787597656,
+                86.90400695800781
               ]
             },
             {
@@ -6414,7 +6318,7 @@
           ]
         },
         {
-          "y": 87,
+          "y": 86.9,
           "text": "related tasks, including adding, clearing, and validating signatures. In some cases, however,",
           "bbox": [
             72.0,
@@ -6448,7 +6352,7 @@
           ]
         },
         {
-          "y": 102,
+          "y": 101.7,
           "text": "the signature field becomes locked after you sign it.",
           "bbox": [
             72.0,
@@ -6482,7 +6386,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 138.6,
           "text": "Sign in preview mode for document integrity",
           "bbox": [
             72.0,
@@ -6516,7 +6420,7 @@
           ]
         },
         {
-          "y": 168,
+          "y": 168.3,
           "text": "When document integrity is critical for your signature workflow, you can enable 'View",
           "bbox": [
             72.0,
@@ -6550,7 +6454,7 @@
           ]
         },
         {
-          "y": 183,
+          "y": 183.0,
           "text": "documents in Preview mode', and then sign the document. This feature analyzes the",
           "bbox": [
             72.0,
@@ -6584,7 +6488,7 @@
           ]
         },
         {
-          "y": 198,
+          "y": 197.8,
           "text": "document for content that may alter the look and feel of the document and suppresses such",
           "bbox": [
             72.0,
@@ -6618,7 +6522,7 @@
           ]
         },
         {
-          "y": 213,
+          "y": 212.5,
           "text": "content to allow you to view and sign the document in a static and secure state.",
           "bbox": [
             72.0,
@@ -6652,7 +6556,7 @@
           ]
         },
         {
-          "y": 235,
+          "y": 234.8,
           "text": "By signing in preview mode, you can f ind if the document contains:",
           "bbox": [
             72.0,
@@ -6730,7 +6634,7 @@
           ]
         },
         {
-          "y": 257,
+          "y": 257.1,
           "text": "Any dynamic content or external dependencies.",
           "bbox": [
             108.0,
@@ -6786,7 +6690,7 @@
           ]
         },
         {
-          "y": 259,
+          "y": 258.7,
           "text": "•",
           "bbox": [
             90.0,
@@ -6820,7 +6724,7 @@
           ]
         },
         {
-          "y": 276,
+          "y": 276.3,
           "text": "Any constructs such as form fields, multimedia, or JavaScript™ that may affect its look",
           "bbox": [
             108.0,
@@ -6854,13 +6758,13 @@
           ]
         },
         {
-          "y": 278,
+          "y": 278.0,
           "text": "•",
           "bbox": [
             90.0,
-            277.6391906738281,
-            97.40477752685547,
-            291.3164978027344
+            277.9898986816406,
+            94.60919952392578,
+            290.264404296875
           ],
           "spans": [
             {
@@ -6884,33 +6788,11 @@
                 94.60919952392578,
                 290.264404296875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                288.05999755859375
-              ],
-              "bbox": [
-                94.61921691894531,
-                277.6391906738281,
-                97.40477752685547,
-                291.3164978027344
-              ]
             }
           ]
         },
         {
-          "y": 291,
+          "y": 291.1,
           "text": "and feel.",
           "bbox": [
             108.0,
@@ -6966,7 +6848,7 @@
           ]
         },
         {
-          "y": 313,
+          "y": 313.3,
           "text": "After reviewing the report, you can contact the author of the document about the problems",
           "bbox": [
             72.0,
@@ -7000,7 +6882,7 @@
           ]
         },
         {
-          "y": 328,
+          "y": 328.1,
           "text": "listed in the report.",
           "bbox": [
             72.0,
@@ -7056,7 +6938,7 @@
           ]
         },
         {
-          "y": 373,
+          "y": 372.5,
           "text": "Certify a PDF",
           "bbox": [
             72.0,
@@ -7090,7 +6972,7 @@
           ]
         },
         {
-          "y": 402,
+          "y": 402.2,
           "text": "Certifying a PDF means approving its contents and specifying what changes are allowed for",
           "bbox": [
             72.0,
@@ -7124,7 +7006,7 @@
           ]
         },
         {
-          "y": 417,
+          "y": 417.0,
           "text": "the document to remain certified. For example, a government agency creates a form with",
           "bbox": [
             72.0,
@@ -7158,7 +7040,7 @@
           ]
         },
         {
-          "y": 432,
+          "y": 431.7,
           "text": "signature fields and certifies it, allowing users to only change form fields and sign the",
           "bbox": [
             72.0,
@@ -7192,7 +7074,7 @@
           ]
         },
         {
-          "y": 446,
+          "y": 446.5,
           "text": "document. Removing pages or adding comments will result in losing the certified status.",
           "bbox": [
             72.0,
@@ -7226,7 +7108,7 @@
           ]
         },
         {
-          "y": 469,
+          "y": 468.7,
           "text": "A certifying signature can only be applied if the PDF has no other signatures. These signatures",
           "bbox": [
             72.0,
@@ -7260,7 +7142,7 @@
           ]
         },
         {
-          "y": 492,
+          "y": 491.8,
           "text": "can be visible or invisible, and a blue ribbon icon in the Signatures panel confirms a valid",
           "bbox": [
             72.0,
@@ -7316,7 +7198,7 @@
           ]
         },
         {
-          "y": 507,
+          "y": 506.5,
           "text": "certifying signature. Adding a certifying digital signature requires a digital ID.",
           "bbox": [
             72.0,
@@ -7350,7 +7232,7 @@
           ]
         },
         {
-          "y": 551,
+          "y": 551.0,
           "text": "Timestamp a document",
           "bbox": [
             72.0,
@@ -7384,7 +7266,7 @@
           ]
         },
         {
-          "y": 581,
+          "y": 580.6,
           "text": "Acrobat allows users to add a document timestamp to a PDF without needing an identity-",
           "bbox": [
             72.0,
@@ -7418,7 +7300,7 @@
           ]
         },
         {
-          "y": 595,
+          "y": 595.4,
           "text": "based signature. To timestamp a PDF, a timestamp server is needed. See how to configure a",
           "bbox": [
             72.0,
@@ -7474,7 +7356,7 @@
           ]
         },
         {
-          "y": 610,
+          "y": 610.2,
           "text": "timestamp server .",
           "bbox": [
             72.0,
@@ -7530,7 +7412,7 @@
           ]
         },
         {
-          "y": 625,
+          "y": 624.9,
           "text": "A timestamp guarantees the authenticity and existence of a document at a specific time and",
           "bbox": [
             72.0,
@@ -7564,7 +7446,7 @@
           ]
         },
         {
-          "y": 640,
+          "y": 639.7,
           "text": "complies with ETSI 102 778 PDF Advanced Electronic Signatures (PAdES) standard.",
           "bbox": [
             72.0,
@@ -7598,7 +7480,7 @@
           ]
         },
         {
-          "y": 684,
+          "y": 684.2,
           "text": "Validate a digital signature",
           "bbox": [
             72.0,
@@ -7639,7 +7521,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "If the signature status is unknown or unverified, manually validate it to identify the issue and",
           "bbox": [
             72.0,
@@ -7673,7 +7555,7 @@
           ]
         },
         {
-          "y": 87,
+          "y": 86.8,
           "text": "find a potential solution. In case the signature status is invalid, you must contact the signer to",
           "bbox": [
             72.0,
@@ -7707,7 +7589,7 @@
           ]
         },
         {
-          "y": 102,
+          "y": 101.5,
           "text": "resolve the issue.",
           "bbox": [
             72.0,
@@ -7748,7 +7630,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Validate all digital signatures",
           "bbox": [
             72.0,
@@ -7782,7 +7664,7 @@
           ]
         },
         {
-          "y": 117,
+          "y": 116.6,
           "text": "1. Open the PDF for which you want to validate all digital signatures.",
           "bbox": [
             103.5,
@@ -7838,11 +7720,45 @@
           ]
         },
         {
-          "y": 139,
-          "text": "2. From the global bar in the upper-left, select All tools .",
+          "y": 138.9,
+          "text": "All tools",
+          "bbox": [
+            340.67999267578125,
+            138.8639678955078,
+            383.699951171875,
+            153.64796447753906
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "All tools",
+              "origin": [
+                340.67999267578125,
+                150.719970703125
+              ],
+              "bbox": [
+                340.67999267578125,
+                138.8639678955078,
+                383.699951171875,
+                153.64796447753906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 139.0,
+          "text": "2. From the global bar in the upper-left, select .",
           "bbox": [
             103.5,
-            138.8639678955078,
+            138.98397827148438,
             388.9319763183594,
             153.7439727783203
           ],
@@ -7893,28 +7809,6 @@
             },
             {
               "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "All tools",
-              "origin": [
-                340.67999267578125,
-                150.719970703125
-              ],
-              "bbox": [
-                340.67999267578125,
-                138.8639678955078,
-                383.699951171875,
-                153.64796447753906
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -7938,81 +7832,15 @@
           ]
         },
         {
-          "y": 161,
-          "text": "3. From the All tools pane, select Use a certificate > Validate all signature.",
+          "y": 161.2,
+          "text": "All tools Use a certificate Validate all signature.",
           "bbox": [
-            103.5,
-            160.61997985839844,
-            486.9720458984375,
-            176.99996948242188
+            170.09999084472656,
+            161.2439727783203,
+            484.2120361328125,
+            176.02796936035156
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "AdobeClean-Regular",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9779999852180481,
-              "descender": -0.25200000405311584,
-              "text": "3.",
-              "origin": [
-                103.5,
-                173.0999755859375
-              ],
-              "bbox": [
-                103.5,
-                161.36398315429688,
-                112.27200317382812,
-                176.1239776611328
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                112.26000213623047,
-                173.0999755859375
-              ],
-              "bbox": [
-                112.26000213623047,
-                160.61997985839844,
-                115.59600067138672,
-                176.99996948242188
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "AdobeClean-Regular",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9779999852180481,
-              "descender": -0.25200000405311584,
-              "text": "From the ",
-              "origin": [
-                121.5,
-                173.0999755859375
-              ],
-              "bbox": [
-                121.5,
-                161.36398315429688,
-                170.11199951171875,
-                176.1239776611328
-              ]
-            },
             {
               "size": 12.0,
               "flags": 20,
@@ -8033,28 +7861,6 @@
                 161.2439727783203,
                 213.0599822998047,
                 176.02796936035156
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "AdobeClean-Regular",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9779999852180481,
-              "descender": -0.25200000405311584,
-              "text": " pane, select ",
-              "origin": [
-                213.05999755859375,
-                173.0999755859375
-              ],
-              "bbox": [
-                213.05999755859375,
-                161.36398315429688,
-                277.51202392578125,
-                176.1239776611328
               ]
             },
             {
@@ -8081,28 +7887,6 @@
             },
             {
               "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "AdobeClean-Regular",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9779999852180481,
-              "descender": -0.25200000405311584,
-              "text": " > ",
-              "origin": [
-                359.58001708984375,
-                173.0999755859375
-              ],
-              "bbox": [
-                359.58001708984375,
-                161.36398315429688,
-                371.77203369140625,
-                176.1239776611328
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 20,
               "bidi": 0,
               "char_flags": 24,
@@ -8121,6 +7905,106 @@
                 161.2439727783203,
                 484.2120361328125,
                 176.02796936035156
+              ]
+            }
+          ]
+        },
+        {
+          "y": 161.4,
+          "text": "3. From the pane, select >",
+          "bbox": [
+            103.5,
+            161.36398315429688,
+            486.9720458984375,
+            176.1239776611328
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "AdobeClean-Regular",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9779999852180481,
+              "descender": -0.25200000405311584,
+              "text": "3.",
+              "origin": [
+                103.5,
+                173.0999755859375
+              ],
+              "bbox": [
+                103.5,
+                161.36398315429688,
+                112.27200317382812,
+                176.1239776611328
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "AdobeClean-Regular",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9779999852180481,
+              "descender": -0.25200000405311584,
+              "text": "From the ",
+              "origin": [
+                121.5,
+                173.0999755859375
+              ],
+              "bbox": [
+                121.5,
+                161.36398315429688,
+                170.11199951171875,
+                176.1239776611328
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "AdobeClean-Regular",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9779999852180481,
+              "descender": -0.25200000405311584,
+              "text": " pane, select ",
+              "origin": [
+                213.05999755859375,
+                173.0999755859375
+              ],
+              "bbox": [
+                213.05999755859375,
+                161.36398315429688,
+                277.51202392578125,
+                176.1239776611328
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "AdobeClean-Regular",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9779999852180481,
+              "descender": -0.25200000405311584,
+              "text": " > ",
+              "origin": [
+                359.58001708984375,
+                173.0999755859375
+              ],
+              "bbox": [
+                359.58001708984375,
+                161.36398315429688,
+                371.77203369140625,
+                176.1239776611328
               ]
             },
             {
@@ -8148,11 +8032,45 @@
           ]
         },
         {
-          "y": 184,
-          "text": "4. Select OK in the confirmation dialog box. Once all the signatures are validated. You",
+          "y": 183.6,
+          "text": "OK",
+          "bbox": [
+            154.25999450683594,
+            183.6239776611328,
+            170.65199279785156,
+            198.40797424316406
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "OK",
+              "origin": [
+                154.25999450683594,
+                195.47998046875
+              ],
+              "bbox": [
+                154.25999450683594,
+                183.6239776611328,
+                170.65199279785156,
+                198.40797424316406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 183.7,
+          "text": "4. Select in the confirmation dialog box. Once all the signatures are validated. You",
           "bbox": [
             103.5,
-            183.6239776611328,
+            183.74398803710938,
             538.1494140625,
             198.5039825439453
           ],
@@ -8203,28 +8121,6 @@
             },
             {
               "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "OK",
-              "origin": [
-                154.25999450683594,
-                195.47998046875
-              ],
-              "bbox": [
-                154.25999450683594,
-                183.6239776611328,
-                170.65199279785156,
-                198.40797424316406
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -8248,7 +8144,7 @@
           ]
         },
         {
-          "y": 199,
+          "y": 198.5,
           "text": "get a confirmation message.",
           "bbox": [
             121.5,
@@ -8282,7 +8178,7 @@
           ]
         },
         {
-          "y": 243,
+          "y": 242.9,
           "text": "View previous versions of a digitally signed document",
           "bbox": [
             72.0,
@@ -8316,7 +8212,7 @@
           ]
         },
         {
-          "y": 273,
+          "y": 272.6,
           "text": "Whenever a certificate is used to sign a document, a signed version of the PDF is created and",
           "bbox": [
             72.0,
@@ -8350,7 +8246,7 @@
           ]
         },
         {
-          "y": 287,
+          "y": 287.4,
           "text": "saved along with the original PDF. The saved versions are in an append-only format, meaning",
           "bbox": [
             72.0,
@@ -8384,7 +8280,7 @@
           ]
         },
         {
-          "y": 302,
+          "y": 302.1,
           "text": "the original PDF can’t be modified. The Signatures panel provides access to all digital",
           "bbox": [
             72.0,
@@ -8418,7 +8314,7 @@
           ]
         },
         {
-          "y": 317,
+          "y": 316.9,
           "text": "signatures and their corresponding versions.",
           "bbox": [
             72.0,
@@ -8452,12 +8348,46 @@
           ]
         },
         {
-          "y": 342,
-          "text": "To view previous versions, open the Signature panel and then select Options > View",
+          "y": 342.3,
+          "text": "View",
           "bbox": [
-            72.0,
+            490.6199951171875,
             342.2640075683594,
             519.39599609375,
+            357.0480041503906
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "View ",
+              "origin": [
+                490.6199951171875,
+                354.1199951171875
+              ],
+              "bbox": [
+                490.6199951171875,
+                342.2640075683594,
+                519.39599609375,
+                357.0480041503906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 342.4,
+          "text": "To view previous versions, open the Signature panel and then select Options >",
+          "bbox": [
+            72.0,
+            342.3840026855469,
+            490.6319885253906,
             357.14398193359375
           ],
           "spans": [
@@ -8504,39 +8434,17 @@
                 490.6319885253906,
                 357.14398193359375
               ]
-            },
-            {
-              "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "View ",
-              "origin": [
-                490.6199951171875,
-                354.1199951171875
-              ],
-              "bbox": [
-                490.6199951171875,
-                342.2640075683594,
-                519.39599609375,
-                357.0480041503906
-              ]
             }
           ]
         },
         {
-          "y": 357,
-          "text": "Signed Version .",
+          "y": 357.1,
+          "text": "Signed Version",
           "bbox": [
             72.0,
             357.1440124511719,
-            157.99200439453125,
-            372.02398681640625
+            150.00001525878906,
+            371.9280090332031
           ],
           "spans": [
             {
@@ -8560,7 +8468,19 @@
                 150.00001525878906,
                 371.9280090332031
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 357.3,
+          "text": ".",
+          "bbox": [
+            150.0,
+            357.2640075683594,
+            157.99200439453125,
+            372.02398681640625
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -8586,7 +8506,7 @@
           ]
         },
         {
-          "y": 380,
+          "y": 379.5,
           "text": "The previous version opens as a new PDF, with the version information and the name of the",
           "bbox": [
             72.0,
@@ -8620,7 +8540,7 @@
           ]
         },
         {
-          "y": 394,
+          "y": 394.3,
           "text": "signer in the title bar. To return to the original document, choose the document name from",
           "bbox": [
             72.0,
@@ -8676,7 +8596,7 @@
           ]
         },
         {
-          "y": 409,
+          "y": 409.0,
           "text": "the Windows® menu.",
           "bbox": [
             72.0,
@@ -8732,7 +8652,7 @@
           ]
         },
         {
-          "y": 454,
+          "y": 453.5,
           "text": "Compare versions of a signed document",
           "bbox": [
             72.0,
@@ -8766,7 +8686,7 @@
           ]
         },
         {
-          "y": 483,
+          "y": 483.2,
           "text": "After a document is signed, you can display a list of the changes made to the document after",
           "bbox": [
             72.0,
@@ -8800,7 +8720,7 @@
           ]
         },
         {
-          "y": 498,
+          "y": 498.0,
           "text": "the last version.",
           "bbox": [
             72.0,
@@ -8834,7 +8754,7 @@
           ]
         },
         {
-          "y": 520,
+          "y": 520.2,
           "text": "To compare the previous versions, open the S ignatures panel and then select the signature.",
           "bbox": [
             72.0,
@@ -8890,11 +8810,45 @@
           ]
         },
         {
-          "y": 538,
-          "text": "Then, select Options > Compare Signed Version To Current Version .",
+          "y": 538.1,
+          "text": "Compare Signed Version To Current Version",
+          "bbox": [
+            214.67999267578125,
+            538.10400390625,
+            444.89996337890625,
+            552.8880004882812
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 5263440,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "Compare Signed Version To Current Version",
+              "origin": [
+                214.67999267578125,
+                549.9600219726562
+              ],
+              "bbox": [
+                214.67999267578125,
+                538.10400390625,
+                444.89996337890625,
+                552.8880004882812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 538.2,
+          "text": "Then, select Options > .",
           "bbox": [
             72.0,
-            538.10400390625,
+            538.2239990234375,
             452.77203369140625,
             552.9840087890625
           ],
@@ -8945,28 +8899,6 @@
             },
             {
               "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 5263440,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "Compare Signed Version To Current Version",
-              "origin": [
-                214.67999267578125,
-                549.9600219726562
-              ],
-              "bbox": [
-                214.67999267578125,
-                538.10400390625,
-                444.89996337890625,
-                552.8880004882812
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -9012,7 +8944,7 @@
           ]
         },
         {
-          "y": 560,
+          "y": 560.5,
           "text": "Once you're done, close the temporary document.",
           "bbox": [
             72.0,
@@ -9090,7 +9022,7 @@
           ]
         },
         {
-          "y": 627,
+          "y": 627.2,
           "text": "Trust a signer’s certificate",
           "bbox": [
             72.0,
@@ -9124,7 +9056,7 @@
           ]
         },
         {
-          "y": 657,
+          "y": 656.8,
           "text": "To trust a certificate, it must be added to the user's trusted identity list in the Trusted Identity",
           "bbox": [
             72.0,
@@ -9158,7 +9090,7 @@
           ]
         },
         {
-          "y": 672,
+          "y": 671.6,
           "text": "Manager. Also, its trust level must be set manually. End users can exchange certificates or add",
           "bbox": [
             72.0,
@@ -9192,7 +9124,7 @@
           ]
         },
         {
-          "y": 686,
+          "y": 686.4,
           "text": "them directly from signed documents and set their trust levels. However, enterprises may",
           "bbox": [
             72.0,
@@ -9226,7 +9158,7 @@
           ]
         },
         {
-          "y": 701,
+          "y": 701.1,
           "text": "require employees to validate signatures without any manual intervention. Acrobat trusts all",
           "bbox": [
             72.0,
@@ -9267,7 +9199,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "certificates that are signed and certified by a trust anchor. Therefore, administrators can",
           "bbox": [
             72.0,
@@ -9301,7 +9233,7 @@
           ]
         },
         {
-          "y": 87,
+          "y": 86.8,
           "text": "preconfigure client installations or allow end users to add a trust anchor.",
           "bbox": [
             72.0,
@@ -9335,7 +9267,7 @@
           ]
         },
         {
-          "y": 131,
+          "y": 131.2,
           "text": "Sign component PDFs and PDF Portfolios",
           "bbox": [
             72.0,
@@ -9369,7 +9301,7 @@
           ]
         },
         {
-          "y": 161,
+          "y": 160.9,
           "text": "You can sign component PDFs within a PDF Portfolio, or sign the PDF Portfolio as a whole.",
           "bbox": [
             72.0,
@@ -9403,7 +9335,7 @@
           ]
         },
         {
-          "y": 176,
+          "y": 175.6,
           "text": "Signing a component PDF locks the PDF for editing and secures its content. After signing all",
           "bbox": [
             72.0,
@@ -9437,7 +9369,7 @@
           ]
         },
         {
-          "y": 190,
+          "y": 190.4,
           "text": "the component PDFs, you can sign the entire PDF Portfolio to finalize it. Alternatively, you can",
           "bbox": [
             72.0,
@@ -9471,7 +9403,7 @@
           ]
         },
         {
-          "y": 205,
+          "y": 205.2,
           "text": "sign the PDF Portfolio as a whole to lock the content of all component PDFs simultaneously.",
           "bbox": [
             72.0,
@@ -9527,7 +9459,7 @@
           ]
         },
         {
-          "y": 227,
+          "y": 227.4,
           "text": "To sign a component PDF, see Signing PDFs . The signed PDF is automatically saved to",
           "bbox": [
             108.0,
@@ -9605,13 +9537,13 @@
           ]
         },
         {
-          "y": 229,
+          "y": 229.1,
           "text": "•",
           "bbox": [
             90.0,
-            228.73916625976562,
-            97.40477752685547,
-            242.41647338867188
+            229.08987426757812,
+            94.60919952392578,
+            241.3643798828125
           ],
           "spans": [
             {
@@ -9635,33 +9567,11 @@
                 94.60919952392578,
                 241.3643798828125
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                239.15997314453125
-              ],
-              "bbox": [
-                94.61921691894531,
-                228.73916625976562,
-                97.40477752685547,
-                242.41647338867188
-              ]
             }
           ]
         },
         {
-          "y": 242,
+          "y": 242.2,
           "text": "the PDF Portfolio.",
           "bbox": [
             108.0,
@@ -9695,7 +9605,7 @@
           ]
         },
         {
-          "y": 264,
+          "y": 264.4,
           "text": "To sign a PDF Portfolio as a whole, sign the cover sheet (View > Portfolio > Cover",
           "bbox": [
             108.0,
@@ -9729,13 +9639,13 @@
           ]
         },
         {
-          "y": 266,
+          "y": 266.1,
           "text": "•",
           "bbox": [
             90.0,
-            265.7591857910156,
-            97.40477752685547,
-            279.4364929199219
+            266.1098937988281,
+            94.60919952392578,
+            278.3843994140625
           ],
           "spans": [
             {
@@ -9759,33 +9669,11 @@
                 94.60919952392578,
                 278.3843994140625
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                276.17999267578125
-              ],
-              "bbox": [
-                94.61921691894531,
-                265.7591857910156,
-                97.40477752685547,
-                279.4364929199219
-              ]
             }
           ]
         },
         {
-          "y": 279,
+          "y": 279.2,
           "text": "Sheet). Once you sign the PDF Portfolio as a whole, you can’t add signatures to the",
           "bbox": [
             108.0,
@@ -9819,7 +9707,7 @@
           ]
         },
         {
-          "y": 294,
+          "y": 294.0,
           "text": "component documents. However, you can add more signatures to the cover sheet.",
           "bbox": [
             108.0,
@@ -9853,7 +9741,7 @@
           ]
         },
         {
-          "y": 338,
+          "y": 338.4,
           "text": "Digitally sign on attachments to component PDFs",
           "bbox": [
             72.0,
@@ -9887,7 +9775,7 @@
           ]
         },
         {
-          "y": 368,
+          "y": 368.1,
           "text": "You can add signatures to attachments before signing the cover sheet. To do so:",
           "bbox": [
             72.0,
@@ -9965,13 +9853,13 @@
           ]
         },
         {
-          "y": 390,
+          "y": 390.3,
           "text": "1. Open the PDF in a separate window.",
           "bbox": [
             90.0,
-            389.5799865722656,
+            390.3240051269531,
             292.4519958496094,
-            405.9599914550781
+            405.083984375
           ],
           "spans": [
             {
@@ -9994,28 +9882,6 @@
                 390.3240051269531,
                 96.25199890136719,
                 405.083984375
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                96.23999786376953,
-                402.05999755859375
-              ],
-              "bbox": [
-                96.23999786376953,
-                389.5799865722656,
-                99.57599639892578,
-                405.9599914550781
               ]
             },
             {
@@ -10065,11 +9931,45 @@
           ]
         },
         {
-          "y": 410,
-          "text": "2. Right-click the attachment and select Open file .",
+          "y": 409.6,
+          "text": "Open file",
+          "bbox": [
+            295.55999755859375,
+            409.5840148925781,
+            342.87603759765625,
+            424.3680114746094
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 5263440,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "Open file",
+              "origin": [
+                295.55999755859375,
+                421.44000244140625
+              ],
+              "bbox": [
+                295.55999755859375,
+                409.5840148925781,
+                342.87603759765625,
+                424.3680114746094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 409.7,
+          "text": "2. Right-click the attachment and select .",
           "bbox": [
             90.0,
-            409.5840148925781,
+            409.7040100097656,
             350.8320007324219,
             424.4639892578125
           ],
@@ -10120,28 +10020,6 @@
             },
             {
               "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 5263440,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "Open file",
-              "origin": [
-                295.55999755859375,
-                421.44000244140625
-              ],
-              "bbox": [
-                295.55999755859375,
-                409.5840148925781,
-                342.87603759765625,
-                424.3680114746094
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -10187,7 +10065,7 @@
           ]
         },
         {
-          "y": 429,
+          "y": 429.0,
           "text": "3. To view signatures on the PDF Portfolio, navigate to the cover sheet to view the",
           "bbox": [
             90.0,
@@ -10243,7 +10121,7 @@
           ]
         },
         {
-          "y": 444,
+          "y": 443.7,
           "text": "document message bar and signatures pane.",
           "bbox": [
             108.0,
@@ -10299,7 +10177,7 @@
           ]
         },
         {
-          "y": 485,
+          "y": 485.2,
           "text": "View signed and certified PDF Portfolios",
           "bbox": [
             72.0,
@@ -10333,7 +10211,7 @@
           ]
         },
         {
-          "y": 515,
+          "y": 514.9,
           "text": "A properly signed or certified PDF Portfolio has one or more signatures that approve or certify",
           "bbox": [
             72.0,
@@ -10367,7 +10245,7 @@
           ]
         },
         {
-          "y": 530,
+          "y": 529.6,
           "text": "the PDF Portfolio. The most significant signature appears in a Signature badge in the toolbar.",
           "bbox": [
             72.0,
@@ -10401,7 +10279,7 @@
           ]
         },
         {
-          "y": 544,
+          "y": 544.4,
           "text": "Details of all signatures appear on the cover sheet.",
           "bbox": [
             72.0,
@@ -10435,7 +10313,7 @@
           ]
         },
         {
-          "y": 567,
+          "y": 566.7,
           "text": "To view the name of the organization or person that signed the PDF Portfolio, hover",
           "bbox": [
             108.0,
@@ -10469,13 +10347,13 @@
           ]
         },
         {
-          "y": 568,
+          "y": 568.3,
           "text": "•",
           "bbox": [
             90.0,
-            567.979248046875,
-            97.40477752685547,
-            581.656494140625
+            568.3298950195312,
+            94.60919952392578,
+            580.6044311523438
           ],
           "spans": [
             {
@@ -10499,33 +10377,11 @@
                 94.60919952392578,
                 580.6044311523438
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                578.4000244140625
-              ],
-              "bbox": [
-                94.61921691894531,
-                567.979248046875,
-                97.40477752685547,
-                581.656494140625
-              ]
             }
           ]
         },
         {
-          "y": 581,
+          "y": 581.4,
           "text": "the pointer over the Signature Badge.",
           "bbox": [
             108.0,
@@ -10559,7 +10415,7 @@
           ]
         },
         {
-          "y": 604,
+          "y": 603.7,
           "text": "To view details about the signature that appears on the Signature Badge, click",
           "bbox": [
             108.0,
@@ -10593,13 +10449,13 @@
           ]
         },
         {
-          "y": 605,
+          "y": 605.3,
           "text": "•",
           "bbox": [
             90.0,
-            604.9992065429688,
-            97.40477752685547,
-            618.6764526367188
+            605.349853515625,
+            94.60919952392578,
+            617.6243896484375
           ],
           "spans": [
             {
@@ -10623,33 +10479,11 @@
                 94.60919952392578,
                 617.6243896484375
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                615.4199829101562
-              ],
-              "bbox": [
-                94.61921691894531,
-                604.9992065429688,
-                97.40477752685547,
-                618.6764526367188
-              ]
             }
           ]
         },
         {
-          "y": 618,
+          "y": 618.4,
           "text": "the Signature Badge. The cover sheet and the Signatures pane on the left are open",
           "bbox": [
             108.0,
@@ -10683,7 +10517,7 @@
           ]
         },
         {
-          "y": 633,
+          "y": 633.2,
           "text": "with details.",
           "bbox": [
             108.0,
@@ -10717,7 +10551,7 @@
           ]
         },
         {
-          "y": 655,
+          "y": 655.5,
           "text": "If the PDF Portfolio approval or certification is invalid or has a problem, the Signature",
           "bbox": [
             72.0,
@@ -10751,7 +10585,7 @@
           ]
         },
         {
-          "y": 670,
+          "y": 670.2,
           "text": "Badge shows a warning icon. To view an explanation of the problem, hover the pointer over",
           "bbox": [
             72.0,
@@ -10785,7 +10619,7 @@
           ]
         },
         {
-          "y": 685,
+          "y": 685.0,
           "text": "a Signature Badge with a warning icon. Different warning icons appear for different situations.",
           "bbox": [
             72.0,
@@ -10826,11 +10660,45 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
-          "text": "For a list and explanation of each warning, see the DigSig Admin Guide .",
+          "y": 72.0,
+          "text": "DigSig Admin Guide",
+          "bbox": [
+            323.760009765625,
+            72.01200866699219,
+            422.2799987792969,
+            86.85600280761719
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "AdobeClean-It",
+              "color": 157148,
+              "alpha": 255,
+              "ascender": 0.9890000224113464,
+              "descender": -0.24799999594688416,
+              "text": "DigSig Admin Guide",
+              "origin": [
+                323.760009765625,
+                83.8800048828125
+              ],
+              "bbox": [
+                323.760009765625,
+                72.01200866699219,
+                422.2799987792969,
+                86.85600280761719
+              ]
+            }
+          ]
+        },
+        {
+          "y": 72.1,
+          "text": "For a list and explanation of each warning, see the .",
           "bbox": [
             72.0,
-            72.01200866699219,
+            72.14400482177734,
             427.4519958496094,
             86.90400695800781
           ],
@@ -10859,28 +10727,6 @@
             },
             {
               "size": 12.0,
-              "flags": 6,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "AdobeClean-It",
-              "color": 157148,
-              "alpha": 255,
-              "ascender": 0.9890000224113464,
-              "descender": -0.24799999594688416,
-              "text": "DigSig Admin Guide",
-              "origin": [
-                323.760009765625,
-                83.8800048828125
-              ],
-              "bbox": [
-                323.760009765625,
-                72.01200866699219,
-                422.2799987792969,
-                86.85600280761719
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -10904,7 +10750,7 @@
           ]
         },
         {
-          "y": 117,
+          "y": 116.6,
           "text": "XML data signatures",
           "bbox": [
             72.0,
@@ -10938,7 +10784,7 @@
           ]
         },
         {
-          "y": 146,
+          "y": 146.2,
           "text": "Acrobat and Acrobat Reader support XML data signatures that are used to sign data in XML",
           "bbox": [
             72.0,
@@ -10972,7 +10818,7 @@
           ]
         },
         {
-          "y": 161,
+          "y": 161.0,
           "text": "Forms Architectures (XFA) forms. The form author provides XML signing, validating, or",
           "bbox": [
             72.0,
@@ -11006,7 +10852,7 @@
           ]
         },
         {
-          "y": 176,
+          "y": 175.8,
           "text": "clearing instructions for form events, such as button click, file save, or submit.",
           "bbox": [
             72.0,
@@ -11040,7 +10886,7 @@
           ]
         },
         {
-          "y": 198,
+          "y": 198.0,
           "text": "XML data signatures conform to the W3C XML-Signature standard. Like PDF digital",
           "bbox": [
             72.0,
@@ -11074,7 +10920,7 @@
           ]
         },
         {
-          "y": 213,
+          "y": 212.8,
           "text": "signatures, XML digital signatures ensure integrity, authentication, and non-repudiation in",
           "bbox": [
             72.0,
@@ -11108,7 +10954,7 @@
           ]
         },
         {
-          "y": 228,
+          "y": 227.5,
           "text": "documents.",
           "bbox": [
             72.0,
@@ -11142,7 +10988,7 @@
           ]
         },
         {
-          "y": 250,
+          "y": 249.8,
           "text": "However, PDF signatures have multiple data verification states. Some states are called when a",
           "bbox": [
             72.0,
@@ -11176,7 +11022,7 @@
           ]
         },
         {
-          "y": 265,
+          "y": 264.6,
           "text": "user alters the PDF-signed content. In contrast, XML signatures only have two data verification",
           "bbox": [
             72.0,
@@ -11210,7 +11056,7 @@
           ]
         },
         {
-          "y": 279,
+          "y": 279.3,
           "text": "states, valid and invalid. The invalid state is called when a user alters the XML-signed content.",
           "bbox": [
             72.0,
@@ -11244,7 +11090,7 @@
           ]
         },
         {
-          "y": 324,
+          "y": 323.8,
           "text": "Establish long-term signature validation",
           "bbox": [
             72.0,
@@ -11278,7 +11124,7 @@
           ]
         },
         {
-          "y": 353,
+          "y": 353.5,
           "text": "Long-term signature validation allows you to verify the signature's validity long after the",
           "bbox": [
             72.0,
@@ -11312,7 +11158,7 @@
           ]
         },
         {
-          "y": 368,
+          "y": 368.2,
           "text": "document was signed. To achieve this, all the necessary elements for signature validation",
           "bbox": [
             72.0,
@@ -11346,7 +11192,7 @@
           ]
         },
         {
-          "y": 383,
+          "y": 383.0,
           "text": "must be embedded in the signed PDF. These elements can be embedded during the",
           "bbox": [
             72.0,
@@ -11380,7 +11226,7 @@
           ]
         },
         {
-          "y": 398,
+          "y": 397.8,
           "text": "document signing process or added afterward.",
           "bbox": [
             72.0,
@@ -11414,7 +11260,7 @@
           ]
         },
         {
-          "y": 420,
+          "y": 420.0,
           "text": "If certain information is not included in the PDF, the signature can only be validated for a",
           "bbox": [
             72.0,
@@ -11448,7 +11294,7 @@
           ]
         },
         {
-          "y": 435,
+          "y": 434.8,
           "text": "limited time because certificates related to the signature eventually expire or are revoked.",
           "bbox": [
             72.0,
@@ -11482,7 +11328,7 @@
           ]
         },
         {
-          "y": 450,
+          "y": 449.5,
           "text": "When a certificate expires, the issuing authority is no longer responsible for providing",
           "bbox": [
             72.0,
@@ -11516,7 +11362,7 @@
           ]
         },
         {
-          "y": 464,
+          "y": 464.3,
           "text": "revocation status, rendering the signature unverifiable.",
           "bbox": [
             72.0,
@@ -11550,7 +11396,7 @@
           ]
         },
         {
-          "y": 487,
+          "y": 486.6,
           "text": "The necessary elements for signature validity include the signing certificate chain, certificate",
           "bbox": [
             72.0,
@@ -11584,7 +11430,7 @@
           ]
         },
         {
-          "y": 501,
+          "y": 501.3,
           "text": "revocation status, and possibly a timestamp. If these elements are embedded during signing,",
           "bbox": [
             72.0,
@@ -11618,7 +11464,7 @@
           ]
         },
         {
-          "y": 516,
+          "y": 516.1,
           "text": "the signature can be validated without requiring external resources.",
           "bbox": [
             72.0,
@@ -11652,7 +11498,7 @@
           ]
         },
         {
-          "y": 538,
+          "y": 538.3,
           "text": "Acrobat and Acrobat Reader can embed the necessary elements if available, and the PDF",
           "bbox": [
             72.0,
@@ -11686,7 +11532,7 @@
           ]
         },
         {
-          "y": 553,
+          "y": 553.1,
           "text": "creator must enable usage rights for Acrobat Reader users by going to the hamburger",
           "bbox": [
             72.0,
@@ -11720,12 +11566,90 @@
           ]
         },
         {
-          "y": 568,
-          "text": "menu (Windows) or the Acrobat menu (macOS) > Save as other > Acrobat Reader",
+          "y": 567.9,
+          "text": "Acrobat Save as other Acrobat Reader",
           "bbox": [
-            72.0,
+            196.61997985839844,
             567.8639526367188,
             494.3160705566406,
+            582.64794921875
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "Acrobat",
+              "origin": [
+                196.61997985839844,
+                579.719970703125
+              ],
+              "bbox": [
+                196.61997985839844,
+                567.8639526367188,
+                238.1039581298828,
+                582.64794921875
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "Save as other",
+              "origin": [
+                328.739990234375,
+                579.719970703125
+              ],
+              "bbox": [
+                328.739990234375,
+                567.8639526367188,
+                397.8960266113281,
+                582.64794921875
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "Acrobat Reader ",
+              "origin": [
+                410.1000671386719,
+                579.719970703125
+              ],
+              "bbox": [
+                410.1000671386719,
+                567.8639526367188,
+                494.3160705566406,
+                582.64794921875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 568.0,
+          "text": "menu (Windows) or the menu (macOS) > >",
+          "bbox": [
+            72.0,
+            567.9839477539062,
+            410.112060546875,
             582.7439575195312
           ],
           "spans": [
@@ -11775,28 +11699,6 @@
             },
             {
               "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "Acrobat",
-              "origin": [
-                196.61997985839844,
-                579.719970703125
-              ],
-              "bbox": [
-                196.61997985839844,
-                567.8639526367188,
-                238.1039581298828,
-                582.64794921875
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -11815,28 +11717,6 @@
                 567.9839477539062,
                 328.75201416015625,
                 582.7439575195312
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "Save as other",
-              "origin": [
-                328.739990234375,
-                579.719970703125
-              ],
-              "bbox": [
-                328.739990234375,
-                567.8639526367188,
-                397.8960266113281,
-                582.64794921875
               ]
             },
             {
@@ -11860,39 +11740,17 @@
                 410.112060546875,
                 582.7439575195312
               ]
-            },
-            {
-              "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "Acrobat Reader ",
-              "origin": [
-                410.1000671386719,
-                579.719970703125
-              ],
-              "bbox": [
-                410.1000671386719,
-                567.8639526367188,
-                494.3160705566406,
-                582.64794921875
-              ]
             }
           ]
         },
         {
-          "y": 583,
-          "text": "extended PDF .",
+          "y": 582.7,
+          "text": "extended PDF",
           "bbox": [
             72.0,
             582.7439575195312,
-            150.31199645996094,
-            597.6239624023438
+            145.1280059814453,
+            597.5279541015625
           ],
           "spans": [
             {
@@ -11916,7 +11774,19 @@
                 145.1280059814453,
                 597.5279541015625
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 582.9,
+          "text": ".",
+          "bbox": [
+            145.13999938964844,
+            582.8639526367188,
+            150.31199645996094,
+            597.6239624023438
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -11942,13 +11812,13 @@
           ]
         },
         {
-          "y": 605,
-          "text": "Note: Embedding timestamp information requires an appropriately configured timestamp",
+          "y": 605.1,
+          "text": "Note:",
           "bbox": [
             72.0,
             605.1239624023438,
-            523.15185546875,
-            620.0039672851562
+            101.20800018310547,
+            619.907958984375
           ],
           "spans": [
             {
@@ -11972,7 +11842,19 @@
                 101.20800018310547,
                 619.907958984375
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 605.2,
+          "text": "Embedding timestamp information requires an appropriately configured timestamp",
+          "bbox": [
+            101.22000122070312,
+            605.2439575195312,
+            523.15185546875,
+            620.0039672851562
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -11998,7 +11880,7 @@
           ]
         },
         {
-          "y": 620,
+          "y": 620.0,
           "text": "server. In addition, the signature validation time must be set to Secure Time by navigating",
           "bbox": [
             72.0,
@@ -12032,11 +11914,111 @@
           ]
         },
         {
-          "y": 635,
-          "text": "to Preferences > Security > Advanced Preferences > Verification tab.",
+          "y": 634.8,
+          "text": "Preferences Security Advanced Preferences Verification",
+          "bbox": [
+            85.13999938964844,
+            634.7639770507812,
+            400.3800354003906,
+            649.5479736328125
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "Preferences",
+              "origin": [
+                85.13999938964844,
+                646.6199951171875
+              ],
+              "bbox": [
+                85.13999938964844,
+                634.7639770507812,
+                146.28001403808594,
+                649.5479736328125
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "Security",
+              "origin": [
+                158.45999145507812,
+                646.6199951171875
+              ],
+              "bbox": [
+                158.45999145507812,
+                634.7639770507812,
+                200.20799255371094,
+                649.5479736328125
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "Advanced Preferences",
+              "origin": [
+                212.39999389648438,
+                646.6199951171875
+              ],
+              "bbox": [
+                212.39999389648438,
+                634.7639770507812,
+                328.1999206542969,
+                649.5479736328125
+              ]
+            },
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "Verification",
+              "origin": [
+                340.3800354003906,
+                646.6199951171875
+              ],
+              "bbox": [
+                340.3800354003906,
+                634.7639770507812,
+                400.3800354003906,
+                649.5479736328125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 634.9,
+          "text": "to > > > tab.",
           "bbox": [
             72.0,
-            634.7639770507812,
+            634.8839721679688,
             424.5120544433594,
             649.6439819335938
           ],
@@ -12065,28 +12047,6 @@
             },
             {
               "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "Preferences",
-              "origin": [
-                85.13999938964844,
-                646.6199951171875
-              ],
-              "bbox": [
-                85.13999938964844,
-                634.7639770507812,
-                146.28001403808594,
-                649.5479736328125
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -12105,28 +12065,6 @@
                 634.8839721679688,
                 158.4720001220703,
                 649.6439819335938
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "Security",
-              "origin": [
-                158.45999145507812,
-                646.6199951171875
-              ],
-              "bbox": [
-                158.45999145507812,
-                634.7639770507812,
-                200.20799255371094,
-                649.5479736328125
               ]
             },
             {
@@ -12153,28 +12091,6 @@
             },
             {
               "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "Advanced Preferences",
-              "origin": [
-                212.39999389648438,
-                646.6199951171875
-              ],
-              "bbox": [
-                212.39999389648438,
-                634.7639770507812,
-                328.1999206542969,
-                649.5479736328125
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -12193,28 +12109,6 @@
                 634.8839721679688,
                 340.39202880859375,
                 649.6439819335938
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "Verification",
-              "origin": [
-                340.3800354003906,
-                646.6199951171875
-              ],
-              "bbox": [
-                340.3800354003906,
-                634.7639770507812,
-                400.3800354003906,
-                649.5479736328125
               ]
             },
             {
@@ -12242,7 +12136,7 @@
           ]
         },
         {
-          "y": 657,
+          "y": 657.1,
           "text": "CDS certificates can add verification information, such as revocation and timestamp into the",
           "bbox": [
             72.0,
@@ -12276,7 +12170,7 @@
           ]
         },
         {
-          "y": 672,
+          "y": 671.9,
           "text": "document without requiring any configuration from the signer. However, the signer must be",
           "bbox": [
             72.0,
@@ -12310,7 +12204,7 @@
           ]
         },
         {
-          "y": 687,
+          "y": 686.7,
           "text": "online to fetch the appropriate information.",
           "bbox": [
             72.0,
@@ -12351,7 +12245,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 94,
+          "y": 94.2,
           "text": "Add verification information at signing",
           "bbox": [
             72.0,
@@ -12385,7 +12279,7 @@
           ]
         },
         {
-          "y": 124,
+          "y": 123.9,
           "text": "To add verification information while signing:",
           "bbox": [
             72.0,
@@ -12441,7 +12335,7 @@
           ]
         },
         {
-          "y": 146,
+          "y": 146.1,
           "text": "1. Ensure that your computer can connect to the appropriate network resources.",
           "bbox": [
             90.0,
@@ -12519,37 +12413,15 @@
           ]
         },
         {
-          "y": 165,
+          "y": 165.4,
           "text": "Preferences Signatures Creation & Appearances More",
           "bbox": [
-            98.45999908447266,
-            164.75999450683594,
+            138.77999877929688,
+            165.3839874267578,
             439.0560607910156,
-            181.13998413085938
+            180.16798400878906
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                98.45999908447266,
-                177.239990234375
-              ],
-              "bbox": [
-                98.45999908447266,
-                164.75999450683594,
-                101.7959976196289,
-                181.13998413085938
-              ]
-            },
             {
               "size": 12.0,
               "flags": 20,
@@ -12641,7 +12513,7 @@
           ]
         },
         {
-          "y": 166,
+          "y": 165.5,
           "text": "2. Go to > > : and make sure that",
           "bbox": [
             90.0,
@@ -12785,11 +12657,45 @@
           ]
         },
         {
-          "y": 180,
-          "text": "the Include signature’s revocation status option is selected.",
+          "y": 180.3,
+          "text": "Include signature’s revocation status",
+          "bbox": [
+            127.02000427246094,
+            180.2639923095703,
+            315.1199951171875,
+            195.04798889160156
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "Include signature’s revocation status",
+              "origin": [
+                127.02000427246094,
+                192.1199951171875
+              ],
+              "bbox": [
+                127.02000427246094,
+                180.2639923095703,
+                315.1199951171875,
+                195.04798889160156
+              ]
+            }
+          ]
+        },
+        {
+          "y": 180.4,
+          "text": "the option is selected.",
           "bbox": [
             108.0,
-            180.2639923095703,
+            180.38400268554688,
             410.3520202636719,
             195.1439971923828
           ],
@@ -12818,28 +12724,6 @@
             },
             {
               "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "Include signature’s revocation status",
-              "origin": [
-                127.02000427246094,
-                192.1199951171875
-              ],
-              "bbox": [
-                127.02000427246094,
-                180.2639923095703,
-                315.1199951171875,
-                195.04798889160156
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -12863,7 +12747,7 @@
           ]
         },
         {
-          "y": 200,
+          "y": 199.6,
           "text": "3. Sign the PDF.",
           "bbox": [
             90.0,
@@ -12941,7 +12825,7 @@
           ]
         },
         {
-          "y": 222,
+          "y": 221.9,
           "text": "If all the elements of the certificate chain are available, the information is added to the PDF",
           "bbox": [
             72.0,
@@ -12975,7 +12859,7 @@
           ]
         },
         {
-          "y": 237,
+          "y": 236.7,
           "text": "automatically. If a timestamp server has been configured, the timestamp is also added.",
           "bbox": [
             72.0,
@@ -13009,7 +12893,7 @@
           ]
         },
         {
-          "y": 281,
+          "y": 281.1,
           "text": "Add verification information after signing",
           "bbox": [
             72.0,
@@ -13043,7 +12927,7 @@
           ]
         },
         {
-          "y": 311,
+          "y": 310.8,
           "text": "In certain workflows, signature validation information may be unavailable during the signing",
           "bbox": [
             72.0,
@@ -13077,7 +12961,7 @@
           ]
         },
         {
-          "y": 326,
+          "y": 325.5,
           "text": "but can be obtained later. For instance, a company official may sign a contract on a laptop",
           "bbox": [
             72.0,
@@ -13111,7 +12995,7 @@
           ]
         },
         {
-          "y": 340,
+          "y": 340.3,
           "text": "while traveling without internet access. When internet access is later available, anyone",
           "bbox": [
             72.0,
@@ -13145,7 +13029,7 @@
           ]
         },
         {
-          "y": 355,
+          "y": 355.0,
           "text": "validating the signature can add timestamping and revocation information to the PDF.",
           "bbox": [
             72.0,
@@ -13179,7 +13063,7 @@
           ]
         },
         {
-          "y": 370,
+          "y": 369.8,
           "text": "Subsequent signature validations can also make use of this information.",
           "bbox": [
             72.0,
@@ -13213,7 +13097,7 @@
           ]
         },
         {
-          "y": 392,
+          "y": 392.1,
           "text": "To add verification information after signing:",
           "bbox": [
             72.0,
@@ -13247,13 +13131,13 @@
           ]
         },
         {
-          "y": 414,
+          "y": 414.3,
           "text": "1. Ensure that your computer can connect to the appropriate network resources, and",
           "bbox": [
             90.0,
-            413.5799865722656,
+            414.3240051269531,
             520.3946533203125,
-            429.9599914550781
+            429.083984375
           ],
           "spans": [
             {
@@ -13276,28 +13160,6 @@
                 414.3240051269531,
                 96.25199890136719,
                 429.083984375
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                96.23999786376953,
-                426.05999755859375
-              ],
-              "bbox": [
-                96.23999786376953,
-                413.5799865722656,
-                99.57599639892578,
-                429.9599914550781
               ]
             },
             {
@@ -13325,7 +13187,7 @@
           ]
         },
         {
-          "y": 429,
+          "y": 429.1,
           "text": "then right-click the signature in the PDF.",
           "bbox": [
             108.0,
@@ -13359,13 +13221,47 @@
           ]
         },
         {
-          "y": 448,
-          "text": "2. Select Add Verification Information .",
+          "y": 448.3,
+          "text": "Add Verification Information",
+          "bbox": [
+            140.75999450683594,
+            448.3440246582031,
+            289.6211853027344,
+            463.1280212402344
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "AdobeClean-Bold",
+              "color": 3355443,
+              "alpha": 255,
+              "ascender": 0.9879999756813049,
+              "descender": -0.24400000274181366,
+              "text": "Add Verification Information",
+              "origin": [
+                140.75999450683594,
+                460.20001220703125
+              ],
+              "bbox": [
+                140.75999450683594,
+                448.3440246582031,
+                289.6211853027344,
+                463.1280212402344
+              ]
+            }
+          ]
+        },
+        {
+          "y": 448.5,
+          "text": "2. Select .",
           "bbox": [
             90.0,
-            447.7200012207031,
+            448.4640197753906,
             294.7919921875,
-            464.1000061035156
+            463.2239990234375
           ],
           "spans": [
             {
@@ -13392,28 +13288,6 @@
             },
             {
               "size": 12.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                98.45999908447266,
-                460.20001220703125
-              ],
-              "bbox": [
-                98.45999908447266,
-                447.7200012207031,
-                101.7959976196289,
-                464.1000061035156
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -13432,28 +13306,6 @@
                 448.4640197753906,
                 140.77200317382812,
                 463.2239990234375
-              ]
-            },
-            {
-              "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "AdobeClean-Bold",
-              "color": 3355443,
-              "alpha": 255,
-              "ascender": 0.9879999756813049,
-              "descender": -0.24400000274181366,
-              "text": "Add Verification Information",
-              "origin": [
-                140.75999450683594,
-                460.20001220703125
-              ],
-              "bbox": [
-                140.75999450683594,
-                448.3440246582031,
-                289.6211853027344,
-                463.1280212402344
               ]
             },
             {
@@ -13481,7 +13333,7 @@
           ]
         },
         {
-          "y": 471,
+          "y": 470.7,
           "text": "Information and methods used to include this long-term validation (LTV) information in the",
           "bbox": [
             72.0,
@@ -13515,7 +13367,7 @@
           ]
         },
         {
-          "y": 485,
+          "y": 485.5,
           "text": "PDF comply with Part 4 of the ETSI 102 778 PDF Advanced Electronic Signatures (PAdES)",
           "bbox": [
             72.0,
@@ -13549,7 +13401,7 @@
           ]
         },
         {
-          "y": 500,
+          "y": 500.2,
           "text": "standard.",
           "bbox": [
             72.0,
@@ -13583,7 +13435,7 @@
           ]
         },
         {
-          "y": 523,
+          "y": 522.5,
           "text": "The command is unavailable if the signature is invalid, or is signed with a self-signed",
           "bbox": [
             72.0,
@@ -13617,7 +13469,7 @@
           ]
         },
         {
-          "y": 537,
+          "y": 537.3,
           "text": "certificate. The command is also unavailable in case the verification time equals the current",
           "bbox": [
             72.0,
@@ -13651,7 +13503,7 @@
           ]
         },
         {
-          "y": 552,
+          "y": 552.0,
           "text": "time.",
           "bbox": [
             72.0,

@@ -1,0 +1,45 @@
+{
+  "title": "1",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "1",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "What is hepatitis A?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "WHEN?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "wait",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "What should I look for?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "What should I do?",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Mild problems",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Severe problems",
+      "page": 2
+    }
+  ]
+}

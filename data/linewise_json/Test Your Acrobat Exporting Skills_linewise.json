@@ -7,7 +7,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 74,
+          "y": 74.4,
           "text": "Export Expert: Test Your Acrobat Exporting Skills",
           "bbox": [
             72.0,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 108,
+          "y": 108.4,
           "text": "Welcome to the ultimate test of your Acrobat exporting skills! Think you know everything",
           "bbox": [
             72.0,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 125,
+          "y": 125.3,
           "text": "about saving, converting, and exporting PDFs? It's time to put your knowledge to the test.",
           "bbox": [
             72.0,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 142,
+          "y": 142.3,
           "text": "Dive into real-world scenarios, answer intriguing questions, and see if you have what it takes",
           "bbox": [
             72.0,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 159,
+          "y": 159.3,
           "text": "to be a true PDF exporting pro",
           "bbox": [
             72.0,
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "y": 201,
+          "y": 201.2,
           "text": "1. Yes or No: Can you save a PDF in text format to use with a screen reader?",
           "bbox": [
             90.0,
@@ -255,7 +255,7 @@
           ]
         },
         {
-          "y": 226,
+          "y": 226.2,
           "text": "2. True or False: Saving a digitally signed PDF invalidates the signature.",
           "bbox": [
             90.0,
@@ -333,7 +333,7 @@
           ]
         },
         {
-          "y": 251,
+          "y": 251.1,
           "text": "3. Scenario: Imagine you're working on an important report and your computer crashes.",
           "bbox": [
             90.0,
@@ -411,7 +411,7 @@
           ]
         },
         {
-          "y": 268,
+          "y": 268.1,
           "text": "Do you rely on the Autosave feature to recover your work or start from scratch?",
           "bbox": [
             108.0199966430664,
@@ -445,7 +445,7 @@
           ]
         },
         {
-          "y": 293,
+          "y": 293.1,
           "text": "4. Yes or No: Can you recover the last saved version of a PDF if you accidentally delete it?",
           "bbox": [
             90.0,
@@ -523,7 +523,7 @@
           ]
         },
         {
-          "y": 318,
+          "y": 318.0,
           "text": "5. True or False: The Autosave feature in Acrobat saves your work every 15 minutes by",
           "bbox": [
             90.0,
@@ -601,7 +601,7 @@
           ]
         },
         {
-          "y": 335,
+          "y": 335.0,
           "text": "default.",
           "bbox": [
             108.0199966430664,
@@ -635,7 +635,7 @@
           ]
         },
         {
-          "y": 360,
+          "y": 360.0,
           "text": "6. Scenario: You're preparing a presentation for a big meeting. Do you use Acrobat to",
           "bbox": [
             90.0,
@@ -713,7 +713,7 @@
           ]
         },
         {
-          "y": 377,
+          "y": 376.9,
           "text": "convert your PDF to a PowerPoint file or manually recreate the slides?",
           "bbox": [
             108.0199966430664,
@@ -747,7 +747,7 @@
           ]
         },
         {
-          "y": 402,
+          "y": 401.9,
           "text": "7. Yes or No: Can you export a PDF to a reusable format like Microsoft Word?",
           "bbox": [
             90.0,
@@ -825,7 +825,7 @@
           ]
         },
         {
-          "y": 427,
+          "y": 426.9,
           "text": "8. True or False: Acrobat Reader users can save a copy of a PDF if the creator has enabled",
           "bbox": [
             90.0,
@@ -903,7 +903,7 @@
           ]
         },
         {
-          "y": 444,
+          "y": 443.9,
           "text": "usage rights.",
           "bbox": [
             108.0199966430664,
@@ -937,7 +937,7 @@
           ]
         },
         {
-          "y": 469,
+          "y": 468.8,
           "text": "9. Scenario: You're a graphic designer who needs to save a copy of a PDF Portfolio for a",
           "bbox": [
             90.0,
@@ -1015,7 +1015,7 @@
           ]
         },
         {
-          "y": 486,
+          "y": 485.8,
           "text": "client. Do you use \"File > Save\" or \"File > Save As\"?",
           "bbox": [
             108.0199966430664,
@@ -1049,7 +1049,7 @@
           ]
         },
         {
-          "y": 511,
+          "y": 510.8,
           "text": "10. Yes or No: Does the Autosave feature work if a document's security settings are",
           "bbox": [
             90.0,
@@ -1127,7 +1127,7 @@
           ]
         },
         {
-          "y": 528,
+          "y": 527.7,
           "text": "changed?",
           "bbox": [
             108.0199966430664,
@@ -1161,7 +1161,7 @@
           ]
         },
         {
-          "y": 553,
+          "y": 552.7,
           "text": "11. True or False: You can convert a PDF to a Microsoft PowerPoint presentation using",
           "bbox": [
             90.0,
@@ -1239,7 +1239,7 @@
           ]
         },
         {
-          "y": 570,
+          "y": 569.7,
           "text": "Acrobat.",
           "bbox": [
             108.0199966430664,
@@ -1273,7 +1273,7 @@
           ]
         },
         {
-          "y": 595,
+          "y": 594.6,
           "text": "12. Scenario: You're a student who needs to convert a PDF to a DOCX file for your thesis. Do",
           "bbox": [
             90.0,
@@ -1351,7 +1351,7 @@
           ]
         },
         {
-          "y": 612,
+          "y": 611.6,
           "text": "you use the \"Convert\" button in Acrobat or retype the entire document?",
           "bbox": [
             108.0199966430664,
@@ -1385,7 +1385,7 @@
           ]
         },
         {
-          "y": 637,
+          "y": 636.6,
           "text": "13. Yes or No: Can you export images from a PDF to another format using Acrobat?",
           "bbox": [
             90.0,
@@ -1463,7 +1463,7 @@
           ]
         },
         {
-          "y": 662,
+          "y": 661.5,
           "text": "14. True or False: Higher resolutions, like 2400 ppi, are suitable for small page sizes.",
           "bbox": [
             90.0,
@@ -1541,7 +1541,7 @@
           ]
         },
         {
-          "y": 687,
+          "y": 686.5,
           "text": "15. Scenario: You're a photographer who wants to save a PDF as a JPEG image for your",
           "bbox": [
             90.0,
@@ -1619,7 +1619,7 @@
           ]
         },
         {
-          "y": 704,
+          "y": 703.5,
           "text": "portfolio. Do you use the \"Convert to JPEG\" option or take a screenshot?",
           "bbox": [
             108.0199966430664,
@@ -1660,7 +1660,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 74,
+          "y": 74.4,
           "text": "16. Yes or No: Can you export a PDF to XML format using Acrobat?",
           "bbox": [
             90.0,
@@ -1738,7 +1738,7 @@
           ]
         },
         {
-          "y": 99,
+          "y": 99.4,
           "text": "17. True or False: You can use the Snapshot tool to copy selected content as an image.",
           "bbox": [
             90.0,
@@ -1816,7 +1816,7 @@
           ]
         },
         {
-          "y": 124,
+          "y": 124.3,
           "text": "18. Scenario: You're a web developer who needs to export a PDF to HTML for your website.",
           "bbox": [
             90.0,
@@ -1894,7 +1894,7 @@
           ]
         },
         {
-          "y": 141,
+          "y": 141.3,
           "text": "Do you use the \"Convert to HTML\" option or manually code the content?",
           "bbox": [
             108.0199966430664,
@@ -1928,7 +1928,7 @@
           ]
         },
         {
-          "y": 166,
+          "y": 166.3,
           "text": "19. Yes or No: Can you select and copy text and images from a PDF using the Select tool?",
           "bbox": [
             90.0,
@@ -2006,7 +2006,7 @@
           ]
         },
         {
-          "y": 191,
+          "y": 191.2,
           "text": "20. True or False: The Autosave feature is disabled by default in Acrobat.",
           "bbox": [
             90.0,

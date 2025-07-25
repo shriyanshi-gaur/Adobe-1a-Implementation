@@ -7,7 +7,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 797,
+          "y": 797.1,
           "text": "CENTRE FOR HUMANITARIAN DATA",
           "bbox": [
             53.62139892578125,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 799,
+          "y": 798.7,
           "text": "1",
           "bbox": [
             536.6151733398438,
@@ -82,7 +82,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 51,
+          "y": 50.9,
           "text": "About this series: The climate crisis is intensifying humanitarian emergencies around the world and",
           "bbox": [
             53.96849822998047,
@@ -116,7 +116,7 @@
           ]
         },
         {
-          "y": 63,
+          "y": 63.5,
           "text": "humanitarians are increasingly having to incorporate climate data and forecasts into their analysis",
           "bbox": [
             53.96849822998047,
@@ -150,7 +150,7 @@
           ]
         },
         {
-          "y": 76,
+          "y": 76.1,
           "text": "and planning. This guidance series has been developed to help humanitarians to access, analyze and",
           "bbox": [
             53.97900390625,
@@ -184,7 +184,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 88.7,
           "text": "interpret common types of climate and weather data, and to provide a common language for working",
           "bbox": [
             53.979034423828125,
@@ -218,7 +218,7 @@
           ]
         },
         {
-          "y": 101,
+          "y": 101.3,
           "text": "with meteorological and hydrological services.",
           "bbox": [
             53.979034423828125,
@@ -252,7 +252,7 @@
           ]
         },
         {
-          "y": 142,
+          "y": 142.4,
           "text": "Key takeaways",
           "bbox": [
             53.85820007324219,
@@ -286,7 +286,7 @@
           ]
         },
         {
-          "y": 189,
+          "y": 189.4,
           "text": "• Observational rainfall data such as CHIRPS or ARC2 captures how much rain has fallen over a",
           "bbox": [
             53.858299255371094,
@@ -320,7 +320,7 @@
           ]
         },
         {
-          "y": 203,
+          "y": 202.6,
           "text": "defined period of time.",
           "bbox": [
             65.19930267333984,
@@ -354,7 +354,7 @@
           ]
         },
         {
-          "y": 229,
+          "y": 229.0,
           "text": "• The rainfall is measured at weather stations or estimated through satellite or radar imagery.",
           "bbox": [
             53.85830307006836,
@@ -388,7 +388,7 @@
           ]
         },
         {
-          "y": 253,
+          "y": 253.2,
           "text": "• The data can be presented as the total amount of rainfall observed over the period of time,",
           "bbox": [
             53.8582763671875,
@@ -422,7 +422,7 @@
           ]
         },
         {
-          "y": 266,
+          "y": 266.4,
           "text": "or as below, at or above normal conditions.",
           "bbox": [
             65.19927978515625,
@@ -456,7 +456,7 @@
           ]
         },
         {
-          "y": 291,
+          "y": 290.6,
           "text": "• Datasets that combine station data and satellite or radar imagery are the recommended",
           "bbox": [
             53.8582763671875,
@@ -490,7 +490,7 @@
           ]
         },
         {
-          "y": 304,
+          "y": 303.8,
           "text": "source of data for humanitarian purposes.",
           "bbox": [
             65.19927978515625,
@@ -524,7 +524,7 @@
           ]
         },
         {
-          "y": 330,
+          "y": 330.2,
           "text": "• Observational rainfall data can be analyzed to answer a range of questions, such as:",
           "bbox": [
             53.869293212890625,
@@ -558,7 +558,7 @@
           ]
         },
         {
-          "y": 352,
+          "y": 352.2,
           "text": "• What areas are currently affected by drought, and how severely?",
           "bbox": [
             65.21029663085938,
@@ -592,7 +592,7 @@
           ]
         },
         {
-          "y": 374,
+          "y": 374.2,
           "text": "• What was the duration of the longest dry spell during the past rainy season?",
           "bbox": [
             65.21029663085938,
@@ -626,7 +626,7 @@
           ]
         },
         {
-          "y": 396,
+          "y": 396.2,
           "text": "• How many days of heavy rainfall were there in the week leading up to the floods?",
           "bbox": [
             65.21029663085938,
@@ -660,7 +660,7 @@
           ]
         },
         {
-          "y": 418,
+          "y": 418.2,
           "text": "• Which area received the most rain last month?",
           "bbox": [
             65.21029663085938,
@@ -694,7 +694,7 @@
           ]
         },
         {
-          "y": 440,
+          "y": 440.2,
           "text": "• How often does an area experience dry spells?",
           "bbox": [
             65.21029663085938,
@@ -728,7 +728,7 @@
           ]
         },
         {
-          "y": 462,
+          "y": 462.2,
           "text": "• How does this year’s rainfall compare to previous years?",
           "bbox": [
             65.21029663085938,
@@ -762,7 +762,7 @@
           ]
         },
         {
-          "y": 507,
+          "y": 507.0,
           "text": "What is observational rainfall data?",
           "bbox": [
             53.85820007324219,
@@ -796,7 +796,7 @@
           ]
         },
         {
-          "y": 552,
+          "y": 552.0,
           "text": "Observational rainfall data captures how much rain fell over a defined period of time,",
           "bbox": [
             53.692901611328125,
@@ -830,7 +830,7 @@
           ]
         },
         {
-          "y": 565,
+          "y": 565.2,
           "text": "ranging from an hour to a day. This data can then be used to calculate the total rainfall for",
           "bbox": [
             53.692901611328125,
@@ -864,7 +864,7 @@
           ]
         },
         {
-          "y": 578,
+          "y": 578.4,
           "text": "different time periods, such as 5 days ( pentad ), 10 days ( dekad ), a week, a month or a season.",
           "bbox": [
             53.692901611328125,
@@ -986,7 +986,7 @@
           ]
         },
         {
-          "y": 592,
+          "y": 591.6,
           "text": "Observational rainfall datasets can go back decades and have broad geographic coverage,",
           "bbox": [
             53.703887939453125,
@@ -1020,7 +1020,7 @@
           ]
         },
         {
-          "y": 605,
+          "y": 604.8,
           "text": "enabling historical trend analysis and comparisons.",
           "bbox": [
             53.703887939453125,
@@ -1054,13 +1054,47 @@
           ]
         },
         {
-          "y": 631,
-          "text": "Observational rainfall data is produced by measuring the amount of rainfall at precise",
+          "y": 631.0,
+          "text": "measuring",
+          "bbox": [
+            270.8988952636719,
+            631.0152587890625,
+            329.3309020996094,
+            645.9972534179688
+          ],
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "OpenSans-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.069000005722046,
+              "descender": -0.2930000126361847,
+              "text": "measuring",
+              "origin": [
+                270.8988952636719,
+                642.7742309570312
+              ],
+              "bbox": [
+                270.8988952636719,
+                631.0152587890625,
+                329.3309020996094,
+                645.9972534179688
+              ]
+            }
+          ]
+        },
+        {
+          "y": 631.2,
+          "text": "Observational rainfall data is produced by the amount of rainfall at precise",
           "bbox": [
             53.703887939453125,
-            631.0152587890625,
+            631.2462158203125,
             499.3027648925781,
-            645.9972534179688
+            645.7552490234375
           ],
           "spans": [
             {
@@ -1083,28 +1117,6 @@
                 631.2462158203125,
                 270.9208679199219,
                 645.7552490234375
-              ]
-            },
-            {
-              "size": 11.0,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "OpenSans-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.069000005722046,
-              "descender": -0.2930000126361847,
-              "text": "measuring",
-              "origin": [
-                270.8988952636719,
-                642.7742309570312
-              ],
-              "bbox": [
-                270.8988952636719,
-                631.0152587890625,
-                329.3309020996094,
-                645.9972534179688
               ]
             },
             {
@@ -1132,7 +1144,7 @@
           ]
         },
         {
-          "y": 644,
+          "y": 644.4,
           "text": "locations, which are called measuring stations or gauges (e.g., the stars in Figure 1 below).",
           "bbox": [
             53.703887939453125,
@@ -1166,7 +1178,7 @@
           ]
         },
         {
-          "y": 658,
+          "y": 657.6,
           "text": "Station data is typically obtained from national or regional meteorological services and should",
           "bbox": [
             53.703887939453125,
@@ -1200,7 +1212,7 @@
           ]
         },
         {
-          "y": 671,
+          "y": 670.8,
           "text": "only be used in accordance with their guidance. Some of the advantages of station data are",
           "bbox": [
             53.703887939453125,
@@ -1234,7 +1246,7 @@
           ]
         },
         {
-          "y": 684,
+          "y": 684.0,
           "text": "that it is accurate at the specific locations, it is collected frequently and it has been collected",
           "bbox": [
             53.703887939453125,
@@ -1268,7 +1280,7 @@
           ]
         },
         {
-          "y": 697,
+          "y": 697.2,
           "text": "over the long-term, allowing for trend analysis. On the other hand, station data is only",
           "bbox": [
             53.703887939453125,
@@ -1302,7 +1314,7 @@
           ]
         },
         {
-          "y": 710,
+          "y": 710.4,
           "text": "available for specific locations and is subject to bias due to wind, evaporation, and changes in",
           "bbox": [
             53.703887939453125,
@@ -1336,7 +1348,7 @@
           ]
         },
         {
-          "y": 724,
+          "y": 723.6,
           "text": "measurement devices. Contact the local or regional meteorological services to learn whether",
           "bbox": [
             53.703887939453125,
@@ -1370,7 +1382,7 @@
           ]
         },
         {
-          "y": 737,
+          "y": 736.8,
           "text": "station data is available, where the stations are located, how often the data is updated, and",
           "bbox": [
             53.703887939453125,
@@ -1404,7 +1416,7 @@
           ]
         },
         {
-          "y": 750,
+          "y": 750.0,
           "text": "whether historical records are available.",
           "bbox": [
             53.703887939453125,
@@ -1438,7 +1450,7 @@
           ]
         },
         {
-          "y": 797,
+          "y": 797.1,
           "text": "CENTRE FOR HUMANITARIAN DATA",
           "bbox": [
             53.62139892578125,
@@ -1472,7 +1484,7 @@
           ]
         },
         {
-          "y": 799,
+          "y": 798.7,
           "text": "2",
           "bbox": [
             536.6151733398438,
@@ -1513,13 +1525,47 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 51,
-          "text": "Rainfall can also be estimated using satellite or radar images that cover areas several square",
+          "y": 50.5,
+          "text": "estimated",
+          "bbox": [
+            154.95928955078125,
+            50.51602554321289,
+            210.74029541015625,
+            65.4980239868164
+          ],
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "OpenSans-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.069000005722046,
+              "descender": -0.2930000126361847,
+              "text": "estimated",
+              "origin": [
+                154.95928955078125,
+                62.2750244140625
+              ],
+              "bbox": [
+                154.95928955078125,
+                50.51602554321289,
+                210.74029541015625,
+                65.4980239868164
+              ]
+            }
+          ]
+        },
+        {
+          "y": 50.7,
+          "text": "Rainfall can also be using satellite or radar images that cover areas several square",
           "bbox": [
             53.858299255371094,
-            50.51602554321289,
+            50.74702453613281,
             534.0741577148438,
-            65.4980239868164
+            65.25602722167969
           ],
           "spans": [
             {
@@ -1542,28 +1588,6 @@
                 50.74702453613281,
                 154.97027587890625,
                 65.25602722167969
-              ]
-            },
-            {
-              "size": 11.0,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "OpenSans-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.069000005722046,
-              "descender": -0.2930000126361847,
-              "text": "estimated",
-              "origin": [
-                154.95928955078125,
-                62.2750244140625
-              ],
-              "bbox": [
-                154.95928955078125,
-                50.51602554321289,
-                210.74029541015625,
-                65.4980239868164
               ]
             },
             {
@@ -1591,7 +1615,7 @@
           ]
         },
         {
-          "y": 64,
+          "y": 63.9,
           "text": "kilometers wide (e.g., the squares in Figure 1 below). Satellite imagery is typically obtained",
           "bbox": [
             53.85829162597656,
@@ -1625,7 +1649,7 @@
           ]
         },
         {
-          "y": 77,
+          "y": 77.1,
           "text": "by global providers and academic or research centers (e.g., the Climate Hazards Center) who",
           "bbox": [
             53.85829162597656,
@@ -1659,7 +1683,7 @@
           ]
         },
         {
-          "y": 90,
+          "y": 90.3,
           "text": "share their derived estimates publicly. Satellite or radar images are useful for understanding",
           "bbox": [
             53.85829162597656,
@@ -1693,7 +1717,7 @@
           ]
         },
         {
-          "y": 104,
+          "y": 103.5,
           "text": "patterns over larger geographic areas. Some of the advantages of satellite data are that it has",
           "bbox": [
             53.85829162597656,
@@ -1727,7 +1751,7 @@
           ]
         },
         {
-          "y": 117,
+          "y": 116.7,
           "text": "extensive geographic coverage, including in remote and inaccessible areas, and that it is shared",
           "bbox": [
             53.85829162597656,
@@ -1761,7 +1785,7 @@
           ]
         },
         {
-          "y": 130,
+          "y": 129.9,
           "text": "in a continuous and consistent way. On the other hand, satellite measurements are subject to",
           "bbox": [
             53.85829162597656,
@@ -1795,7 +1819,7 @@
           ]
         },
         {
-          "y": 143,
+          "y": 143.1,
           "text": "errors due to cloud contamination, and the data has a shorter historical record.",
           "bbox": [
             53.85829162597656,
@@ -1829,7 +1853,7 @@
           ]
         },
         {
-          "y": 457,
+          "y": 457.0,
           "text": "Figure 1. Weather Stations in Zambia (red stars). The grid superimposed onto the map consists of individual",
           "bbox": [
             53.858299255371094,
@@ -1863,7 +1887,7 @@
           ]
         },
         {
-          "y": 467,
+          "y": 466.6,
           "text": "boxes, each of which corresponds to a particular location where satellite weather measurements are",
           "bbox": [
             53.858306884765625,
@@ -1897,7 +1921,7 @@
           ]
         },
         {
-          "y": 476,
+          "y": 476.2,
           "text": "conducted by certain providers. In this case, the grid is the one used by the ARC2 dataset (see below). The",
           "bbox": [
             53.858306884765625,
@@ -1931,7 +1955,7 @@
           ]
         },
         {
-          "y": 486,
+          "y": 485.8,
           "text": "size of each box is 0.1 degree (about 11 km at the equator).",
           "bbox": [
             53.850311279296875,
@@ -1965,7 +1989,7 @@
           ]
         },
         {
-          "y": 521,
+          "y": 521.0,
           "text": "In order to help correct for the inaccuracies and errors that are present in the two types of data",
           "bbox": [
             53.858299255371094,
@@ -1999,7 +2023,7 @@
           ]
         },
         {
-          "y": 534,
+          "y": 534.2,
           "text": "and take advantage of their individual strengths, research institutions have produced rainfall",
           "bbox": [
             53.858299255371094,
@@ -2033,37 +2057,15 @@
           ]
         },
         {
-          "y": 547,
-          "text": "datasets that combine station and satellite/radar observations. Datasets that combine these",
+          "y": 547.1,
+          "text": "Datasets that combine these",
           "bbox": [
-            53.858299255371094,
+            378.3583068847656,
             547.128662109375,
             539.4091796875,
             562.1106567382812
           ],
           "spans": [
-            {
-              "size": 11.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "OpenSans-Regular",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0479999780654907,
-              "descender": -0.2709999978542328,
-              "text": "datasets that combine station and satellite/radar observations. ",
-              "origin": [
-                53.858299255371094,
-                558.8876342773438
-              ],
-              "bbox": [
-                53.858299255371094,
-                547.359619140625,
-                378.3692321777344,
-                561.86865234375
-              ]
-            },
             {
               "size": 11.0,
               "flags": 16,
@@ -2089,7 +2091,41 @@
           ]
         },
         {
-          "y": 560,
+          "y": 547.4,
+          "text": "datasets that combine station and satellite/radar observations.",
+          "bbox": [
+            53.858299255371094,
+            547.359619140625,
+            378.3692321777344,
+            561.86865234375
+          ],
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "OpenSans-Regular",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0479999780654907,
+              "descender": -0.2709999978542328,
+              "text": "datasets that combine station and satellite/radar observations. ",
+              "origin": [
+                53.858299255371094,
+                558.8876342773438
+              ],
+              "bbox": [
+                53.858299255371094,
+                547.359619140625,
+                378.3692321777344,
+                561.86865234375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 560.3,
           "text": "observations are the recommended source of data for humanitarian purposes.",
           "bbox": [
             53.858306884765625,
@@ -2123,7 +2159,7 @@
           ]
         },
         {
-          "y": 587,
+          "y": 587.0,
           "text": "Observational precipitation data can be presented in various formats, each providing unique",
           "bbox": [
             53.858306884765625,
@@ -2157,7 +2193,7 @@
           ]
         },
         {
-          "y": 600,
+          "y": 600.2,
           "text": "insights into precipitation patterns. The most common representation is through absolute",
           "bbox": [
             53.858306884765625,
@@ -2191,7 +2227,7 @@
           ]
         },
         {
-          "y": 613,
+          "y": 613.4,
           "text": "values, which reflect the actual amount of precipitation observed at a specific location and time,",
           "bbox": [
             53.858306884765625,
@@ -2225,7 +2261,7 @@
           ]
         },
         {
-          "y": 627,
+          "y": 626.6,
           "text": "typically measured in millimeters. Precipitation averages, which are calculated from historical",
           "bbox": [
             53.858306884765625,
@@ -2259,7 +2295,7 @@
           ]
         },
         {
-          "y": 640,
+          "y": 639.8,
           "text": "records over a period of typically at least 10 years, can be produced for a specific location,",
           "bbox": [
             53.858306884765625,
@@ -2293,7 +2329,7 @@
           ]
         },
         {
-          "y": 653,
+          "y": 653.0,
           "text": "season, or year. A precipitation anomaly represents the deviation from the expected or average",
           "bbox": [
             53.858306884765625,
@@ -2327,7 +2363,7 @@
           ]
         },
         {
-          "y": 666,
+          "y": 666.2,
           "text": "precipitation over a particular period, which can be expressed as a difference in millimeters",
           "bbox": [
             53.858306884765625,
@@ -2361,7 +2397,7 @@
           ]
         },
         {
-          "y": 679,
+          "y": 679.4,
           "text": "or as a percentage. The purpose of the analysis determines the most useful representation.",
           "bbox": [
             53.858306884765625,
@@ -2395,7 +2431,7 @@
           ]
         },
         {
-          "y": 693,
+          "y": 692.6,
           "text": "Absolute values provide insight into the total precipitation received at a location, while",
           "bbox": [
             53.858306884765625,
@@ -2429,7 +2465,7 @@
           ]
         },
         {
-          "y": 706,
+          "y": 705.8,
           "text": "anomalies and averages help to understand long-term trends, including dry or wet periods,",
           "bbox": [
             53.858306884765625,
@@ -2463,7 +2499,7 @@
           ]
         },
         {
-          "y": 719,
+          "y": 719.0,
           "text": "which is valuable for assessing drought or excessive rainfall conditions severity.",
           "bbox": [
             53.858306884765625,
@@ -2497,7 +2533,7 @@
           ]
         },
         {
-          "y": 797,
+          "y": 797.1,
           "text": "CENTRE FOR HUMANITARIAN DATA",
           "bbox": [
             53.62139892578125,
@@ -2531,7 +2567,7 @@
           ]
         },
         {
-          "y": 799,
+          "y": 798.7,
           "text": "3",
           "bbox": [
             536.6151733398438,
@@ -2572,7 +2608,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 48,
+          "y": 48.1,
           "text": "Common sources of observational rainfall data",
           "bbox": [
             52.606300354003906,
@@ -2606,7 +2642,7 @@
           ]
         },
         {
-          "y": 93,
+          "y": 93.1,
           "text": "Among the many sources of data available, we introduce here two common sources of",
           "bbox": [
             52.44089889526367,
@@ -2640,7 +2676,7 @@
           ]
         },
         {
-          "y": 106,
+          "y": 106.3,
           "text": "observational rainfall data, both of which combine station and satellite data: CHIRPS and ARC2.",
           "bbox": [
             52.44089889526367,
@@ -2674,7 +2710,7 @@
           ]
         },
         {
-          "y": 120,
+          "y": 119.5,
           "text": "CHIRPS refers to the Climate Hazards Group InfraRed Precipitation with Station data and is",
           "bbox": [
             52.44089889526367,
@@ -2708,7 +2744,7 @@
           ]
         },
         {
-          "y": 133,
+          "y": 132.7,
           "text": "produced by scientists from the US Geological Survey and the Climate Hazards Center at the",
           "bbox": [
             52.44089889526367,
@@ -2742,7 +2778,7 @@
           ]
         },
         {
-          "y": 146,
+          "y": 145.9,
           "text": "University of Santa Barbara. ARC2 refers to Africa Rainfall Climatology Version 2 and it is",
           "bbox": [
             52.44089889526367,
@@ -2776,7 +2812,7 @@
           ]
         },
         {
-          "y": 159,
+          "y": 159.1,
           "text": "produced by The National Oceanic and Atmospheric Administration’s Climate Prediction Center",
           "bbox": [
             52.44089889526367,
@@ -2810,7 +2846,7 @@
           ]
         },
         {
-          "y": 172,
+          "y": 172.3,
           "text": "for the Famine Early Warning System. You can access the data directly from these providers, or",
           "bbox": [
             52.44089889526367,
@@ -2844,7 +2880,7 @@
           ]
         },
         {
-          "y": 186,
+          "y": 185.5,
           "text": "use the tabular CHIRPS datasets that provides pre-computed rainfall metrics at admin2 and is",
           "bbox": [
             52.44089889526367,
@@ -2878,7 +2914,7 @@
           ]
         },
         {
-          "y": 199,
+          "y": 198.7,
           "text": "available on HDX.",
           "bbox": [
             52.44089889526367,
@@ -2912,7 +2948,7 @@
           ]
         },
         {
-          "y": 200,
+          "y": 199.9,
           "text": "1",
           "bbox": [
             142.08450317382812,
@@ -2946,7 +2982,7 @@
           ]
         },
         {
-          "y": 234,
+          "y": 234.0,
           "text": "COMPARISON OF CHIRPS AND ARC2 OBSERVATIONAL RAINFALL DATA",
           "bbox": [
             61.983299255371094,
@@ -2980,37 +3016,15 @@
           ]
         },
         {
-          "y": 258,
-          "text": "Source CHIRPS ARC2",
+          "y": 257.8,
+          "text": "CHIRPS ARC2",
           "bbox": [
-            61.983299255371094,
+            197.92379760742188,
             257.75091552734375,
             390.686767578125,
             269.3279113769531
           ],
           "spans": [
-            {
-              "size": 8.5,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "OpenSans-SemiBold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0490000247955322,
-              "descender": -0.28200000524520874,
-              "text": "Source",
-              "origin": [
-                61.983299255371094,
-                266.83740234375
-              ],
-              "bbox": [
-                61.983299255371094,
-                257.9208984375,
-                90.01630401611328,
-                269.2344055175781
-              ]
-            },
             {
               "size": 8.5,
               "flags": 16,
@@ -3058,8 +3072,42 @@
           ]
         },
         {
-          "y": 281,
-          "text": "Format Raster",
+          "y": 257.9,
+          "text": "Source",
+          "bbox": [
+            61.983299255371094,
+            257.9208984375,
+            90.01630401611328,
+            269.2344055175781
+          ],
+          "spans": [
+            {
+              "size": 8.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "OpenSans-SemiBold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0490000247955322,
+              "descender": -0.28200000524520874,
+              "text": "Source",
+              "origin": [
+                61.983299255371094,
+                266.83740234375
+              ],
+              "bbox": [
+                61.983299255371094,
+                257.9208984375,
+                90.01630401611328,
+                269.2344055175781
+              ]
+            }
+          ]
+        },
+        {
+          "y": 281.1,
+          "text": "Format Raster Raster",
           "bbox": [
             61.983306884765625,
             281.10040283203125,
@@ -3136,7 +3184,7 @@
           ]
         },
         {
-          "y": 304,
+          "y": 303.6,
           "text": "Geographical coverage Global (quasi ) Africa",
           "bbox": [
             61.98333740234375,
@@ -3236,7 +3284,7 @@
           ]
         },
         {
-          "y": 326,
+          "y": 326.1,
           "text": "Spatial granularity 0.05 degree (5.5 km at the equator) 0.1 degree (11 km at the equator)",
           "bbox": [
             61.985443115234375,
@@ -3314,7 +3362,7 @@
           ]
         },
         {
-          "y": 338,
+          "y": 338.1,
           "text": "(also referred to as spatial",
           "bbox": [
             61.985443115234375,
@@ -3348,7 +3396,7 @@
           ]
         },
         {
-          "y": 350,
+          "y": 350.1,
           "text": "resolution)",
           "bbox": [
             61.985443115234375,
@@ -3382,7 +3430,7 @@
           ]
         },
         {
-          "y": 373,
+          "y": 372.6,
           "text": "Temporal granularity Daily rainfall Daily rainfall",
           "bbox": [
             61.9854736328125,
@@ -3460,7 +3508,7 @@
           ]
         },
         {
-          "y": 385,
+          "y": 384.6,
           "text": "(aso referred to as temporal",
           "bbox": [
             61.9854736328125,
@@ -3494,7 +3542,7 @@
           ]
         },
         {
-          "y": 397,
+          "y": 396.6,
           "text": "resolution)",
           "bbox": [
             61.9854736328125,
@@ -3528,7 +3576,7 @@
           ]
         },
         {
-          "y": 419,
+          "y": 419.1,
           "text": "Historical coverage 1981 - today 1983 - today",
           "bbox": [
             61.984405517578125,
@@ -3606,7 +3654,7 @@
           ]
         },
         {
-          "y": 442,
+          "y": 441.6,
           "text": "Publication Every month, around the third week of Every day, with a 2-day lag",
           "bbox": [
             61.98443603515625,
@@ -3684,7 +3732,7 @@
           ]
         },
         {
-          "y": 452,
+          "y": 451.8,
           "text": "the following month",
           "bbox": [
             197.92494201660156,
@@ -3718,7 +3766,7 @@
           ]
         },
         {
-          "y": 474,
+          "y": 474.3,
           "text": "Most common uses • Monthly, seasonal, or yearly rainfall • Near real-time monitoring in Africa",
           "bbox": [
             61.984466552734375,
@@ -3796,7 +3844,7 @@
           ]
         },
         {
-          "y": 485,
+          "y": 484.5,
           "text": "monitoring",
           "bbox": [
             197.9249725341797,
@@ -3830,7 +3878,7 @@
           ]
         },
         {
-          "y": 490,
+          "y": 490.3,
           "text": "• Year-to-year comparisons in Africa",
           "bbox": [
             368.9449768066406,
@@ -3864,7 +3912,7 @@
           ]
         },
         {
-          "y": 501,
+          "y": 500.5,
           "text": "• Included in other tools including",
           "bbox": [
             197.9249725341797,
@@ -3898,7 +3946,7 @@
           ]
         },
         {
-          "y": 511,
+          "y": 510.7,
           "text": "those used for drought monitoring and",
           "bbox": [
             197.9249725341797,
@@ -3932,7 +3980,7 @@
           ]
         },
         {
-          "y": 521,
+          "y": 520.9,
           "text": "FEWS NET assessments",
           "bbox": [
             197.9249725341797,
@@ -3966,7 +4014,7 @@
           ]
         },
         {
-          "y": 537,
+          "y": 536.9,
           "text": "• Trend analysis across years",
           "bbox": [
             197.9249725341797,
@@ -4000,7 +4048,7 @@
           ]
         },
         {
-          "y": 582,
+          "y": 581.9,
           "text": "Questions to answer with observational rainfall data",
           "bbox": [
             53.0078010559082,
@@ -4034,7 +4082,7 @@
           ]
         },
         {
-          "y": 628,
+          "y": 627.9,
           "text": "Observational rainfall data can be used to answer a number of questions and inform decision",
           "bbox": [
             53.858299255371094,
@@ -4068,7 +4116,7 @@
           ]
         },
         {
-          "y": 641,
+          "y": 641.1,
           "text": "making in humanitarian operations. Examples include:",
           "bbox": [
             53.858299255371094,
@@ -4102,12 +4150,12 @@
           ]
         },
         {
-          "y": 667,
-          "text": "• How much rain fell in the past x days/weeks/months? Observational rainfall datasets",
+          "y": 667.2,
+          "text": "• How much rain fell in the past x days/weeks/months?",
           "bbox": [
             53.858299255371094,
             667.2499389648438,
-            521.501220703125,
+            359.28436279296875,
             682.23193359375
           ],
           "spans": [
@@ -4132,7 +4180,19 @@
                 359.28436279296875,
                 682.23193359375
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 667.5,
+          "text": "Observational rainfall datasets",
+          "bbox": [
+            359.2953186035156,
+            667.4808959960938,
+            521.501220703125,
+            681.9899291992188
+          ],
+          "spans": [
             {
               "size": 11.0,
               "flags": 0,
@@ -4158,7 +4218,7 @@
           ]
         },
         {
-          "y": 681,
+          "y": 680.7,
           "text": "provide data on the total amount of rainfall for an area over a discrete period of time, which",
           "bbox": [
             65.19931030273438,
@@ -4192,7 +4252,7 @@
           ]
         },
         {
-          "y": 694,
+          "y": 693.9,
           "text": "can be aggregated and used to calculate rainfall over different time intervals.",
           "bbox": [
             65.19931030273438,
@@ -4226,7 +4286,7 @@
           ]
         },
         {
-          "y": 732,
+          "y": 731.5,
           "text": "https://data.humdata.org/organization/wfp?q=chirps",
           "bbox": [
             58.00400161743164,
@@ -4260,7 +4320,7 @@
           ]
         },
         {
-          "y": 744,
+          "y": 743.5,
           "text": "The dataset spans the latitude range 50°S-50°N, and all longitudes.",
           "bbox": [
             58.546199798583984,
@@ -4294,7 +4354,7 @@
           ]
         },
         {
-          "y": 756,
+          "y": 755.5,
           "text": "CHIRPS produces a preliminary version of their estimates with a latency of two days. The final version is published in the third week of the",
           "bbox": [
             58.473899841308594,
@@ -4328,7 +4388,7 @@
           ]
         },
         {
-          "y": 765,
+          "y": 764.5,
           "text": "following month.",
           "bbox": [
             54.02640151977539,
@@ -4362,7 +4422,7 @@
           ]
         },
         {
-          "y": 797,
+          "y": 797.1,
           "text": "CENTRE FOR HUMANITARIAN DATA",
           "bbox": [
             53.62139892578125,
@@ -4396,7 +4456,7 @@
           ]
         },
         {
-          "y": 799,
+          "y": 798.7,
           "text": "4",
           "bbox": [
             536.6151733398438,
@@ -4437,12 +4497,12 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 51,
-          "text": "• Was the rainfall last month above or below normal? And by how much? Observational",
+          "y": 50.5,
+          "text": "• Was the rainfall last month above or below normal? And by how much?",
           "bbox": [
             53.858299255371094,
             50.51602554321289,
-            532.9192504882812,
+            455.3912353515625,
             65.4980239868164
           ],
           "spans": [
@@ -4470,28 +4530,6 @@
             },
             {
               "size": 11.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "OpenSans-Regular",
-              "color": 5280205,
-              "alpha": 255,
-              "ascender": 1.0479999780654907,
-              "descender": -0.2709999978542328,
-              "text": " ",
-              "origin": [
-                349.34033203125,
-                62.2750244140625
-              ],
-              "bbox": [
-                349.34033203125,
-                50.74702453613281,
-                352.2003173828125,
-                65.25602722167969
-              ]
-            },
-            {
-              "size": 11.0,
               "flags": 16,
               "bidi": 0,
               "char_flags": 24,
@@ -4510,6 +4548,40 @@
                 50.51602554321289,
                 455.3912353515625,
                 65.4980239868164
+              ]
+            }
+          ]
+        },
+        {
+          "y": 50.7,
+          "text": "Observational",
+          "bbox": [
+            349.34033203125,
+            50.74702453613281,
+            532.9192504882812,
+            65.25602722167969
+          ],
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "OpenSans-Regular",
+              "color": 5280205,
+              "alpha": 255,
+              "ascender": 1.0479999780654907,
+              "descender": -0.2709999978542328,
+              "text": " ",
+              "origin": [
+                349.34033203125,
+                62.2750244140625
+              ],
+              "bbox": [
+                349.34033203125,
+                50.74702453613281,
+                352.2003173828125,
+                65.25602722167969
               ]
             },
             {
@@ -4537,7 +4609,7 @@
           ]
         },
         {
-          "y": 64,
+          "y": 63.9,
           "text": "rainfall data goes back decades and can therefore be used to determine whether rainfall for",
           "bbox": [
             65.19930267333984,
@@ -4571,7 +4643,7 @@
           ]
         },
         {
-          "y": 77,
+          "y": 77.1,
           "text": "a month or a season is above, at or below the historical average.",
           "bbox": [
             65.19930267333984,
@@ -4605,7 +4677,7 @@
           ]
         },
         {
-          "y": 103,
+          "y": 103.3,
           "text": "• Were there more rainy days this month than last month?",
           "bbox": [
             53.85830307006836,
@@ -4639,7 +4711,7 @@
           ]
         },
         {
-          "y": 104,
+          "y": 103.5,
           "text": "Observational rainfall data is",
           "bbox": [
             381.2071838378906,
@@ -4673,7 +4745,7 @@
           ]
         },
         {
-          "y": 117,
+          "y": 116.7,
           "text": "available for each day and can be used to determine if it rained or not on a given day and to",
           "bbox": [
             65.19930267333984,
@@ -4707,7 +4779,7 @@
           ]
         },
         {
-          "y": 130,
+          "y": 129.9,
           "text": "count the number of dry or wet days during a specific period of time.",
           "bbox": [
             65.19930267333984,
@@ -4741,7 +4813,7 @@
           ]
         },
         {
-          "y": 156,
+          "y": 156.1,
           "text": "• How many dry spells were there during the past rainy season? How long was the",
           "bbox": [
             53.85830307006836,
@@ -4775,7 +4847,7 @@
           ]
         },
         {
-          "y": 169,
+          "y": 169.3,
           "text": "longest dry spell and the heaviest rain streak this past rainy season?",
           "bbox": [
             65.19930267333984,
@@ -4809,7 +4881,7 @@
           ]
         },
         {
-          "y": 170,
+          "y": 169.5,
           "text": "Observational",
           "bbox": [
             440.8603210449219,
@@ -4843,7 +4915,7 @@
           ]
         },
         {
-          "y": 183,
+          "y": 182.7,
           "text": "rainfall data can be used to detect the occurrence, location and duration of dry spells and",
           "bbox": [
             65.19930267333984,
@@ -4877,7 +4949,7 @@
           ]
         },
         {
-          "y": 196,
+          "y": 195.9,
           "text": "prolonged periods of heavy rain.",
           "bbox": [
             65.19930267333984,
@@ -4911,12 +4983,12 @@
           ]
         },
         {
-          "y": 222,
+          "y": 222.1,
           "text": "• How often in the past decade were more than x millimeters of rainfall measured?",
           "bbox": [
             53.85830307006836,
             222.11618041992188,
-            514.8572998046875,
+            511.9972839355469,
             237.0981903076172
           ],
           "spans": [
@@ -4941,33 +5013,11 @@
                 511.9972839355469,
                 237.0981903076172
               ]
-            },
-            {
-              "size": 11.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "OpenSans-Regular",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0479999780654907,
-              "descender": -0.2709999978542328,
-              "text": " ",
-              "origin": [
-                511.9972839355469,
-                233.87518310546875
-              ],
-              "bbox": [
-                511.9972839355469,
-                222.34718322753906,
-                514.8572998046875,
-                236.85618591308594
-              ]
             }
           ]
         },
         {
-          "y": 236,
+          "y": 235.5,
           "text": "Observational rainfall data provides daily rainfall totals in millimeters and can be used to",
           "bbox": [
             65.19930267333984,
@@ -5001,7 +5051,7 @@
           ]
         },
         {
-          "y": 249,
+          "y": 248.7,
           "text": "assess how often an area received rain above or below a given threshold.",
           "bbox": [
             65.19930267333984,
@@ -5035,12 +5085,12 @@
           ]
         },
         {
-          "y": 275,
-          "text": "• Which region received the most rain last month? Observational rainfall data can be",
+          "y": 274.9,
+          "text": "• Which region received the most rain last month?",
           "bbox": [
             53.85830307006836,
             274.9162292480469,
-            510.4571838378906,
+            332.0483093261719,
             289.8982238769531
           ],
           "spans": [
@@ -5065,7 +5115,19 @@
                 332.0483093261719,
                 289.8982238769531
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 275.1,
+          "text": "Observational rainfall data can be",
+          "bbox": [
+            332.059326171875,
+            275.147216796875,
+            510.4571838378906,
+            289.6562194824219
+          ],
+          "spans": [
             {
               "size": 11.0,
               "flags": 0,
@@ -5091,7 +5153,7 @@
           ]
         },
         {
-          "y": 288,
+          "y": 288.3,
           "text": "aggregated to provide rainfall totals for larger geographic areas and then used to compare",
           "bbox": [
             65.19931030273438,
@@ -5125,7 +5187,7 @@
           ]
         },
         {
-          "y": 302,
+          "y": 301.5,
           "text": "rain for that area.",
           "bbox": [
             65.19931030273438,
@@ -5159,7 +5221,7 @@
           ]
         },
         {
-          "y": 341,
+          "y": 341.1,
           "text": "Observational rainfall data cannot answer the following questions:",
           "bbox": [
             53.85831069946289,
@@ -5193,7 +5255,7 @@
           ]
         },
         {
-          "y": 367,
+          "y": 367.3,
           "text": "• How much will it rain during a period of time in the future?",
           "bbox": [
             53.85831069946289,
@@ -5227,7 +5289,7 @@
           ]
         },
         {
-          "y": 368,
+          "y": 367.5,
           "text": "Observational rainfall data is",
           "bbox": [
             388.9293212890625,
@@ -5261,7 +5323,7 @@
           ]
         },
         {
-          "y": 381,
+          "y": 380.7,
           "text": "referred to as observational because it describes what happened in the past. It does not tell",
           "bbox": [
             65.19931030273438,
@@ -5295,7 +5357,7 @@
           ]
         },
         {
-          "y": 394,
+          "y": 393.9,
           "text": "you anything about future rainfall.",
           "bbox": [
             65.19931030273438,
@@ -5329,12 +5391,12 @@
           ]
         },
         {
-          "y": 420,
+          "y": 420.1,
           "text": "• Is a severe flooding event about to occur? Are we going through a severe drought?",
           "bbox": [
             53.85831069946289,
             420.11627197265625,
-            517.519287109375,
+            514.6701049804688,
             435.0982666015625
           ],
           "spans": [
@@ -5359,33 +5421,11 @@
                 514.6701049804688,
                 435.0982666015625
               ]
-            },
-            {
-              "size": 11.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "OpenSans-Regular",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0479999780654907,
-              "descender": -0.2709999978542328,
-              "text": " ",
-              "origin": [
-                514.6593017578125,
-                431.8752746582031
-              ],
-              "bbox": [
-                514.6593017578125,
-                420.3472900390625,
-                517.519287109375,
-                434.85626220703125
-              ]
             }
           ]
         },
         {
-          "y": 434,
+          "y": 433.5,
           "text": "Observational rainfall data does not provide sufficient information to inform you about the",
           "bbox": [
             65.19927978515625,
@@ -5419,7 +5459,7 @@
           ]
         },
         {
-          "y": 447,
+          "y": 446.7,
           "text": "risk of flooding in the near future or how severe a drought is likely to be. This is because",
           "bbox": [
             65.19927978515625,
@@ -5453,7 +5493,7 @@
           ]
         },
         {
-          "y": 460,
+          "y": 459.9,
           "text": "floods and droughts are complex phenomena caused by several interacting factors and they",
           "bbox": [
             65.19927978515625,
@@ -5487,7 +5527,7 @@
           ]
         },
         {
-          "y": 473,
+          "y": 473.1,
           "text": "cannot be explained exclusively by the amount of precipitation.",
           "bbox": [
             65.19927978515625,
@@ -5521,7 +5561,7 @@
           ]
         },
         {
-          "y": 499,
+          "y": 499.3,
           "text": "• How much rainfall from a given period of time in the past was due to specific tropical",
           "bbox": [
             53.858280181884766,
@@ -5555,12 +5595,12 @@
           ]
         },
         {
-          "y": 513,
-          "text": "storm or typhoon? It is hard to differentiate between the amount of rain caused by",
+          "y": 512.5,
+          "text": "storm or typhoon?",
           "bbox": [
             65.19927978515625,
             512.516357421875,
-            497.7961120605469,
+            166.88331604003906,
             527.4983520507812
           ],
           "spans": [
@@ -5585,7 +5625,19 @@
                 166.88331604003906,
                 527.4983520507812
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 512.7,
+          "text": "It is hard to differentiate between the amount of rain caused by",
+          "bbox": [
+            166.894287109375,
+            512.747314453125,
+            497.7961120605469,
+            527.25634765625
+          ],
+          "spans": [
             {
               "size": 11.0,
               "flags": 0,
@@ -5611,7 +5663,7 @@
           ]
         },
         {
-          "y": 526,
+          "y": 525.9,
           "text": "average atmospheric conditions and the amount of rain induced by a specific atmospheric",
           "bbox": [
             65.19928741455078,
@@ -5645,7 +5697,7 @@
           ]
         },
         {
-          "y": 539,
+          "y": 539.1,
           "text": "phenomenon. As a result, using observational rainfall data alone, it is not possible to say how",
           "bbox": [
             65.19928741455078,
@@ -5679,7 +5731,7 @@
           ]
         },
         {
-          "y": 552,
+          "y": 552.3,
           "text": "much rainfall is due strictly to a tropical storm or typhoon. More data is needed to infer the",
           "bbox": [
             65.19928741455078,
@@ -5713,7 +5765,7 @@
           ]
         },
         {
-          "y": 566,
+          "y": 565.5,
           "text": "origin of a heavy rainfall event.",
           "bbox": [
             65.19928741455078,
@@ -5747,7 +5799,7 @@
           ]
         },
         {
-          "y": 797,
+          "y": 797.1,
           "text": "CENTRE FOR HUMANITARIAN DATA",
           "bbox": [
             53.62139892578125,
@@ -5781,7 +5833,7 @@
           ]
         },
         {
-          "y": 799,
+          "y": 798.7,
           "text": "5",
           "bbox": [
             536.6151733398438,
@@ -5822,7 +5874,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 48,
+          "y": 48.1,
           "text": "Common limitations with observations rainfall data",
           "bbox": [
             53.0078010559082,
@@ -5856,7 +5908,7 @@
           ]
         },
         {
-          "y": 94,
+          "y": 94.1,
           "text": "Once you have identified how you want to use the data, it is important to bear in mind some",
           "bbox": [
             53.858299255371094,
@@ -5890,7 +5942,7 @@
           ]
         },
         {
-          "y": 107,
+          "y": 107.3,
           "text": "common limitations when conducting your analysis.",
           "bbox": [
             53.858299255371094,
@@ -5924,7 +5976,7 @@
           ]
         },
         {
-          "y": 134,
+          "y": 133.7,
           "text": "1. Low-amount or short-duration rainfall may be underreported in certain geographical",
           "bbox": [
             53.858299255371094,
@@ -5958,7 +6010,7 @@
           ]
         },
         {
-          "y": 147,
+          "y": 146.9,
           "text": "terrains or during extreme precipitation events. Gauges are constantly being improved",
           "bbox": [
             70.86430358886719,
@@ -6014,7 +6066,7 @@
           ]
         },
         {
-          "y": 148,
+          "y": 148.1,
           "text": "4",
           "bbox": [
             314.3163146972656,
@@ -6048,7 +6100,7 @@
           ]
         },
         {
-          "y": 160,
+          "y": 160.1,
           "text": "to reduce error and datasets that combine station and satellite/radar data are best at",
           "bbox": [
             70.86817932128906,
@@ -6082,7 +6134,7 @@
           ]
         },
         {
-          "y": 173,
+          "y": 173.3,
           "text": "correcting for these limitations. However, it is still important to keep these limitations in",
           "bbox": [
             70.86817932128906,
@@ -6116,7 +6168,7 @@
           ]
         },
         {
-          "y": 187,
+          "y": 186.5,
           "text": "mind, especially when doing analysis that is looking at meteorological events that involve",
           "bbox": [
             70.86817932128906,
@@ -6150,7 +6202,7 @@
           ]
         },
         {
-          "y": 200,
+          "y": 199.7,
           "text": "low-amount or short-duration rainfall, such as dry spells.",
           "bbox": [
             70.86817932128906,
@@ -6184,7 +6236,7 @@
           ]
         },
         {
-          "y": 226,
+          "y": 226.1,
           "text": "2. There are fewer gauge stations in rural areas and certain developing countries, which",
           "bbox": [
             53.862178802490234,
@@ -6218,7 +6270,7 @@
           ]
         },
         {
-          "y": 239,
+          "y": 239.3,
           "text": "means that observational rainfall data is often less accurate in these locations. Fewer gauge",
           "bbox": [
             70.86817932128906,
@@ -6252,7 +6304,7 @@
           ]
         },
         {
-          "y": 253,
+          "y": 252.5,
           "text": "stations means that there are fewer measurements for that geographic area, resulting in",
           "bbox": [
             70.86817932128906,
@@ -6286,7 +6338,7 @@
           ]
         },
         {
-          "y": 266,
+          "y": 265.7,
           "text": "a less complete picture of what is happening on the ground. Differences in the amount of",
           "bbox": [
             70.86817932128906,
@@ -6320,7 +6372,7 @@
           ]
         },
         {
-          "y": 279,
+          "y": 278.9,
           "text": "rainfall received in two locations might be missed if there are not stations to capture rainfall",
           "bbox": [
             70.86817932128906,
@@ -6354,7 +6406,7 @@
           ]
         },
         {
-          "y": 292,
+          "y": 292.1,
           "text": "in both locations.",
           "bbox": [
             70.86817932128906,
@@ -6388,7 +6440,7 @@
           ]
         },
         {
-          "y": 293,
+          "y": 293.3,
           "text": "5",
           "bbox": [
             159.1508026123047,
@@ -6422,7 +6474,7 @@
           ]
         },
         {
-          "y": 319,
+          "y": 318.5,
           "text": "3. Observational rainfall data is usually provided as a raster dataset, where the geographic",
           "bbox": [
             53.858299255371094,
@@ -6456,7 +6508,7 @@
           ]
         },
         {
-          "y": 332,
+          "y": 331.7,
           "text": "area is represented by a contiguous grid of cells, or pixels. Each cell represents a discrete",
           "bbox": [
             70.86430358886719,
@@ -6490,7 +6542,7 @@
           ]
         },
         {
-          "y": 345,
+          "y": 344.9,
           "text": "area of land, and has a value associated with it but the cells do not neatly fit within",
           "bbox": [
             70.86430358886719,
@@ -6524,7 +6576,7 @@
           ]
         },
         {
-          "y": 358,
+          "y": 358.1,
           "text": "administrative boundaries. Calculating rainfall for an administrative area requires an",
           "bbox": [
             70.86430358886719,
@@ -6558,7 +6610,7 @@
           ]
         },
         {
-          "y": 371,
+          "y": 371.3,
           "text": "aggregation. The choice of the aggregation method (average, maximum, total etc.) as well",
           "bbox": [
             70.86430358886719,
@@ -6592,7 +6644,7 @@
           ]
         },
         {
-          "y": 385,
+          "y": 384.5,
           "text": "as the choice of which cells to include within a given administrative division (all cells fully",
           "bbox": [
             70.86430358886719,
@@ -6626,7 +6678,7 @@
           ]
         },
         {
-          "y": 398,
+          "y": 397.7,
           "text": "included, or all cells touched etc.) will impact the results. This is especially true for lower",
           "bbox": [
             70.86430358886719,
@@ -6660,7 +6712,7 @@
           ]
         },
         {
-          "y": 411,
+          "y": 410.9,
           "text": "administrative divisions. As a result, adding together the total rainfall for all the districts in a",
           "bbox": [
             70.86430358886719,
@@ -6694,7 +6746,7 @@
           ]
         },
         {
-          "y": 424,
+          "y": 424.1,
           "text": "region may not equal the total rainfall calculated for the region.",
           "bbox": [
             70.86430358886719,
@@ -6728,7 +6780,7 @@
           ]
         },
         {
-          "y": 451,
+          "y": 450.5,
           "text": "4. If using station data, it is important to bear in mind that stations are easily subject to",
           "bbox": [
             53.85830307006836,
@@ -6762,7 +6814,7 @@
           ]
         },
         {
-          "y": 464,
+          "y": 463.7,
           "text": "deterioration and require frequent maintenance, which may affect their accuracy. For",
           "bbox": [
             70.86430358886719,
@@ -6796,7 +6848,7 @@
           ]
         },
         {
-          "y": 477,
+          "y": 476.9,
           "text": "this reason, calculating temporal averages, anomalies or trends over long periods of time",
           "bbox": [
             70.86430358886719,
@@ -6830,7 +6882,7 @@
           ]
         },
         {
-          "y": 490,
+          "y": 490.1,
           "text": "should be performed with care. When possible, verify with the provider the adequacy of",
           "bbox": [
             70.86430358886719,
@@ -6864,7 +6916,7 @@
           ]
         },
         {
-          "y": 503,
+          "y": 503.3,
           "text": "the measurements over long periods of time. This limitation does not apply to CHIRPS and",
           "bbox": [
             70.86430358886719,
@@ -6898,7 +6950,7 @@
           ]
         },
         {
-          "y": 517,
+          "y": 516.5,
           "text": "ARC2 datasets, which have been calibrated and combined with satellite observations by",
           "bbox": [
             70.86431884765625,
@@ -6932,7 +6984,7 @@
           ]
         },
         {
-          "y": 530,
+          "y": 529.7,
           "text": "climate institutions.",
           "bbox": [
             70.86431884765625,
@@ -6966,7 +7018,7 @@
           ]
         },
         {
-          "y": 556,
+          "y": 556.1,
           "text": "5. For station data, differences exist between measuring instruments and quality of their",
           "bbox": [
             53.85831832885742,
@@ -7000,7 +7052,7 @@
           ]
         },
         {
-          "y": 569,
+          "y": 569.3,
           "text": "measurements. This may heavily affect comparisons between different locations. Therefore,",
           "bbox": [
             70.86431884765625,
@@ -7034,7 +7086,7 @@
           ]
         },
         {
-          "y": 583,
+          "y": 582.5,
           "text": "when performing geographical averages, it is preferable to use radar data, satellite data or",
           "bbox": [
             70.86431884765625,
@@ -7068,7 +7120,7 @@
           ]
         },
         {
-          "y": 596,
+          "y": 595.7,
           "text": "observational datasets already calibrated by institutions or universities such as CHIRPS or",
           "bbox": [
             70.86431884765625,
@@ -7102,7 +7154,7 @@
           ]
         },
         {
-          "y": 609,
+          "y": 608.9,
           "text": "ARC2.",
           "bbox": [
             70.86431884765625,
@@ -7136,7 +7188,7 @@
           ]
         },
         {
-          "y": 752,
+          "y": 751.7,
           "text": "Learn more: https://www.chc.ucsb.edu/data/chirps",
           "bbox": [
             58.175899505615234,
@@ -7170,7 +7222,7 @@
           ]
         },
         {
-          "y": 764,
+          "y": 763.7,
           "text": "Learn more here: https://wiki.chc.ucsb.edu/CHIRPS_FAQ#What_is_the_spatial_density_of_station_data_used_in_CHIRPS.3F",
           "bbox": [
             58.01319885253906,
@@ -7204,7 +7256,7 @@
           ]
         },
         {
-          "y": 797,
+          "y": 797.1,
           "text": "CENTRE FOR HUMANITARIAN DATA",
           "bbox": [
             53.62139892578125,
@@ -7238,7 +7290,7 @@
           ]
         },
         {
-          "y": 799,
+          "y": 798.7,
           "text": "6",
           "bbox": [
             536.6151733398438,
@@ -7279,7 +7331,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 48,
+          "y": 48.1,
           "text": "Resources",
           "bbox": [
             53.0078010559082,
@@ -7313,7 +7365,7 @@
           ]
         },
         {
-          "y": 94,
+          "y": 94.1,
           "text": "• Learn more about the CHIRPS and ARC2 observational datasets and/or download data",
           "bbox": [
             53.858299255371094,
@@ -7391,7 +7443,7 @@
           ]
         },
         {
-          "y": 95,
+          "y": 95.3,
           "text": "6 7",
           "bbox": [
             217.92930603027344,
@@ -7447,7 +7499,7 @@
           ]
         },
         {
-          "y": 107,
+          "y": 107.3,
           "text": "directly from the providers.",
           "bbox": [
             65.2003173828125,
@@ -7481,7 +7533,7 @@
           ]
         },
         {
-          "y": 131,
+          "y": 131.3,
           "text": "• CHIRPS on HDX : Download pre-computed tabular data (CSV format) on precipitation totals,",
           "bbox": [
             53.859317779541016,
@@ -7537,7 +7589,7 @@
           ]
         },
         {
-          "y": 132,
+          "y": 132.5,
           "text": "8",
           "bbox": [
             144.3721923828125,
@@ -7571,7 +7623,7 @@
           ]
         },
         {
-          "y": 145,
+          "y": 144.5,
           "text": "averages, anomalies per administrative region.",
           "bbox": [
             65.19802856445312,
@@ -7605,7 +7657,7 @@
           ]
         },
         {
-          "y": 169,
+          "y": 168.5,
           "text": "• ARC2 : Download 1-month or 10-day cumulative precipitation totals (raster, tabular, image",
           "bbox": [
             53.85702896118164,
@@ -7661,7 +7713,7 @@
           ]
         },
         {
-          "y": 170,
+          "y": 169.7,
           "text": "9",
           "bbox": [
             92.18659973144531,
@@ -7695,7 +7747,7 @@
           ]
         },
         {
-          "y": 182,
+          "y": 181.7,
           "text": "data).",
           "bbox": [
             65.19640350341797,
@@ -7729,7 +7781,7 @@
           ]
         },
         {
-          "y": 206,
+          "y": 205.7,
           "text": "• OCHA AnticiPy : Download raster (NetCDF) data directly from CHIRPS and ARC2 using a",
           "bbox": [
             53.855403900146484,
@@ -7785,7 +7837,7 @@
           ]
         },
         {
-          "y": 207,
+          "y": 206.9,
           "text": "10",
           "bbox": [
             139.19979858398438,
@@ -7819,7 +7871,7 @@
           ]
         },
         {
-          "y": 219,
+          "y": 218.9,
           "text": "Python library.",
           "bbox": [
             65.19940185546875,
@@ -7853,7 +7905,7 @@
           ]
         },
         {
-          "y": 281,
+          "y": 281.1,
           "text": "This guidance was developed by the OCHA Centre for Humanitarian Data with input from",
           "bbox": [
             66.8582992553711,
@@ -7909,7 +7961,7 @@
           ]
         },
         {
-          "y": 282,
+          "y": 281.7,
           "text": "11",
           "bbox": [
             411.0111083984375,
@@ -7943,7 +7995,7 @@
           ]
         },
         {
-          "y": 294,
+          "y": 294.1,
           "text": "Columbia University Climate School International Research Institute for Climate and Society ,",
           "bbox": [
             66.85870361328125,
@@ -8021,7 +8073,7 @@
           ]
         },
         {
-          "y": 295,
+          "y": 294.7,
           "text": "12 13",
           "bbox": [
             237.4490966796875,
@@ -8077,7 +8129,7 @@
           ]
         },
         {
-          "y": 307,
+          "y": 307.1,
           "text": "the Royal Netherlands Meteorological Institute , and the Earth Observation Unit of the Research,",
           "bbox": [
             66.8533935546875,
@@ -8133,7 +8185,7 @@
           ]
         },
         {
-          "y": 308,
+          "y": 307.7,
           "text": "14",
           "bbox": [
             286.0115051269531,
@@ -8167,7 +8219,7 @@
           ]
         },
         {
-          "y": 320,
+          "y": 320.1,
           "text": "Assessment and Monitoring division of the World Food Programme.",
           "bbox": [
             66.85919189453125,
@@ -8201,7 +8253,7 @@
           ]
         },
         {
-          "y": 668,
+          "y": 668.0,
           "text": "https://www.chc.ucsb.edu/data/chirps",
           "bbox": [
             58.73780059814453,
@@ -8235,7 +8287,7 @@
           ]
         },
         {
-          "y": 680,
+          "y": 680.0,
           "text": "https://www.icpac.net/data-center/arc2/",
           "bbox": [
             58.412498474121094,
@@ -8269,7 +8321,7 @@
           ]
         },
         {
-          "y": 692,
+          "y": 692.0,
           "text": "https://data.humdata.org/dataset?q=CHIRPS",
           "bbox": [
             58.77840042114258,
@@ -8303,7 +8355,7 @@
           ]
         },
         {
-          "y": 704,
+          "y": 704.0,
           "text": "https://gmes.icpac.net/data-center/arc2-rfe",
           "bbox": [
             59.501399993896484,
@@ -8337,7 +8389,7 @@
           ]
         },
         {
-          "y": 716,
+          "y": 716.0,
           "text": "https://github.com/OCHA-DAP/ocha-anticipy",
           "bbox": [
             59.438201904296875,
@@ -8371,7 +8423,7 @@
           ]
         },
         {
-          "y": 728,
+          "y": 728.0,
           "text": "https://centre.humdata.org/",
           "bbox": [
             59.528499603271484,
@@ -8405,7 +8457,7 @@
           ]
         },
         {
-          "y": 740,
+          "y": 740.0,
           "text": "https://www.climate.columbia.edu/",
           "bbox": [
             59.44260025024414,
@@ -8439,7 +8491,7 @@
           ]
         },
         {
-          "y": 752,
+          "y": 752.0,
           "text": "https://iri.columbia.edu/",
           "bbox": [
             59.370399475097656,
@@ -8473,7 +8525,7 @@
           ]
         },
         {
-          "y": 764,
+          "y": 764.0,
           "text": "https://www.knmi.nl/over-het-knmi/about",
           "bbox": [
             59.40650177001953,
@@ -8507,7 +8559,7 @@
           ]
         },
         {
-          "y": 797,
+          "y": 797.1,
           "text": "CENTRE FOR HUMANITARIAN DATA",
           "bbox": [
             53.62139892578125,
@@ -8541,7 +8593,7 @@
           ]
         },
         {
-          "y": 799,
+          "y": 798.7,
           "text": "7",
           "bbox": [
             536.6151733398438,

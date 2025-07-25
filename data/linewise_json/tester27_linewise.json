@@ -7,7 +7,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 41,
+          "y": 41.0,
           "text": "Government of India",
           "bbox": [
             243.0500030517578,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 65,
+          "y": 65.1,
           "text": "Ministry of Labour and Employment",
           "bbox": [
             194.80999755859375,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 114,
+          "y": 113.5,
           "text": "NATIONAL POLICY ON SAFETY, HEALTH AND ENVIRONMENT AT WORK",
           "bbox": [
             91.10399627685547,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 134,
+          "y": 134.2,
           "text": "PLACE",
           "bbox": [
             285.6700134277344,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 179,
+          "y": 179.0,
           "text": "1. PREAMBLE",
           "bbox": [
             70.94400024414062,
@@ -199,7 +199,7 @@
           ]
         },
         {
-          "y": 227,
+          "y": 227.0,
           "text": "1.1 The Constitution of India provide detailed provisions for the rights of the",
           "bbox": [
             70.94400024414062,
@@ -255,7 +255,7 @@
           ]
         },
         {
-          "y": 251,
+          "y": 251.3,
           "text": "citizens and also lays down the Directive Principles of State Policy which set",
           "bbox": [
             106.94000244140625,
@@ -289,7 +289,7 @@
           ]
         },
         {
-          "y": 275,
+          "y": 275.4,
           "text": "an aim to which the activities of the state are to be guided.",
           "bbox": [
             106.94000244140625,
@@ -323,7 +323,7 @@
           ]
         },
         {
-          "y": 300,
+          "y": 299.5,
           "text": "1.2 These Directive Principles provide",
           "bbox": [
             70.94400024414062,
@@ -379,7 +379,7 @@
           ]
         },
         {
-          "y": 324,
+          "y": 323.7,
           "text": "(a) for securing the health and strength of employees, men and women;",
           "bbox": [
             70.94400024414062,
@@ -435,7 +435,7 @@
           ]
         },
         {
-          "y": 348,
+          "y": 347.8,
           "text": "b) that the tender age of children are not abused;",
           "bbox": [
             70.94400024414062,
@@ -491,7 +491,7 @@
           ]
         },
         {
-          "y": 372,
+          "y": 372.0,
           "text": "c) that citizens are not forced by economic necessity to enter avocations",
           "bbox": [
             70.94400024414062,
@@ -547,7 +547,7 @@
           ]
         },
         {
-          "y": 396,
+          "y": 396.1,
           "text": "unsuited to their age or strength;",
           "bbox": [
             106.94000244140625,
@@ -581,7 +581,7 @@
           ]
         },
         {
-          "y": 420,
+          "y": 420.3,
           "text": "d) just and humane conditions of work and maternity relief are provided;",
           "bbox": [
             70.94400024414062,
@@ -637,7 +637,7 @@
           ]
         },
         {
-          "y": 444,
+          "y": 444.4,
           "text": "and",
           "bbox": [
             106.94000244140625,
@@ -671,7 +671,7 @@
           ]
         },
         {
-          "y": 469,
+          "y": 468.6,
           "text": "e) that the Government shall take steps, by suitable legislation or in any",
           "bbox": [
             70.94400024414062,
@@ -727,7 +727,7 @@
           ]
         },
         {
-          "y": 493,
+          "y": 492.8,
           "text": "other way, to secure the participation of employee in the management of",
           "bbox": [
             106.94000244140625,
@@ -761,7 +761,7 @@
           ]
         },
         {
-          "y": 517,
+          "y": 516.9,
           "text": "undertakings, establishments or other organisations engaged in any industry.",
           "bbox": [
             106.94000244140625,
@@ -795,7 +795,7 @@
           ]
         },
         {
-          "y": 541,
+          "y": 541.0,
           "text": "1.3 On the basis of these Directive Principles as well as international",
           "bbox": [
             70.94400024414062,
@@ -851,7 +851,7 @@
           ]
         },
         {
-          "y": 565,
+          "y": 565.2,
           "text": "instruments, Government is committed to regulate all economic activities for",
           "bbox": [
             106.94000244140625,
@@ -885,7 +885,7 @@
           ]
         },
         {
-          "y": 589,
+          "y": 589.4,
           "text": "management of safety and health risks at workplaces and to provide",
           "bbox": [
             106.94000244140625,
@@ -919,7 +919,7 @@
           ]
         },
         {
-          "y": 614,
+          "y": 613.5,
           "text": "measures so as to ensure safe and healthy working conditions for every",
           "bbox": [
             106.94000244140625,
@@ -953,7 +953,7 @@
           ]
         },
         {
-          "y": 638,
+          "y": 637.6,
           "text": "working man and woman in the nation. Government recognizes that safety",
           "bbox": [
             106.94000244140625,
@@ -987,7 +987,7 @@
           ]
         },
         {
-          "y": 662,
+          "y": 661.8,
           "text": "and health of workers has a positive impact on productivity and economic",
           "bbox": [
             106.94000244140625,
@@ -1021,7 +1021,7 @@
           ]
         },
         {
-          "y": 686,
+          "y": 686.0,
           "text": "and social development. Prevention is an integral part of economic activities",
           "bbox": [
             106.94000244140625,
@@ -1055,7 +1055,7 @@
           ]
         },
         {
-          "y": 731,
+          "y": 731.3,
           "text": "1",
           "bbox": [
             303.30999755859375,
@@ -1096,7 +1096,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 41,
+          "y": 40.8,
           "text": "as high safety and health standard at work is as important as good business",
           "bbox": [
             106.94000244140625,
@@ -1130,7 +1130,7 @@
           ]
         },
         {
-          "y": 65,
+          "y": 64.9,
           "text": "performance for new as well as existing industries.",
           "bbox": [
             106.94000244140625,
@@ -1164,7 +1164,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 89.0,
           "text": "1.4 The formulation of policy, priorities and strategies in occupational safety,",
           "bbox": [
             70.94400024414062,
@@ -1220,7 +1220,7 @@
           ]
         },
         {
-          "y": 113,
+          "y": 113.3,
           "text": "health and environment at work places, is undertaken by national authorities",
           "bbox": [
             106.94000244140625,
@@ -1254,7 +1254,7 @@
           ]
         },
         {
-          "y": 137,
+          "y": 137.4,
           "text": "in consultation with social partners for fulfilling such objectives. A critical",
           "bbox": [
             106.94000244140625,
@@ -1288,7 +1288,7 @@
           ]
         },
         {
-          "y": 162,
+          "y": 161.5,
           "text": "role is played by the Government and the social partners, professional safety",
           "bbox": [
             106.94000244140625,
@@ -1322,7 +1322,7 @@
           ]
         },
         {
-          "y": 186,
+          "y": 185.6,
           "text": "and health organizations in ensuring prevention and in also providing",
           "bbox": [
             106.94000244140625,
@@ -1356,7 +1356,7 @@
           ]
         },
         {
-          "y": 210,
+          "y": 209.9,
           "text": "treatment, support and rehabilitation services.",
           "bbox": [
             106.94000244140625,
@@ -1390,7 +1390,7 @@
           ]
         },
         {
-          "y": 234,
+          "y": 234.0,
           "text": "1.5 Government of India firmly believes that without safe, clean environment as",
           "bbox": [
             70.94400024414062,
@@ -1446,7 +1446,7 @@
           ]
         },
         {
-          "y": 258,
+          "y": 258.1,
           "text": "well as healthy working conditions, social justice and economic growth",
           "bbox": [
             106.94000244140625,
@@ -1480,7 +1480,7 @@
           ]
         },
         {
-          "y": 282,
+          "y": 282.3,
           "text": "cannot be achieved and that safe and healthy working environment is",
           "bbox": [
             106.94000244140625,
@@ -1514,7 +1514,7 @@
           ]
         },
         {
-          "y": 306,
+          "y": 306.4,
           "text": "recognized as a fundamental human right. Education, training, consultation",
           "bbox": [
             106.94000244140625,
@@ -1548,7 +1548,7 @@
           ]
         },
         {
-          "y": 331,
+          "y": 330.6,
           "text": "and exchange of information and good practices are essential for prevention",
           "bbox": [
             106.94000244140625,
@@ -1582,7 +1582,7 @@
           ]
         },
         {
-          "y": 355,
+          "y": 354.7,
           "text": "and promotion of such measures.",
           "bbox": [
             106.94000244140625,
@@ -1616,7 +1616,7 @@
           ]
         },
         {
-          "y": 379,
+          "y": 378.9,
           "text": "1.6 The changing job patterns and working relationships, the rise in self",
           "bbox": [
             70.94400024414062,
@@ -1672,7 +1672,7 @@
           ]
         },
         {
-          "y": 403,
+          "y": 403.0,
           "text": "employment, greater sub-contracting, outsourcing of work, homework and",
           "bbox": [
             106.94000244140625,
@@ -1706,7 +1706,7 @@
           ]
         },
         {
-          "y": 427,
+          "y": 427.2,
           "text": "the increasing number of employees working away from their establishment,",
           "bbox": [
             106.94000244140625,
@@ -1740,7 +1740,7 @@
           ]
         },
         {
-          "y": 451,
+          "y": 451.4,
           "text": "pose problems to management of occupational safety and health risks at",
           "bbox": [
             106.94000244140625,
@@ -1774,7 +1774,7 @@
           ]
         },
         {
-          "y": 475,
+          "y": 475.5,
           "text": "workplaces. New safety hazards and health risks will be appearing along",
           "bbox": [
             106.94000244140625,
@@ -1808,7 +1808,7 @@
           ]
         },
         {
-          "y": 500,
+          "y": 499.6,
           "text": "with the transfer and adoption of new technologies. In addition, many of the",
           "bbox": [
             106.94000244140625,
@@ -1842,7 +1842,7 @@
           ]
         },
         {
-          "y": 524,
+          "y": 523.8,
           "text": "well known conventional hazards will continue to be present at the",
           "bbox": [
             106.94000244140625,
@@ -1876,7 +1876,7 @@
           ]
         },
         {
-          "y": 548,
+          "y": 548.0,
           "text": "workplace till the risks arising from exposure to these hazards are brought",
           "bbox": [
             106.94000244140625,
@@ -1910,7 +1910,7 @@
           ]
         },
         {
-          "y": 572,
+          "y": 572.1,
           "text": "under adequate control. While advancements in technology have minimized",
           "bbox": [
             106.94000244140625,
@@ -1944,7 +1944,7 @@
           ]
         },
         {
-          "y": 596,
+          "y": 596.2,
           "text": "or eliminated some hazards at workplace, new risks can emerge in their place",
           "bbox": [
             106.94000244140625,
@@ -1978,7 +1978,7 @@
           ]
         },
         {
-          "y": 620,
+          "y": 620.5,
           "text": "which needs to be addressed.",
           "bbox": [
             106.94000244140625,
@@ -2012,7 +2012,7 @@
           ]
         },
         {
-          "y": 645,
+          "y": 644.6,
           "text": "1.7 Particular attention needs to be paid to the hazardous operations and of",
           "bbox": [
             70.94400024414062,
@@ -2068,7 +2068,7 @@
           ]
         },
         {
-          "y": 669,
+          "y": 668.7,
           "text": "employees in risk prone conditions such as migrant employees and various",
           "bbox": [
             106.94000244140625,
@@ -2102,7 +2102,7 @@
           ]
         },
         {
-          "y": 693,
+          "y": 692.8,
           "text": "vulnerable groups of employees arising out of greater mobility in the",
           "bbox": [
             106.94000244140625,
@@ -2136,7 +2136,7 @@
           ]
         },
         {
-          "y": 731,
+          "y": 731.3,
           "text": "2",
           "bbox": [
             303.30999755859375,
@@ -2177,7 +2177,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 41,
+          "y": 40.8,
           "text": "workforce with more people working for a number of employers, either",
           "bbox": [
             106.94000244140625,
@@ -2211,7 +2211,7 @@
           ]
         },
         {
-          "y": 65,
+          "y": 64.9,
           "text": "consecutively or simultaneously.",
           "bbox": [
             106.94000244140625,
@@ -2245,11 +2245,11 @@
           ]
         },
         {
-          "y": 89,
+          "y": 89.0,
           "text": "1.8 The increasing use of chemicals, exposure to physical, chemical and",
           "bbox": [
             70.94400024414062,
-            88.83377838134766,
+            89.03033447265625,
             544.1876220703125,
             104.57261657714844
           ],
@@ -2278,28 +2278,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                88.46399688720703,
-                101.53997802734375
-              ],
-              "bbox": [
-                88.46399688720703,
-                88.83377838134766,
-                92.36711883544922,
-                104.4883804321289
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -2323,7 +2301,7 @@
           ]
         },
         {
-          "y": 113,
+          "y": 113.3,
           "text": "biological agents with hazard potential unknown to people; the",
           "bbox": [
             106.33999633789062,
@@ -2357,7 +2335,7 @@
           ]
         },
         {
-          "y": 137,
+          "y": 137.4,
           "text": "indiscriminate use of agro-chemicals including pesticides, agricultural",
           "bbox": [
             106.33999633789062,
@@ -2391,7 +2369,7 @@
           ]
         },
         {
-          "y": 162,
+          "y": 161.5,
           "text": "machineries and equipment; industries with major accident risks; effects of",
           "bbox": [
             106.33999633789062,
@@ -2425,7 +2403,7 @@
           ]
         },
         {
-          "y": 186,
+          "y": 185.6,
           "text": "computer controlled technologies and alarming influence of stress at work",
           "bbox": [
             106.33999633789062,
@@ -2459,7 +2437,7 @@
           ]
         },
         {
-          "y": 210,
+          "y": 209.9,
           "text": "in many modern jobs pose serious safety, health and environmental risks.",
           "bbox": [
             106.33999633789062,
@@ -2493,11 +2471,11 @@
           ]
         },
         {
-          "y": 234,
+          "y": 234.0,
           "text": "1.9 The fundamental purpose of this National Policy on Safety, Health and",
           "bbox": [
             70.94400024414062,
-            233.79379272460938,
+            233.9903564453125,
             544.6612548828125,
             249.5326385498047
           ],
@@ -2522,28 +2500,6 @@
                 233.9903564453125,
                 88.52399444580078,
                 249.5326385498047
-              ]
-            },
-            {
-              "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                88.46399688720703,
-                246.5
-              ],
-              "bbox": [
-                88.46399688720703,
-                233.79379272460938,
-                92.36711883544922,
-                249.44839477539062
               ]
             },
             {
@@ -2615,7 +2571,7 @@
           ]
         },
         {
-          "y": 258,
+          "y": 258.1,
           "text": "Environment at workplace, is not only to eliminate the incidence of work",
           "bbox": [
             106.33999633789062,
@@ -2649,7 +2605,7 @@
           ]
         },
         {
-          "y": 282,
+          "y": 282.3,
           "text": "related injuries, diseases, fatalities, disaster and loss of national assets and",
           "bbox": [
             106.33999633789062,
@@ -2683,7 +2639,7 @@
           ]
         },
         {
-          "y": 306,
+          "y": 306.4,
           "text": "ensuring achievement of a high level of occupational safety, health and",
           "bbox": [
             106.33999633789062,
@@ -2717,7 +2673,7 @@
           ]
         },
         {
-          "y": 331,
+          "y": 330.6,
           "text": "environment performance through proactive approaches but also to enhance",
           "bbox": [
             106.33999633789062,
@@ -2751,7 +2707,7 @@
           ]
         },
         {
-          "y": 355,
+          "y": 354.7,
           "text": "the well-being of the employee and society, at large. The necessary",
           "bbox": [
             106.33999633789062,
@@ -2807,7 +2763,7 @@
           ]
         },
         {
-          "y": 379,
+          "y": 378.9,
           "text": "changes in this area will be based on a co-ordinated national effort",
           "bbox": [
             106.33999633789062,
@@ -2863,7 +2819,7 @@
           ]
         },
         {
-          "y": 403,
+          "y": 403.0,
           "text": "focused on clear national goals and objectives.",
           "bbox": [
             106.33999633789062,
@@ -2897,11 +2853,11 @@
           ]
         },
         {
-          "y": 427,
+          "y": 427.2,
           "text": "1.10 Every Ministry or Department may work out their detailed policy relevant to",
           "bbox": [
             70.94400024414062,
-            427.0437927246094,
+            427.2403564453125,
             544.0769653320312,
             442.78265380859375
           ],
@@ -2930,28 +2886,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                95.42400360107422,
-                439.75
-              ],
-              "bbox": [
-                95.42400360107422,
-                427.0437927246094,
-                99.3271255493164,
-                442.6983947753906
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -2975,7 +2909,7 @@
           ]
         },
         {
-          "y": 451,
+          "y": 451.4,
           "text": "their working environment as per the guidelines on the National Policy.",
           "bbox": [
             106.33999633789062,
@@ -3031,7 +2965,7 @@
           ]
         },
         {
-          "y": 476,
+          "y": 475.7,
           "text": "2. GOALS:",
           "bbox": [
             70.94400024414062,
@@ -3087,7 +3021,7 @@
           ]
         },
         {
-          "y": 500,
+          "y": 499.6,
           "text": "The Government firmly believes that building and maintaining national",
           "bbox": [
             106.94000244140625,
@@ -3121,7 +3055,7 @@
           ]
         },
         {
-          "y": 524,
+          "y": 523.8,
           "text": "preventive safety and health culture is the need of the hour. With a view to",
           "bbox": [
             106.94000244140625,
@@ -3155,7 +3089,7 @@
           ]
         },
         {
-          "y": 548,
+          "y": 548.0,
           "text": "develop such a culture and to improve the safety, health and environment at",
           "bbox": [
             106.94000244140625,
@@ -3189,7 +3123,7 @@
           ]
         },
         {
-          "y": 572,
+          "y": 572.1,
           "text": "work place, it is essential to meet the following requirements:-",
           "bbox": [
             106.94000244140625,
@@ -3223,7 +3157,7 @@
           ]
         },
         {
-          "y": 596,
+          "y": 596.2,
           "text": "2.1 providing a statutory framework on Occupational Safety and Health in",
           "bbox": [
             70.94400024414062,
@@ -3279,7 +3213,7 @@
           ]
         },
         {
-          "y": 620,
+          "y": 620.5,
           "text": "respect of all sectors of industrial activities including the construction sector,",
           "bbox": [
             106.94000244140625,
@@ -3313,7 +3247,7 @@
           ]
         },
         {
-          "y": 645,
+          "y": 644.6,
           "text": "designing suitable control systems of compliance, enforcement and",
           "bbox": [
             106.94000244140625,
@@ -3347,7 +3281,7 @@
           ]
         },
         {
-          "y": 669,
+          "y": 668.7,
           "text": "incentives for better compliance.",
           "bbox": [
             106.94000244140625,
@@ -3381,7 +3315,7 @@
           ]
         },
         {
-          "y": 693,
+          "y": 692.8,
           "text": "2.2 providing administrative and technical support services.",
           "bbox": [
             70.94400024414062,
@@ -3437,7 +3371,7 @@
           ]
         },
         {
-          "y": 731,
+          "y": 731.3,
           "text": "3",
           "bbox": [
             303.30999755859375,
@@ -3478,7 +3412,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 41,
+          "y": 40.8,
           "text": "2.3. providing a system of incentives to employers and employees to achieve",
           "bbox": [
             70.94400024414062,
@@ -3534,7 +3468,7 @@
           ]
         },
         {
-          "y": 65,
+          "y": 64.9,
           "text": "higher health and safety standards .",
           "bbox": [
             106.94000244140625,
@@ -3568,7 +3502,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 89.0,
           "text": "2.4 providing for a system of non-financial incentives for improvement in safety",
           "bbox": [
             70.94400024414062,
@@ -3602,7 +3536,7 @@
           ]
         },
         {
-          "y": 113,
+          "y": 113.3,
           "text": "and health.",
           "bbox": [
             106.94000244140625,
@@ -3636,7 +3570,7 @@
           ]
         },
         {
-          "y": 137,
+          "y": 137.4,
           "text": "2.5. establishing and developing the research and development capability in",
           "bbox": [
             70.94400024414062,
@@ -3692,7 +3626,7 @@
           ]
         },
         {
-          "y": 162,
+          "y": 161.5,
           "text": "emerging areas of risk and providing for effective control measures.",
           "bbox": [
             106.94000244140625,
@@ -3726,7 +3660,7 @@
           ]
         },
         {
-          "y": 186,
+          "y": 185.6,
           "text": "2.6. Focusing on prevention strategies and monitoring performance through",
           "bbox": [
             70.94400024414062,
@@ -3782,7 +3716,7 @@
           ]
         },
         {
-          "y": 210,
+          "y": 209.9,
           "text": "improved data collection system on work related injuries and diseases.",
           "bbox": [
             106.94000244140625,
@@ -3816,7 +3750,7 @@
           ]
         },
         {
-          "y": 234,
+          "y": 234.0,
           "text": "2.7 Developing and providing required technical manpower and knowledge in",
           "bbox": [
             70.94400024414062,
@@ -3872,7 +3806,7 @@
           ]
         },
         {
-          "y": 258,
+          "y": 258.1,
           "text": "the areas of safety, health and environment at workplaces in different sectors.",
           "bbox": [
             106.94000244140625,
@@ -3928,7 +3862,7 @@
           ]
         },
         {
-          "y": 282,
+          "y": 282.3,
           "text": "2.8 Promoting inclusion of safety, health and environment, improvement at",
           "bbox": [
             70.94400024414062,
@@ -3984,7 +3918,7 @@
           ]
         },
         {
-          "y": 306,
+          "y": 306.4,
           "text": "workplaces as an important component in other relevant national policy",
           "bbox": [
             106.94000244140625,
@@ -4018,7 +3952,7 @@
           ]
         },
         {
-          "y": 331,
+          "y": 330.6,
           "text": "documents.",
           "bbox": [
             106.94000244140625,
@@ -4052,7 +3986,7 @@
           ]
         },
         {
-          "y": 355,
+          "y": 354.7,
           "text": "2.9 Including safety and occupational health as an integral part of every",
           "bbox": [
             70.94400024414062,
@@ -4086,7 +4020,7 @@
           ]
         },
         {
-          "y": 379,
+          "y": 378.9,
           "text": "operation.",
           "bbox": [
             106.94000244140625,
@@ -4120,7 +4054,7 @@
           ]
         },
         {
-          "y": 403,
+          "y": 403.2,
           "text": "3. OBJECTIVES:",
           "bbox": [
             70.94400024414062,
@@ -4198,7 +4132,7 @@
           ]
         },
         {
-          "y": 427,
+          "y": 427.2,
           "text": "3.1 The policy seeks to bring the national objectives into focus as a step towards",
           "bbox": [
             70.94400024414062,
@@ -4254,7 +4188,7 @@
           ]
         },
         {
-          "y": 451,
+          "y": 451.4,
           "text": "improvement in safety, health and environment at workplace. The objectives are to",
           "bbox": [
             70.94400024414062,
@@ -4288,7 +4222,7 @@
           ]
         },
         {
-          "y": 475,
+          "y": 475.5,
           "text": "achieve:-",
           "bbox": [
             70.94400024414062,
@@ -4322,7 +4256,7 @@
           ]
         },
         {
-          "y": 500,
+          "y": 499.6,
           "text": "a) Continuous reduction in the incidence of work related injuries,",
           "bbox": [
             106.94000244140625,
@@ -4378,7 +4312,7 @@
           ]
         },
         {
-          "y": 524,
+          "y": 523.8,
           "text": "fatalities, diseases, disasters and loss of national assets.",
           "bbox": [
             142.94000244140625,
@@ -4412,11 +4346,11 @@
           ]
         },
         {
-          "y": 548,
+          "y": 548.0,
           "text": "b) Improved coverage of work related injuries, fatalities and diseases and",
           "bbox": [
             106.94000244140625,
-            547.7637939453125,
+            547.9603271484375,
             544.2310180664062,
             563.5026245117188
           ],
@@ -4445,28 +4379,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                118.58000183105469,
-                560.469970703125
-              ],
-              "bbox": [
-                118.58000183105469,
-                547.7637939453125,
-                122.48312377929688,
-                563.4183959960938
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -4490,7 +4402,7 @@
           ]
         },
         {
-          "y": 572,
+          "y": 572.1,
           "text": "provide for a more comprehensive data base for facilitating better",
           "bbox": [
             142.94000244140625,
@@ -4524,7 +4436,7 @@
           ]
         },
         {
-          "y": 596,
+          "y": 596.2,
           "text": "performance and monitoring.",
           "bbox": [
             142.94000244140625,
@@ -4558,11 +4470,11 @@
           ]
         },
         {
-          "y": 620,
+          "y": 620.5,
           "text": "c) Continuous enhancement of community awareness regarding safety,",
           "bbox": [
             106.94000244140625,
-            620.2738037109375,
+            620.4703369140625,
             544.5733642578125,
             636.0126342773438
           ],
@@ -4591,28 +4503,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                117.86000061035156,
-                632.97998046875
-              ],
-              "bbox": [
-                117.86000061035156,
-                620.2738037109375,
-                121.76312255859375,
-                635.9284057617188
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -4636,7 +4526,7 @@
           ]
         },
         {
-          "y": 645,
+          "y": 644.6,
           "text": "health and environment at workplace related areas.",
           "bbox": [
             142.94000244140625,
@@ -4670,11 +4560,11 @@
           ]
         },
         {
-          "y": 669,
+          "y": 668.7,
           "text": "d) Continually increasing community expectation of workplace health",
           "bbox": [
             106.94000244140625,
-            668.5137939453125,
+            668.7103271484375,
             544.1889038085938,
             684.2526245117188
           ],
@@ -4703,28 +4593,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                118.58000183105469,
-                681.219970703125
-              ],
-              "bbox": [
-                118.58000183105469,
-                668.5137939453125,
-                122.48312377929688,
-                684.1683959960938
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -4748,7 +4616,7 @@
           ]
         },
         {
-          "y": 693,
+          "y": 692.8,
           "text": "and safety standards.",
           "bbox": [
             142.94000244140625,
@@ -4782,7 +4650,7 @@
           ]
         },
         {
-          "y": 731,
+          "y": 731.3,
           "text": "4",
           "bbox": [
             303.30999755859375,
@@ -4823,11 +4691,11 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 41,
+          "y": 40.8,
           "text": "e) Improving safety, health and environment at workplace by creation of",
           "bbox": [
             106.94000244140625,
-            40.573829650878906,
+            40.770389556884766,
             544.1609497070312,
             56.31266784667969
           ],
@@ -4856,28 +4724,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                117.86000061035156,
-                53.280029296875
-              ],
-              "bbox": [
-                117.86000061035156,
-                40.573829650878906,
-                121.76312255859375,
-                56.22842788696289
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -4901,7 +4747,7 @@
           ]
         },
         {
-          "y": 65,
+          "y": 64.9,
           "text": "“green jobs” contributing to sustainable enterprise development.",
           "bbox": [
             142.94000244140625,
@@ -4935,7 +4781,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 89.3,
           "text": "4. ACTION PROGRAMME",
           "bbox": [
             70.94400024414062,
@@ -4991,7 +4837,7 @@
           ]
         },
         {
-          "y": 113,
+          "y": 113.3,
           "text": "For the purpose of achieving the goals and objectives mentioned in",
           "bbox": [
             106.94000244140625,
@@ -5025,7 +4871,7 @@
           ]
         },
         {
-          "y": 137,
+          "y": 137.4,
           "text": "paragraphs 2 and 3 above, the following action programme is drawn up and",
           "bbox": [
             106.94000244140625,
@@ -5059,7 +4905,7 @@
           ]
         },
         {
-          "y": 162,
+          "y": 161.5,
           "text": "where necessary time bound action programme would be initiated, namely:-",
           "bbox": [
             106.94000244140625,
@@ -5093,7 +4939,7 @@
           ]
         },
         {
-          "y": 186,
+          "y": 185.6,
           "text": "4.1. Enforcement",
           "bbox": [
             70.94400024414062,
@@ -5149,11 +4995,11 @@
           ]
         },
         {
-          "y": 210,
+          "y": 209.9,
           "text": "4.1.1 by providing an effective enforcement machinery as well as suitable",
           "bbox": [
             70.94400024414062,
-            209.67379760742188,
+            209.870361328125,
             544.2618408203125,
             225.4126434326172
           ],
@@ -5182,28 +5028,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                222.3800048828125
-              ],
-              "bbox": [
-                98.90399932861328,
-                209.67379760742188,
-                102.80712127685547,
-                225.32839965820312
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -5227,7 +5051,7 @@
           ]
         },
         {
-          "y": 234,
+          "y": 234.0,
           "text": "provisions for compensation and rehabilitation of affected persons;",
           "bbox": [
             106.94000244140625,
@@ -5261,11 +5085,11 @@
           ]
         },
         {
-          "y": 258,
+          "y": 258.1,
           "text": "4.1.2 by effectively enforcing all applicable laws and regulations concerning",
           "bbox": [
             70.94400024414062,
-            257.9438171386719,
+            258.140380859375,
             544.2719116210938,
             273.68267822265625
           ],
@@ -5294,28 +5118,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                270.6500244140625
-              ],
-              "bbox": [
-                98.90399932861328,
-                257.9438171386719,
-                102.80712127685547,
-                273.5984191894531
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -5339,7 +5141,7 @@
           ]
         },
         {
-          "y": 282,
+          "y": 282.3,
           "text": "safety, health and environment at workplaces in all economic activities",
           "bbox": [
             106.94000244140625,
@@ -5373,7 +5175,7 @@
           ]
         },
         {
-          "y": 306,
+          "y": 306.4,
           "text": "through an adequate and effective labour inspection system;",
           "bbox": [
             106.94000244140625,
@@ -5407,7 +5209,7 @@
           ]
         },
         {
-          "y": 331,
+          "y": 330.6,
           "text": "4.1.3 By establishing suitable schemes for subsidy and provision of loans to enable",
           "bbox": [
             70.94400024414062,
@@ -5463,7 +5265,7 @@
           ]
         },
         {
-          "y": 355,
+          "y": 354.7,
           "text": "effective implementation of the policy;",
           "bbox": [
             106.94000244140625,
@@ -5497,11 +5299,11 @@
           ]
         },
         {
-          "y": 379,
+          "y": 378.9,
           "text": "4.1.4 by ensuring that employers, employees and others have separate but",
           "bbox": [
             70.94400024414062,
-            378.6637878417969,
+            378.8603515625,
             544.2987670898438,
             394.40264892578125
           ],
@@ -5530,28 +5332,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                391.3699951171875
-              ],
-              "bbox": [
-                98.90399932861328,
-                378.6637878417969,
-                102.80712127685547,
-                394.3183898925781
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -5575,7 +5355,7 @@
           ]
         },
         {
-          "y": 403,
+          "y": 403.0,
           "text": "complementary responsibilities and rights with respect to achieving safe and",
           "bbox": [
             106.94000244140625,
@@ -5609,7 +5389,7 @@
           ]
         },
         {
-          "y": 427,
+          "y": 427.2,
           "text": "healthy working conditions;",
           "bbox": [
             106.94000244140625,
@@ -5643,11 +5423,11 @@
           ]
         },
         {
-          "y": 451,
+          "y": 451.4,
           "text": "4.1.5 by amending expeditiously existing laws relating to safety, health and",
           "bbox": [
             70.94400024414062,
-            451.1637878417969,
+            451.3603515625,
             544.609130859375,
             466.90264892578125
           ],
@@ -5676,28 +5456,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                463.8699951171875
-              ],
-              "bbox": [
-                98.90399932861328,
-                451.1637878417969,
-                102.80712127685547,
-                466.8183898925781
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -5721,7 +5479,7 @@
           ]
         },
         {
-          "y": 475,
+          "y": 475.5,
           "text": "environment and bring them in line with the relevant international",
           "bbox": [
             106.94000244140625,
@@ -5755,7 +5513,7 @@
           ]
         },
         {
-          "y": 500,
+          "y": 499.6,
           "text": "instruments;",
           "bbox": [
             106.94000244140625,
@@ -5789,11 +5547,11 @@
           ]
         },
         {
-          "y": 524,
+          "y": 523.8,
           "text": "4.1.6 by monitoring the adoption of national standards through regulatory",
           "bbox": [
             70.94400024414062,
-            523.643798828125,
+            523.84033203125,
             544.6553955078125,
             539.3826293945312
           ],
@@ -5822,28 +5580,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                536.3499755859375
-              ],
-              "bbox": [
-                98.90399932861328,
-                523.643798828125,
-                102.80712127685547,
-                539.2984008789062
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -5867,7 +5603,7 @@
           ]
         },
         {
-          "y": 548,
+          "y": 548.0,
           "text": "authorities;",
           "bbox": [
             106.94000244140625,
@@ -5901,11 +5637,11 @@
           ]
         },
         {
-          "y": 572,
+          "y": 572.1,
           "text": "4.1.7 by facilitating the sharing of best practices and experiences between national",
           "bbox": [
             70.94400024414062,
-            571.8837890625,
+            572.080322265625,
             544.4898071289062,
             587.6226196289062
           ],
@@ -5934,28 +5670,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                584.5899658203125
-              ],
-              "bbox": [
-                98.90399932861328,
-                571.8837890625,
-                102.80712127685547,
-                587.5383911132812
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -5979,7 +5693,7 @@
           ]
         },
         {
-          "y": 596,
+          "y": 596.2,
           "text": "and international regulatory authorities;",
           "bbox": [
             106.94000244140625,
@@ -6013,11 +5727,11 @@
           ]
         },
         {
-          "y": 620,
+          "y": 620.5,
           "text": "4.1.8 by developing new and innovative enforcement methods including financial",
           "bbox": [
             70.94400024414062,
-            620.2738037109375,
+            620.4703369140625,
             544.0892333984375,
             636.0126342773438
           ],
@@ -6046,28 +5760,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                632.97998046875
-              ],
-              "bbox": [
-                98.90399932861328,
-                620.2738037109375,
-                102.80712127685547,
-                635.9284057617188
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -6091,7 +5783,7 @@
           ]
         },
         {
-          "y": 645,
+          "y": 644.6,
           "text": "incentives that encourage and ensure improved workplace performance;",
           "bbox": [
             106.94000244140625,
@@ -6125,11 +5817,11 @@
           ]
         },
         {
-          "y": 669,
+          "y": 668.7,
           "text": "4.1.9 by making an enabling legislation on Safety, Health and Environment at",
           "bbox": [
             70.94400024414062,
-            668.5137939453125,
+            668.7103271484375,
             544.7100219726562,
             684.2526245117188
           ],
@@ -6158,28 +5850,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                681.219970703125
-              ],
-              "bbox": [
-                98.90399932861328,
-                668.5137939453125,
-                102.80712127685547,
-                684.1683959960938
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -6203,7 +5873,7 @@
           ]
         },
         {
-          "y": 693,
+          "y": 692.8,
           "text": "Workplaces;",
           "bbox": [
             106.94000244140625,
@@ -6237,7 +5907,7 @@
           ]
         },
         {
-          "y": 731,
+          "y": 731.3,
           "text": "5",
           "bbox": [
             303.30999755859375,
@@ -6278,11 +5948,11 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 41,
+          "y": 40.8,
           "text": "4.1.10 by setting up safety and health committees wherever deemed appropriate;",
           "bbox": [
             70.94400024414062,
-            40.573829650878906,
+            40.770389556884766,
             526.5900268554688,
             56.31266784667969
           ],
@@ -6311,28 +5981,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                105.9800033569336,
-                53.280029296875
-              ],
-              "bbox": [
-                105.9800033569336,
-                40.573829650878906,
-                109.88312530517578,
-                56.22842788696289
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -6356,11 +6004,11 @@
           ]
         },
         {
-          "y": 89,
+          "y": 89.3,
           "text": "4.2 National Standards",
           "bbox": [
             70.94400024414062,
-            89.0738296508789,
+            89.2703857421875,
             214.75999450683594,
             104.81266784667969
           ],
@@ -6389,28 +6037,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Arial,Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                88.46399688720703,
-                101.780029296875
-              ],
-              "bbox": [
-                88.46399688720703,
-                89.0738296508789,
-                92.36711883544922,
-                104.72843170166016
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 20,
               "bidi": 0,
               "char_flags": 24,
@@ -6434,11 +6060,11 @@
           ]
         },
         {
-          "y": 113,
+          "y": 113.3,
           "text": "4.2.1 by developing appropriate standards, codes of practices and manuals on",
           "bbox": [
             70.94400024414062,
-            113.0738296508789,
+            113.2703857421875,
             544.173583984375,
             128.8126678466797
           ],
@@ -6467,28 +6093,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                125.780029296875
-              ],
-              "bbox": [
-                98.90399932861328,
-                113.0738296508789,
-                102.80712127685547,
-                128.72842407226562
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -6512,7 +6116,7 @@
           ]
         },
         {
-          "y": 137,
+          "y": 137.4,
           "text": "safety, health and environment for uniformity at the national level in all",
           "bbox": [
             106.94000244140625,
@@ -6546,7 +6150,7 @@
           ]
         },
         {
-          "y": 162,
+          "y": 161.5,
           "text": "economic activities consistent with international standards and",
           "bbox": [
             106.94000244140625,
@@ -6712,7 +6316,7 @@
           ]
         },
         {
-          "y": 186,
+          "y": 185.6,
           "text": "implementation by the stake holders in true spirit;",
           "bbox": [
             106.94000244140625,
@@ -6746,11 +6350,11 @@
           ]
         },
         {
-          "y": 210,
+          "y": 209.9,
           "text": "4.2.2 by ensuring stakeholders awareness of and accessibility to applicable policy,",
           "bbox": [
             70.94400024414062,
-            209.67379760742188,
+            209.870361328125,
             544.4891967773438,
             225.4126434326172
           ],
@@ -6779,28 +6383,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                222.3800048828125
-              ],
-              "bbox": [
-                98.90399932861328,
-                209.67379760742188,
-                102.80712127685547,
-                225.32839965820312
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -6824,7 +6406,7 @@
           ]
         },
         {
-          "y": 234,
+          "y": 234.0,
           "text": "documents, codes, regulations and standards;",
           "bbox": [
             106.94000244140625,
@@ -6858,11 +6440,11 @@
           ]
         },
         {
-          "y": 258,
+          "y": 258.4,
           "text": "4.3 Compliance",
           "bbox": [
             70.94400024414062,
-            258.1838073730469,
+            258.38037109375,
             182.0,
             273.92266845703125
           ],
@@ -6891,28 +6473,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Arial,Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                88.46399688720703,
-                270.8900146484375
-              ],
-              "bbox": [
-                88.46399688720703,
-                258.1838073730469,
-                92.36711883544922,
-                273.8384094238281
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 20,
               "bidi": 0,
               "char_flags": 24,
@@ -6936,11 +6496,11 @@
           ]
         },
         {
-          "y": 282,
+          "y": 282.3,
           "text": "4.3.1 by encouraging the appropriate Government to assume the fullest",
           "bbox": [
             70.94400024414062,
-            282.06378173828125,
+            282.2603454589844,
             544.2437744140625,
             297.8026428222656
           ],
@@ -6969,28 +6529,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                294.7699890136719
-              ],
-              "bbox": [
-                98.90399932861328,
-                282.06378173828125,
-                102.80712127685547,
-                297.7183837890625
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -7014,7 +6552,7 @@
           ]
         },
         {
-          "y": 306,
+          "y": 306.4,
           "text": "responsibility for the administration and enforcement of occupational safety,",
           "bbox": [
             106.94000244140625,
@@ -7048,7 +6586,7 @@
           ]
         },
         {
-          "y": 331,
+          "y": 330.6,
           "text": "health and environment at workplace, provide assistance in identifying their",
           "bbox": [
             106.94000244140625,
@@ -7082,7 +6620,7 @@
           ]
         },
         {
-          "y": 355,
+          "y": 354.7,
           "text": "needs and responsibilities in the area of safety, health and environment at",
           "bbox": [
             106.94000244140625,
@@ -7116,7 +6654,7 @@
           ]
         },
         {
-          "y": 379,
+          "y": 378.9,
           "text": "workplace, to develop plans and programmes in accordance with the",
           "bbox": [
             106.94000244140625,
@@ -7150,7 +6688,7 @@
           ]
         },
         {
-          "y": 403,
+          "y": 403.0,
           "text": "provisions of the applicable Acts and to conduct experimental and",
           "bbox": [
             106.94000244140625,
@@ -7184,7 +6722,7 @@
           ]
         },
         {
-          "y": 427,
+          "y": 427.2,
           "text": "demonstration projects in connection therewith;",
           "bbox": [
             106.94000244140625,
@@ -7218,11 +6756,11 @@
           ]
         },
         {
-          "y": 451,
+          "y": 451.4,
           "text": "4.3.2 by calling upon the co-operation of social partners in the supervision of",
           "bbox": [
             70.94400024414062,
-            451.1637878417969,
+            451.3603515625,
             547.8388061523438,
             466.90264892578125
           ],
@@ -7251,28 +6789,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                463.8699951171875
-              ],
-              "bbox": [
-                98.90399932861328,
-                451.1637878417969,
-                102.80712127685547,
-                466.8183898925781
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -7296,7 +6812,7 @@
           ]
         },
         {
-          "y": 475,
+          "y": 475.5,
           "text": "application of legislations and regulations relating to safety, health and",
           "bbox": [
             106.94000244140625,
@@ -7330,7 +6846,7 @@
           ]
         },
         {
-          "y": 500,
+          "y": 499.6,
           "text": "environment at work place;",
           "bbox": [
             106.94000244140625,
@@ -7364,11 +6880,11 @@
           ]
         },
         {
-          "y": 524,
+          "y": 523.8,
           "text": "4.3.3 by continuous improvement of Occupational Safety and Health by systems",
           "bbox": [
             70.94400024414062,
-            523.643798828125,
+            523.84033203125,
             544.4537353515625,
             539.3826293945312
           ],
@@ -7397,28 +6913,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                536.3499755859375
-              ],
-              "bbox": [
-                98.90399932861328,
-                523.643798828125,
-                102.80712127685547,
-                539.2984008789062
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -7442,7 +6936,7 @@
           ]
         },
         {
-          "y": 548,
+          "y": 548.0,
           "text": "approach to the management of Occupational Safety and Health including",
           "bbox": [
             106.94000244140625,
@@ -7476,7 +6970,7 @@
           ]
         },
         {
-          "y": 572,
+          "y": 572.1,
           "text": "developing guidance on Occupational Safety and Health management",
           "bbox": [
             106.94000244140625,
@@ -7510,7 +7004,7 @@
           ]
         },
         {
-          "y": 596,
+          "y": 596.2,
           "text": "systems, strengthening voluntary actions, including mechanisms for self-",
           "bbox": [
             106.94000244140625,
@@ -7544,7 +7038,7 @@
           ]
         },
         {
-          "y": 620,
+          "y": 620.5,
           "text": "regulatory concept and establishing auditing mechanisms which can test and",
           "bbox": [
             106.94000244140625,
@@ -7578,7 +7072,7 @@
           ]
         },
         {
-          "y": 645,
+          "y": 644.6,
           "text": "authenticate occupational safety and health management systems;",
           "bbox": [
             106.94000244140625,
@@ -7612,7 +7106,7 @@
           ]
         },
         {
-          "y": 731,
+          "y": 731.3,
           "text": "6",
           "bbox": [
             303.30999755859375,
@@ -7653,11 +7147,11 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 41,
+          "y": 40.8,
           "text": "4.3.4 by providing specific measures to prevent catastrophes, and to co-ordinate",
           "bbox": [
             70.94400024414062,
-            40.573829650878906,
+            40.770389556884766,
             544.6702880859375,
             56.31266784667969
           ],
@@ -7686,28 +7180,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                53.280029296875
-              ],
-              "bbox": [
-                98.90399932861328,
-                40.573829650878906,
-                102.80712127685547,
-                56.22842788696289
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -7731,7 +7203,7 @@
           ]
         },
         {
-          "y": 65,
+          "y": 64.9,
           "text": "and specify the actions to be taken at different levels, particularly in the",
           "bbox": [
             106.94000244140625,
@@ -7765,7 +7237,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 89.0,
           "text": "industrial zones with high potential risks;",
           "bbox": [
             106.94000244140625,
@@ -7799,11 +7271,11 @@
           ]
         },
         {
-          "y": 113,
+          "y": 113.3,
           "text": "4.3.5 by recognising the best safety and health practices and providing facilitation",
           "bbox": [
             70.94400024414062,
-            113.0738296508789,
+            113.2703857421875,
             544.7100219726562,
             128.8126678466797
           ],
@@ -7832,28 +7304,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                125.780029296875
-              ],
-              "bbox": [
-                98.90399932861328,
-                113.0738296508789,
-                102.80712127685547,
-                128.72842407226562
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -7877,7 +7327,7 @@
           ]
         },
         {
-          "y": 137,
+          "y": 137.4,
           "text": "for their adoption.",
           "bbox": [
             106.94000244140625,
@@ -7911,7 +7361,7 @@
           ]
         },
         {
-          "y": 162,
+          "y": 161.5,
           "text": "4.3.6 by providing adequate penal provisions as deterrent for violation of laws for",
           "bbox": [
             70.94400024414062,
@@ -7967,7 +7417,7 @@
           ]
         },
         {
-          "y": 186,
+          "y": 185.6,
           "text": "the time being in force;",
           "bbox": [
             106.94000244140625,
@@ -8001,11 +7451,11 @@
           ]
         },
         {
-          "y": 210,
+          "y": 209.9,
           "text": "4.3.7 by encouraging all concerned to adopt and commit to “Responsible Care”",
           "bbox": [
             70.94400024414062,
-            209.67379760742188,
+            209.870361328125,
             544.1593627929688,
             225.4126434326172
           ],
@@ -8034,28 +7484,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                222.3800048828125
-              ],
-              "bbox": [
-                98.90399932861328,
-                209.67379760742188,
-                102.80712127685547,
-                225.32839965820312
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -8079,7 +7507,7 @@
           ]
         },
         {
-          "y": 234,
+          "y": 234.0,
           "text": "and / or “Corporate Social Responsibility” to improve safety, health and",
           "bbox": [
             106.94000244140625,
@@ -8113,7 +7541,7 @@
           ]
         },
         {
-          "y": 258,
+          "y": 258.1,
           "text": "environment at workplace performance;",
           "bbox": [
             106.94000244140625,
@@ -8147,11 +7575,11 @@
           ]
         },
         {
-          "y": 282,
+          "y": 282.3,
           "text": "4.3.8 by ensuring a suitable accreditation machinery to recognise institutions,",
           "bbox": [
             70.94400024414062,
-            282.06378173828125,
+            282.2603454589844,
             544.4967041015625,
             297.8026428222656
           ],
@@ -8180,28 +7608,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                294.7699890136719
-              ],
-              "bbox": [
-                98.90399932861328,
-                282.06378173828125,
-                102.80712127685547,
-                297.7183837890625
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -8225,7 +7631,7 @@
           ]
         },
         {
-          "y": 306,
+          "y": 306.4,
           "text": "professionals and services relating to safety, health and environment at",
           "bbox": [
             106.94000244140625,
@@ -8259,7 +7665,7 @@
           ]
         },
         {
-          "y": 331,
+          "y": 330.6,
           "text": "workplace for uniformity and greater coverage as also authenticating safe",
           "bbox": [
             106.94000244140625,
@@ -8293,7 +7699,7 @@
           ]
         },
         {
-          "y": 355,
+          "y": 354.7,
           "text": "management system;",
           "bbox": [
             106.94000244140625,
@@ -8327,11 +7733,11 @@
           ]
         },
         {
-          "y": 379,
+          "y": 378.9,
           "text": "4.3.9 by encouraging employers to ensure occupational safety and health",
           "bbox": [
             70.94400024414062,
-            378.6637878417969,
+            378.8603515625,
             544.65771484375,
             394.40264892578125
           ],
@@ -8360,28 +7766,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                391.3699951171875
-              ],
-              "bbox": [
-                98.90399932861328,
-                378.6637878417969,
-                102.80712127685547,
-                394.3183898925781
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -8405,7 +7789,7 @@
           ]
         },
         {
-          "y": 403,
+          "y": 403.0,
           "text": "management systems, establish them in efficient manner to improve",
           "bbox": [
             106.94000244140625,
@@ -8439,7 +7823,7 @@
           ]
         },
         {
-          "y": 427,
+          "y": 427.2,
           "text": "workplace safety and health;",
           "bbox": [
             106.94000244140625,
@@ -8473,11 +7857,11 @@
           ]
         },
         {
-          "y": 451,
+          "y": 451.4,
           "text": "4.3.10 by specifically focusing on such occupational diseases like pneumoconiosis",
           "bbox": [
             70.94400024414062,
-            451.1637878417969,
+            451.3603515625,
             544.1856689453125,
             466.90264892578125
           ],
@@ -8506,28 +7890,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                105.9800033569336,
-                463.8699951171875
-              ],
-              "bbox": [
-                105.9800033569336,
-                451.1637878417969,
-                109.88312530517578,
-                466.8183898925781
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -8551,7 +7913,7 @@
           ]
         },
         {
-          "y": 475,
+          "y": 475.5,
           "text": "and silicosis; developing a framework for its prevention and control as well",
           "bbox": [
             106.94000244140625,
@@ -8585,7 +7947,7 @@
           ]
         },
         {
-          "y": 500,
+          "y": 499.6,
           "text": "as develop technical standards and guidelines for the same;",
           "bbox": [
             106.94000244140625,
@@ -8619,11 +7981,11 @@
           ]
         },
         {
-          "y": 524,
+          "y": 523.8,
           "text": "4.3.11 by promoting safe and clean technology and progressively replacing",
           "bbox": [
             70.94400024414062,
-            523.643798828125,
+            523.84033203125,
             544.1014404296875,
             539.3826293945312
           ],
@@ -8652,28 +8014,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                105.9800033569336,
-                536.3499755859375
-              ],
-              "bbox": [
-                105.9800033569336,
-                523.643798828125,
-                109.88312530517578,
-                539.2984008789062
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -8697,7 +8037,7 @@
           ]
         },
         {
-          "y": 548,
+          "y": 548.0,
           "text": "materials hazardous to human health and environment;",
           "bbox": [
             106.94000244140625,
@@ -8731,11 +8071,11 @@
           ]
         },
         {
-          "y": 572,
+          "y": 572.3,
           "text": "4.4 Awareness",
           "bbox": [
             70.94400024414062,
-            572.1238403320312,
+            572.3203735351562,
             163.00999450683594,
             587.8626708984375
           ],
@@ -8764,28 +8104,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Arial,Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                88.46399688720703,
-                584.8300170898438
-              ],
-              "bbox": [
-                88.46399688720703,
-                572.1238403320312,
-                92.36711883544922,
-                587.7784423828125
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 20,
               "bidi": 0,
               "char_flags": 24,
@@ -8809,11 +8127,11 @@
           ]
         },
         {
-          "y": 596,
+          "y": 596.2,
           "text": "4.4.1 by increasing awareness on safety, health and environment at workplace",
           "bbox": [
             70.94400024414062,
-            596.0338134765625,
+            596.2303466796875,
             544.6856079101562,
             611.7726440429688
           ],
@@ -8842,28 +8160,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                608.739990234375
-              ],
-              "bbox": [
-                98.90399932861328,
-                596.0338134765625,
-                102.80712127685547,
-                611.6884155273438
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -8887,7 +8183,7 @@
           ]
         },
         {
-          "y": 620,
+          "y": 620.5,
           "text": "through appropriate means;",
           "bbox": [
             106.94000244140625,
@@ -8921,7 +8217,7 @@
           ]
         },
         {
-          "y": 645,
+          "y": 644.6,
           "text": "4.4.2 by providing forums for consultations with employers’ representatives,",
           "bbox": [
             70.94400024414062,
@@ -8977,7 +8273,7 @@
           ]
         },
         {
-          "y": 669,
+          "y": 668.7,
           "text": "employees representatives and community on matters of national concern",
           "bbox": [
             106.94000244140625,
@@ -9011,7 +8307,7 @@
           ]
         },
         {
-          "y": 731,
+          "y": 731.3,
           "text": "7",
           "bbox": [
             303.30999755859375,
@@ -9052,7 +8348,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 41,
+          "y": 40.8,
           "text": "relating to safety, health and environment at work place with the overall",
           "bbox": [
             106.94000244140625,
@@ -9086,7 +8382,7 @@
           ]
         },
         {
-          "y": 65,
+          "y": 64.9,
           "text": "objective of creating awareness and enhancing national productivity;",
           "bbox": [
             106.94000244140625,
@@ -9120,11 +8416,11 @@
           ]
         },
         {
-          "y": 89,
+          "y": 89.0,
           "text": "4.4.3 by encouraging joint labour-management efforts to preserve, protect and",
           "bbox": [
             70.94400024414062,
-            88.83377838134766,
+            89.03033447265625,
             544.4447631835938,
             104.57261657714844
           ],
@@ -9153,28 +8449,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                101.53997802734375
-              ],
-              "bbox": [
-                98.90399932861328,
-                88.83377838134766,
-                102.80712127685547,
-                104.4883804321289
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -9198,7 +8472,7 @@
           ]
         },
         {
-          "y": 113,
+          "y": 113.3,
           "text": "promote national assets and to eliminate injuries and diseases arising out of",
           "bbox": [
             106.94000244140625,
@@ -9232,7 +8506,7 @@
           ]
         },
         {
-          "y": 137,
+          "y": 137.4,
           "text": "employment;",
           "bbox": [
             106.94000244140625,
@@ -9266,7 +8540,7 @@
           ]
         },
         {
-          "y": 162,
+          "y": 161.5,
           "text": "4.4.4 by raising community awareness through structured, audience specific",
           "bbox": [
             70.94400024414062,
@@ -9322,7 +8596,7 @@
           ]
         },
         {
-          "y": 186,
+          "y": 185.6,
           "text": "approach;",
           "bbox": [
             106.94000244140625,
@@ -9356,11 +8630,11 @@
           ]
         },
         {
-          "y": 210,
+          "y": 209.9,
           "text": "4.4.5 by continuously evaluating the impact of such awareness and information",
           "bbox": [
             70.94400024414062,
-            209.67379760742188,
+            209.870361328125,
             544.1314697265625,
             225.4126434326172
           ],
@@ -9389,28 +8663,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                222.3800048828125
-              ],
-              "bbox": [
-                98.90399932861328,
-                209.67379760742188,
-                102.80712127685547,
-                225.32839965820312
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -9434,7 +8686,7 @@
           ]
         },
         {
-          "y": 234,
+          "y": 234.0,
           "text": "initiatives;",
           "bbox": [
             106.94000244140625,
@@ -9468,11 +8720,11 @@
           ]
         },
         {
-          "y": 258,
+          "y": 258.1,
           "text": "4.4.6 by maximizing gains from the substantial investment in awareness",
           "bbox": [
             70.94400024414062,
-            257.9438171386719,
+            258.140380859375,
             544.1734619140625,
             273.68267822265625
           ],
@@ -9501,28 +8753,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                270.6500244140625
-              ],
-              "bbox": [
-                98.90399932861328,
-                257.9438171386719,
-                102.80712127685547,
-                273.5984191894531
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -9546,7 +8776,7 @@
           ]
         },
         {
-          "y": 282,
+          "y": 282.3,
           "text": "campaigns by sharing experience and learning;",
           "bbox": [
             106.94000244140625,
@@ -9580,11 +8810,11 @@
           ]
         },
         {
-          "y": 306,
+          "y": 306.4,
           "text": "4.4.7 by suitably incorporating teaching inputs on safety, health and environment",
           "bbox": [
             70.94400024414062,
-            306.1838073730469,
+            306.38037109375,
             544.4912719726562,
             321.92266845703125
           ],
@@ -9613,28 +8843,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                318.8900146484375
-              ],
-              "bbox": [
-                98.90399932861328,
-                306.1838073730469,
-                102.80712127685547,
-                321.8384094238281
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -9658,7 +8866,7 @@
           ]
         },
         {
-          "y": 331,
+          "y": 330.6,
           "text": "at work place in schools, technical, medical, professional and vocational",
           "bbox": [
             106.94000244140625,
@@ -9692,7 +8900,7 @@
           ]
         },
         {
-          "y": 355,
+          "y": 354.7,
           "text": "courses and distance education programme;",
           "bbox": [
             106.94000244140625,
@@ -9726,11 +8934,11 @@
           ]
         },
         {
-          "y": 379,
+          "y": 378.9,
           "text": "4.4.8 by securing good liaison arrangements with the International organisations;",
           "bbox": [
             70.94400024414062,
-            378.6637878417969,
+            378.8603515625,
             536.3099975585938,
             394.40264892578125
           ],
@@ -9759,28 +8967,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                391.3699951171875
-              ],
-              "bbox": [
-                98.90399932861328,
-                378.6637878417969,
-                102.80712127685547,
-                394.3183898925781
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -9804,11 +8990,11 @@
           ]
         },
         {
-          "y": 403,
+          "y": 403.0,
           "text": "4.4.9 by providing medical criteria wherever necessary which will assure insofar",
           "bbox": [
             70.94400024414062,
-            402.7837829589844,
+            402.9803466796875,
             544.5928344726562,
             418.52264404296875
           ],
@@ -9837,28 +9023,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                415.489990234375
-              ],
-              "bbox": [
-                98.90399932861328,
-                402.7837829589844,
-                102.80712127685547,
-                418.4383850097656
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -9882,7 +9046,7 @@
           ]
         },
         {
-          "y": 427,
+          "y": 427.2,
           "text": "as practicable that no employee will suffer diminished health, functional",
           "bbox": [
             106.94000244140625,
@@ -9916,7 +9080,7 @@
           ]
         },
         {
-          "y": 451,
+          "y": 451.4,
           "text": "capacity, or life expectancy as a result of his work place activities and that in",
           "bbox": [
             106.94000244140625,
@@ -9950,7 +9114,7 @@
           ]
         },
         {
-          "y": 475,
+          "y": 475.5,
           "text": "the event of such occupational diseases having been contracted, is suitably",
           "bbox": [
             106.94000244140625,
@@ -9984,7 +9148,7 @@
           ]
         },
         {
-          "y": 500,
+          "y": 499.6,
           "text": "compensated;",
           "bbox": [
             106.94000244140625,
@@ -10018,11 +9182,11 @@
           ]
         },
         {
-          "y": 524,
+          "y": 523.8,
           "text": "4.4.10 by providing practical guidance and encouraging employers and employees",
           "bbox": [
             70.94400024414062,
-            523.643798828125,
+            523.84033203125,
             544.1013793945312,
             539.3826293945312
           ],
@@ -10051,28 +9215,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                105.9800033569336,
-                536.3499755859375
-              ],
-              "bbox": [
-                105.9800033569336,
-                523.643798828125,
-                109.88312530517578,
-                539.2984008789062
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -10096,7 +9238,7 @@
           ]
         },
         {
-          "y": 548,
+          "y": 548.0,
           "text": "in their efforts to reduce the incidence of occupational safety and health risks",
           "bbox": [
             106.94000244140625,
@@ -10130,7 +9272,7 @@
           ]
         },
         {
-          "y": 572,
+          "y": 572.1,
           "text": "at their places of employment and to impress upon employers and employees",
           "bbox": [
             106.94000244140625,
@@ -10164,7 +9306,7 @@
           ]
         },
         {
-          "y": 596,
+          "y": 596.2,
           "text": "to institute new programmes and to improve existing programmes for",
           "bbox": [
             106.94000244140625,
@@ -10198,7 +9340,7 @@
           ]
         },
         {
-          "y": 620,
+          "y": 620.5,
           "text": "providing safe and healthful working conditions, requiring employers to",
           "bbox": [
             106.94000244140625,
@@ -10232,7 +9374,7 @@
           ]
         },
         {
-          "y": 645,
+          "y": 644.6,
           "text": "ensure that workers and their representatives are consulted, trained, informed",
           "bbox": [
             106.94000244140625,
@@ -10266,7 +9408,7 @@
           ]
         },
         {
-          "y": 669,
+          "y": 668.7,
           "text": "and involved in all measures related to their safety and health at work;",
           "bbox": [
             106.94000244140625,
@@ -10300,11 +9442,11 @@
           ]
         },
         {
-          "y": 693,
+          "y": 693.1,
           "text": "4.5 Research and Development",
           "bbox": [
             70.94400024414062,
-            692.8698120117188,
+            693.0663452148438,
             273.8000183105469,
             708.608642578125
           ],
@@ -10333,28 +9475,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Arial,Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                88.46399688720703,
-                705.5759887695312
-              ],
-              "bbox": [
-                88.46399688720703,
-                692.8698120117188,
-                92.36711883544922,
-                708.5244140625
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 20,
               "bidi": 0,
               "char_flags": 24,
@@ -10378,7 +9498,7 @@
           ]
         },
         {
-          "y": 731,
+          "y": 731.3,
           "text": "8",
           "bbox": [
             303.30999755859375,
@@ -10419,11 +9539,11 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 41,
+          "y": 40.8,
           "text": "4.5.1 by providing for research in the field of safety, health and environment at",
           "bbox": [
             70.94400024414062,
-            40.573829650878906,
+            40.770389556884766,
             544.0753173828125,
             56.31266784667969
           ],
@@ -10452,28 +9572,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                53.280029296875
-              ],
-              "bbox": [
-                98.90399932861328,
-                40.573829650878906,
-                102.80712127685547,
-                56.22842788696289
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -10497,7 +9595,7 @@
           ]
         },
         {
-          "y": 65,
+          "y": 64.9,
           "text": "workplace, including the social and psychological factors involved, and by",
           "bbox": [
             106.94000244140625,
@@ -10531,7 +9629,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 89.0,
           "text": "developing innovative methods, techniques including computer aided Risk",
           "bbox": [
             106.94000244140625,
@@ -10565,7 +9663,7 @@
           ]
         },
         {
-          "y": 113,
+          "y": 113.3,
           "text": "Assessment Tools, and approaches for dealing with safety, health and",
           "bbox": [
             106.94000244140625,
@@ -10599,7 +9697,7 @@
           ]
         },
         {
-          "y": 137,
+          "y": 137.4,
           "text": "environment at workplace problems which will help in establishing",
           "bbox": [
             106.94000244140625,
@@ -10633,7 +9731,7 @@
           ]
         },
         {
-          "y": 162,
+          "y": 161.5,
           "text": "standards;",
           "bbox": [
             106.94000244140625,
@@ -10667,7 +9765,7 @@
           ]
         },
         {
-          "y": 186,
+          "y": 185.6,
           "text": "4.5.2 by exploring ways to discover latent diseases, establishing causal",
           "bbox": [
             70.94400024414062,
@@ -10723,7 +9821,7 @@
           ]
         },
         {
-          "y": 210,
+          "y": 209.9,
           "text": "connections between diseases and work environmental conditions, updating",
           "bbox": [
             106.94000244140625,
@@ -10757,7 +9855,7 @@
           ]
         },
         {
-          "y": 234,
+          "y": 234.0,
           "text": "list of occupational diseases and conducting other research relating to safety,",
           "bbox": [
             106.94000244140625,
@@ -10791,7 +9889,7 @@
           ]
         },
         {
-          "y": 258,
+          "y": 258.1,
           "text": "health and environmental problems at workplace;",
           "bbox": [
             106.94000244140625,
@@ -10825,11 +9923,11 @@
           ]
         },
         {
-          "y": 282,
+          "y": 282.3,
           "text": "4.5.3 by establishing research priorities as per national requirements; exploring",
           "bbox": [
             70.94400024414062,
-            282.06378173828125,
+            282.2603454589844,
             544.2730102539062,
             297.8026428222656
           ],
@@ -10858,28 +9956,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                294.7699890136719
-              ],
-              "bbox": [
-                98.90399932861328,
-                282.06378173828125,
-                102.80712127685547,
-                297.7183837890625
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -10903,7 +9979,7 @@
           ]
         },
         {
-          "y": 306,
+          "y": 306.4,
           "text": "partnerships and improving communications with various national and",
           "bbox": [
             106.94000244140625,
@@ -10937,7 +10013,7 @@
           ]
         },
         {
-          "y": 331,
+          "y": 330.6,
           "text": "international research bodies;",
           "bbox": [
             106.94000244140625,
@@ -10971,11 +10047,11 @@
           ]
         },
         {
-          "y": 355,
+          "y": 354.7,
           "text": "4.5.4 by ensuring a coordinated research approach and an optimal allocation of",
           "bbox": [
             70.94400024414062,
-            354.5437927246094,
+            354.7403564453125,
             544.2157592773438,
             370.28265380859375
           ],
@@ -11004,28 +10080,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                367.25
-              ],
-              "bbox": [
-                98.90399932861328,
-                354.5437927246094,
-                102.80712127685547,
-                370.1983947753906
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -11049,7 +10103,7 @@
           ]
         },
         {
-          "y": 379,
+          "y": 378.9,
           "text": "resources in Occupational Safety and Health sector for such purposes;",
           "bbox": [
             106.94000244140625,
@@ -11083,11 +10137,11 @@
           ]
         },
         {
-          "y": 403,
+          "y": 403.2,
           "text": "4.6 Occupational safety and health skills development",
           "bbox": [
             70.94400024414062,
-            403.0238037109375,
+            403.2203674316406,
             401.1700134277344,
             418.7626647949219
           ],
@@ -11116,28 +10170,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Arial,Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                88.46399688720703,
-                415.7300109863281
-              ],
-              "bbox": [
-                88.46399688720703,
-                403.0238037109375,
-                92.36711883544922,
-                418.67840576171875
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 20,
               "bidi": 0,
               "char_flags": 24,
@@ -11161,11 +10193,11 @@
           ]
         },
         {
-          "y": 427,
+          "y": 427.2,
           "text": "4.6.1 by building upon advances already made through employer and employee",
           "bbox": [
             70.94400024414062,
-            427.0437927246094,
+            427.2403564453125,
             544.1314086914062,
             442.78265380859375
           ],
@@ -11194,28 +10226,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                439.75
-              ],
-              "bbox": [
-                98.90399932861328,
-                427.0437927246094,
-                102.80712127685547,
-                442.6983947753906
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -11239,7 +10249,7 @@
           ]
         },
         {
-          "y": 451,
+          "y": 451.4,
           "text": "initiative for providing safe and healthy working conditions;",
           "bbox": [
             106.94000244140625,
@@ -11273,11 +10283,11 @@
           ]
         },
         {
-          "y": 475,
+          "y": 475.5,
           "text": "4.6.2 by providing for training programmes to increase the number and",
           "bbox": [
             70.94400024414062,
-            475.2837829589844,
+            475.4803466796875,
             544.5148315429688,
             491.02264404296875
           ],
@@ -11306,28 +10316,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                487.989990234375
-              ],
-              "bbox": [
-                98.90399932861328,
-                475.2837829589844,
-                102.80712127685547,
-                490.9383850097656
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -11351,7 +10339,7 @@
           ]
         },
         {
-          "y": 500,
+          "y": 499.6,
           "text": "competence of personnel engaged in the field of occupational safety, health",
           "bbox": [
             106.94000244140625,
@@ -11385,7 +10373,7 @@
           ]
         },
         {
-          "y": 524,
+          "y": 523.8,
           "text": "and environment at workplace;",
           "bbox": [
             106.94000244140625,
@@ -11419,11 +10407,11 @@
           ]
         },
         {
-          "y": 548,
+          "y": 548.0,
           "text": "4.6.3 by providing information and advice, in an appropriate manner, to",
           "bbox": [
             70.94400024414062,
-            547.7637939453125,
+            547.9603271484375,
             544.13134765625,
             563.5026245117188
           ],
@@ -11452,28 +10440,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                560.469970703125
-              ],
-              "bbox": [
-                98.90399932861328,
-                547.7637939453125,
-                102.80712127685547,
-                563.4183959960938
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -11497,7 +10463,7 @@
           ]
         },
         {
-          "y": 572,
+          "y": 572.1,
           "text": "employers and employees organisations, with a view to eliminating hazards",
           "bbox": [
             106.94000244140625,
@@ -11531,7 +10497,7 @@
           ]
         },
         {
-          "y": 596,
+          "y": 596.2,
           "text": "or reducing them as far as practicable;.",
           "bbox": [
             106.94000244140625,
@@ -11565,11 +10531,11 @@
           ]
         },
         {
-          "y": 620,
+          "y": 620.5,
           "text": "4.6.4 by establishing occupational health services aimed at protection and",
           "bbox": [
             70.94400024414062,
-            620.2738037109375,
+            620.4703369140625,
             544.1734619140625,
             636.0126342773438
           ],
@@ -11598,28 +10564,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                632.97998046875
-              ],
-              "bbox": [
-                98.90399932861328,
-                620.2738037109375,
-                102.80712127685547,
-                635.9284057617188
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -11643,7 +10587,7 @@
           ]
         },
         {
-          "y": 645,
+          "y": 644.6,
           "text": "promotion of health of employee and improvement of working conditions",
           "bbox": [
             106.94000244140625,
@@ -11677,7 +10621,7 @@
           ]
         },
         {
-          "y": 669,
+          "y": 668.7,
           "text": "and by providing employee access to these services in different sectors of",
           "bbox": [
             106.94000244140625,
@@ -11711,7 +10655,7 @@
           ]
         },
         {
-          "y": 693,
+          "y": 692.8,
           "text": "economic activities;",
           "bbox": [
             106.94000244140625,
@@ -11745,7 +10689,7 @@
           ]
         },
         {
-          "y": 731,
+          "y": 731.3,
           "text": "9",
           "bbox": [
             303.30999755859375,
@@ -11786,11 +10730,11 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 41,
+          "y": 40.8,
           "text": "4.6.5 by integrating health and safety into vocational, professional and labour",
           "bbox": [
             70.94400024414062,
-            40.573829650878906,
+            40.770389556884766,
             544.0330200195312,
             56.31266784667969
           ],
@@ -11819,28 +10763,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                53.280029296875
-              ],
-              "bbox": [
-                98.90399932861328,
-                40.573829650878906,
-                102.80712127685547,
-                56.22842788696289
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -11864,7 +10786,7 @@
           ]
         },
         {
-          "y": 65,
+          "y": 64.9,
           "text": "related training programmes as also management training including small",
           "bbox": [
             106.94000244140625,
@@ -11898,7 +10820,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 89.0,
           "text": "business practices;",
           "bbox": [
             106.94000244140625,
@@ -11932,11 +10854,11 @@
           ]
         },
         {
-          "y": 113,
+          "y": 113.3,
           "text": "4.6.6 by adopting Occupational Safety and Health training curricula in workplace",
           "bbox": [
             70.94400024414062,
-            113.0738296508789,
+            113.2703857421875,
             544.1876220703125,
             128.8126678466797
           ],
@@ -11965,28 +10887,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Arial,Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                125.780029296875
-              ],
-              "bbox": [
-                98.90399932861328,
-                113.0738296508789,
-                102.80712127685547,
-                128.72842407226562
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -12010,7 +10910,7 @@
           ]
         },
         {
-          "y": 137,
+          "y": 137.4,
           "text": "and industry programmes;",
           "bbox": [
             106.94000244140625,
@@ -12066,11 +10966,11 @@
           ]
         },
         {
-          "y": 162,
+          "y": 161.8,
           "text": "4.7 Data collection",
           "bbox": [
             70.94400024414062,
-            161.55380249023438,
+            161.7503662109375,
             187.51998901367188,
             177.2926483154297
           ],
@@ -12099,28 +10999,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Arial,Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                88.46399688720703,
-                174.260009765625
-              ],
-              "bbox": [
-                88.46399688720703,
-                161.55380249023438,
-                92.36711883544922,
-                177.20840454101562
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 20,
               "bidi": 0,
               "char_flags": 24,
@@ -12144,7 +11022,7 @@
           ]
         },
         {
-          "y": 186,
+          "y": 185.6,
           "text": "4.7.1 by compiling statistics relating to safety, health and environment at work",
           "bbox": [
             70.94400024414062,
@@ -12200,7 +11078,7 @@
           ]
         },
         {
-          "y": 210,
+          "y": 209.9,
           "text": "places, prioritising key issues for action, conducting national studies or",
           "bbox": [
             106.94000244140625,
@@ -12234,7 +11112,7 @@
           ]
         },
         {
-          "y": 234,
+          "y": 234.0,
           "text": "surveys or projects through governmental and non-governmental",
           "bbox": [
             106.94000244140625,
@@ -12400,7 +11278,7 @@
           ]
         },
         {
-          "y": 258,
+          "y": 258.1,
           "text": "organisations;",
           "bbox": [
             106.94000244140625,
@@ -12434,11 +11312,11 @@
           ]
         },
         {
-          "y": 282,
+          "y": 282.3,
           "text": "4.7.2 by reinforcing and sharing of information and data on national occupational",
           "bbox": [
             70.94400024414062,
-            282.06378173828125,
+            282.2603454589844,
             544.6336669921875,
             297.8026428222656
           ],
@@ -12467,28 +11345,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                294.7699890136719
-              ],
-              "bbox": [
-                98.90399932861328,
-                282.06378173828125,
-                102.80712127685547,
-                297.7183837890625
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -12512,7 +11368,7 @@
           ]
         },
         {
-          "y": 306,
+          "y": 306.4,
           "text": "safety, health and environment at work place information amongst different",
           "bbox": [
             106.94000244140625,
@@ -12546,7 +11402,7 @@
           ]
         },
         {
-          "y": 331,
+          "y": 330.6,
           "text": "stake holders through a national network system on Occupational Safety and",
           "bbox": [
             106.94000244140625,
@@ -12580,7 +11436,7 @@
           ]
         },
         {
-          "y": 355,
+          "y": 354.7,
           "text": "Health;",
           "bbox": [
             106.94000244140625,
@@ -12614,11 +11470,11 @@
           ]
         },
         {
-          "y": 379,
+          "y": 378.9,
           "text": "4.7.3 by extending data coverage relevant to work-related injury and disease,",
           "bbox": [
             70.94400024414062,
-            378.6637878417969,
+            378.8603515625,
             544.4946899414062,
             394.40264892578125
           ],
@@ -12647,28 +11503,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                391.3699951171875
-              ],
-              "bbox": [
-                98.90399932861328,
-                378.6637878417969,
-                102.80712127685547,
-                394.3183898925781
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -12692,7 +11526,7 @@
           ]
         },
         {
-          "y": 403,
+          "y": 403.0,
           "text": "including measures of exposure, and occupational groups that are currently",
           "bbox": [
             106.94000244140625,
@@ -12726,7 +11560,7 @@
           ]
         },
         {
-          "y": 427,
+          "y": 427.2,
           "text": "excluded, such as self-employed people;",
           "bbox": [
             106.94000244140625,
@@ -12760,11 +11594,11 @@
           ]
         },
         {
-          "y": 451,
+          "y": 451.4,
           "text": "4.7.4 by extending data systems to allow timely reporting and provision of",
           "bbox": [
             70.94400024414062,
-            451.1637878417969,
+            451.3603515625,
             544.5640869140625,
             466.90264892578125
           ],
@@ -12793,28 +11627,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                463.8699951171875
-              ],
-              "bbox": [
-                98.90399932861328,
-                451.1637878417969,
-                102.80712127685547,
-                466.8183898925781
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -12838,7 +11650,7 @@
           ]
         },
         {
-          "y": 475,
+          "y": 475.5,
           "text": "information;",
           "bbox": [
             106.94000244140625,
@@ -12872,7 +11684,7 @@
           ]
         },
         {
-          "y": 500,
+          "y": 499.6,
           "text": "4.7.5 by developing the means for improved access to information;",
           "bbox": [
             70.94400024414062,
@@ -12928,11 +11740,11 @@
           ]
         },
         {
-          "y": 524,
+          "y": 524.1,
           "text": "4.8 Review",
           "bbox": [
             70.94400024414062,
-            523.8837890625,
+            524.080322265625,
             154.00999450683594,
             539.6226196289062
           ],
@@ -12957,28 +11769,6 @@
                 524.080322265625,
                 88.52399444580078,
                 539.6226196289062
-              ]
-            },
-            {
-              "size": 14.039999961853027,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Arial,Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                88.46399688720703,
-                536.5899658203125
-              ],
-              "bbox": [
-                88.46399688720703,
-                523.8837890625,
-                92.36711883544922,
-                539.5383911132812
               ]
             },
             {
@@ -13028,11 +11818,11 @@
           ]
         },
         {
-          "y": 548,
+          "y": 548.0,
           "text": "4.8.1 An initial review and analysis shall be carried out to ascertain the current",
           "bbox": [
             70.94400024414062,
-            547.7637939453125,
+            547.9603271484375,
             544.1171875,
             563.5026245117188
           ],
@@ -13061,28 +11851,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                560.469970703125
-              ],
-              "bbox": [
-                98.90399932861328,
-                547.7637939453125,
-                102.80712127685547,
-                563.4183959960938
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -13106,7 +11874,7 @@
           ]
         },
         {
-          "y": 572,
+          "y": 572.1,
           "text": "status of safety, health and environment at workplace and building a national",
           "bbox": [
             106.94000244140625,
@@ -13140,7 +11908,7 @@
           ]
         },
         {
-          "y": 596,
+          "y": 596.2,
           "text": "Occupational Safety and Health profile.",
           "bbox": [
             106.94000244140625,
@@ -13174,11 +11942,11 @@
           ]
         },
         {
-          "y": 620,
+          "y": 620.5,
           "text": "4.8.2 National Policy and the action programme shall be reviewed at least once in",
           "bbox": [
             70.94400024414062,
-            620.2738037109375,
+            620.4703369140625,
             544.1454467773438,
             636.0126342773438
           ],
@@ -13207,28 +11975,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Arial",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                98.90399932861328,
-                632.97998046875
-              ],
-              "bbox": [
-                98.90399932861328,
-                620.2738037109375,
-                102.80712127685547,
-                635.9284057617188
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -13252,7 +11998,7 @@
           ]
         },
         {
-          "y": 645,
+          "y": 644.6,
           "text": "five years or earlier if felt necessary to assess relevance of the national goals",
           "bbox": [
             106.94000244140625,
@@ -13286,7 +12032,7 @@
           ]
         },
         {
-          "y": 669,
+          "y": 668.7,
           "text": "and objectives.",
           "bbox": [
             106.94000244140625,
@@ -13320,7 +12066,7 @@
           ]
         },
         {
-          "y": 731,
+          "y": 731.3,
           "text": "10",
           "bbox": [
             300.42999267578125,
@@ -13361,11 +12107,11 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 65,
+          "y": 65.1,
           "text": "5. Conclusion",
           "bbox": [
             60.02399826049805,
-            64.9338150024414,
+            65.13037109375,
             148.489990234375,
             80.67265319824219
           ],
@@ -13394,28 +12140,6 @@
             },
             {
               "size": 14.039999961853027,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Arial,Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                70.58399963378906,
-                77.6400146484375
-              ],
-              "bbox": [
-                70.58399963378906,
-                64.9338150024414,
-                74.48712158203125,
-                80.58841705322266
-              ]
-            },
-            {
-              "size": 14.039999961853027,
               "flags": 20,
               "bidi": 0,
               "char_flags": 24,
@@ -13439,7 +12163,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 89.0,
           "text": "5.1 There is a need to develop close involvement of social partners to meet the",
           "bbox": [
             70.94400024414062,
@@ -13495,7 +12219,7 @@
           ]
         },
         {
-          "y": 113,
+          "y": 113.3,
           "text": "challenges ahead in the assessment and control of workplace risks by",
           "bbox": [
             106.94000244140625,
@@ -13529,7 +12253,7 @@
           ]
         },
         {
-          "y": 137,
+          "y": 137.4,
           "text": "mobilising local resources and extending protection to such working",
           "bbox": [
             106.94000244140625,
@@ -13563,7 +12287,7 @@
           ]
         },
         {
-          "y": 162,
+          "y": 161.5,
           "text": "population and vulnerable groups where social protection is not adequate.",
           "bbox": [
             106.94000244140625,
@@ -13597,7 +12321,7 @@
           ]
         },
         {
-          "y": 186,
+          "y": 185.6,
           "text": "5.2 Government stands committed to review the National Policy on Safety,",
           "bbox": [
             70.94400024414062,
@@ -13653,7 +12377,7 @@
           ]
         },
         {
-          "y": 210,
+          "y": 209.9,
           "text": "Health and Environment at Workplace and legislations through tripartite",
           "bbox": [
             106.94000244140625,
@@ -13687,7 +12411,7 @@
           ]
         },
         {
-          "y": 234,
+          "y": 234.0,
           "text": "consultation, improve enforcement, compilation and analysis of statistics;",
           "bbox": [
             106.94000244140625,
@@ -13721,7 +12445,7 @@
           ]
         },
         {
-          "y": 258,
+          "y": 258.1,
           "text": "develop special programmes for hazardous operations and other focus",
           "bbox": [
             106.94000244140625,
@@ -13755,7 +12479,7 @@
           ]
         },
         {
-          "y": 282,
+          "y": 282.3,
           "text": "sectors, set up training mechanisms, create nation-wide awareness, arrange",
           "bbox": [
             106.94000244140625,
@@ -13789,7 +12513,7 @@
           ]
         },
         {
-          "y": 306,
+          "y": 306.4,
           "text": "for the mobilisation of available resources and expertise.",
           "bbox": [
             106.94000244140625,
@@ -13823,7 +12547,7 @@
           ]
         },
         {
-          "y": 331,
+          "y": 330.6,
           "text": "5.3 The National Policy and programme envisages total commitment and",
           "bbox": [
             70.94400024414062,
@@ -13879,7 +12603,7 @@
           ]
         },
         {
-          "y": 355,
+          "y": 354.7,
           "text": "demonstration by all concerned stake holders such as Government and social",
           "bbox": [
             106.94000244140625,
@@ -13913,7 +12637,7 @@
           ]
         },
         {
-          "y": 379,
+          "y": 378.9,
           "text": "partners. Our goals and objectives will be that through dedicated and",
           "bbox": [
             106.94000244140625,
@@ -13947,7 +12671,7 @@
           ]
         },
         {
-          "y": 403,
+          "y": 403.0,
           "text": "concerted efforts consistent with the requirements of safety, health and",
           "bbox": [
             106.94000244140625,
@@ -13981,7 +12705,7 @@
           ]
         },
         {
-          "y": 427,
+          "y": 427.2,
           "text": "environment at work place and thereby improving the quality of work and",
           "bbox": [
             106.94000244140625,
@@ -14015,7 +12739,7 @@
           ]
         },
         {
-          "y": 451,
+          "y": 451.4,
           "text": "working life.",
           "bbox": [
             106.94000244140625,
@@ -14049,7 +12773,7 @@
           ]
         },
         {
-          "y": 500,
+          "y": 499.8,
           "text": "---------------00000000-------------",
           "bbox": [
             212.80999755859375,
@@ -14083,7 +12807,7 @@
           ]
         },
         {
-          "y": 731,
+          "y": 731.3,
           "text": "11",
           "bbox": [
             300.42999267578125,

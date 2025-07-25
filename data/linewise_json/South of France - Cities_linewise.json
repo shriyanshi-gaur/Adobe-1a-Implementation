@@ -7,7 +7,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Comprehensive Guide to Major Cities in the South of France",
           "bbox": [
             72.0,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "Introduction",
           "bbox": [
             72.0,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 122,
+          "y": 122.2,
           "text": "The South of France, known for its stunning landscapes, Mediterranean coastline, and rich",
           "bbox": [
             72.0,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 139.3,
           "text": "cultural heritage, is home to some of the most beautiful and historically significant cities in the",
           "bbox": [
             72.0,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 156,
+          "y": 156.4,
           "text": "country. This guide provides an in-depth look at the major cities in the South of France,",
           "bbox": [
             72.0,
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "detailing their history, key attractions, cultural highlights, and unique characteristics. Whether",
           "bbox": [
             72.00001525878906,
@@ -211,7 +211,7 @@
           ]
         },
         {
-          "y": 191,
+          "y": 190.6,
           "text": "you're planning a visit or simply want to learn more about this enchanting region, this guide",
           "bbox": [
             72.00001525878906,
@@ -245,7 +245,7 @@
           ]
         },
         {
-          "y": 208,
+          "y": 207.7,
           "text": "will oﬀer valuable insights into each city's charm and allure.",
           "bbox": [
             72.00003051757812,
@@ -286,7 +286,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Overview of the Region",
           "bbox": [
             72.0,
@@ -320,7 +320,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "The South of France, or \"Le Midi,\" encompasses the regions of Provence-Alpes-Côte d'Azur,",
           "bbox": [
             72.0,
@@ -354,7 +354,7 @@
           ]
         },
         {
-          "y": 114,
+          "y": 114.3,
           "text": "Occitanie, and parts of Nouvelle-Aquitaine. This area is renowned for its diverse landscapes,",
           "bbox": [
             72.0,
@@ -388,7 +388,7 @@
           ]
         },
         {
-          "y": 131,
+          "y": 131.4,
           "text": "from the sun-drenched beaches of the French Riviera to the rolling vineyards of Provence and",
           "bbox": [
             72.0,
@@ -422,7 +422,7 @@
           ]
         },
         {
-          "y": 148,
+          "y": 148.5,
           "text": "the rugged Pyrenees mountains. The Mediterranean climate ensures warm summers and",
           "bbox": [
             72.00000762939453,
@@ -456,7 +456,7 @@
           ]
         },
         {
-          "y": 166,
+          "y": 165.6,
           "text": "mild winters, making it a year-round destination. The South of France is also famous for its",
           "bbox": [
             72.00000762939453,
@@ -490,7 +490,7 @@
           ]
         },
         {
-          "y": 183,
+          "y": 182.6,
           "text": "cuisine, wines, and vibrant cultural scene.",
           "bbox": [
             72.0,
@@ -524,7 +524,7 @@
           ]
         },
         {
-          "y": 208,
+          "y": 207.7,
           "text": "Travel Tips",
           "bbox": [
             72.0,
@@ -558,13 +558,13 @@
           ]
         },
         {
-          "y": 233,
-          "text": "Best Time to Visit : The best time to visit the South of France is during the spring (April",
+          "y": 232.9,
+          "text": "Best Time to Visit",
           "bbox": [
             108.0,
             232.8839874267578,
-            540.4309692382812,
-            247.7639923095703
+            198.74400329589844,
+            247.66798400878906
           ],
           "spans": [
             {
@@ -588,7 +588,19 @@
                 198.74400329589844,
                 247.66798400878906
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 233.0,
+          "text": ": The best time to visit the South of France is during the spring (April",
+          "bbox": [
+            198.72000122070312,
+            233.00399780273438,
+            540.4309692382812,
+            247.7639923095703
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -614,7 +626,7 @@
           ]
         },
         {
-          "y": 235,
+          "y": 234.7,
           "text": "•",
           "bbox": [
             90.0,
@@ -648,7 +660,7 @@
           ]
         },
         {
-          "y": 250,
+          "y": 250.1,
           "text": "to June) and fall (September to October) when the weather is pleasant, and the tourist",
           "bbox": [
             108.0,
@@ -682,7 +694,7 @@
           ]
         },
         {
-          "y": 267,
+          "y": 267.1,
           "text": "crowds are smaller.",
           "bbox": [
             108.0,
@@ -716,13 +728,13 @@
           ]
         },
         {
-          "y": 292,
-          "text": "Transportation : The region is well-connected by an extensive network of trains,",
+          "y": 292.3,
+          "text": "Transportation",
           "bbox": [
             108.0,
             292.2840270996094,
-            509.8919982910156,
-            307.16400146484375
+            185.52000427246094,
+            307.0680236816406
           ],
           "spans": [
             {
@@ -746,7 +758,19 @@
                 185.52000427246094,
                 307.0680236816406
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 292.4,
+          "text": ": The region is well-connected by an extensive network of trains,",
+          "bbox": [
+            185.52000427246094,
+            292.4040222167969,
+            509.8919982910156,
+            307.16400146484375
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -772,13 +796,13 @@
           ]
         },
         {
-          "y": 294,
+          "y": 294.1,
           "text": "•",
           "bbox": [
             90.0,
-            293.7192077636719,
-            97.40477752685547,
-            307.3965148925781
+            294.0699157714844,
+            94.60919952392578,
+            306.34442138671875
           ],
           "spans": [
             {
@@ -802,33 +826,11 @@
                 94.60919952392578,
                 306.34442138671875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                304.1400146484375
-              ],
-              "bbox": [
-                94.61921691894531,
-                293.7192077636719,
-                97.40477752685547,
-                307.3965148925781
-              ]
             }
           ]
         },
         {
-          "y": 310,
+          "y": 309.5,
           "text": "buses, and flights. Renting a car is also a great option for exploring the countryside",
           "bbox": [
             108.00001525878906,
@@ -862,7 +864,7 @@
           ]
         },
         {
-          "y": 327,
+          "y": 326.6,
           "text": "and smaller towns.",
           "bbox": [
             108.00001525878906,
@@ -896,13 +898,13 @@
           ]
         },
         {
-          "y": 352,
-          "text": "Language : While French is the oﬃcial language, English is widely spoken in tourist",
+          "y": 351.7,
+          "text": "Language",
           "bbox": [
             108.0,
             351.68402099609375,
-            519.7918090820312,
-            366.5639953613281
+            158.49600219726562,
+            366.468017578125
           ],
           "spans": [
             {
@@ -926,7 +928,19 @@
                 158.49600219726562,
                 366.468017578125
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 351.8,
+          "text": ": While French is the oﬃcial language, English is widely spoken in tourist",
+          "bbox": [
+            158.52000427246094,
+            351.80401611328125,
+            519.7918090820312,
+            366.5639953613281
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -952,13 +966,13 @@
           ]
         },
         {
-          "y": 353,
+          "y": 353.5,
           "text": "•",
           "bbox": [
             90.0,
-            353.11920166015625,
-            97.40477752685547,
-            366.7965087890625
+            353.46990966796875,
+            94.60919952392578,
+            365.7444152832031
           ],
           "spans": [
             {
@@ -982,33 +996,11 @@
                 94.60919952392578,
                 365.7444152832031
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                363.5400085449219
-              ],
-              "bbox": [
-                94.61921691894531,
-                353.11920166015625,
-                97.40477752685547,
-                366.7965087890625
-              ]
             }
           ]
         },
         {
-          "y": 369,
+          "y": 368.9,
           "text": "areas. Learning a few basic French phrases can enhance your travel experience.",
           "bbox": [
             108.0,
@@ -1049,7 +1041,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Marseille: The Oldest City in France",
           "bbox": [
             72.0,
@@ -1083,7 +1075,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "History",
           "bbox": [
             72.0,
@@ -1117,7 +1109,7 @@
           ]
         },
         {
-          "y": 122,
+          "y": 122.2,
           "text": "Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic",
           "bbox": [
             72.0,
@@ -1151,7 +1143,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 139.3,
           "text": "location on the Mediterranean coast made it a vital trading port throughout history. The city's",
           "bbox": [
             72.0,
@@ -1185,7 +1177,7 @@
           ]
         },
         {
-          "y": 156,
+          "y": 156.4,
           "text": "rich cultural heritage is reflected in its diverse architecture and vibrant atmosphere. Over the",
           "bbox": [
             72.0,
@@ -1219,7 +1211,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "centuries, Marseille has been influenced by various cultures, including Greek, Roman, and",
           "bbox": [
             72.0,
@@ -1253,7 +1245,7 @@
           ]
         },
         {
-          "y": 191,
+          "y": 190.6,
           "text": "North African, making it a melting pot of traditions and customs.",
           "bbox": [
             72.0,
@@ -1287,7 +1279,7 @@
           ]
         },
         {
-          "y": 216,
+          "y": 215.7,
           "text": "Key Attractions",
           "bbox": [
             72.0,
@@ -1321,13 +1313,13 @@
           ]
         },
         {
-          "y": 241,
-          "text": "Old Port (Vieux-Port) : The heart of Marseille, the Old Port has been a bustling harbor",
+          "y": 240.8,
+          "text": "Old Port (Vieux-Port)",
           "bbox": [
             108.0,
             240.80397033691406,
-            540.3734741210938,
-            255.68397521972656
+            219.74398803710938,
+            255.5879669189453
           ],
           "spans": [
             {
@@ -1351,7 +1343,19 @@
                 219.74398803710938,
                 255.5879669189453
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 240.9,
+          "text": ": The heart of Marseille, the Old Port has been a bustling harbor",
+          "bbox": [
+            219.71998596191406,
+            240.92398071289062,
+            540.3734741210938,
+            255.68397521972656
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -1377,7 +1381,7 @@
           ]
         },
         {
-          "y": 243,
+          "y": 242.6,
           "text": "•",
           "bbox": [
             90.0,
@@ -1411,7 +1415,7 @@
           ]
         },
         {
-          "y": 258,
+          "y": 258.0,
           "text": "for over 2,600 years. Today, it is a lively area filled with cafes, restaurants, and",
           "bbox": [
             107.99998474121094,
@@ -1445,7 +1449,7 @@
           ]
         },
         {
-          "y": 275,
+          "y": 275.1,
           "text": "markets.",
           "bbox": [
             107.9999771118164,
@@ -1479,13 +1483,13 @@
           ]
         },
         {
-          "y": 300,
-          "text": "Basilica of Notre-Dame de la Garde : This iconic basilica, perched on a hill",
+          "y": 300.3,
+          "text": "Basilica of Notre-Dame de la Garde",
           "bbox": [
             108.0,
             300.2640075683594,
-            480.61077880859375,
-            315.14398193359375
+            290.7347717285156,
+            315.0480041503906
           ],
           "spans": [
             {
@@ -1509,7 +1513,19 @@
                 290.7347717285156,
                 315.0480041503906
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 300.4,
+          "text": ": This iconic basilica, perched on a hill",
+          "bbox": [
+            290.760009765625,
+            300.3840026855469,
+            480.61077880859375,
+            315.14398193359375
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -1535,13 +1551,13 @@
           ]
         },
         {
-          "y": 302,
+          "y": 302.0,
           "text": "•",
           "bbox": [
             90.0,
-            301.6991882324219,
-            97.40477752685547,
-            315.3764953613281
+            302.0498962402344,
+            94.60919952392578,
+            314.32440185546875
           ],
           "spans": [
             {
@@ -1565,33 +1581,11 @@
                 94.60919952392578,
                 314.32440185546875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                312.1199951171875
-              ],
-              "bbox": [
-                94.61921691894531,
-                301.6991882324219,
-                97.40477752685547,
-                315.3764953613281
-              ]
             }
           ]
         },
         {
-          "y": 317,
+          "y": 317.5,
           "text": "overlooking the city, oﬀers panoramic views of Marseille and the Mediterranean Sea.",
           "bbox": [
             108.00001525878906,
@@ -1625,7 +1619,7 @@
           ]
         },
         {
-          "y": 335,
+          "y": 334.6,
           "text": "Built in the 19th century, it is a symbol of the city's maritime heritage.",
           "bbox": [
             108.00001525878906,
@@ -1659,13 +1653,13 @@
           ]
         },
         {
-          "y": 360,
-          "text": "MuCEM (Museum of European and Mediterranean Civilizations) : This modern",
+          "y": 359.7,
+          "text": "MuCEM (Museum of European and Mediterranean Civilizations)",
           "bbox": [
             108.0,
             359.66400146484375,
-            510.5519714355469,
-            374.5439758300781
+            438.8602294921875,
+            374.447998046875
           ],
           "spans": [
             {
@@ -1689,7 +1683,19 @@
                 438.8602294921875,
                 374.447998046875
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 359.8,
+          "text": ": This modern",
+          "bbox": [
+            438.8399963378906,
+            359.78399658203125,
+            510.5519714355469,
+            374.5439758300781
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -1715,13 +1721,13 @@
           ]
         },
         {
-          "y": 361,
+          "y": 361.4,
           "text": "•",
           "bbox": [
             90.0,
-            361.09918212890625,
-            97.40477752685547,
-            374.7764892578125
+            361.44989013671875,
+            94.60919952392578,
+            373.7243957519531
           ],
           "spans": [
             {
@@ -1745,33 +1751,11 @@
                 94.60919952392578,
                 373.7243957519531
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                371.5199890136719
-              ],
-              "bbox": [
-                94.61921691894531,
-                361.09918212890625,
-                97.40477752685547,
-                374.7764892578125
-              ]
             }
           ]
         },
         {
-          "y": 377,
+          "y": 376.9,
           "text": "museum explores the cultural history of the Mediterranean region through a variety of",
           "bbox": [
             108.0,
@@ -1805,7 +1789,7 @@
           ]
         },
         {
-          "y": 394,
+          "y": 394.0,
           "text": "exhibits and interactive displays.",
           "bbox": [
             108.0,
@@ -1839,13 +1823,13 @@
           ]
         },
         {
-          "y": 419,
-          "text": "Le Panier : The oldest district in Marseille, Le Panier is a maze of narrow streets,",
+          "y": 419.1,
+          "text": "Le Panier",
           "bbox": [
             108.0,
             419.06402587890625,
-            505.6322937011719,
-            433.9440002441406
+            156.39601135253906,
+            433.8480224609375
           ],
           "spans": [
             {
@@ -1869,7 +1853,19 @@
                 156.39601135253906,
                 433.8480224609375
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 419.2,
+          "text": ": The oldest district in Marseille, Le Panier is a maze of narrow streets,",
+          "bbox": [
+            156.42001342773438,
+            419.18402099609375,
+            505.6322937011719,
+            433.9440002441406
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -1895,7 +1891,7 @@
           ]
         },
         {
-          "y": 421,
+          "y": 420.8,
           "text": "•",
           "bbox": [
             90.0,
@@ -1929,7 +1925,7 @@
           ]
         },
         {
-          "y": 436,
+          "y": 436.3,
           "text": "colorful buildings, and historic landmarks. It's a great place to explore the city's past",
           "bbox": [
             108.00001525878906,
@@ -1963,7 +1959,7 @@
           ]
         },
         {
-          "y": 453,
+          "y": 453.4,
           "text": "and enjoy its vibrant culture.",
           "bbox": [
             108.00001525878906,
@@ -1997,7 +1993,7 @@
           ]
         },
         {
-          "y": 478,
+          "y": 478.5,
           "text": "Local Experiences",
           "bbox": [
             72.00001525878906,
@@ -2031,13 +2027,13 @@
           ]
         },
         {
-          "y": 504,
-          "text": "Boat Trip to the Calanques : Take a boat trip to the Calanques, a series of stunning",
+          "y": 503.6,
+          "text": "Boat Trip to the Calanques",
           "bbox": [
             108.0,
             503.6039733886719,
-            520.45068359375,
-            518.4839477539062
+            245.69757080078125,
+            518.387939453125
           ],
           "spans": [
             {
@@ -2061,7 +2057,19 @@
                 245.69757080078125,
                 518.387939453125
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 503.7,
+          "text": ": Take a boat trip to the Calanques, a series of stunning",
+          "bbox": [
+            245.70001220703125,
+            503.7239685058594,
+            520.45068359375,
+            518.4839477539062
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -2087,13 +2095,13 @@
           ]
         },
         {
-          "y": 505,
+          "y": 505.4,
           "text": "•",
           "bbox": [
             90.0,
-            505.0391540527344,
-            97.40477752685547,
-            518.7164306640625
+            505.3898620605469,
+            94.60919952392578,
+            517.6643676757812
           ],
           "spans": [
             {
@@ -2117,33 +2125,11 @@
                 94.60919952392578,
                 517.6643676757812
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                515.4599609375
-              ],
-              "bbox": [
-                94.61921691894531,
-                505.0391540527344,
-                97.40477752685547,
-                518.7164306640625
-              ]
             }
           ]
         },
         {
-          "y": 521,
+          "y": 520.8,
           "text": "limestone cliﬀs and coves along the coast.",
           "bbox": [
             108.00001525878906,
@@ -2177,13 +2163,13 @@
           ]
         },
         {
-          "y": 546,
-          "text": "Fish Market at the Old Port : Visit the fish market at the Old Port to experience the",
+          "y": 545.9,
+          "text": "Fish Market at the Old Port",
           "bbox": [
             108.0,
             545.9039916992188,
-            522.8532104492188,
-            560.7839965820312
+            248.3051300048828,
+            560.68798828125
           ],
           "spans": [
             {
@@ -2207,7 +2193,19 @@
                 248.3051300048828,
                 560.68798828125
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 546.0,
+          "text": ": Visit the fish market at the Old Port to experience the",
+          "bbox": [
+            248.27999877929688,
+            546.0239868164062,
+            522.8532104492188,
+            560.7839965820312
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -2233,7 +2231,7 @@
           ]
         },
         {
-          "y": 548,
+          "y": 547.7,
           "text": "•",
           "bbox": [
             90.0,
@@ -2267,7 +2265,7 @@
           ]
         },
         {
-          "y": 563,
+          "y": 563.1,
           "text": "local seafood culture.",
           "bbox": [
             108.0,
@@ -2301,13 +2299,13 @@
           ]
         },
         {
-          "y": 588,
-          "text": "Street Art in Cours Julien : Explore the vibrant street art scene in the Cours Julien",
+          "y": 588.2,
+          "text": "Street Art in Cours Julien",
           "bbox": [
             108.0,
             588.2039794921875,
-            514.8119506835938,
-            603.083984375
+            236.94004821777344,
+            602.9879760742188
           ],
           "spans": [
             {
@@ -2331,7 +2329,19 @@
                 236.94004821777344,
                 602.9879760742188
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 588.3,
+          "text": ": Explore the vibrant street art scene in the Cours Julien",
+          "bbox": [
+            236.94000244140625,
+            588.323974609375,
+            514.8119506835938,
+            603.083984375
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -2357,13 +2367,13 @@
           ]
         },
         {
-          "y": 590,
+          "y": 590.0,
           "text": "•",
           "bbox": [
             90.0,
-            589.6392211914062,
-            97.40477752685547,
-            603.3164672851562
+            589.9898681640625,
+            94.60919952392578,
+            602.264404296875
           ],
           "spans": [
             {
@@ -2387,33 +2397,11 @@
                 94.60919952392578,
                 602.264404296875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                600.0599975585938
-              ],
-              "bbox": [
-                94.61921691894531,
-                589.6392211914062,
-                97.40477752685547,
-                603.3164672851562
-              ]
             }
           ]
         },
         {
-          "y": 605,
+          "y": 605.4,
           "text": "district.",
           "bbox": [
             108.0,
@@ -2447,7 +2435,7 @@
           ]
         },
         {
-          "y": 631,
+          "y": 630.6,
           "text": "Cultural Highlights",
           "bbox": [
             72.0,
@@ -2481,7 +2469,7 @@
           ]
         },
         {
-          "y": 656,
+          "y": 655.6,
           "text": "Marseille is known for its vibrant arts scene, with numerous galleries, theaters, and music",
           "bbox": [
             72.0,
@@ -2515,7 +2503,7 @@
           ]
         },
         {
-          "y": 673,
+          "y": 672.7,
           "text": "venues. The city hosts several festivals throughout the year, including the Festival de",
           "bbox": [
             72.0,
@@ -2549,7 +2537,7 @@
           ]
         },
         {
-          "y": 690,
+          "y": 689.8,
           "text": "Marseille, which celebrates contemporary dance, theater, and music. Marseille's cuisine is",
           "bbox": [
             72.0,
@@ -2590,7 +2578,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "also a highlight, with dishes like bouillabaisse (a traditional fish stew) and pastis (an anise-",
           "bbox": [
             72.0,
@@ -2624,7 +2612,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 89.1,
           "text": "flavored aperitif) being local favorites.",
           "bbox": [
             71.99996948242188,
@@ -2665,7 +2653,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Nice: The Jewel of the French Riviera",
           "bbox": [
             72.0,
@@ -2699,7 +2687,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "History",
           "bbox": [
             72.0,
@@ -2733,7 +2721,7 @@
           ]
         },
         {
-          "y": 122,
+          "y": 122.2,
           "text": "Nice, located on the French Riviera, has been a popular destination for centuries. Its history",
           "bbox": [
             72.0,
@@ -2767,7 +2755,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 139.3,
           "text": "dates back to the ancient Greeks, who founded the city around 350 BC. Nice later became a",
           "bbox": [
             72.0,
@@ -2801,7 +2789,7 @@
           ]
         },
         {
-          "y": 156,
+          "y": 156.4,
           "text": "Roman colony and has since evolved into a glamorous resort town. In the 19th century, Nice",
           "bbox": [
             72.0,
@@ -2835,7 +2823,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "became a favorite winter retreat for European aristocrats, which contributed to its",
           "bbox": [
             72.00003051757812,
@@ -2869,7 +2857,7 @@
           ]
         },
         {
-          "y": 191,
+          "y": 190.6,
           "text": "development as a luxurious destination.",
           "bbox": [
             72.00003051757812,
@@ -2903,7 +2891,7 @@
           ]
         },
         {
-          "y": 216,
+          "y": 215.7,
           "text": "Key Attractions",
           "bbox": [
             72.00001525878906,
@@ -2937,13 +2925,13 @@
           ]
         },
         {
-          "y": 241,
-          "text": "Promenade des Anglais : This famous seaside promenade, built in the 19th century, is",
+          "y": 240.8,
+          "text": "Promenade des Anglais",
           "bbox": [
             108.0,
             240.80397033691406,
-            535.5734252929688,
-            255.68397521972656
+            230.34121704101562,
+            255.5879669189453
           ],
           "spans": [
             {
@@ -2967,7 +2955,19 @@
                 230.34121704101562,
                 255.5879669189453
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 240.9,
+          "text": ": This famous seaside promenade, built in the 19th century, is",
+          "bbox": [
+            230.33999633789062,
+            240.92398071289062,
+            535.5734252929688,
+            255.68397521972656
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -2993,7 +2993,7 @@
           ]
         },
         {
-          "y": 243,
+          "y": 242.6,
           "text": "•",
           "bbox": [
             90.0,
@@ -3027,7 +3027,7 @@
           ]
         },
         {
-          "y": 258,
+          "y": 258.0,
           "text": "perfect for a leisurely stroll along the coast. It oﬀers stunning views of the",
           "bbox": [
             108.0,
@@ -3061,7 +3061,7 @@
           ]
         },
         {
-          "y": 275,
+          "y": 275.1,
           "text": "Mediterranean and is lined with cafes and hotels.",
           "bbox": [
             108.0,
@@ -3095,13 +3095,13 @@
           ]
         },
         {
-          "y": 300,
-          "text": "Castle Hill (Colline du Château) : This hilltop park oﬀers panoramic views of Nice and",
+          "y": 300.3,
+          "text": "Castle Hill (Colline du Château)",
           "bbox": [
             108.0,
             300.2640075683594,
-            537.4957275390625,
-            315.14398193359375
+            270.08404541015625,
+            315.0480041503906
           ],
           "spans": [
             {
@@ -3125,7 +3125,19 @@
                 270.08404541015625,
                 315.0480041503906
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 300.4,
+          "text": ": This hilltop park oﬀers panoramic views of Nice and",
+          "bbox": [
+            270.06005859375,
+            300.3840026855469,
+            537.4957275390625,
+            315.14398193359375
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -3151,13 +3163,13 @@
           ]
         },
         {
-          "y": 302,
+          "y": 302.0,
           "text": "•",
           "bbox": [
             90.0,
-            301.6991882324219,
-            97.40477752685547,
-            315.3764953613281
+            302.0498962402344,
+            94.60919952392578,
+            314.32440185546875
           ],
           "spans": [
             {
@@ -3181,33 +3193,11 @@
                 94.60919952392578,
                 314.32440185546875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                312.1199951171875
-              ],
-              "bbox": [
-                94.61921691894531,
-                301.6991882324219,
-                97.40477752685547,
-                315.3764953613281
-              ]
             }
           ]
         },
         {
-          "y": 317,
+          "y": 317.5,
           "text": "the Mediterranean. It was once the site of a medieval castle, which was destroyed in",
           "bbox": [
             108.0,
@@ -3241,7 +3231,7 @@
           ]
         },
         {
-          "y": 335,
+          "y": 334.6,
           "text": "the 18th century.",
           "bbox": [
             108.0,
@@ -3275,13 +3265,13 @@
           ]
         },
         {
-          "y": 360,
-          "text": "Old Town (Vieux Nice) : The historic center of Nice is a labyrinth of narrow streets,",
+          "y": 359.7,
+          "text": "Old Town (Vieux Nice)",
           "bbox": [
             108.0,
             359.66400146484375,
-            520.0921020507812,
-            374.5439758300781
+            224.54519653320312,
+            374.447998046875
           ],
           "spans": [
             {
@@ -3305,7 +3295,19 @@
                 224.54519653320312,
                 374.447998046875
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 359.8,
+          "text": ": The historic center of Nice is a labyrinth of narrow streets,",
+          "bbox": [
+            224.5800018310547,
+            359.78399658203125,
+            520.0921020507812,
+            374.5439758300781
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -3331,13 +3333,13 @@
           ]
         },
         {
-          "y": 361,
+          "y": 361.4,
           "text": "•",
           "bbox": [
             90.0,
-            361.09918212890625,
-            97.40477752685547,
-            374.7764892578125
+            361.44989013671875,
+            94.60919952392578,
+            373.7243957519531
           ],
           "spans": [
             {
@@ -3361,33 +3363,11 @@
                 94.60919952392578,
                 373.7243957519531
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                371.5199890136719
-              ],
-              "bbox": [
-                94.61921691894531,
-                361.09918212890625,
-                97.40477752685547,
-                374.7764892578125
-              ]
             }
           ]
         },
         {
-          "y": 377,
+          "y": 376.9,
           "text": "baroque churches, and bustling markets. Don't miss the Cours Saleya market, where",
           "bbox": [
             108.0,
@@ -3421,7 +3401,7 @@
           ]
         },
         {
-          "y": 394,
+          "y": 394.0,
           "text": "you can find fresh produce, flowers, and local delicacies.",
           "bbox": [
             108.0,
@@ -3455,13 +3435,13 @@
           ]
         },
         {
-          "y": 419,
-          "text": "Matisse Museum : Dedicated to the works of Henri Matisse, who spent much of his life",
+          "y": 419.1,
+          "text": "Matisse Museum",
           "bbox": [
             108.0,
             419.06402587890625,
-            540.9705810546875,
-            433.9440002441406
+            195.635986328125,
+            433.8480224609375
           ],
           "spans": [
             {
@@ -3485,7 +3465,19 @@
                 195.635986328125,
                 433.8480224609375
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 419.2,
+          "text": ": Dedicated to the works of Henri Matisse, who spent much of his life",
+          "bbox": [
+            195.66000366210938,
+            419.18402099609375,
+            540.9705810546875,
+            433.9440002441406
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -3511,7 +3503,7 @@
           ]
         },
         {
-          "y": 421,
+          "y": 420.8,
           "text": "•",
           "bbox": [
             90.0,
@@ -3545,7 +3537,7 @@
           ]
         },
         {
-          "y": 436,
+          "y": 436.3,
           "text": "in Nice, this museum features a comprehensive collection of his paintings, sculptures,",
           "bbox": [
             108.00000762939453,
@@ -3579,7 +3571,7 @@
           ]
         },
         {
-          "y": 453,
+          "y": 453.4,
           "text": "and drawings.",
           "bbox": [
             108.00000762939453,
@@ -3613,7 +3605,7 @@
           ]
         },
         {
-          "y": 478,
+          "y": 478.5,
           "text": "Hidden Gems",
           "bbox": [
             72.0,
@@ -3647,13 +3639,13 @@
           ]
         },
         {
-          "y": 504,
-          "text": "Russian Orthodox Cathedral : Visit the stunning Russian Orthodox Cathedral, a",
+          "y": 503.6,
+          "text": "Russian Orthodox Cathedral",
           "bbox": [
             108.0,
             503.6039733886719,
-            505.9944763183594,
-            518.4839477539062
+            255.0240020751953,
+            518.387939453125
           ],
           "spans": [
             {
@@ -3677,7 +3669,19 @@
                 255.0240020751953,
                 518.387939453125
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 503.7,
+          "text": ": Visit the stunning Russian Orthodox Cathedral, a",
+          "bbox": [
+            255.0,
+            503.7239685058594,
+            505.9944763183594,
+            518.4839477539062
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -3703,13 +3707,13 @@
           ]
         },
         {
-          "y": 505,
+          "y": 505.4,
           "text": "•",
           "bbox": [
             90.0,
-            505.0391540527344,
-            97.40477752685547,
-            518.7164306640625
+            505.3898620605469,
+            94.60919952392578,
+            517.6643676757812
           ],
           "spans": [
             {
@@ -3733,33 +3737,11 @@
                 94.60919952392578,
                 517.6643676757812
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                515.4599609375
-              ],
-              "bbox": [
-                94.61921691894531,
-                505.0391540527344,
-                97.40477752685547,
-                518.7164306640625
-              ]
             }
           ]
         },
         {
-          "y": 521,
+          "y": 520.8,
           "text": "unique architectural gem in Nice.",
           "bbox": [
             108.0,
@@ -3793,13 +3775,13 @@
           ]
         },
         {
-          "y": 546,
-          "text": "Marc Chagall National Museum : Explore the works of Marc Chagall at this dedicated",
+          "y": 545.9,
+          "text": "Marc Chagall National Museum",
           "bbox": [
             108.0,
             545.9039916992188,
-            536.1756591796875,
-            560.7839965820312
+            270.6960144042969,
+            560.68798828125
           ],
           "spans": [
             {
@@ -3823,7 +3805,19 @@
                 270.6960144042969,
                 560.68798828125
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 546.0,
+          "text": ": Explore the works of Marc Chagall at this dedicated",
+          "bbox": [
+            270.7200012207031,
+            546.0239868164062,
+            536.1756591796875,
+            560.7839965820312
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -3849,7 +3843,7 @@
           ]
         },
         {
-          "y": 548,
+          "y": 547.7,
           "text": "•",
           "bbox": [
             90.0,
@@ -3883,7 +3877,7 @@
           ]
         },
         {
-          "y": 563,
+          "y": 563.1,
           "text": "museum.",
           "bbox": [
             108.0,
@@ -3917,13 +3911,13 @@
           ]
         },
         {
-          "y": 588,
-          "text": "Parc Phoenix : Discover the botanical wonders at Parc Phoenix, a beautiful garden and",
+          "y": 588.2,
+          "text": "Parc Phoenix",
           "bbox": [
             108.0,
             588.2039794921875,
-            541.1569213867188,
-            603.083984375
+            175.80001831054688,
+            602.9879760742188
           ],
           "spans": [
             {
@@ -3947,7 +3941,19 @@
                 175.80001831054688,
                 602.9879760742188
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 588.3,
+          "text": ": Discover the botanical wonders at Parc Phoenix, a beautiful garden and",
+          "bbox": [
+            175.8000030517578,
+            588.323974609375,
+            541.1569213867188,
+            603.083984375
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -3973,13 +3979,13 @@
           ]
         },
         {
-          "y": 590,
+          "y": 590.0,
           "text": "•",
           "bbox": [
             90.0,
-            589.6392211914062,
-            97.40477752685547,
-            603.3164672851562
+            589.9898681640625,
+            94.60919952392578,
+            602.264404296875
           ],
           "spans": [
             {
@@ -4003,33 +4009,11 @@
                 94.60919952392578,
                 602.264404296875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                600.0599975585938
-              ],
-              "bbox": [
-                94.61921691894531,
-                589.6392211914062,
-                97.40477752685547,
-                603.3164672851562
-              ]
             }
           ]
         },
         {
-          "y": 605,
+          "y": 605.4,
           "text": "park.",
           "bbox": [
             108.0,
@@ -4063,7 +4047,7 @@
           ]
         },
         {
-          "y": 631,
+          "y": 630.6,
           "text": "Cultural Highlights",
           "bbox": [
             72.0,
@@ -4097,7 +4081,7 @@
           ]
         },
         {
-          "y": 656,
+          "y": 655.6,
           "text": "Nice is renowned for its vibrant cultural scene, with numerous museums, galleries, and",
           "bbox": [
             72.0,
@@ -4131,7 +4115,7 @@
           ]
         },
         {
-          "y": 673,
+          "y": 672.7,
           "text": "theaters. The city hosts the Nice Carnival in February, one of the largest and oldest carnivals",
           "bbox": [
             72.0,
@@ -4165,7 +4149,7 @@
           ]
         },
         {
-          "y": 690,
+          "y": 689.8,
           "text": "in the world. The Nice Jazz Festival, held in July, is another major event that attracts music",
           "bbox": [
             72.0,
@@ -4206,7 +4190,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "lovers from around the globe. Nice's cuisine is also a highlight, with dishes like salade niçoise",
           "bbox": [
             72.0,
@@ -4240,7 +4224,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 89.1,
           "text": "and socca (a chickpea flour pancake) being local specialties.",
           "bbox": [
             72.0,
@@ -4281,7 +4265,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Avignon: The City of Popes",
           "bbox": [
             72.0,
@@ -4315,7 +4299,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "History",
           "bbox": [
             72.0,
@@ -4349,7 +4333,7 @@
           ]
         },
         {
-          "y": 122,
+          "y": 122.2,
           "text": "Avignon, located on the banks of the Rhône River, is best known for its role as the seat of the",
           "bbox": [
             72.0,
@@ -4383,7 +4367,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 139.3,
           "text": "papacy in the 14th century. The city was home to seven popes during this period, leaving a",
           "bbox": [
             72.0,
@@ -4417,7 +4401,7 @@
           ]
         },
         {
-          "y": 156,
+          "y": 156.4,
           "text": "lasting legacy of impressive architecture and cultural heritage. Avignon's history dates back to",
           "bbox": [
             72.0,
@@ -4451,7 +4435,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "Roman times, and it has been a significant religious and cultural center for centuries.",
           "bbox": [
             72.0,
@@ -4485,7 +4469,7 @@
           ]
         },
         {
-          "y": 199,
+          "y": 198.6,
           "text": "Key Attractions",
           "bbox": [
             72.0,
@@ -4519,13 +4503,13 @@
           ]
         },
         {
-          "y": 224,
-          "text": "Palais des Papes : This massive Gothic palace was the residence of the popes during",
+          "y": 223.7,
+          "text": "Palais des Papes",
           "bbox": [
             108.0,
             223.70399475097656,
-            528.0718994140625,
-            238.58399963378906
+            192.72000122070312,
+            238.4879913330078
           ],
           "spans": [
             {
@@ -4549,7 +4533,19 @@
                 192.72000122070312,
                 238.4879913330078
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 223.8,
+          "text": ": This massive Gothic palace was the residence of the popes during",
+          "bbox": [
+            192.72000122070312,
+            223.82400512695312,
+            528.0718994140625,
+            238.58399963378906
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -4575,13 +4571,13 @@
           ]
         },
         {
-          "y": 225,
+          "y": 225.5,
           "text": "•",
           "bbox": [
             90.0,
-            225.13919067382812,
-            97.40477752685547,
-            238.81649780273438
+            225.48989868164062,
+            94.60919952392578,
+            237.764404296875
           ],
           "spans": [
             {
@@ -4605,33 +4601,11 @@
                 94.60919952392578,
                 237.764404296875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                235.55999755859375
-              ],
-              "bbox": [
-                94.61921691894531,
-                225.13919067382812,
-                97.40477752685547,
-                238.81649780273438
-              ]
             }
           ]
         },
         {
-          "y": 241,
+          "y": 240.9,
           "text": "their stay in Avignon. It is one of the largest and most important medieval Gothic",
           "bbox": [
             108.0,
@@ -4665,7 +4639,7 @@
           ]
         },
         {
-          "y": 258,
+          "y": 258.0,
           "text": "buildings in Europe.",
           "bbox": [
             108.0,
@@ -4699,13 +4673,13 @@
           ]
         },
         {
-          "y": 283,
-          "text": "Pont Saint-Bénézet (Pont d'Avignon) : This famous bridge, immortalized in the song",
+          "y": 283.2,
+          "text": "Pont Saint-Bénézet (Pont d'Avignon)",
           "bbox": [
             108.0,
             283.16400146484375,
-            531.9706420898438,
-            298.0439758300781
+            297.8639831542969,
+            297.947998046875
           ],
           "spans": [
             {
@@ -4729,7 +4703,19 @@
                 297.8639831542969,
                 297.947998046875
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 283.3,
+          "text": ": This famous bridge, immortalized in the song",
+          "bbox": [
+            297.8399963378906,
+            283.28399658203125,
+            531.9706420898438,
+            298.0439758300781
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -4755,13 +4741,13 @@
           ]
         },
         {
-          "y": 285,
+          "y": 284.9,
           "text": "•",
           "bbox": [
             90.0,
-            284.59918212890625,
-            97.40477752685547,
-            298.2764892578125
+            284.94989013671875,
+            94.60919952392578,
+            297.2243957519531
           ],
           "spans": [
             {
@@ -4785,33 +4771,11 @@
                 94.60919952392578,
                 297.2243957519531
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                295.0199890136719
-              ],
-              "bbox": [
-                94.61921691894531,
-                284.59918212890625,
-                97.40477752685547,
-                298.2764892578125
-              ]
             }
           ]
         },
         {
-          "y": 300,
+          "y": 300.4,
           "text": "\"Sur le Pont d'Avignon,\" was built in the 12th century. Although only a few arches",
           "bbox": [
             107.99998474121094,
@@ -4845,7 +4809,7 @@
           ]
         },
         {
-          "y": 317,
+          "y": 317.5,
           "text": "remain, it is a UNESCO World Heritage site.",
           "bbox": [
             107.99998474121094,
@@ -4879,13 +4843,13 @@
           ]
         },
         {
-          "y": 343,
-          "text": "Avignon Cathedral : Located next to the Palais des Papes, this Romanesque cathedral",
+          "y": 342.6,
+          "text": "Avignon Cathedral",
           "bbox": [
             108.0,
             342.56402587890625,
-            537.1380004882812,
-            357.4440002441406
+            204.80523681640625,
+            357.3480224609375
           ],
           "spans": [
             {
@@ -4909,7 +4873,19 @@
                 204.80523681640625,
                 357.3480224609375
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 342.7,
+          "text": ": Located next to the Palais des Papes, this Romanesque cathedral",
+          "bbox": [
+            204.77999877929688,
+            342.68402099609375,
+            537.1380004882812,
+            357.4440002441406
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -4935,13 +4911,13 @@
           ]
         },
         {
-          "y": 344,
+          "y": 344.3,
           "text": "•",
           "bbox": [
             90.0,
-            343.99920654296875,
-            97.40477752685547,
-            357.676513671875
+            344.34991455078125,
+            94.60919952392578,
+            356.6244201660156
           ],
           "spans": [
             {
@@ -4965,33 +4941,11 @@
                 94.60919952392578,
                 356.6244201660156
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                354.4200134277344
-              ],
-              "bbox": [
-                94.61921691894531,
-                343.99920654296875,
-                97.40477752685547,
-                357.676513671875
-              ]
             }
           ]
         },
         {
-          "y": 360,
+          "y": 359.8,
           "text": "dates back to the 12th century and features a gilded statue of the Virgin Mary.",
           "bbox": [
             108.0,
@@ -5025,13 +4979,13 @@
           ]
         },
         {
-          "y": 385,
-          "text": "Place de l'Horloge : The main square in Avignon, this lively area is surrounded by",
+          "y": 384.9,
+          "text": "Place de l'Horloge",
           "bbox": [
             108.0,
             384.864013671875,
-            514.1495361328125,
-            399.7439880371094
+            203.13601684570312,
+            399.64801025390625
           ],
           "spans": [
             {
@@ -5055,7 +5009,19 @@
                 203.13601684570312,
                 399.64801025390625
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 385.0,
+          "text": ": The main square in Avignon, this lively area is surrounded by",
+          "bbox": [
+            203.16000366210938,
+            384.9840087890625,
+            514.1495361328125,
+            399.7439880371094
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -5081,7 +5047,7 @@
           ]
         },
         {
-          "y": 387,
+          "y": 386.6,
           "text": "•",
           "bbox": [
             90.0,
@@ -5115,7 +5081,7 @@
           ]
         },
         {
-          "y": 402,
+          "y": 402.1,
           "text": "cafes, restaurants, and historic buildings, including the 19th-century town hall and",
           "bbox": [
             108.00000762939453,
@@ -5149,7 +5115,7 @@
           ]
         },
         {
-          "y": 419,
+          "y": 419.2,
           "text": "opera house.",
           "bbox": [
             108.00003051757812,
@@ -5183,7 +5149,7 @@
           ]
         },
         {
-          "y": 444,
+          "y": 444.3,
           "text": "Cultural Activities",
           "bbox": [
             72.00003051757812,
@@ -5217,7 +5183,7 @@
           ]
         },
         {
-          "y": 469,
+          "y": 469.4,
           "text": "Opéra Grand Avignon",
           "bbox": [
             108.0,
@@ -5251,7 +5217,7 @@
           ]
         },
         {
-          "y": 470,
+          "y": 469.5,
           "text": ": Attend a performance at the Opéra Grand Avignon for a",
           "bbox": [
             220.9199981689453,
@@ -5285,13 +5251,13 @@
           ]
         },
         {
-          "y": 471,
+          "y": 471.2,
           "text": "•",
           "bbox": [
             90.0,
-            470.8392028808594,
-            97.40477752685547,
-            484.5165100097656
+            471.1899108886719,
+            94.60919952392578,
+            483.46441650390625
           ],
           "spans": [
             {
@@ -5315,33 +5281,11 @@
                 94.60919952392578,
                 483.46441650390625
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                481.260009765625
-              ],
-              "bbox": [
-                94.61921691894531,
-                470.8392028808594,
-                97.40477752685547,
-                484.5165100097656
-              ]
             }
           ]
         },
         {
-          "y": 487,
+          "y": 486.6,
           "text": "cultural treat.",
           "bbox": [
             108.0,
@@ -5375,13 +5319,13 @@
           ]
         },
         {
-          "y": 512,
-          "text": "Arts Scene : Explore the city's vibrant arts scene, with numerous galleries and",
+          "y": 511.7,
+          "text": "Arts Scene",
           "bbox": [
             108.0,
             511.7040100097656,
-            495.9720764160156,
-            526.583984375
+            163.41600036621094,
+            526.4879760742188
           ],
           "spans": [
             {
@@ -5405,7 +5349,19 @@
                 163.41600036621094,
                 526.4879760742188
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 511.8,
+          "text": ": Explore the city's vibrant arts scene, with numerous galleries and",
+          "bbox": [
+            163.44000244140625,
+            511.8240051269531,
+            495.9720764160156,
+            526.583984375
+          ],
+          "spans": [
             {
               "size": 12.0,
               "flags": 4,
@@ -5431,13 +5387,13 @@
           ]
         },
         {
-          "y": 513,
+          "y": 513.5,
           "text": "•",
           "bbox": [
             90.0,
-            513.1392211914062,
-            97.40477752685547,
-            526.8164672851562
+            513.4898681640625,
+            94.60919952392578,
+            525.764404296875
           ],
           "spans": [
             {
@@ -5461,33 +5417,11 @@
                 94.60919952392578,
                 525.764404296875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                523.5599975585938
-              ],
-              "bbox": [
-                94.61921691894531,
-                513.1392211914062,
-                97.40477752685547,
-                526.8164672851562
-              ]
             }
           ]
         },
         {
-          "y": 529,
+          "y": 528.9,
           "text": "exhibitions.",
           "bbox": [
             108.0,
@@ -5521,7 +5455,7 @@
           ]
         },
         {
-          "y": 554,
+          "y": 554.0,
           "text": "Cultural Highlights",
           "bbox": [
             72.0,
@@ -5555,7 +5489,7 @@
           ]
         },
         {
-          "y": 579,
+          "y": 579.1,
           "text": "Avignon is famous for its annual Festival d'Avignon, held in July, which is one of the most",
           "bbox": [
             72.0,
@@ -5589,7 +5523,7 @@
           ]
         },
         {
-          "y": 596,
+          "y": 596.2,
           "text": "important contemporary performing arts events in the world. The festival features theater,",
           "bbox": [
             72.0,
@@ -5623,7 +5557,7 @@
           ]
         },
         {
-          "y": 613,
+          "y": 613.3,
           "text": "dance, and music performances in various historic venues throughout the city. Avignon's",
           "bbox": [
             72.0,
@@ -5657,7 +5591,7 @@
           ]
         },
         {
-          "y": 630,
+          "y": 630.4,
           "text": "cuisine is also notable, with local specialties such as truﬄes, olive oil, and wines from the",
           "bbox": [
             72.0,
@@ -5691,7 +5625,7 @@
           ]
         },
         {
-          "y": 647,
+          "y": 647.5,
           "text": "surrounding vineyards.",
           "bbox": [
             72.0,
@@ -5732,7 +5666,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Aix-en-Provence: A City of Art and Culture",
           "bbox": [
             72.0,
@@ -5766,7 +5700,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "History",
           "bbox": [
             72.00003051757812,
@@ -5800,7 +5734,7 @@
           ]
         },
         {
-          "y": 122,
+          "y": 122.2,
           "text": "Aix-en-Provence, founded by the Romans in 123 BC, is known for its elegant architecture,",
           "bbox": [
             72.00003051757812,
@@ -5834,7 +5768,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 139.3,
           "text": "vibrant cultural scene, and association with the painter Paul Cézanne. The city's rich history is",
           "bbox": [
             72.00003051757812,
@@ -5868,7 +5802,7 @@
           ]
         },
         {
-          "y": 156,
+          "y": 156.4,
           "text": "reflected in its beautiful buildings and lively atmosphere. Aix-en-Provence has been a center",
           "bbox": [
             72.00003051757812,
@@ -5902,7 +5836,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "of art and learning for centuries, attracting artists, writers, and scholars.",
           "bbox": [
             72.00009155273438,
@@ -5936,7 +5870,7 @@
           ]
         },
         {
-          "y": 199,
+          "y": 198.6,
           "text": "Key Attractions",
           "bbox": [
             72.00009155273438,
@@ -5970,7 +5904,7 @@
           ]
         },
         {
-          "y": 224,
+          "y": 223.7,
           "text": "Cours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is",
           "bbox": [
             108.0,
@@ -6004,13 +5938,13 @@
           ]
         },
         {
-          "y": 225,
+          "y": 225.4,
           "text": "•",
           "bbox": [
             90.0,
-            225.01919555664062,
-            97.40477752685547,
-            238.69650268554688
+            225.36990356445312,
+            94.60919952392578,
+            237.6444091796875
           ],
           "spans": [
             {
@@ -6034,33 +5968,11 @@
                 94.60919952392578,
                 237.6444091796875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                235.44000244140625
-              ],
-              "bbox": [
-                94.61921691894531,
-                225.01919555664062,
-                97.40477752685547,
-                238.69650268554688
-              ]
             }
           ]
         },
         {
-          "y": 241,
+          "y": 240.8,
           "text": "the heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere.",
           "bbox": [
             108.0,
@@ -6094,7 +6006,7 @@
           ]
         },
         {
-          "y": 266,
+          "y": 265.9,
           "text": "Saint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries,",
           "bbox": [
             108.0,
@@ -6128,7 +6040,7 @@
           ]
         },
         {
-          "y": 268,
+          "y": 267.6,
           "text": "•",
           "bbox": [
             90.0,
@@ -6162,7 +6074,7 @@
           ]
         },
         {
-          "y": 283,
+          "y": 283.0,
           "text": "features a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is",
           "bbox": [
             107.99998474121094,
@@ -6196,7 +6108,7 @@
           ]
         },
         {
-          "y": 300,
+          "y": 300.1,
           "text": "known for its beautiful cloister and triptych by Nicolas Froment.",
           "bbox": [
             107.99998474121094,
@@ -6230,7 +6142,7 @@
           ]
         },
         {
-          "y": 325,
+          "y": 325.2,
           "text": "Hôtel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant",
           "bbox": [
             108.0,
@@ -6264,13 +6176,13 @@
           ]
         },
         {
-          "y": 327,
+          "y": 326.9,
           "text": "•",
           "bbox": [
             90.0,
-            326.5391845703125,
-            97.40477752685547,
-            340.21649169921875
+            326.889892578125,
+            94.60919952392578,
+            339.1643981933594
           ],
           "spans": [
             {
@@ -6294,33 +6206,11 @@
                 94.60919952392578,
                 339.1643981933594
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                336.9599914550781
-              ],
-              "bbox": [
-                94.61921691894531,
-                326.5391845703125,
-                97.40477752685547,
-                340.21649169921875
-              ]
             }
           ]
         },
         {
-          "y": 342,
+          "y": 342.3,
           "text": "building with a beautiful clock tower and an ornate facade. The square in front of the",
           "bbox": [
             108.00003051757812,
@@ -6354,7 +6244,7 @@
           ]
         },
         {
-          "y": 359,
+          "y": 359.4,
           "text": "Hôtel de Ville is a lively spot, often hosting markets and events.",
           "bbox": [
             108.00003051757812,
@@ -6388,7 +6278,7 @@
           ]
         },
         {
-          "y": 385,
+          "y": 384.5,
           "text": "Atelier Cézanne: The studio of Paul Cézanne, one of the most famous painters",
           "bbox": [
             108.0,
@@ -6422,13 +6312,13 @@
           ]
         },
         {
-          "y": 386,
+          "y": 386.2,
           "text": "•",
           "bbox": [
             90.0,
-            385.8191833496094,
-            97.40477752685547,
-            399.4964904785156
+            386.1698913574219,
+            94.60919952392578,
+            398.44439697265625
           ],
           "spans": [
             {
@@ -6452,33 +6342,11 @@
                 94.60919952392578,
                 398.44439697265625
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                396.239990234375
-              ],
-              "bbox": [
-                94.61921691894531,
-                385.8191833496094,
-                97.40477752685547,
-                399.4964904785156
-              ]
             }
           ]
         },
         {
-          "y": 402,
+          "y": 401.6,
           "text": "associated with Aix-en-Provence, is preserved as a museum. Visitors can see where",
           "bbox": [
             108.0,
@@ -6512,7 +6380,7 @@
           ]
         },
         {
-          "y": 419,
+          "y": 418.7,
           "text": "Cézanne created many of his masterpieces and gain insight into his artistic process.",
           "bbox": [
             108.00001525878906,
@@ -6546,7 +6414,7 @@
           ]
         },
         {
-          "y": 444,
+          "y": 443.8,
           "text": "Artistic Heritage",
           "bbox": [
             72.0,
@@ -6580,7 +6448,7 @@
           ]
         },
         {
-          "y": 469,
+          "y": 468.9,
           "text": "Walking Tour: Take a walking tour of sites related to Paul Cézanne, such as the Terrain",
           "bbox": [
             108.0,
@@ -6614,7 +6482,7 @@
           ]
         },
         {
-          "y": 471,
+          "y": 470.5,
           "text": "•",
           "bbox": [
             90.0,
@@ -6648,7 +6516,7 @@
           ]
         },
         {
-          "y": 486,
+          "y": 486.0,
           "text": "des Peintres and the Bibémus Quarry.",
           "bbox": [
             108.0,
@@ -6682,7 +6550,7 @@
           ]
         },
         {
-          "y": 511,
+          "y": 511.1,
           "text": "Local Markets: Visit the city's famous markets, such as the flower market at Place de",
           "bbox": [
             108.0,
@@ -6716,7 +6584,7 @@
           ]
         },
         {
-          "y": 513,
+          "y": 512.8,
           "text": "•",
           "bbox": [
             90.0,
@@ -6750,7 +6618,7 @@
           ]
         },
         {
-          "y": 528,
+          "y": 528.2,
           "text": "l'Hôtel de Ville or the food market at Place Richelme.",
           "bbox": [
             108.0,
@@ -6784,7 +6652,7 @@
           ]
         },
         {
-          "y": 553,
+          "y": 553.3,
           "text": "Cultural Highlights",
           "bbox": [
             72.0,
@@ -6818,7 +6686,7 @@
           ]
         },
         {
-          "y": 578,
+          "y": 578.4,
           "text": "Aix-en-Provence is known for its vibrant arts scene, with numerous galleries, theaters, and",
           "bbox": [
             72.0,
@@ -6852,7 +6720,7 @@
           ]
         },
         {
-          "y": 595,
+          "y": 595.5,
           "text": "music venues. The city hosts several festivals throughout the year, including the Festival d'Aix-",
           "bbox": [
             72.0,
@@ -6886,7 +6754,7 @@
           ]
         },
         {
-          "y": 613,
+          "y": 612.6,
           "text": "en-Provence, which features opera and classical music performances. Aix-en-Provence's",
           "bbox": [
             72.0,
@@ -6920,7 +6788,7 @@
           ]
         },
         {
-          "y": 630,
+          "y": 629.7,
           "text": "cuisine is also a highlight, with local specialties such as calissons (almond-shaped candies)",
           "bbox": [
             72.00003051757812,
@@ -6954,7 +6822,7 @@
           ]
         },
         {
-          "y": 647,
+          "y": 646.8,
           "text": "and Provençal dishes made with fresh, local ingredients.",
           "bbox": [
             72.00003051757812,
@@ -6995,7 +6863,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Toulouse: The Pink City",
           "bbox": [
             72.0,
@@ -7029,7 +6897,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "History",
           "bbox": [
             72.0,
@@ -7063,7 +6931,7 @@
           ]
         },
         {
-          "y": 122,
+          "y": 122.2,
           "text": "Toulouse, known as \"La Ville Rose\" (The Pink City) due to its distinctive terracotta buildings,",
           "bbox": [
             72.0,
@@ -7097,7 +6965,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 139.3,
           "text": "is a vibrant city with a rich history. It was an important center during the Roman period and",
           "bbox": [
             71.99999237060547,
@@ -7131,7 +6999,7 @@
           ]
         },
         {
-          "y": 156,
+          "y": 156.4,
           "text": "later became a hub of the aerospace industry. Toulouse has been a center of learning and",
           "bbox": [
             71.99999237060547,
@@ -7165,7 +7033,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "culture for centuries, with a prestigious university and numerous research institutions.",
           "bbox": [
             72.0,
@@ -7199,7 +7067,7 @@
           ]
         },
         {
-          "y": 199,
+          "y": 198.6,
           "text": "Key Attractions",
           "bbox": [
             72.0,
@@ -7233,7 +7101,7 @@
           ]
         },
         {
-          "y": 224,
+          "y": 223.7,
           "text": "Basilica of Saint-Sernin: This Romanesque basilica, built between the 11th and 13th",
           "bbox": [
             108.0,
@@ -7267,13 +7135,13 @@
           ]
         },
         {
-          "y": 225,
+          "y": 225.4,
           "text": "•",
           "bbox": [
             90.0,
-            225.01919555664062,
-            97.40477752685547,
-            238.69650268554688
+            225.36990356445312,
+            94.60919952392578,
+            237.6444091796875
           ],
           "spans": [
             {
@@ -7297,33 +7165,11 @@
                 94.60919952392578,
                 237.6444091796875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                235.44000244140625
-              ],
-              "bbox": [
-                94.61921691894531,
-                225.01919555664062,
-                97.40477752685547,
-                238.69650268554688
-              ]
             }
           ]
         },
         {
-          "y": 241,
+          "y": 240.8,
           "text": "centuries, is a UNESCO World Heritage site. It is one of the largest and best-preserved",
           "bbox": [
             107.99999237060547,
@@ -7357,7 +7203,7 @@
           ]
         },
         {
-          "y": 258,
+          "y": 257.9,
           "text": "Romanesque churches in Europe.",
           "bbox": [
             108.0,
@@ -7391,7 +7237,7 @@
           ]
         },
         {
-          "y": 283,
+          "y": 283.0,
           "text": "Capitole de Toulouse: The city's town hall and theater, the Capitole, is an impressive",
           "bbox": [
             108.0,
@@ -7425,7 +7271,7 @@
           ]
         },
         {
-          "y": 285,
+          "y": 284.7,
           "text": "•",
           "bbox": [
             90.0,
@@ -7459,7 +7305,7 @@
           ]
         },
         {
-          "y": 300,
+          "y": 300.1,
           "text": "building with a neoclassical facade. It has been the seat of municipal power since the",
           "bbox": [
             108.0,
@@ -7493,7 +7339,7 @@
           ]
         },
         {
-          "y": 317,
+          "y": 317.2,
           "text": "12th century.",
           "bbox": [
             108.0,
@@ -7527,7 +7373,7 @@
           ]
         },
         {
-          "y": 342,
+          "y": 342.3,
           "text": "Jacobins Convent: This Gothic convent, founded in the 13th century, is known for its",
           "bbox": [
             108.0,
@@ -7561,13 +7407,13 @@
           ]
         },
         {
-          "y": 344,
+          "y": 344.0,
           "text": "•",
           "bbox": [
             90.0,
-            343.6391906738281,
-            97.40477752685547,
-            357.3164978027344
+            343.9898986816406,
+            94.60919952392578,
+            356.264404296875
           ],
           "spans": [
             {
@@ -7591,33 +7437,11 @@
                 94.60919952392578,
                 356.264404296875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                354.05999755859375
-              ],
-              "bbox": [
-                94.61921691894531,
-                343.6391906738281,
-                97.40477752685547,
-                357.3164978027344
-              ]
             }
           ]
         },
         {
-          "y": 359,
+          "y": 359.4,
           "text": "beautiful cloister and the relics of Saint Thomas Aquinas.",
           "bbox": [
             108.0,
@@ -7651,7 +7475,7 @@
           ]
         },
         {
-          "y": 385,
+          "y": 384.5,
           "text": "Cité de l'Espace: This space-themed science museum features interactive exhibits, a",
           "bbox": [
             108.0,
@@ -7685,13 +7509,13 @@
           ]
         },
         {
-          "y": 386,
+          "y": 386.2,
           "text": "•",
           "bbox": [
             90.0,
-            385.8191833496094,
-            97.40477752685547,
-            399.4964904785156
+            386.1698913574219,
+            94.60919952392578,
+            398.44439697265625
           ],
           "spans": [
             {
@@ -7715,33 +7539,11 @@
                 94.60919952392578,
                 398.44439697265625
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                396.239990234375
-              ],
-              "bbox": [
-                94.61921691894531,
-                385.8191833496094,
-                97.40477752685547,
-                399.4964904785156
-              ]
             }
           ]
         },
         {
-          "y": 402,
+          "y": 401.6,
           "text": "planetarium, and a replica of the Mir space station. It's an engaging and educational",
           "bbox": [
             108.0,
@@ -7775,7 +7577,7 @@
           ]
         },
         {
-          "y": 419,
+          "y": 418.7,
           "text": "experience for visitors of all ages.",
           "bbox": [
             108.0,
@@ -7809,7 +7611,7 @@
           ]
         },
         {
-          "y": 444,
+          "y": 443.8,
           "text": "Aerospace Industry",
           "bbox": [
             72.0,
@@ -7843,7 +7645,7 @@
           ]
         },
         {
-          "y": 469,
+          "y": 468.9,
           "text": "Airbus Factory Tours: Visit the Airbus factory for a fascinating tour of one of the",
           "bbox": [
             108.0,
@@ -7877,7 +7679,7 @@
           ]
         },
         {
-          "y": 471,
+          "y": 470.5,
           "text": "•",
           "bbox": [
             90.0,
@@ -7911,7 +7713,7 @@
           ]
         },
         {
-          "y": 486,
+          "y": 486.0,
           "text": "world's leading aircraft manufacturers.",
           "bbox": [
             108.0,
@@ -7945,7 +7747,7 @@
           ]
         },
         {
-          "y": 511,
+          "y": 511.1,
           "text": "Aeroscopia Museum: Explore the history of aviation at the Aeroscopia Museum, which",
           "bbox": [
             108.0,
@@ -7979,7 +7781,7 @@
           ]
         },
         {
-          "y": 513,
+          "y": 512.8,
           "text": "•",
           "bbox": [
             90.0,
@@ -8013,7 +7815,7 @@
           ]
         },
         {
-          "y": 528,
+          "y": 528.2,
           "text": "features a collection of historic aircraft.",
           "bbox": [
             108.0,
@@ -8047,7 +7849,7 @@
           ]
         },
         {
-          "y": 553,
+          "y": 553.3,
           "text": "Cultural Highlights",
           "bbox": [
             72.0,
@@ -8081,7 +7883,7 @@
           ]
         },
         {
-          "y": 578,
+          "y": 578.4,
           "text": "Toulouse is renowned for its vibrant cultural scene, with numerous theaters, music venues,",
           "bbox": [
             72.0,
@@ -8115,7 +7917,7 @@
           ]
         },
         {
-          "y": 595,
+          "y": 595.5,
           "text": "and festivals. The city hosts the Toulouse International Art Festival, which features",
           "bbox": [
             72.0,
@@ -8149,7 +7951,7 @@
           ]
         },
         {
-          "y": 613,
+          "y": 612.6,
           "text": "contemporary art exhibitions and performances. Toulouse's cuisine is also notable, with local",
           "bbox": [
             72.0,
@@ -8183,7 +7985,7 @@
           ]
         },
         {
-          "y": 630,
+          "y": 629.7,
           "text": "specialties such as cassoulet (a hearty bean and meat stew) and foie gras being popular",
           "bbox": [
             72.0,
@@ -8217,7 +8019,7 @@
           ]
         },
         {
-          "y": 647,
+          "y": 646.8,
           "text": "dishes.",
           "bbox": [
             72.0,
@@ -8258,7 +8060,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Montpellier: A University City with Medieval Charm",
           "bbox": [
             72.0,
@@ -8292,7 +8094,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "History",
           "bbox": [
             72.0,
@@ -8326,7 +8128,7 @@
           ]
         },
         {
-          "y": 122,
+          "y": 122.2,
           "text": "Montpellier, founded in the 10th century, is known for its prestigious university and vibrant",
           "bbox": [
             72.0,
@@ -8360,7 +8162,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 139.3,
           "text": "cultural scene. The city has a rich history, with a blend of medieval, Renaissance, and modern",
           "bbox": [
             72.0,
@@ -8394,7 +8196,7 @@
           ]
         },
         {
-          "y": 156,
+          "y": 156.4,
           "text": "architecture. Montpellier has been a center of learning and innovation for centuries, attracting",
           "bbox": [
             72.0,
@@ -8428,7 +8230,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "scholars and students from around the world.",
           "bbox": [
             72.0,
@@ -8462,7 +8264,7 @@
           ]
         },
         {
-          "y": 199,
+          "y": 198.6,
           "text": "Key Attractions",
           "bbox": [
             71.99998474121094,
@@ -8496,7 +8298,7 @@
           ]
         },
         {
-          "y": 224,
+          "y": 223.7,
           "text": "Place de la Comédie: The central square of Montpellier, this bustling area is",
           "bbox": [
             108.0,
@@ -8530,13 +8332,13 @@
           ]
         },
         {
-          "y": 225,
+          "y": 225.4,
           "text": "•",
           "bbox": [
             90.0,
-            225.01919555664062,
-            97.40477752685547,
-            238.69650268554688
+            225.36990356445312,
+            94.60919952392578,
+            237.6444091796875
           ],
           "spans": [
             {
@@ -8560,33 +8362,11 @@
                 94.60919952392578,
                 237.6444091796875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                235.44000244140625
-              ],
-              "bbox": [
-                94.61921691894531,
-                225.01919555664062,
-                97.40477752685547,
-                238.69650268554688
-              ]
             }
           ]
         },
         {
-          "y": 241,
+          "y": 240.8,
           "text": "surrounded by cafes, shops, and the impressive Opéra Comédie. It is a great place to",
           "bbox": [
             108.0,
@@ -8620,7 +8400,7 @@
           ]
         },
         {
-          "y": 258,
+          "y": 257.9,
           "text": "start exploring the city.",
           "bbox": [
             108.0,
@@ -8654,7 +8434,7 @@
           ]
         },
         {
-          "y": 283,
+          "y": 283.0,
           "text": "Saint-Pierre Cathedral: This Gothic cathedral, built in the 14th century, is known for its",
           "bbox": [
             108.0,
@@ -8688,7 +8468,7 @@
           ]
         },
         {
-          "y": 285,
+          "y": 284.7,
           "text": "•",
           "bbox": [
             90.0,
@@ -8722,7 +8502,7 @@
           ]
         },
         {
-          "y": 300,
+          "y": 300.1,
           "text": "imposing facade and twin towers. It is the seat of the Archdiocese of Montpellier.",
           "bbox": [
             107.99999237060547,
@@ -8756,7 +8536,7 @@
           ]
         },
         {
-          "y": 325,
+          "y": 325.2,
           "text": "Promenade du Peyrou: This 17th-century promenade oﬀers stunning views of the city",
           "bbox": [
             108.0,
@@ -8790,13 +8570,13 @@
           ]
         },
         {
-          "y": 327,
+          "y": 326.9,
           "text": "•",
           "bbox": [
             90.0,
-            326.5391845703125,
-            97.40477752685547,
-            340.21649169921875
+            326.889892578125,
+            94.60919952392578,
+            339.1643981933594
           ],
           "spans": [
             {
@@ -8820,33 +8600,11 @@
                 94.60919952392578,
                 339.1643981933594
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                336.9599914550781
-              ],
-              "bbox": [
-                94.61921691894531,
-                326.5391845703125,
-                97.40477752685547,
-                340.21649169921875
-              ]
             }
           ]
         },
         {
-          "y": 342,
+          "y": 342.3,
           "text": "and features the Arc de Triomphe and the Château d'Eau, a beautiful water tower.",
           "bbox": [
             108.00001525878906,
@@ -8880,7 +8638,7 @@
           ]
         },
         {
-          "y": 367,
+          "y": 367.4,
           "text": "Musée Fabre: One of the most important art museums in France, the Musée Fabre",
           "bbox": [
             108.0,
@@ -8914,13 +8672,13 @@
           ]
         },
         {
-          "y": 369,
+          "y": 369.1,
           "text": "•",
           "bbox": [
             90.0,
-            368.7192077636719,
-            97.40477752685547,
-            382.3965148925781
+            369.0699157714844,
+            94.60919952392578,
+            381.34442138671875
           ],
           "spans": [
             {
@@ -8944,33 +8702,11 @@
                 94.60919952392578,
                 381.34442138671875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                379.1400146484375
-              ],
-              "bbox": [
-                94.61921691894531,
-                368.7192077636719,
-                97.40477752685547,
-                382.3965148925781
-              ]
             }
           ]
         },
         {
-          "y": 385,
+          "y": 384.5,
           "text": "houses an extensive collection of European paintings, sculptures, and decorative arts.",
           "bbox": [
             108.0,
@@ -9004,7 +8740,7 @@
           ]
         },
         {
-          "y": 410,
+          "y": 409.6,
           "text": "Student Life",
           "bbox": [
             71.99996948242188,
@@ -9038,7 +8774,7 @@
           ]
         },
         {
-          "y": 435,
+          "y": 434.7,
           "text": "University Influence: Highlight the vibrant student life and the influence of the",
           "bbox": [
             108.0,
@@ -9072,13 +8808,13 @@
           ]
         },
         {
-          "y": 436,
+          "y": 436.4,
           "text": "•",
           "bbox": [
             90.0,
-            436.0391845703125,
-            97.40477752685547,
-            449.71649169921875
+            436.389892578125,
+            94.60919952392578,
+            448.6643981933594
           ],
           "spans": [
             {
@@ -9102,33 +8838,11 @@
                 94.60919952392578,
                 448.6643981933594
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                446.4599914550781
-              ],
-              "bbox": [
-                94.61921691894531,
-                436.0391845703125,
-                97.40477752685547,
-                449.71649169921875
-              ]
             }
           ]
         },
         {
-          "y": 452,
+          "y": 451.8,
           "text": "university on the city's culture.",
           "bbox": [
             108.0,
@@ -9162,7 +8876,7 @@
           ]
         },
         {
-          "y": 477,
+          "y": 476.9,
           "text": "Modern Architecture: Mention modern architectural landmarks like the Antigone",
           "bbox": [
             108.0,
@@ -9196,7 +8910,7 @@
           ]
         },
         {
-          "y": 479,
+          "y": 478.6,
           "text": "•",
           "bbox": [
             90.0,
@@ -9230,7 +8944,7 @@
           ]
         },
         {
-          "y": 494,
+          "y": 494.0,
           "text": "district or the Pierresvives building.",
           "bbox": [
             108.0,
@@ -9264,7 +8978,7 @@
           ]
         },
         {
-          "y": 519,
+          "y": 519.1,
           "text": "Cultural Highlights",
           "bbox": [
             72.0,
@@ -9298,7 +9012,7 @@
           ]
         },
         {
-          "y": 544,
+          "y": 544.2,
           "text": "Montpellier is renowned for its vibrant cultural scene, with numerous theaters, music venues,",
           "bbox": [
             72.0,
@@ -9332,7 +9046,7 @@
           ]
         },
         {
-          "y": 561,
+          "y": 561.3,
           "text": "and festivals. The city hosts the Montpellier Dance Festival, which attracts contemporary",
           "bbox": [
             72.0,
@@ -9366,7 +9080,7 @@
           ]
         },
         {
-          "y": 578,
+          "y": 578.4,
           "text": "dance companies from around the world. Montpellier's cuisine is also notable, with local",
           "bbox": [
             72.0,
@@ -9400,7 +9114,7 @@
           ]
         },
         {
-          "y": 595,
+          "y": 595.5,
           "text": "specialties such as tielle (a savory pie filled with octopus) and wines from the surrounding",
           "bbox": [
             72.0,
@@ -9434,7 +9148,7 @@
           ]
         },
         {
-          "y": 613,
+          "y": 612.6,
           "text": "vineyards.",
           "bbox": [
             72.0,
@@ -9475,7 +9189,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Perpignan: A Blend of French and Catalan Cultures",
           "bbox": [
             72.0,
@@ -9509,7 +9223,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "History",
           "bbox": [
             72.0,
@@ -9543,7 +9257,7 @@
           ]
         },
         {
-          "y": 122,
+          "y": 122.2,
           "text": "Perpignan, located near the Spanish border, has a unique blend of French and Catalan",
           "bbox": [
             72.0,
@@ -9577,7 +9291,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 139.3,
           "text": "influences. The city was once the capital of the Kingdom of Majorca and has a rich history",
           "bbox": [
             72.0,
@@ -9611,7 +9325,7 @@
           ]
         },
         {
-          "y": 156,
+          "y": 156.4,
           "text": "reflected in its architecture and culture. Perpignan's strategic location has made it a",
           "bbox": [
             72.0,
@@ -9645,7 +9359,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "crossroads of cultures and traditions.",
           "bbox": [
             72.0,
@@ -9679,7 +9393,7 @@
           ]
         },
         {
-          "y": 199,
+          "y": 198.6,
           "text": "Key Attractions",
           "bbox": [
             72.0,
@@ -9713,7 +9427,7 @@
           ]
         },
         {
-          "y": 224,
+          "y": 223.7,
           "text": "Palace of the Kings of Majorca: This impressive fortress, built in the 13th century, was",
           "bbox": [
             108.0,
@@ -9747,13 +9461,13 @@
           ]
         },
         {
-          "y": 225,
+          "y": 225.4,
           "text": "•",
           "bbox": [
             90.0,
-            225.01919555664062,
-            97.40477752685547,
-            238.69650268554688
+            225.36990356445312,
+            94.60919952392578,
+            237.6444091796875
           ],
           "spans": [
             {
@@ -9777,33 +9491,11 @@
                 94.60919952392578,
                 237.6444091796875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                235.44000244140625
-              ],
-              "bbox": [
-                94.61921691894531,
-                225.01919555664062,
-                97.40477752685547,
-                238.69650268554688
-              ]
             }
           ]
         },
         {
-          "y": 241,
+          "y": 240.8,
           "text": "the residence of the Kings of Majorca. It oﬀers panoramic views of the city and the",
           "bbox": [
             108.0,
@@ -9837,7 +9529,7 @@
           ]
         },
         {
-          "y": 258,
+          "y": 257.9,
           "text": "surrounding countryside.",
           "bbox": [
             108.0,
@@ -9871,7 +9563,7 @@
           ]
         },
         {
-          "y": 283,
+          "y": 283.0,
           "text": "Perpignan Cathedral: Also known as the Cathedral of Saint John the Baptist, this",
           "bbox": [
             108.0,
@@ -9905,7 +9597,7 @@
           ]
         },
         {
-          "y": 285,
+          "y": 284.7,
           "text": "•",
           "bbox": [
             90.0,
@@ -9939,7 +9631,7 @@
           ]
         },
         {
-          "y": 300,
+          "y": 300.1,
           "text": "Gothic cathedral was built in the 14th century and features a beautiful cloister and bell",
           "bbox": [
             108.0,
@@ -9973,7 +9665,7 @@
           ]
         },
         {
-          "y": 317,
+          "y": 317.2,
           "text": "tower.",
           "bbox": [
             108.0,
@@ -10007,7 +9699,7 @@
           ]
         },
         {
-          "y": 342,
+          "y": 342.3,
           "text": "Castillet: This iconic red-brick gatehouse, built in the 14th century, is a symbol of",
           "bbox": [
             108.0,
@@ -10041,13 +9733,13 @@
           ]
         },
         {
-          "y": 344,
+          "y": 344.0,
           "text": "•",
           "bbox": [
             90.0,
-            343.6391906738281,
-            97.40477752685547,
-            357.3164978027344
+            343.9898986816406,
+            94.60919952392578,
+            356.264404296875
           ],
           "spans": [
             {
@@ -10071,33 +9763,11 @@
                 94.60919952392578,
                 356.264404296875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                354.05999755859375
-              ],
-              "bbox": [
-                94.61921691894531,
-                343.6391906738281,
-                97.40477752685547,
-                357.3164978027344
-              ]
             }
           ]
         },
         {
-          "y": 359,
+          "y": 359.4,
           "text": "Perpignan. It now houses the Casa Pairal Museum, which showcases the history and",
           "bbox": [
             108.0,
@@ -10131,7 +9801,7 @@
           ]
         },
         {
-          "y": 377,
+          "y": 376.5,
           "text": "culture of the region.",
           "bbox": [
             108.0,
@@ -10165,7 +9835,7 @@
           ]
         },
         {
-          "y": 402,
+          "y": 401.6,
           "text": "Loge de Mer: This historic building, originally a maritime trading exchange, dates back",
           "bbox": [
             108.0,
@@ -10199,13 +9869,13 @@
           ]
         },
         {
-          "y": 403,
+          "y": 403.3,
           "text": "•",
           "bbox": [
             90.0,
-            402.919189453125,
-            97.40477752685547,
-            416.59649658203125
+            403.2698974609375,
+            94.60919952392578,
+            415.5444030761719
           ],
           "spans": [
             {
@@ -10229,33 +9899,11 @@
                 94.60919952392578,
                 415.5444030761719
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                413.3399963378906
-              ],
-              "bbox": [
-                94.61921691894531,
-                402.919189453125,
-                97.40477752685547,
-                416.59649658203125
-              ]
             }
           ]
         },
         {
-          "y": 419,
+          "y": 418.7,
           "text": "to the 14th century. It is located in the heart of the old town and is a testament to",
           "bbox": [
             108.0,
@@ -10289,7 +9937,7 @@
           ]
         },
         {
-          "y": 436,
+          "y": 435.8,
           "text": "Perpignan's rich mercantile history.",
           "bbox": [
             108.0,
@@ -10323,7 +9971,7 @@
           ]
         },
         {
-          "y": 461,
+          "y": 460.9,
           "text": "Cultural Fusion",
           "bbox": [
             72.0,
@@ -10357,7 +10005,7 @@
           ]
         },
         {
-          "y": 486,
+          "y": 486.0,
           "text": "Festivals: Emphasize the blend of French and Catalan cultures in the city's festivals,",
           "bbox": [
             108.0,
@@ -10391,7 +10039,7 @@
           ]
         },
         {
-          "y": 488,
+          "y": 487.6,
           "text": "•",
           "bbox": [
             90.0,
@@ -10425,7 +10073,7 @@
           ]
         },
         {
-          "y": 503,
+          "y": 503.1,
           "text": "cuisine, and traditions.",
           "bbox": [
             108.0,
@@ -10459,7 +10107,7 @@
           ]
         },
         {
-          "y": 528,
+          "y": 528.2,
           "text": "Beaches and Nature: Suggest visiting nearby beaches like Canet-en-Roussillon or",
           "bbox": [
             108.0,
@@ -10493,13 +10141,13 @@
           ]
         },
         {
-          "y": 530,
+          "y": 529.9,
           "text": "•",
           "bbox": [
             90.0,
-            529.5192260742188,
-            97.40477752685547,
-            543.1964721679688
+            529.869873046875,
+            94.60919952392578,
+            542.1444091796875
           ],
           "spans": [
             {
@@ -10523,33 +10171,11 @@
                 94.60919952392578,
                 542.1444091796875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                539.9400024414062
-              ],
-              "bbox": [
-                94.61921691894531,
-                529.5192260742188,
-                97.40477752685547,
-                543.1964721679688
-              ]
             }
           ]
         },
         {
-          "y": 545,
+          "y": 545.3,
           "text": "exploring the Pyrenees mountains.",
           "bbox": [
             108.0,
@@ -10583,7 +10209,7 @@
           ]
         },
         {
-          "y": 570,
+          "y": 570.4,
           "text": "Cultural Highlights",
           "bbox": [
             72.0,
@@ -10617,7 +10243,7 @@
           ]
         },
         {
-          "y": 595,
+          "y": 595.5,
           "text": "Perpignan is known for its vibrant cultural scene, with a strong emphasis on Catalan",
           "bbox": [
             72.0,
@@ -10651,7 +10277,7 @@
           ]
         },
         {
-          "y": 613,
+          "y": 612.6,
           "text": "traditions. The city hosts the Guitares au Palais festival, which celebrates guitar music in",
           "bbox": [
             72.0,
@@ -10685,7 +10311,7 @@
           ]
         },
         {
-          "y": 630,
+          "y": 629.7,
           "text": "various genres. Perpignan's cuisine is also notable, with local specialties such as cargolade",
           "bbox": [
             72.0,
@@ -10719,7 +10345,7 @@
           ]
         },
         {
-          "y": 647,
+          "y": 646.8,
           "text": "(grilled snails) and wines from the Roussillon region.",
           "bbox": [
             72.0,
@@ -10760,7 +10386,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Arles: A Roman Treasure",
           "bbox": [
             72.0,
@@ -10794,7 +10420,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "History",
           "bbox": [
             72.0,
@@ -10828,7 +10454,7 @@
           ]
         },
         {
-          "y": 122,
+          "y": 122.2,
           "text": "Arles, located on the banks of the Rhône River, is renowned for its Roman and Romanesque",
           "bbox": [
             72.0,
@@ -10862,7 +10488,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 139.3,
           "text": "monuments. The city was an important Roman settlement and later became a center of",
           "bbox": [
             72.0,
@@ -10896,7 +10522,7 @@
           ]
         },
         {
-          "y": 156,
+          "y": 156.4,
           "text": "Christian pilgrimage. Arles has a rich artistic heritage, having inspired artists such as Vincent",
           "bbox": [
             72.0,
@@ -10930,7 +10556,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "van Gogh and Pablo Picasso.",
           "bbox": [
             72.0,
@@ -10964,7 +10590,7 @@
           ]
         },
         {
-          "y": 199,
+          "y": 198.6,
           "text": "Key Attractions",
           "bbox": [
             72.0,
@@ -10998,7 +10624,7 @@
           ]
         },
         {
-          "y": 224,
+          "y": 223.7,
           "text": "Arles Amphitheatre: This Roman amphitheater, built in the 1st century AD, is still used",
           "bbox": [
             108.0,
@@ -11032,13 +10658,13 @@
           ]
         },
         {
-          "y": 225,
+          "y": 225.4,
           "text": "•",
           "bbox": [
             90.0,
-            225.01919555664062,
-            97.40477752685547,
-            238.69650268554688
+            225.36990356445312,
+            94.60919952392578,
+            237.6444091796875
           ],
           "spans": [
             {
@@ -11062,33 +10688,11 @@
                 94.60919952392578,
                 237.6444091796875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                235.44000244140625
-              ],
-              "bbox": [
-                94.61921691894531,
-                225.01919555664062,
-                97.40477752685547,
-                238.69650268554688
-              ]
             }
           ]
         },
         {
-          "y": 241,
+          "y": 240.8,
           "text": "for events such as bullfights and concerts. It is one of the best-preserved Roman",
           "bbox": [
             108.0,
@@ -11122,7 +10726,7 @@
           ]
         },
         {
-          "y": 258,
+          "y": 257.9,
           "text": "structures in France.",
           "bbox": [
             108.0,
@@ -11156,7 +10760,7 @@
           ]
         },
         {
-          "y": 283,
+          "y": 283.0,
           "text": "Church of St. Trophime: This Romanesque church, built in the 12th century, is known",
           "bbox": [
             108.0,
@@ -11190,7 +10794,7 @@
           ]
         },
         {
-          "y": 285,
+          "y": 284.7,
           "text": "•",
           "bbox": [
             90.0,
@@ -11224,7 +10828,7 @@
           ]
         },
         {
-          "y": 300,
+          "y": 300.1,
           "text": "for its stunning portal and cloister. It was an important stop on the pilgrimage route to",
           "bbox": [
             108.0,
@@ -11258,7 +10862,7 @@
           ]
         },
         {
-          "y": 317,
+          "y": 317.2,
           "text": "Santiago de Compostela.",
           "bbox": [
             108.0,
@@ -11292,7 +10896,7 @@
           ]
         },
         {
-          "y": 342,
+          "y": 342.3,
           "text": "Alyscamps: This ancient Roman necropolis, located just outside the city walls, was a",
           "bbox": [
             108.0,
@@ -11326,13 +10930,13 @@
           ]
         },
         {
-          "y": 344,
+          "y": 344.0,
           "text": "•",
           "bbox": [
             90.0,
-            343.6391906738281,
-            97.40477752685547,
-            357.3164978027344
+            343.9898986816406,
+            94.60919952392578,
+            356.264404296875
           ],
           "spans": [
             {
@@ -11356,33 +10960,11 @@
                 94.60919952392578,
                 356.264404296875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                354.05999755859375
-              ],
-              "bbox": [
-                94.61921691894531,
-                343.6391906738281,
-                97.40477752685547,
-                357.3164978027344
-              ]
             }
           ]
         },
         {
-          "y": 359,
+          "y": 359.4,
           "text": "major burial site in antiquity. It features a long avenue lined with sarcophagi.",
           "bbox": [
             108.0,
@@ -11416,7 +10998,7 @@
           ]
         },
         {
-          "y": 385,
+          "y": 384.5,
           "text": "Thermes de Constantin: These Roman baths, built in the 4th century AD, are a",
           "bbox": [
             108.0,
@@ -11450,13 +11032,13 @@
           ]
         },
         {
-          "y": 386,
+          "y": 386.2,
           "text": "•",
           "bbox": [
             90.0,
-            385.8191833496094,
-            97.40477752685547,
-            399.4964904785156
+            386.1698913574219,
+            94.60919952392578,
+            398.44439697265625
           ],
           "spans": [
             {
@@ -11480,33 +11062,11 @@
                 94.60919952392578,
                 398.44439697265625
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                396.239990234375
-              ],
-              "bbox": [
-                94.61921691894531,
-                385.8191833496094,
-                97.40477752685547,
-                399.4964904785156
-              ]
             }
           ]
         },
         {
-          "y": 402,
+          "y": 401.6,
           "text": "testament to the city's importance during the Roman period.",
           "bbox": [
             108.0,
@@ -11540,7 +11100,7 @@
           ]
         },
         {
-          "y": 427,
+          "y": 426.7,
           "text": "Artistic Influence",
           "bbox": [
             72.0,
@@ -11574,7 +11134,7 @@
           ]
         },
         {
-          "y": 452,
+          "y": 451.8,
           "text": "Vincent van Gogh: Include a section on Vincent van Gogh's time in Arles and the",
           "bbox": [
             108.0,
@@ -11608,13 +11168,13 @@
           ]
         },
         {
-          "y": 453,
+          "y": 453.5,
           "text": "•",
           "bbox": [
             90.0,
-            453.1391906738281,
-            97.40477752685547,
-            466.8164978027344
+            453.4898986816406,
+            94.60919952392578,
+            465.764404296875
           ],
           "spans": [
             {
@@ -11638,33 +11198,11 @@
                 94.60919952392578,
                 465.764404296875
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                463.55999755859375
-              ],
-              "bbox": [
-                94.61921691894531,
-                453.1391906738281,
-                97.40477752685547,
-                466.8164978027344
-              ]
             }
           ]
         },
         {
-          "y": 469,
+          "y": 468.9,
           "text": "locations that inspired his paintings.",
           "bbox": [
             108.0,
@@ -11698,7 +11236,7 @@
           ]
         },
         {
-          "y": 494,
+          "y": 494.0,
           "text": "Photography: Recommend visiting during the Rencontres d'Arles photography festival",
           "bbox": [
             108.0,
@@ -11732,7 +11270,7 @@
           ]
         },
         {
-          "y": 496,
+          "y": 495.7,
           "text": "•",
           "bbox": [
             90.0,
@@ -11766,7 +11304,7 @@
           ]
         },
         {
-          "y": 511,
+          "y": 511.1,
           "text": "for a unique cultural experience.",
           "bbox": [
             108.0,
@@ -11800,7 +11338,7 @@
           ]
         },
         {
-          "y": 536,
+          "y": 536.2,
           "text": "Cultural Highlights",
           "bbox": [
             72.0,
@@ -11834,7 +11372,7 @@
           ]
         },
         {
-          "y": 561,
+          "y": 561.3,
           "text": "Arles is known for its vibrant arts scene, with numerous galleries, theaters, and festivals. The",
           "bbox": [
             72.0,
@@ -11868,7 +11406,7 @@
           ]
         },
         {
-          "y": 578,
+          "y": 578.4,
           "text": "city hosts the Rencontres d'Arles, an international photography festival that attracts artists",
           "bbox": [
             72.0,
@@ -11902,7 +11440,7 @@
           ]
         },
         {
-          "y": 595,
+          "y": 595.5,
           "text": "and photographers from around the world. Arles' cuisine is also notable, with local specialties",
           "bbox": [
             72.0,
@@ -11936,7 +11474,7 @@
           ]
         },
         {
-          "y": 613,
+          "y": 612.6,
           "text": "such as bull meat stew and wines from the surrounding vineyards.",
           "bbox": [
             72.0,
@@ -11977,7 +11515,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Carcassonne: A Medieval Fortress",
           "bbox": [
             72.0,
@@ -12011,7 +11549,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "History",
           "bbox": [
             72.0,
@@ -12045,7 +11583,7 @@
           ]
         },
         {
-          "y": 122,
+          "y": 122.2,
           "text": "Carcassonne is a fortified city in the Languedoc region, known for its well-preserved medieval",
           "bbox": [
             72.0,
@@ -12079,7 +11617,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 139.3,
           "text": "architecture. The city's history dates back to the Roman period, but it is best known for its",
           "bbox": [
             72.0,
@@ -12113,7 +11651,7 @@
           ]
         },
         {
-          "y": 156,
+          "y": 156.4,
           "text": "role in the medieval period as a stronghold during the Albigensian Crusade. Carcassonne's",
           "bbox": [
             72.00003051757812,
@@ -12147,7 +11685,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "double-walled fortifications and 52 towers make it one of the most impressive examples of",
           "bbox": [
             72.00003051757812,
@@ -12181,7 +11719,7 @@
           ]
         },
         {
-          "y": 191,
+          "y": 190.6,
           "text": "medieval architecture in Europe.",
           "bbox": [
             72.00003814697266,
@@ -12215,7 +11753,7 @@
           ]
         },
         {
-          "y": 216,
+          "y": 215.7,
           "text": "Key Attractions",
           "bbox": [
             72.00004577636719,
@@ -12249,7 +11787,7 @@
           ]
         },
         {
-          "y": 241,
+          "y": 240.8,
           "text": "Cité de Carcassonne: This medieval fortress is a UNESCO World Heritage site and one",
           "bbox": [
             108.0,
@@ -12283,13 +11821,13 @@
           ]
         },
         {
-          "y": 242,
+          "y": 242.5,
           "text": "•",
           "bbox": [
             90.0,
-            242.11917114257812,
-            97.40477752685547,
-            255.79647827148438
+            242.46987915039062,
+            94.60919952392578,
+            254.744384765625
           ],
           "spans": [
             {
@@ -12313,33 +11851,11 @@
                 94.60919952392578,
                 254.744384765625
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                252.53997802734375
-              ],
-              "bbox": [
-                94.61921691894531,
-                242.11917114257812,
-                97.40477752685547,
-                255.79647827148438
-              ]
             }
           ]
         },
         {
-          "y": 258,
+          "y": 257.9,
           "text": "of the most impressive examples of medieval architecture in Europe. It features double",
           "bbox": [
             108.0,
@@ -12373,7 +11889,7 @@
           ]
         },
         {
-          "y": 275,
+          "y": 275.0,
           "text": "walls, 52 towers, and a castle.",
           "bbox": [
             108.0,
@@ -12407,7 +11923,7 @@
           ]
         },
         {
-          "y": 300,
+          "y": 300.1,
           "text": "Basilica of Saints Nazarius and Celsus: This Gothic-Romanesque basilica, located",
           "bbox": [
             108.0,
@@ -12441,7 +11957,7 @@
           ]
         },
         {
-          "y": 302,
+          "y": 301.8,
           "text": "•",
           "bbox": [
             90.0,
@@ -12475,7 +11991,7 @@
           ]
         },
         {
-          "y": 317,
+          "y": 317.2,
           "text": "within the fortress, dates back to the 11th century. It is known for its beautiful stained",
           "bbox": [
             108.00001525878906,
@@ -12509,7 +12025,7 @@
           ]
         },
         {
-          "y": 334,
+          "y": 334.3,
           "text": "glass windows.",
           "bbox": [
             108.00001525878906,
@@ -12543,7 +12059,7 @@
           ]
         },
         {
-          "y": 359,
+          "y": 359.4,
           "text": "Château Comtal: This castle, located within the Cité, oﬀers guided tours that provide",
           "bbox": [
             108.0,
@@ -12577,13 +12093,13 @@
           ]
         },
         {
-          "y": 361,
+          "y": 361.1,
           "text": "•",
           "bbox": [
             90.0,
-            360.73919677734375,
-            97.40477752685547,
-            374.41650390625
+            361.08990478515625,
+            94.60919952392578,
+            373.3644104003906
           ],
           "spans": [
             {
@@ -12607,33 +12123,11 @@
                 94.60919952392578,
                 373.3644104003906
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                371.1600036621094
-              ],
-              "bbox": [
-                94.61921691894531,
-                360.73919677734375,
-                97.40477752685547,
-                374.41650390625
-              ]
             }
           ]
         },
         {
-          "y": 377,
+          "y": 376.5,
           "text": "insight into the history and architecture of Carcassonne.",
           "bbox": [
             108.0,
@@ -12667,7 +12161,7 @@
           ]
         },
         {
-          "y": 402,
+          "y": 401.6,
           "text": "Pont Vieux: This 14th-century bridge connects the medieval Cité with the lower town.",
           "bbox": [
             108.0,
@@ -12701,13 +12195,13 @@
           ]
         },
         {
-          "y": 403,
+          "y": 403.3,
           "text": "•",
           "bbox": [
             90.0,
-            402.919189453125,
-            97.40477752685547,
-            416.59649658203125
+            403.2698974609375,
+            94.60919952392578,
+            415.5444030761719
           ],
           "spans": [
             {
@@ -12731,33 +12225,11 @@
                 94.60919952392578,
                 415.5444030761719
               ]
-            },
-            {
-              "size": 10.020000457763672,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.32499998807907104,
-              "text": " ",
-              "origin": [
-                94.61921691894531,
-                413.3399963378906
-              ],
-              "bbox": [
-                94.61921691894531,
-                402.919189453125,
-                97.40477752685547,
-                416.59649658203125
-              ]
             }
           ]
         },
         {
-          "y": 419,
+          "y": 418.7,
           "text": "It oﬀers stunning views of the fortress and the surrounding countryside.",
           "bbox": [
             108.00001525878906,
@@ -12791,7 +12263,7 @@
           ]
         },
         {
-          "y": 444,
+          "y": 443.8,
           "text": "Medieval Life",
           "bbox": [
             72.0,
@@ -12825,7 +12297,7 @@
           ]
         },
         {
-          "y": 469,
+          "y": 468.9,
           "text": "Reenactments: Provide insights into medieval life in Carcassonne, including",
           "bbox": [
             108.0,
@@ -12859,7 +12331,7 @@
           ]
         },
         {
-          "y": 471,
+          "y": 470.5,
           "text": "•",
           "bbox": [
             90.0,
@@ -12893,7 +12365,7 @@
           ]
         },
         {
-          "y": 486,
+          "y": 486.0,
           "text": "reenactments and historical tours.",
           "bbox": [
             108.0,
@@ -12927,7 +12399,7 @@
           ]
         },
         {
-          "y": 511,
+          "y": 511.1,
           "text": "Surrounding Area: Suggest exploring the surrounding Languedoc region, known for its",
           "bbox": [
             108.0,
@@ -12961,7 +12433,7 @@
           ]
         },
         {
-          "y": 513,
+          "y": 512.8,
           "text": "•",
           "bbox": [
             90.0,
@@ -12995,7 +12467,7 @@
           ]
         },
         {
-          "y": 528,
+          "y": 528.2,
           "text": "vineyards and picturesque villages.",
           "bbox": [
             108.0,
@@ -13029,7 +12501,7 @@
           ]
         },
         {
-          "y": 553,
+          "y": 553.3,
           "text": "Cultural Highlights",
           "bbox": [
             72.0,
@@ -13063,7 +12535,7 @@
           ]
         },
         {
-          "y": 578,
+          "y": 578.4,
           "text": "Carcassonne is known for its vibrant cultural scene, with numerous festivals and events",
           "bbox": [
             72.0,
@@ -13097,7 +12569,7 @@
           ]
         },
         {
-          "y": 595,
+          "y": 595.5,
           "text": "throughout the year. The city hosts the Festival de Carcassonne, which features music,",
           "bbox": [
             72.0,
@@ -13131,7 +12603,7 @@
           ]
         },
         {
-          "y": 613,
+          "y": 612.6,
           "text": "theater, and dance performances in various historic venues. Carcassonne's cuisine is also",
           "bbox": [
             72.0,
@@ -13165,7 +12637,7 @@
           ]
         },
         {
-          "y": 630,
+          "y": 629.7,
           "text": "notable, with local specialties such as cassoulet (a hearty bean and meat stew) and wines",
           "bbox": [
             72.0,
@@ -13199,7 +12671,7 @@
           ]
         },
         {
-          "y": 647,
+          "y": 646.8,
           "text": "from the surrounding vineyards.",
           "bbox": [
             72.0,
@@ -13240,7 +12712,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "Conclusion",
           "bbox": [
             72.0,
@@ -13274,7 +12746,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 97.2,
           "text": "The South of France is home to a diverse array of cities, each with its own unique history,",
           "bbox": [
             72.0,
@@ -13308,7 +12780,7 @@
           ]
         },
         {
-          "y": 114,
+          "y": 114.3,
           "text": "culture, and attractions. From the ancient Roman ruins of Arles and Nîmes to the medieval",
           "bbox": [
             72.0,
@@ -13342,7 +12814,7 @@
           ]
         },
         {
-          "y": 131,
+          "y": 131.4,
           "text": "fortresses of Carcassonne and Avignon, each city oﬀers a glimpse into the rich heritage of the",
           "bbox": [
             72.0,
@@ -13376,7 +12848,7 @@
           ]
         },
         {
-          "y": 148,
+          "y": 148.5,
           "text": "region. Whether you're exploring the vibrant streets of Marseille, the elegant boulevards of",
           "bbox": [
             72.0,
@@ -13410,7 +12882,7 @@
           ]
         },
         {
-          "y": 166,
+          "y": 165.6,
           "text": "Aix-en-Provence, or the charming squares of Montpellier, you'll find a wealth of historical",
           "bbox": [
             72.0,
@@ -13444,7 +12916,7 @@
           ]
         },
         {
-          "y": 183,
+          "y": 182.6,
           "text": "treasures and cultural experiences waiting to be discovered. Use this guide to plan your",
           "bbox": [
             72.0,
@@ -13478,7 +12950,7 @@
           ]
         },
         {
-          "y": 200,
+          "y": 199.7,
           "text": "journey through the South of France and immerse yourself in the fascinating history and",
           "bbox": [
             72.0,
@@ -13512,7 +12984,7 @@
           ]
         },
         {
-          "y": 217,
+          "y": 216.8,
           "text": "culture of this beautiful region.",
           "bbox": [
             72.0,

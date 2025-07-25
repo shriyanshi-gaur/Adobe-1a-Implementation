@@ -7,7 +7,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 41,
+          "y": 41.4,
           "text": "HEPATITIS A VACCINE",
           "bbox": [
             35.0,
@@ -41,8 +41,8 @@
           ]
         },
         {
-          "y": 107,
-          "text": "W H A T Y O U N E D T O K N O W",
+          "y": 106.9,
+          "text": "W H A T Y O U N E E D T O K N O W",
           "bbox": [
             69.14009857177734,
             106.90132904052734,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 152,
+          "y": 151.6,
           "text": "routine vaccination has been implemented",
           "bbox": [
             325.7086486816406,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 155,
+          "y": 155.0,
           "text": "1",
           "bbox": [
             46.99480056762695,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 156,
+          "y": 156.3,
           "text": "What is hepatitis A?",
           "bbox": [
             72.5,
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "y": 165,
+          "y": 165.4,
           "text": "because of high disease incidence.",
           "bbox": [
             325.7086486816406,
@@ -211,37 +211,15 @@
           ]
         },
         {
-          "y": 186,
-          "text": "Hepatitis A is a serious liver disease caused by the • Men who have sex with men.",
+          "y": 186.0,
+          "text": "• Men who have sex with men.",
           "bbox": [
-            37.0,
+            313.0,
             185.951416015625,
             469.17694091796875,
-            197.819580078125
+            197.451416015625
           ],
           "spans": [
-            {
-              "size": 11.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Aldine721BT-Roman",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.7210000157356262,
-              "descender": -0.17599999904632568,
-              "text": "Hepatitis A is a serious liver disease caused by the",
-              "origin": [
-                37.0,
-                195.56317138671875
-              ],
-              "bbox": [
-                37.0,
-                186.319580078125,
-                283.27362060546875,
-                197.819580078125
-              ]
-            },
             {
               "size": 11.5,
               "flags": 4,
@@ -267,7 +245,41 @@
           ]
         },
         {
-          "y": 200,
+          "y": 186.3,
+          "text": "Hepatitis A is a serious liver disease caused by the",
+          "bbox": [
+            37.0,
+            186.319580078125,
+            283.27362060546875,
+            197.819580078125
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "Hepatitis A is a serious liver disease caused by the",
+              "origin": [
+                37.0,
+                195.56317138671875
+              ],
+              "bbox": [
+                37.0,
+                186.319580078125,
+                283.27362060546875,
+                197.819580078125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 200.1,
           "text": "hepatitis A virus (HAV). HAV is found in the stool",
           "bbox": [
             37.0,
@@ -301,7 +313,7 @@
           ]
         },
         {
-          "y": 207,
+          "y": 206.5,
           "text": "• Persons who use street drugs.",
           "bbox": [
             313.0,
@@ -335,7 +347,7 @@
           ]
         },
         {
-          "y": 214,
+          "y": 213.9,
           "text": "of persons with hepatitis A. It is usually spread by",
           "bbox": [
             37.0,
@@ -369,7 +381,7 @@
           ]
         },
         {
-          "y": 227,
+          "y": 227.1,
           "text": "• Persons with chronic liver disease.",
           "bbox": [
             313.0,
@@ -403,7 +415,7 @@
           ]
         },
         {
-          "y": 228,
+          "y": 227.7,
           "text": "close personal contact and sometimes by eating food",
           "bbox": [
             37.0,
@@ -437,7 +449,7 @@
           ]
         },
         {
-          "y": 242,
+          "y": 241.5,
           "text": "or drinking water containing HAV.",
           "bbox": [
             37.0,
@@ -471,7 +483,7 @@
           ]
         },
         {
-          "y": 248,
+          "y": 247.7,
           "text": "• Persons who are treated with clotting factor",
           "bbox": [
             313.0,
@@ -505,37 +517,15 @@
           ]
         },
         {
-          "y": 262,
-          "text": "Hepatitis A can cause: concentrates.",
+          "y": 261.5,
+          "text": "concentrates.",
           "bbox": [
-            37.0,
+            325.7086486816406,
             261.523681640625,
             390.0005187988281,
-            273.61029052734375
+            273.023681640625
           ],
           "spans": [
-            {
-              "size": 11.5,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "Aldine721BT-Roman",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.7210000157356262,
-              "descender": -0.17599999904632568,
-              "text": "Hepatitis A can cause:",
-              "origin": [
-                37.0,
-                271.3538818359375
-              ],
-              "bbox": [
-                37.0,
-                262.11029052734375,
-                147.0239715576172,
-                273.61029052734375
-              ]
-            },
             {
               "size": 11.5,
               "flags": 4,
@@ -561,7 +551,41 @@
           ]
         },
         {
-          "y": 276,
+          "y": 262.1,
+          "text": "Hepatitis A can cause:",
+          "bbox": [
+            37.0,
+            262.11029052734375,
+            147.0239715576172,
+            273.61029052734375
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Aldine721BT-Roman",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7210000157356262,
+              "descender": -0.17599999904632568,
+              "text": "Hepatitis A can cause:",
+              "origin": [
+                37.0,
+                271.3538818359375
+              ],
+              "bbox": [
+                37.0,
+                262.11029052734375,
+                147.0239715576172,
+                273.61029052734375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 275.9,
           "text": "•mild “flu-like”",
           "bbox": [
             45.472049713134766,
@@ -595,7 +619,7 @@
           ]
         },
         {
-          "y": 282,
+          "y": 282.1,
           "text": "• Persons who work with HAV-infected primates or",
           "bbox": [
             313.0,
@@ -629,7 +653,7 @@
           ]
         },
         {
-          "y": 290,
+          "y": 289.7,
           "text": "illness",
           "bbox": [
             53.94409942626953,
@@ -663,7 +687,7 @@
           ]
         },
         {
-          "y": 296,
+          "y": 295.9,
           "text": "who work with HAV in research laboratories.",
           "bbox": [
             325.7086486816406,
@@ -697,7 +721,7 @@
           ]
         },
         {
-          "y": 304,
+          "y": 303.5,
           "text": "•jaundice (yellow",
           "bbox": [
             45.472049713134766,
@@ -731,7 +755,7 @@
           ]
         },
         {
-          "y": 317,
+          "y": 317.3,
           "text": "skin or eyes)",
           "bbox": [
             53.94409942626953,
@@ -765,7 +789,7 @@
           ]
         },
         {
-          "y": 319,
+          "y": 318.5,
           "text": "Other people might get hepatitis A vaccine in",
           "bbox": [
             313.0,
@@ -799,7 +823,7 @@
           ]
         },
         {
-          "y": 331,
+          "y": 331.1,
           "text": "•severe stomach",
           "bbox": [
             45.472049713134766,
@@ -833,7 +857,7 @@
           ]
         },
         {
-          "y": 332,
+          "y": 332.3,
           "text": "special situations:",
           "bbox": [
             313.0,
@@ -867,7 +891,7 @@
           ]
         },
         {
-          "y": 345,
+          "y": 344.9,
           "text": "pains and diarrhea",
           "bbox": [
             53.94409942626953,
@@ -901,7 +925,7 @@
           ]
         },
         {
-          "y": 353,
+          "y": 352.9,
           "text": "• Hepatitis A vaccine might be recommended for",
           "bbox": [
             313.0,
@@ -935,7 +959,7 @@
           ]
         },
         {
-          "y": 366,
+          "y": 365.5,
           "text": "People with hepatitis A",
           "bbox": [
             37.0,
@@ -969,7 +993,7 @@
           ]
         },
         {
-          "y": 367,
+          "y": 366.7,
           "text": "children or adolescents in communities where",
           "bbox": [
             325.7086486816406,
@@ -1003,7 +1027,7 @@
           ]
         },
         {
-          "y": 379,
+          "y": 379.3,
           "text": "often have to be",
           "bbox": [
             37.0,
@@ -1037,7 +1061,7 @@
           ]
         },
         {
-          "y": 380,
+          "y": 380.5,
           "text": "outbreaks of hepatitis A are occurring.",
           "bbox": [
             325.7086486816406,
@@ -1071,7 +1095,7 @@
           ]
         },
         {
-          "y": 393,
+          "y": 393.1,
           "text": "hospitalized (up to about 1 person in 5).",
           "bbox": [
             37.0,
@@ -1105,7 +1129,7 @@
           ]
         },
         {
-          "y": 401,
+          "y": 401.1,
           "text": "Hepatitis A vaccine is not licensed for children younger",
           "bbox": [
             313.0,
@@ -1139,7 +1163,7 @@
           ]
         },
         {
-          "y": 414,
+          "y": 413.7,
           "text": "Sometimes, people die as a result of hepatitis A",
           "bbox": [
             37.0,
@@ -1173,7 +1197,7 @@
           ]
         },
         {
-          "y": 415,
+          "y": 414.9,
           "text": "than 1 year of age.",
           "bbox": [
             313.0,
@@ -1207,7 +1231,7 @@
           ]
         },
         {
-          "y": 427,
+          "y": 427.5,
           "text": "(about 3-5 deaths per 1,000 cases).",
           "bbox": [
             37.0,
@@ -1241,7 +1265,7 @@
           ]
         },
         {
-          "y": 436,
+          "y": 436.5,
           "text": "WHEN?",
           "bbox": [
             313.0,
@@ -1275,7 +1299,7 @@
           ]
         },
         {
-          "y": 448,
+          "y": 448.1,
           "text": "A person who has hepatitis A can easily pass the",
           "bbox": [
             37.0,
@@ -1309,7 +1333,7 @@
           ]
         },
         {
-          "y": 457,
+          "y": 457.1,
           "text": "For children, the first dose should be given at 12-23",
           "bbox": [
             313.0,
@@ -1343,7 +1367,7 @@
           ]
         },
         {
-          "y": 462,
+          "y": 461.9,
           "text": "disease to others within the same household.",
           "bbox": [
             37.0,
@@ -1377,7 +1401,7 @@
           ]
         },
         {
-          "y": 471,
+          "y": 470.9,
           "text": "months of age. Children who are not vaccinated by 2",
           "bbox": [
             313.0,
@@ -1411,7 +1435,7 @@
           ]
         },
         {
-          "y": 483,
+          "y": 483.5,
           "text": "Hepatitis A vaccine can prevent hepatitis A.",
           "bbox": [
             37.0,
@@ -1445,7 +1469,7 @@
           ]
         },
         {
-          "y": 485,
+          "y": 484.7,
           "text": "years of age can be vaccinated at later visits.",
           "bbox": [
             313.0,
@@ -1479,7 +1503,7 @@
           ]
         },
         {
-          "y": 505,
+          "y": 505.3,
           "text": "For travelers, the vaccine series should be started at",
           "bbox": [
             313.0,
@@ -1513,7 +1537,7 @@
           ]
         },
         {
-          "y": 508,
+          "y": 508.3,
           "text": "Who should get hepatitis A",
           "bbox": [
             72.5,
@@ -1547,7 +1571,7 @@
           ]
         },
         {
-          "y": 513,
+          "y": 513.1,
           "text": "2",
           "bbox": [
             46.99480056762695,
@@ -1581,7 +1605,7 @@
           ]
         },
         {
-          "y": 519,
+          "y": 519.1,
           "text": "least one month before traveling to provide the best",
           "bbox": [
             313.0,
@@ -1615,7 +1639,7 @@
           ]
         },
         {
-          "y": 522,
+          "y": 522.3,
           "text": "vaccine and when?",
           "bbox": [
             72.5,
@@ -1649,7 +1673,7 @@
           ]
         },
         {
-          "y": 533,
+          "y": 532.9,
           "text": "protection.",
           "bbox": [
             313.0,
@@ -1683,7 +1707,7 @@
           ]
         },
         {
-          "y": 545,
+          "y": 544.9,
           "text": "WHO?",
           "bbox": [
             37.0,
@@ -1717,7 +1741,7 @@
           ]
         },
         {
-          "y": 553,
+          "y": 553.1,
           "text": "Persons who get the vaccine less than one",
           "bbox": [
             338.0423889160156,
@@ -1751,7 +1775,7 @@
           ]
         },
         {
-          "y": 565,
+          "y": 565.5,
           "text": "Some people should be routinely vaccinated with",
           "bbox": [
             37.0,
@@ -1785,7 +1809,7 @@
           ]
         },
         {
-          "y": 567,
+          "y": 566.9,
           "text": "month before traveling can also get a shot",
           "bbox": [
             338.0423889160156,
@@ -1819,7 +1843,7 @@
           ]
         },
         {
-          "y": 579,
+          "y": 579.3,
           "text": "hepatitis A vaccine:",
           "bbox": [
             37.0,
@@ -1853,7 +1877,7 @@
           ]
         },
         {
-          "y": 581,
+          "y": 580.7,
           "text": "called immune globulin (IG). IG gives",
           "bbox": [
             338.0423889160156,
@@ -1887,7 +1911,7 @@
           ]
         },
         {
-          "y": 595,
+          "y": 594.5,
           "text": "immediate, temporary protection.",
           "bbox": [
             338.0423889160156,
@@ -1921,7 +1945,7 @@
           ]
         },
         {
-          "y": 603,
+          "y": 603.3,
           "text": "• All children 1 year (12 through 23 months) of",
           "bbox": [
             37.0,
@@ -1955,7 +1979,7 @@
           ]
         },
         {
-          "y": 616,
+          "y": 615.7,
           "text": "For others, the hepatitis A vaccine series may be",
           "bbox": [
             313.0,
@@ -1989,7 +2013,7 @@
           ]
         },
         {
-          "y": 617,
+          "y": 617.3,
           "text": "age.",
           "bbox": [
             49.708648681640625,
@@ -2023,7 +2047,7 @@
           ]
         },
         {
-          "y": 629,
+          "y": 629.5,
           "text": "started whenever a person is at risk of infection.",
           "bbox": [
             313.0,
@@ -2057,7 +2081,7 @@
           ]
         },
         {
-          "y": 641,
+          "y": 641.3,
           "text": "• Persons 1 year of age and older traveling to or",
           "bbox": [
             37.0,
@@ -2091,37 +2115,15 @@
           ]
         },
         {
-          "y": 651,
-          "text": "Two doses of the vaccine are needed for lasting",
+          "y": 651.0,
+          "text": "of the vaccine are needed for lasting",
           "bbox": [
-            313.0,
+            369.1659851074219,
             651.0481567382812,
             545.9002075195312,
-            662.560791015625
+            662.5481567382812
           ],
           "spans": [
-            {
-              "size": 11.5,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Aldine721BT-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.7160000205039978,
-              "descender": -0.17599999904632568,
-              "text": "Two doses ",
-              "origin": [
-                313.0,
-                660.291748046875
-              ],
-              "bbox": [
-                313.0,
-                651.060791015625,
-                368.879638671875,
-                662.560791015625
-              ]
-            },
             {
               "size": 11.5,
               "flags": 4,
@@ -2147,7 +2149,41 @@
           ]
         },
         {
-          "y": 655,
+          "y": 651.1,
+          "text": "Two doses",
+          "bbox": [
+            313.0,
+            651.060791015625,
+            368.879638671875,
+            662.560791015625
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "Two doses ",
+              "origin": [
+                313.0,
+                660.291748046875
+              ],
+              "bbox": [
+                313.0,
+                651.060791015625,
+                368.879638671875,
+                662.560791015625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 655.3,
           "text": "working in countries with high or intermediate",
           "bbox": [
             49.708648681640625,
@@ -2181,7 +2217,7 @@
           ]
         },
         {
-          "y": 665,
+          "y": 664.8,
           "text": "protection. These doses should be given at least 6",
           "bbox": [
             313.0,
@@ -2215,7 +2251,7 @@
           ]
         },
         {
-          "y": 669,
+          "y": 669.3,
           "text": "prevalence of hepatitis A, such as those located in",
           "bbox": [
             49.708648681640625,
@@ -2249,7 +2285,7 @@
           ]
         },
         {
-          "y": 679,
+          "y": 678.6,
           "text": "months apart.",
           "bbox": [
             313.0,
@@ -2283,7 +2319,7 @@
           ]
         },
         {
-          "y": 683,
+          "y": 683.3,
           "text": "Central or South America, Mexico, Asia (except",
           "bbox": [
             49.708648681640625,
@@ -2317,7 +2353,7 @@
           ]
         },
         {
-          "y": 697,
+          "y": 697.3,
           "text": "Japan), Africa, and eastern Europe. For more",
           "bbox": [
             49.708648681640625,
@@ -2351,7 +2387,7 @@
           ]
         },
         {
-          "y": 700,
+          "y": 700.2,
           "text": "Hepatitis A vaccine may be given at the same time as",
           "bbox": [
             313.0,
@@ -2385,7 +2421,7 @@
           ]
         },
         {
-          "y": 711,
+          "y": 711.3,
           "text": "information see www.cdc.gov/travel .",
           "bbox": [
             49.708648681640625,
@@ -2463,7 +2499,7 @@
           ]
         },
         {
-          "y": 714,
+          "y": 714.0,
           "text": "other vaccines.",
           "bbox": [
             313.0,
@@ -2497,7 +2533,7 @@
           ]
         },
         {
-          "y": 732,
+          "y": 732.0,
           "text": "• Children and adolescents through 18 years of",
           "bbox": [
             37.0,
@@ -2531,7 +2567,7 @@
           ]
         },
         {
-          "y": 739,
+          "y": 739.4,
           "text": "Hepatitis A 3/21/06",
           "bbox": [
             325.30419921875,
@@ -2587,7 +2623,7 @@
           ]
         },
         {
-          "y": 746,
+          "y": 745.8,
           "text": "age who live in states or communities where",
           "bbox": [
             49.708648681640625,
@@ -2628,7 +2664,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 40,
+          "y": 40.5,
           "text": "Some people should not get",
           "bbox": [
             72.5,
@@ -2662,7 +2698,7 @@
           ]
         },
         {
-          "y": 41,
+          "y": 40.9,
           "text": "What if there is a moderate or",
           "bbox": [
             348.5,
@@ -2696,7 +2732,7 @@
           ]
         },
         {
-          "y": 46,
+          "y": 45.6,
           "text": "5",
           "bbox": [
             322.99481201171875,
@@ -2730,7 +2766,7 @@
           ]
         },
         {
-          "y": 52,
+          "y": 52.2,
           "text": "3",
           "bbox": [
             46.99480056762695,
@@ -2764,7 +2800,7 @@
           ]
         },
         {
-          "y": 54,
+          "y": 54.5,
           "text": "hepatitis A vaccine or should",
           "bbox": [
             72.5,
@@ -2798,7 +2834,7 @@
           ]
         },
         {
-          "y": 55,
+          "y": 54.9,
           "text": "severe reaction?",
           "bbox": [
             348.5,
@@ -2832,7 +2868,7 @@
           ]
         },
         {
-          "y": 68,
+          "y": 68.5,
           "text": "wait",
           "bbox": [
             72.5,
@@ -2866,7 +2902,7 @@
           ]
         },
         {
-          "y": 78,
+          "y": 78.1,
           "text": "What should I look for?",
           "bbox": [
             313.0,
@@ -2900,7 +2936,7 @@
           ]
         },
         {
-          "y": 90,
+          "y": 89.7,
           "text": "• Anyone who has ever had a severe (life-",
           "bbox": [
             37.0,
@@ -2934,7 +2970,7 @@
           ]
         },
         {
-          "y": 92,
+          "y": 91.6,
           "text": "• Any unusual condition, such as a high fever or",
           "bbox": [
             313.0,
@@ -2968,7 +3004,7 @@
           ]
         },
         {
-          "y": 103,
+          "y": 103.5,
           "text": "threatening) allergic reaction to a previous dose",
           "bbox": [
             49.708648681640625,
@@ -3024,7 +3060,7 @@
           ]
         },
         {
-          "y": 105,
+          "y": 105.4,
           "text": "behavior changes. Signs of a serious allergic",
           "bbox": [
             321.9999084472656,
@@ -3058,7 +3094,7 @@
           ]
         },
         {
-          "y": 117,
+          "y": 117.3,
           "text": "of hepatitis A vaccine should not get another dose.",
           "bbox": [
             49.708648681640625,
@@ -3092,7 +3128,7 @@
           ]
         },
         {
-          "y": 119,
+          "y": 119.2,
           "text": "reaction can include difficulty breathing, hoarse-",
           "bbox": [
             321.9999084472656,
@@ -3126,7 +3162,7 @@
           ]
         },
         {
-          "y": 133,
+          "y": 133.0,
           "text": "ness or wheezing, hives, paleness, weakness, a fast",
           "bbox": [
             321.9999084472656,
@@ -3160,7 +3196,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 138.9,
           "text": "• Anyone who has a severe (life threatening) allergy",
           "bbox": [
             37.0,
@@ -3216,7 +3252,7 @@
           ]
         },
         {
-          "y": 147,
+          "y": 146.8,
           "text": "heart beat or dizziness.",
           "bbox": [
             321.9999084472656,
@@ -3250,7 +3286,7 @@
           ]
         },
         {
-          "y": 153,
+          "y": 152.7,
           "text": "to any vaccine component should not get the",
           "bbox": [
             49.708648681640625,
@@ -3306,7 +3342,7 @@
           ]
         },
         {
-          "y": 166,
+          "y": 166.5,
           "text": "vaccine. Tell your doctor if you have anysevere",
           "bbox": [
             49.708648681640625,
@@ -3340,7 +3376,7 @@
           ]
         },
         {
-          "y": 170,
+          "y": 169.7,
           "text": "What should I do?",
           "bbox": [
             313.0,
@@ -3374,7 +3410,7 @@
           ]
         },
         {
-          "y": 180,
+          "y": 180.3,
           "text": "allergies. All hepatitis A vaccines contain alum",
           "bbox": [
             49.708648681640625,
@@ -3408,13 +3444,13 @@
           ]
         },
         {
-          "y": 183,
-          "text": "• Call a doctor, or get the person to a doctor right",
+          "y": 183.2,
+          "text": "• a doctor, or get the person to a doctor right",
           "bbox": [
             313.0,
             183.2486572265625,
             560.381103515625,
-            194.7613067626953
+            194.7486572265625
           ],
           "spans": [
             {
@@ -3437,28 +3473,6 @@
                 183.2486572265625,
                 319.7850036621094,
                 194.7486572265625
-              ]
-            },
-            {
-              "size": 11.5,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Aldine721BT-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.7160000205039978,
-              "descender": -0.17599999904632568,
-              "text": " Call",
-              "origin": [
-                319.7850036621094,
-                192.49224853515625
-              ],
-              "bbox": [
-                319.7850036621094,
-                183.2613067626953,
-                343.064453125,
-                194.7613067626953
               ]
             },
             {
@@ -3486,7 +3500,41 @@
           ]
         },
         {
-          "y": 194,
+          "y": 183.3,
+          "text": "Call",
+          "bbox": [
+            319.7850036621094,
+            183.2613067626953,
+            343.064453125,
+            194.7613067626953
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": " Call",
+              "origin": [
+                319.7850036621094,
+                192.49224853515625
+              ],
+              "bbox": [
+                319.7850036621094,
+                183.2613067626953,
+                343.064453125,
+                194.7613067626953
+              ]
+            }
+          ]
+        },
+        {
+          "y": 194.1,
           "text": "and some hepatitis A vaccines contain",
           "bbox": [
             49.708648681640625,
@@ -3520,7 +3568,7 @@
           ]
         },
         {
-          "y": 197,
+          "y": 197.0,
           "text": "away.",
           "bbox": [
             321.9999084472656,
@@ -3554,7 +3602,7 @@
           ]
         },
         {
-          "y": 208,
+          "y": 207.9,
           "text": "2-phenoxyethanol.",
           "bbox": [
             49.708648681640625,
@@ -3588,13 +3636,13 @@
           ]
         },
         {
-          "y": 215,
-          "text": "• Tell your doctor what happened, the date and time",
+          "y": 214.6,
+          "text": "• your doctor what happened, the date and time",
           "bbox": [
             313.0,
             214.6390380859375,
             574.5525512695312,
-            226.1516876220703
+            226.1390380859375
           ],
           "spans": [
             {
@@ -3617,28 +3665,6 @@
                 214.6390380859375,
                 319.7850036621094,
                 226.1390380859375
-              ]
-            },
-            {
-              "size": 11.5,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Aldine721BT-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.7160000205039978,
-              "descender": -0.17599999904632568,
-              "text": " Tell",
-              "origin": [
-                319.7850036621094,
-                223.88262939453125
-              ],
-              "bbox": [
-                319.7850036621094,
-                214.6516876220703,
-                341.8121032714844,
-                226.1516876220703
               ]
             },
             {
@@ -3666,7 +3692,41 @@
           ]
         },
         {
-          "y": 228,
+          "y": 214.7,
+          "text": "Tell",
+          "bbox": [
+            319.7850036621094,
+            214.6516876220703,
+            341.8121032714844,
+            226.1516876220703
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": " Tell",
+              "origin": [
+                319.7850036621094,
+                223.88262939453125
+              ],
+              "bbox": [
+                319.7850036621094,
+                214.6516876220703,
+                341.8121032714844,
+                226.1516876220703
+              ]
+            }
+          ]
+        },
+        {
+          "y": 228.4,
           "text": "it happened, and when the vaccination was given.",
           "bbox": [
             321.9999084472656,
@@ -3700,7 +3760,7 @@
           ]
         },
         {
-          "y": 229,
+          "y": 229.5,
           "text": "• Anyone who is moderately or severely ill at the",
           "bbox": [
             37.0,
@@ -3778,7 +3838,7 @@
           ]
         },
         {
-          "y": 243,
+          "y": 243.3,
           "text": "time the shot is scheduled should probably wait",
           "bbox": [
             49.70747375488281,
@@ -3812,7 +3872,7 @@
           ]
         },
         {
-          "y": 246,
+          "y": 246.0,
           "text": "• Ask your doctor, nurse, or health department to",
           "bbox": [
             313.0,
@@ -3890,7 +3950,7 @@
           ]
         },
         {
-          "y": 257,
+          "y": 257.1,
           "text": "until they recover. Ask your doctor or nurse.",
           "bbox": [
             49.70747375488281,
@@ -3924,7 +3984,7 @@
           ]
         },
         {
-          "y": 260,
+          "y": 259.8,
           "text": "report the reaction by filing a Vaccine Adverse",
           "bbox": [
             321.9999084472656,
@@ -3958,7 +4018,7 @@
           ]
         },
         {
-          "y": 271,
+          "y": 270.9,
           "text": "People with a mild illness can usually get the",
           "bbox": [
             49.70747375488281,
@@ -4036,7 +4096,7 @@
           ]
         },
         {
-          "y": 274,
+          "y": 273.6,
           "text": "Event Reporting System (VAERS) form.",
           "bbox": [
             321.9999084472656,
@@ -4070,7 +4130,7 @@
           ]
         },
         {
-          "y": 285,
+          "y": 284.7,
           "text": "vaccine.",
           "bbox": [
             49.70747375488281,
@@ -4104,7 +4164,7 @@
           ]
         },
         {
-          "y": 294,
+          "y": 294.2,
           "text": "Or you can file this report through the VAERS",
           "bbox": [
             321.9999084472656,
@@ -4138,13 +4198,13 @@
           ]
         },
         {
-          "y": 306,
-          "text": "• Tell your doctor if you are pregnant . The safety",
+          "y": 306.2,
+          "text": "• Tell your doctor if you are . The safety",
           "bbox": [
             36.99882507324219,
             306.249755859375,
             286.4510803222656,
-            317.76239013671875
+            317.749755859375
           ],
           "spans": [
             {
@@ -4167,28 +4227,6 @@
                 306.249755859375,
                 180.54527282714844,
                 317.749755859375
-              ]
-            },
-            {
-              "size": 11.5,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Aldine721BT-Bold",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.7160000205039978,
-              "descender": -0.17599999904632568,
-              "text": "pregnant",
-              "origin": [
-                180.83853149414062,
-                315.49334716796875
-              ],
-              "bbox": [
-                180.83853149414062,
-                306.26239013671875,
-                226.4394989013672,
-                317.76239013671875
               ]
             },
             {
@@ -4216,7 +4254,41 @@
           ]
         },
         {
-          "y": 308,
+          "y": 306.3,
+          "text": "pregnant",
+          "bbox": [
+            180.83853149414062,
+            306.26239013671875,
+            226.4394989013672,
+            317.76239013671875
+          ],
+          "spans": [
+            {
+              "size": 11.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Aldine721BT-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.7160000205039978,
+              "descender": -0.17599999904632568,
+              "text": "pregnant",
+              "origin": [
+                180.83853149414062,
+                315.49334716796875
+              ],
+              "bbox": [
+                180.83853149414062,
+                306.26239013671875,
+                226.4394989013672,
+                317.76239013671875
+              ]
+            }
+          ]
+        },
+        {
+          "y": 308.0,
           "text": "web site at www.vaers.hhs.gov, or by calling",
           "bbox": [
             321.9999084472656,
@@ -4250,7 +4322,7 @@
           ]
         },
         {
-          "y": 320,
+          "y": 320.0,
           "text": "of hepatitis A vaccine for pregnant women has",
           "bbox": [
             49.707489013671875,
@@ -4284,7 +4356,7 @@
           ]
         },
         {
-          "y": 322,
+          "y": 321.8,
           "text": "1-800-822-7967.",
           "bbox": [
             321.9999084472656,
@@ -4318,7 +4390,7 @@
           ]
         },
         {
-          "y": 334,
+          "y": 333.8,
           "text": "not been determined. But there is no evidence",
           "bbox": [
             49.707489013671875,
@@ -4352,7 +4424,7 @@
           ]
         },
         {
-          "y": 342,
+          "y": 342.4,
           "text": "VAERS does not provide medical advice.",
           "bbox": [
             321.9999084472656,
@@ -4386,7 +4458,7 @@
           ]
         },
         {
-          "y": 348,
+          "y": 347.6,
           "text": "that it is harmful to either pregnant women or",
           "bbox": [
             49.707489013671875,
@@ -4420,7 +4492,7 @@
           ]
         },
         {
-          "y": 361,
+          "y": 361.4,
           "text": "their unborn babies. The risk, if any, is thought",
           "bbox": [
             49.707489013671875,
@@ -4454,7 +4526,7 @@
           ]
         },
         {
-          "y": 368,
+          "y": 368.3,
           "text": "The National Vaccine Injury",
           "bbox": [
             348.5,
@@ -4488,7 +4560,7 @@
           ]
         },
         {
-          "y": 373,
+          "y": 373.1,
           "text": "6",
           "bbox": [
             322.99481201171875,
@@ -4522,7 +4594,7 @@
           ]
         },
         {
-          "y": 375,
+          "y": 375.2,
           "text": "to be very low.",
           "bbox": [
             49.707489013671875,
@@ -4556,7 +4628,7 @@
           ]
         },
         {
-          "y": 382,
+          "y": 382.3,
           "text": "Compensation Program",
           "bbox": [
             348.5,
@@ -4590,7 +4662,7 @@
           ]
         },
         {
-          "y": 402,
+          "y": 402.1,
           "text": "What are the risks from",
           "bbox": [
             72.5,
@@ -4624,7 +4696,7 @@
           ]
         },
         {
-          "y": 403,
+          "y": 403.1,
           "text": "In the event that you or your child has a serious",
           "bbox": [
             313.0,
@@ -4658,7 +4730,7 @@
           ]
         },
         {
-          "y": 407,
+          "y": 406.9,
           "text": "4",
           "bbox": [
             46.99480056762695,
@@ -4692,7 +4764,7 @@
           ]
         },
         {
-          "y": 416,
+          "y": 416.1,
           "text": "hepatitis A vaccine?",
           "bbox": [
             72.5,
@@ -4726,7 +4798,7 @@
           ]
         },
         {
-          "y": 417,
+          "y": 416.9,
           "text": "reaction to a vaccine, a federal program has been",
           "bbox": [
             313.0,
@@ -4760,7 +4832,7 @@
           ]
         },
         {
-          "y": 431,
+          "y": 430.7,
           "text": "created to help pay for the care of those who have",
           "bbox": [
             313.0,
@@ -4794,7 +4866,7 @@
           ]
         },
         {
-          "y": 439,
+          "y": 439.2,
           "text": "A vaccine, like any medicine, could possibly cause",
           "bbox": [
             37.0,
@@ -4828,7 +4900,7 @@
           ]
         },
         {
-          "y": 444,
+          "y": 444.5,
           "text": "been harmed.",
           "bbox": [
             313.0,
@@ -4862,7 +4934,7 @@
           ]
         },
         {
-          "y": 453,
+          "y": 453.0,
           "text": "serious problems, such as severe allergic reactions.",
           "bbox": [
             37.0,
@@ -4896,7 +4968,7 @@
           ]
         },
         {
-          "y": 465,
+          "y": 465.1,
           "text": "For details about the National Vaccine Injury",
           "bbox": [
             313.0,
@@ -4930,7 +5002,7 @@
           ]
         },
         {
-          "y": 467,
+          "y": 466.8,
           "text": "The risk of hepatitis A vaccine causing serious",
           "bbox": [
             37.0,
@@ -4964,7 +5036,7 @@
           ]
         },
         {
-          "y": 479,
+          "y": 478.9,
           "text": "Compensation Program, call 1-800-338-2382 or visit",
           "bbox": [
             313.0,
@@ -4998,7 +5070,7 @@
           ]
         },
         {
-          "y": 481,
+          "y": 480.6,
           "text": "harm, or death, is extremely small.",
           "bbox": [
             37.0,
@@ -5032,7 +5104,7 @@
           ]
         },
         {
-          "y": 493,
+          "y": 492.7,
           "text": "their website at www.hrsa.gov/vaccinecompensation.",
           "bbox": [
             313.0,
@@ -5066,7 +5138,7 @@
           ]
         },
         {
-          "y": 501,
+          "y": 501.2,
           "text": "Getting hepatitis A vaccine is much safer than",
           "bbox": [
             37.0,
@@ -5100,7 +5172,7 @@
           ]
         },
         {
-          "y": 515,
+          "y": 515.0,
           "text": "getting the disease.",
           "bbox": [
             37.0,
@@ -5134,7 +5206,7 @@
           ]
         },
         {
-          "y": 519,
+          "y": 518.9,
           "text": "7",
           "bbox": [
             322.99481201171875,
@@ -5168,7 +5240,7 @@
           ]
         },
         {
-          "y": 520,
+          "y": 520.4,
           "text": "How can I learn more?",
           "bbox": [
             348.5,
@@ -5202,7 +5274,7 @@
           ]
         },
         {
-          "y": 539,
+          "y": 538.6,
           "text": "Mild problems",
           "bbox": [
             37.0,
@@ -5236,7 +5308,7 @@
           ]
         },
         {
-          "y": 544,
+          "y": 543.7,
           "text": "• Ask your doctor or nurse. They can give you the",
           "bbox": [
             313.0,
@@ -5270,7 +5342,7 @@
           ]
         },
         {
-          "y": 558,
+          "y": 557.5,
           "text": "vaccine package insert or suggest other sources of",
           "bbox": [
             321.9999084472656,
@@ -5304,13 +5376,13 @@
           ]
         },
         {
-          "y": 560,
-          "text": "• soreness where the shot was given (about 1 out of 2",
+          "y": 560.3,
+          "text": "• soreness where the shot was given",
           "bbox": [
             37.0,
             560.3394775390625,
-            298.2915344238281,
-            571.8521118164062
+            220.2962188720703,
+            571.8394775390625
           ],
           "spans": [
             {
@@ -5334,7 +5406,19 @@
                 220.2962188720703,
                 571.8394775390625
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 560.4,
+          "text": "(about 1 out of 2",
+          "bbox": [
+            220.59519958496094,
+            560.3521118164062,
+            298.2915344238281,
+            571.8521118164062
+          ],
+          "spans": [
             {
               "size": 11.5,
               "flags": 6,
@@ -5360,7 +5444,7 @@
           ]
         },
         {
-          "y": 571,
+          "y": 571.3,
           "text": "information.",
           "bbox": [
             321.9999084472656,
@@ -5394,7 +5478,7 @@
           ]
         },
         {
-          "y": 574,
+          "y": 574.2,
           "text": "adults, and up to 1 out of 6 children)",
           "bbox": [
             50.499847412109375,
@@ -5428,13 +5512,13 @@
           ]
         },
         {
-          "y": 588,
-          "text": "• headache (about 1 out of 6 adults and 1 out of 25",
+          "y": 587.9,
+          "text": "• headache",
           "bbox": [
             36.999996185302734,
             587.9395141601562,
-            279.2854919433594,
-            599.4521484375
+            98.65495300292969,
+            599.4395141601562
           ],
           "spans": [
             {
@@ -5458,7 +5542,19 @@
                 98.65495300292969,
                 599.4395141601562
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 588.0,
+          "text": "(about 1 out of 6 adults and 1 out of 25",
+          "bbox": [
+            98.94244384765625,
+            587.9521484375,
+            279.2854919433594,
+            599.4521484375
+          ],
+          "spans": [
             {
               "size": 11.5,
               "flags": 6,
@@ -5484,7 +5580,7 @@
           ]
         },
         {
-          "y": 591,
+          "y": 590.9,
           "text": "• Call your local or state health department.",
           "bbox": [
             313.0,
@@ -5518,7 +5614,7 @@
           ]
         },
         {
-          "y": 602,
+          "y": 601.8,
           "text": "children)",
           "bbox": [
             50.49984359741211,
@@ -5552,7 +5648,7 @@
           ]
         },
         {
-          "y": 611,
+          "y": 610.5,
           "text": "• Contact the Centers for Disease Control and",
           "bbox": [
             313.0,
@@ -5586,13 +5682,13 @@
           ]
         },
         {
-          "y": 616,
-          "text": "• loss of appetite (about 1 out of 12 children)",
+          "y": 615.5,
+          "text": "• loss of appetite",
           "bbox": [
             36.99999237060547,
             615.5394897460938,
-            250.2238311767578,
-            627.0521240234375
+            126.49874114990234,
+            627.0394897460938
           ],
           "spans": [
             {
@@ -5616,7 +5712,19 @@
                 126.49874114990234,
                 627.0394897460938
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 615.6,
+          "text": "(about 1 out of 12 children)",
+          "bbox": [
+            126.79314422607422,
+            615.5521240234375,
+            250.2238311767578,
+            627.0521240234375
+          ],
+          "spans": [
             {
               "size": 11.5,
               "flags": 6,
@@ -5642,7 +5750,7 @@
           ]
         },
         {
-          "y": 624,
+          "y": 624.3,
           "text": "Prevention (CDC):",
           "bbox": [
             321.9999084472656,
@@ -5676,13 +5784,13 @@
           ]
         },
         {
-          "y": 629,
-          "text": "• tiredness (about 1 out of 14 adults)",
+          "y": 629.3,
+          "text": "• tiredness",
           "bbox": [
             36.99999237060547,
             629.3394775390625,
-            212.43133544921875,
-            640.8521118164062
+            97.50265502929688,
+            640.8394775390625
           ],
           "spans": [
             {
@@ -5706,7 +5814,19 @@
                 97.50265502929688,
                 640.8394775390625
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 629.4,
+          "text": "(about 1 out of 14 adults)",
+          "bbox": [
+            97.79359436035156,
+            629.3521118164062,
+            212.43133544921875,
+            640.8521118164062
+          ],
+          "spans": [
             {
               "size": 11.5,
               "flags": 6,
@@ -5732,7 +5852,7 @@
           ]
         },
         {
-          "y": 638,
+          "y": 638.1,
           "text": "- Call 1-800-232-4636 (1-800-CDC-INFO)",
           "bbox": [
             321.9999084472656,
@@ -5788,7 +5908,7 @@
           ]
         },
         {
-          "y": 650,
+          "y": 649.9,
           "text": "If these problems occur, they usually last 1 or 2 days.",
           "bbox": [
             36.999996185302734,
@@ -5822,7 +5942,7 @@
           ]
         },
         {
-          "y": 652,
+          "y": 651.9,
           "text": "- Visit CDC websites at: www.cdc.gov/hepatitis",
           "bbox": [
             321.9999084472656,
@@ -5878,7 +5998,7 @@
           ]
         },
         {
-          "y": 666,
+          "y": 666.1,
           "text": "or www.cdc.gov/nip",
           "bbox": [
             331.8335876464844,
@@ -5934,7 +6054,7 @@
           ]
         },
         {
-          "y": 673,
+          "y": 673.4,
           "text": "Severe problems",
           "bbox": [
             36.999996185302734,
@@ -5968,7 +6088,7 @@
           ]
         },
         {
-          "y": 695,
+          "y": 695.2,
           "text": "• serious allergic reaction, within a few minutes",
           "bbox": [
             36.999996185302734,
@@ -6002,7 +6122,7 @@
           ]
         },
         {
-          "y": 709,
+          "y": 709.0,
           "text": "to a few hours of the shot (very rare)",
           "bbox": [
             50.499847412109375,
@@ -6058,7 +6178,7 @@
           ]
         },
         {
-          "y": 722,
+          "y": 721.8,
           "text": "department of health and human services",
           "bbox": [
             320.3431091308594,
@@ -6092,7 +6212,7 @@
           ]
         },
         {
-          "y": 731,
+          "y": 730.5,
           "text": "Vaccine Information Statement",
           "bbox": [
             106.19660186767578,
@@ -6126,7 +6246,7 @@
           ]
         },
         {
-          "y": 733,
+          "y": 733.0,
           "text": "Centers for Disease Control and Prevention",
           "bbox": [
             323.9493103027344,
@@ -6160,7 +6280,7 @@
           ]
         },
         {
-          "y": 743,
+          "y": 742.5,
           "text": "Hepatitis A (3/21/06) 42 U.S.C. § 300aa-26",
           "bbox": [
             45.2566032409668,
@@ -6194,7 +6314,7 @@
           ]
         },
         {
-          "y": 744,
+          "y": 744.0,
           "text": "National Immunization Program",
           "bbox": [
             367.98028564453125,

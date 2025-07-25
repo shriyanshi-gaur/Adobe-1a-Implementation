@@ -7,7 +7,7 @@
       "page_height": 842.0399780273438,
       "lines": [
         {
-          "y": 88,
+          "y": 88.3,
           "text": "Articles in English Grammar",
           "bbox": [
             203.08999633789062,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 124,
+          "y": 123.7,
           "text": "Writing Centre Learning Guide",
           "bbox": [
             341.8299865722656,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 172,
+          "y": 171.7,
           "text": "The words ‘a’, ‘an’ and ‘the’, known as articles , present problems for most speakers",
           "bbox": [
             92.66400146484375,
@@ -153,7 +153,7 @@
           ]
         },
         {
-          "y": 187,
+          "y": 186.8,
           "text": "of English as an additional language. This is not surprising, since there is no",
           "bbox": [
             92.66400146484375,
@@ -187,7 +187,7 @@
           ]
         },
         {
-          "y": 202,
+          "y": 202.1,
           "text": "equivalent construction in many languages, and those languages that do have",
           "bbox": [
             92.66400146484375,
@@ -221,7 +221,7 @@
           ]
         },
         {
-          "y": 217,
+          "y": 217.2,
           "text": "articles do not necessarily use them in the same way as English.",
           "bbox": [
             92.66400146484375,
@@ -255,7 +255,7 @@
           ]
         },
         {
-          "y": 251,
+          "y": 250.7,
           "text": "Introduction",
           "bbox": [
             56.63999938964844,
@@ -289,7 +289,7 @@
           ]
         },
         {
-          "y": 274,
+          "y": 274.1,
           "text": "It is often difficult to decide whether an English noun needs an article before it, and, if so, which",
           "bbox": [
             56.63999938964844,
@@ -323,7 +323,7 @@
           ]
         },
         {
-          "y": 287,
+          "y": 286.8,
           "text": "article (a/an/the) to use. The main things to consider when choosing an article are whether or not",
           "bbox": [
             56.63999938964844,
@@ -357,7 +357,7 @@
           ]
         },
         {
-          "y": 299,
+          "y": 299.3,
           "text": "the noun is countable, and whether it is definite. Countability means that the noun can be made",
           "bbox": [
             56.63999938964844,
@@ -435,7 +435,7 @@
           ]
         },
         {
-          "y": 312,
+          "y": 312.0,
           "text": "plural, e.g. book/books . This is something you can check in a learner’s dictionary of English.",
           "bbox": [
             56.63999938964844,
@@ -513,7 +513,7 @@
           ]
         },
         {
-          "y": 325,
+          "y": 324.7,
           "text": "Whether a noun is definite or indefinite depends on whether you and your reader or listener both",
           "bbox": [
             56.63999938964844,
@@ -547,7 +547,7 @@
           ]
         },
         {
-          "y": 337,
+          "y": 337.3,
           "text": "know what you are referring to. The following pages give you some guidelines on what makes a",
           "bbox": [
             56.63999938964844,
@@ -581,7 +581,7 @@
           ]
         },
         {
-          "y": 350,
+          "y": 350.1,
           "text": "noun countable and/or definite. Much of the information is based on the work of Master (1986) and",
           "bbox": [
             56.63999938964844,
@@ -615,7 +615,7 @@
           ]
         },
         {
-          "y": 363,
+          "y": 362.7,
           "text": "Swales and Feak (1994).",
           "bbox": [
             56.63999938964844,
@@ -649,7 +649,7 @@
           ]
         },
         {
-          "y": 388,
+          "y": 388.0,
           "text": "When you have to decide whether to use an article, and which article to use, consider this chart:",
           "bbox": [
             56.63999938964844,
@@ -683,7 +683,7 @@
           ]
         },
         {
-          "y": 412,
+          "y": 412.5,
           "text": "Choosing the right article",
           "bbox": [
             231.0500030517578,
@@ -717,7 +717,7 @@
           ]
         },
         {
-          "y": 440,
+          "y": 439.7,
           "text": "Is the noun singular and countable? Is the noun plural or uncountable?",
           "bbox": [
             107.66000366210938,
@@ -773,8 +773,8 @@
           ]
         },
         {
-          "y": 468,
-          "text": "Yes",
+          "y": 468.3,
+          "text": "Yes Yes",
           "bbox": [
             185.4199981689453,
             468.2787780761719,
@@ -829,7 +829,7 @@
           ]
         },
         {
-          "y": 497,
+          "y": 496.8,
           "text": "Is it definite? Is it definite?",
           "bbox": [
             163.94000244140625,
@@ -885,7 +885,7 @@
           ]
         },
         {
-          "y": 525,
+          "y": 525.4,
           "text": "yes no yes no",
           "bbox": [
             134.89999389648438,
@@ -985,7 +985,7 @@
           ]
         },
         {
-          "y": 554,
+          "y": 554.0,
           "text": "the a/an the no article",
           "bbox": [
             135.86000061035156,
@@ -1085,7 +1085,7 @@
           ]
         },
         {
-          "y": 588,
+          "y": 587.6,
           "text": "For example:",
           "bbox": [
             56.63999938964844,
@@ -1119,7 +1119,7 @@
           ]
         },
         {
-          "y": 600,
+          "y": 600.3,
           "text": "I bought a book – book is a singular, countable noun; therefore it has to have an article.",
           "bbox": [
             92.66400146484375,
@@ -1219,7 +1219,7 @@
           ]
         },
         {
-          "y": 613,
+          "y": 613.0,
           "text": "Your reader does not know which book you are referring to, therefore it is ‘indefinite’.",
           "bbox": [
             113.30000305175781,
@@ -1253,7 +1253,7 @@
           ]
         },
         {
-          "y": 626,
+          "y": 625.6,
           "text": "The book I bought is interesting - book is again a singular, countable noun; therefore it has",
           "bbox": [
             92.66400146484375,
@@ -1353,7 +1353,7 @@
           ]
         },
         {
-          "y": 638,
+          "y": 638.3,
           "text": "to have an article. In this case, we know which book you are referring to (the book you",
           "bbox": [
             113.30000305175781,
@@ -1387,7 +1387,7 @@
           ]
         },
         {
-          "y": 651,
+          "y": 650.9,
           "text": "bought), so it takes a definite article. (More details on the definite article are given",
           "bbox": [
             113.30000305175781,
@@ -1421,7 +1421,7 @@
           ]
         },
         {
-          "y": 664,
+          "y": 663.5,
           "text": "below.)",
           "bbox": [
             113.30000305175781,
@@ -1455,7 +1455,7 @@
           ]
         },
         {
-          "y": 676,
+          "y": 676.3,
           "text": "I like the books you gave me – books is a plural noun. It is used in a definite sense (we",
           "bbox": [
             92.66400146484375,
@@ -1599,7 +1599,7 @@
           ]
         },
         {
-          "y": 689,
+          "y": 688.9,
           "text": "know which books – the books you gave me), so it takes a definite article.",
           "bbox": [
             113.30000305175781,
@@ -1633,7 +1633,7 @@
           ]
         },
         {
-          "y": 741,
+          "y": 741.5,
           "text": "WRITING CENTRE",
           "bbox": [
             70.94400024414062,
@@ -1667,7 +1667,7 @@
           ]
         },
         {
-          "y": 744,
+          "y": 744.0,
           "text": "ph +61 8 8313 3021",
           "bbox": [
             347.3500061035156,
@@ -1701,7 +1701,7 @@
           ]
         },
         {
-          "y": 755,
+          "y": 755.5,
           "text": "Level 3 East, Hub Central writingcentre@adelaide.edu.au",
           "bbox": [
             70.94400024414062,
@@ -1757,7 +1757,7 @@
           ]
         },
         {
-          "y": 767,
+          "y": 766.9,
           "text": "North Terrace campus, The University of Adelaide www.adelaide.edu.au/writingcentre/",
           "bbox": [
             70.94400024414062,
@@ -1820,7 +1820,7 @@
       "page_height": 842.0399780273438,
       "lines": [
         {
-          "y": 57,
+          "y": 56.8,
           "text": "I like books – books is a plural noun. It is used about books generally, not specific books,",
           "bbox": [
             92.66400146484375,
@@ -1920,7 +1920,7 @@
           ]
         },
         {
-          "y": 70,
+          "y": 69.6,
           "text": "so it takes no article.",
           "bbox": [
             113.30000305175781,
@@ -1954,7 +1954,7 @@
           ]
         },
         {
-          "y": 82,
+          "y": 82.2,
           "text": "Blood is thicker than water – blood and water are singular, uncountable nouns. They are",
           "bbox": [
             92.66400146484375,
@@ -2098,7 +2098,7 @@
           ]
         },
         {
-          "y": 95,
+          "y": 94.9,
           "text": "used in a general sense, therefore they do not need an article.",
           "bbox": [
             113.30000305175781,
@@ -2132,7 +2132,7 @@
           ]
         },
         {
-          "y": 108,
+          "y": 107.5,
           "text": "I bought two books – you do not need an article, because you already have the word two .",
           "bbox": [
             92.66400146484375,
@@ -2232,7 +2232,7 @@
           ]
         },
         {
-          "y": 120,
+          "y": 120.2,
           "text": "I bought some books – you do not need an article, because you already have the word",
           "bbox": [
             92.66400146484375,
@@ -2288,7 +2288,7 @@
           ]
         },
         {
-          "y": 133,
+          "y": 132.8,
           "text": "some .",
           "bbox": [
             113.30000305175781,
@@ -2344,7 +2344,7 @@
           ]
         },
         {
-          "y": 164,
+          "y": 163.9,
           "text": "How do you know whether you need an article and which article to use?",
           "bbox": [
             56.63999938964844,
@@ -2378,7 +2378,7 @@
           ]
         },
         {
-          "y": 187,
+          "y": 187.2,
           "text": "A single, countable noun must have an article if there is no other number, determiner or",
           "bbox": [
             56.63999938964844,
@@ -2412,7 +2412,7 @@
           ]
         },
         {
-          "y": 200,
+          "y": 199.8,
           "text": "possessive (e.g. two , our, this ). If the noun is plural, an article may not be necessary. Look first at",
           "bbox": [
             56.63999938964844,
@@ -2534,7 +2534,7 @@
           ]
         },
         {
-          "y": 213,
+          "y": 212.5,
           "text": "your noun:",
           "bbox": [
             56.63999938964844,
@@ -2568,7 +2568,7 @@
           ]
         },
         {
-          "y": 225,
+          "y": 225.1,
           "text": "our house – you do not need an article, because you already have the possesive our .",
           "bbox": [
             92.66400146484375,
@@ -2668,7 +2668,7 @@
           ]
         },
         {
-          "y": 238,
+          "y": 237.7,
           "text": "this year – you do not need an article, because you already have the determiner this .",
           "bbox": [
             92.66400146484375,
@@ -2768,7 +2768,7 @@
           ]
         },
         {
-          "y": 250,
+          "y": 250.4,
           "text": "car – you need an article, because this is a singular countable noun with no determiner",
           "bbox": [
             92.66400146484375,
@@ -2824,7 +2824,7 @@
           ]
         },
         {
-          "y": 263,
+          "y": 263.1,
           "text": "already.",
           "bbox": [
             113.30000305175781,
@@ -2858,7 +2858,7 @@
           ]
         },
         {
-          "y": 276,
+          "y": 275.8,
           "text": "trees – you may need an article, depending on whether the noun is definite or not.",
           "bbox": [
             92.66400146484375,
@@ -2914,7 +2914,7 @@
           ]
         },
         {
-          "y": 288,
+          "y": 288.3,
           "text": "For example:",
           "bbox": [
             113.30000305175781,
@@ -2948,7 +2948,7 @@
           ]
         },
         {
-          "y": 301,
+          "y": 301.0,
           "text": "Trees are usually green – no article is needed, because you are talking generally and",
           "bbox": [
             113.30000305175781,
@@ -3004,7 +3004,7 @@
           ]
         },
         {
-          "y": 314,
+          "y": 313.7,
           "text": "the noun is not definite, i.e. you are not talking about specific trees.",
           "bbox": [
             134.05999755859375,
@@ -3038,7 +3038,7 @@
           ]
         },
         {
-          "y": 326,
+          "y": 326.3,
           "text": "The trees in the park are green – the article is needed because you have specified",
           "bbox": [
             113.30000305175781,
@@ -3094,7 +3094,7 @@
           ]
         },
         {
-          "y": 339,
+          "y": 339.0,
           "text": "which trees you are talking about.",
           "bbox": [
             134.05999755859375,
@@ -3128,7 +3128,7 @@
           ]
         },
         {
-          "y": 370,
+          "y": 369.9,
           "text": "Indefinite article (a/an)",
           "bbox": [
             56.63999938964844,
@@ -3162,7 +3162,7 @@
           ]
         },
         {
-          "y": 393,
+          "y": 393.4,
           "text": "If the noun is singular and countable, and this is the first time you have mentioned it, then you will",
           "bbox": [
             56.63999938964844,
@@ -3196,7 +3196,7 @@
           ]
         },
         {
-          "y": 406,
+          "y": 406.0,
           "text": "usually need the indefinite article:",
           "bbox": [
             56.63999938964844,
@@ -3230,7 +3230,7 @@
           ]
         },
         {
-          "y": 419,
+          "y": 418.6,
           "text": "I bought a book – we do not know which book.",
           "bbox": [
             92.66400146484375,
@@ -3286,7 +3286,7 @@
           ]
         },
         {
-          "y": 431,
+          "y": 431.3,
           "text": "There is a bird outside – we do not know anything about the bird.",
           "bbox": [
             92.66400146484375,
@@ -3342,7 +3342,7 @@
           ]
         },
         {
-          "y": 444,
+          "y": 443.9,
           "text": "Measurements and rates also take the indefinite article: Three times a week",
           "bbox": [
             56.63999938964844,
@@ -3420,7 +3420,7 @@
           ]
         },
         {
-          "y": 457,
+          "y": 456.6,
           "text": "If the noun starts with a vowel sound, then the article an is used: an ear , an uncle, an hour",
           "bbox": [
             56.63999938964844,
@@ -3586,7 +3586,7 @@
           ]
         },
         {
-          "y": 469,
+          "y": 469.2,
           "text": "If the noun starts with a consonant sound, then the article a is used: a school, a university",
           "bbox": [
             56.63999938964844,
@@ -3686,7 +3686,7 @@
           ]
         },
         {
-          "y": 500,
+          "y": 500.3,
           "text": "Definite article (the)",
           "bbox": [
             56.63999938964844,
@@ -3720,7 +3720,7 @@
           ]
         },
         {
-          "y": 524,
+          "y": 523.6,
           "text": "If your reader or listener understands what you are referring to, then you will usually need the",
           "bbox": [
             56.63999938964844,
@@ -3754,7 +3754,7 @@
           ]
         },
         {
-          "y": 536,
+          "y": 536.2,
           "text": "definite article:",
           "bbox": [
             56.63999938964844,
@@ -3788,7 +3788,7 @@
           ]
         },
         {
-          "y": 549,
+          "y": 548.9,
           "text": "I bought a book last week. The book is about trees.",
           "bbox": [
             92.66400146484375,
@@ -3844,7 +3844,7 @@
           ]
         },
         {
-          "y": 562,
+          "y": 561.5,
           "text": "(You have just mentioned the book, so you both know which one.)",
           "bbox": [
             128.66000366210938,
@@ -3878,7 +3878,7 @@
           ]
         },
         {
-          "y": 574,
+          "y": 574.1,
           "text": "We went to a wedding yesterday. The bride wore a lovely dress.",
           "bbox": [
             92.66400146484375,
@@ -3934,7 +3934,7 @@
           ]
         },
         {
-          "y": 587,
+          "y": 586.8,
           "text": "(You have not mentioned the bride before, but you both know she is connected to",
           "bbox": [
             128.66000366210938,
@@ -3968,7 +3968,7 @@
           ]
         },
         {
-          "y": 599,
+          "y": 599.4,
           "text": "the wedding.)",
           "bbox": [
             128.66000366210938,
@@ -4002,7 +4002,7 @@
           ]
         },
         {
-          "y": 625,
+          "y": 624.8,
           "text": "Some things are taken to be common knowledge in English and therefore take the definite article:",
           "bbox": [
             56.63999938964844,
@@ -4036,7 +4036,7 @@
           ]
         },
         {
-          "y": 637,
+          "y": 637.4,
           "text": "Decades – He was born in the 1920s .",
           "bbox": [
             56.63999938964844,
@@ -4136,7 +4136,7 @@
           ]
         },
         {
-          "y": 650,
+          "y": 650.1,
           "text": "Currencies – The dollar is getting stronger against the pound .",
           "bbox": [
             56.63999938964844,
@@ -4280,7 +4280,7 @@
           ]
         },
         {
-          "y": 663,
+          "y": 662.7,
           "text": "Superlatives and ordinals – The second book in the series is the best .",
           "bbox": [
             56.63999938964844,
@@ -4424,7 +4424,7 @@
           ]
         },
         {
-          "y": 675,
+          "y": 675.4,
           "text": "Oceans, seas and many rivers – The Nile flows into the Mediterranean .",
           "bbox": [
             56.63999938964844,
@@ -4568,7 +4568,7 @@
           ]
         },
         {
-          "y": 688,
+          "y": 688.0,
           "text": "Plural or ‘united’ countries – The Maldives are much smaller than the United States of America .",
           "bbox": [
             56.63999938964844,
@@ -4690,7 +4690,7 @@
           ]
         },
         {
-          "y": 701,
+          "y": 700.7,
           "text": "Adjectives used as nouns – The poor will always be a challenge for the rich in any country.",
           "bbox": [
             56.63999938964844,
@@ -4834,7 +4834,7 @@
           ]
         },
         {
-          "y": 713,
+          "y": 713.3,
           "text": "Many organisations – The World Health Organization has a detailed definition of health.",
           "bbox": [
             56.63999938964844,
@@ -4912,7 +4912,7 @@
           ]
         },
         {
-          "y": 726,
+          "y": 725.9,
           "text": "A scientific categorisation – The zebra is native to Africa.",
           "bbox": [
             56.63999938964844,
@@ -4990,7 +4990,7 @@
           ]
         },
         {
-          "y": 739,
+          "y": 738.7,
           "text": "A symbol – The Merlion is a symbol of Singapore.",
           "bbox": [
             56.63999938964844,
@@ -5090,7 +5090,7 @@
           ]
         },
         {
-          "y": 751,
+          "y": 751.3,
           "text": "Unique people, places or things – The prime minister said she would call a conference on",
           "bbox": [
             56.63999938964844,
@@ -5168,7 +5168,7 @@
           ]
         },
         {
-          "y": 764,
+          "y": 764.0,
           "text": "changes affecting the earth’s climate.",
           "bbox": [
             92.06400299072266,
@@ -5246,7 +5246,7 @@
           ]
         },
         {
-          "y": 801,
+          "y": 801.2,
           "text": "2",
           "bbox": [
             56.63999938964844,
@@ -5287,7 +5287,7 @@
       "page_height": 842.0399780273438,
       "lines": [
         {
-          "y": 57,
+          "y": 56.8,
           "text": "Unique adjectives – The same people always take the only parking spaces available.",
           "bbox": [
             56.63999938964844,
@@ -5409,7 +5409,7 @@
           ]
         },
         {
-          "y": 88,
+          "y": 87.9,
           "text": "Other word patterns which take ‘the’:",
           "bbox": [
             56.63999938964844,
@@ -5443,7 +5443,7 @@
           ]
         },
         {
-          "y": 109,
+          "y": 108.9,
           "text": "Specific nouns modified by a relative clause – The paintings (which are) in the gallery",
           "bbox": [
             56.63999938964844,
@@ -5543,7 +5543,7 @@
           ]
         },
         {
-          "y": 122,
+          "y": 121.7,
           "text": "Specific nouns followed by ‘of’. This is a very common pattern - The use of this procedure",
           "bbox": [
             56.63999938964844,
@@ -5643,7 +5643,7 @@
           ]
         },
         {
-          "y": 134,
+          "y": 134.3,
           "text": "Plural nouns preceded by ‘of’ – e.g. Some of the paintings were interesting.",
           "bbox": [
             56.63999938964844,
@@ -5721,7 +5721,7 @@
           ]
         },
         {
-          "y": 159,
+          "y": 159.5,
           "text": "Common error: You cannot write most of paintings or none of paintings .",
           "bbox": [
             56.63999938964844,
@@ -5865,7 +5865,7 @@
           ]
         },
         {
-          "y": 172,
+          "y": 172.1,
           "text": "It is either most of the paintings (definite) or most paintings (general) .",
           "bbox": [
             155.89999389648438,
@@ -6031,7 +6031,7 @@
           ]
         },
         {
-          "y": 185,
+          "y": 184.9,
           "text": "Most of the paintings in the exhibition were landscapes.",
           "bbox": [
             155.89999389648438,
@@ -6087,7 +6087,7 @@
           ]
         },
         {
-          "y": 198,
+          "y": 197.5,
           "text": "(definite – we know which specific paintings – they are in the exhibition)",
           "bbox": [
             155.89999389648438,
@@ -6143,7 +6143,7 @@
           ]
         },
         {
-          "y": 210,
+          "y": 210.2,
           "text": "Most paintings nowadays (general – not specific paintings)",
           "bbox": [
             155.89999389648438,
@@ -6221,7 +6221,7 @@
           ]
         },
         {
-          "y": 241,
+          "y": 241.1,
           "text": "No article",
           "bbox": [
             56.63999938964844,
@@ -6255,7 +6255,7 @@
           ]
         },
         {
-          "y": 265,
+          "y": 264.6,
           "text": "We do not need an article if a noun is plural or uncountable and it is not definite.",
           "bbox": [
             56.63999938964844,
@@ -6289,7 +6289,7 @@
           ]
         },
         {
-          "y": 277,
+          "y": 277.2,
           "text": "Women generally live longer than men.",
           "bbox": [
             92.66400146484375,
@@ -6323,7 +6323,7 @@
           ]
         },
         {
-          "y": 290,
+          "y": 289.8,
           "text": "Articles are difficult to use.",
           "bbox": [
             92.66400146484375,
@@ -6357,7 +6357,7 @@
           ]
         },
         {
-          "y": 303,
+          "y": 302.5,
           "text": "Paint is hard to remove.",
           "bbox": [
             92.66400146484375,
@@ -6391,7 +6391,7 @@
           ]
         },
         {
-          "y": 334,
+          "y": 333.6,
           "text": "Exercise",
           "bbox": [
             56.63999938964844,
@@ -6425,7 +6425,7 @@
           ]
         },
         {
-          "y": 357,
+          "y": 356.9,
           "text": "Try this exercise, putting a/an/the in the blanks. If there should be no article, then place a * in the",
           "bbox": [
             56.63999938964844,
@@ -6459,7 +6459,7 @@
           ]
         },
         {
-          "y": 369,
+          "y": 369.5,
           "text": "blank. The answers and explanations follow.",
           "bbox": [
             56.63999938964844,
@@ -6493,7 +6493,7 @@
           ]
         },
         {
-          "y": 395,
+          "y": 394.7,
           "text": "Mr Coleman was (1) ___ very fastidious person. He lived three (2) ___ streets away from",
           "bbox": [
             92.06400299072266,
@@ -6615,7 +6615,7 @@
           ]
         },
         {
-          "y": 409,
+          "y": 409.2,
           "text": "us, in (3) ___ small house with (4) ___ beautiful garden. Having taken early retirement from his (5)",
           "bbox": [
             56.63999938964844,
@@ -6737,7 +6737,7 @@
           ]
         },
         {
-          "y": 424,
+          "y": 423.7,
           "text": "___ job as (6) ___ button counter, he now had plenty of time to worry, and this he did very",
           "bbox": [
             56.63999938964844,
@@ -6837,7 +6837,7 @@
           ]
         },
         {
-          "y": 438,
+          "y": 438.4,
           "text": "successfully. He often spent sleepless nights trying to figure out how he could successfully cook",
           "bbox": [
             56.63999938964844,
@@ -6871,7 +6871,7 @@
           ]
         },
         {
-          "y": 453,
+          "y": 452.9,
           "text": "both sides of (7) ___ omelette without it breaking, or how he might achieve better access to (8) ___",
           "bbox": [
             56.63999938964844,
@@ -6993,7 +6993,7 @@
           ]
         },
         {
-          "y": 467,
+          "y": 467.4,
           "text": "tins at (9) ___ back of his cupboard. (10) ___ most of his home was exceptionally neat and tidy,",
           "bbox": [
             56.63999938964844,
@@ -7115,7 +7115,7 @@
           ]
         },
         {
-          "y": 482,
+          "y": 482.0,
           "text": "but several loose cables behind (11) ___ television set bothered him, and he never quite knew",
           "bbox": [
             56.63999938964844,
@@ -7193,7 +7193,7 @@
           ]
         },
         {
-          "y": 496,
+          "y": 496.5,
           "text": "what to do with (12) ___ empty plastic bags.",
           "bbox": [
             56.63999938964844,
@@ -7271,7 +7271,7 @@
           ]
         },
         {
-          "y": 511,
+          "y": 511.2,
           "text": "Then, one day, his life changed, and he began to experience some relief from his anguish.",
           "bbox": [
             92.06400299072266,
@@ -7305,7 +7305,7 @@
           ]
         },
         {
-          "y": 526,
+          "y": 525.6,
           "text": "It seemed that other people underwent similar mental trials, for (13) ___ new catalogue appeared",
           "bbox": [
             56.63999938964844,
@@ -7383,7 +7383,7 @@
           ]
         },
         {
-          "y": 540,
+          "y": 540.2,
           "text": "on his doorstep. (14) ___ catalogue contained solutions for many of his problems, and for others",
           "bbox": [
             56.63999938964844,
@@ -7461,7 +7461,7 @@
           ]
         },
         {
-          "y": 555,
+          "y": 554.7,
           "text": "which had not yet given him any cause for concern. There was (15) ___ set of three egg timers,",
           "bbox": [
             56.63999938964844,
@@ -7539,7 +7539,7 @@
           ]
         },
         {
-          "y": 569,
+          "y": 569.2,
           "text": "for example, shaped like (16) ___ chickens and designed to emit (17) ___ clucking sound at (18)",
           "bbox": [
             56.63999938964844,
@@ -7661,7 +7661,7 @@
           ]
         },
         {
-          "y": 584,
+          "y": 583.8,
           "text": "___ end of three, four and five minutes respectively. In this way he could cook (19) ___ eggs to",
           "bbox": [
             56.63999938964844,
@@ -7761,7 +7761,7 @@
           ]
         },
         {
-          "y": 598,
+          "y": 598.4,
           "text": "suit each of his friends individually, and then keep them warm with (20) ___ specially designed",
           "bbox": [
             56.63999938964844,
@@ -7839,7 +7839,7 @@
           ]
         },
         {
-          "y": 613,
+          "y": 612.9,
           "text": "covers which went with the timer, marked ‘3’, ‘4’ and ‘5’ for identification purposes. And (21) ___",
           "bbox": [
             56.63999938964844,
@@ -7895,7 +7895,7 @@
           ]
         },
         {
-          "y": 627,
+          "y": 627.4,
           "text": "catalogue contained many other wonderful ideas, such as (22) ___ toaster which could be adjusted",
           "bbox": [
             56.63999938964844,
@@ -7973,7 +7973,7 @@
           ]
         },
         {
-          "y": 642,
+          "y": 642.1,
           "text": "to produce different degrees of brownness on (23) ___ four slices toasted simultaneously, and (24)",
           "bbox": [
             56.63999938964844,
@@ -8051,7 +8051,7 @@
           ]
         },
         {
-          "y": 657,
+          "y": 656.6,
           "text": "___ photo frame that rotated pictures at (25) ___ touch of (26) ___ invisible button, so that visiting",
           "bbox": [
             56.63999938964844,
@@ -8195,7 +8195,7 @@
           ]
         },
         {
-          "y": 671,
+          "y": 671.2,
           "text": "relatives would never be offended by not seeing their pictures on display, unless, of course, they all",
           "bbox": [
             56.63999938964844,
@@ -8229,7 +8229,7 @@
           ]
         },
         {
-          "y": 686,
+          "y": 685.7,
           "text": "turned up together – Mr Coleman eventually solved this problem too by ordering four frames.",
           "bbox": [
             56.63999938964844,
@@ -8263,7 +8263,7 @@
           ]
         },
         {
-          "y": 719,
+          "y": 718.7,
           "text": "Answers",
           "bbox": [
             56.63999938964844,
@@ -8297,7 +8297,7 @@
           ]
         },
         {
-          "y": 740,
+          "y": 739.6,
           "text": "Mr Coleman was (1) a very fastidious person. He lived three (2) * streets away from us, in",
           "bbox": [
             92.06400299072266,
@@ -8419,7 +8419,7 @@
           ]
         },
         {
-          "y": 754,
+          "y": 754.1,
           "text": "(3) a small house with (4) a beautiful garden. Having taken early retirement from his (5) * job as (6)",
           "bbox": [
             56.63999938964844,
@@ -8585,7 +8585,7 @@
           ]
         },
         {
-          "y": 769,
+          "y": 768.7,
           "text": "a button counter, he now had plenty of time to worry, and this he did very successfully. He often",
           "bbox": [
             56.63999938964844,
@@ -8641,7 +8641,7 @@
           ]
         },
         {
-          "y": 801,
+          "y": 801.2,
           "text": "3",
           "bbox": [
             532.5399780273438,
@@ -8682,7 +8682,7 @@
       "page_height": 842.0399780273438,
       "lines": [
         {
-          "y": 57,
+          "y": 56.7,
           "text": "spent sleepless nights trying to figure out how he could successfully cook both sides of (7) an",
           "bbox": [
             56.63999938964844,
@@ -8804,7 +8804,7 @@
           ]
         },
         {
-          "y": 71,
+          "y": 71.4,
           "text": "omelette without it breaking, or how he might achieve better access to (8) the tins at (9) the back",
           "bbox": [
             56.63999938964844,
@@ -8926,7 +8926,7 @@
           ]
         },
         {
-          "y": 86,
+          "y": 85.9,
           "text": "of his cupboard. (10) * Most of his home was exceptionally neat and tidy, but several loose cables",
           "bbox": [
             56.63999938964844,
@@ -9004,7 +9004,7 @@
           ]
         },
         {
-          "y": 100,
+          "y": 100.4,
           "text": "behind (11) the television set bothered him, and he never quite knew what to do with (12) * empty",
           "bbox": [
             56.63999938964844,
@@ -9126,7 +9126,7 @@
           ]
         },
         {
-          "y": 115,
+          "y": 115.1,
           "text": "plastic bags.",
           "bbox": [
             56.63999938964844,
@@ -9160,7 +9160,7 @@
           ]
         },
         {
-          "y": 130,
+          "y": 129.7,
           "text": "Then, one day, his life changed, and he began to experience some relief from his anguish.",
           "bbox": [
             92.06400299072266,
@@ -9194,7 +9194,7 @@
           ]
         },
         {
-          "y": 144,
+          "y": 144.1,
           "text": "It seemed that other people underwent similar mental trials, for (13) a new catalogue appeared on",
           "bbox": [
             56.63999938964844,
@@ -9272,7 +9272,7 @@
           ]
         },
         {
-          "y": 159,
+          "y": 158.6,
           "text": "his doorstep. (14) The catalogue contained solutions for many of his problems, and for others",
           "bbox": [
             56.63999938964844,
@@ -9350,7 +9350,7 @@
           ]
         },
         {
-          "y": 173,
+          "y": 173.1,
           "text": "which had not yet given him any cause for concern. There was (15) a set of three egg timers, for",
           "bbox": [
             56.63999938964844,
@@ -9428,7 +9428,7 @@
           ]
         },
         {
-          "y": 188,
+          "y": 187.7,
           "text": "example, shaped like (16) * chickens and designed to emit (17) a clucking sound at (18) the end of",
           "bbox": [
             56.63999938964844,
@@ -9594,7 +9594,7 @@
           ]
         },
         {
-          "y": 202,
+          "y": 202.3,
           "text": "three, four and five minutes respectively. In this way he could cook (19) * eggs to suit each of his",
           "bbox": [
             56.63999938964844,
@@ -9672,7 +9672,7 @@
           ]
         },
         {
-          "y": 217,
+          "y": 216.8,
           "text": "friends individually, and then keep them warm with (20) the specially designed covers which went",
           "bbox": [
             56.63999938964844,
@@ -9750,7 +9750,7 @@
           ]
         },
         {
-          "y": 231,
+          "y": 231.3,
           "text": "with the timer, marked ‘3’, ‘4’ and ‘5’ for identification purposes. And (21) the catalogue contained",
           "bbox": [
             56.63999938964844,
@@ -9828,7 +9828,7 @@
           ]
         },
         {
-          "y": 246,
+          "y": 245.9,
           "text": "many other wonderful ideas, such as (22) a toaster which could be adjusted to produce different",
           "bbox": [
             56.63999938964844,
@@ -9906,7 +9906,7 @@
           ]
         },
         {
-          "y": 261,
+          "y": 260.5,
           "text": "degrees of brownness on (23) * four slices toasted simultaneously, and (24) a photo frame that",
           "bbox": [
             56.63999938964844,
@@ -10028,7 +10028,7 @@
           ]
         },
         {
-          "y": 275,
+          "y": 275.1,
           "text": "rotated pictures at (25) the touch of (26) an invisible button, so that visiting relatives would never",
           "bbox": [
             56.63999938964844,
@@ -10150,7 +10150,7 @@
           ]
         },
         {
-          "y": 290,
+          "y": 289.7,
           "text": "be offended by not seeing their pictures on display, unless, of course, they all turned up together –",
           "bbox": [
             56.63999938964844,
@@ -10184,7 +10184,7 @@
           ]
         },
         {
-          "y": 304,
+          "y": 304.2,
           "text": "Mr Coleman eventually solved this problem too by ordering four frames.",
           "bbox": [
             56.63999938964844,
@@ -10218,7 +10218,7 @@
           ]
         },
         {
-          "y": 319,
+          "y": 318.7,
           "text": "(Adapted from Haisley, J 2008, The Good Samaritan , Ginninderra Press, Adelaide)",
           "bbox": [
             92.06400299072266,
@@ -10296,7 +10296,7 @@
           ]
         },
         {
-          "y": 352,
+          "y": 351.6,
           "text": "Explanations",
           "bbox": [
             56.63999938964844,
@@ -10330,7 +10330,7 @@
           ]
         },
         {
-          "y": 377,
+          "y": 376.7,
           "text": "(1) a singular, countable noun; first mention",
           "bbox": [
             62.040000915527344,
@@ -10408,7 +10408,7 @@
           ]
         },
         {
-          "y": 394,
+          "y": 394.4,
           "text": "(2) no article plural, countable noun; a number is used instead (‘three streets’)",
           "bbox": [
             62.040000915527344,
@@ -10486,7 +10486,7 @@
           ]
         },
         {
-          "y": 412,
+          "y": 412.0,
           "text": "(3) a singular, countable noun; first mention",
           "bbox": [
             62.040000915527344,
@@ -10564,7 +10564,7 @@
           ]
         },
         {
-          "y": 430,
+          "y": 429.7,
           "text": "(4) a singular, countable noun; first mention",
           "bbox": [
             62.040000915527344,
@@ -10642,7 +10642,7 @@
           ]
         },
         {
-          "y": 447,
+          "y": 447.3,
           "text": "(5) a singular, countable noun; first mention; someone’s job",
           "bbox": [
             62.040000915527344,
@@ -10720,7 +10720,7 @@
           ]
         },
         {
-          "y": 465,
+          "y": 465.0,
           "text": "(6) a singular, countable noun; first mention",
           "bbox": [
             62.040000915527344,
@@ -10798,7 +10798,7 @@
           ]
         },
         {
-          "y": 483,
+          "y": 482.6,
           "text": "(7) an singular, countable noun; first mention",
           "bbox": [
             62.040000915527344,
@@ -10876,7 +10876,7 @@
           ]
         },
         {
-          "y": 500,
+          "y": 500.2,
           "text": "(8) the plural, countable noun; we know which tins (the tins at the back of his cupboard), so the noun is",
           "bbox": [
             62.040000915527344,
@@ -10954,7 +10954,7 @@
           ]
         },
         {
-          "y": 511,
+          "y": 510.6,
           "text": "specific",
           "bbox": [
             140.05999755859375,
@@ -10988,7 +10988,7 @@
           ]
         },
         {
-          "y": 528,
+          "y": 528.3,
           "text": "(9) the singular, countable noun; specific noun followed by ‘of’",
           "bbox": [
             62.040000915527344,
@@ -11066,7 +11066,7 @@
           ]
         },
         {
-          "y": 546,
+          "y": 546.0,
           "text": "(10) no article singular, countable noun; ‘most of his home’",
           "bbox": [
             62.040000915527344,
@@ -11144,7 +11144,7 @@
           ]
         },
         {
-          "y": 564,
+          "y": 563.6,
           "text": "(11) the singular, countable noun; the writer is drawing you into the story, assuming that you know which",
           "bbox": [
             62.040000915527344,
@@ -11222,7 +11222,7 @@
           ]
         },
         {
-          "y": 574,
+          "y": 573.9,
           "text": "television set is talked about, and that Mr Coleman only has one television set",
           "bbox": [
             140.05999755859375,
@@ -11256,7 +11256,7 @@
           ]
         },
         {
-          "y": 592,
+          "y": 591.6,
           "text": "(12) no article plural, countable noun; not specific",
           "bbox": [
             62.040000915527344,
@@ -11334,7 +11334,7 @@
           ]
         },
         {
-          "y": 609,
+          "y": 609.2,
           "text": "(13) a singular, countable noun; first mention",
           "bbox": [
             62.040000915527344,
@@ -11412,7 +11412,7 @@
           ]
         },
         {
-          "y": 627,
+          "y": 626.9,
           "text": "(14) the singular, countable noun; second mention. You know which catalogue, so it is now specific",
           "bbox": [
             62.040000915527344,
@@ -11490,7 +11490,7 @@
           ]
         },
         {
-          "y": 645,
+          "y": 644.5,
           "text": "(15) a singular, countable noun; first mention",
           "bbox": [
             62.040000915527344,
@@ -11568,7 +11568,7 @@
           ]
         },
         {
-          "y": 662,
+          "y": 662.2,
           "text": "(16) no article plural, countable noun; not specific",
           "bbox": [
             62.040000915527344,
@@ -11646,7 +11646,7 @@
           ]
         },
         {
-          "y": 680,
+          "y": 679.8,
           "text": "(17) a singular, countable noun; first mention",
           "bbox": [
             62.040000915527344,
@@ -11768,7 +11768,7 @@
           ]
         },
         {
-          "y": 697,
+          "y": 697.4,
           "text": "(18) the singular, countable noun; specific noun followed by ‘of’",
           "bbox": [
             62.040000915527344,
@@ -11846,7 +11846,7 @@
           ]
         },
         {
-          "y": 715,
+          "y": 715.2,
           "text": "(19) no article plural, countable noun; not specific",
           "bbox": [
             62.040000915527344,
@@ -11924,7 +11924,7 @@
           ]
         },
         {
-          "y": 733,
+          "y": 732.8,
           "text": "(20) the singular, countable noun; we know which covers (the covers which went with the timer), so the",
           "bbox": [
             62.040000915527344,
@@ -12002,7 +12002,7 @@
           ]
         },
         {
-          "y": 743,
+          "y": 743.2,
           "text": "noun is specific",
           "bbox": [
             140.05999755859375,
@@ -12036,7 +12036,7 @@
           ]
         },
         {
-          "y": 761,
+          "y": 760.8,
           "text": "(21) the singular, countable noun; second mention. You know which catalogue, so it is now specific",
           "bbox": [
             62.040000915527344,
@@ -12114,7 +12114,7 @@
           ]
         },
         {
-          "y": 801,
+          "y": 801.2,
           "text": "4",
           "bbox": [
             56.63999938964844,
@@ -12155,7 +12155,7 @@
       "page_height": 842.0399780273438,
       "lines": [
         {
-          "y": 61,
+          "y": 60.9,
           "text": "(22) a singular, countable noun; first mention",
           "bbox": [
             62.040000915527344,
@@ -12233,7 +12233,7 @@
           ]
         },
         {
-          "y": 78,
+          "y": 78.5,
           "text": "(23) no article plural, countable noun; a number is used",
           "bbox": [
             62.040000915527344,
@@ -12311,7 +12311,7 @@
           ]
         },
         {
-          "y": 96,
+          "y": 96.2,
           "text": "(24) a singular, countable noun; first mention",
           "bbox": [
             62.040000915527344,
@@ -12389,7 +12389,7 @@
           ]
         },
         {
-          "y": 114,
+          "y": 113.8,
           "text": "(25) the singular, countable noun; specific noun followed by ‘of’",
           "bbox": [
             62.040000915527344,
@@ -12467,7 +12467,7 @@
           ]
         },
         {
-          "y": 131,
+          "y": 131.4,
           "text": "(26) an singular, countable noun before a word beginning with a vowel sound; first mention",
           "bbox": [
             62.040000915527344,
@@ -12545,7 +12545,7 @@
           ]
         },
         {
-          "y": 177,
+          "y": 176.7,
           "text": "References",
           "bbox": [
             56.63999938964844,
@@ -12579,7 +12579,7 @@
           ]
         },
         {
-          "y": 200,
+          "y": 200.0,
           "text": "Master, PA 1986, Science, medicine and technology: English grammar and technical writing ,",
           "bbox": [
             56.63999938964844,
@@ -12657,7 +12657,7 @@
           ]
         },
         {
-          "y": 213,
+          "y": 212.6,
           "text": "Prentice-Hall, New Jersey.",
           "bbox": [
             92.06400299072266,
@@ -12691,7 +12691,7 @@
           ]
         },
         {
-          "y": 225,
+          "y": 225.3,
           "text": "Swales, JM & Feak, CB 1994, Academic writing for graduate students , University of Michigan",
           "bbox": [
             56.63999938964844,
@@ -12769,7 +12769,7 @@
           ]
         },
         {
-          "y": 238,
+          "y": 237.9,
           "text": "Press, Ann Arbor, Michigan.",
           "bbox": [
             92.06400299072266,
@@ -12803,7 +12803,7 @@
           ]
         },
         {
-          "y": 305,
+          "y": 304.6,
           "text": "© The University of Adelaide 2014",
           "bbox": [
             62.040000915527344,
@@ -12837,7 +12837,7 @@
           ]
         },
         {
-          "y": 801,
+          "y": 801.2,
           "text": "5",
           "bbox": [
             532.5399780273438,

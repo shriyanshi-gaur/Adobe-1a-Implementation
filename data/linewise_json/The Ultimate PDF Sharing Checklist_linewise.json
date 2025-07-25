@@ -7,7 +7,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.0,
           "text": "The Ultimate PDF Sharing Checklist",
           "bbox": [
             72.0,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 101,
+          "y": 100.9,
           "text": "Sharing PDFs can be a breeze with Adobe Acrobat. Whether you're",
           "bbox": [
             72.0,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 122,
+          "y": 121.7,
           "text": "collaborating on a project, seeking feedback, or simply distributing",
           "bbox": [
             72.0,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 142,
+          "y": 142.5,
           "text": "information, this checklist will ensure you cover all the bases. Let's dive",
           "bbox": [
             72.0,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 163,
+          "y": 163.2,
           "text": "into the essentials of sharing PDFs effectively.",
           "bbox": [
             72.0,
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "y": 192,
+          "y": 192.0,
           "text": "General Sharing Checklist",
           "bbox": [
             72.0,
@@ -211,7 +211,7 @@
           ]
         },
         {
-          "y": 221,
+          "y": 220.8,
           "text": "Open Your PDF",
           "bbox": [
             108.0199966430664,
@@ -245,7 +245,7 @@
           ]
         },
         {
-          "y": 225,
+          "y": 225.3,
           "text": "•",
           "bbox": [
             90.0,
@@ -279,7 +279,7 @@
           ]
         },
         {
-          "y": 250,
+          "y": 249.7,
           "text": "Have you launched Acrobat or Acrobat Reader and opened",
           "bbox": [
             144.02000427246094,
@@ -313,7 +313,7 @@
           ]
         },
         {
-          "y": 254,
+          "y": 254.2,
           "text": "•",
           "bbox": [
             126.0199966430664,
@@ -347,7 +347,7 @@
           ]
         },
         {
-          "y": 270,
+          "y": 270.5,
           "text": "the PDF you want to share?",
           "bbox": [
             144.02000427246094,
@@ -381,7 +381,7 @@
           ]
         },
         {
-          "y": 299,
+          "y": 299.3,
           "text": "Choose Your Sharing Method",
           "bbox": [
             108.0199966430664,
@@ -415,7 +415,7 @@
           ]
         },
         {
-          "y": 304,
+          "y": 303.7,
           "text": "•",
           "bbox": [
             90.0,
@@ -449,7 +449,7 @@
           ]
         },
         {
-          "y": 328,
+          "y": 328.1,
           "text": "Are you sharing via email, link, or a third-party app like",
           "bbox": [
             144.02000427246094,
@@ -483,7 +483,7 @@
           ]
         },
         {
-          "y": 333,
+          "y": 332.6,
           "text": "•",
           "bbox": [
             126.0199966430664,
@@ -517,7 +517,7 @@
           ]
         },
         {
-          "y": 349,
+          "y": 348.8,
           "text": "Microsoft Teams or WhatsApp?",
           "bbox": [
             144.02000427246094,
@@ -551,7 +551,7 @@
           ]
         },
         {
-          "y": 378,
+          "y": 377.6,
           "text": "Set Permissions",
           "bbox": [
             108.0199966430664,
@@ -585,7 +585,7 @@
           ]
         },
         {
-          "y": 382,
+          "y": 382.1,
           "text": "•",
           "bbox": [
             90.0,
@@ -619,7 +619,7 @@
           ]
         },
         {
-          "y": 406,
+          "y": 406.5,
           "text": "Have you decided if recipients can comment or just view the",
           "bbox": [
             144.02000427246094,
@@ -653,7 +653,7 @@
           ]
         },
         {
-          "y": 411,
+          "y": 411.0,
           "text": "•",
           "bbox": [
             126.0199966430664,
@@ -687,7 +687,7 @@
           ]
         },
         {
-          "y": 427,
+          "y": 427.3,
           "text": "document?",
           "bbox": [
             144.02000427246094,
@@ -721,7 +721,7 @@
           ]
         },
         {
-          "y": 456,
+          "y": 456.1,
           "text": "Add Recipients",
           "bbox": [
             108.0199966430664,
@@ -755,7 +755,7 @@
           ]
         },
         {
-          "y": 461,
+          "y": 460.5,
           "text": "•",
           "bbox": [
             90.0,
@@ -789,7 +789,7 @@
           ]
         },
         {
-          "y": 485,
+          "y": 484.9,
           "text": "Did you enter the email addresses of everyone who needs",
           "bbox": [
             144.02000427246094,
@@ -823,7 +823,7 @@
           ]
         },
         {
-          "y": 489,
+          "y": 489.4,
           "text": "•",
           "bbox": [
             126.0199966430664,
@@ -857,7 +857,7 @@
           ]
         },
         {
-          "y": 506,
+          "y": 505.6,
           "text": "access?",
           "bbox": [
             144.02000427246094,
@@ -891,7 +891,7 @@
           ]
         },
         {
-          "y": 534,
+          "y": 534.4,
           "text": "Customize Your Message",
           "bbox": [
             108.0199966430664,
@@ -925,7 +925,7 @@
           ]
         },
         {
-          "y": 539,
+          "y": 538.9,
           "text": "•",
           "bbox": [
             90.0,
@@ -959,7 +959,7 @@
           ]
         },
         {
-          "y": 563,
+          "y": 563.3,
           "text": "Have you added a personal touch to the subject and message",
           "bbox": [
             144.02000427246094,
@@ -993,7 +993,7 @@
           ]
         },
         {
-          "y": 568,
+          "y": 567.8,
           "text": "•",
           "bbox": [
             126.0199966430664,
@@ -1027,7 +1027,7 @@
           ]
         },
         {
-          "y": 584,
+          "y": 584.0,
           "text": "fields?",
           "bbox": [
             144.02000427246094,
@@ -1061,7 +1061,7 @@
           ]
         },
         {
-          "y": 613,
+          "y": 612.8,
           "text": "Create and Share the Link",
           "bbox": [
             108.0199966430664,
@@ -1095,7 +1095,7 @@
           ]
         },
         {
-          "y": 617,
+          "y": 617.3,
           "text": "•",
           "bbox": [
             90.0,
@@ -1129,7 +1129,7 @@
           ]
         },
         {
-          "y": 642,
+          "y": 641.6,
           "text": "Did you generate a shareable link and copy it for distribution?",
           "bbox": [
             144.02000427246094,
@@ -1163,7 +1163,7 @@
           ]
         },
         {
-          "y": 646,
+          "y": 646.1,
           "text": "•",
           "bbox": [
             126.0199966430664,
@@ -1197,7 +1197,7 @@
           ]
         },
         {
-          "y": 670,
+          "y": 670.4,
           "text": "Send the Invitation",
           "bbox": [
             108.0199966430664,
@@ -1231,7 +1231,7 @@
           ]
         },
         {
-          "y": 675,
+          "y": 674.9,
           "text": "•",
           "bbox": [
             90.0,
@@ -1272,7 +1272,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.1,
           "text": "Have you sent the email or shared the link through your",
           "bbox": [
             144.02000427246094,
@@ -1306,7 +1306,7 @@
           ]
         },
         {
-          "y": 77,
+          "y": 76.6,
           "text": "•",
           "bbox": [
             126.0199966430664,
@@ -1340,7 +1340,7 @@
           ]
         },
         {
-          "y": 93,
+          "y": 92.8,
           "text": "chosen platform?",
           "bbox": [
             144.02000427246094,
@@ -1374,7 +1374,7 @@
           ]
         },
         {
-          "y": 122,
+          "y": 121.7,
           "text": "Follow Up",
           "bbox": [
             108.0199966430664,
@@ -1408,7 +1408,7 @@
           ]
         },
         {
-          "y": 126,
+          "y": 126.1,
           "text": "•",
           "bbox": [
             90.0,
@@ -1442,7 +1442,7 @@
           ]
         },
         {
-          "y": 151,
+          "y": 150.5,
           "text": "Are you tracking who has accessed the document and",
           "bbox": [
             144.02000427246094,
@@ -1476,7 +1476,7 @@
           ]
         },
         {
-          "y": 155,
+          "y": 155.0,
           "text": "•",
           "bbox": [
             126.0199966430664,
@@ -1510,7 +1510,7 @@
           ]
         },
         {
-          "y": 171,
+          "y": 171.2,
           "text": "following up as needed?",
           "bbox": [
             144.02000427246094,
@@ -1544,7 +1544,7 @@
           ]
         },
         {
-          "y": 200,
+          "y": 200.0,
           "text": "Professional Tip: Clear Instructions",
           "bbox": [
             72.0,
@@ -1578,7 +1578,7 @@
           ]
         },
         {
-          "y": 229,
+          "y": 228.9,
           "text": "Ensure your email instructions are clear and concise to avoid any",
           "bbox": [
             72.0,
@@ -1612,7 +1612,7 @@
           ]
         },
         {
-          "y": 250,
+          "y": 249.6,
           "text": "confusion for your recipients.",
           "bbox": [
             72.0,
@@ -1646,7 +1646,7 @@
           ]
         },
         {
-          "y": 307,
+          "y": 307.2,
           "text": "Sharing Checklist for Real Estate Professionals",
           "bbox": [
             72.0,
@@ -1680,7 +1680,7 @@
           ]
         },
         {
-          "y": 336,
+          "y": 336.1,
           "text": "In the real estate industry, sharing documents efficiently is crucial for",
           "bbox": [
             72.0,
@@ -1714,7 +1714,7 @@
           ]
         },
         {
-          "y": 357,
+          "y": 356.9,
           "text": "closing deals and keeping clients informed. Here's a tailored checklist to",
           "bbox": [
             72.0,
@@ -1748,7 +1748,7 @@
           ]
         },
         {
-          "y": 378,
+          "y": 377.6,
           "text": "help you manage your PDF sharing needs.",
           "bbox": [
             72.0,
@@ -1782,7 +1782,7 @@
           ]
         },
         {
-          "y": 406,
+          "y": 406.4,
           "text": "Real Estate Sharing Checklist",
           "bbox": [
             72.0,
@@ -1816,7 +1816,7 @@
           ]
         },
         {
-          "y": 435,
+          "y": 435.2,
           "text": "Open Your Property Document",
           "bbox": [
             108.0199966430664,
@@ -1850,7 +1850,7 @@
           ]
         },
         {
-          "y": 440,
+          "y": 439.7,
           "text": "•",
           "bbox": [
             90.0,
@@ -1884,7 +1884,7 @@
           ]
         },
         {
-          "y": 464,
+          "y": 464.1,
           "text": "Have you launched Acrobat or Acrobat Reader and opened",
           "bbox": [
             144.02000427246094,
@@ -1918,7 +1918,7 @@
           ]
         },
         {
-          "y": 469,
+          "y": 468.6,
           "text": "•",
           "bbox": [
             126.0199966430664,
@@ -1952,7 +1952,7 @@
           ]
         },
         {
-          "y": 485,
+          "y": 484.9,
           "text": "the property listing or contract you need to share?",
           "bbox": [
             144.02000427246094,
@@ -1986,7 +1986,7 @@
           ]
         },
         {
-          "y": 514,
+          "y": 513.7,
           "text": "Choose Your Sharing Method",
           "bbox": [
             108.0199966430664,
@@ -2020,7 +2020,7 @@
           ]
         },
         {
-          "y": 518,
+          "y": 518.1,
           "text": "•",
           "bbox": [
             90.0,
@@ -2054,7 +2054,7 @@
           ]
         },
         {
-          "y": 543,
+          "y": 542.5,
           "text": "Are you sharing via email, link, or a third-party app like",
           "bbox": [
             144.02000427246094,
@@ -2088,7 +2088,7 @@
           ]
         },
         {
-          "y": 547,
+          "y": 547.0,
           "text": "•",
           "bbox": [
             126.0199966430664,
@@ -2122,7 +2122,7 @@
           ]
         },
         {
-          "y": 563,
+          "y": 563.2,
           "text": "Microsoft Teams or WhatsApp?",
           "bbox": [
             144.02000427246094,
@@ -2156,7 +2156,7 @@
           ]
         },
         {
-          "y": 592,
+          "y": 592.0,
           "text": "Set Permissions",
           "bbox": [
             108.0199966430664,
@@ -2190,7 +2190,7 @@
           ]
         },
         {
-          "y": 597,
+          "y": 596.5,
           "text": "•",
           "bbox": [
             90.0,
@@ -2224,7 +2224,7 @@
           ]
         },
         {
-          "y": 621,
+          "y": 620.9,
           "text": "Have you decided if clients can comment on the document or",
           "bbox": [
             144.02000427246094,
@@ -2258,7 +2258,7 @@
           ]
         },
         {
-          "y": 625,
+          "y": 625.4,
           "text": "•",
           "bbox": [
             126.0199966430664,
@@ -2292,7 +2292,7 @@
           ]
         },
         {
-          "y": 642,
+          "y": 641.6,
           "text": "just view it?",
           "bbox": [
             144.02000427246094,
@@ -2326,7 +2326,7 @@
           ]
         },
         {
-          "y": 670,
+          "y": 670.4,
           "text": "Add Clients and Stakeholders",
           "bbox": [
             108.0199966430664,
@@ -2360,7 +2360,7 @@
           ]
         },
         {
-          "y": 675,
+          "y": 674.9,
           "text": "•",
           "bbox": [
             90.0,
@@ -2401,7 +2401,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 72,
+          "y": 72.1,
           "text": "Did you enter the email addresses of clients, agents, and other",
           "bbox": [
             144.02000427246094,
@@ -2435,7 +2435,7 @@
           ]
         },
         {
-          "y": 77,
+          "y": 76.6,
           "text": "•",
           "bbox": [
             126.0199966430664,
@@ -2469,7 +2469,7 @@
           ]
         },
         {
-          "y": 93,
+          "y": 92.8,
           "text": "stakeholders?",
           "bbox": [
             144.02000427246094,
@@ -2503,7 +2503,7 @@
           ]
         },
         {
-          "y": 122,
+          "y": 121.7,
           "text": "Customize Your Message",
           "bbox": [
             108.0199966430664,
@@ -2537,7 +2537,7 @@
           ]
         },
         {
-          "y": 126,
+          "y": 126.1,
           "text": "•",
           "bbox": [
             90.0,
@@ -2571,7 +2571,7 @@
           ]
         },
         {
-          "y": 151,
+          "y": 150.5,
           "text": "Have you added a personal touch to the subject and message",
           "bbox": [
             144.02000427246094,
@@ -2605,7 +2605,7 @@
           ]
         },
         {
-          "y": 155,
+          "y": 155.0,
           "text": "•",
           "bbox": [
             126.0199966430664,
@@ -2639,7 +2639,7 @@
           ]
         },
         {
-          "y": 171,
+          "y": 171.2,
           "text": "fields, highlighting key property details?",
           "bbox": [
             144.02000427246094,
@@ -2673,7 +2673,7 @@
           ]
         },
         {
-          "y": 200,
+          "y": 200.0,
           "text": "Create and Share the Link",
           "bbox": [
             108.0199966430664,
@@ -2707,7 +2707,7 @@
           ]
         },
         {
-          "y": 205,
+          "y": 204.5,
           "text": "•",
           "bbox": [
             90.0,
@@ -2741,7 +2741,7 @@
           ]
         },
         {
-          "y": 229,
+          "y": 228.8,
           "text": "Did you generate a shareable link and copy it for distribution?",
           "bbox": [
             144.02000427246094,
@@ -2775,7 +2775,7 @@
           ]
         },
         {
-          "y": 233,
+          "y": 233.3,
           "text": "•",
           "bbox": [
             126.0199966430664,
@@ -2809,7 +2809,7 @@
           ]
         },
         {
-          "y": 258,
+          "y": 257.6,
           "text": "Send the Invitation",
           "bbox": [
             108.0199966430664,
@@ -2843,7 +2843,7 @@
           ]
         },
         {
-          "y": 262,
+          "y": 262.1,
           "text": "•",
           "bbox": [
             90.0,
@@ -2877,7 +2877,7 @@
           ]
         },
         {
-          "y": 286,
+          "y": 286.5,
           "text": "Have you sent the email or shared the link through your",
           "bbox": [
             144.02000427246094,
@@ -2911,7 +2911,7 @@
           ]
         },
         {
-          "y": 291,
+          "y": 291.0,
           "text": "•",
           "bbox": [
             126.0199966430664,
@@ -2945,7 +2945,7 @@
           ]
         },
         {
-          "y": 307,
+          "y": 307.2,
           "text": "chosen platform?",
           "bbox": [
             144.02000427246094,
@@ -2979,7 +2979,7 @@
           ]
         },
         {
-          "y": 336,
+          "y": 336.0,
           "text": "Follow Up",
           "bbox": [
             108.0199966430664,
@@ -3013,7 +3013,7 @@
           ]
         },
         {
-          "y": 341,
+          "y": 340.5,
           "text": "•",
           "bbox": [
             90.0,
@@ -3047,7 +3047,7 @@
           ]
         },
         {
-          "y": 365,
+          "y": 364.9,
           "text": "Are you tracking who has accessed the document and",
           "bbox": [
             144.02000427246094,
@@ -3081,7 +3081,7 @@
           ]
         },
         {
-          "y": 369,
+          "y": 369.4,
           "text": "•",
           "bbox": [
             126.0199966430664,
@@ -3115,7 +3115,7 @@
           ]
         },
         {
-          "y": 386,
+          "y": 385.6,
           "text": "following up with clients for feedback or next steps?",
           "bbox": [
             144.02000427246094,
@@ -3149,7 +3149,7 @@
           ]
         },
         {
-          "y": 414,
+          "y": 414.4,
           "text": "Professional Tip: Highlight Key Details",
           "bbox": [
             72.0,
@@ -3183,7 +3183,7 @@
           ]
         },
         {
-          "y": 443,
+          "y": 443.3,
           "text": "Make sure to emphasize important property details in your message to",
           "bbox": [
             72.0,
@@ -3217,7 +3217,7 @@
           ]
         },
         {
-          "y": 464,
+          "y": 464.0,
           "text": "capture your clients' attention.",
           "bbox": [
             72.0,
@@ -3251,7 +3251,7 @@
           ]
         },
         {
-          "y": 522,
+          "y": 521.6,
           "text": "Conclusion",
           "bbox": [
             72.0,
@@ -3285,7 +3285,7 @@
           ]
         },
         {
-          "y": 550,
+          "y": 550.5,
           "text": "Sharing PDFs with Adobe Acrobat is straightforward and efficient,",
           "bbox": [
             72.0,
@@ -3319,7 +3319,7 @@
           ]
         },
         {
-          "y": 571,
+          "y": 571.3,
           "text": "whether you're working on a general project or managing real estate",
           "bbox": [
             72.0,
@@ -3353,7 +3353,7 @@
           ]
         },
         {
-          "y": 592,
+          "y": 592.1,
           "text": "documents. By following these checklists, you can ensure that your",
           "bbox": [
             72.0,
@@ -3387,7 +3387,7 @@
           ]
         },
         {
-          "y": 613,
+          "y": 612.8,
           "text": "sharing process is smooth and professional. Start sharing smarter today.",
           "bbox": [
             72.0,

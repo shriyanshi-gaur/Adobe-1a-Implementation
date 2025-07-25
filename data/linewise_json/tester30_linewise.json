@@ -7,7 +7,7 @@
       "page_height": 841.9199829101562,
       "lines": [
         {
-          "y": 18,
+          "y": 18.4,
           "text": "Advances in Social Science, Education and Humanities Research, volume 637",
           "bbox": [
             157.0500030517578,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 33,
+          "y": 32.5,
           "text": "2021 International Conference on Education, Language and Art (ICELA 2021)",
           "bbox": [
             146.16000366210938,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 127,
+          "y": 126.6,
           "text": "What is Beauty?",
           "bbox": [
             234.2899932861328,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 155,
+          "y": 155.5,
           "text": "—Pursuing Infinity with Infinity (Infinity of Subject with Infinity of",
           "bbox": [
             65.42400360107422,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 175,
+          "y": 175.4,
           "text": "Object)",
           "bbox": [
             271.9700012207031,
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "y": 203,
+          "y": 202.8,
           "text": "Xiaodan Liu",
           "bbox": [
             262.489990234375,
@@ -211,7 +211,7 @@
           ]
         },
         {
-          "y": 233,
+          "y": 232.9,
           "text": "School of Guangdong University of Foreign Studies South China Business College,",
           "bbox": [
             60.119998931884766,
@@ -245,7 +245,7 @@
           ]
         },
         {
-          "y": 244,
+          "y": 244.4,
           "text": "E-mail: 156612120@qq.com",
           "bbox": [
             60.119998931884766,
@@ -279,7 +279,7 @@
           ]
         },
         {
-          "y": 269,
+          "y": 269.5,
           "text": "ABSTRACT",
           "bbox": [
             60.119998931884766,
@@ -313,7 +313,7 @@
           ]
         },
         {
-          "y": 282,
+          "y": 282.2,
           "text": "Beauty constitutes the result of aesthetic conception. There is objective beautiful content but a subjective notion for",
           "bbox": [
             60.119998931884766,
@@ -347,7 +347,7 @@
           ]
         },
         {
-          "y": 295,
+          "y": 295.1,
           "text": "beauty. Based on subjectivity (the subject is the measure of beauty), making rationality the absolute object can also",
           "bbox": [
             60.119998931884766,
@@ -381,7 +381,7 @@
           ]
         },
         {
-          "y": 308,
+          "y": 308.2,
           "text": "absolutely rationalize the object. Beauty cannot separate itself from an individual, for it is the feeling of the individual",
           "bbox": [
             60.119998931884766,
@@ -415,7 +415,7 @@
           ]
         },
         {
-          "y": 321,
+          "y": 321.2,
           "text": "(presented perceptually). If \"beauty\" is regarded as a reasonable interpretation, then aesthetic conception can be",
           "bbox": [
             60.119998931884766,
@@ -449,7 +449,7 @@
           ]
         },
         {
-          "y": 334,
+          "y": 334.1,
           "text": "obtained through learning. However, aesthetic conception is more of an unconscious self-action. Starting from beauty in",
           "bbox": [
             60.119998931884766,
@@ -483,7 +483,7 @@
           ]
         },
         {
-          "y": 347,
+          "y": 347.2,
           "text": "a pure form, this article deeply explores that the aesthetic conception is the infinity of subject to the infinity of object,",
           "bbox": [
             60.119998931884766,
@@ -517,7 +517,7 @@
           ]
         },
         {
-          "y": 360,
+          "y": 360.2,
           "text": "and reveals the philosophical interest of \"pursuing infinity with infinity\" of Oriental aesthetic conception.",
           "bbox": [
             60.119998931884766,
@@ -551,7 +551,7 @@
           ]
         },
         {
-          "y": 384,
+          "y": 383.9,
           "text": "Keywords: beauty; aesthetic conception; Kant; Zhuangzi",
           "bbox": [
             60.119998931884766,
@@ -607,12 +607,12 @@
           ]
         },
         {
-          "y": 419,
-          "text": "1. INTRODUCTION no knowledge of \"it\", we still feel its beauty. This",
+          "y": 418.9,
+          "text": "1. INTRODUCTION",
           "bbox": [
             60.119998931884766,
-            418.7643737792969,
-            537.506103515625,
+            418.9256591796875,
+            176.05999755859375,
             431.67828369140625
           ],
           "spans": [
@@ -640,28 +640,6 @@
             },
             {
               "size": 11.520000457763672,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Arial-BoldMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                68.78399658203125,
-                429.1899719238281
-              ],
-              "bbox": [
-                68.78399658203125,
-                418.7643737792969,
-                71.98655700683594,
-                431.6091613769531
-              ]
-            },
-            {
-              "size": 11.520000457763672,
               "flags": 20,
               "bidi": 0,
               "char_flags": 24,
@@ -681,7 +659,19 @@
                 176.05999755859375,
                 431.67828369140625
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 419.2,
+          "text": "no knowledge of \"it\", we still feel its beauty. This",
+          "bbox": [
+            307.3699951171875,
+            419.2356262207031,
+            537.506103515625,
+            430.2613525390625
+          ],
+          "spans": [
             {
               "size": 9.960000038146973,
               "flags": 4,
@@ -707,7 +697,7 @@
           ]
         },
         {
-          "y": 431,
+          "y": 431.2,
           "text": "indicates disinterestedness between the object \"it\" in the",
           "bbox": [
             307.3699951171875,
@@ -741,7 +731,7 @@
           ]
         },
         {
-          "y": 441,
+          "y": 441.4,
           "text": "When it comes to \"truth, goodwill, and beauty\", then",
           "bbox": [
             74.54399871826172,
@@ -775,7 +765,7 @@
           ]
         },
         {
-          "y": 443,
+          "y": 443.2,
           "text": "subjective consciousness and the subject.",
           "bbox": [
             307.3699951171875,
@@ -809,7 +799,7 @@
           ]
         },
         {
-          "y": 453,
+          "y": 453.4,
           "text": "what is the definition? Truth refers to truth-seeking,",
           "bbox": [
             60.119998931884766,
@@ -843,7 +833,7 @@
           ]
         },
         {
-          "y": 461,
+          "y": 461.2,
           "text": "In the book Critique of Judgment, Emmanuel Kant",
           "bbox": [
             321.7900085449219,
@@ -877,7 +867,7 @@
           ]
         },
         {
-          "y": 465,
+          "y": 465.4,
           "text": "which is about cognition; goodwill refers to something",
           "bbox": [
             60.119998931884766,
@@ -911,7 +901,7 @@
           ]
         },
         {
-          "y": 473,
+          "y": 473.2,
           "text": "(1724-1804), a German classical philosopher, wrote that",
           "bbox": [
             307.3699951171875,
@@ -945,7 +935,7 @@
           ]
         },
         {
-          "y": 477,
+          "y": 477.4,
           "text": "related to morality; different from \"truth\" and \"goodwill\",",
           "bbox": [
             60.119998931884766,
@@ -979,7 +969,7 @@
           ]
         },
         {
-          "y": 485,
+          "y": 485.2,
           "text": "everyone must admit that a judgment on beauty will not",
           "bbox": [
             307.3699951171875,
@@ -1013,7 +1003,7 @@
           ]
         },
         {
-          "y": 489,
+          "y": 489.4,
           "text": "beauty is pure and independent. When people talk about",
           "bbox": [
             60.119998931884766,
@@ -1047,7 +1037,7 @@
           ]
         },
         {
-          "y": 497,
+          "y": 497.2,
           "text": "be a pure appreciation of judgment as long as it is mixed",
           "bbox": [
             307.3699951171875,
@@ -1081,7 +1071,7 @@
           ]
         },
         {
-          "y": 501,
+          "y": 501.4,
           "text": "aesthetics, as the intermediary of knowledge, they",
           "bbox": [
             60.119998931884766,
@@ -1115,7 +1105,7 @@
           ]
         },
         {
-          "y": 509,
+          "y": 509.2,
           "text": "with a little sense of interest. Therefore, in the case of an",
           "bbox": [
             307.3699951171875,
@@ -1149,7 +1139,7 @@
           ]
         },
         {
-          "y": 513,
+          "y": 513.4,
           "text": "explain the understanding and judgment of beauty in a",
           "bbox": [
             60.119998931884766,
@@ -1183,7 +1173,7 @@
           ]
         },
         {
-          "y": 521,
+          "y": 521.2,
           "text": "attempt to seek advantages and avoid disadvantages,",
           "bbox": [
             307.3699951171875,
@@ -1217,7 +1207,7 @@
           ]
         },
         {
-          "y": 525,
+          "y": 525.4,
           "text": "written form with the intermediary as knowledge. Then,",
           "bbox": [
             60.119998931884766,
@@ -1251,7 +1241,7 @@
           ]
         },
         {
-          "y": 533,
+          "y": 533.2,
           "text": "beauty does not have a true and rational judgment. The",
           "bbox": [
             307.3699951171875,
@@ -1285,7 +1275,7 @@
           ]
         },
         {
-          "y": 537,
+          "y": 537.4,
           "text": "how does aesthetic conception occur?",
           "bbox": [
             60.119998931884766,
@@ -1319,7 +1309,7 @@
           ]
         },
         {
-          "y": 545,
+          "y": 545.2,
           "text": "objects it praises and criticizes have nothing to do with",
           "bbox": [
             307.3699951171875,
@@ -1353,7 +1343,7 @@
           ]
         },
         {
-          "y": 557,
+          "y": 557.3,
           "text": "the judgment of \"truth\", \"goodwill\" or \"beauty\". When",
           "bbox": [
             307.3699951171875,
@@ -1387,7 +1377,7 @@
           ]
         },
         {
-          "y": 561,
+          "y": 561.2,
           "text": "2. BEAUTY IN A PURE FORM",
           "bbox": [
             60.119998931884766,
@@ -1421,7 +1411,7 @@
           ]
         },
         {
-          "y": 569,
+          "y": 569.3,
           "text": "judging that behavior is \"good\", people can still observe",
           "bbox": [
             307.3699951171875,
@@ -1455,7 +1445,7 @@
           ]
         },
         {
-          "y": 581,
+          "y": 581.3,
           "text": "the motivation of the object. But the pleasure brought by",
           "bbox": [
             307.3699951171875,
@@ -1489,7 +1479,7 @@
           ]
         },
         {
-          "y": 584,
+          "y": 583.8,
           "text": "When it comes to \"truth, goodwill, and beauty\", then",
           "bbox": [
             74.54399871826172,
@@ -1523,7 +1513,7 @@
           ]
         },
         {
-          "y": 593,
+          "y": 593.3,
           "text": "beauty is so pure that it has nothing to do with interests.",
           "bbox": [
             307.3699951171875,
@@ -1557,7 +1547,7 @@
           ]
         },
         {
-          "y": 596,
+          "y": 595.8,
           "text": "what is the definition? Truth refers to truth-seeking,",
           "bbox": [
             60.119998931884766,
@@ -1591,7 +1581,7 @@
           ]
         },
         {
-          "y": 605,
+          "y": 605.3,
           "text": "Moreover, beauty must be specific. People can regard an",
           "bbox": [
             307.3699951171875,
@@ -1625,7 +1615,7 @@
           ]
         },
         {
-          "y": 608,
+          "y": 607.8,
           "text": "which is about cognition; goodwill refers to something",
           "bbox": [
             60.119998931884766,
@@ -1659,7 +1649,7 @@
           ]
         },
         {
-          "y": 617,
+          "y": 617.3,
           "text": "object as something beautiful, but they cannot generalize",
           "bbox": [
             307.3699951171875,
@@ -1693,7 +1683,7 @@
           ]
         },
         {
-          "y": 620,
+          "y": 619.8,
           "text": "related to morality; different from \"truth\" and \"goodwill\",",
           "bbox": [
             60.119998931884766,
@@ -1727,7 +1717,7 @@
           ]
         },
         {
-          "y": 629,
+          "y": 629.3,
           "text": "a category of objects as beauty, for beauty also needs to",
           "bbox": [
             307.3699951171875,
@@ -1761,7 +1751,7 @@
           ]
         },
         {
-          "y": 632,
+          "y": 631.8,
           "text": "beauty is pure and independent. People describe beauty",
           "bbox": [
             60.119998931884766,
@@ -1795,7 +1785,7 @@
           ]
         },
         {
-          "y": 641,
+          "y": 641.3,
           "text": "be proved[2].",
           "bbox": [
             307.3699951171875,
@@ -1829,7 +1819,7 @@
           ]
         },
         {
-          "y": 644,
+          "y": 643.8,
           "text": "in a written form with the intermediary as knowledge,",
           "bbox": [
             60.119998931884766,
@@ -1863,7 +1853,7 @@
           ]
         },
         {
-          "y": 656,
+          "y": 655.8,
           "text": "which can be regarded as the cognitive judgment of",
           "bbox": [
             60.119998931884766,
@@ -1897,7 +1887,7 @@
           ]
         },
         {
-          "y": 659,
+          "y": 659.3,
           "text": "In the meantime, aesthetic judgment is universal.",
           "bbox": [
             321.7900085449219,
@@ -1931,7 +1921,7 @@
           ]
         },
         {
-          "y": 668,
+          "y": 667.8,
           "text": "beauty[1]. Among these understandings, people wonder",
           "bbox": [
             60.119998931884766,
@@ -1965,7 +1955,7 @@
           ]
         },
         {
-          "y": 671,
+          "y": 671.3,
           "text": "Kant once said that beauty is regarded as an inevitable",
           "bbox": [
             307.3699951171875,
@@ -1999,7 +1989,7 @@
           ]
         },
         {
-          "y": 680,
+          "y": 679.8,
           "text": "whether it conforms to the aesthetic principles, has",
           "bbox": [
             60.119998931884766,
@@ -2033,7 +2023,7 @@
           ]
         },
         {
-          "y": 683,
+          "y": 683.3,
           "text": "pleasure without relying on concepts. It is effective for",
           "bbox": [
             307.3699951171875,
@@ -2067,7 +2057,7 @@
           ]
         },
         {
-          "y": 692,
+          "y": 691.8,
           "text": "unique materials, and sublimates the emotion. However,",
           "bbox": [
             60.119998931884766,
@@ -2101,7 +2091,7 @@
           ]
         },
         {
-          "y": 695,
+          "y": 695.3,
           "text": "everyone. We can understand this universality as a kind",
           "bbox": [
             307.3699951171875,
@@ -2135,7 +2125,7 @@
           ]
         },
         {
-          "y": 704,
+          "y": 703.8,
           "text": "the above is only cognitive judgments that can be taught.",
           "bbox": [
             60.119998931884766,
@@ -2169,7 +2159,7 @@
           ]
         },
         {
-          "y": 707,
+          "y": 707.3,
           "text": "of inevitability and common emotion that can be shared",
           "bbox": [
             307.3699951171875,
@@ -2203,7 +2193,7 @@
           ]
         },
         {
-          "y": 716,
+          "y": 715.8,
           "text": "The so-called aesthetic judgment does not involve the",
           "bbox": [
             60.119998931884766,
@@ -2237,7 +2227,7 @@
           ]
         },
         {
-          "y": 719,
+          "y": 719.3,
           "text": "by people. When seeing the winding path leading to",
           "bbox": [
             307.3699951171875,
@@ -2271,7 +2261,7 @@
           ]
         },
         {
-          "y": 728,
+          "y": 727.8,
           "text": "specific content of objectification, and objectification is",
           "bbox": [
             60.119998931884766,
@@ -2305,7 +2295,7 @@
           ]
         },
         {
-          "y": 731,
+          "y": 731.3,
           "text": "seclusions in high mountains and flowing water and",
           "bbox": [
             307.3699951171875,
@@ -2339,7 +2329,7 @@
           ]
         },
         {
-          "y": 740,
+          "y": 739.8,
           "text": "only a pure form that can bring pleasure. Despite having",
           "bbox": [
             60.119998931884766,
@@ -2373,7 +2363,7 @@
           ]
         },
         {
-          "y": 807,
+          "y": 807.4,
           "text": "Copyright © 2022 The Authors. Published by Atlantis Press SARL.",
           "bbox": [
             175.61000061035156,
@@ -2407,7 +2397,7 @@
           ]
         },
         {
-          "y": 817,
+          "y": 817.4,
           "text": "This is an open access article distributed under the CC BY-NC 4.0 license -http://creativecommons.org/licenses/by-nc/4.0/.",
           "bbox": [
             75.79000091552734,
@@ -2441,7 +2431,7 @@
           ]
         },
         {
-          "y": 818,
+          "y": 817.5,
           "text": "617",
           "bbox": [
             533.25,
@@ -2482,7 +2472,7 @@
       "page_height": 841.9199829101562,
       "lines": [
         {
-          "y": 18,
+          "y": 18.4,
           "text": "Advances in Social Science, Education and Humanities Research, volume 637",
           "bbox": [
             157.0500030517578,
@@ -2516,7 +2506,7 @@
           ]
         },
         {
-          "y": 73,
+          "y": 72.7,
           "text": "feeling the towering of the Great Wall, people can share logical self-consistency exists based on the limited",
           "bbox": [
             60.119998931884766,
@@ -2572,7 +2562,7 @@
           ]
         },
         {
-          "y": 85,
+          "y": 84.7,
           "text": "the same aesthetic conception[3]. intercepted phenomenal materials, that is, the closed",
           "bbox": [
             60.119998931884766,
@@ -2628,7 +2618,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 96.7,
           "text": "logical ring system corresponds to the non-closed open",
           "bbox": [
             307.3699951171875,
@@ -2662,7 +2652,7 @@
           ]
         },
         {
-          "y": 103,
+          "y": 102.7,
           "text": "With the existence of pure beauty, we can think of",
           "bbox": [
             74.54399871826172,
@@ -2696,7 +2686,7 @@
           ]
         },
         {
-          "y": 109,
+          "y": 108.7,
           "text": "object. The ideal correspondence judgment based on its",
           "bbox": [
             307.3699951171875,
@@ -2730,7 +2720,7 @@
           ]
         },
         {
-          "y": 115,
+          "y": 114.7,
           "text": "another kind of beauty, namely, dependent beauty, which",
           "bbox": [
             60.119998931884766,
@@ -2764,7 +2754,7 @@
           ]
         },
         {
-          "y": 121,
+          "y": 120.7,
           "text": "assumption of closure must be highly distorted due to the",
           "bbox": [
             307.3699951171875,
@@ -2798,7 +2788,7 @@
           ]
         },
         {
-          "y": 127,
+          "y": 126.7,
           "text": "is a kind of beauty full of humans’ cultural emotion in the",
           "bbox": [
             60.119998931884766,
@@ -2832,7 +2822,7 @@
           ]
         },
         {
-          "y": 133,
+          "y": 132.7,
           "text": "disadvantage of highly relying on direct experience.",
           "bbox": [
             307.3699951171875,
@@ -2866,7 +2856,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 138.7,
           "text": "society, such as national cultural totem, dress design, etc.",
           "bbox": [
             60.119998931884766,
@@ -2900,7 +2890,7 @@
           ]
         },
         {
-          "y": 151,
+          "y": 150.7,
           "text": "It is a kind of aesthetic feeling attached to the aesthetic All scientific experiments are the result of this",
           "bbox": [
             60.119998931884766,
@@ -2956,7 +2946,7 @@
           ]
         },
         {
-          "y": 163,
+          "y": 162.7,
           "text": "object in cultural dependence under the influence of assumption, but this is often the requirement of public",
           "bbox": [
             60.119998931884766,
@@ -3012,7 +3002,7 @@
           ]
         },
         {
-          "y": 175,
+          "y": 174.7,
           "text": "many factors (climate, environment, language habits). discourse. For example, in communication, we are",
           "bbox": [
             60.119998931884766,
@@ -3068,7 +3058,7 @@
           ]
         },
         {
-          "y": 187,
+          "y": 186.7,
           "text": "For example, the beautiful human body is based on a required to preset the margin first. Although this",
           "bbox": [
             60.119998931884766,
@@ -3124,7 +3114,7 @@
           ]
         },
         {
-          "y": 199,
+          "y": 198.7,
           "text": "healthy body, which implies positivity and beauty[4]. requirement seems reasonable, it assumes the",
           "bbox": [
             60.119998931884766,
@@ -3290,7 +3280,7 @@
           ]
         },
         {
-          "y": 211,
+          "y": 210.7,
           "text": "non-openness of the object at the beginning. At the cost",
           "bbox": [
             307.3699951171875,
@@ -3324,7 +3314,7 @@
           ]
         },
         {
-          "y": 217,
+          "y": 216.7,
           "text": "In my opinion, artistic beauty is the highest aesthetic",
           "bbox": [
             74.54399871826172,
@@ -3358,7 +3348,7 @@
           ]
         },
         {
-          "y": 223,
+          "y": 222.7,
           "text": "of distortion, this consensus doctrine gains logically but",
           "bbox": [
             307.3699951171875,
@@ -3392,7 +3382,7 @@
           ]
         },
         {
-          "y": 229,
+          "y": 228.8,
           "text": "feeling due to its deep aesthetic feeling created by the",
           "bbox": [
             60.119998931884766,
@@ -3426,7 +3416,7 @@
           ]
         },
         {
-          "y": 235,
+          "y": 234.8,
           "text": "loses its true meaning. In the process of logical reflection,",
           "bbox": [
             307.3699951171875,
@@ -3460,7 +3450,7 @@
           ]
         },
         {
-          "y": 241,
+          "y": 240.8,
           "text": "labor of the human spirit. It can be crazy, painful, or",
           "bbox": [
             60.119998931884766,
@@ -3494,7 +3484,7 @@
           ]
         },
         {
-          "y": 247,
+          "y": 246.8,
           "text": "an individual makes limited provisions, that is, he only",
           "bbox": [
             307.3699951171875,
@@ -3528,7 +3518,7 @@
           ]
         },
         {
-          "y": 253,
+          "y": 252.8,
           "text": "indifferent and harmonious. This unique artistic beauty",
           "bbox": [
             60.119998931884766,
@@ -3562,7 +3552,7 @@
           ]
         },
         {
-          "y": 259,
+          "y": 258.8,
           "text": "mobilizes the intellectual structure related to the meaning",
           "bbox": [
             307.3699951171875,
@@ -3596,7 +3586,7 @@
           ]
         },
         {
-          "y": 265,
+          "y": 264.8,
           "text": "cannot be imitated. People can acquire knowledge by",
           "bbox": [
             60.119998931884766,
@@ -3630,7 +3620,7 @@
           ]
         },
         {
-          "y": 271,
+          "y": 270.8,
           "text": "of the object. Meanwhile, he clarifies the edge of the",
           "bbox": [
             307.3699951171875,
@@ -3664,7 +3654,7 @@
           ]
         },
         {
-          "y": 277,
+          "y": 276.8,
           "text": "reading mechanical works, but in art, only artists with",
           "bbox": [
             60.119998931884766,
@@ -3698,7 +3688,7 @@
           ]
         },
         {
-          "y": 283,
+          "y": 282.8,
           "text": "object and makes limited cooperation with the subject",
           "bbox": [
             307.3699951171875,
@@ -3732,7 +3722,7 @@
           ]
         },
         {
-          "y": 289,
+          "y": 288.8,
           "text": "great souls can create works of genius. It cannot be",
           "bbox": [
             60.119998931884766,
@@ -3766,7 +3756,7 @@
           ]
         },
         {
-          "y": 295,
+          "y": 294.8,
           "text": "and object. This is the requirement of logical reflection,",
           "bbox": [
             307.3699951171875,
@@ -3800,7 +3790,7 @@
           ]
         },
         {
-          "y": 301,
+          "y": 300.8,
           "text": "imitated and cannot formulate all \"prescriptive\"",
           "bbox": [
             60.119998931884766,
@@ -3834,7 +3824,7 @@
           ]
         },
         {
-          "y": 307,
+          "y": 306.8,
           "text": "or in a narrow sense, reflecting on the \"object\" itself is the",
           "bbox": [
             307.3699951171875,
@@ -3868,7 +3858,7 @@
           ]
         },
         {
-          "y": 313,
+          "y": 312.8,
           "text": "frameworks. What people can feel is the power of beauty",
           "bbox": [
             60.119998931884766,
@@ -3902,7 +3892,7 @@
           ]
         },
         {
-          "y": 319,
+          "y": 318.8,
           "text": "product of limitation and marginalization.",
           "bbox": [
             307.3699951171875,
@@ -3936,7 +3926,7 @@
           ]
         },
         {
-          "y": 325,
+          "y": 324.8,
           "text": "shown in the works[5].",
           "bbox": [
             60.119998931884766,
@@ -3970,7 +3960,7 @@
           ]
         },
         {
-          "y": 342,
+          "y": 342.5,
           "text": "4. PURSUING THE INFINITY OF THE",
           "bbox": [
             307.3699951171875,
@@ -4004,7 +3994,7 @@
           ]
         },
         {
-          "y": 348,
+          "y": 348.5,
           "text": "3. BEAUTY OCCURS PRIOR TO",
           "bbox": [
             60.119998931884766,
@@ -4038,7 +4028,7 @@
           ]
         },
         {
-          "y": 356,
+          "y": 355.7,
           "text": "SUBJECT WITH THE INFINITY OF THE",
           "bbox": [
             307.3699951171875,
@@ -4072,7 +4062,7 @@
           ]
         },
         {
-          "y": 362,
+          "y": 361.7,
           "text": "REFLECTIONS",
           "bbox": [
             60.119998931884766,
@@ -4106,7 +4096,7 @@
           ]
         },
         {
-          "y": 369,
+          "y": 368.9,
           "text": "OBJECT",
           "bbox": [
             307.3699951171875,
@@ -4140,7 +4130,7 @@
           ]
         },
         {
-          "y": 384,
+          "y": 384.2,
           "text": "Beauty constitutes the result of aesthetic conception.",
           "bbox": [
             74.54399871826172,
@@ -4174,7 +4164,7 @@
           ]
         },
         {
-          "y": 392,
+          "y": 391.5,
           "text": "However, aesthetic conception is a kind of subject",
           "bbox": [
             321.7900085449219,
@@ -4208,7 +4198,7 @@
           ]
         },
         {
-          "y": 396,
+          "y": 396.2,
           "text": "There is objective beautiful content but a subjective",
           "bbox": [
             60.119998931884766,
@@ -4242,7 +4232,7 @@
           ]
         },
         {
-          "y": 404,
+          "y": 403.5,
           "text": "infinity, that is, it does not make rational provisions",
           "bbox": [
             307.3699951171875,
@@ -4276,7 +4266,7 @@
           ]
         },
         {
-          "y": 408,
+          "y": 408.2,
           "text": "notion for beauty. Based on subjectivity (the subject is the",
           "bbox": [
             60.119998931884766,
@@ -4310,7 +4300,7 @@
           ]
         },
         {
-          "y": 416,
+          "y": 415.5,
           "text": "regardless of its relevance with the object, that is,",
           "bbox": [
             307.3699951171875,
@@ -4344,7 +4334,7 @@
           ]
         },
         {
-          "y": 420,
+          "y": 420.2,
           "text": "measure of beauty), making rationality the absolute",
           "bbox": [
             60.119998931884766,
@@ -4378,7 +4368,7 @@
           ]
         },
         {
-          "y": 428,
+          "y": 427.5,
           "text": "pursuing the infinity of the subject with the infinity of the",
           "bbox": [
             307.3699951171875,
@@ -4412,7 +4402,7 @@
           ]
         },
         {
-          "y": 432,
+          "y": 432.2,
           "text": "object can also absolutely rationalize the object. Beauty",
           "bbox": [
             60.119998931884766,
@@ -4446,7 +4436,7 @@
           ]
         },
         {
-          "y": 440,
+          "y": 439.5,
           "text": "object, just putting in an appearance. Then, the aesthetic",
           "bbox": [
             307.3699951171875,
@@ -4480,7 +4470,7 @@
           ]
         },
         {
-          "y": 444,
+          "y": 444.2,
           "text": "cannot separate itself from an individual, for it is the",
           "bbox": [
             60.119998931884766,
@@ -4514,7 +4504,7 @@
           ]
         },
         {
-          "y": 452,
+          "y": 451.5,
           "text": "subject fails to carry out meaningful and limited",
           "bbox": [
             307.3699951171875,
@@ -4548,7 +4538,7 @@
           ]
         },
         {
-          "y": 456,
+          "y": 456.2,
           "text": "feeling of the individual (presented perceptually).",
           "bbox": [
             60.119998931884766,
@@ -4582,7 +4572,7 @@
           ]
         },
         {
-          "y": 464,
+          "y": 463.5,
           "text": "mobilization, and seems to have done nothing. This",
           "bbox": [
             307.3699951171875,
@@ -4616,7 +4606,7 @@
           ]
         },
         {
-          "y": 468,
+          "y": 468.2,
           "text": "Therefore, \"beauty\" is not just a reasonable interpretation.",
           "bbox": [
             60.119998931884766,
@@ -4650,7 +4640,7 @@
           ]
         },
         {
-          "y": 476,
+          "y": 475.5,
           "text": "inaction subject, however, is unique, for an object exists.",
           "bbox": [
             307.3699951171875,
@@ -4684,7 +4674,7 @@
           ]
         },
         {
-          "y": 480,
+          "y": 480.2,
           "text": "If we only interpret rationality, then aesthetic conception",
           "bbox": [
             60.119998931884766,
@@ -4718,7 +4708,7 @@
           ]
         },
         {
-          "y": 488,
+          "y": 487.5,
           "text": "Therefore, the great difference between aesthetic",
           "bbox": [
             307.3699951171875,
@@ -4752,7 +4742,7 @@
           ]
         },
         {
-          "y": 492,
+          "y": 492.2,
           "text": "can be obtained through learning. However, aesthetic",
           "bbox": [
             60.119998931884766,
@@ -4786,7 +4776,7 @@
           ]
         },
         {
-          "y": 500,
+          "y": 499.5,
           "text": "conception and logical reflection is that the latter",
           "bbox": [
             307.3699951171875,
@@ -4820,7 +4810,7 @@
           ]
         },
         {
-          "y": 504,
+          "y": 504.2,
           "text": "conception is more about unconscious self-action.",
           "bbox": [
             60.119998931884766,
@@ -4854,7 +4844,7 @@
           ]
         },
         {
-          "y": 512,
+          "y": 511.5,
           "text": "assimilates the object based on limited rationality and the",
           "bbox": [
             307.3699951171875,
@@ -4888,7 +4878,7 @@
           ]
         },
         {
-          "y": 522,
+          "y": 522.2,
           "text": "Therefore, despite the common ground between",
           "bbox": [
             74.54399871826172,
@@ -4922,7 +4912,7 @@
           ]
         },
         {
-          "y": 524,
+          "y": 523.5,
           "text": "existing concept to make it a rational limitation, while the",
           "bbox": [
             307.3699951171875,
@@ -4956,7 +4946,7 @@
           ]
         },
         {
-          "y": 534,
+          "y": 534.2,
           "text": "beauty and rationality, what distinguishes beauty from",
           "bbox": [
             60.119998931884766,
@@ -4990,7 +4980,7 @@
           ]
         },
         {
-          "y": 536,
+          "y": 535.5,
           "text": "former is in the attitude of self \"presence\" but \"inaction\",",
           "bbox": [
             307.3699951171875,
@@ -5024,7 +5014,7 @@
           ]
         },
         {
-          "y": 546,
+          "y": 546.2,
           "text": "rationality is that beauty is not the result of reflection.",
           "bbox": [
             60.119998931884766,
@@ -5058,7 +5048,7 @@
           ]
         },
         {
-          "y": 548,
+          "y": 547.5,
           "text": "facing the \"open\" (infinite) but maintaining the \"object\"",
           "bbox": [
             307.3699951171875,
@@ -5092,7 +5082,7 @@
           ]
         },
         {
-          "y": 558,
+          "y": 558.2,
           "text": "From this point of view, aesthetic conception is not the",
           "bbox": [
             60.119998931884766,
@@ -5126,7 +5116,7 @@
           ]
         },
         {
-          "y": 560,
+          "y": 559.5,
           "text": "character. An object exists, but it is not closed or clearly",
           "bbox": [
             307.3699951171875,
@@ -5160,7 +5150,7 @@
           ]
         },
         {
-          "y": 570,
+          "y": 570.2,
           "text": "result but the beginning of thinking. As something direct",
           "bbox": [
             60.119998931884766,
@@ -5194,7 +5184,7 @@
           ]
         },
         {
-          "y": 572,
+          "y": 571.5,
           "text": "defined.",
           "bbox": [
             307.3699951171875,
@@ -5228,7 +5218,7 @@
           ]
         },
         {
-          "y": 582,
+          "y": 582.2,
           "text": "and intuitive, beauty comes before rational reflection.",
           "bbox": [
             60.119998931884766,
@@ -5262,7 +5252,7 @@
           ]
         },
         {
-          "y": 590,
+          "y": 589.5,
           "text": "All factors are open, infinite, and fuzzy. As an object,",
           "bbox": [
             321.7900085449219,
@@ -5296,7 +5286,7 @@
           ]
         },
         {
-          "y": 594,
+          "y": 594.2,
           "text": "Nature is also the embodiment of perception and a huge",
           "bbox": [
             60.119998931884766,
@@ -5330,7 +5320,7 @@
           ]
         },
         {
-          "y": 602,
+          "y": 601.5,
           "text": "it has not clarified itself through the opposition of its",
           "bbox": [
             307.3699951171875,
@@ -5364,7 +5354,7 @@
           ]
         },
         {
-          "y": 606,
+          "y": 606.2,
           "text": "synthesis, including something priori and something",
           "bbox": [
             60.119998931884766,
@@ -5398,7 +5388,7 @@
           ]
         },
         {
-          "y": 614,
+          "y": 613.5,
           "text": "\"other things\". The article here does not aim to compare",
           "bbox": [
             307.3699951171875,
@@ -5432,7 +5422,7 @@
           ]
         },
         {
-          "y": 618,
+          "y": 618.2,
           "text": "empirical. The function of aesthetic conception is far",
           "bbox": [
             60.119998931884766,
@@ -5466,7 +5456,7 @@
           ]
         },
         {
-          "y": 626,
+          "y": 625.5,
           "text": "the advantages and disadvantages of logical intellectual",
           "bbox": [
             307.3699951171875,
@@ -5500,7 +5490,7 @@
           ]
         },
         {
-          "y": 630,
+          "y": 630.2,
           "text": "from being developed and is not just something proposed",
           "bbox": [
             60.119998931884766,
@@ -5534,7 +5524,7 @@
           ]
         },
         {
-          "y": 638,
+          "y": 637.5,
           "text": "reflection and aesthetic conception, but to explore the",
           "bbox": [
             307.3699951171875,
@@ -5568,7 +5558,7 @@
           ]
         },
         {
-          "y": 642,
+          "y": 642.2,
           "text": "by Hegel and others, such as gladdening the heart and",
           "bbox": [
             60.119998931884766,
@@ -5602,7 +5592,7 @@
           ]
         },
         {
-          "y": 650,
+          "y": 649.5,
           "text": "unique significance of aesthetic conception. This kind of",
           "bbox": [
             307.3699951171875,
@@ -5636,7 +5626,7 @@
           ]
         },
         {
-          "y": 654,
+          "y": 654.2,
           "text": "pleasing the eye, easing the conflict between reason and",
           "bbox": [
             60.119998931884766,
@@ -5670,7 +5660,7 @@
           ]
         },
         {
-          "y": 662,
+          "y": 661.5,
           "text": "open care of the object seems to be the infinity of",
           "bbox": [
             307.3699951171875,
@@ -5704,7 +5694,7 @@
           ]
         },
         {
-          "y": 666,
+          "y": 666.2,
           "text": "sensibility, and having a casual rest. Here, for the",
           "bbox": [
             60.119998931884766,
@@ -5738,7 +5728,7 @@
           ]
         },
         {
-          "y": 674,
+          "y": 673.5,
           "text": "self-inaction (without mobilizing the meaning category)",
           "bbox": [
             307.3699951171875,
@@ -5772,7 +5762,7 @@
           ]
         },
         {
-          "y": 678,
+          "y": 678.2,
           "text": "significance of aesthetic conception, we should first",
           "bbox": [
             60.119998931884766,
@@ -5806,7 +5796,7 @@
           ]
         },
         {
-          "y": 686,
+          "y": 685.5,
           "text": "and no meaning screening between the open object with",
           "bbox": [
             307.3699951171875,
@@ -5840,7 +5830,7 @@
           ]
         },
         {
-          "y": 690,
+          "y": 690.2,
           "text": "explore the internal composition of aesthetic conception.",
           "bbox": [
             60.119998931884766,
@@ -5874,7 +5864,7 @@
           ]
         },
         {
-          "y": 698,
+          "y": 697.5,
           "text": "clear provisions. In fact, these two viewpoints refer to the",
           "bbox": [
             307.3699951171875,
@@ -5908,7 +5898,7 @@
           ]
         },
         {
-          "y": 702,
+          "y": 702.2,
           "text": "In face of an object or event, we can use reflection for",
           "bbox": [
             60.119998931884766,
@@ -5942,7 +5932,7 @@
           ]
         },
         {
-          "y": 710,
+          "y": 709.5,
           "text": "same thing. When you present yourself in a rational rest",
           "bbox": [
             307.3699951171875,
@@ -5976,7 +5966,7 @@
           ]
         },
         {
-          "y": 714,
+          "y": 714.2,
           "text": "consideration, present the direct structure with",
           "bbox": [
             60.119998931884766,
@@ -6120,7 +6110,7 @@
           ]
         },
         {
-          "y": 722,
+          "y": 721.6,
           "text": "state, you make the object open and holographic. Thus,",
           "bbox": [
             307.3699951171875,
@@ -6154,7 +6144,7 @@
           ]
         },
         {
-          "y": 726,
+          "y": 726.2,
           "text": "representation, and establish causality logically, so as to",
           "bbox": [
             60.119998931884766,
@@ -6188,7 +6178,7 @@
           ]
         },
         {
-          "y": 734,
+          "y": 733.6,
           "text": "we can mainly discuss what we can gain from this model.",
           "bbox": [
             307.3699951171875,
@@ -6222,7 +6212,7 @@
           ]
         },
         {
-          "y": 738,
+          "y": 738.2,
           "text": "obtain the attribute efficacy of each part, and then gain",
           "bbox": [
             60.119998931884766,
@@ -6256,7 +6246,7 @@
           ]
         },
         {
-          "y": 750,
+          "y": 750.2,
           "text": "judgment based on causality presupposition. Hence, the",
           "bbox": [
             60.119998931884766,
@@ -6290,7 +6280,7 @@
           ]
         },
         {
-          "y": 752,
+          "y": 751.6,
           "text": "Logical conceptual cognition presupposes the",
           "bbox": [
             321.7900085449219,
@@ -6324,7 +6314,7 @@
           ]
         },
         {
-          "y": 818,
+          "y": 817.5,
           "text": "618",
           "bbox": [
             533.25,
@@ -6365,7 +6355,7 @@
       "page_height": 841.9199829101562,
       "lines": [
         {
-          "y": 18,
+          "y": 18.4,
           "text": "Advances in Social Science, Education and Humanities Research, volume 637",
           "bbox": [
             157.0500030517578,
@@ -6399,7 +6389,7 @@
           ]
         },
         {
-          "y": 73,
+          "y": 72.7,
           "text": "possession of a clear “object” and the entry of longer confronted with a fish in isolation, but harvest it",
           "bbox": [
             60.119998931884766,
@@ -6455,7 +6445,7 @@
           ]
         },
         {
-          "y": 85,
+          "y": 84.7,
           "text": "object-related concepts into a closed and independent together with the river. Aesthetics is linked to the infinite",
           "bbox": [
             60.119998931884766,
@@ -6511,7 +6501,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 96.7,
           "text": "logical causal system, which is the basis of successful (utilitarianism is linked to the finite), a higher being, even",
           "bbox": [
             60.119998931884766,
@@ -6567,7 +6557,7 @@
           ]
         },
         {
-          "y": 109,
+          "y": 108.7,
           "text": "logical cognition and the process of finding concepts in a gift, a trait of genius.",
           "bbox": [
             60.119998931884766,
@@ -6623,7 +6613,7 @@
           ]
         },
         {
-          "y": 121,
+          "y": 120.7,
           "text": "the cognitive object. This process incorporates individual",
           "bbox": [
             60.119998931884766,
@@ -6657,7 +6647,7 @@
           ]
         },
         {
-          "y": 127,
+          "y": 126.7,
           "text": "Aesthetics is bound to deviate from self-utilitarianism.",
           "bbox": [
             321.7900085449219,
@@ -6691,7 +6681,7 @@
           ]
         },
         {
-          "y": 133,
+          "y": 132.7,
           "text": "and concrete objects into general and abstract concepts,",
           "bbox": [
             60.119998931884766,
@@ -6725,7 +6715,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 138.7,
           "text": "As Schopenhauer expressed, those geniuses capable of",
           "bbox": [
             307.3699951171875,
@@ -6759,7 +6749,7 @@
           ]
         },
         {
-          "y": 145,
+          "y": 144.7,
           "text": "which is an ontological screening. The simplification and",
           "bbox": [
             60.119998931884766,
@@ -6793,7 +6783,7 @@
           ]
         },
         {
-          "y": 151,
+          "y": 150.7,
           "text": "appreciating beauty are more able to detach themselves",
           "bbox": [
             307.3699951171875,
@@ -6827,7 +6817,7 @@
           ]
         },
         {
-          "y": 157,
+          "y": 156.7,
           "text": "distortion of phenomenal materials or objects for the sake",
           "bbox": [
             60.119998931884766,
@@ -6861,7 +6851,7 @@
           ]
         },
         {
-          "y": 163,
+          "y": 162.7,
           "text": "from the ego and observe the object and meditate on the",
           "bbox": [
             307.3699951171875,
@@ -6895,7 +6885,7 @@
           ]
         },
         {
-          "y": 169,
+          "y": 168.7,
           "text": "of logical processing is a negative crisis (a passive and",
           "bbox": [
             60.119998931884766,
@@ -6929,7 +6919,7 @@
           ]
         },
         {
-          "y": 175,
+          "y": 174.7,
           "text": "deep infinite reality, so they are not as clever and skillful",
           "bbox": [
             307.3699951171875,
@@ -6963,7 +6953,7 @@
           ]
         },
         {
-          "y": 181,
+          "y": 180.7,
           "text": "hasty response) brought by the self in the face of the",
           "bbox": [
             60.119998931884766,
@@ -6997,7 +6987,7 @@
           ]
         },
         {
-          "y": 187,
+          "y": 186.7,
           "text": "as ordinary people who are bound to their own",
           "bbox": [
             307.3699951171875,
@@ -7031,7 +7021,7 @@
           ]
         },
         {
-          "y": 193,
+          "y": 192.7,
           "text": "temporal evolution of the world of others. It loses the",
           "bbox": [
             60.119998931884766,
@@ -7065,7 +7055,7 @@
           ]
         },
         {
-          "y": 199,
+          "y": 198.7,
           "text": "utilitarianism. Unlike the des Man who strives to be",
           "bbox": [
             307.3699951171875,
@@ -7099,7 +7089,7 @@
           ]
         },
         {
-          "y": 205,
+          "y": 204.7,
           "text": "reality that is identical with the infinite and exchanges it",
           "bbox": [
             60.119998931884766,
@@ -7133,7 +7123,7 @@
           ]
         },
         {
-          "y": 211,
+          "y": 210.7,
           "text": "illuminated by the world, the genius lights up the world,",
           "bbox": [
             307.3699951171875,
@@ -7167,7 +7157,7 @@
           ]
         },
         {
-          "y": 217,
+          "y": 216.7,
           "text": "for a temporary certainty of the finite. Thus, science is",
           "bbox": [
             60.119998931884766,
@@ -7201,7 +7191,7 @@
           ]
         },
         {
-          "y": 223,
+          "y": 222.7,
           "text": "and this is what is called “to manifest bright virtue” in the",
           "bbox": [
             307.3699951171875,
@@ -7235,7 +7225,7 @@
           ]
         },
         {
-          "y": 229,
+          "y": 228.8,
           "text": "forever falsified, a purely utilitarian activity of",
           "bbox": [
             60.119998931884766,
@@ -7269,7 +7259,7 @@
           ]
         },
         {
-          "y": 235,
+          "y": 234.8,
           "text": "oriental Great Learning. The des Man, out of",
           "bbox": [
             307.3699951171875,
@@ -7303,7 +7293,7 @@
           ]
         },
         {
-          "y": 241,
+          "y": 240.8,
           "text": "self-survival where des Man are closely attached to",
           "bbox": [
             60.119998931884766,
@@ -7337,7 +7327,7 @@
           ]
         },
         {
-          "y": 247,
+          "y": 246.8,
           "text": "utilitarianism, eagerly draws the edge of the object, and",
           "bbox": [
             307.3699951171875,
@@ -7371,7 +7361,7 @@
           ]
         },
         {
-          "y": 253,
+          "y": 252.8,
           "text": "Dasein. Science and logical knowing can only start from",
           "bbox": [
             60.119998931884766,
@@ -7405,7 +7395,7 @@
           ]
         },
         {
-          "y": 259,
+          "y": 258.8,
           "text": "lightly corresponds it to his existing concepts and ideas,",
           "bbox": [
             307.3699951171875,
@@ -7439,7 +7429,7 @@
           ]
         },
         {
-          "y": 265,
+          "y": 264.8,
           "text": "and be directed at serving the das Man (the norm of the",
           "bbox": [
             60.119998931884766,
@@ -7473,7 +7463,7 @@
           ]
         },
         {
-          "y": 271,
+          "y": 270.8,
           "text": "then superficially establishes the so-called reasonable",
           "bbox": [
             307.3699951171875,
@@ -7507,7 +7497,7 @@
           ]
         },
         {
-          "y": 277,
+          "y": 276.8,
           "text": "das Man), and it is always responsive and strategic in its",
           "bbox": [
             60.119998931884766,
@@ -7541,7 +7531,7 @@
           ]
         },
         {
-          "y": 283,
+          "y": 282.8,
           "text": "cause and effect, and then pays little attention to the",
           "bbox": [
             307.3699951171875,
@@ -7575,7 +7565,7 @@
           ]
         },
         {
-          "y": 289,
+          "y": 288.8,
           "text": "role as an expedient of the Dasein. It is the boundary of",
           "bbox": [
             60.119998931884766,
@@ -7609,7 +7599,7 @@
           ]
         },
         {
-          "y": 295,
+          "y": 294.8,
           "text": "object. Therefore, many hold that logic and reason are",
           "bbox": [
             307.3699951171875,
@@ -7643,7 +7633,7 @@
           ]
         },
         {
-          "y": 301,
+          "y": 300.8,
           "text": "the whole world, forcibly cutting out areas and fitting",
           "bbox": [
             60.119998931884766,
@@ -7677,7 +7667,7 @@
           ]
         },
         {
-          "y": 307,
+          "y": 306.8,
           "text": "closer to the true meaning than aesthetics, but the author",
           "bbox": [
             307.3699951171875,
@@ -7711,7 +7701,7 @@
           ]
         },
         {
-          "y": 313,
+          "y": 312.8,
           "text": "them into concepts, constituting “objects” for the logic of",
           "bbox": [
             60.119998931884766,
@@ -7745,7 +7735,7 @@
           ]
         },
         {
-          "y": 319,
+          "y": 318.8,
           "text": "thinks this is just the opposite. Logic cognition of reason",
           "bbox": [
             307.3699951171875,
@@ -7779,7 +7769,7 @@
           ]
         },
         {
-          "y": 325,
+          "y": 324.8,
           "text": "knowledge to be processed into a coping and limited",
           "bbox": [
             60.119998931884766,
@@ -7813,7 +7803,7 @@
           ]
         },
         {
-          "y": 331,
+          "y": 330.8,
           "text": "is just a stopgap to deal with the crisis of existence at the",
           "bbox": [
             307.3699951171875,
@@ -7847,7 +7837,7 @@
           ]
         },
         {
-          "y": 337,
+          "y": 336.8,
           "text": "causal system that provides the ego with momentary",
           "bbox": [
             60.119998931884766,
@@ -7881,7 +7871,7 @@
           ]
         },
         {
-          "y": 343,
+          "y": 342.8,
           "text": "cost of giving up the true meaning in the infinite, while",
           "bbox": [
             307.3699951171875,
@@ -7915,7 +7905,7 @@
           ]
         },
         {
-          "y": 349,
+          "y": 348.8,
           "text": "stability in the negative crisis of the infinite world of",
           "bbox": [
             60.119998931884766,
@@ -7949,7 +7939,7 @@
           ]
         },
         {
-          "y": 355,
+          "y": 354.8,
           "text": "aesthetics is the gesture that refers to the infinite reality.",
           "bbox": [
             307.3699951171875,
@@ -7983,7 +7973,7 @@
           ]
         },
         {
-          "y": 361,
+          "y": 360.8,
           "text": "others. In the logic of understanding, the “object” itself",
           "bbox": [
             60.119998931884766,
@@ -8017,7 +8007,7 @@
           ]
         },
         {
-          "y": 367,
+          "y": 366.8,
           "text": "Such a view results from confusing the fixed existence",
           "bbox": [
             307.3699951171875,
@@ -8051,7 +8041,7 @@
           ]
         },
         {
-          "y": 373,
+          "y": 372.8,
           "text": "has clear boundaries within which the essence of the",
           "bbox": [
             60.119998931884766,
@@ -8085,7 +8075,7 @@
           ]
         },
         {
-          "y": 379,
+          "y": 378.8,
           "text": "with the real.",
           "bbox": [
             307.3699951171875,
@@ -8119,7 +8109,7 @@
           ]
         },
         {
-          "y": 385,
+          "y": 384.8,
           "text": "object and its causal elements are located.",
           "bbox": [
             60.119998931884766,
@@ -8153,7 +8143,7 @@
           ]
         },
         {
-          "y": 397,
+          "y": 396.8,
           "text": "There are unknown treasures behind aesthetic",
           "bbox": [
             321.7900085449219,
@@ -8187,7 +8177,7 @@
           ]
         },
         {
-          "y": 403,
+          "y": 402.8,
           "text": "For example, in a film, the acts of all the characters",
           "bbox": [
             74.54399871826172,
@@ -8221,7 +8211,7 @@
           ]
         },
         {
-          "y": 409,
+          "y": 408.8,
           "text": "conception, or beauty, First of all, the world is open and",
           "bbox": [
             307.3699951171875,
@@ -8255,7 +8245,7 @@
           ]
         },
         {
-          "y": 415,
+          "y": 414.8,
           "text": "and the causal relationships between them are within the",
           "bbox": [
             60.119998931884766,
@@ -8289,7 +8279,7 @@
           ]
         },
         {
-          "y": 421,
+          "y": 420.8,
           "text": "infinite. In the work, the French philosopher Rene",
           "bbox": [
             307.3699951171875,
@@ -8323,7 +8313,7 @@
           ]
         },
         {
-          "y": 427,
+          "y": 426.8,
           "text": "scene, and the cause of each act of each character can be",
           "bbox": [
             60.119998931884766,
@@ -8357,7 +8347,7 @@
           ]
         },
         {
-          "y": 433,
+          "y": 432.8,
           "text": "Descartes (1596-1650) separated \"thinking\" and \"being\".",
           "bbox": [
             307.3699951171875,
@@ -8391,7 +8381,7 @@
           ]
         },
         {
-          "y": 439,
+          "y": 438.8,
           "text": "found in one or more scenes. Likewise, logical cognition",
           "bbox": [
             60.119998931884766,
@@ -8425,7 +8415,7 @@
           ]
         },
         {
-          "y": 445,
+          "y": 444.8,
           "text": "Kant also proposed both thing-in-itself and the priori that",
           "bbox": [
             307.3699951171875,
@@ -8459,7 +8449,7 @@
           ]
         },
         {
-          "y": 451,
+          "y": 450.8,
           "text": "or scientific reason is a closed, independent and",
           "bbox": [
             60.119998931884766,
@@ -8493,7 +8483,7 @@
           ]
         },
         {
-          "y": 457,
+          "y": 456.8,
           "text": "cannot be studied deeply (only the little stipulation of the",
           "bbox": [
             307.3699951171875,
@@ -8527,7 +8517,7 @@
           ]
         },
         {
-          "y": 463,
+          "y": 462.8,
           "text": "self-contained system. Still, aesthetic appreciation is not",
           "bbox": [
             60.119998931884766,
@@ -8561,7 +8551,7 @@
           ]
         },
         {
-          "y": 469,
+          "y": 468.8,
           "text": "port is associated with the object). Logical intellectual",
           "bbox": [
             307.3699951171875,
@@ -8595,7 +8585,7 @@
           ]
         },
         {
-          "y": 475,
+          "y": 474.8,
           "text": "a regular human activity. Its actions are not based on",
           "bbox": [
             60.119998931884766,
@@ -8629,7 +8619,7 @@
           ]
         },
         {
-          "y": 481,
+          "y": 480.8,
           "text": "thinking strengthens the self and object as the stipulation",
           "bbox": [
             307.3699951171875,
@@ -8663,7 +8653,7 @@
           ]
         },
         {
-          "y": 487,
+          "y": 486.8,
           "text": "existential crises or techniques and tricks of harvesting",
           "bbox": [
             60.119998931884766,
@@ -8697,7 +8687,7 @@
           ]
         },
         {
-          "y": 493,
+          "y": 492.8,
           "text": "when they are associated, which is limited and finite.",
           "bbox": [
             307.3699951171875,
@@ -8731,7 +8721,7 @@
           ]
         },
         {
-          "y": 499,
+          "y": 498.8,
           "text": "the self to cope with the world of others. The fundamental",
           "bbox": [
             60.119998931884766,
@@ -8765,7 +8755,7 @@
           ]
         },
         {
-          "y": 511,
+          "y": 510.8,
           "text": "difference between it and the logical rationality of the des It shows more the appearance of ports. It is essential",
           "bbox": [
             60.119998931884766,
@@ -8821,7 +8811,7 @@
           ]
         },
         {
-          "y": 523,
+          "y": 522.8,
           "text": "Man’s norm is that the system of the aesthetic object is to observe it from the perspective of existentialism. The",
           "bbox": [
             60.119998931884766,
@@ -8877,7 +8867,7 @@
           ]
         },
         {
-          "y": 535,
+          "y": 534.8,
           "text": "not enclosed in the region where the object shows itself aesthetic conception of the infinite mode just allows us to",
           "bbox": [
             60.119998931884766,
@@ -8933,7 +8923,7 @@
           ]
         },
         {
-          "y": 547,
+          "y": 546.8,
           "text": "but points to the infinite. The logical edge of the object is meet a more real and holographic world. It is well known",
           "bbox": [
             60.119998931884766,
@@ -8989,7 +8979,7 @@
           ]
         },
         {
-          "y": 559,
+          "y": 558.8,
           "text": "no longer clear, and the immediate phenomenon of this that Chuang Tzu said that it is dangerous to pursue",
           "bbox": [
             60.119998931884766,
@@ -9045,7 +9035,7 @@
           ]
         },
         {
-          "y": 571,
+          "y": 570.8,
           "text": "quality may point out beyond the horizon. The object is unlimited knowledge with limited life. He also intended",
           "bbox": [
             60.119998931884766,
@@ -9101,7 +9091,7 @@
           ]
         },
         {
-          "y": 583,
+          "y": 582.8,
           "text": "no longer the acquisition of the real “something” under to express the opinion that \"it is good to pursue unlimited",
           "bbox": [
             60.119998931884766,
@@ -9157,7 +9147,7 @@
           ]
         },
         {
-          "y": 595,
+          "y": 594.8,
           "text": "the “negation” of the non-real infinite “others,” but the things with unlimited life\".",
           "bbox": [
             60.119998931884766,
@@ -9213,7 +9203,7 @@
           ]
         },
         {
-          "y": 607,
+          "y": 606.8,
           "text": "diffusion and radiation of the affirmative concrete",
           "bbox": [
             60.119998931884766,
@@ -9247,37 +9237,15 @@
           ]
         },
         {
-          "y": 619,
-          "text": "“something” to the infinite non-real implicit abstract 5. CONCLUSION",
+          "y": 618.5,
+          "text": "5. CONCLUSION",
           "bbox": [
-            60.119998931884766,
+            307.3699951171875,
             618.515625,
             399.7900085449219,
             631.268310546875
           ],
           "spans": [
-            {
-              "size": 9.960000038146973,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "TimesNewRomanPSMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.890999972820282,
-              "descender": -0.2160000056028366,
-              "text": "“something” to the infinite non-real implicit abstract ",
-              "origin": [
-                60.119998931884766,
-                627.699951171875
-              ],
-              "bbox": [
-                60.119998931884766,
-                618.8255615234375,
-                290.4461975097656,
-                629.851318359375
-              ]
-            },
             {
               "size": 11.520000457763672,
               "flags": 20,
@@ -9303,7 +9271,41 @@
           ]
         },
         {
-          "y": 631,
+          "y": 618.8,
+          "text": "“something” to the infinite non-real implicit abstract",
+          "bbox": [
+            60.119998931884766,
+            618.8255615234375,
+            290.4461975097656,
+            629.851318359375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "“something” to the infinite non-real implicit abstract ",
+              "origin": [
+                60.119998931884766,
+                627.699951171875
+              ],
+              "bbox": [
+                60.119998931884766,
+                618.8255615234375,
+                290.4461975097656,
+                629.851318359375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 630.8,
           "text": "“others.”",
           "bbox": [
             60.119998931884766,
@@ -9337,7 +9339,7 @@
           ]
         },
         {
-          "y": 641,
+          "y": 641.0,
           "text": "Beauty occurs directly instead of the result of",
           "bbox": [
             321.7900085449219,
@@ -9371,7 +9373,7 @@
           ]
         },
         {
-          "y": 649,
+          "y": 648.8,
           "text": "This is not the establishment of a margin by artificial",
           "bbox": [
             74.54399871826172,
@@ -9405,7 +9407,7 @@
           ]
         },
         {
-          "y": 653,
+          "y": 653.0,
           "text": "reflection or a reasonable interpretation. Aesthetic",
           "bbox": [
             307.3699951171875,
@@ -9439,7 +9441,7 @@
           ]
         },
         {
-          "y": 661,
+          "y": 660.8,
           "text": "division, but rather the dilution of the intuitive and",
           "bbox": [
             60.119998931884766,
@@ -9473,7 +9475,7 @@
           ]
         },
         {
-          "y": 665,
+          "y": 665.0,
           "text": "conception is just the beginning of thinking even prior to",
           "bbox": [
             307.3699951171875,
@@ -9507,7 +9509,7 @@
           ]
         },
         {
-          "y": 673,
+          "y": 672.8,
           "text": "natural “margin of vision.” That abstract and infinite",
           "bbox": [
             60.119998931884766,
@@ -9541,7 +9543,7 @@
           ]
         },
         {
-          "y": 677,
+          "y": 677.0,
           "text": "rational reflection. Therefore, aesthetic conception is the",
           "bbox": [
             307.3699951171875,
@@ -9575,7 +9577,7 @@
           ]
         },
         {
-          "y": 685,
+          "y": 684.8,
           "text": "others (both spatial and temporal) of something as an",
           "bbox": [
             60.119998931884766,
@@ -9609,7 +9611,7 @@
           ]
         },
         {
-          "y": 689,
+          "y": 689.0,
           "text": "subjective \"inaction\" and facing the object in an open",
           "bbox": [
             307.3699951171875,
@@ -9643,7 +9645,7 @@
           ]
         },
         {
-          "y": 697,
+          "y": 696.8,
           "text": "object is all that is beyond the fixed object in space and",
           "bbox": [
             60.119998931884766,
@@ -9677,7 +9679,7 @@
           ]
         },
         {
-          "y": 701,
+          "y": 701.0,
           "text": "way rather than the limited mobilization. When the self is",
           "bbox": [
             307.3699951171875,
@@ -9711,7 +9713,7 @@
           ]
         },
         {
-          "y": 709,
+          "y": 708.8,
           "text": "time (what is possible to spread beyond the cognitive",
           "bbox": [
             60.119998931884766,
@@ -9745,7 +9747,7 @@
           ]
         },
         {
-          "y": 713,
+          "y": 713.0,
           "text": "presented in the rational rest state, the object will have",
           "bbox": [
             307.3699951171875,
@@ -9779,7 +9781,7 @@
           ]
         },
         {
-          "y": 721,
+          "y": 720.8,
           "text": "field of vision), not an intentional illusion or imagination.",
           "bbox": [
             60.119998931884766,
@@ -9813,7 +9815,7 @@
           ]
         },
         {
-          "y": 725,
+          "y": 725.0,
           "text": "holography. The aesthetic conception of infinite mode",
           "bbox": [
             307.3699951171875,
@@ -9847,7 +9849,7 @@
           ]
         },
         {
-          "y": 733,
+          "y": 732.8,
           "text": "Thus, the aesthetic eye remains calm and just follows the",
           "bbox": [
             60.119998931884766,
@@ -9881,7 +9883,7 @@
           ]
         },
         {
-          "y": 737,
+          "y": 737.0,
           "text": "can face the world more truly and comprehensively. It is",
           "bbox": [
             307.3699951171875,
@@ -9915,7 +9917,7 @@
           ]
         },
         {
-          "y": 745,
+          "y": 744.8,
           "text": "manifestation of these appearances and is naturally drawn",
           "bbox": [
             60.119998931884766,
@@ -9949,7 +9951,7 @@
           ]
         },
         {
-          "y": 749,
+          "y": 749.0,
           "text": "well known that Chuang Tzu said that it is dangerous to",
           "bbox": [
             307.3699951171875,
@@ -9983,7 +9985,7 @@
           ]
         },
         {
-          "y": 757,
+          "y": 756.8,
           "text": "to the infinite others more than the object, and we are no",
           "bbox": [
             60.119998931884766,
@@ -10017,7 +10019,7 @@
           ]
         },
         {
-          "y": 818,
+          "y": 817.5,
           "text": "619",
           "bbox": [
             533.25,
@@ -10058,7 +10060,7 @@
       "page_height": 841.9199829101562,
       "lines": [
         {
-          "y": 18,
+          "y": 18.4,
           "text": "Advances in Social Science, Education and Humanities Research, volume 637",
           "bbox": [
             157.0500030517578,
@@ -10092,7 +10094,7 @@
           ]
         },
         {
-          "y": 73,
+          "y": 72.7,
           "text": "pursue unlimited knowledge with limited life. He also",
           "bbox": [
             60.119998931884766,
@@ -10126,7 +10128,7 @@
           ]
         },
         {
-          "y": 85,
+          "y": 84.7,
           "text": "intended to express the opinion that \"it is good to pursue",
           "bbox": [
             60.119998931884766,
@@ -10160,7 +10162,7 @@
           ]
         },
         {
-          "y": 97,
+          "y": 96.7,
           "text": "unlimited things with unlimited life\".",
           "bbox": [
             60.119998931884766,
@@ -10194,7 +10196,7 @@
           ]
         },
         {
-          "y": 120,
+          "y": 120.3,
           "text": "REFERENCES",
           "bbox": [
             60.119998931884766,
@@ -10228,11 +10230,11 @@
           ]
         },
         {
-          "y": 142,
+          "y": 142.3,
           "text": "[1] Immanuel Kant Critique of Judgement .[M].",
           "bbox": [
             60.119998931884766,
-            142.2061767578125,
+            142.34561157226562,
             290.53997802734375,
             153.371337890625
           ],
@@ -10257,28 +10259,6 @@
                 142.34561157226562,
                 71.81304168701172,
                 153.371337890625
-              ]
-            },
-            {
-              "size": 9.960000038146973,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                71.78399658203125,
-                151.219970703125
-              ],
-              "bbox": [
-                71.78399658203125,
-                142.2061767578125,
-                74.5528793334961,
-                153.3115692138672
               ]
             },
             {
@@ -10350,7 +10330,7 @@
           ]
         },
         {
-          "y": 143,
+          "y": 142.7,
           "text": "《 》",
           "bbox": [
             145.42103576660156,
@@ -10406,7 +10386,7 @@
           ]
         },
         {
-          "y": 155,
+          "y": 155.3,
           "text": "Oxford University Press. 2009-08",
           "bbox": [
             79.94400024414062,
@@ -10440,11 +10420,11 @@
           ]
         },
         {
-          "y": 175,
-          "text": "[2] Immanuel Kant 《 Critique of Pure Reason 》 .[M].",
+          "y": 174.7,
+          "text": "[2] Immanuel Kant Critique of Pure Reason .[M].",
           "bbox": [
             60.119998931884766,
-            174.606201171875,
+            174.74563598632812,
             290.53997802734375,
             185.7713623046875
           ],
@@ -10469,28 +10449,6 @@
                 174.74563598632812,
                 71.81304168701172,
                 185.7713623046875
-              ]
-            },
-            {
-              "size": 9.960000038146973,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                71.78399658203125,
-                183.6199951171875
-              ],
-              "bbox": [
-                71.78399658203125,
-                174.606201171875,
-                74.5528793334961,
-                185.7115936279297
               ]
             },
             {
@@ -10520,28 +10478,6 @@
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
-              "font": "SimSun",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.859000027179718,
-              "descender": -0.14100000262260437,
-              "text": "《",
-              "origin": [
-                144.25999450683594,
-                183.6199951171875
-              ],
-              "bbox": [
-                144.25999450683594,
-                175.06436157226562,
-                154.22000122070312,
-                185.02435302734375
-              ]
-            },
-            {
-              "size": 9.960000038146973,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
               "font": "TimesNewRomanPSMT",
               "color": 0,
               "alpha": 255,
@@ -10557,28 +10493,6 @@
                 174.74563598632812,
                 256.9874267578125,
                 185.7713623046875
-              ]
-            },
-            {
-              "size": 9.960000038146973,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SimSun",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.859000027179718,
-              "descender": -0.14100000262260437,
-              "text": "》",
-              "origin": [
-                257.2099914550781,
-                183.6199951171875
-              ],
-              "bbox": [
-                257.2099914550781,
-                175.06436157226562,
-                267.16998291015625,
-                185.02435302734375
               ]
             },
             {
@@ -10606,7 +10520,63 @@
           ]
         },
         {
-          "y": 188,
+          "y": 175.1,
+          "text": "《 》",
+          "bbox": [
+            144.25999450683594,
+            175.06436157226562,
+            267.16998291015625,
+            185.02435302734375
+          ],
+          "spans": [
+            {
+              "size": 9.960000038146973,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SimSun",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.859000027179718,
+              "descender": -0.14100000262260437,
+              "text": "《",
+              "origin": [
+                144.25999450683594,
+                183.6199951171875
+              ],
+              "bbox": [
+                144.25999450683594,
+                175.06436157226562,
+                154.22000122070312,
+                185.02435302734375
+              ]
+            },
+            {
+              "size": 9.960000038146973,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SimSun",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.859000027179718,
+              "descender": -0.14100000262260437,
+              "text": "》",
+              "origin": [
+                257.2099914550781,
+                183.6199951171875
+              ],
+              "bbox": [
+                257.2099914550781,
+                175.06436157226562,
+                267.16998291015625,
+                185.02435302734375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 187.8,
           "text": "Chongwen publishing company. 2021-01",
           "bbox": [
             79.94400024414062,
@@ -10640,11 +10610,11 @@
           ]
         },
         {
-          "y": 206,
+          "y": 206.2,
           "text": "[3] Georg Wilhelm Friedrich Hegel《The Logic of",
           "bbox": [
             60.119998931884766,
-            206.04620361328125,
+            206.18563842773438,
             290.4768981933594,
             217.21136474609375
           ],
@@ -10673,28 +10643,6 @@
             },
             {
               "size": 9.960000038146973,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                71.78399658203125,
-                215.05999755859375
-              ],
-              "bbox": [
-                71.78399658203125,
-                206.04620361328125,
-                74.5528793334961,
-                217.15159606933594
-              ]
-            },
-            {
-              "size": 9.960000038146973,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -10718,7 +10666,7 @@
           ]
         },
         {
-          "y": 219,
+          "y": 218.5,
           "text": "Hegel《.[M] .Franklin Classics Trade Press.",
           "bbox": [
             79.94400024414062,
@@ -10840,7 +10788,7 @@
           ]
         },
         {
-          "y": 231,
+          "y": 231.1,
           "text": "2018-09",
           "bbox": [
             79.94400024414062,
@@ -10874,11 +10822,11 @@
           ]
         },
         {
-          "y": 249,
+          "y": 249.4,
           "text": "[4] Martin Heidegger《Being and Time《.[M]. Harper.",
           "bbox": [
             60.119998931884766,
-            249.27618408203125,
+            249.41561889648438,
             294.49444580078125,
             260.44134521484375
           ],
@@ -10907,28 +10855,6 @@
             },
             {
               "size": 9.960000038146973,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                71.78399658203125,
-                258.28997802734375
-              ],
-              "bbox": [
-                71.78399658203125,
-                249.27618408203125,
-                74.5528793334961,
-                260.381591796875
-              ]
-            },
-            {
-              "size": 9.960000038146973,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -10952,7 +10878,7 @@
           ]
         },
         {
-          "y": 262,
+          "y": 261.9,
           "text": "2008-07",
           "bbox": [
             79.94400024414062,
@@ -10986,11 +10912,11 @@
           ]
         },
         {
-          "y": 280,
+          "y": 280.3,
           "text": "[5] ZhuangZhou《ZHUANG ZI《.[M]. Shanghai",
           "bbox": [
             60.119998931884766,
-            280.1162109375,
+            280.2556457519531,
             290.48760986328125,
             291.2813720703125
           ],
@@ -11015,28 +10941,6 @@
                 280.2556457519531,
                 71.81304168701172,
                 291.2813720703125
-              ]
-            },
-            {
-              "size": 9.960000038146973,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                71.78399658203125,
-                289.1300048828125
-              ],
-              "bbox": [
-                71.78399658203125,
-                280.1162109375,
-                74.5528793334961,
-                291.22161865234375
               ]
             },
             {
@@ -11108,7 +11012,7 @@
           ]
         },
         {
-          "y": 293,
+          "y": 292.6,
           "text": "Translation Publishing House. 2021-01",
           "bbox": [
             79.94400024414062,
@@ -11142,11 +11046,11 @@
           ]
         },
         {
-          "y": 311,
+          "y": 311.1,
           "text": "[6] Ye Xiushan. Philosophy of Beauty [M]. Shandong",
           "bbox": [
             60.119998931884766,
-            310.9561767578125,
+            311.0956115722656,
             290.25946044921875,
             322.121337890625
           ],
@@ -11175,28 +11079,6 @@
             },
             {
               "size": 9.960000038146973,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                71.78399658203125,
-                319.969970703125
-              ],
-              "bbox": [
-                71.78399658203125,
-                310.9561767578125,
-                74.5528793334961,
-                322.06158447265625
-              ]
-            },
-            {
-              "size": 9.960000038146973,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -11220,7 +11102,7 @@
           ]
         },
         {
-          "y": 323,
+          "y": 323.5,
           "text": "Literature and Art Publishing House: Chinese",
           "bbox": [
             79.94400024414062,
@@ -11254,7 +11136,7 @@
           ]
         },
         {
-          "y": 336,
+          "y": 335.9,
           "text": "Modern Aesthetics Master Library, 202001.377.",
           "bbox": [
             79.94400024414062,
@@ -11288,11 +11170,11 @@
           ]
         },
         {
-          "y": 354,
+          "y": 354.3,
           "text": "[7] Ai Lian. Explanation of Aesthetic Activities [M].",
           "bbox": [
             60.119998931884766,
-            354.15618896484375,
+            354.2956237792969,
             290.32904052734375,
             365.32135009765625
           ],
@@ -11321,28 +11203,6 @@
             },
             {
               "size": 9.960000038146973,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                71.78399658203125,
-                363.16998291015625
-              ],
-              "bbox": [
-                71.78399658203125,
-                354.15618896484375,
-                74.5528793334961,
-                365.2615966796875
-              ]
-            },
-            {
-              "size": 9.960000038146973,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -11366,7 +11226,7 @@
           ]
         },
         {
-          "y": 367,
+          "y": 366.7,
           "text": "Sichuan University Press:, 201808.228.",
           "bbox": [
             79.94400024414062,
@@ -11400,11 +11260,11 @@
           ]
         },
         {
-          "y": 385,
+          "y": 385.1,
           "text": "[8] Zhang Law. The Globalization of Western",
           "bbox": [
             60.119998931884766,
-            384.9961853027344,
+            385.1356201171875,
             290.339111328125,
             396.1613464355469
           ],
@@ -11429,28 +11289,6 @@
                 385.1356201171875,
                 71.81304168701172,
                 396.1613464355469
-              ]
-            },
-            {
-              "size": 9.960000038146973,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                71.78399658203125,
-                394.0099792480469
-              ],
-              "bbox": [
-                71.78399658203125,
-                384.9961853027344,
-                74.5528793334961,
-                396.1015930175781
               ]
             },
             {
@@ -11500,7 +11338,7 @@
           ]
         },
         {
-          "y": 398,
+          "y": 397.5,
           "text": "Contemporary Aesthetics (since 1960)[M]. Renmin",
           "bbox": [
             79.94400024414062,
@@ -11534,7 +11372,7 @@
           ]
         },
         {
-          "y": 410,
+          "y": 410.0,
           "text": "University of China Press:, 201701.232.",
           "bbox": [
             79.94400024414062,
@@ -11568,11 +11406,11 @@
           ]
         },
         {
-          "y": 428,
+          "y": 428.4,
           "text": "[9] Chen Liangyun. A Study of Beauty[M]. Baihuazhou",
           "bbox": [
             60.119998931884766,
-            428.2161865234375,
+            428.3556213378906,
             290.339111328125,
             439.38134765625
           ],
@@ -11601,28 +11439,6 @@
             },
             {
               "size": 9.960000038146973,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                71.78399658203125,
-                437.22998046875
-              ],
-              "bbox": [
-                71.78399658203125,
-                428.2161865234375,
-                74.5528793334961,
-                439.32159423828125
-              ]
-            },
-            {
-              "size": 9.960000038146973,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -11646,7 +11462,7 @@
           ]
         },
         {
-          "y": 441,
+          "y": 440.8,
           "text": "Literature and Art Publishing House: A Series of",
           "bbox": [
             79.94400024414062,
@@ -11680,7 +11496,7 @@
           ]
         },
         {
-          "y": 453,
+          "y": 453.2,
           "text": "Chinese Aesthetics, 201701.404.",
           "bbox": [
             79.94400024414062,
@@ -11714,7 +11530,7 @@
           ]
         },
         {
-          "y": 472,
+          "y": 471.6,
           "text": "[10] Han Jingtai. Discrimination of Light Beauty",
           "bbox": [
             60.119998931884766,
@@ -11770,7 +11586,7 @@
           ]
         },
         {
-          "y": 484,
+          "y": 484.0,
           "text": "Theory[M]. Baihuazhou Literature and Art",
           "bbox": [
             79.94400024414062,
@@ -11892,7 +11708,7 @@
           ]
         },
         {
-          "y": 496,
+          "y": 496.4,
           "text": "Publishing House: A Series of Chinese Aesthetics,",
           "bbox": [
             79.94400024414062,
@@ -11926,7 +11742,7 @@
           ]
         },
         {
-          "y": 509,
+          "y": 508.9,
           "text": "201701.264.",
           "bbox": [
             79.94400024414062,
@@ -11960,11 +11776,11 @@
           ]
         },
         {
-          "y": 527,
+          "y": 527.2,
           "text": "[11] Deng Wenhua. Watching Aesthetic Experience[M].",
           "bbox": [
             60.119998931884766,
-            527.09619140625,
+            527.235595703125,
             290.4051208496094,
             538.2613525390625
           ],
@@ -11993,28 +11809,6 @@
             },
             {
               "size": 9.960000038146973,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                76.8239974975586,
-                536.1099853515625
-              ],
-              "bbox": [
-                76.8239974975586,
-                527.09619140625,
-                79.59288024902344,
-                538.2015991210938
-              ]
-            },
-            {
-              "size": 9.960000038146973,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -12038,7 +11832,7 @@
           ]
         },
         {
-          "y": 540,
+          "y": 539.6,
           "text": "World Book Publishing Company:, 201505.224.",
           "bbox": [
             79.94400024414062,
@@ -12072,11 +11866,11 @@
           ]
         },
         {
-          "y": 558,
+          "y": 558.1,
           "text": "[12] Zhang Pingzhi. What is the use of aesthetics[M].",
           "bbox": [
             60.119998931884766,
-            557.9661865234375,
+            558.1055908203125,
             290.3390808105469,
             569.13134765625
           ],
@@ -12105,28 +11899,6 @@
             },
             {
               "size": 9.960000038146973,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                76.8239974975586,
-                566.97998046875
-              ],
-              "bbox": [
-                76.8239974975586,
-                557.9661865234375,
-                79.59288024902344,
-                569.0715942382812
-              ]
-            },
-            {
-              "size": 9.960000038146973,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -12150,7 +11922,7 @@
           ]
         },
         {
-          "y": 570,
+          "y": 570.5,
           "text": "Elephant Publishing House:, 201012.179.",
           "bbox": [
             79.94400024414062,
@@ -12184,11 +11956,11 @@
           ]
         },
         {
-          "y": 589,
+          "y": 588.9,
           "text": "[13] Liu Xin. The beauty of life with mellow sentiment",
           "bbox": [
             60.119998931884766,
-            588.80615234375,
+            588.945556640625,
             290.2857360839844,
             599.9713134765625
           ],
@@ -12217,28 +11989,6 @@
             },
             {
               "size": 9.960000038146973,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                76.8239974975586,
-                597.8199462890625
-              ],
-              "bbox": [
-                76.8239974975586,
-                588.80615234375,
-                79.59288024902344,
-                599.9115600585938
-              ]
-            },
-            {
-              "size": 9.960000038146973,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -12262,7 +12012,7 @@
           ]
         },
         {
-          "y": 601,
+          "y": 601.3,
           "text": "and reason[M]. Shaanxi People’s Publishing House:,",
           "bbox": [
             79.94400024414062,
@@ -12296,7 +12046,7 @@
           ]
         },
         {
-          "y": 614,
+          "y": 613.7,
           "text": "202008.241.",
           "bbox": [
             79.94400024414062,
@@ -12330,11 +12080,11 @@
           ]
         },
         {
-          "y": 632,
+          "y": 632.1,
           "text": "[14] Qi Zhixiang. Chinese Traditional Aesthetic Spirit",
           "bbox": [
             60.119998931884766,
-            632.0062255859375,
+            632.1456298828125,
             290.50054931640625,
             643.17138671875
           ],
@@ -12363,28 +12113,6 @@
             },
             {
               "size": 9.960000038146973,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                76.8239974975586,
-                641.02001953125
-              ],
-              "bbox": [
-                76.8239974975586,
-                632.0062255859375,
-                79.59288024902344,
-                643.1116333007812
-              ]
-            },
-            {
-              "size": 9.960000038146973,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -12408,7 +12136,7 @@
           ]
         },
         {
-          "y": 645,
+          "y": 644.5,
           "text": "[M]. Shanghai People’s Publishing House:,",
           "bbox": [
             79.94400024414062,
@@ -12530,7 +12258,7 @@
           ]
         },
         {
-          "y": 657,
+          "y": 657.0,
           "text": "201808.333.",
           "bbox": [
             79.94400024414062,
@@ -12564,7 +12292,7 @@
           ]
         },
         {
-          "y": 818,
+          "y": 817.5,
           "text": "620",
           "bbox": [
             533.25,

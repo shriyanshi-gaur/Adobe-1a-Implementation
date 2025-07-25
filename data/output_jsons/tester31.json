@@ -1,0 +1,55 @@
+{
+  "title": "CYBERSECURITY BASICS",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "CYBERSECURITY BASICS",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "YOUR FILES & DEVICES",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "PROTECT",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "THE NIST CYBERSECURITY",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "DETECT",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "3.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "4. RESPOND",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "5. RECOVER",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "PHYSICAL SECURITY",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "HOW TO EQUIPMENT & PAPER FILES",
+      "page": 5
+    }
+  ]
+}

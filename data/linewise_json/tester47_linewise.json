@@ -13,7 +13,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 77,
+          "y": 76.5,
           "text": "Welcome to the “Connecting the Dots” Challenge",
           "bbox": [
             72.0250015258789,
@@ -69,7 +69,7 @@
           ]
         },
         {
-          "y": 124,
+          "y": 124.3,
           "text": "Rethink Reading. Rediscover Knowledge",
           "bbox": [
             72.0250015258789,
@@ -103,7 +103,7 @@
           ]
         },
         {
-          "y": 156,
+          "y": 155.5,
           "text": "What if every time you opened a PDF, it didn’t just sit there —it spoke to you ,",
           "bbox": [
             72.0250015258789,
@@ -225,7 +225,7 @@
           ]
         },
         {
-          "y": 173,
+          "y": 172.5,
           "text": "connected ideas , and narrated meaning across your entire library?",
           "bbox": [
             72.0250015258789,
@@ -325,7 +325,7 @@
           ]
         },
         {
-          "y": 204,
+          "y": 203.8,
           "text": "That’s the future we’re building — and we want you to help shape it.",
           "bbox": [
             72.0250015258789,
@@ -403,7 +403,7 @@
           ]
         },
         {
-          "y": 235,
+          "y": 234.8,
           "text": "In the Connecting the Dots Challenge , your mission is to reimagine the humble",
           "bbox": [
             72.0250015258789,
@@ -481,7 +481,7 @@
           ]
         },
         {
-          "y": 252,
+          "y": 251.8,
           "text": "PDF as an intelligent, interactive experience—one that understands structure ,",
           "bbox": [
             72.0250015258789,
@@ -559,7 +559,7 @@
           ]
         },
         {
-          "y": 269,
+          "y": 269.1,
           "text": "surfaces insights , and responds to you like a trusted research companion.",
           "bbox": [
             72.0250015258789,
@@ -659,7 +659,7 @@
           ]
         },
         {
-          "y": 300,
+          "y": 300.1,
           "text": "The Journey Ahead",
           "bbox": [
             72.0250015258789,
@@ -693,7 +693,7 @@
           ]
         },
         {
-          "y": 334,
+          "y": 334.4,
           "text": "Round 1:",
           "bbox": [
             144.0500030517578,
@@ -749,7 +749,7 @@
           ]
         },
         {
-          "y": 335,
+          "y": 334.8,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -783,7 +783,7 @@
           ]
         },
         {
-          "y": 365,
+          "y": 365.4,
           "text": "Kick things off by building the brains — extract structured outlines from",
           "bbox": [
             108.05000305175781,
@@ -817,7 +817,7 @@
           ]
         },
         {
-          "y": 382,
+          "y": 382.4,
           "text": "raw PDFs with blazing speed and pinpoint accuracy. Then, power it up",
           "bbox": [
             108.05000305175781,
@@ -851,7 +851,7 @@
           ]
         },
         {
-          "y": 400,
+          "y": 399.6,
           "text": "with on-device intelligence that understands sections and links related",
           "bbox": [
             108.05000305175781,
@@ -885,7 +885,7 @@
           ]
         },
         {
-          "y": 417,
+          "y": 416.6,
           "text": "ideas together.",
           "bbox": [
             108.05000305175781,
@@ -919,37 +919,15 @@
           ]
         },
         {
-          "y": 448,
-          "text": "• Round 2:",
+          "y": 447.9,
+          "text": "Round 2:",
           "bbox": [
-            126.05000305175781,
+            144.0500030517578,
             447.8699951171875,
             202.49400329589844,
             461.8699951171875
           ],
           "spans": [
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SymbolMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0049999952316284,
-              "descender": -0.2160000056028366,
-              "text": "•",
-              "origin": [
-                126.05000305175781,
-                458.3699951171875
-              ],
-              "bbox": [
-                126.05000305175781,
-                448.32000732421875,
-                130.65000915527344,
-                460.5299987792969
-              ]
-            },
             {
               "size": 14.0,
               "flags": 16,
@@ -997,7 +975,41 @@
           ]
         },
         {
-          "y": 479,
+          "y": 448.3,
+          "text": "•",
+          "bbox": [
+            126.05000305175781,
+            448.32000732421875,
+            130.65000915527344,
+            460.5299987792969
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SymbolMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0049999952316284,
+              "descender": -0.2160000056028366,
+              "text": "•",
+              "origin": [
+                126.05000305175781,
+                458.3699951171875
+              ],
+              "bbox": [
+                126.05000305175781,
+                448.32000732421875,
+                130.65000915527344,
+                460.5299987792969
+              ]
+            }
+          ]
+        },
+        {
+          "y": 478.9,
           "text": "It’s showtime! Build a beautiful, intuitive reading webapp using Adobe’s",
           "bbox": [
             108.05000305175781,
@@ -1031,7 +1043,7 @@
           ]
         },
         {
-          "y": 496,
+          "y": 495.9,
           "text": "PDF Embed API. You will be using your Round 1 work to design a",
           "bbox": [
             108.05000305175781,
@@ -1065,7 +1077,7 @@
           ]
         },
         {
-          "y": 513,
+          "y": 513.2,
           "text": "futuristic webapp.",
           "bbox": [
             108.05000305175781,
@@ -1099,7 +1111,7 @@
           ]
         },
         {
-          "y": 544,
+          "y": 544.2,
           "text": "Why This Matters",
           "bbox": [
             72.0250015258789,
@@ -1133,7 +1145,7 @@
           ]
         },
         {
-          "y": 575,
+          "y": 575.2,
           "text": "In a world flooded with documents, what wins is not more content — it’s",
           "bbox": [
             72.0250015258789,
@@ -1167,7 +1179,7 @@
           ]
         },
         {
-          "y": 592,
+          "y": 592.4,
           "text": "context . You’re not just building tools — you’re building the future of how we",
           "bbox": [
             72.0250015258789,
@@ -1223,7 +1235,7 @@
           ]
         },
         {
-          "y": 609,
+          "y": 609.4,
           "text": "read, learn, and connect . No matter your background — ML hacker, UI builder,",
           "bbox": [
             72.0250015258789,
@@ -1279,7 +1291,7 @@
           ]
         },
         {
-          "y": 626,
+          "y": 626.4,
           "text": "or insight whisperer — this is your stage.",
           "bbox": [
             72.0250015258789,
@@ -1313,7 +1325,7 @@
           ]
         },
         {
-          "y": 658,
+          "y": 657.7,
           "text": "Are you in?",
           "bbox": [
             72.0250015258789,
@@ -1347,7 +1359,7 @@
           ]
         },
         {
-          "y": 689,
+          "y": 688.7,
           "text": "It’s time to read between the lines. Connect the dots. And build a PDF",
           "bbox": [
             72.0250015258789,
@@ -1381,7 +1393,7 @@
           ]
         },
         {
-          "y": 706,
+          "y": 705.7,
           "text": "experience that feels like magic . Let’s go.",
           "bbox": [
             72.0250015258789,
@@ -1466,7 +1478,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 77,
+          "y": 76.5,
           "text": "Round 1A: Understand Your Document",
           "bbox": [
             72.0250015258789,
@@ -1500,7 +1512,7 @@
           ]
         },
         {
-          "y": 117,
+          "y": 117.3,
           "text": "Challenge Theme: Connecting the Dots Through Docs",
           "bbox": [
             72.0250015258789,
@@ -1578,7 +1590,7 @@
           ]
         },
         {
-          "y": 148,
+          "y": 148.3,
           "text": "Your Mission",
           "bbox": [
             72.0250015258789,
@@ -1656,7 +1668,7 @@
           ]
         },
         {
-          "y": 180,
+          "y": 179.5,
           "text": "You're handed a PDF — but instead of simply reading it, you're tasked with",
           "bbox": [
             72.0250015258789,
@@ -1690,7 +1702,7 @@
           ]
         },
         {
-          "y": 197,
+          "y": 196.5,
           "text": "making sense of it like a machine would. Your job is to extract a structured",
           "bbox": [
             72.0250015258789,
@@ -1724,7 +1736,7 @@
           ]
         },
         {
-          "y": 214,
+          "y": 213.8,
           "text": "outline of the document — essentially the Title , and headings like H1 , H2 , and",
           "bbox": [
             72.0250015258789,
@@ -1890,7 +1902,7 @@
           ]
         },
         {
-          "y": 231,
+          "y": 230.8,
           "text": "H3 — in a clean, hierarchical format.",
           "bbox": [
             72.0250015258789,
@@ -1946,7 +1958,7 @@
           ]
         },
         {
-          "y": 262,
+          "y": 261.8,
           "text": "This outline will be the foundation for the rest of your hackathon journey.",
           "bbox": [
             72.0250015258789,
@@ -2024,7 +2036,7 @@
           ]
         },
         {
-          "y": 293,
+          "y": 293.1,
           "text": "Why This Matters",
           "bbox": [
             72.0250015258789,
@@ -2102,7 +2114,7 @@
           ]
         },
         {
-          "y": 324,
+          "y": 324.1,
           "text": "PDFs are everywhere — but machines don’t naturally understand their",
           "bbox": [
             72.0250015258789,
@@ -2136,7 +2148,7 @@
           ]
         },
         {
-          "y": 341,
+          "y": 341.1,
           "text": "structure. By building an outline extractor, you’re enabling smarter document",
           "bbox": [
             72.0250015258789,
@@ -2170,7 +2182,7 @@
           ]
         },
         {
-          "y": 358,
+          "y": 358.4,
           "text": "experiences, like semantic search, recommendation systems, and insight",
           "bbox": [
             72.0250015258789,
@@ -2204,7 +2216,7 @@
           ]
         },
         {
-          "y": 375,
+          "y": 375.4,
           "text": "generation.",
           "bbox": [
             72.0250015258789,
@@ -2238,7 +2250,7 @@
           ]
         },
         {
-          "y": 406,
+          "y": 406.4,
           "text": "What You Need to Build",
           "bbox": [
             72.0250015258789,
@@ -2338,7 +2350,7 @@
           ]
         },
         {
-          "y": 438,
+          "y": 437.6,
           "text": "You must build a solution that:",
           "bbox": [
             72.0250015258789,
@@ -2372,37 +2384,15 @@
           ]
         },
         {
-          "y": 469,
-          "text": "• Accepts a PDF file (up to 50 pages)",
+          "y": 468.6,
+          "text": "Accepts a PDF file (up to 50 pages)",
           "bbox": [
-            126.05000305175781,
+            144.0500030517578,
             468.6499938964844,
             347.3139953613281,
             482.6499938964844
           ],
           "spans": [
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SymbolMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0049999952316284,
-              "descender": -0.2160000056028366,
-              "text": "•",
-              "origin": [
-                126.05000305175781,
-                479.1499938964844
-              ],
-              "bbox": [
-                126.05000305175781,
-                469.1000061035156,
-                130.65000915527344,
-                481.30999755859375
-              ]
-            },
             {
               "size": 14.0,
               "flags": 0,
@@ -2472,13 +2462,13 @@
           ]
         },
         {
-          "y": 486,
-          "text": "• Extracts:",
+          "y": 469.1,
+          "text": "•",
           "bbox": [
             126.05000305175781,
-            485.8999938964844,
-            199.49400329589844,
-            499.8999938964844
+            469.1000061035156,
+            130.65000915527344,
+            481.30999755859375
           ],
           "spans": [
             {
@@ -2494,15 +2484,27 @@
               "text": "•",
               "origin": [
                 126.05000305175781,
-                496.3999938964844
+                479.1499938964844
               ],
               "bbox": [
                 126.05000305175781,
-                486.3500061035156,
+                469.1000061035156,
                 130.65000915527344,
-                498.55999755859375
+                481.30999755859375
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 485.9,
+          "text": "Extracts:",
+          "bbox": [
+            144.0500030517578,
+            485.8999938964844,
+            199.49400329589844,
+            499.8999938964844
+          ],
+          "spans": [
             {
               "size": 14.0,
               "flags": 0,
@@ -2528,7 +2530,41 @@
           ]
         },
         {
-          "y": 503,
+          "y": 486.4,
+          "text": "•",
+          "bbox": [
+            126.05000305175781,
+            486.3500061035156,
+            130.65000915527344,
+            498.55999755859375
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SymbolMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0049999952316284,
+              "descender": -0.2160000056028366,
+              "text": "•",
+              "origin": [
+                126.05000305175781,
+                496.3999938964844
+              ],
+              "bbox": [
+                126.05000305175781,
+                486.3500061035156,
+                130.65000915527344,
+                498.55999755859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 502.9,
           "text": "Title",
           "bbox": [
             180.0800018310547,
@@ -2584,7 +2620,7 @@
           ]
         },
         {
-          "y": 505,
+          "y": 505.1,
           "text": "o",
           "bbox": [
             162.0800018310547,
@@ -2618,7 +2654,7 @@
           ]
         },
         {
-          "y": 520,
+          "y": 519.9,
           "text": "Headings: H1, H2, H3 (with level and page number)",
           "bbox": [
             180.0800018310547,
@@ -2674,7 +2710,7 @@
           ]
         },
         {
-          "y": 522,
+          "y": 522.1,
           "text": "o",
           "bbox": [
             162.0800018310547,
@@ -2708,7 +2744,7 @@
           ]
         },
         {
-          "y": 537,
+          "y": 537.2,
           "text": "Outputs a valid JSON file in the format below:",
           "bbox": [
             144.0500030517578,
@@ -2742,7 +2778,7 @@
           ]
         },
         {
-          "y": 538,
+          "y": 537.6,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -2776,7 +2812,7 @@
           ]
         },
         {
-          "y": 554,
+          "y": 554.2,
           "text": "{",
           "bbox": [
             72.0250015258789,
@@ -2810,7 +2846,7 @@
           ]
         },
         {
-          "y": 571,
+          "y": 571.2,
           "text": "\"title\": \"Understanding AI\",",
           "bbox": [
             72.0250015258789,
@@ -2844,7 +2880,7 @@
           ]
         },
         {
-          "y": 588,
+          "y": 588.4,
           "text": "\"outline\": [",
           "bbox": [
             72.0250015258789,
@@ -2878,7 +2914,7 @@
           ]
         },
         {
-          "y": 605,
+          "y": 605.4,
           "text": "{ \"level\": \"H1\", \"text\": \"Introduction\", \"page\": 1 },",
           "bbox": [
             72.0250015258789,
@@ -2912,7 +2948,7 @@
           ]
         },
         {
-          "y": 622,
+          "y": 622.4,
           "text": "{ \"level\": \"H2\", \"text\": \"What is AI?\", \"page\": 2 },",
           "bbox": [
             72.0250015258789,
@@ -2946,7 +2982,7 @@
           ]
         },
         {
-          "y": 640,
+          "y": 639.7,
           "text": "{ \"level\": \"H3\", \"text\": \"History of AI\", \"page\": 3 }",
           "bbox": [
             72.0250015258789,
@@ -2980,7 +3016,7 @@
           ]
         },
         {
-          "y": 657,
+          "y": 656.7,
           "text": "]",
           "bbox": [
             72.0250015258789,
@@ -3014,7 +3050,7 @@
           ]
         },
         {
-          "y": 674,
+          "y": 673.7,
           "text": "}",
           "bbox": [
             72.0250015258789,
@@ -3048,7 +3084,7 @@
           ]
         },
         {
-          "y": 705,
+          "y": 705.0,
           "text": "You Will Be Provided",
           "bbox": [
             72.0250015258789,
@@ -3126,7 +3162,7 @@
           ]
         },
         {
-          "y": 736,
+          "y": 736.0,
           "text": "1. A sample input PDF (e.g., sample.pdf)",
           "bbox": [
             126.05000305175781,
@@ -3226,7 +3262,7 @@
           ]
         },
         {
-          "y": 753,
+          "y": 753.2,
           "text": "2. A sample ground truth output (sample.json) for format clarity",
           "bbox": [
             126.05000305175781,
@@ -3333,7 +3369,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 75,
+          "y": 75.0,
           "text": "3. Sample Dockerfile",
           "bbox": [
             126.05000305175781,
@@ -3389,7 +3425,7 @@
           ]
         },
         {
-          "y": 92,
+          "y": 92.0,
           "text": "4. Sample Solution",
           "bbox": [
             126.05000305175781,
@@ -3445,7 +3481,7 @@
           ]
         },
         {
-          "y": 123,
+          "y": 123.3,
           "text": "Docker Requirements",
           "bbox": [
             72.0250015258789,
@@ -3545,7 +3581,7 @@
           ]
         },
         {
-          "y": 155,
+          "y": 154.7,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -3579,7 +3615,7 @@
           ]
         },
         {
-          "y": 171,
+          "y": 171.3,
           "text": "Please ensure your Dockerfile is compatible with AMD64",
           "bbox": [
             144.0500030517578,
@@ -3613,7 +3649,7 @@
           ]
         },
         {
-          "y": 172,
+          "y": 171.7,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -3647,7 +3683,7 @@
           ]
         },
         {
-          "y": 189,
+          "y": 188.5,
           "text": "architecture. Since we will build and run the image on an AMD64",
           "bbox": [
             126.05000305175781,
@@ -3681,7 +3717,7 @@
           ]
         },
         {
-          "y": 206,
+          "y": 205.6,
           "text": "machine, your base image and any dependencies should support",
           "bbox": [
             126.05000305175781,
@@ -3715,7 +3751,7 @@
           ]
         },
         {
-          "y": 223,
+          "y": 222.8,
           "text": "linux/amd64. Optionally, you can include the following in your",
           "bbox": [
             126.05000305175781,
@@ -3749,7 +3785,7 @@
           ]
         },
         {
-          "y": 240,
+          "y": 239.8,
           "text": "Dockerfile to explicitly specify the platform: FROM --",
           "bbox": [
             126.05000305175781,
@@ -3783,7 +3819,7 @@
           ]
         },
         {
-          "y": 257,
+          "y": 256.8,
           "text": "platform=linux/amd64 <base_image>",
           "bbox": [
             126.05000305175781,
@@ -3817,7 +3853,7 @@
           ]
         },
         {
-          "y": 274,
+          "y": 274.1,
           "text": "CPU architecture: amd64 (x86_64)",
           "bbox": [
             144.0500030517578,
@@ -3873,7 +3909,7 @@
           ]
         },
         {
-          "y": 275,
+          "y": 274.5,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -3907,7 +3943,7 @@
           ]
         },
         {
-          "y": 291,
+          "y": 291.1,
           "text": "No GPU dependencies",
           "bbox": [
             144.0500030517578,
@@ -3941,7 +3977,7 @@
           ]
         },
         {
-          "y": 292,
+          "y": 291.5,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -3975,7 +4011,7 @@
           ]
         },
         {
-          "y": 308,
+          "y": 308.1,
           "text": "Model size (if used) ≤ 200MB",
           "bbox": [
             144.0500030517578,
@@ -4009,7 +4045,7 @@
           ]
         },
         {
-          "y": 309,
+          "y": 308.5,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -4043,7 +4079,7 @@
           ]
         },
         {
-          "y": 325,
+          "y": 325.4,
           "text": "Should work offline — no network/internet calls",
           "bbox": [
             144.0500030517578,
@@ -4077,7 +4113,7 @@
           ]
         },
         {
-          "y": 326,
+          "y": 325.8,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -4111,7 +4147,7 @@
           ]
         },
         {
-          "y": 356,
+          "y": 356.4,
           "text": "Expected Execution",
           "bbox": [
             72.0250015258789,
@@ -4167,7 +4203,7 @@
           ]
         },
         {
-          "y": 387,
+          "y": 387.4,
           "text": "We will build the docker image using the following command:",
           "bbox": [
             72.0250015258789,
@@ -4201,7 +4237,7 @@
           ]
         },
         {
-          "y": 419,
+          "y": 418.6,
           "text": "```docker build --platform linux/amd64 -t",
           "bbox": [
             72.0250015258789,
@@ -4235,7 +4271,7 @@
           ]
         },
         {
-          "y": 436,
+          "y": 435.6,
           "text": "mysolutionname:somerandomidentifier```",
           "bbox": [
             72.0250015258789,
@@ -4269,7 +4305,7 @@
           ]
         },
         {
-          "y": 467,
+          "y": 466.6,
           "text": "After building the image, we will run the solution using the run command",
           "bbox": [
             72.0250015258789,
@@ -4303,7 +4339,7 @@
           ]
         },
         {
-          "y": 484,
+          "y": 483.9,
           "text": "specified in the submitted instructions.",
           "bbox": [
             72.0250015258789,
@@ -4337,7 +4373,7 @@
           ]
         },
         {
-          "y": 515,
+          "y": 514.9,
           "text": "```docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --",
           "bbox": [
             72.0250015258789,
@@ -4371,7 +4407,7 @@
           ]
         },
         {
-          "y": 532,
+          "y": 532.2,
           "text": "network none mysolutionname:somerandomidentifier```",
           "bbox": [
             72.0250015258789,
@@ -4405,7 +4441,7 @@
           ]
         },
         {
-          "y": 563,
+          "y": 563.2,
           "text": "Your container should:",
           "bbox": [
             72.0250015258789,
@@ -4439,7 +4475,7 @@
           ]
         },
         {
-          "y": 594,
+          "y": 594.2,
           "text": "Automatically process all PDFs from /app/input directory,",
           "bbox": [
             144.0500030517578,
@@ -4473,7 +4509,7 @@
           ]
         },
         {
-          "y": 595,
+          "y": 594.6,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -4507,7 +4543,7 @@
           ]
         },
         {
-          "y": 611,
+          "y": 611.4,
           "text": "generating a corresponding filename.json in /app/output for each",
           "bbox": [
             126.05000305175781,
@@ -4541,7 +4577,7 @@
           ]
         },
         {
-          "y": 628,
+          "y": 628.4,
           "text": "filename.pdf",
           "bbox": [
             126.05000305175781,
@@ -4575,7 +4611,7 @@
           ]
         },
         {
-          "y": 645,
+          "y": 645.5,
           "text": "output.json",
           "bbox": [
             144.0500030517578,
@@ -4609,7 +4645,7 @@
           ]
         },
         {
-          "y": 646,
+          "y": 645.9,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -4643,7 +4679,7 @@
           ]
         },
         {
-          "y": 677,
+          "y": 676.7,
           "text": "Constraints",
           "bbox": [
             72.0250015258789,
@@ -4721,7 +4757,7 @@
           ]
         },
         {
-          "y": 708,
+          "y": 707.7,
           "text": "Constraint Requirement",
           "bbox": [
             78.2750015258789,
@@ -4821,7 +4857,7 @@
           ]
         },
         {
-          "y": 725,
+          "y": 724.7,
           "text": "Execution ≤ 10 seconds for a 50-page",
           "bbox": [
             72.0250015258789,
@@ -4877,7 +4913,7 @@
           ]
         },
         {
-          "y": 742,
+          "y": 742.0,
           "text": "time PDF",
           "bbox": [
             72.0250015258789,
@@ -4940,7 +4976,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 75,
+          "y": 75.0,
           "text": "Model size ≤ 200MB (if used)",
           "bbox": [
             72.0250015258789,
@@ -4974,7 +5010,7 @@
           ]
         },
         {
-          "y": 92,
+          "y": 92.0,
           "text": "No internet access",
           "bbox": [
             148.5800018310547,
@@ -5008,7 +5044,7 @@
           ]
         },
         {
-          "y": 101,
+          "y": 100.8,
           "text": "Network",
           "bbox": [
             72.0250015258789,
@@ -5042,7 +5078,7 @@
           ]
         },
         {
-          "y": 109,
+          "y": 109.3,
           "text": "allowed",
           "bbox": [
             148.5800018310547,
@@ -5098,7 +5134,7 @@
           ]
         },
         {
-          "y": 126,
+          "y": 126.3,
           "text": "Must run on CPU (amd64),",
           "bbox": [
             148.5800018310547,
@@ -5132,7 +5168,7 @@
           ]
         },
         {
-          "y": 143,
+          "y": 143.3,
           "text": "your solution should run on",
           "bbox": [
             148.5800018310547,
@@ -5166,7 +5202,7 @@
           ]
         },
         {
-          "y": 152,
+          "y": 152.0,
           "text": "Runtime",
           "bbox": [
             72.0250015258789,
@@ -5200,7 +5236,7 @@
           ]
         },
         {
-          "y": 161,
+          "y": 160.5,
           "text": "the system with 8 CPUs and",
           "bbox": [
             148.5800018310547,
@@ -5234,7 +5270,7 @@
           ]
         },
         {
-          "y": 178,
+          "y": 177.5,
           "text": "16 GB RAM configurations",
           "bbox": [
             148.5800018310547,
@@ -5268,7 +5304,7 @@
           ]
         },
         {
-          "y": 226,
+          "y": 225.8,
           "text": "Scoring Criteria",
           "bbox": [
             72.0250015258789,
@@ -5324,7 +5360,7 @@
           ]
         },
         {
-          "y": 257,
+          "y": 256.8,
           "text": "Max",
           "bbox": [
             331.3999938964844,
@@ -5358,7 +5394,7 @@
           ]
         },
         {
-          "y": 265,
+          "y": 265.3,
           "text": "Criteria",
           "bbox": [
             169.5800018310547,
@@ -5414,7 +5450,7 @@
           ]
         },
         {
-          "y": 274,
+          "y": 274.1,
           "text": "Points",
           "bbox": [
             324.6499938964844,
@@ -5470,7 +5506,7 @@
           ]
         },
         {
-          "y": 291,
+          "y": 291.1,
           "text": "Heading Detection Accuracy (Precision +",
           "bbox": [
             72.0250015258789,
@@ -5504,7 +5540,7 @@
           ]
         },
         {
-          "y": 300,
+          "y": 299.6,
           "text": "25",
           "bbox": [
             313.6300048828125,
@@ -5538,7 +5574,7 @@
           ]
         },
         {
-          "y": 308,
+          "y": 308.1,
           "text": "Recall)",
           "bbox": [
             72.0250015258789,
@@ -5572,7 +5608,7 @@
           ]
         },
         {
-          "y": 325,
+          "y": 325.4,
           "text": "Performance (Time & Size Compliance) 10",
           "bbox": [
             72.0250015258789,
@@ -5628,7 +5664,7 @@
           ]
         },
         {
-          "y": 342,
+          "y": 342.4,
           "text": "Bonus: Multilingual Handling (e.g.,",
           "bbox": [
             72.0250015258789,
@@ -5662,7 +5698,7 @@
           ]
         },
         {
-          "y": 351,
+          "y": 350.9,
           "text": "10",
           "bbox": [
             313.6300048828125,
@@ -5696,7 +5732,7 @@
           ]
         },
         {
-          "y": 359,
+          "y": 359.4,
           "text": "Japanese)",
           "bbox": [
             72.0250015258789,
@@ -5752,7 +5788,7 @@
           ]
         },
         {
-          "y": 377,
+          "y": 376.6,
           "text": "Total 45",
           "bbox": [
             72.0250015258789,
@@ -5830,7 +5866,7 @@
           ]
         },
         {
-          "y": 425,
+          "y": 424.6,
           "text": "Submission Checklist",
           "bbox": [
             72.0250015258789,
@@ -5886,7 +5922,7 @@
           ]
         },
         {
-          "y": 456,
+          "y": 455.9,
           "text": "1. Git Project with a working Dockerfile in the root director and",
           "bbox": [
             126.05000305175781,
@@ -5942,7 +5978,7 @@
           ]
         },
         {
-          "y": 473,
+          "y": 472.9,
           "text": "2. A working Dockerfile",
           "bbox": [
             126.05000305175781,
@@ -6042,7 +6078,7 @@
           ]
         },
         {
-          "y": 490,
+          "y": 490.1,
           "text": "3. All dependencies installed within the container",
           "bbox": [
             126.05000305175781,
@@ -6098,7 +6134,7 @@
           ]
         },
         {
-          "y": 507,
+          "y": 507.2,
           "text": "4. A README.md that explains:",
           "bbox": [
             126.05000305175781,
@@ -6154,7 +6190,7 @@
           ]
         },
         {
-          "y": 524,
+          "y": 524.2,
           "text": "Your approach",
           "bbox": [
             180.0800018310547,
@@ -6188,13 +6224,13 @@
           ]
         },
         {
-          "y": 526,
+          "y": 526.3,
           "text": "o",
           "bbox": [
             162.0800018310547,
-            525.6000366210938,
-            170.86000061035156,
-            536.75
+            526.3200073242188,
+            168.0800018310547,
+            536.530029296875
           ],
           "spans": [
             {
@@ -6218,33 +6254,11 @@
                 168.0800018310547,
                 536.530029296875
               ]
-            },
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                168.0800018310547,
-                534.6500244140625
-              ],
-              "bbox": [
-                168.0800018310547,
-                525.6000366210938,
-                170.86000061035156,
-                536.75
-              ]
             }
           ]
         },
         {
-          "y": 541,
+          "y": 541.4,
           "text": "Any models or libraries used",
           "bbox": [
             180.0800018310547,
@@ -6278,7 +6292,7 @@
           ]
         },
         {
-          "y": 544,
+          "y": 543.6,
           "text": "o",
           "bbox": [
             162.0800018310547,
@@ -6312,7 +6326,7 @@
           ]
         },
         {
-          "y": 558,
+          "y": 558.4,
           "text": "How to build and run your solution (This is purely for",
           "bbox": [
             180.0800018310547,
@@ -6346,7 +6360,7 @@
           ]
         },
         {
-          "y": 561,
+          "y": 560.6,
           "text": "o",
           "bbox": [
             162.0800018310547,
@@ -6380,7 +6394,7 @@
           ]
         },
         {
-          "y": 575,
+          "y": 575.4,
           "text": "documentation purpose, your solution should run using the",
           "bbox": [
             162.0800018310547,
@@ -6414,7 +6428,7 @@
           ]
         },
         {
-          "y": 593,
+          "y": 592.7,
           "text": "“Expected Execution” section above.",
           "bbox": [
             162.0800018310547,
@@ -6448,7 +6462,7 @@
           ]
         },
         {
-          "y": 624,
+          "y": 623.7,
           "text": "Pro Tips",
           "bbox": [
             72.0250015258789,
@@ -6504,37 +6518,15 @@
           ]
         },
         {
-          "y": 655,
-          "text": "• Don’t rely solely on font sizes for heading level determination —",
+          "y": 654.7,
+          "text": "Don’t rely solely on font sizes for heading level determination —",
           "bbox": [
-            126.05000305175781,
+            144.0500030517578,
             654.7000122070312,
             513.1339721679688,
             668.7000122070312
           ],
           "spans": [
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SymbolMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0049999952316284,
-              "descender": -0.2160000056028366,
-              "text": "•",
-              "origin": [
-                126.05000305175781,
-                665.2000122070312
-              ],
-              "bbox": [
-                126.05000305175781,
-                655.1500244140625,
-                130.65000915527344,
-                667.3599853515625
-              ]
-            },
             {
               "size": 14.0,
               "flags": 0,
@@ -6560,7 +6552,41 @@
           ]
         },
         {
-          "y": 672,
+          "y": 655.2,
+          "text": "•",
+          "bbox": [
+            126.05000305175781,
+            655.1500244140625,
+            130.65000915527344,
+            667.3599853515625
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SymbolMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0049999952316284,
+              "descender": -0.2160000056028366,
+              "text": "•",
+              "origin": [
+                126.05000305175781,
+                665.2000122070312
+              ],
+              "bbox": [
+                126.05000305175781,
+                655.1500244140625,
+                130.65000915527344,
+                667.3599853515625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 672.0,
           "text": "headings in some PDFs break that assumption.",
           "bbox": [
             126.05000305175781,
@@ -6594,37 +6620,15 @@
           ]
         },
         {
-          "y": 689,
-          "text": "• Test your solution across both simple and complex PDFs.",
+          "y": 689.0,
+          "text": "Test your solution across both simple and complex PDFs.",
           "bbox": [
-            126.05000305175781,
+            144.0500030517578,
             688.9500122070312,
             472.864013671875,
             702.9500122070312
           ],
           "spans": [
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SymbolMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0049999952316284,
-              "descender": -0.2160000056028366,
-              "text": "•",
-              "origin": [
-                126.05000305175781,
-                699.4500122070312
-              ],
-              "bbox": [
-                126.05000305175781,
-                689.4000244140625,
-                130.65000915527344,
-                701.6099853515625
-              ]
-            },
             {
               "size": 14.0,
               "flags": 0,
@@ -6650,7 +6654,41 @@
           ]
         },
         {
-          "y": 706,
+          "y": 689.4,
+          "text": "•",
+          "bbox": [
+            126.05000305175781,
+            689.4000244140625,
+            130.65000915527344,
+            701.6099853515625
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SymbolMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0049999952316284,
+              "descender": -0.2160000056028366,
+              "text": "•",
+              "origin": [
+                126.05000305175781,
+                699.4500122070312
+              ],
+              "bbox": [
+                126.05000305175781,
+                689.4000244140625,
+                130.65000915527344,
+                701.6099853515625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 706.2,
           "text": "Make your code modular — you’ll reuse this structure in Round",
           "bbox": [
             144.0500030517578,
@@ -6684,7 +6722,7 @@
           ]
         },
         {
-          "y": 707,
+          "y": 706.7,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -6718,7 +6756,7 @@
           ]
         },
         {
-          "y": 723,
+          "y": 723.2,
           "text": "1B.",
           "bbox": [
             126.05000305175781,
@@ -6759,37 +6797,15 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 75,
-          "text": "• Important – Please keep your Git Repo private till the competition",
+          "y": 75.0,
+          "text": "Important – Please keep your Git Repo private till the competition",
           "bbox": [
-            126.05000305175781,
+            144.0500030517578,
             75.030029296875,
             522.426025390625,
             89.030029296875
           ],
           "spans": [
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SymbolMT",
-              "color": 1001313,
-              "alpha": 255,
-              "ascender": 1.0049999952316284,
-              "descender": -0.2160000056028366,
-              "text": "•",
-              "origin": [
-                126.05000305175781,
-                85.530029296875
-              ],
-              "bbox": [
-                126.05000305175781,
-                75.48002624511719,
-                130.65000915527344,
-                87.69003295898438
-              ]
-            },
             {
               "size": 14.0,
               "flags": 0,
@@ -6815,7 +6831,41 @@
           ]
         },
         {
-          "y": 92,
+          "y": 75.5,
+          "text": "•",
+          "bbox": [
+            126.05000305175781,
+            75.48002624511719,
+            130.65000915527344,
+            87.69003295898438
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SymbolMT",
+              "color": 1001313,
+              "alpha": 255,
+              "ascender": 1.0049999952316284,
+              "descender": -0.2160000056028366,
+              "text": "•",
+              "origin": [
+                126.05000305175781,
+                85.530029296875
+              ],
+              "bbox": [
+                126.05000305175781,
+                75.48002624511719,
+                130.65000915527344,
+                87.69003295898438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 92.0,
           "text": "deadline, you will be informed, when to make the repo public.",
           "bbox": [
             126.05000305175781,
@@ -6849,7 +6899,7 @@
           ]
         },
         {
-          "y": 123,
+          "y": 123.3,
           "text": "What Not to Do",
           "bbox": [
             72.0250015258789,
@@ -6905,7 +6955,7 @@
           ]
         },
         {
-          "y": 154,
+          "y": 154.3,
           "text": "Do not hardcode headings or file-specific logic",
           "bbox": [
             144.0500030517578,
@@ -6939,7 +6989,7 @@
           ]
         },
         {
-          "y": 155,
+          "y": 154.7,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -6973,7 +7023,7 @@
           ]
         },
         {
-          "y": 171,
+          "y": 171.3,
           "text": "Do not make API or web calls",
           "bbox": [
             144.0500030517578,
@@ -7007,7 +7057,7 @@
           ]
         },
         {
-          "y": 172,
+          "y": 171.7,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -7041,37 +7091,15 @@
           ]
         },
         {
-          "y": 189,
-          "text": "• Do not exceed the runtime/model size constraints",
+          "y": 188.5,
+          "text": "Do not exceed the runtime/model size constraints",
           "bbox": [
-            126.05000305175781,
+            144.0500030517578,
             188.54998779296875,
             435.5840148925781,
             202.54998779296875
           ],
           "spans": [
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SymbolMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0049999952316284,
-              "descender": -0.2160000056028366,
-              "text": "•",
-              "origin": [
-                126.05000305175781,
-                199.04998779296875
-              ],
-              "bbox": [
-                126.05000305175781,
-                188.99998474121094,
-                130.65000915527344,
-                201.20999145507812
-              ]
-            },
             {
               "size": 14.0,
               "flags": 0,
@@ -7097,7 +7125,41 @@
           ]
         },
         {
-          "y": 220,
+          "y": 189.0,
+          "text": "•",
+          "bbox": [
+            126.05000305175781,
+            188.99998474121094,
+            130.65000915527344,
+            201.20999145507812
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SymbolMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0049999952316284,
+              "descender": -0.2160000056028366,
+              "text": "•",
+              "origin": [
+                126.05000305175781,
+                199.04998779296875
+              ],
+              "bbox": [
+                126.05000305175781,
+                188.99998474121094,
+                130.65000915527344,
+                201.20999145507812
+              ]
+            }
+          ]
+        },
+        {
+          "y": 219.6,
           "text": "[[Public Dataset Folder]]",
           "bbox": [
             72.0250015258789,
@@ -7153,7 +7215,7 @@
           ]
         },
         {
-          "y": 251,
+          "y": 250.8,
           "text": "(For Sample Input and Output Files, please refer to the appendix)",
           "bbox": [
             72.0250015258789,
@@ -7194,7 +7256,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 77,
+          "y": 76.5,
           "text": "Round 1B: Persona-Driven Document Intelligence",
           "bbox": [
             72.0250015258789,
@@ -7228,7 +7290,7 @@
           ]
         },
         {
-          "y": 117,
+          "y": 117.3,
           "text": "Theme: “Connect What Matters — For the User Who Matters”",
           "bbox": [
             72.0250015258789,
@@ -7306,7 +7368,7 @@
           ]
         },
         {
-          "y": 148,
+          "y": 148.3,
           "text": "Challenge Brief (For Participants)",
           "bbox": [
             72.0250015258789,
@@ -7362,7 +7424,7 @@
           ]
         },
         {
-          "y": 180,
+          "y": 179.5,
           "text": "You will build a system that acts as an intelligent document analyst, extracting",
           "bbox": [
             72.0250015258789,
@@ -7396,7 +7458,7 @@
           ]
         },
         {
-          "y": 197,
+          "y": 196.5,
           "text": "and prioritizing the most relevant sections from a collection of documents based",
           "bbox": [
             72.0250015258789,
@@ -7430,7 +7492,7 @@
           ]
         },
         {
-          "y": 214,
+          "y": 213.8,
           "text": "on a specific persona and their job-to-be-done.",
           "bbox": [
             72.0250015258789,
@@ -7464,7 +7526,7 @@
           ]
         },
         {
-          "y": 245,
+          "y": 244.8,
           "text": "Input Specification",
           "bbox": [
             72.0250015258789,
@@ -7520,7 +7582,7 @@
           ]
         },
         {
-          "y": 276,
+          "y": 275.8,
           "text": "2. Document Collection : 3-10 related PDFs Persona Definition : Role",
           "bbox": [
             90.05000305175781,
@@ -7642,7 +7704,7 @@
           ]
         },
         {
-          "y": 293,
+          "y": 293.1,
           "text": "description with specific expertise and focus areas",
           "bbox": [
             108.05000305175781,
@@ -7676,7 +7738,7 @@
           ]
         },
         {
-          "y": 310,
+          "y": 310.1,
           "text": "3. Job-to-be-Done : Concrete task the persona needs to accomplish",
           "bbox": [
             126.05000305175781,
@@ -7754,7 +7816,7 @@
           ]
         },
         {
-          "y": 341,
+          "y": 341.1,
           "text": "Document collection, persona and job-to-be-done can be very diverse. So, the",
           "bbox": [
             72.0250015258789,
@@ -7788,7 +7850,7 @@
           ]
         },
         {
-          "y": 358,
+          "y": 358.4,
           "text": "solution that teams need to build needs to be generic to generalize to this",
           "bbox": [
             72.0250015258789,
@@ -7822,7 +7884,7 @@
           ]
         },
         {
-          "y": 375,
+          "y": 375.4,
           "text": "variety.",
           "bbox": [
             72.0250015258789,
@@ -7856,7 +7918,7 @@
           ]
         },
         {
-          "y": 406,
+          "y": 406.4,
           "text": "Documents can be from any domain (Example: Research papers,",
           "bbox": [
             144.0500030517578,
@@ -7890,7 +7952,7 @@
           ]
         },
         {
-          "y": 407,
+          "y": 406.8,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -7924,7 +7986,7 @@
           ]
         },
         {
-          "y": 424,
+          "y": 423.6,
           "text": "school/college books, financial reports, news articles etc.)",
           "bbox": [
             126.05000305175781,
@@ -7958,37 +8020,15 @@
           ]
         },
         {
-          "y": 441,
-          "text": "• Persona can again be very diverse (Example: Researcher, Student,",
+          "y": 440.6,
+          "text": "Persona can again be very diverse (Example: Researcher, Student,",
           "bbox": [
-            126.05000305175781,
+            144.0500030517578,
             440.6199951171875,
             520.60791015625,
             454.6199951171875
           ],
           "spans": [
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SymbolMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0049999952316284,
-              "descender": -0.2160000056028366,
-              "text": "•",
-              "origin": [
-                126.05000305175781,
-                451.1199951171875
-              ],
-              "bbox": [
-                126.05000305175781,
-                441.07000732421875,
-                130.65000915527344,
-                453.2799987792969
-              ]
-            },
             {
               "size": 14.0,
               "flags": 0,
@@ -8014,7 +8054,41 @@
           ]
         },
         {
-          "y": 458,
+          "y": 441.1,
+          "text": "•",
+          "bbox": [
+            126.05000305175781,
+            441.07000732421875,
+            130.65000915527344,
+            453.2799987792969
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SymbolMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0049999952316284,
+              "descender": -0.2160000056028366,
+              "text": "•",
+              "origin": [
+                126.05000305175781,
+                451.1199951171875
+              ],
+              "bbox": [
+                126.05000305175781,
+                441.07000732421875,
+                130.65000915527344,
+                453.2799987792969
+              ]
+            }
+          ]
+        },
+        {
+          "y": 457.9,
           "text": "Salesperson, Journalist, Entrepreneur etc)",
           "bbox": [
             126.05000305175781,
@@ -8048,37 +8122,15 @@
           ]
         },
         {
-          "y": 475,
-          "text": "• Job-to-be-done: This will be related to the persona (Example:",
+          "y": 474.9,
+          "text": "Job-to-be-done: This will be related to the persona (Example:",
           "bbox": [
-            126.05000305175781,
+            144.0500030517578,
             474.8999938964844,
             494.95611572265625,
             488.8999938964844
           ],
           "spans": [
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SymbolMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0049999952316284,
-              "descender": -0.2160000056028366,
-              "text": "•",
-              "origin": [
-                126.05000305175781,
-                485.3999938964844
-              ],
-              "bbox": [
-                126.05000305175781,
-                475.3500061035156,
-                130.65000915527344,
-                487.55999755859375
-              ]
-            },
             {
               "size": 14.0,
               "flags": 0,
@@ -8104,7 +8156,41 @@
           ]
         },
         {
-          "y": 492,
+          "y": 475.4,
+          "text": "•",
+          "bbox": [
+            126.05000305175781,
+            475.3500061035156,
+            130.65000915527344,
+            487.55999755859375
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SymbolMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0049999952316284,
+              "descender": -0.2160000056028366,
+              "text": "•",
+              "origin": [
+                126.05000305175781,
+                485.3999938964844
+              ],
+              "bbox": [
+                126.05000305175781,
+                475.3500061035156,
+                130.65000915527344,
+                487.55999755859375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 491.9,
           "text": "Provide a literature review for a given topic and available research",
           "bbox": [
             126.05000305175781,
@@ -8138,7 +8224,7 @@
           ]
         },
         {
-          "y": 509,
+          "y": 509.2,
           "text": "papers, What should I study for Organic Chemistry given the",
           "bbox": [
             126.05000305175781,
@@ -8172,7 +8258,7 @@
           ]
         },
         {
-          "y": 526,
+          "y": 526.2,
           "text": "chemistry documents, Summarize the financials of corporation xyz",
           "bbox": [
             126.05000305175781,
@@ -8206,7 +8292,7 @@
           ]
         },
         {
-          "y": 543,
+          "y": 543.2,
           "text": "given the detailed year end financial reports etc.)",
           "bbox": [
             126.05000305175781,
@@ -8240,7 +8326,7 @@
           ]
         },
         {
-          "y": 574,
+          "y": 574.4,
           "text": "Sample Test Cases",
           "bbox": [
             72.0250015258789,
@@ -8296,7 +8382,7 @@
           ]
         },
         {
-          "y": 605,
+          "y": 605.4,
           "text": "Test Case 1: Academic Research",
           "bbox": [
             72.0250015258789,
@@ -8352,7 +8438,7 @@
           ]
         },
         {
-          "y": 636,
+          "y": 636.5,
           "text": "Documents : 4 research papers on \"Graph Neural Networks for",
           "bbox": [
             144.0500030517578,
@@ -8408,7 +8494,7 @@
           ]
         },
         {
-          "y": 637,
+          "y": 636.9,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -8442,7 +8528,7 @@
           ]
         },
         {
-          "y": 654,
+          "y": 653.7,
           "text": "Drug Discovery\"",
           "bbox": [
             126.05000305175781,
@@ -8476,37 +8562,15 @@
           ]
         },
         {
-          "y": 671,
-          "text": "• Persona : PhD Researcher in Computational Biology",
+          "y": 670.7,
+          "text": "Persona : PhD Researcher in Computational Biology",
           "bbox": [
-            126.05000305175781,
+            144.0500030517578,
             670.7000122070312,
             441.0840148925781,
             684.7000122070312
           ],
           "spans": [
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SymbolMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0049999952316284,
-              "descender": -0.2160000056028366,
-              "text": "•",
-              "origin": [
-                126.05000305175781,
-                681.2000122070312
-              ],
-              "bbox": [
-                126.05000305175781,
-                671.1500244140625,
-                130.65000915527344,
-                683.3599853515625
-              ]
-            },
             {
               "size": 14.0,
               "flags": 16,
@@ -8554,13 +8618,13 @@
           ]
         },
         {
-          "y": 688,
-          "text": "• Job : \"Prepare a comprehensive literature review focusing on",
+          "y": 671.2,
+          "text": "•",
           "bbox": [
             126.05000305175781,
-            687.7000122070312,
-            491.5140075683594,
-            701.7000122070312
+            671.1500244140625,
+            130.65000915527344,
+            683.3599853515625
           ],
           "spans": [
             {
@@ -8576,15 +8640,27 @@
               "text": "•",
               "origin": [
                 126.05000305175781,
-                698.2000122070312
+                681.2000122070312
               ],
               "bbox": [
                 126.05000305175781,
-                688.1500244140625,
+                671.1500244140625,
                 130.65000915527344,
-                700.3599853515625
+                683.3599853515625
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 687.7,
+          "text": "Job : \"Prepare a comprehensive literature review focusing on",
+          "bbox": [
+            144.0500030517578,
+            687.7000122070312,
+            491.5140075683594,
+            701.7000122070312
+          ],
+          "spans": [
             {
               "size": 14.0,
               "flags": 16,
@@ -8632,7 +8708,41 @@
           ]
         },
         {
-          "y": 705,
+          "y": 688.2,
+          "text": "•",
+          "bbox": [
+            126.05000305175781,
+            688.1500244140625,
+            130.65000915527344,
+            700.3599853515625
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SymbolMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0049999952316284,
+              "descender": -0.2160000056028366,
+              "text": "•",
+              "origin": [
+                126.05000305175781,
+                698.2000122070312
+              ],
+              "bbox": [
+                126.05000305175781,
+                688.1500244140625,
+                130.65000915527344,
+                700.3599853515625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 705.0,
           "text": "methodologies, datasets, and performance benchmarks\"",
           "bbox": [
             126.05000305175781,
@@ -8673,7 +8783,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 75,
+          "y": 75.0,
           "text": "Test Case 2: Business Analysis",
           "bbox": [
             72.0250015258789,
@@ -8729,37 +8839,15 @@
           ]
         },
         {
-          "y": 106,
-          "text": "• Documents : 3 annual reports from competing tech companies",
+          "y": 106.0,
+          "text": "Documents : 3 annual reports from competing tech companies",
           "bbox": [
-            126.05000305175781,
+            144.0500030517578,
             106.030029296875,
             501.4140625,
             120.030029296875
           ],
           "spans": [
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SymbolMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0049999952316284,
-              "descender": -0.2160000056028366,
-              "text": "•",
-              "origin": [
-                126.05000305175781,
-                116.530029296875
-              ],
-              "bbox": [
-                126.05000305175781,
-                106.48002624511719,
-                130.65000915527344,
-                118.69003295898438
-              ]
-            },
             {
               "size": 14.0,
               "flags": 16,
@@ -8807,7 +8895,41 @@
           ]
         },
         {
-          "y": 123,
+          "y": 106.5,
+          "text": "•",
+          "bbox": [
+            126.05000305175781,
+            106.48002624511719,
+            130.65000915527344,
+            118.69003295898438
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SymbolMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0049999952316284,
+              "descender": -0.2160000056028366,
+              "text": "•",
+              "origin": [
+                126.05000305175781,
+                116.530029296875
+              ],
+              "bbox": [
+                126.05000305175781,
+                106.48002624511719,
+                130.65000915527344,
+                118.69003295898438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 123.3,
           "text": "(2022-2024)",
           "bbox": [
             126.05000305175781,
@@ -8841,7 +8963,7 @@
           ]
         },
         {
-          "y": 140,
+          "y": 140.3,
           "text": "Persona : Investment Analyst",
           "bbox": [
             144.0500030517578,
@@ -8897,7 +9019,7 @@
           ]
         },
         {
-          "y": 141,
+          "y": 140.7,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -8931,7 +9053,7 @@
           ]
         },
         {
-          "y": 157,
+          "y": 157.3,
           "text": "Job : \"Analyze revenue trends, R&D investments, and market",
           "bbox": [
             144.0500030517578,
@@ -8987,7 +9109,7 @@
           ]
         },
         {
-          "y": 158,
+          "y": 157.7,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -9021,7 +9143,7 @@
           ]
         },
         {
-          "y": 175,
+          "y": 174.5,
           "text": "positioning strategies\"",
           "bbox": [
             126.05000305175781,
@@ -9055,7 +9177,7 @@
           ]
         },
         {
-          "y": 206,
+          "y": 205.6,
           "text": "Test Case 3: Educational Content",
           "bbox": [
             72.0250015258789,
@@ -9133,37 +9255,15 @@
           ]
         },
         {
-          "y": 237,
-          "text": "• Documents : 5 chapters from organic chemistry textbooks",
+          "y": 236.8,
+          "text": "Documents : 5 chapters from organic chemistry textbooks",
           "bbox": [
-            126.05000305175781,
+            144.0500030517578,
             236.83001708984375,
             477.864013671875,
             250.83001708984375
           ],
           "spans": [
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SymbolMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0049999952316284,
-              "descender": -0.2160000056028366,
-              "text": "•",
-              "origin": [
-                126.05000305175781,
-                247.33001708984375
-              ],
-              "bbox": [
-                126.05000305175781,
-                237.28001403808594,
-                130.65000915527344,
-                249.49002075195312
-              ]
-            },
             {
               "size": 14.0,
               "flags": 16,
@@ -9211,13 +9311,13 @@
           ]
         },
         {
-          "y": 254,
-          "text": "• Persona : Undergraduate Chemistry Student",
+          "y": 237.3,
+          "text": "•",
           "bbox": [
             126.05000305175781,
-            253.82000732421875,
-            399.843994140625,
-            267.82000732421875
+            237.28001403808594,
+            130.65000915527344,
+            249.49002075195312
           ],
           "spans": [
             {
@@ -9233,15 +9333,27 @@
               "text": "•",
               "origin": [
                 126.05000305175781,
-                264.32000732421875
+                247.33001708984375
               ],
               "bbox": [
                 126.05000305175781,
-                254.27000427246094,
+                237.28001403808594,
                 130.65000915527344,
-                266.4800109863281
+                249.49002075195312
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 253.8,
+          "text": "Persona : Undergraduate Chemistry Student",
+          "bbox": [
+            144.0500030517578,
+            253.82000732421875,
+            399.843994140625,
+            267.82000732421875
+          ],
+          "spans": [
             {
               "size": 14.0,
               "flags": 16,
@@ -9289,13 +9401,13 @@
           ]
         },
         {
-          "y": 271,
-          "text": "• Job : \"Identify key concepts and mechanisms for exam preparation",
+          "y": 254.3,
+          "text": "•",
           "bbox": [
             126.05000305175781,
-            270.83001708984375,
-            523.1400146484375,
-            284.83001708984375
+            254.27000427246094,
+            130.65000915527344,
+            266.4800109863281
           ],
           "spans": [
             {
@@ -9311,15 +9423,27 @@
               "text": "•",
               "origin": [
                 126.05000305175781,
-                281.33001708984375
+                264.32000732421875
               ],
               "bbox": [
                 126.05000305175781,
-                271.280029296875,
+                254.27000427246094,
                 130.65000915527344,
-                283.4900207519531
+                266.4800109863281
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 270.8,
+          "text": "Job : \"Identify key concepts and mechanisms for exam preparation",
+          "bbox": [
+            144.0500030517578,
+            270.83001708984375,
+            523.1400146484375,
+            284.83001708984375
+          ],
+          "spans": [
             {
               "size": 14.0,
               "flags": 16,
@@ -9367,7 +9491,41 @@
           ]
         },
         {
-          "y": 288,
+          "y": 271.3,
+          "text": "•",
+          "bbox": [
+            126.05000305175781,
+            271.280029296875,
+            130.65000915527344,
+            283.4900207519531
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SymbolMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0049999952316284,
+              "descender": -0.2160000056028366,
+              "text": "•",
+              "origin": [
+                126.05000305175781,
+                281.33001708984375
+              ],
+              "bbox": [
+                126.05000305175781,
+                271.280029296875,
+                130.65000915527344,
+                283.4900207519531
+              ]
+            }
+          ]
+        },
+        {
+          "y": 288.1,
           "text": "on reaction kinetics\"",
           "bbox": [
             126.05000305175781,
@@ -9401,7 +9559,7 @@
           ]
         },
         {
-          "y": 319,
+          "y": 319.1,
           "text": "Required Output",
           "bbox": [
             72.0250015258789,
@@ -9457,7 +9615,7 @@
           ]
         },
         {
-          "y": 350,
+          "y": 350.1,
           "text": "Output JSON format: Refer challenge1b_output.json",
           "bbox": [
             144.0500030517578,
@@ -9557,7 +9715,7 @@
           ]
         },
         {
-          "y": 351,
+          "y": 350.6,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -9591,7 +9749,7 @@
           ]
         },
         {
-          "y": 381,
+          "y": 381.4,
           "text": "The output should contain:",
           "bbox": [
             72.0250015258789,
@@ -9625,7 +9783,7 @@
           ]
         },
         {
-          "y": 412,
+          "y": 412.4,
           "text": "1. Metadata:",
           "bbox": [
             126.05000305175781,
@@ -9681,7 +9839,7 @@
           ]
         },
         {
-          "y": 429,
+          "y": 429.4,
           "text": "a. Input documents",
           "bbox": [
             162.0800018310547,
@@ -9737,7 +9895,7 @@
           ]
         },
         {
-          "y": 447,
+          "y": 446.6,
           "text": "b. Persona",
           "bbox": [
             162.0800018310547,
@@ -9793,7 +9951,7 @@
           ]
         },
         {
-          "y": 464,
+          "y": 463.6,
           "text": "c. Job to be done",
           "bbox": [
             162.0800018310547,
@@ -9849,7 +10007,7 @@
           ]
         },
         {
-          "y": 481,
+          "y": 480.6,
           "text": "d. Processing timestamp",
           "bbox": [
             162.0800018310547,
@@ -9905,7 +10063,7 @@
           ]
         },
         {
-          "y": 498,
+          "y": 497.9,
           "text": "2. Extracted Section:",
           "bbox": [
             126.05000305175781,
@@ -9961,7 +10119,7 @@
           ]
         },
         {
-          "y": 515,
+          "y": 514.9,
           "text": "a. Document",
           "bbox": [
             162.0800018310547,
@@ -10017,7 +10175,7 @@
           ]
         },
         {
-          "y": 532,
+          "y": 532.2,
           "text": "b. Page number",
           "bbox": [
             162.0800018310547,
@@ -10073,7 +10231,7 @@
           ]
         },
         {
-          "y": 549,
+          "y": 549.2,
           "text": "c. Section title",
           "bbox": [
             162.0800018310547,
@@ -10129,7 +10287,7 @@
           ]
         },
         {
-          "y": 566,
+          "y": 566.2,
           "text": "d. Importance_rank",
           "bbox": [
             162.0800018310547,
@@ -10185,7 +10343,7 @@
           ]
         },
         {
-          "y": 583,
+          "y": 583.4,
           "text": "3. Sub-section Analysis:",
           "bbox": [
             126.05000305175781,
@@ -10241,37 +10399,15 @@
           ]
         },
         {
-          "y": 600,
+          "y": 600.4,
           "text": "Document",
           "bbox": [
-            170.8300018310547,
-            600.0599975585938,
+            180.0800018310547,
+            600.4199829101562,
             239.4960174560547,
             614.4199829101562
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": " ",
-              "origin": [
-                170.8300018310547,
-                610.9199829101562
-              ],
-              "bbox": [
-                170.8300018310547,
-                600.0599975585938,
-                174.16600036621094,
-                613.4400024414062
-              ]
-            },
             {
               "size": 14.0,
               "flags": 0,
@@ -10297,7 +10433,7 @@
           ]
         },
         {
-          "y": 602,
+          "y": 601.9,
           "text": "a.",
           "bbox": [
             162.0800018310547,
@@ -10353,7 +10489,7 @@
           ]
         },
         {
-          "y": 617,
+          "y": 617.4,
           "text": "b.",
           "bbox": [
             144.0500030517578,
@@ -10409,7 +10545,7 @@
           ]
         },
         {
-          "y": 635,
+          "y": 634.7,
           "text": "Refined Text",
           "bbox": [
             162.0800018310547,
@@ -10443,7 +10579,7 @@
           ]
         },
         {
-          "y": 636,
+          "y": 636.2,
           "text": "c.",
           "bbox": [
             144.0500030517578,
@@ -10499,7 +10635,7 @@
           ]
         },
         {
-          "y": 652,
+          "y": 651.7,
           "text": "d. Page Number Constraints",
           "bbox": [
             144.0500030517578,
@@ -10599,37 +10735,15 @@
           ]
         },
         {
-          "y": 669,
-          "text": "• Must run on CPU only",
+          "y": 668.7,
+          "text": "Must run on CPU only",
           "bbox": [
-            126.05000305175781,
+            144.0500030517578,
             668.7000122070312,
             275.54400634765625,
             682.7000122070312
           ],
           "spans": [
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SymbolMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0049999952316284,
-              "descender": -0.2160000056028366,
-              "text": "•",
-              "origin": [
-                126.05000305175781,
-                679.2000122070312
-              ],
-              "bbox": [
-                126.05000305175781,
-                669.1500244140625,
-                130.65000915527344,
-                681.3599853515625
-              ]
-            },
             {
               "size": 14.0,
               "flags": 0,
@@ -10699,13 +10813,13 @@
           ]
         },
         {
-          "y": 686,
-          "text": "• Model size ≤ 1GB",
+          "y": 669.2,
+          "text": "•",
           "bbox": [
             126.05000305175781,
-            685.9500122070312,
-            248.76400756835938,
-            699.9500122070312
+            669.1500244140625,
+            130.65000915527344,
+            681.3599853515625
           ],
           "spans": [
             {
@@ -10721,15 +10835,27 @@
               "text": "•",
               "origin": [
                 126.05000305175781,
-                696.4500122070312
+                679.2000122070312
               ],
               "bbox": [
                 126.05000305175781,
-                686.4000244140625,
+                669.1500244140625,
                 130.65000915527344,
-                698.6099853515625
+                681.3599853515625
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 686.0,
+          "text": "Model size ≤ 1GB",
+          "bbox": [
+            144.0500030517578,
+            685.9500122070312,
+            248.76400756835938,
+            699.9500122070312
+          ],
+          "spans": [
             {
               "size": 14.0,
               "flags": 0,
@@ -10799,13 +10925,13 @@
           ]
         },
         {
-          "y": 703,
-          "text": "• Processing time ≤ 60 seconds for document collection (3-5",
+          "y": 686.4,
+          "text": "•",
           "bbox": [
             126.05000305175781,
-            702.9500122070312,
-            479.864013671875,
-            716.9500122070312
+            686.4000244140625,
+            130.65000915527344,
+            698.6099853515625
           ],
           "spans": [
             {
@@ -10821,15 +10947,27 @@
               "text": "•",
               "origin": [
                 126.05000305175781,
-                713.4500122070312
+                696.4500122070312
               ],
               "bbox": [
                 126.05000305175781,
-                703.4000244140625,
+                686.4000244140625,
                 130.65000915527344,
-                715.6099853515625
+                698.6099853515625
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 703.0,
+          "text": "Processing time ≤ 60 seconds for document collection (3-5",
+          "bbox": [
+            144.0500030517578,
+            702.9500122070312,
+            479.864013671875,
+            716.9500122070312
+          ],
+          "spans": [
             {
               "size": 14.0,
               "flags": 0,
@@ -10899,7 +11037,41 @@
           ]
         },
         {
-          "y": 720,
+          "y": 703.4,
+          "text": "•",
+          "bbox": [
+            126.05000305175781,
+            703.4000244140625,
+            130.65000915527344,
+            715.6099853515625
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SymbolMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0049999952316284,
+              "descender": -0.2160000056028366,
+              "text": "•",
+              "origin": [
+                126.05000305175781,
+                713.4500122070312
+              ],
+              "bbox": [
+                126.05000305175781,
+                703.4000244140625,
+                130.65000915527344,
+                715.6099853515625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 720.2,
           "text": "documents)",
           "bbox": [
             126.05000305175781,
@@ -10933,7 +11105,7 @@
           ]
         },
         {
-          "y": 737,
+          "y": 737.2,
           "text": "No internet access allowed during execution",
           "bbox": [
             144.0500030517578,
@@ -10989,7 +11161,7 @@
           ]
         },
         {
-          "y": 738,
+          "y": 737.7,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -11030,7 +11202,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 75,
+          "y": 75.0,
           "text": "Deliverables",
           "bbox": [
             72.0250015258789,
@@ -11086,37 +11258,15 @@
           ]
         },
         {
-          "y": 106,
-          "text": "• approach_explanation.md (300-500 words explaining",
+          "y": 106.0,
+          "text": "approach_explanation.md (300-500 words explaining",
           "bbox": [
-            126.05000305175781,
+            144.0500030517578,
             106.030029296875,
             450.46600341796875,
             120.030029296875
           ],
           "spans": [
-            {
-              "size": 10.0,
-              "flags": 0,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "SymbolMT",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.0049999952316284,
-              "descender": -0.2160000056028366,
-              "text": "•",
-              "origin": [
-                126.05000305175781,
-                116.530029296875
-              ],
-              "bbox": [
-                126.05000305175781,
-                106.48002624511719,
-                130.65000915527344,
-                118.69003295898438
-              ]
-            },
             {
               "size": 14.0,
               "flags": 0,
@@ -11142,7 +11292,41 @@
           ]
         },
         {
-          "y": 123,
+          "y": 106.5,
+          "text": "•",
+          "bbox": [
+            126.05000305175781,
+            106.48002624511719,
+            130.65000915527344,
+            118.69003295898438
+          ],
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "SymbolMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0049999952316284,
+              "descender": -0.2160000056028366,
+              "text": "•",
+              "origin": [
+                126.05000305175781,
+                116.530029296875
+              ],
+              "bbox": [
+                126.05000305175781,
+                106.48002624511719,
+                130.65000915527344,
+                118.69003295898438
+              ]
+            }
+          ]
+        },
+        {
+          "y": 123.3,
           "text": "methodology)",
           "bbox": [
             126.05000305175781,
@@ -11176,7 +11360,7 @@
           ]
         },
         {
-          "y": 140,
+          "y": 140.3,
           "text": "Dockerfile and execution instructions",
           "bbox": [
             144.0500030517578,
@@ -11210,7 +11394,7 @@
           ]
         },
         {
-          "y": 141,
+          "y": 140.7,
           "text": "•",
           "bbox": [
             126.05000305175781,
@@ -11244,7 +11428,7 @@
           ]
         },
         {
-          "y": 171,
+          "y": 171.3,
           "text": "Sample input/output for testing",
           "bbox": [
             72.0250015258789,
@@ -11300,13 +11484,13 @@
           ]
         },
         {
-          "y": 234,
+          "y": 234.0,
           "text": "•",
           "bbox": [
             126.05000305175781,
-            233.58001708984375,
-            147.21400451660156,
-            247.58001708984375
+            234.03001403808594,
+            130.65000915527344,
+            246.24002075195312
           ],
           "spans": [
             {
@@ -11330,33 +11514,11 @@
                 130.65000915527344,
                 246.24002075195312
               ]
-            },
-            {
-              "size": 14.0,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Calibri-Bold",
-              "color": 1001313,
-              "alpha": 255,
-              "ascender": 0.75,
-              "descender": -0.25,
-              "text": " ",
-              "origin": [
-                144.0500030517578,
-                244.08001708984375
-              ],
-              "bbox": [
-                144.0500030517578,
-                233.58001708984375,
-                147.21400451660156,
-                247.58001708984375
-              ]
             }
           ]
         },
         {
-          "y": 296,
+          "y": 295.8,
           "text": "Scoring Criteria",
           "bbox": [
             72.0250015258789,
@@ -11412,7 +11574,7 @@
           ]
         },
         {
-          "y": 328,
+          "y": 327.6,
           "text": "Max",
           "bbox": [
             261.8500061035156,
@@ -11446,7 +11608,7 @@
           ]
         },
         {
-          "y": 345,
+          "y": 344.9,
           "text": "Criteria Points Description",
           "bbox": [
             72.7750015258789,
@@ -11590,7 +11752,7 @@
           ]
         },
         {
-          "y": 363,
+          "y": 362.6,
           "text": "How well selected sections match",
           "bbox": [
             309.1300048828125,
@@ -11624,7 +11786,7 @@
           ]
         },
         {
-          "y": 380,
+          "y": 379.6,
           "text": "Section Relevance 60 persona + job requirements with",
           "bbox": [
             72.7750015258789,
@@ -11702,7 +11864,7 @@
           ]
         },
         {
-          "y": 397,
+          "y": 396.9,
           "text": "proper stack ranking",
           "bbox": [
             309.1300048828125,
@@ -11736,7 +11898,7 @@
           ]
         },
         {
-          "y": 415,
+          "y": 414.6,
           "text": "Quality of granular subsection",
           "bbox": [
             309.1300048828125,
@@ -11770,7 +11932,7 @@
           ]
         },
         {
-          "y": 423,
+          "y": 423.1,
           "text": "Sub-Section Relevance 40",
           "bbox": [
             72.7750015258789,
@@ -11826,7 +11988,7 @@
           ]
         },
         {
-          "y": 432,
+          "y": 431.6,
           "text": "extraction and ranking",
           "bbox": [
             309.1300048828125,
@@ -11867,7 +12029,7 @@
       "page_height": 842.0,
       "lines": [
         {
-          "y": 138,
+          "y": 138.3,
           "text": "Appendix:",
           "bbox": [
             72.0250015258789,
@@ -11901,7 +12063,7 @@
           ]
         },
         {
-          "y": 189,
+          "y": 189.0,
           "text": "https://github.com/jhaaj08/Adobe-India-",
           "bbox": [
             72.0250015258789,
@@ -11935,7 +12097,7 @@
           ]
         },
         {
-          "y": 217,
+          "y": 217.3,
           "text": "Hackathon25.git",
           "bbox": [
             72.0250015258789,

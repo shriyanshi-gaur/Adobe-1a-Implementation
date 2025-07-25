@@ -7,7 +7,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 27,
+          "y": 27.1,
           "text": "International Journal of Hydrology",
           "bbox": [
             350.8258056640625,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 70,
+          "y": 70.3,
           "text": "Review Article",
           "bbox": [
             42.64780044555664,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 75,
+          "y": 74.5,
           "text": "Open Access",
           "bbox": [
             431.843994140625,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 90,
+          "y": 89.7,
           "text": "The importance of water and conscious use of",
           "bbox": [
             42.39670181274414,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 116,
+          "y": 115.7,
           "text": "water",
           "bbox": [
             42.39670181274414,
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "y": 168,
+          "y": 167.8,
           "text": "Abstract",
           "bbox": [
             47.52000045776367,
@@ -211,7 +211,7 @@
           ]
         },
         {
-          "y": 169,
+          "y": 169.0,
           "text": "Volume 4 Issue 5 - 2020",
           "bbox": [
             362.2445068359375,
@@ -245,7 +245,7 @@
           ]
         },
         {
-          "y": 184,
+          "y": 183.5,
           "text": "Water is one of the most essential needs for life. About 0.3% of the water resources in",
           "bbox": [
             47.52000045776367,
@@ -279,7 +279,7 @@
           ]
         },
         {
-          "y": 188,
+          "y": 187.5,
           "text": "Zeyneb Kılıç",
           "bbox": [
             362.2445068359375,
@@ -313,7 +313,7 @@
           ]
         },
         {
-          "y": 193,
+          "y": 193.1,
           "text": "the world are usable. Water shortages already exist in many regions, with more than one",
           "bbox": [
             47.52000045776367,
@@ -347,7 +347,7 @@
           ]
         },
         {
-          "y": 199,
+          "y": 199.3,
           "text": "Department of Civil Engineering, Engineering Faculty, Adıyaman",
           "bbox": [
             362.2445068359375,
@@ -381,7 +381,7 @@
           ]
         },
         {
-          "y": 203,
+          "y": 202.7,
           "text": "billion people without adequate drinking water. This situation is one of the most important",
           "bbox": [
             47.52000045776367,
@@ -415,7 +415,7 @@
           ]
         },
         {
-          "y": 208,
+          "y": 208.3,
           "text": "University, Turkey",
           "bbox": [
             362.2445068359375,
@@ -449,7 +449,7 @@
           ]
         },
         {
-          "y": 212,
+          "y": 212.3,
           "text": "indicators of why we should be very sensitive and conscious towards our water resources.",
           "bbox": [
             47.52000045776367,
@@ -483,7 +483,7 @@
           ]
         },
         {
-          "y": 222,
+          "y": 221.9,
           "text": "As the world population increases need water also increases.However, as a result of",
           "bbox": [
             47.52000045776367,
@@ -517,12 +517,12 @@
           ]
         },
         {
-          "y": 226,
-          "text": "Correspondence: Zeyneb Kılıç, Department of Civil",
+          "y": 226.1,
+          "text": "Correspondence:",
           "bbox": [
             362.2445068359375,
             226.13470458984375,
-            516.7266235351562,
+            419.5682067871094,
             234.94070434570312
           ],
           "spans": [
@@ -547,7 +547,19 @@
                 419.5682067871094,
                 234.94070434570312
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 226.3,
+          "text": "Zeyneb Kılıç, Department of Civil",
+          "bbox": [
+            419.5672912597656,
+            226.28170776367188,
+            516.7266235351562,
+            234.68170166015625
+          ],
+          "spans": [
             {
               "size": 7.0,
               "flags": 0,
@@ -573,7 +585,7 @@
           ]
         },
         {
-          "y": 232,
+          "y": 231.5,
           "text": "different effects and especially human activities, water resources are decreasing, polluted",
           "bbox": [
             47.52000045776367,
@@ -607,7 +619,7 @@
           ]
         },
         {
-          "y": 235,
+          "y": 235.3,
           "text": "Engineering, Engineering Faculty, Adıyaman University, Adıyaman,",
           "bbox": [
             362.2445068359375,
@@ -641,7 +653,7 @@
           ]
         },
         {
-          "y": 241,
+          "y": 241.1,
           "text": "and still used unconsciously.Water use has doubled increased between the years 1940-1980",
           "bbox": [
             47.52000045776367,
@@ -675,7 +687,7 @@
           ]
         },
         {
-          "y": 244,
+          "y": 244.3,
           "text": "Turkey, Tel 5363278941, Fax +90 (416) 223 3843,",
           "bbox": [
             362.2445068359375,
@@ -709,7 +721,7 @@
           ]
         },
         {
-          "y": 251,
+          "y": 250.7,
           "text": "and is faced with the danger of water shortages in many countries such as Turkey.Therefore,",
           "bbox": [
             47.52000045776367,
@@ -743,7 +755,7 @@
           ]
         },
         {
-          "y": 253,
+          "y": 253.3,
           "text": "Email",
           "bbox": [
             362.2445068359375,
@@ -777,7 +789,7 @@
           ]
         },
         {
-          "y": 260,
+          "y": 260.3,
           "text": "it is necessary to take and implement measures as soon as possible and we have to use water",
           "bbox": [
             47.52000045776367,
@@ -811,12 +823,12 @@
           ]
         },
         {
-          "y": 270,
-          "text": "resources carefully. The aim of this study is to review the literature on the subject, to better Received: September 28, 2020 | Published: October 12, 2020",
+          "y": 269.9,
+          "text": "resources carefully. The aim of this study is to review the literature on the subject, to better Received: Published:",
           "bbox": [
             47.52000045776367,
             269.9271240234375,
-            541.815673828125,
+            491.4447326660156,
             280.703125
           ],
           "spans": [
@@ -864,6 +876,40 @@
                 278.7406921386719
               ]
             },
+            {
+              "size": 7.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GillSansMT-Bold",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 0.9390000104904175,
+              "descender": -0.3190000057220459,
+              "text": "Published: ",
+              "origin": [
+                456.8128967285156,
+                276.5076904296875
+              ],
+              "bbox": [
+                456.8128967285156,
+                269.9346923828125,
+                491.4447326660156,
+                278.7406921386719
+              ]
+            }
+          ]
+        },
+        {
+          "y": 270.1,
+          "text": "September 28, 2020 | October 12, 2020",
+          "bbox": [
+            394.6160888671875,
+            270.0816955566406,
+            541.815673828125,
+            278.481689453125
+          ],
+          "spans": [
             {
               "size": 7.0,
               "flags": 0,
@@ -932,28 +978,6 @@
             },
             {
               "size": 7.0,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "GillSansMT-Bold",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 0.9390000104904175,
-              "descender": -0.3190000057220459,
-              "text": "Published: ",
-              "origin": [
-                456.8128967285156,
-                276.5076904296875
-              ],
-              "bbox": [
-                456.8128967285156,
-                269.9346923828125,
-                491.4447326660156,
-                278.7406921386719
-              ]
-            },
-            {
-              "size": 7.0,
               "flags": 0,
               "bidi": 0,
               "char_flags": 16,
@@ -977,7 +1001,7 @@
           ]
         },
         {
-          "y": 280,
+          "y": 279.5,
           "text": "understand the importance of water and to evaluate the issues such as preventing water",
           "bbox": [
             47.52000045776367,
@@ -1011,7 +1035,7 @@
           ]
         },
         {
-          "y": 289,
+          "y": 289.1,
           "text": "pollution and waste from a theoretical perspective.",
           "bbox": [
             47.52000045776367,
@@ -1045,12 +1069,12 @@
           ]
         },
         {
-          "y": 306,
-          "text": "Keywords: water, water resources, water conservation, water scarcity, water waste",
+          "y": 305.8,
+          "text": "Keywords:",
           "bbox": [
             47.52000045776367,
             305.796142578125,
-            318.65374755859375,
+            92.48970031738281,
             317.1181335449219
           ],
           "spans": [
@@ -1097,7 +1121,19 @@
                 92.48970031738281,
                 316.8711242675781
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 305.9,
+          "text": "water, water resources, water conservation, water scarcity, water waste",
+          "bbox": [
+            92.48970031738281,
+            305.9271240234375,
+            318.65374755859375,
+            316.703125
+          ],
+          "spans": [
             {
               "size": 8.0,
               "flags": 4,
@@ -1123,37 +1159,15 @@
           ]
         },
         {
-          "y": 337,
-          "text": "Introduction plays a fundamental role in moisturizing the skin, removing toxins",
+          "y": 336.8,
+          "text": "plays a fundamental role in moisturizing the skin, removing toxins",
           "bbox": [
-            42.0,
+            303.6377868652344,
             336.8253173828125,
             555.5301513671875,
-            352.0641174316406
+            348.94830322265625
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "GillSansMT-Bold",
-              "color": 15954994,
-              "alpha": 255,
-              "ascender": 0.9390000104904175,
-              "descender": -0.3190000057220459,
-              "text": "Introduction",
-              "origin": [
-                42.0,
-                348.2361145019531
-              ],
-              "bbox": [
-                42.0,
-                336.9681091308594,
-                112.3092041015625,
-                352.0641174316406
-              ]
-            },
             {
               "size": 9.0,
               "flags": 4,
@@ -1179,7 +1193,41 @@
           ]
         },
         {
-          "y": 348,
+          "y": 337.0,
+          "text": "Introduction",
+          "bbox": [
+            42.0,
+            336.9681091308594,
+            112.3092041015625,
+            352.0641174316406
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GillSansMT-Bold",
+              "color": 15954994,
+              "alpha": 255,
+              "ascender": 0.9390000104904175,
+              "descender": -0.3190000057220459,
+              "text": "Introduction",
+              "origin": [
+                42.0,
+                348.2361145019531
+              ],
+              "bbox": [
+                42.0,
+                336.9681091308594,
+                112.3092041015625,
+                352.0641174316406
+              ]
+            }
+          ]
+        },
+        {
+          "y": 347.6,
           "text": "and cleansing the body; it supports the conversion of nutrients taken",
           "bbox": [
             303.6377868652344,
@@ -1213,7 +1261,7 @@
           ]
         },
         {
-          "y": 356,
+          "y": 355.7,
           "text": "Water and water resources is very important for maintaining",
           "bbox": [
             54.0,
@@ -1247,7 +1295,7 @@
           ]
         },
         {
-          "y": 358,
+          "y": 358.4,
           "text": "into the body into energy and also helps the absorption of nutrients;",
           "bbox": [
             303.6377868652344,
@@ -1281,7 +1329,7 @@
           ]
         },
         {
-          "y": 366,
+          "y": 366.5,
           "text": "an adequate food supply and a productive environment for the",
           "bbox": [
             42.0,
@@ -1315,7 +1363,7 @@
           ]
         },
         {
-          "y": 369,
+          "y": 369.2,
           "text": "water also the main ingredient of carbohydrates, fats and proteins in",
           "bbox": [
             303.6377868652344,
@@ -1349,7 +1397,7 @@
           ]
         },
         {
-          "y": 377,
+          "y": 377.3,
           "text": "all living organisms. As human populations and economies grow,",
           "bbox": [
             42.0,
@@ -1383,7 +1431,7 @@
           ]
         },
         {
-          "y": 380,
+          "y": 380.0,
           "text": "the human body. In addition to all these, water has an important place",
           "bbox": [
             303.6377868652344,
@@ -1417,7 +1465,7 @@
           ]
         },
         {
-          "y": 388,
+          "y": 388.1,
           "text": "global freshwater demand has been increasing rapidly. In addition to",
           "bbox": [
             42.0,
@@ -1451,7 +1499,7 @@
           ]
         },
         {
-          "y": 391,
+          "y": 390.8,
           "text": "in performing many vital activities such as circulation, excretion and",
           "bbox": [
             303.6377868652344,
@@ -1485,7 +1533,7 @@
           ]
         },
         {
-          "y": 399,
+          "y": 398.9,
           "text": "threatening the human food supply, water shortages severely reduce",
           "bbox": [
             42.0,
@@ -1519,7 +1567,7 @@
           ]
         },
         {
-          "y": 402,
+          "y": 401.6,
           "text": "reproduction, 80-90% of our blood and 75% of our muscles are made",
           "bbox": [
             303.6377868652344,
@@ -1575,7 +1623,7 @@
           ]
         },
         {
-          "y": 410,
+          "y": 409.7,
           "text": "biodiversity in both aquatic and terrestrial ecosystems. The negative",
           "bbox": [
             42.0,
@@ -1631,7 +1679,7 @@
           ]
         },
         {
-          "y": 412,
+          "y": 412.4,
           "text": "up of water. Water is an indispensable element of life and we feel",
           "bbox": [
             303.6377868652344,
@@ -1687,7 +1735,7 @@
           ]
         },
         {
-          "y": 420,
+          "y": 420.5,
           "text": "effects of global population increase, climate change impacts, and",
           "bbox": [
             42.0,
@@ -1721,7 +1769,7 @@
           ]
         },
         {
-          "y": 423,
+          "y": 423.2,
           "text": "uncomfortable when we are dehydrated even for a short time. When",
           "bbox": [
             303.6377868652344,
@@ -1755,7 +1803,7 @@
           ]
         },
         {
-          "y": 431,
+          "y": 431.3,
           "text": "lifestyle changes are exerting growing pressures upon our vital water",
           "bbox": [
             42.0,
@@ -1789,7 +1837,7 @@
           ]
         },
         {
-          "y": 434,
+          "y": 434.0,
           "text": "we lose very important blessings like the water we have, we begin to",
           "bbox": [
             303.6377868652344,
@@ -1823,7 +1871,7 @@
           ]
         },
         {
-          "y": 442,
+          "y": 442.1,
           "text": "resources leading to widespread water stress in many countries. As",
           "bbox": [
             42.0,
@@ -1857,7 +1905,7 @@
           ]
         },
         {
-          "y": 445,
+          "y": 444.8,
           "text": "realize how water is a precious substance.",
           "bbox": [
             303.6377868652344,
@@ -1891,7 +1939,7 @@
           ]
         },
         {
-          "y": 453,
+          "y": 452.9,
           "text": "a result, there is growing realisation of the urgent need to conserve",
           "bbox": [
             42.0,
@@ -1925,7 +1973,7 @@
           ]
         },
         {
-          "y": 462,
+          "y": 461.6,
           "text": "“Population growth, accompanied by increased water use, will",
           "bbox": [
             315.6377868652344,
@@ -1959,7 +2007,7 @@
           ]
         },
         {
-          "y": 464,
+          "y": 463.7,
           "text": "water.Water is essential to life because it heavily influences public",
           "bbox": [
             42.0,
@@ -1993,7 +2041,7 @@
           ]
         },
         {
-          "y": 472,
+          "y": 472.4,
           "text": "not only severely reduce water availability per person but also create",
           "bbox": [
             303.6377868652344,
@@ -2027,7 +2075,7 @@
           ]
         },
         {
-          "y": 474,
+          "y": 474.5,
           "text": "health and living standard. However, water is unequally distributed",
           "bbox": [
             42.0,
@@ -2061,7 +2109,7 @@
           ]
         },
         {
-          "y": 483,
+          "y": 483.2,
           "text": "stress on biodiversity in the entire global ecosystem. Other major",
           "bbox": [
             303.6377868652344,
@@ -2095,7 +2143,7 @@
           ]
         },
         {
-          "y": 485,
+          "y": 485.3,
           "text": "throughout the world. Water is a very important required substance in",
           "bbox": [
             42.0,
@@ -2129,7 +2177,7 @@
           ]
         },
         {
-          "y": 494,
+          "y": 494.0,
           "text": "factors that limit water availability include rainfall, temperature,",
           "bbox": [
             303.6377868652344,
@@ -2163,7 +2211,7 @@
           ]
         },
         {
-          "y": 496,
+          "y": 496.1,
           "text": "order to sustain vital activities of human such as nutrition, respiration,",
           "bbox": [
             42.0,
@@ -2197,7 +2245,7 @@
           ]
         },
         {
-          "y": 505,
+          "y": 504.8,
           "text": "evaporation rates, soil quality, vegetation type, and water runoff.",
           "bbox": [
             303.6377868652344,
@@ -2231,7 +2279,7 @@
           ]
         },
         {
-          "y": 507,
+          "y": 506.9,
           "text": "circulation, excretion and reproduction. In addition water is also a life",
           "bbox": [
             42.0,
@@ -2265,7 +2313,7 @@
           ]
         },
         {
-          "y": 516,
+          "y": 515.6,
           "text": "Furthermore, serious difficulties already exist in fairly allocating",
           "bbox": [
             303.6377868652344,
@@ -2299,7 +2347,7 @@
           ]
         },
         {
-          "y": 518,
+          "y": 517.7,
           "text": "space as well as being one of the basic substances in the formation of",
           "bbox": [
             42.0,
@@ -2333,7 +2381,7 @@
           ]
         },
         {
-          "y": 526,
+          "y": 526.4,
           "text": "the world’s freshwater resources between and within countries”. It",
           "bbox": [
             303.6377868652344,
@@ -2389,7 +2437,7 @@
           ]
         },
         {
-          "y": 528,
+          "y": 528.5,
           "text": "life environment.",
           "bbox": [
             42.0,
@@ -2423,7 +2471,7 @@
           ]
         },
         {
-          "y": 537,
+          "y": 537.2,
           "text": "has been reported that water consumption has increased seven times",
           "bbox": [
             303.6377868652344,
@@ -2457,7 +2505,7 @@
           ]
         },
         {
-          "y": 545,
+          "y": 545.3,
           "text": "Sun heat causes to evaporatewater; it forms masses in the",
           "bbox": [
             54.0,
@@ -2491,7 +2539,7 @@
           ]
         },
         {
-          "y": 548,
+          "y": 548.0,
           "text": "in the last century. Potable water resources in the world; irregular",
           "bbox": [
             303.6377868652344,
@@ -2547,7 +2595,7 @@
           ]
         },
         {
-          "y": 556,
+          "y": 556.1,
           "text": "atmosphere in the form of clouds of water droplets that evaporate",
           "bbox": [
             42.0,
@@ -2581,7 +2629,7 @@
           ]
         },
         {
-          "y": 559,
+          "y": 558.8,
           "text": "urbanization, excessive population growth, water pollution, water",
           "bbox": [
             303.6377868652344,
@@ -2615,7 +2663,7 @@
           ]
         },
         {
-          "y": 567,
+          "y": 566.9,
           "text": "and descend to the earth in the event of rain, hail or snowfall and",
           "bbox": [
             42.0,
@@ -2649,7 +2697,7 @@
           ]
         },
         {
-          "y": 570,
+          "y": 569.6,
           "text": "waste, increase in greenhouse gases and excessive industrialization are",
           "bbox": [
             303.6377868652344,
@@ -2683,7 +2731,7 @@
           ]
         },
         {
-          "y": 578,
+          "y": 577.7,
           "text": "enable life to continue. Plants absorb water from the soil and release",
           "bbox": [
             42.0,
@@ -2717,7 +2765,7 @@
           ]
         },
         {
-          "y": 580,
+          "y": 580.4,
           "text": "increasingly damaged and decreasing over time. Pollution of already",
           "bbox": [
             303.6377868652344,
@@ -2751,7 +2799,7 @@
           ]
         },
         {
-          "y": 588,
+          "y": 588.5,
           "text": "a certain part of it back into the atmosphere through transpiration;",
           "bbox": [
             42.0,
@@ -2785,7 +2833,7 @@
           ]
         },
         {
-          "y": 591,
+          "y": 591.2,
           "text": "small quantities of usable and potable water resources, unsuitability of",
           "bbox": [
             303.6377868652344,
@@ -2819,7 +2867,7 @@
           ]
         },
         {
-          "y": 599,
+          "y": 599.3,
           "text": "evaporation, precipitation and perspiration make up the water cycle.",
           "bbox": [
             42.0,
@@ -2853,7 +2901,7 @@
           ]
         },
         {
-          "y": 602,
+          "y": 602.0,
           "text": "water used in energy production for human consumption by recycling,",
           "bbox": [
             303.6377868652344,
@@ -2887,7 +2935,7 @@
           ]
         },
         {
-          "y": 610,
+          "y": 610.1,
           "text": "One of the main features that distinguish our world from other planets",
           "bbox": [
             42.0,
@@ -2921,7 +2969,7 @@
           ]
         },
         {
-          "y": 613,
+          "y": 612.8,
           "text": "uncontrolled use of pesticides, improper agricultural practices, waste",
           "bbox": [
             303.6377868652344,
@@ -2955,7 +3003,7 @@
           ]
         },
         {
-          "y": 621,
+          "y": 620.9,
           "text": "is that it contains water. Water has been the most important factor in",
           "bbox": [
             42.0,
@@ -2989,7 +3037,7 @@
           ]
         },
         {
-          "y": 624,
+          "y": 623.6,
           "text": "of water, climate changes due to global warming, drought, insufficient",
           "bbox": [
             303.6377868652344,
@@ -3023,7 +3071,7 @@
           ]
         },
         {
-          "y": 632,
+          "y": 631.7,
           "text": "the formation of civilizations in history and the most important point",
           "bbox": [
             42.0,
@@ -3057,7 +3105,7 @@
           ]
         },
         {
-          "y": 634,
+          "y": 634.4,
           "text": "knowledge of water and unconscious reasons such as consumption",
           "bbox": [
             303.6377868652344,
@@ -3091,7 +3139,7 @@
           ]
         },
         {
-          "y": 642,
+          "y": 642.5,
           "text": "determining the residential areas. Water resources in the world are",
           "bbox": [
             42.0,
@@ -3125,7 +3173,7 @@
           ]
         },
         {
-          "y": 645,
+          "y": 645.2,
           "text": "mean that all living things are deprived of water, which is the",
           "bbox": [
             303.6377868652344,
@@ -3159,7 +3207,7 @@
           ]
         },
         {
-          "y": 653,
+          "y": 653.3,
           "text": "found in air, sea, land, rivers, lakes and oceans. While the water in",
           "bbox": [
             42.0,
@@ -3193,7 +3241,7 @@
           ]
         },
         {
-          "y": 656,
+          "y": 656.0,
           "text": "source of life. Water resources are one of the natural resources that",
           "bbox": [
             303.6377868652344,
@@ -3227,7 +3275,7 @@
           ]
         },
         {
-          "y": 664,
+          "y": 664.1,
           "text": "the air moves between the earth and the atmosphere as a result of the",
           "bbox": [
             42.0,
@@ -3261,7 +3309,7 @@
           ]
         },
         {
-          "y": 667,
+          "y": 666.8,
           "text": "are extremely important for countries. In order for a country to be",
           "bbox": [
             303.6377868652344,
@@ -3295,7 +3343,7 @@
           ]
         },
         {
-          "y": 675,
+          "y": 674.9,
           "text": "hydrological cycle, the water on the land is in the form of underground",
           "bbox": [
             42.0,
@@ -3329,7 +3377,7 @@
           ]
         },
         {
-          "y": 678,
+          "y": 677.6,
           "text": "considered rich in water, the annual water amount per capita must",
           "bbox": [
             303.6377868652344,
@@ -3363,7 +3411,7 @@
           ]
         },
         {
-          "y": 686,
+          "y": 685.7,
           "text": "waters. Three-quarters of our world is covered with water and the",
           "bbox": [
             42.0,
@@ -3419,7 +3467,7 @@
           ]
         },
         {
-          "y": 688,
+          "y": 688.4,
           "text": "be at least 8.000-10.000m . The amount of water falling per capita",
           "bbox": [
             303.6377868652344,
@@ -3475,7 +3523,7 @@
           ]
         },
         {
-          "y": 696,
+          "y": 696.5,
           "text": "human body is mostly made up of water. Water has a vital importance",
           "bbox": [
             42.0,
@@ -3509,7 +3557,7 @@
           ]
         },
         {
-          "y": 699,
+          "y": 699.2,
           "text": "in Turkey is approximately 1.430m therefore is not between water-",
           "bbox": [
             303.6377868652344,
@@ -3565,7 +3613,7 @@
           ]
         },
         {
-          "y": 707,
+          "y": 707.3,
           "text": "for all living things and some of the main functions in the human body",
           "bbox": [
             42.0,
@@ -3599,7 +3647,7 @@
           ]
         },
         {
-          "y": 710,
+          "y": 710.0,
           "text": "rich countries. Water resources create habitats for various flora and",
           "bbox": [
             303.6377868652344,
@@ -3633,7 +3681,7 @@
           ]
         },
         {
-          "y": 718,
+          "y": 718.1,
           "text": "can be summarized as follows; it is a biological solvent that provides",
           "bbox": [
             42.0,
@@ -3667,7 +3715,7 @@
           ]
         },
         {
-          "y": 721,
+          "y": 720.8,
           "text": "fauna members, contribute significantly to hydrological and chemical",
           "bbox": [
             303.6377868652344,
@@ -3701,7 +3749,7 @@
           ]
         },
         {
-          "y": 729,
+          "y": 728.9,
           "text": "both the transport and dissolution of vitamins and minerals in the",
           "bbox": [
             42.0,
@@ -3735,7 +3783,7 @@
           ]
         },
         {
-          "y": 732,
+          "y": 731.6,
           "text": "cycles, and despite all these benefits, water resources are among the",
           "bbox": [
             303.6377868652344,
@@ -3769,7 +3817,7 @@
           ]
         },
         {
-          "y": 740,
+          "y": 739.7,
           "text": "body; it is important in regulating body temperature; facilitates the",
           "bbox": [
             42.0,
@@ -3803,7 +3851,7 @@
           ]
         },
         {
-          "y": 742,
+          "y": 742.4,
           "text": "most endangered ecosystems.",
           "bbox": [
             303.6377868652344,
@@ -3837,7 +3885,7 @@
           ]
         },
         {
-          "y": 750,
+          "y": 750.5,
           "text": "work of the kidneys and other organs, protects and acts as a cushion;",
           "bbox": [
             42.0,
@@ -3871,13 +3919,13 @@
           ]
         },
         {
-          "y": 775,
-          "text": "‒ 239",
+          "y": 774.6,
+          "text": "‒",
           "bbox": [
             237.81500244140625,
             774.6271362304688,
-            559.2755737304688,
-            785.5142822265625
+            241.81500244140625,
+            785.4031372070312
           ],
           "spans": [
             {
@@ -3901,7 +3949,19 @@
                 241.81500244140625,
                 785.4031372070312
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 774.7,
+          "text": "239",
+          "bbox": [
+            547.2755737304688,
+            774.73828125,
+            559.2755737304688,
+            785.5142822265625
+          ],
+          "spans": [
             {
               "size": 8.0,
               "flags": 4,
@@ -3927,13 +3987,13 @@
           ]
         },
         {
-          "y": 776,
-          "text": "Int J Hydro.",
+          "y": 776.5,
+          "text": "Int J Hydro. 2020;4(5):239 241.",
           "bbox": [
             166.83059692382812,
             776.4931640625,
-            196.7037811279297,
-            784.9071655273438
+            253.84800720214844,
+            784.921142578125
           ],
           "spans": [
             {
@@ -3957,19 +4017,7 @@
                 196.7037811279297,
                 784.9071655273438
               ]
-            }
-          ]
-        },
-        {
-          "y": 777,
-          "text": "2020;4(5):239 241.",
-          "bbox": [
-            196.70700073242188,
-            776.5211181640625,
-            253.84800720214844,
-            784.921142578125
-          ],
-          "spans": [
+            },
             {
               "size": 7.0,
               "flags": 0,
@@ -4017,7 +4065,7 @@
           ]
         },
         {
-          "y": 789,
+          "y": 789.2,
           "text": "©2020 Kılıç. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits",
           "bbox": [
             215.64320373535156,
@@ -4051,7 +4099,7 @@
           ]
         },
         {
-          "y": 797,
+          "y": 797.2,
           "text": "unrestricted use, distribution, and build upon your work non-commercially.",
           "bbox": [
             215.64320373535156,
@@ -4092,7 +4140,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 46,
+          "y": 45.7,
           "text": "Copyright:",
           "bbox": [
             504.0184020996094,
@@ -4126,7 +4174,7 @@
           ]
         },
         {
-          "y": 50,
+          "y": 49.7,
           "text": "240",
           "bbox": [
             542.8355712890625,
@@ -4160,7 +4208,7 @@
           ]
         },
         {
-          "y": 52,
+          "y": 51.8,
           "text": "The importance of water and conscious use of water",
           "bbox": [
             42.0,
@@ -4194,7 +4242,7 @@
           ]
         },
         {
-          "y": 54,
+          "y": 54.1,
           "text": "©2020 Kılıç",
           "bbox": [
             499.7289123535156,
@@ -4228,7 +4276,7 @@
           ]
         },
         {
-          "y": 87,
+          "y": 87.1,
           "text": "The aim of this study is to examine the importance of water in Correct perception of water consumption and usage are the key",
           "bbox": [
             54.0,
@@ -4284,7 +4332,7 @@
           ]
         },
         {
-          "y": 98,
+          "y": 97.9,
           "text": "terms of environmental sustainability, water pollution and water factors that affect water-use behavior. The majority of the population",
           "bbox": [
             42.0,
@@ -4340,7 +4388,7 @@
           ]
         },
         {
-          "y": 109,
+          "y": 108.7,
           "text": "conservation from a theoretical perspective by scanning the relevant has misconceptions on water consumption, thus leading to water",
           "bbox": [
             42.0,
@@ -4396,7 +4444,7 @@
           ]
         },
         {
-          "y": 120,
+          "y": 119.5,
           "text": "literature. wastage in households.Some measures to prevent water waste can be",
           "bbox": [
             42.0,
@@ -4452,7 +4500,7 @@
           ]
         },
         {
-          "y": 130,
+          "y": 130.3,
           "text": "listed as follows; as it causes serious water loss, drip taps should be",
           "bbox": [
             303.6377868652344,
@@ -4486,7 +4534,7 @@
           ]
         },
         {
-          "y": 138,
+          "y": 137.6,
           "text": "The importance water and conscious use of",
           "bbox": [
             42.0,
@@ -4520,7 +4568,7 @@
           ]
         },
         {
-          "y": 141,
+          "y": 141.1,
           "text": "repaired, water-saving equipment should be used, instead of washing",
           "bbox": [
             303.6377868652344,
@@ -4554,12 +4602,12 @@
           ]
         },
         {
-          "y": 152,
-          "text": "water vegetables and fruits under a stream, they should be washed in a bowl,",
+          "y": 151.6,
+          "text": "water",
           "bbox": [
             42.0,
             151.62762451171875,
-            555.5166625976562,
+            74.61600494384766,
             166.7236328125
           ],
           "spans": [
@@ -4584,7 +4632,19 @@
                 74.61600494384766,
                 166.7236328125
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 151.9,
+          "text": "vegetables and fruits under a stream, they should be washed in a bowl,",
+          "bbox": [
+            303.6377868652344,
+            151.9355926513672,
+            555.5166625976562,
+            164.05859375
+          ],
+          "spans": [
             {
               "size": 9.0,
               "flags": 4,
@@ -4610,7 +4670,7 @@
           ]
         },
         {
-          "y": 163,
+          "y": 162.7,
           "text": "the dishes should be washed in the dishwasher, the hot water pipes",
           "bbox": [
             303.6377868652344,
@@ -4644,7 +4704,7 @@
           ]
         },
         {
-          "y": 170,
+          "y": 170.3,
           "text": "The deterioration of the natural composition of water resources",
           "bbox": [
             54.0,
@@ -4678,7 +4738,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "should be covered with insulating material, the thermostat setting of",
           "bbox": [
             303.6377868652344,
@@ -4712,7 +4772,7 @@
           ]
         },
         {
-          "y": 181,
+          "y": 181.1,
           "text": "is called water pollution due to the fact that the substances in the",
           "bbox": [
             42.0,
@@ -4746,7 +4806,7 @@
           ]
         },
         {
-          "y": 184,
+          "y": 184.3,
           "text": "the hot water system should not be too high, the washing machine",
           "bbox": [
             303.6377868652344,
@@ -4780,7 +4840,7 @@
           ]
         },
         {
-          "y": 192,
+          "y": 191.9,
           "text": "natural composition of water resources (streams, groundwater, lake,",
           "bbox": [
             42.0,
@@ -4814,7 +4874,7 @@
           ]
         },
         {
-          "y": 195,
+          "y": 195.1,
           "text": "should be operated when it is completely full, a shower head with",
           "bbox": [
             303.6377868652344,
@@ -4848,7 +4908,7 @@
           ]
         },
         {
-          "y": 203,
+          "y": 202.7,
           "text": "sea ...) rise above the ideal concentration values ​as a result of human",
           "bbox": [
             42.0,
@@ -4882,7 +4942,7 @@
           ]
         },
         {
-          "y": 206,
+          "y": 205.9,
           "text": "adjustable flow rate should be used while taking a bath, a shower head",
           "bbox": [
             303.6377868652344,
@@ -4916,7 +4976,7 @@
           ]
         },
         {
-          "y": 214,
+          "y": 213.5,
           "text": "activities. Water resources necessary for the life of living things,",
           "bbox": [
             42.0,
@@ -4972,7 +5032,7 @@
           ]
         },
         {
-          "y": 217,
+          "y": 216.7,
           "text": "that uses water efficiently while taking a shower, cool hours of the day",
           "bbox": [
             303.6377868652344,
@@ -5006,7 +5066,7 @@
           ]
         },
         {
-          "y": 224,
+          "y": 224.3,
           "text": "economic development and the environment.This important natural",
           "bbox": [
             42.0,
@@ -5040,7 +5100,7 @@
           ]
         },
         {
-          "y": 228,
+          "y": 227.5,
           "text": "should be chosen for watering the garden and flowers, care should be",
           "bbox": [
             303.6377868652344,
@@ -5074,7 +5134,7 @@
           ]
         },
         {
-          "y": 235,
+          "y": 235.1,
           "text": "resource most affected by environmental pollution and the most",
           "bbox": [
             42.0,
@@ -5108,7 +5168,7 @@
           ]
         },
         {
-          "y": 238,
+          "y": 238.3,
           "text": "taken to grow plants that do not require much water in the garden,",
           "bbox": [
             303.6377868652344,
@@ -5142,7 +5202,7 @@
           ]
         },
         {
-          "y": 246,
+          "y": 245.9,
           "text": "vulnerable in terms of environmental pollution. The quality of water to",
           "bbox": [
             42.0,
@@ -5176,7 +5236,7 @@
           ]
         },
         {
-          "y": 249,
+          "y": 249.1,
           "text": "choose plants suitable for the climate of your location, rain large",
           "bbox": [
             303.6377868652344,
@@ -5210,7 +5270,7 @@
           ]
         },
         {
-          "y": 257,
+          "y": 256.7,
           "text": "be drunk safely by people should contain sufficient O and necessary",
           "bbox": [
             42.0,
@@ -5266,7 +5326,7 @@
           ]
         },
         {
-          "y": 260,
+          "y": 259.9,
           "text": "water tanks should be used to collect water.The factors to be taken",
           "bbox": [
             303.6377868652344,
@@ -5300,7 +5360,7 @@
           ]
         },
         {
-          "y": 268,
+          "y": 267.5,
           "text": "minerals and should be clear. Considering that one liter of wastewater",
           "bbox": [
             42.0,
@@ -5356,7 +5416,7 @@
           ]
         },
         {
-          "y": 271,
+          "y": 270.7,
           "text": "into consideration in order to use irrigation water more effectively",
           "bbox": [
             303.6377868652344,
@@ -5390,7 +5450,7 @@
           ]
         },
         {
-          "y": 278,
+          "y": 278.3,
           "text": "pollutes eight liters of clean water and makes it unusable, it is better",
           "bbox": [
             42.0,
@@ -5446,7 +5506,7 @@
           ]
         },
         {
-          "y": 282,
+          "y": 281.5,
           "text": "in agriculture are given below.One of the methods of sprinkler and",
           "bbox": [
             303.6377868652344,
@@ -5480,7 +5540,7 @@
           ]
         },
         {
-          "y": 289,
+          "y": 289.1,
           "text": "understood to what extent the natural cycle of water resources is in",
           "bbox": [
             42.0,
@@ -5514,7 +5574,7 @@
           ]
         },
         {
-          "y": 292,
+          "y": 292.3,
           "text": "drip irrigation should be chosen in all areas where climate, soil and",
           "bbox": [
             303.6377868652344,
@@ -5548,7 +5608,7 @@
           ]
         },
         {
-          "y": 300,
+          "y": 299.9,
           "text": "danger. Considering that the number of healthy and deprived people of",
           "bbox": [
             42.0,
@@ -5582,7 +5642,7 @@
           ]
         },
         {
-          "y": 303,
+          "y": 303.1,
           "text": "topography conditions are favorable.The limited use of water needs",
           "bbox": [
             303.6377868652344,
@@ -5616,7 +5676,7 @@
           ]
         },
         {
-          "y": 311,
+          "y": 310.7,
           "text": "water today is approximately 1.4 billion, it is better understood how",
           "bbox": [
             42.0,
@@ -5672,7 +5732,7 @@
           ]
         },
         {
-          "y": 314,
+          "y": 313.9,
           "text": "to be widespread.",
           "bbox": [
             303.6377868652344,
@@ -5706,7 +5766,7 @@
           ]
         },
         {
-          "y": 322,
+          "y": 321.5,
           "text": "important the issue is.Pollution of rivers, lakes, groundwater and seas",
           "bbox": [
             42.0,
@@ -5740,7 +5800,7 @@
           ]
         },
         {
-          "y": 331,
+          "y": 330.7,
           "text": "Irrigation should be done during the periods when the plant needs",
           "bbox": [
             315.6377868652344,
@@ -5774,7 +5834,7 @@
           ]
         },
         {
-          "y": 332,
+          "y": 332.3,
           "text": "is mostly caused by human activities and consequently, the natural",
           "bbox": [
             42.0,
@@ -5808,7 +5868,7 @@
           ]
         },
         {
-          "y": 342,
+          "y": 341.5,
           "text": "the most water, other than this, limited irrigation should be done,",
           "bbox": [
             303.6377868652344,
@@ -5842,7 +5902,7 @@
           ]
         },
         {
-          "y": 343,
+          "y": 343.1,
           "text": "balance of ecosystems deteriorates. “The main pollutants encountered",
           "bbox": [
             42.0,
@@ -5876,7 +5936,7 @@
           ]
         },
         {
-          "y": 352,
+          "y": 352.3,
           "text": "or irrigation should be stopped completely and larger areas should",
           "bbox": [
             303.6377868652344,
@@ -5910,7 +5970,7 @@
           ]
         },
         {
-          "y": 354,
+          "y": 353.9,
           "text": "in water are acids and alkalis, detergents, household wastes and",
           "bbox": [
             42.0,
@@ -5944,7 +6004,7 @@
           ]
         },
         {
-          "y": 363,
+          "y": 363.1,
           "text": "be irrigated with the water saved here.Methods that will keep the",
           "bbox": [
             303.6377868652344,
@@ -5978,7 +6038,7 @@
           ]
         },
         {
-          "y": 365,
+          "y": 364.7,
           "text": "fertilizers, food industry wastes, various gases, heat, various metals,",
           "bbox": [
             42.0,
@@ -6012,7 +6072,7 @@
           ]
         },
         {
-          "y": 374,
+          "y": 373.9,
           "text": "soil moisture should be used in agriculture. The continuous use of",
           "bbox": [
             303.6377868652344,
@@ -6046,7 +6106,7 @@
           ]
         },
         {
-          "y": 376,
+          "y": 375.5,
           "text": "nutrients, oils and dispersants, organic toxic wastes, pathogens and",
           "bbox": [
             42.0,
@@ -6080,7 +6140,7 @@
           ]
         },
         {
-          "y": 385,
+          "y": 384.7,
           "text": "commercial fertilizers in agricultural production disrupts the soil",
           "bbox": [
             303.6377868652344,
@@ -6114,7 +6174,7 @@
           ]
         },
         {
-          "y": 386,
+          "y": 386.3,
           "text": "pesticides”. Water pollution does not only stay in water, it passes",
           "bbox": [
             42.0,
@@ -6170,7 +6230,7 @@
           ]
         },
         {
-          "y": 396,
+          "y": 395.5,
           "text": "structure and reduces the water holding capacity of the soil. Green",
           "bbox": [
             303.6377868652344,
@@ -6204,7 +6264,7 @@
           ]
         },
         {
-          "y": 397,
+          "y": 397.1,
           "text": "to the soil and from the soil to plants, vegetables and fruits through",
           "bbox": [
             42.0,
@@ -6238,7 +6298,7 @@
           ]
         },
         {
-          "y": 406,
+          "y": 406.3,
           "text": "manure and the use of animal manure increase the water holding",
           "bbox": [
             303.6377868652344,
@@ -6272,7 +6332,7 @@
           ]
         },
         {
-          "y": 408,
+          "y": 407.9,
           "text": "irrigation, and these harmful wastes also pass to the animals that drink",
           "bbox": [
             42.0,
@@ -6306,7 +6366,7 @@
           ]
         },
         {
-          "y": 417,
+          "y": 417.1,
           "text": "capacity of the soil. Since tillage causes moisture loss, agriculture",
           "bbox": [
             303.6377868652344,
@@ -6340,7 +6400,7 @@
           ]
         },
         {
-          "y": 419,
+          "y": 418.7,
           "text": "from these polluted water and the sustainability of food resources is",
           "bbox": [
             42.0,
@@ -6374,7 +6434,7 @@
           ]
         },
         {
-          "y": 428,
+          "y": 427.9,
           "text": "without tillage should be preferred by using a direct sowing drill.It",
           "bbox": [
             303.6377868652344,
@@ -6408,7 +6468,7 @@
           ]
         },
         {
-          "y": 430,
+          "y": 429.5,
           "text": "negatively affected. “Use of poor quality water; diseases caused by",
           "bbox": [
             42.0,
@@ -6442,7 +6502,7 @@
           ]
         },
         {
-          "y": 439,
+          "y": 438.7,
           "text": "should be ensured that plant varieties resistant to drought and salinity",
           "bbox": [
             303.6377868652344,
@@ -6476,7 +6536,7 @@
           ]
         },
         {
-          "y": 440,
+          "y": 440.3,
           "text": "water on living things; low productivity in agricultural activities; the",
           "bbox": [
             42.0,
@@ -6510,7 +6570,7 @@
           ]
         },
         {
-          "y": 450,
+          "y": 449.5,
           "text": "are developed.In order to meet the water needs of the increasing",
           "bbox": [
             303.6377868652344,
@@ -6544,7 +6604,7 @@
           ]
         },
         {
-          "y": 451,
+          "y": 451.1,
           "text": "reduction of biodiversity in the aquatic habitat; deaths and increases",
           "bbox": [
             42.0,
@@ -6578,7 +6638,7 @@
           ]
         },
         {
-          "y": 460,
+          "y": 460.3,
           "text": "population sufficiently, water basins should not be occupied with",
           "bbox": [
             303.6377868652344,
@@ -6612,7 +6672,7 @@
           ]
         },
         {
-          "y": 462,
+          "y": 461.9,
           "text": "in drinking and utility water treatment costs ”.",
           "bbox": [
             42.0,
@@ -6646,7 +6706,7 @@
           ]
         },
         {
-          "y": 471,
+          "y": 471.1,
           "text": "settlements and industrial facilities, water resources should not be",
           "bbox": [
             303.6377868652344,
@@ -6680,7 +6740,7 @@
           ]
         },
         {
-          "y": 479,
+          "y": 478.7,
           "text": "Water pollution, in addition to causing a decrease in usage and",
           "bbox": [
             54.0,
@@ -6714,7 +6774,7 @@
           ]
         },
         {
-          "y": 482,
+          "y": 481.9,
           "text": "polluted, clean water resources and pastures and forests that serve as",
           "bbox": [
             303.6377868652344,
@@ -6748,7 +6808,7 @@
           ]
         },
         {
-          "y": 490,
+          "y": 489.5,
           "text": "drinking water, threatens the lives of all living creatures in the",
           "bbox": [
             42.0,
@@ -6782,7 +6842,7 @@
           ]
         },
         {
-          "y": 493,
+          "y": 492.7,
           "text": "natural dams should be increased rather than reduced.",
           "bbox": [
             303.6377868652344,
@@ -6816,7 +6876,7 @@
           ]
         },
         {
-          "y": 500,
+          "y": 500.3,
           "text": "water, and the biological diversity in the ocean, sea, lake and aquatic",
           "bbox": [
             42.0,
@@ -6850,7 +6910,7 @@
           ]
         },
         {
-          "y": 510,
+          "y": 509.5,
           "text": "Today, unfortunately, many societies are faced with water scarcity",
           "bbox": [
             315.6377868652344,
@@ -6884,7 +6944,7 @@
           ]
         },
         {
-          "y": 511,
+          "y": 511.1,
           "text": "environments is damaged by the pollution of water. Water resources",
           "bbox": [
             42.0,
@@ -6918,7 +6978,7 @@
           ]
         },
         {
-          "y": 520,
+          "y": 520.3,
           "text": "and with the expected population growth, the number of people",
           "bbox": [
             303.6377868652344,
@@ -6952,7 +7012,7 @@
           ]
         },
         {
-          "y": 522,
+          "y": 521.9,
           "text": "are also chemically contaminated by industrialization, pesticides",
           "bbox": [
             42.0,
@@ -6986,7 +7046,7 @@
           ]
         },
         {
-          "y": 531,
+          "y": 531.1,
           "text": "experiencing water scarcity will gradually increase. In this case, the",
           "bbox": [
             303.6377868652344,
@@ -7020,7 +7080,7 @@
           ]
         },
         {
-          "y": 533,
+          "y": 532.7,
           "text": "used in agriculture, chemicals used unconsciously in agriculture and",
           "bbox": [
             42.0,
@@ -7054,7 +7114,7 @@
           ]
         },
         {
-          "y": 542,
+          "y": 541.9,
           "text": "only and consistent way to continue to provide water supply and to",
           "bbox": [
             303.6377868652344,
@@ -7088,7 +7148,7 @@
           ]
         },
         {
-          "y": 544,
+          "y": 543.5,
           "text": "industry. Agricultural leaks, disinfection practices, faulty industrial",
           "bbox": [
             42.0,
@@ -7122,7 +7182,7 @@
           ]
         },
         {
-          "y": 553,
+          "y": 552.7,
           "text": "protect existing resources is to recover and reuse wastewater.",
           "bbox": [
             303.6377868652344,
@@ -7156,7 +7216,7 @@
           ]
         },
         {
-          "y": 554,
+          "y": 554.3,
           "text": "practices, leachate from underground storage tanks, mining activities,",
           "bbox": [
             42.0,
@@ -7190,7 +7250,7 @@
           ]
         },
         {
-          "y": 565,
+          "y": 565.1,
           "text": "waste of chemicals and corrosive waters are the most important",
           "bbox": [
             42.0,
@@ -7224,7 +7284,7 @@
           ]
         },
         {
-          "y": 571,
+          "y": 570.8,
           "text": "Conclusion and Recommendations",
           "bbox": [
             303.6377868652344,
@@ -7258,7 +7318,7 @@
           ]
         },
         {
-          "y": 576,
+          "y": 575.9,
           "text": "chemical pollutants. Water contaminated with chemical pollutants",
           "bbox": [
             42.0,
@@ -7314,7 +7374,7 @@
           ]
         },
         {
-          "y": 587,
+          "y": 586.7,
           "text": "is transported to different places through the hydrological cycle,",
           "bbox": [
             42.0,
@@ -7348,7 +7408,7 @@
           ]
         },
         {
-          "y": 590,
+          "y": 589.5,
           "text": "Water is extremely important for the continuation of life. Water is",
           "bbox": [
             315.6377868652344,
@@ -7382,7 +7442,7 @@
           ]
         },
         {
-          "y": 598,
+          "y": 597.5,
           "text": "threatening our ecological balance and health. The healthy water",
           "bbox": [
             42.0,
@@ -7416,7 +7476,7 @@
           ]
         },
         {
-          "y": 600,
+          "y": 600.3,
           "text": "life. Therefore, every decision and every step to be taken on water is",
           "bbox": [
             303.6377868652344,
@@ -7450,7 +7510,7 @@
           ]
         },
         {
-          "y": 608,
+          "y": 608.3,
           "text": "drunk and used should be colorless, odorless and taste water; its",
           "bbox": [
             42.0,
@@ -7484,7 +7544,7 @@
           ]
         },
         {
-          "y": 611,
+          "y": 611.1,
           "text": "vital. It is extremely important. In our opinion, man is at the center",
           "bbox": [
             303.6377868652344,
@@ -7518,7 +7578,7 @@
           ]
         },
         {
-          "y": 619,
+          "y": 619.1,
           "text": "chemical content should contain some basic elements needed by the",
           "bbox": [
             42.0,
@@ -7552,7 +7612,7 @@
           ]
         },
         {
-          "y": 622,
+          "y": 621.9,
           "text": "of nature. However, we cannot talk about a situation such as the",
           "bbox": [
             303.6377868652344,
@@ -7586,7 +7646,7 @@
           ]
         },
         {
-          "y": 630,
+          "y": 629.9,
           "text": "body such as calcium, magnesium, sodium; they should not contain",
           "bbox": [
             42.0,
@@ -7620,7 +7680,7 @@
           ]
         },
         {
-          "y": 633,
+          "y": 632.7,
           "text": "separation of man and nature. If a person possesses ethical and moral",
           "bbox": [
             303.6377868652344,
@@ -7654,7 +7714,7 @@
           ]
         },
         {
-          "y": 641,
+          "y": 640.7,
           "text": "nitrite, nitrate, organic matter, chemicals, heavy metals and disease-",
           "bbox": [
             42.0,
@@ -7688,7 +7748,7 @@
           ]
         },
         {
-          "y": 644,
+          "y": 643.5,
           "text": "values, values ​other living things and acts in a way that respects their",
           "bbox": [
             303.6377868652344,
@@ -7722,7 +7782,7 @@
           ]
         },
         {
-          "y": 652,
+          "y": 651.5,
           "text": "causing microorganisms. Some of the factors that will have a pollutant",
           "bbox": [
             42.0,
@@ -7756,7 +7816,7 @@
           ]
         },
         {
-          "y": 654,
+          "y": 654.3,
           "text": "right to life, he can have a livable environment. As a matter of fact,",
           "bbox": [
             303.6377868652344,
@@ -7790,7 +7850,7 @@
           ]
         },
         {
-          "y": 662,
+          "y": 662.3,
           "text": "effect on surface waters can be listed as follows: disease-causing",
           "bbox": [
             42.0,
@@ -7824,7 +7884,7 @@
           ]
         },
         {
-          "y": 665,
+          "y": 665.1,
           "text": "we, as humans, constitute the largest pollutant group in the world.",
           "bbox": [
             303.6377868652344,
@@ -7858,7 +7918,7 @@
           ]
         },
         {
-          "y": 673,
+          "y": 673.1,
           "text": "organisms, organic pollutants, industrial wastes, synthetic detergents,",
           "bbox": [
             42.0,
@@ -7892,7 +7952,7 @@
           ]
         },
         {
-          "y": 676,
+          "y": 675.9,
           "text": "The places that are most heavily affected by pollution are the places",
           "bbox": [
             303.6377868652344,
@@ -7926,7 +7986,7 @@
           ]
         },
         {
-          "y": 684,
+          "y": 683.9,
           "text": "radioactivity, pesticides, chemical pollutants, inorganic salts, artificial",
           "bbox": [
             42.0,
@@ -7960,7 +8020,7 @@
           ]
         },
         {
-          "y": 687,
+          "y": 686.7,
           "text": "and resources that everyone uses in common. Considering the limited",
           "bbox": [
             303.6377868652344,
@@ -7994,7 +8054,7 @@
           ]
         },
         {
-          "y": 695,
+          "y": 694.7,
           "text": "and natural agricultural fertilizers, waste heat. Some of the pollution",
           "bbox": [
             42.0,
@@ -8028,7 +8088,7 @@
           ]
         },
         {
-          "y": 698,
+          "y": 697.5,
           "text": "and limited water resources in the world and the state of risk it is in,",
           "bbox": [
             303.6377868652344,
@@ -8062,7 +8122,7 @@
           ]
         },
         {
-          "y": 706,
+          "y": 705.5,
           "text": "in water resources can be understood by appearance. But taste, smell,",
           "bbox": [
             42.0,
@@ -8096,7 +8156,7 @@
           ]
         },
         {
-          "y": 708,
+          "y": 708.3,
           "text": "evaluating it as a complete medium may lead to undesirable results.",
           "bbox": [
             303.6377868652344,
@@ -8130,7 +8190,7 @@
           ]
         },
         {
-          "y": 716,
+          "y": 716.3,
           "text": "pollution caused by microorganisms, heavy metals, nitrates, radon",
           "bbox": [
             42.0,
@@ -8164,7 +8224,7 @@
           ]
         },
         {
-          "y": 719,
+          "y": 719.1,
           "text": "Water is an essential substance not only for humans but for all living",
           "bbox": [
             303.6377868652344,
@@ -8198,7 +8258,7 @@
           ]
         },
         {
-          "y": 727,
+          "y": 727.1,
           "text": "and many chemicals can only be understood by laboratory tests. For",
           "bbox": [
             42.0,
@@ -8232,7 +8292,7 @@
           ]
         },
         {
-          "y": 730,
+          "y": 729.9,
           "text": "things. The demand for water, whose usage areas are expanding with",
           "bbox": [
             303.6377868652344,
@@ -8266,7 +8326,7 @@
           ]
         },
         {
-          "y": 738,
+          "y": 737.9,
           "text": "this reason, analysis of potable water should be done regularly.",
           "bbox": [
             42.0,
@@ -8300,7 +8360,7 @@
           ]
         },
         {
-          "y": 741,
+          "y": 740.7,
           "text": "the change of living conditions, is increasing day by day. However,",
           "bbox": [
             303.6377868652344,
@@ -8334,12 +8394,46 @@
           ]
         },
         {
-          "y": 782,
-          "text": "Citation: Kılıç Z. The importance of water and conscious use of water. Int J Hydro. 2020;4(5):239 ‒ 241. DOI: 10.15406/ijh.2020.04.00250",
+          "y": 781.5,
+          "text": "‒",
+          "bbox": [
+            354.2929992675781,
+            781.5010375976562,
+            358.2929992675781,
+            792.2770385742188
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 1.0399999618530273,
+              "descender": -0.3070000112056732,
+              "text": "‒",
+              "origin": [
+                354.2929992675781,
+                789.821044921875
+              ],
+              "bbox": [
+                354.2929992675781,
+                781.5010375976562,
+                358.2929992675781,
+                792.2770385742188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 782.3,
+          "text": "Citation:",
           "bbox": [
             40.0,
-            781.5010375976562,
-            480.0,
+            782.3090209960938,
+            72.83200073242188,
             792.373046875
           ],
           "spans": [
@@ -8364,7 +8458,53 @@
                 72.83200073242188,
                 792.373046875
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 782.4,
+          "text": "Int J Hydro.",
+          "bbox": [
+            273.1679992675781,
+            782.445068359375,
+            307.3088684082031,
+            792.06103515625
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 2,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GillSansMT-Italic",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 0.921999990940094,
+              "descender": -0.2800000011920929,
+              "text": "Int J Hydro.",
+              "origin": [
+                273.1679992675781,
+                789.821044921875
+              ],
+              "bbox": [
+                273.1679992675781,
+                782.445068359375,
+                307.3088684082031,
+                792.06103515625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 782.5,
+          "text": "Kılıç Z. The importance of water and conscious use of water. 2020;4(5):239 241. DOI: 10.15406/ijh.2020.04.00250",
+          "bbox": [
+            72.8281021118164,
+            782.47705078125,
+            480.0,
+            792.0770263671875
+          ],
+          "spans": [
             {
               "size": 8.0,
               "flags": 0,
@@ -8389,28 +8529,6 @@
             },
             {
               "size": 8.0,
-              "flags": 2,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "GillSansMT-Italic",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 0.921999990940094,
-              "descender": -0.2800000011920929,
-              "text": "Int J Hydro.",
-              "origin": [
-                273.1679992675781,
-                789.821044921875
-              ],
-              "bbox": [
-                273.1679992675781,
-                782.445068359375,
-                307.3088684082031,
-                792.06103515625
-              ]
-            },
-            {
-              "size": 8.0,
               "flags": 0,
               "bidi": 0,
               "char_flags": 16,
@@ -8429,28 +8547,6 @@
                 782.47705078125,
                 354.2885437011719,
                 792.0770263671875
-              ]
-            },
-            {
-              "size": 8.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "TimesNewRomanPSMT",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.3070000112056732,
-              "text": "‒",
-              "origin": [
-                354.2929992675781,
-                789.821044921875
-              ],
-              "bbox": [
-                354.2929992675781,
-                781.5010375976562,
-                358.2929992675781,
-                792.2770385742188
               ]
             },
             {
@@ -8485,7 +8581,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 45,
+          "y": 44.7,
           "text": "Copyright:",
           "bbox": [
             504.0184020996094,
@@ -8519,7 +8615,7 @@
           ]
         },
         {
-          "y": 49,
+          "y": 48.7,
           "text": "241",
           "bbox": [
             542.8355712890625,
@@ -8553,7 +8649,7 @@
           ]
         },
         {
-          "y": 51,
+          "y": 50.8,
           "text": "The importance of water and conscious use of water",
           "bbox": [
             42.0,
@@ -8587,7 +8683,7 @@
           ]
         },
         {
-          "y": 53,
+          "y": 53.1,
           "text": "©2020 Kılıç",
           "bbox": [
             499.7289123535156,
@@ -8621,7 +8717,7 @@
           ]
         },
         {
-          "y": 87,
+          "y": 87.1,
           "text": "water resources are in danger of decreasing due to climate change, the pollution and depletion of our water resources by taking simple",
           "bbox": [
             42.0,
@@ -8677,7 +8773,7 @@
           ]
         },
         {
-          "y": 98,
+          "y": 97.9,
           "text": "global warming, misuse and pollutants. Wealthy people of developed measures without impairing our quality of life.We must act in the",
           "bbox": [
             42.0,
@@ -8733,7 +8829,7 @@
           ]
         },
         {
-          "y": 109,
+          "y": 108.7,
           "text": "or underdeveloped countries do not know or calculate the amount awareness that the lives of future generations are in our hands.The",
           "bbox": [
             42.0,
@@ -8789,7 +8885,7 @@
           ]
         },
         {
-          "y": 120,
+          "y": 119.5,
           "text": "of water they consume in their homes or how much they pay for it; prerequisite for this is to leave potable water and a livable environment",
           "bbox": [
             42.0,
@@ -8845,7 +8941,7 @@
           ]
         },
         {
-          "y": 130,
+          "y": 130.3,
           "text": "poor people pay very high bills for water that is already interrupted. to future generations.",
           "bbox": [
             42.0,
@@ -8901,7 +8997,7 @@
           ]
         },
         {
-          "y": 141,
+          "y": 141.1,
           "text": "People with low income have to pay the price of the wrong policies",
           "bbox": [
             42.0,
@@ -8935,7 +9031,7 @@
           ]
         },
         {
-          "y": 148,
+          "y": 148.4,
           "text": "Acknowledgements",
           "bbox": [
             303.6377868652344,
@@ -8969,7 +9065,7 @@
           ]
         },
         {
-          "y": 152,
+          "y": 151.9,
           "text": "developed by economists who think that water scarcity or waste can",
           "bbox": [
             42.0,
@@ -9003,7 +9099,7 @@
           ]
         },
         {
-          "y": 163,
+          "y": 162.7,
           "text": "be overcome by repricing water. The high water bills for domestic",
           "bbox": [
             42.0,
@@ -9037,7 +9133,7 @@
           ]
         },
         {
-          "y": 167,
+          "y": 167.1,
           "text": "None.",
           "bbox": [
             315.6377868652344,
@@ -9071,7 +9167,7 @@
           ]
         },
         {
-          "y": 174,
+          "y": 173.5,
           "text": "use and the taxes imposed on them prevent the people in need of",
           "bbox": [
             42.0,
@@ -9105,7 +9201,7 @@
           ]
         },
         {
-          "y": 184,
+          "y": 184.3,
           "text": "protection from accessing water. In addition, due to the insufficient",
           "bbox": [
             42.0,
@@ -9139,7 +9235,7 @@
           ]
         },
         {
-          "y": 185,
+          "y": 185.2,
           "text": "Conflicts of interest",
           "bbox": [
             303.6377868652344,
@@ -9173,7 +9269,7 @@
           ]
         },
         {
-          "y": 195,
+          "y": 195.1,
           "text": "cleanliness of mains water lately, more and more people get their",
           "bbox": [
             42.0,
@@ -9207,7 +9303,7 @@
           ]
         },
         {
-          "y": 204,
+          "y": 203.9,
           "text": "Authors declare no conflict of interest exists.",
           "bbox": [
             315.6377868652344,
@@ -9241,7 +9337,7 @@
           ]
         },
         {
-          "y": 206,
+          "y": 205.9,
           "text": "water needs from bottled water. The public, who cannot afford the",
           "bbox": [
             42.0,
@@ -9275,7 +9371,7 @@
           ]
         },
         {
-          "y": 217,
+          "y": 216.7,
           "text": "utility water bill, cannot be expected to meet the cost of bottled and",
           "bbox": [
             42.0,
@@ -9309,7 +9405,7 @@
           ]
         },
         {
-          "y": 222,
+          "y": 222.0,
           "text": "Funding",
           "bbox": [
             303.6377868652344,
@@ -9343,7 +9439,7 @@
           ]
         },
         {
-          "y": 228,
+          "y": 227.5,
           "text": "sold water. This situation means the violation of the right to life of",
           "bbox": [
             42.0,
@@ -9377,7 +9473,7 @@
           ]
         },
         {
-          "y": 238,
+          "y": 238.3,
           "text": "those whose economic conditions are not suitable. The importance of",
           "bbox": [
             42.0,
@@ -9411,7 +9507,7 @@
           ]
         },
         {
-          "y": 241,
+          "y": 240.7,
           "text": "None.",
           "bbox": [
             315.6377868652344,
@@ -9445,7 +9541,7 @@
           ]
         },
         {
-          "y": 249,
+          "y": 249.1,
           "text": "water used by the rich to irrigate the flowers they grow to wash their",
           "bbox": [
             42.0,
@@ -9479,7 +9575,7 @@
           ]
         },
         {
-          "y": 259,
+          "y": 258.8,
           "text": "References",
           "bbox": [
             303.6377868652344,
@@ -9513,7 +9609,7 @@
           ]
         },
         {
-          "y": 260,
+          "y": 259.9,
           "text": "cars or to enhance the beauty of their home’s surroundings is more",
           "bbox": [
             42.0,
@@ -9547,7 +9643,7 @@
           ]
         },
         {
-          "y": 271,
+          "y": 270.7,
           "text": "meaningful to the poor.",
           "bbox": [
             42.0,
@@ -9581,7 +9677,7 @@
           ]
         },
         {
-          "y": 277,
+          "y": 277.4,
           "text": "1. Pimentel D, Berger B, Filiberto D, et al. Water Resources, Agriculture,",
           "bbox": [
             312.6377868652344,
@@ -9615,7 +9711,7 @@
           ]
         },
         {
-          "y": 287,
+          "y": 287.0,
           "text": "and the Environment. Ithaca (NY): New York State College of",
           "bbox": [
             323.6377868652344,
@@ -9649,7 +9745,7 @@
           ]
         },
         {
-          "y": 288,
+          "y": 287.5,
           "text": "Water, soil and air, which are the basic components of the earth,",
           "bbox": [
             54.0,
@@ -9683,12 +9779,12 @@
           ]
         },
         {
-          "y": 297,
-          "text": "Agriculture and Life Sciences, Cornell University. Environmental",
+          "y": 296.6,
+          "text": "Agriculture and Life Sciences, Cornell University.",
           "bbox": [
             323.6377868652344,
             296.57562255859375,
-            555.2783813476562,
+            502.79461669921875,
             307.35162353515625
           ],
           "spans": [
@@ -9713,7 +9809,19 @@
                 502.79461669921875,
                 307.35162353515625
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 296.7,
+          "text": "Environmental",
+          "bbox": [
+            506.0256042480469,
+            296.7116394042969,
+            555.2783813476562,
+            307.35162353515625
+          ],
+          "spans": [
             {
               "size": 8.0,
               "flags": 6,
@@ -9739,7 +9847,7 @@
           ]
         },
         {
-          "y": 298,
+          "y": 298.3,
           "text": "constitute the basic components that ensure the continuity of life. Using",
           "bbox": [
             42.0,
@@ -9773,37 +9881,15 @@
           ]
         },
         {
-          "y": 306,
-          "text": "Biology Report . 2004;1–46.",
+          "y": 306.2,
+          "text": ". 2004;1–46.",
           "bbox": [
-            323.6377868652344,
+            372.29400634765625,
             306.17559814453125,
             412.51800537109375,
             316.95159912109375
           ],
           "spans": [
-            {
-              "size": 8.0,
-              "flags": 6,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "TimesNewRomanPS-ItalicMT",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 1.0230000019073486,
-              "descender": -0.3070000112056732,
-              "text": "Biology Report",
-              "origin": [
-                323.6377868652344,
-                314.49560546875
-              ],
-              "bbox": [
-                323.6377868652344,
-                306.3116149902344,
-                372.3017883300781,
-                316.95159912109375
-              ]
-            },
             {
               "size": 8.0,
               "flags": 4,
@@ -9829,7 +9915,41 @@
           ]
         },
         {
-          "y": 309,
+          "y": 306.3,
+          "text": "Biology Report",
+          "bbox": [
+            323.6377868652344,
+            306.3116149902344,
+            372.3017883300781,
+            316.95159912109375
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPS-ItalicMT",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 1.0230000019073486,
+              "descender": -0.3070000112056732,
+              "text": "Biology Report",
+              "origin": [
+                323.6377868652344,
+                314.49560546875
+              ],
+              "bbox": [
+                323.6377868652344,
+                306.3116149902344,
+                372.3017883300781,
+                316.95159912109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 309.1,
           "text": "and protecting the natural composition of soil, water and air without",
           "bbox": [
             42.0,
@@ -9863,7 +9983,7 @@
           ]
         },
         {
-          "y": 320,
+          "y": 319.9,
           "text": "disturbing it is an absolute necessity for sustainable living and natural",
           "bbox": [
             42.0,
@@ -9897,8 +10017,8 @@
           ]
         },
         {
-          "y": 322,
-          "text": "2. Çepel N, Ergün C. The Importance of Water and its Ecological Problems .",
+          "y": 321.8,
+          "text": "2. Çepel N, Ergün C. .",
           "bbox": [
             312.6377868652344,
             321.7756042480469,
@@ -9930,28 +10050,6 @@
             },
             {
               "size": 8.0,
-              "flags": 6,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "TimesNewRomanPS-ItalicMT",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 1.0230000019073486,
-              "descender": -0.3070000112056732,
-              "text": "The Importance of Water and its Ecological Problems",
-              "origin": [
-                382.71240234375,
-                330.0956115722656
-              ],
-              "bbox": [
-                382.71240234375,
-                321.91162109375,
-                551.2747802734375,
-                332.5516052246094
-              ]
-            },
-            {
-              "size": 8.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -9975,12 +10073,46 @@
           ]
         },
         {
-          "y": 331,
-          "text": "environment. In addition, for a sustainable natural environment, 2003.",
+          "y": 321.9,
+          "text": "The Importance of Water and its Ecological Problems",
+          "bbox": [
+            382.71240234375,
+            321.91162109375,
+            551.2747802734375,
+            332.5516052246094
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPS-ItalicMT",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 1.0230000019073486,
+              "descender": -0.3070000112056732,
+              "text": "The Importance of Water and its Ecological Problems",
+              "origin": [
+                382.71240234375,
+                330.0956115722656
+              ],
+              "bbox": [
+                382.71240234375,
+                321.91162109375,
+                551.2747802734375,
+                332.5516052246094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 330.7,
+          "text": "environment. In addition, for a sustainable natural environment,",
           "bbox": [
             42.0,
             330.7356262207031,
-            341.6377868652344,
+            293.90106201171875,
             342.8586120605469
           ],
           "spans": [
@@ -10005,7 +10137,19 @@
                 293.90106201171875,
                 342.8586120605469
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 331.4,
+          "text": "2003.",
+          "bbox": [
+            323.6377868652344,
+            331.3756103515625,
+            341.6377868652344,
+            342.151611328125
+          ],
+          "spans": [
             {
               "size": 8.0,
               "flags": 4,
@@ -10031,7 +10175,7 @@
           ]
         },
         {
-          "y": 342,
+          "y": 341.5,
           "text": "economic decisions and natural environment decisions should be",
           "bbox": [
             42.0,
@@ -10065,7 +10209,7 @@
           ]
         },
         {
-          "y": 347,
+          "y": 347.0,
           "text": "3. Akın M, Akın G. Suyun Önemi, Türkiye’de Su Potansiyeli, Su Havzaları",
           "bbox": [
             312.6377868652344,
@@ -10099,7 +10243,7 @@
           ]
         },
         {
-          "y": 352,
+          "y": 352.3,
           "text": "evaluated together and together in accordance with the purpose of",
           "bbox": [
             42.0,
@@ -10133,12 +10277,12 @@
           ]
         },
         {
-          "y": 357,
-          "text": "ve Su Kirliliği. Ankara Üniversitesi Dil ve Tarih–Coğrafya Fakültesi",
+          "y": 356.6,
+          "text": "ve Su Kirliliği.",
           "bbox": [
             323.6377868652344,
             356.57562255859375,
-            555.2816162109375,
+            375.7417907714844,
             367.35162353515625
           ],
           "spans": [
@@ -10163,7 +10307,19 @@
                 375.7417907714844,
                 367.35162353515625
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 356.7,
+          "text": "Ankara Üniversitesi Dil ve Tarih–Coğrafya Fakültesi",
+          "bbox": [
+            376.89599609375,
+            356.7116394042969,
+            555.2816162109375,
+            367.35162353515625
+          ],
+          "spans": [
             {
               "size": 8.0,
               "flags": 6,
@@ -10189,7 +10345,7 @@
           ]
         },
         {
-          "y": 363,
+          "y": 363.1,
           "text": "sustainable development. As a matter of fact, in order to protect the",
           "bbox": [
             42.0,
@@ -10223,37 +10379,15 @@
           ]
         },
         {
-          "y": 366,
-          "text": "Dergisi. 2007;47(2):105–118.",
+          "y": 366.2,
+          "text": "2007;47(2):105–118.",
           "bbox": [
-            323.6377868652344,
+            351.3409118652344,
             366.17559814453125,
             418.8177185058594,
             376.95159912109375
           ],
           "spans": [
-            {
-              "size": 8.0,
-              "flags": 6,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "TimesNewRomanPS-ItalicMT",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 1.0230000019073486,
-              "descender": -0.3070000112056732,
-              "text": "Dergisi. ",
-              "origin": [
-                323.6377868652344,
-                374.49560546875
-              ],
-              "bbox": [
-                323.6377868652344,
-                366.3116149902344,
-                351.34259033203125,
-                376.95159912109375
-              ]
-            },
             {
               "size": 8.0,
               "flags": 4,
@@ -10279,7 +10413,41 @@
           ]
         },
         {
-          "y": 374,
+          "y": 366.3,
+          "text": "Dergisi.",
+          "bbox": [
+            323.6377868652344,
+            366.3116149902344,
+            351.34259033203125,
+            376.95159912109375
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPS-ItalicMT",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 1.0230000019073486,
+              "descender": -0.3070000112056732,
+              "text": "Dergisi. ",
+              "origin": [
+                323.6377868652344,
+                374.49560546875
+              ],
+              "bbox": [
+                323.6377868652344,
+                366.3116149902344,
+                351.34259033203125,
+                376.95159912109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 373.9,
           "text": "natural environment and transfer this value to future generations in",
           "bbox": [
             42.0,
@@ -10313,7 +10481,7 @@
           ]
         },
         {
-          "y": 382,
+          "y": 381.8,
           "text": "4. Şahin BA. Global Problem, Water Scarcity and Virtual Water Trade.",
           "bbox": [
             312.6377868652344,
@@ -10347,7 +10515,7 @@
           ]
         },
         {
-          "y": 385,
+          "y": 384.7,
           "text": "the same way, all the elements that make up the natural environment",
           "bbox": [
             42.0,
@@ -10381,7 +10549,7 @@
           ]
         },
         {
-          "y": 391,
+          "y": 391.4,
           "text": ".",
           "bbox": [
             551.2755737304688,
@@ -10415,7 +10583,7 @@
           ]
         },
         {
-          "y": 392,
+          "y": 391.5,
           "text": "Master Thesis, Çorum Hitit University, Institute of Social Sciences",
           "bbox": [
             323.6377868652344,
@@ -10449,7 +10617,7 @@
           ]
         },
         {
-          "y": 396,
+          "y": 395.5,
           "text": "should be considered as an inseparable whole, and the perception and",
           "bbox": [
             42.0,
@@ -10483,7 +10651,7 @@
           ]
         },
         {
-          "y": 401,
+          "y": 401.0,
           "text": "2016;128–130.",
           "bbox": [
             323.6377868652344,
@@ -10517,7 +10685,7 @@
           ]
         },
         {
-          "y": 406,
+          "y": 406.3,
           "text": "awareness that the negative effects that may occur in any of them will",
           "bbox": [
             42.0,
@@ -10551,37 +10719,15 @@
           ]
         },
         {
-          "y": 417,
-          "text": "affect the other elements in sequence.Although the most important 5. Uzun A, Keleş R, Bal İ. Sapanca Gölü İçme Suyu Havzasında Otoyol",
+          "y": 416.6,
+          "text": "5. Uzun A, Keleş R, Bal İ. Sapanca Gölü İçme Suyu Havzasında Otoyol",
           "bbox": [
-            42.0,
+            312.6377868652344,
             416.57562255859375,
             555.2770385742188,
-            429.25860595703125
+            427.35162353515625
           ],
           "spans": [
-            {
-              "size": 9.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "TimesNewRomanPSMT",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.3070000112056732,
-              "text": "affect the other elements in sequence.Although the most important ",
-              "origin": [
-                42.0,
-                426.49560546875
-              ],
-              "bbox": [
-                42.0,
-                417.1356201171875,
-                293.8992919921875,
-                429.25860595703125
-              ]
-            },
             {
               "size": 8.0,
               "flags": 4,
@@ -10607,7 +10753,41 @@
           ]
         },
         {
-          "y": 426,
+          "y": 417.1,
+          "text": "affect the other elements in sequence.Although the most important",
+          "bbox": [
+            42.0,
+            417.1356201171875,
+            293.8992919921875,
+            429.25860595703125
+          ],
+          "spans": [
+            {
+              "size": 9.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 1.0399999618530273,
+              "descender": -0.3070000112056732,
+              "text": "affect the other elements in sequence.Although the most important ",
+              "origin": [
+                42.0,
+                426.49560546875
+              ],
+              "bbox": [
+                42.0,
+                417.1356201171875,
+                293.8992919921875,
+                429.25860595703125
+              ]
+            }
+          ]
+        },
+        {
+          "y": 426.2,
           "text": "ve Demiryolundan Kaynaklanan Kirliliğin Yağmur Suyu Sulak Alan",
           "bbox": [
             323.6377868652344,
@@ -10641,7 +10821,7 @@
           ]
         },
         {
-          "y": 428,
+          "y": 427.9,
           "text": "role in the protection of water resources belongs to public and private",
           "bbox": [
             42.0,
@@ -10675,8 +10855,8 @@
           ]
         },
         {
-          "y": 436,
-          "text": "Metoduyla Giderilmesi. Apjes . 2014:9–15.",
+          "y": 435.8,
+          "text": "Metoduyla Giderilmesi. . 2014:9–15.",
           "bbox": [
             323.6377868652344,
             435.7756042480469,
@@ -10708,28 +10888,6 @@
             },
             {
               "size": 8.0,
-              "flags": 6,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "TimesNewRomanPS-ItalicMT",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 1.0230000019073486,
-              "descender": -0.3070000112056732,
-              "text": "Apjes",
-              "origin": [
-                402.0674133300781,
-                444.0956115722656
-              ],
-              "bbox": [
-                402.0674133300781,
-                435.91162109375,
-                419.8434143066406,
-                446.5516052246094
-              ]
-            },
-            {
-              "size": 8.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -10753,7 +10911,41 @@
           ]
         },
         {
-          "y": 439,
+          "y": 435.9,
+          "text": "Apjes",
+          "bbox": [
+            402.0674133300781,
+            435.91162109375,
+            419.8434143066406,
+            446.5516052246094
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPS-ItalicMT",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 1.0230000019073486,
+              "descender": -0.3070000112056732,
+              "text": "Apjes",
+              "origin": [
+                402.0674133300781,
+                444.0956115722656
+              ],
+              "bbox": [
+                402.0674133300781,
+                435.91162109375,
+                419.8434143066406,
+                446.5516052246094
+              ]
+            }
+          ]
+        },
+        {
+          "y": 438.7,
           "text": "institutions that provide water, education also has an important role.",
           "bbox": [
             42.0,
@@ -10787,7 +10979,7 @@
           ]
         },
         {
-          "y": 450,
+          "y": 449.5,
           "text": "Environmental awareness trainings, especially at a young age, can",
           "bbox": [
             42.0,
@@ -10821,7 +11013,7 @@
           ]
         },
         {
-          "y": 451,
+          "y": 451.4,
           "text": "6. Akın, G. . Ankara:",
           "bbox": [
             312.6377868652344,
@@ -10877,7 +11069,7 @@
           ]
         },
         {
-          "y": 452,
+          "y": 451.5,
           "text": "Ecology - Ecology and Environmental Problems",
           "bbox": [
             357.3734130859375,
@@ -10911,7 +11103,7 @@
           ]
         },
         {
-          "y": 460,
+          "y": 460.3,
           "text": "reach larger audiences with the participation of their parents as well",
           "bbox": [
             42.0,
@@ -10945,7 +11137,7 @@
           ]
         },
         {
-          "y": 461,
+          "y": 461.0,
           "text": "Tiydem Yayıncılık. 2009.",
           "bbox": [
             323.6376953125,
@@ -10979,7 +11171,7 @@
           ]
         },
         {
-          "y": 471,
+          "y": 471.1,
           "text": "as children. Factors such as technological developments, economic",
           "bbox": [
             42.0,
@@ -11013,7 +11205,7 @@
           ]
         },
         {
-          "y": 477,
+          "y": 476.6,
           "text": "7. Aksungur N, Firidin Ş. Use of Water Resources and Sustainability.",
           "bbox": [
             312.6376953125,
@@ -11047,7 +11239,7 @@
           ]
         },
         {
-          "y": 482,
+          "y": 481.9,
           "text": "growth and welfare level, demographic changes, differences in",
           "bbox": [
             42.0,
@@ -11081,37 +11273,15 @@
           ]
         },
         {
-          "y": 486,
-          "text": "Araştırma Bülteni . 2008;8(2):9–11.",
+          "y": 486.2,
+          "text": ". 2008;8(2):9–11.",
           "bbox": [
-            323.6376953125,
+            381.1924133300781,
             486.17559814453125,
             436.6692199707031,
             496.95159912109375
           ],
           "spans": [
-            {
-              "size": 8.0,
-              "flags": 6,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "TimesNewRomanPS-ItalicMT",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 1.0230000019073486,
-              "descender": -0.3070000112056732,
-              "text": "Araştırma Bülteni",
-              "origin": [
-                323.6376953125,
-                494.49560546875
-              ],
-              "bbox": [
-                323.6376953125,
-                486.3116149902344,
-                381.19769287109375,
-                496.95159912109375
-              ]
-            },
             {
               "size": 8.0,
               "flags": 4,
@@ -11137,7 +11307,41 @@
           ]
         },
         {
-          "y": 493,
+          "y": 486.3,
+          "text": "Araştırma Bülteni",
+          "bbox": [
+            323.6376953125,
+            486.3116149902344,
+            381.19769287109375,
+            496.95159912109375
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPS-ItalicMT",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 1.0230000019073486,
+              "descender": -0.3070000112056732,
+              "text": "Araştırma Bülteni",
+              "origin": [
+                323.6376953125,
+                494.49560546875
+              ],
+              "bbox": [
+                323.6376953125,
+                486.3116149902344,
+                381.19769287109375,
+                496.95159912109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 492.7,
           "text": "nutrition and social and cultural values ​are thought to affect water",
           "bbox": [
             42.0,
@@ -11171,12 +11375,12 @@
           ]
         },
         {
-          "y": 502,
-          "text": "8. Çolakoğlu E. Water and Water Ethics as a Common Value. ZKÜ Sosyal",
+          "y": 501.8,
+          "text": "8. Çolakoğlu E. Water and Water Ethics as a Common Value.",
           "bbox": [
             312.6376953125,
             501.7756042480469,
-            555.276611328125,
+            514.4937744140625,
             512.5516357421875
           ],
           "spans": [
@@ -11201,7 +11405,19 @@
                 514.4937744140625,
                 512.5516357421875
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 501.9,
+          "text": "ZKÜ Sosyal",
+          "bbox": [
+            514.658203125,
+            501.91162109375,
+            555.276611328125,
+            512.5516357421875
+          ],
+          "spans": [
             {
               "size": 8.0,
               "flags": 6,
@@ -11227,7 +11443,7 @@
           ]
         },
         {
-          "y": 504,
+          "y": 503.5,
           "text": "use habits. Since ensuring the sustainability of water and resources",
           "bbox": [
             42.0,
@@ -11261,7 +11477,7 @@
           ]
         },
         {
-          "y": 511,
+          "y": 511.4,
           "text": ". 2009;9:109–116.",
           "bbox": [
             375.5596008300781,
@@ -11295,7 +11511,7 @@
           ]
         },
         {
-          "y": 512,
+          "y": 511.5,
           "text": "Bilimler Dergisi",
           "bbox": [
             323.6376953125,
@@ -11329,7 +11545,7 @@
           ]
         },
         {
-          "y": 514,
+          "y": 514.3,
           "text": "is very important for life, benefiting from water resources in various",
           "bbox": [
             42.0,
@@ -11363,7 +11579,7 @@
           ]
         },
         {
-          "y": 525,
+          "y": 525.1,
           "text": "fields should be seamlessly sustainable in the future as in the past",
           "bbox": [
             42.0,
@@ -11397,8 +11613,8 @@
           ]
         },
         {
-          "y": 527,
-          "text": "9. Göksu M. Ziya L. Water pollution . Ankara: Academician Bookstore.",
+          "y": 527.0,
+          "text": "9. Göksu M. Ziya L. . Ankara: Academician Bookstore.",
           "bbox": [
             312.6376953125,
             526.9756469726562,
@@ -11430,28 +11646,6 @@
             },
             {
               "size": 8.0,
-              "flags": 6,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "TimesNewRomanPS-ItalicMT",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 1.0230000019073486,
-              "descender": -0.3070000112056732,
-              "text": "Water pollution",
-              "origin": [
-                388.39410400390625,
-                535.295654296875
-              ],
-              "bbox": [
-                388.39410400390625,
-                527.1116333007812,
-                439.4076843261719,
-                537.7516479492188
-              ]
-            },
-            {
-              "size": 8.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -11475,7 +11669,41 @@
           ]
         },
         {
-          "y": 536,
+          "y": 527.1,
+          "text": "Water pollution",
+          "bbox": [
+            388.39410400390625,
+            527.1116333007812,
+            439.4076843261719,
+            537.7516479492188
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPS-ItalicMT",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 1.0230000019073486,
+              "descender": -0.3070000112056732,
+              "text": "Water pollution",
+              "origin": [
+                388.39410400390625,
+                535.295654296875
+              ],
+              "bbox": [
+                388.39410400390625,
+                527.1116333007812,
+                439.4076843261719,
+                537.7516479492188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 535.9,
           "text": "and today. For this, monitoring and evaluation studies should not be",
           "bbox": [
             42.0,
@@ -11509,7 +11737,7 @@
           ]
         },
         {
-          "y": 537,
+          "y": 536.6,
           "text": "2015.",
           "bbox": [
             323.6376953125,
@@ -11543,7 +11771,7 @@
           ]
         },
         {
-          "y": 547,
+          "y": 546.7,
           "text": "limited, improvement projects should be implemented.",
           "bbox": [
             42.0,
@@ -11577,8 +11805,8 @@
           ]
         },
         {
-          "y": 552,
-          "text": "10. Kerestecioğlu M. ANNEX: 9 Environment and Sustainable Development .",
+          "y": 552.2,
+          "text": "10. Kerestecioğlu M. .",
           "bbox": [
             308.6376953125,
             552.1755981445312,
@@ -11610,28 +11838,6 @@
             },
             {
               "size": 8.0,
-              "flags": 6,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "TimesNewRomanPS-ItalicMT",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 1.0230000019073486,
-              "descender": -0.3070000112056732,
-              "text": "ANNEX: 9 Environment and Sustainable Development",
-              "origin": [
-                379.9024963378906,
-                560.49560546875
-              ],
-              "bbox": [
-                379.9024963378906,
-                552.3115844726562,
-                551.2800903320312,
-                562.9515991210938
-              ]
-            },
-            {
-              "size": 8.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -11655,7 +11861,41 @@
           ]
         },
         {
-          "y": 562,
+          "y": 552.3,
+          "text": "ANNEX: 9 Environment and Sustainable Development",
+          "bbox": [
+            379.9024963378906,
+            552.3115844726562,
+            551.2800903320312,
+            562.9515991210938
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPS-ItalicMT",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 1.0230000019073486,
+              "descender": -0.3070000112056732,
+              "text": "ANNEX: 9 Environment and Sustainable Development",
+              "origin": [
+                379.9024963378906,
+                560.49560546875
+              ],
+              "bbox": [
+                379.9024963378906,
+                552.3115844726562,
+                551.2800903320312,
+                562.9515991210938
+              ]
+            }
+          ]
+        },
+        {
+          "y": 561.8,
           "text": "International United Consultants Consulting Services Inc., Environment",
           "bbox": [
             323.6376953125,
@@ -11689,7 +11929,7 @@
           ]
         },
         {
-          "y": 564,
+          "y": 563.5,
           "text": "As a result, it is absolutely necessary to use and protect the",
           "bbox": [
             54.0,
@@ -11723,7 +11963,7 @@
           ]
         },
         {
-          "y": 571,
+          "y": 571.4,
           "text": "and Sustainable Development Panel Final Report, TÜBİTAK. 2001.",
           "bbox": [
             323.6376953125,
@@ -11757,7 +11997,7 @@
           ]
         },
         {
-          "y": 574,
+          "y": 574.3,
           "text": "natural composition of soil, water and air, which are necessary for the",
           "bbox": [
             42.0,
@@ -11791,7 +12031,7 @@
           ]
         },
         {
-          "y": 585,
+          "y": 585.1,
           "text": "continuation of life, for sustainable living and natural environment.",
           "bbox": [
             42.0,
@@ -11825,8 +12065,8 @@
           ]
         },
         {
-          "y": 587,
-          "text": "11. Güler Ç, Çobanoğlu, Z. Water Pollution. Environmental Health Basic",
+          "y": 587.0,
+          "text": "11. Güler Ç, Çobanoğlu, Z. Environmental Health Basic",
           "bbox": [
             308.6376953125,
             586.9755859375,
@@ -11858,28 +12098,6 @@
             },
             {
               "size": 8.0,
-              "flags": 6,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "TimesNewRomanPS-ItalicMT",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 1.0230000019073486,
-              "descender": -0.3070000112056732,
-              "text": "Water Pollution.",
-              "origin": [
-                404.6129150390625,
-                595.2955932617188
-              ],
-              "bbox": [
-                404.6129150390625,
-                587.111572265625,
-                458.07049560546875,
-                597.7515869140625
-              ]
-            },
-            {
-              "size": 8.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -11903,7 +12121,41 @@
           ]
         },
         {
-          "y": 596,
+          "y": 587.1,
+          "text": "Water Pollution.",
+          "bbox": [
+            404.6129150390625,
+            587.111572265625,
+            458.07049560546875,
+            597.7515869140625
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPS-ItalicMT",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 1.0230000019073486,
+              "descender": -0.3070000112056732,
+              "text": "Water Pollution.",
+              "origin": [
+                404.6129150390625,
+                595.2955932617188
+              ],
+              "bbox": [
+                404.6129150390625,
+                587.111572265625,
+                458.07049560546875,
+                597.7515869140625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 595.9,
           "text": "Therefore, it is necessary to use, protect and plan natural resources",
           "bbox": [
             42.0,
@@ -11937,7 +12189,7 @@
           ]
         },
         {
-          "y": 597,
+          "y": 596.6,
           "text": "Resource Series, No: 12. Ankara. 1994.",
           "bbox": [
             323.6376953125,
@@ -11971,7 +12223,7 @@
           ]
         },
         {
-          "y": 607,
+          "y": 606.7,
           "text": "in a sustainable way. With the conscious use of water, we can prevent",
           "bbox": [
             42.0,
@@ -12005,12 +12257,46 @@
           ]
         },
         {
-          "y": 782,
-          "text": "Citation: Kılıç Z. The importance of water and conscious use of water. Int J Hydro. 2020;4(5):239 ‒ 241. DOI: 10.15406/ijh.2020.04.00250",
+          "y": 781.5,
+          "text": "‒",
+          "bbox": [
+            354.2929992675781,
+            781.5010375976562,
+            358.2929992675781,
+            792.2770385742188
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 1.0399999618530273,
+              "descender": -0.3070000112056732,
+              "text": "‒",
+              "origin": [
+                354.2929992675781,
+                789.821044921875
+              ],
+              "bbox": [
+                354.2929992675781,
+                781.5010375976562,
+                358.2929992675781,
+                792.2770385742188
+              ]
+            }
+          ]
+        },
+        {
+          "y": 782.3,
+          "text": "Citation:",
           "bbox": [
             40.0,
-            781.5010375976562,
-            480.0,
+            782.3090209960938,
+            72.83200073242188,
             792.373046875
           ],
           "spans": [
@@ -12035,7 +12321,53 @@
                 72.83200073242188,
                 792.373046875
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 782.4,
+          "text": "Int J Hydro.",
+          "bbox": [
+            273.1679992675781,
+            782.445068359375,
+            307.3088684082031,
+            792.06103515625
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 2,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GillSansMT-Italic",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 0.921999990940094,
+              "descender": -0.2800000011920929,
+              "text": "Int J Hydro.",
+              "origin": [
+                273.1679992675781,
+                789.821044921875
+              ],
+              "bbox": [
+                273.1679992675781,
+                782.445068359375,
+                307.3088684082031,
+                792.06103515625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 782.5,
+          "text": "Kılıç Z. The importance of water and conscious use of water. 2020;4(5):239 241. DOI: 10.15406/ijh.2020.04.00250",
+          "bbox": [
+            72.8281021118164,
+            782.47705078125,
+            480.0,
+            792.0770263671875
+          ],
+          "spans": [
             {
               "size": 8.0,
               "flags": 0,
@@ -12060,28 +12392,6 @@
             },
             {
               "size": 8.0,
-              "flags": 2,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "GillSansMT-Italic",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 0.921999990940094,
-              "descender": -0.2800000011920929,
-              "text": "Int J Hydro.",
-              "origin": [
-                273.1679992675781,
-                789.821044921875
-              ],
-              "bbox": [
-                273.1679992675781,
-                782.445068359375,
-                307.3088684082031,
-                792.06103515625
-              ]
-            },
-            {
-              "size": 8.0,
               "flags": 0,
               "bidi": 0,
               "char_flags": 16,
@@ -12100,28 +12410,6 @@
                 782.47705078125,
                 354.2885437011719,
                 792.0770263671875
-              ]
-            },
-            {
-              "size": 8.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "TimesNewRomanPSMT",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 1.0399999618530273,
-              "descender": -0.3070000112056732,
-              "text": "‒",
-              "origin": [
-                354.2929992675781,
-                789.821044921875
-              ],
-              "bbox": [
-                354.2929992675781,
-                781.5010375976562,
-                358.2929992675781,
-                792.2770385742188
               ]
             },
             {

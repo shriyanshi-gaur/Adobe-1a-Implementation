@@ -7,7 +7,7 @@
       "page_height": 801.0,
       "lines": [
         {
-          "y": 135,
+          "y": 134.8,
           "text": "Center. Slated to open in 2009, the",
           "bbox": [
             459.0,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 139,
+          "y": 138.7,
           "text": "UINTAH BASIN",
           "bbox": [
             150.01800537109375,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 147,
+          "y": 146.8,
           "text": "building will be a state-of-the-art,",
           "bbox": [
             459.0,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 159,
+          "y": 158.8,
           "text": "high-tech educational facility to train",
           "bbox": [
             459.0,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 166,
+          "y": 165.6,
           "text": "THIS LAND",
           "bbox": [
             155.88499450683594,
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "y": 171,
+          "y": 170.8,
           "text": "students in engineering, water man-",
           "bbox": [
             459.0,
@@ -211,7 +211,7 @@
           ]
         },
         {
-          "y": 183,
+          "y": 182.8,
           "text": "agement, natural resources and en-",
           "bbox": [
             459.0,
@@ -245,7 +245,7 @@
           ]
         },
         {
-          "y": 190,
+          "y": 189.6,
           "text": "IS OUR LAND",
           "bbox": [
             144.74899291992188,
@@ -279,7 +279,7 @@
           ]
         },
         {
-          "y": 195,
+          "y": 194.8,
           "text": "vironmental policy, to name a few.",
           "bbox": [
             459.0,
@@ -313,7 +313,7 @@
           ]
         },
         {
-          "y": 207,
+          "y": 206.8,
           "text": "In July, the Anadarko Foundation,",
           "bbox": [
             459.0,
@@ -369,7 +369,7 @@
           ]
         },
         {
-          "y": 219,
+          "y": 218.8,
           "text": "developer or county ofﬁ cial. “I have a nonproﬁ t organization of Anadarko",
           "bbox": [
             321.0,
@@ -425,7 +425,7 @@
           ]
         },
         {
-          "y": 231,
+          "y": 230.8,
           "text": "a three-minute commute to work, Petroleum Corporation, announced",
           "bbox": [
             321.0,
@@ -481,7 +481,7 @@
           ]
         },
         {
-          "y": 234,
+          "y": 233.9,
           "text": "By Pamela Ostermiller",
           "bbox": [
             175.9250030517578,
@@ -515,7 +515,7 @@
           ]
         },
         {
-          "y": 243,
+          "y": 242.8,
           "text": "the people are friendly, I don’t lock a $1.5 million joint gift to the univer-",
           "bbox": [
             321.0,
@@ -571,7 +571,7 @@
           ]
         },
         {
-          "y": 255,
+          "y": 254.8,
           "text": "my doors at night, and you’re 30 sity and the Uintah Basin Applied",
           "bbox": [
             321.0,
@@ -627,7 +627,7 @@
           ]
         },
         {
-          "y": 267,
+          "y": 266.8,
           "text": "to 40 minutes away from anything Technology College. The gift will",
           "bbox": [
             321.0,
@@ -683,7 +683,7 @@
           ]
         },
         {
-          "y": 279,
+          "y": 278.8,
           "text": "you want to do, horseback riding, fund construction of the Anadarko",
           "bbox": [
             321.0,
@@ -739,37 +739,15 @@
           ]
         },
         {
-          "y": 291,
-          "text": "COUNTIES: whitewater rafting, the Green River, Petroleum Corporation Industrial",
+          "y": 290.8,
+          "text": "whitewater rafting, the Green River, Petroleum Corporation Industrial",
           "bbox": [
-            45.0,
+            321.0,
             290.76116943359375,
             587.129638671875,
-            298.93365478515625
+            298.76129150390625
           ],
           "spans": [
-            {
-              "size": 8.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Avenir-Black",
-              "color": 13080611,
-              "alpha": 255,
-              "ascender": 0.7559999823570251,
-              "descender": -0.2280000001192093,
-              "text": "COUNTIES: ",
-              "origin": [
-                45.0,
-                297.0799865722656
-              ],
-              "bbox": [
-                45.0,
-                290.93365478515625,
-                90.91200256347656,
-                298.93365478515625
-              ]
-            },
             {
               "size": 8.0,
               "flags": 4,
@@ -861,7 +839,41 @@
           ]
         },
         {
-          "y": 302,
+          "y": 290.9,
+          "text": "COUNTIES:",
+          "bbox": [
+            45.0,
+            290.93365478515625,
+            90.91200256347656,
+            298.93365478515625
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Avenir-Black",
+              "color": 13080611,
+              "alpha": 255,
+              "ascender": 0.7559999823570251,
+              "descender": -0.2280000001192093,
+              "text": "COUNTIES: ",
+              "origin": [
+                45.0,
+                297.0799865722656
+              ],
+              "bbox": [
+                45.0,
+                290.93365478515625,
+                90.91200256347656,
+                298.93365478515625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 301.5,
           "text": "Daggett, Duchesne, Uintah",
           "bbox": [
             45.0,
@@ -895,37 +907,15 @@
           ]
         },
         {
-          "y": 303,
-          "text": "A DRIVE THROUGH the Uintah Ba- ﬁ shing…I enjoy the recreation.” Technology Building, which will offer",
+          "y": 302.8,
+          "text": "the Uintah Ba- ﬁ shing…I enjoy the recreation.” Technology Building, which will offer",
           "bbox": [
-            183.0,
+            254.03199768066406,
             302.7546691894531,
             587.1287841796875,
             310.76129150390625
           ],
           "spans": [
-            {
-              "size": 7.5,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Swiss721BT-Bold",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 0.7509999871253967,
-              "descender": -0.20600000023841858,
-              "text": "A DRIVE THROUGH",
-              "origin": [
-                183.0,
-                309.0
-              ],
-              "bbox": [
-                183.0,
-                303.1144104003906,
-                254.1074981689453,
-                310.6144104003906
-              ]
-            },
             {
               "size": 8.0,
               "flags": 4,
@@ -995,7 +985,41 @@
           ]
         },
         {
-          "y": 305,
+          "y": 303.1,
+          "text": "A DRIVE THROUGH",
+          "bbox": [
+            183.0,
+            303.1144104003906,
+            254.1074981689453,
+            310.6144104003906
+          ],
+          "spans": [
+            {
+              "size": 7.5,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Swiss721BT-Bold",
+              "color": 2301728,
+              "alpha": 255,
+              "ascender": 0.7509999871253967,
+              "descender": -0.20600000023841858,
+              "text": "A DRIVE THROUGH",
+              "origin": [
+                183.0,
+                309.0
+              ],
+              "bbox": [
+                183.0,
+                303.1144104003906,
+                254.1074981689453,
+                310.6144104003906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 305.2,
           "text": "FAST FACTS",
           "bbox": [
             19.570510864257812,
@@ -1029,7 +1053,7 @@
           ]
         },
         {
-          "y": 315,
+          "y": 314.8,
           "text": "sin, under the watch of King’s Peak, Mark Raymond, County Commis- programs critical to the natural gas",
           "bbox": [
             183.0,
@@ -1129,7 +1153,7 @@
           ]
         },
         {
-          "y": 324,
+          "y": 323.9,
           "text": "MAJOR CITIES:",
           "bbox": [
             45.0,
@@ -1163,7 +1187,7 @@
           ]
         },
         {
-          "y": 327,
+          "y": 326.8,
           "text": "across the maize-colored, antelope sioner says the area is growing fast. and oil industry, but it will also edu-",
           "bbox": [
             183.0,
@@ -1241,7 +1265,7 @@
           ]
         },
         {
-          "y": 335,
+          "y": 334.5,
           "text": "Vernal (8,403)",
           "bbox": [
             45.0,
@@ -1275,7 +1299,7 @@
           ]
         },
         {
-          "y": 339,
+          "y": 338.8,
           "text": "speckled plains, through the alfalfa “Things are happening here,” cate locals so that they are able to",
           "bbox": [
             183.0,
@@ -1375,7 +1399,7 @@
           ]
         },
         {
-          "y": 346,
+          "y": 345.5,
           "text": "Duchesne (1,553)",
           "bbox": [
             45.0,
@@ -1409,7 +1433,7 @@
           ]
         },
         {
-          "y": 351,
+          "y": 350.8,
           "text": "ﬁ elds and the red cliffs to the ﬁ sh- he says. “The traditional boom-and- live and work where they grew up.",
           "bbox": [
             183.0,
@@ -1487,7 +1511,7 @@
           ]
         },
         {
-          "y": 357,
+          "y": 356.5,
           "text": "Roosevelt (4,852)",
           "bbox": [
             45.0,
@@ -1521,7 +1545,7 @@
           ]
         },
         {
-          "y": 363,
+          "y": 362.8,
           "text": "ﬁ lled waters of Flaming Gorge, to bust cycle of the Uintah Basin is past “We will have state-of-the-art facili-",
           "bbox": [
             183.0,
@@ -1599,7 +1623,7 @@
           ]
         },
         {
-          "y": 368,
+          "y": 367.5,
           "text": "Manila (298)",
           "bbox": [
             45.0,
@@ -1633,8 +1657,8 @@
           ]
         },
         {
-          "y": 375,
-          "text": "the lights of the oil rigs twinkling on history.” He is talking about oil, of ties, equipment and programs in-",
+          "y": 374.8,
+          "text": "the lights of the oil rigs twinkling on history.” He is talking about oil, of ties, equipment and programs in in-",
           "bbox": [
             183.0,
             374.7546691894531,
@@ -1711,7 +1735,7 @@
           ]
         },
         {
-          "y": 387,
+          "y": 386.8,
           "text": "the horizon, reveals that the lifestyle course, the grease of the county’s dustrial engineering, chemistry and",
           "bbox": [
             183.0,
@@ -1789,7 +1813,7 @@
           ]
         },
         {
-          "y": 390,
+          "y": 389.9,
           "text": "REGIONAL CIVILIAN LABOR",
           "bbox": [
             45.0,
@@ -1823,7 +1847,7 @@
           ]
         },
         {
-          "y": 399,
+          "y": 398.8,
           "text": "and economy of the Uintah Basin is economic cogs for decades. But that geology,” Raymond says. “We can",
           "bbox": [
             183.0,
@@ -1901,37 +1925,15 @@
           ]
         },
         {
-          "y": 401,
-          "text": "FORCE: 25,472",
+          "y": 400.5,
+          "text": "25,472",
           "bbox": [
-            45.0,
+            76.8395004272461,
             400.54949951171875,
             102.4074935913086,
             409.04949951171875
           ],
           "spans": [
-            {
-              "size": 8.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Avenir-Black",
-              "color": 13080611,
-              "alpha": 255,
-              "ascender": 0.7559999823570251,
-              "descender": -0.2280000001192093,
-              "text": "FORCE: ",
-              "origin": [
-                45.0,
-                407.0799865722656
-              ],
-              "bbox": [
-                45.0,
-                400.93365478515625,
-                76.83999633789062,
-                408.93365478515625
-              ]
-            },
             {
               "size": 8.5,
               "flags": 4,
@@ -1957,7 +1959,41 @@
           ]
         },
         {
-          "y": 411,
+          "y": 400.9,
+          "text": "FORCE:",
+          "bbox": [
+            45.0,
+            400.93365478515625,
+            76.83999633789062,
+            408.93365478515625
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Avenir-Black",
+              "color": 13080611,
+              "alpha": 255,
+              "ascender": 0.7559999823570251,
+              "descender": -0.2280000001192093,
+              "text": "FORCE: ",
+              "origin": [
+                45.0,
+                407.0799865722656
+              ],
+              "bbox": [
+                45.0,
+                400.93365478515625,
+                76.83999633789062,
+                408.93365478515625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 410.8,
           "text": "grounded in natural resources. It’s a grease, combined with a tradition of get our young people to ﬁ ll the jobs",
           "bbox": [
             183.0,
@@ -2035,37 +2071,15 @@
           ]
         },
         {
-          "y": 423,
-          "text": "AVERAGE WAGE: region of roots, veins and bones, of tourism and agriculture, has opened we need.”",
+          "y": 422.8,
+          "text": "region of roots, veins and bones, of tourism and agriculture, has opened we need.”",
           "bbox": [
-            45.0,
+            183.0,
             422.7546691894531,
             493.6319885253906,
-            430.93365478515625
+            430.76129150390625
           ],
           "spans": [
-            {
-              "size": 8.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Avenir-Black",
-              "color": 13080611,
-              "alpha": 255,
-              "ascender": 0.7559999823570251,
-              "descender": -0.2280000001192093,
-              "text": "AVERAGE WAGE: ",
-              "origin": [
-                45.0,
-                429.0799865722656
-              ],
-              "bbox": [
-                45.0,
-                422.93365478515625,
-                115.57839965820312,
-                430.93365478515625
-              ]
-            },
             {
               "size": 8.0,
               "flags": 4,
@@ -2135,7 +2149,41 @@
           ]
         },
         {
-          "y": 434,
+          "y": 422.9,
+          "text": "AVERAGE WAGE:",
+          "bbox": [
+            45.0,
+            422.93365478515625,
+            115.57839965820312,
+            430.93365478515625
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Avenir-Black",
+              "color": 13080611,
+              "alpha": 255,
+              "ascender": 0.7559999823570251,
+              "descender": -0.2280000001192093,
+              "text": "AVERAGE WAGE: ",
+              "origin": [
+                45.0,
+                429.0799865722656
+              ],
+              "bbox": [
+                45.0,
+                422.93365478515625,
+                115.57839965820312,
+                430.93365478515625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 433.5,
           "text": "$30,031 (Daggett)",
           "bbox": [
             45.0,
@@ -2169,7 +2217,7 @@
           ]
         },
         {
-          "y": 435,
+          "y": 434.8,
           "text": "range cattle, oil wells and dinosaurs. opportunities in other industries. Which leads to another so-called",
           "bbox": [
             183.0,
@@ -2269,7 +2317,7 @@
           ]
         },
         {
-          "y": 445,
+          "y": 444.5,
           "text": "$39,606 (Duchesne)",
           "bbox": [
             45.0,
@@ -2303,7 +2351,7 @@
           ]
         },
         {
-          "y": 447,
+          "y": 446.8,
           "text": "Duchesne, Daggett and Uintah Especially exciting are develop- problem: more jobs than workers",
           "bbox": [
             183.0,
@@ -2403,7 +2451,7 @@
           ]
         },
         {
-          "y": 456,
+          "y": 455.5,
           "text": "$42,381 (Uintah)",
           "bbox": [
             45.0,
@@ -2437,7 +2485,7 @@
           ]
         },
         {
-          "y": 459,
+          "y": 458.8,
           "text": "counties each bring unique boun- ments in higher education, on the and a lack of housing for the work-",
           "bbox": [
             183.0,
@@ -2515,7 +2563,7 @@
           ]
         },
         {
-          "y": 471,
+          "y": 470.8,
           "text": "ties and challenges and most impor- Utah State University Uintah Basin ers already in place. “We have too",
           "bbox": [
             183.0,
@@ -2593,7 +2641,7 @@
           ]
         },
         {
-          "y": 483,
+          "y": 482.8,
           "text": "tantly, opportunities for business. Regional Campus. Recently, Utah many high paying jobs that we can’t",
           "bbox": [
             183.0,
@@ -2671,7 +2719,7 @@
           ]
         },
         {
-          "y": 495,
+          "y": 494.8,
           "text": "entrepreneur Marc Bingham and his ﬁ ll,” says Michael McKee, chairman",
           "bbox": [
             321.0,
@@ -2727,37 +2775,15 @@
           ]
         },
         {
-          "y": 507,
-          "text": "BREAKING THE BOOM wife, Debbie, donated $15 million of the Uintah County Commission.",
+          "y": 506.8,
+          "text": "wife, Debbie, donated $15 million of the Uintah County Commission.",
           "bbox": [
-            183.0,
+            321.0,
             506.76116943359375,
             587.1279296875,
-            514.853759765625
+            514.7612915039062
           ],
           "spans": [
-            {
-              "size": 8.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Avenir-Black",
-              "color": 3829391,
-              "alpha": 255,
-              "ascender": 0.7559999823570251,
-              "descender": -0.2280000001192093,
-              "text": "BREAKING THE BOOM ",
-              "origin": [
-                183.0,
-                513.0001220703125
-              ],
-              "bbox": [
-                183.0,
-                506.8537902832031,
-                274.08001708984375,
-                514.853759765625
-              ]
-            },
             {
               "size": 8.0,
               "flags": 4,
@@ -2805,13 +2831,13 @@
           ]
         },
         {
-          "y": 519,
-          "text": "AND BUST to the campus to build the Entre- “Now that is an exciting problem!”",
+          "y": 506.9,
+          "text": "BREAKING THE BOOM",
           "bbox": [
             183.0,
-            518.7611694335938,
-            587.1279907226562,
-            526.853759765625
+            506.8537902832031,
+            274.08001708984375,
+            514.853759765625
           ],
           "spans": [
             {
@@ -2824,18 +2850,30 @@
               "alpha": 255,
               "ascender": 0.7559999823570251,
               "descender": -0.2280000001192093,
-              "text": "AND BUST ",
+              "text": "BREAKING THE BOOM ",
               "origin": [
                 183.0,
-                525.0001220703125
+                513.0001220703125
               ],
               "bbox": [
                 183.0,
-                518.853759765625,
-                226.55198669433594,
-                526.853759765625
+                506.8537902832031,
+                274.08001708984375,
+                514.853759765625
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 518.8,
+          "text": "to the campus to build the Entre- “Now that is an exciting problem!”",
+          "bbox": [
+            321.0,
+            518.7611694335938,
+            587.1279907226562,
+            526.7612915039062
+          ],
+          "spans": [
             {
               "size": 8.0,
               "flags": 4,
@@ -2883,7 +2921,41 @@
           ]
         },
         {
-          "y": 531,
+          "y": 518.9,
+          "text": "AND BUST",
+          "bbox": [
+            183.0,
+            518.853759765625,
+            226.55198669433594,
+            526.853759765625
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Avenir-Black",
+              "color": 3829391,
+              "alpha": 255,
+              "ascender": 0.7559999823570251,
+              "descender": -0.2280000001192093,
+              "text": "AND BUST ",
+              "origin": [
+                183.0,
+                525.0001220703125
+              ],
+              "bbox": [
+                183.0,
+                518.853759765625,
+                226.55198669433594,
+                526.853759765625
+              ]
+            }
+          ]
+        },
+        {
+          "y": 530.8,
           "text": "Gary McClellan is a saddle maker from preneurship and Energy Research According to the Utah Department of",
           "bbox": [
             183.0,
@@ -2961,7 +3033,7 @@
           ]
         },
         {
-          "y": 543,
+          "y": 542.8,
           "text": "Maeser, a small town just outside",
           "bbox": [
             183.0,
@@ -2995,7 +3067,7 @@
           ]
         },
         {
-          "y": 555,
+          "y": 554.8,
           "text": "Vernal. For 18 years he has worked for",
           "bbox": [
             183.0,
@@ -3029,7 +3101,7 @@
           ]
         },
         {
-          "y": 567,
+          "y": 566.8,
           "text": "Dry Fork Saddle, a company his brother,",
           "bbox": [
             183.0,
@@ -3063,7 +3135,7 @@
           ]
         },
         {
-          "y": 579,
+          "y": 578.8,
           "text": "Brad, started in 1972. The company",
           "bbox": [
             183.0,
@@ -3097,7 +3169,7 @@
           ]
         },
         {
-          "y": 589,
+          "y": 588.7,
           "text": "DINOSAUR NATIONAL MONUMENT",
           "bbox": [
             55.67679977416992,
@@ -3131,7 +3203,7 @@
           ]
         },
         {
-          "y": 591,
+          "y": 590.8,
           "text": "builds about 900 saddles a year and",
           "bbox": [
             183.0,
@@ -3165,7 +3237,7 @@
           ]
         },
         {
-          "y": 603,
+          "y": 602.8,
           "text": "sell them worldwide for some $2,735",
           "bbox": [
             183.0,
@@ -3199,7 +3271,7 @@
           ]
         },
         {
-          "y": 615,
+          "y": 614.8,
           "text": "each. “We can’t keep up,” he says, but",
           "bbox": [
             183.0,
@@ -3233,7 +3305,7 @@
           ]
         },
         {
-          "y": 621,
+          "y": 620.9,
           "text": "MAJOR EMPLOYERS:",
           "bbox": [
             45.0,
@@ -3267,7 +3339,7 @@
           ]
         },
         {
-          "y": 627,
+          "y": 626.8,
           "text": "enjoys the work as much as the suc-",
           "bbox": [
             183.0,
@@ -3301,7 +3373,7 @@
           ]
         },
         {
-          "y": 632,
+          "y": 631.5,
           "text": "Duchesne County School District",
           "bbox": [
             45.0,
@@ -3335,7 +3407,7 @@
           ]
         },
         {
-          "y": 639,
+          "y": 638.8,
           "text": "cess. “I like seeing the ﬁ nished prod-",
           "bbox": [
             183.0,
@@ -3369,7 +3441,7 @@
           ]
         },
         {
-          "y": 643,
+          "y": 642.5,
           "text": "Uintah Basin Medical Center",
           "bbox": [
             45.0,
@@ -3403,7 +3475,7 @@
           ]
         },
         {
-          "y": 651,
+          "y": 650.8,
           "text": "uct. It is satisfying to watch progress",
           "bbox": [
             183.0,
@@ -3437,7 +3509,7 @@
           ]
         },
         {
-          "y": 654,
+          "y": 653.5,
           "text": "Halliburton Energy Services",
           "bbox": [
             45.0,
@@ -3471,7 +3543,7 @@
           ]
         },
         {
-          "y": 663,
+          "y": 662.8,
           "text": "every day, to see the end result.”",
           "bbox": [
             183.0,
@@ -3505,7 +3577,7 @@
           ]
         },
         {
-          "y": 665,
+          "y": 664.5,
           "text": "Colletts Recreation Services",
           "bbox": [
             45.0,
@@ -3539,7 +3611,7 @@
           ]
         },
         {
-          "y": 675,
+          "y": 674.8,
           "text": "They are so popular Discovery",
           "bbox": [
             183.0,
@@ -3595,7 +3667,7 @@
           ]
         },
         {
-          "y": 676,
+          "y": 675.5,
           "text": "Cash Meat Market",
           "bbox": [
             45.0,
@@ -3629,12 +3701,12 @@
           ]
         },
         {
-          "y": 687,
-          "text": "Anadarko Petroleum Corp. Channel is doing a “How it’s Made”",
+          "y": 686.5,
+          "text": "Anadarko Petroleum Corp.",
           "bbox": [
             45.0,
             686.548828125,
-            311.1247253417969,
+            145.752197265625,
             695.048828125
           ],
           "spans": [
@@ -3659,7 +3731,19 @@
                 145.752197265625,
                 695.048828125
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 686.8,
+          "text": "Channel is doing a “How it’s Made”",
+          "bbox": [
+            183.0,
+            686.7612915039062,
+            311.1247253417969,
+            694.7612915039062
+          ],
+          "spans": [
             {
               "size": 8.0,
               "flags": 4,
@@ -3685,7 +3769,7 @@
           ]
         },
         {
-          "y": 698,
+          "y": 697.5,
           "text": "Ashley Valley Medical Center",
           "bbox": [
             45.0,
@@ -3719,7 +3803,7 @@
           ]
         },
         {
-          "y": 699,
+          "y": 698.8,
           "text": "special on the company.",
           "bbox": [
             183.0,
@@ -3753,7 +3837,7 @@
           ]
         },
         {
-          "y": 709,
+          "y": 708.5,
           "text": "Jacob Fields Service N.A.",
           "bbox": [
             45.0,
@@ -3787,7 +3871,7 @@
           ]
         },
         {
-          "y": 711,
+          "y": 710.8,
           "text": "McClellan can sum up life in Uin-",
           "bbox": [
             183.0,
@@ -3843,7 +3927,7 @@
           ]
         },
         {
-          "y": 720,
+          "y": 719.5,
           "text": "National Forest Service",
           "bbox": [
             45.0,
@@ -3877,7 +3961,7 @@
           ]
         },
         {
-          "y": 723,
+          "y": 722.8,
           "text": "tah County as well as any economic",
           "bbox": [
             183.0,
@@ -3911,7 +3995,7 @@
           ]
         },
         {
-          "y": 735,
+          "y": 734.8,
           "text": "FLAMING GORGE",
           "bbox": [
             322.0,
@@ -3945,12 +4029,12 @@
           ]
         },
         {
-          "y": 758,
-          "text": "74",
+          "y": 758.0,
+          "text": "74 74",
           "bbox": [
             39.0,
-            757.57763671875,
-            54.06420135498047,
+            757.9571533203125,
+            48.66419982910156,
             766.9571533203125
           ],
           "spans": [
@@ -3997,33 +4081,11 @@
                 48.66419982910156,
                 766.9571533203125
               ]
-            },
-            {
-              "size": 9.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Gotham-Bold",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 0.7300000190734863,
-              "descender": -0.16200000047683716,
-              "text": "  ",
-              "origin": [
-                48.66419982910156,
-                764.943115234375
-              ],
-              "bbox": [
-                48.66419982910156,
-                757.57763671875,
-                54.06420135498047,
-                766.57763671875
-              ]
             }
           ]
         },
         {
-          "y": 760,
+          "y": 759.6,
           "text": "BUSINE BUSINESSinUTAH 2009 NE SS in UTA H 2 H 2009 009",
           "bbox": [
             53.52429962158203,
@@ -4240,7 +4302,7 @@
       "page_height": 801.0,
       "lines": [
         {
-          "y": 75,
+          "y": 74.8,
           "text": "en, Director of Duchesne County Eco-",
           "bbox": [
             312.0,
@@ -4274,7 +4336,7 @@
           ]
         },
         {
-          "y": 87,
+          "y": 86.8,
           "text": "nomic Development. Services related",
           "bbox": [
             312.0,
@@ -4308,7 +4370,7 @@
           ]
         },
         {
-          "y": 99,
+          "y": 98.8,
           "text": "to mining, such as welding, trucking",
           "bbox": [
             312.0,
@@ -4342,7 +4404,7 @@
           ]
         },
         {
-          "y": 101,
+          "y": 100.9,
           "text": "“The goal of the BLM’s oil",
           "bbox": [
             450.0,
@@ -4376,7 +4438,7 @@
           ]
         },
         {
-          "y": 111,
+          "y": 110.8,
           "text": "and commercial construction, are",
           "bbox": [
             312.0,
@@ -4410,7 +4472,7 @@
           ]
         },
         {
-          "y": 115,
+          "y": 114.9,
           "text": "shale program is to",
           "bbox": [
             450.0,
@@ -4444,7 +4506,7 @@
           ]
         },
         {
-          "y": 123,
+          "y": 122.8,
           "text": "feeding off of oil and gas, yet there is",
           "bbox": [
             312.0,
@@ -4478,7 +4540,7 @@
           ]
         },
         {
-          "y": 129,
+          "y": 128.9,
           "text": "promote economically",
           "bbox": [
             450.0,
@@ -4512,7 +4574,7 @@
           ]
         },
         {
-          "y": 135,
+          "y": 134.8,
           "text": "growth in other areas as well, such as",
           "bbox": [
             312.0,
@@ -4546,7 +4608,7 @@
           ]
         },
         {
-          "y": 143,
+          "y": 142.9,
           "text": "viable and environmen-",
           "bbox": [
             450.0,
@@ -4580,7 +4642,7 @@
           ]
         },
         {
-          "y": 147,
+          "y": 146.8,
           "text": "tourism. Hotels are booked all sum-",
           "bbox": [
             312.0,
@@ -4614,7 +4676,7 @@
           ]
         },
         {
-          "y": 157,
+          "y": 156.9,
           "text": "tally sound production of",
           "bbox": [
             450.0,
@@ -4648,7 +4710,7 @@
           ]
         },
         {
-          "y": 159,
+          "y": 158.8,
           "text": "mer as are the area’s seven resorts,",
           "bbox": [
             312.0,
@@ -4682,13 +4744,13 @@
           ]
         },
         {
-          "y": 171,
-          "text": "ranches and ﬁ shing destinations. In oil shale on Western",
+          "y": 170.8,
+          "text": "ranches and ﬁ shing destinations. In",
           "bbox": [
             312.0,
             170.76116943359375,
-            556.4568481445312,
-            181.90724182128906
+            440.12957763671875,
+            178.76116943359375
           ],
           "spans": [
             {
@@ -4712,7 +4774,19 @@
                 440.12957763671875,
                 178.76116943359375
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 170.9,
+          "text": "oil shale on Western",
+          "bbox": [
+            450.0,
+            170.90724182128906,
+            556.4568481445312,
+            181.90724182128906
+          ],
+          "spans": [
             {
               "size": 11.0,
               "flags": 20,
@@ -4738,7 +4812,7 @@
           ]
         },
         {
-          "y": 183,
+          "y": 182.8,
           "text": "Myton, chic restaurant Hollow Moon",
           "bbox": [
             312.0,
@@ -4772,7 +4846,7 @@
           ]
         },
         {
-          "y": 185,
+          "y": 184.9,
           "text": "lands, where we estimate",
           "bbox": [
             450.0,
@@ -4806,7 +4880,7 @@
           ]
         },
         {
-          "y": 195,
+          "y": 194.8,
           "text": "is serving up fresh baby greens and",
           "bbox": [
             312.0,
@@ -4840,7 +4914,7 @@
           ]
         },
         {
-          "y": 199,
+          "y": 198.9,
           "text": "deposits hold…enough to",
           "bbox": [
             450.0,
@@ -4874,7 +4948,7 @@
           ]
         },
         {
-          "y": 207,
+          "y": 206.8,
           "text": "gelato to locals and travelers alike.",
           "bbox": [
             312.0,
@@ -4908,7 +4982,7 @@
           ]
         },
         {
-          "y": 213,
+          "y": 212.9,
           "text": "meet U.S. demand for",
           "bbox": [
             450.0,
@@ -4942,7 +5016,7 @@
           ]
         },
         {
-          "y": 219,
+          "y": 218.8,
           "text": "While “oil and gas may be our",
           "bbox": [
             312.0,
@@ -4998,7 +5072,7 @@
           ]
         },
         {
-          "y": 227,
+          "y": 226.9,
           "text": "imported oil at current",
           "bbox": [
             450.0,
@@ -5032,7 +5106,7 @@
           ]
         },
         {
-          "y": 231,
+          "y": 230.8,
           "text": "bread and butter, agriculture is our",
           "bbox": [
             312.0,
@@ -5066,7 +5140,7 @@
           ]
         },
         {
-          "y": 241,
+          "y": 240.9,
           "text": "levels for 110 years.”",
           "bbox": [
             450.0,
@@ -5100,7 +5174,7 @@
           ]
         },
         {
-          "y": 243,
+          "y": 242.8,
           "text": "Workforce Services, unemployment billion barrels of recoverable oil. The backbone,” Hansen says. Duchesne",
           "bbox": [
             36.0,
@@ -5178,7 +5252,7 @@
           ]
         },
         {
-          "y": 255,
+          "y": 254.8,
           "text": "is 2.6 percent. “We are very upbeat. PEIS identiﬁ es the most promising County ranks in the top ﬁ ve producers",
           "bbox": [
             36.0,
@@ -5256,7 +5330,7 @@
           ]
         },
         {
-          "y": 266,
+          "y": 265.9,
           "text": "Jim Caswell",
           "bbox": [
             450.0,
@@ -5290,7 +5364,7 @@
           ]
         },
         {
-          "y": 267,
+          "y": 266.8,
           "text": "We have a great county,” says Mc- shale areas in Utah, Colorado and of cattle, hay and corn.",
           "bbox": [
             36.0,
@@ -5368,13 +5442,13 @@
           ]
         },
         {
-          "y": 279,
-          "text": "Kee. “But we have shortages.” Wyoming that will be open to appli- Hansen, part economic developer, DIRECTOR, BLM",
+          "y": 278.8,
+          "text": "Kee. “But we have shortages.” Wyoming that will be open to appli- Hansen, part economic developer,",
           "bbox": [
             36.0,
             278.76116943359375,
-            509.6240234375,
-            287.6159973144531
+            440.1285705566406,
+            286.76116943359375
           ],
           "spans": [
             {
@@ -5464,7 +5538,19 @@
                 440.1285705566406,
                 286.76116943359375
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 279.3,
+          "text": "DIRECTOR, BLM",
+          "bbox": [
+            450.0,
+            279.3119812011719,
+            509.6240234375,
+            287.6159973144531
+          ],
+          "spans": [
             {
               "size": 8.0,
               "flags": 4,
@@ -5490,7 +5576,7 @@
           ]
         },
         {
-          "y": 291,
+          "y": 290.8,
           "text": "Some solutions are in motion. In cations for commercial leasing. BLM part cheerleader, part fundraiser, is",
           "bbox": [
             36.0,
@@ -5590,7 +5676,7 @@
           ]
         },
         {
-          "y": 303,
+          "y": 302.8,
           "text": "July, the county approved an 80-acre Director Jim Caswell said in a press especially excited to see county",
           "bbox": [
             36.0,
@@ -5668,7 +5754,7 @@
           ]
         },
         {
-          "y": 315,
+          "y": 314.8,
           "text": "development complex in Vernal for re- release, “The goal of the BLM’s oil residents getting their piece of the",
           "bbox": [
             36.0,
@@ -5746,7 +5832,7 @@
           ]
         },
         {
-          "y": 327,
+          "y": 326.8,
           "text": "tail, entertainment and hotels, accord- shale program is to promote eco- pie. “When outside companies come",
           "bbox": [
             36.0,
@@ -5824,7 +5910,7 @@
           ]
         },
         {
-          "y": 339,
+          "y": 338.8,
           "text": "ing to the Uintah Basin Standard. At nomically viable and environmen- into the county, that’s wonderful,” she",
           "bbox": [
             36.0,
@@ -5902,7 +5988,7 @@
           ]
         },
         {
-          "y": 351,
+          "y": 350.8,
           "text": "least three hotels are planned, includ- tally sound production of oil shale on says. “But when a local sees an",
           "bbox": [
             36.0,
@@ -5980,7 +6066,7 @@
           ]
         },
         {
-          "y": 363,
+          "y": 362.8,
           "text": "ing Hawthorne Suites, La Quinta and Western lands, where we estimate opportunity and seizes it and ex-",
           "bbox": [
             36.0,
@@ -6058,7 +6144,7 @@
           ]
         },
         {
-          "y": 375,
+          "y": 374.8,
           "text": "Hyatt’s Summerﬁ eld Suites and, ac- deposits hold…enough to meet U.S. pands, that is even better!”",
           "bbox": [
             36.0,
@@ -6136,7 +6222,7 @@
           ]
         },
         {
-          "y": 387,
+          "y": 386.8,
           "text": "cording to a developer quoted in the demand for imported oil at current County residents are better able to",
           "bbox": [
             36.0,
@@ -6236,7 +6322,7 @@
           ]
         },
         {
-          "y": 399,
+          "y": 398.8,
           "text": "Standard, “Industry representatives levels for 110 years.” capitalize when they have local leaders",
           "bbox": [
             36.0,
@@ -6314,7 +6400,7 @@
           ]
         },
         {
-          "y": 411,
+          "y": 410.8,
           "text": "from Halliburton and Anadarko have For McKee, this is an unfathom- rooting for them. For example, Duch-",
           "bbox": [
             36.0,
@@ -6414,7 +6500,7 @@
           ]
         },
         {
-          "y": 423,
+          "y": 422.8,
           "text": "agreed to guarantee 60 percent occu- able opportunity for the people of Uin- esne is the second largest user of the",
           "bbox": [
             36.0,
@@ -6492,7 +6578,7 @@
           ]
         },
         {
-          "y": 435,
+          "y": 434.8,
           "text": "pancy of any hotel built on the site for tah County and beyond. “We could Enterprise Zone Tax Credit Program,",
           "bbox": [
             36.0,
@@ -6570,7 +6656,7 @@
           ]
         },
         {
-          "y": 447,
+          "y": 446.8,
           "text": "the next three years.” solve the nation’s energy needs. Utah created in 1988 for job creation and",
           "bbox": [
             36.0,
@@ -6648,7 +6734,7 @@
           ]
         },
         {
-          "y": 459,
+          "y": 458.8,
           "text": "While Uintah County is support- is going to play a major role.” new investment in counties with less",
           "bbox": [
             36.0,
@@ -6748,7 +6834,7 @@
           ]
         },
         {
-          "y": 471,
+          "y": 470.8,
           "text": "ing an ever-diversifying economy, than 50,000 residents. Businesses",
           "bbox": [
             36.0,
@@ -6804,13 +6890,13 @@
           ]
         },
         {
-          "y": 483,
-          "text": "McKee says the oil and gas sec- DUCHESNE: DIG IN that qualify receive helpful tax credits",
+          "y": 482.8,
+          "text": "McKee says the oil and gas sec- that qualify receive helpful tax credits",
           "bbox": [
             36.0,
             482.76116943359375,
             440.1277770996094,
-            490.8536682128906
+            490.76116943359375
           ],
           "spans": [
             {
@@ -6833,28 +6919,6 @@
                 482.76116943359375,
                 162.00161743164062,
                 490.76116943359375
-              ]
-            },
-            {
-              "size": 8.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Avenir-Black",
-              "color": 3829391,
-              "alpha": 255,
-              "ascender": 0.7559999823570251,
-              "descender": -0.2280000001192093,
-              "text": "DUCHESNE: DIG IN ",
-              "origin": [
-                174.0,
-                489.0
-              ],
-              "bbox": [
-                174.0,
-                482.8536682128906,
-                251.76797485351562,
-                490.8536682128906
               ]
             },
             {
@@ -6882,7 +6946,41 @@
           ]
         },
         {
-          "y": 495,
+          "y": 482.9,
+          "text": "DUCHESNE: DIG IN",
+          "bbox": [
+            174.0,
+            482.8536682128906,
+            251.76797485351562,
+            490.8536682128906
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Avenir-Black",
+              "color": 3829391,
+              "alpha": 255,
+              "ascender": 0.7559999823570251,
+              "descender": -0.2280000001192093,
+              "text": "DUCHESNE: DIG IN ",
+              "origin": [
+                174.0,
+                489.0
+              ],
+              "bbox": [
+                174.0,
+                482.8536682128906,
+                251.76797485351562,
+                490.8536682128906
+              ]
+            }
+          ]
+        },
+        {
+          "y": 494.8,
           "text": "tors remain the strongest and most Flanked by the Ashley National Forest and in Duchesne, “it has helped a lot,”",
           "bbox": [
             36.0,
@@ -6960,7 +7058,7 @@
           ]
         },
         {
-          "y": 507,
+          "y": 506.8,
           "text": "likely to grow. “They are driving our and covered with a patchwork of says Hansen. “It has been extremely",
           "bbox": [
             36.0,
@@ -7038,7 +7136,7 @@
           ]
         },
         {
-          "y": 519,
+          "y": 518.8,
           "text": "economy. Of the natural gas pro- farmland, Duchesne County is quiet well utilized.”",
           "bbox": [
             36.0,
@@ -7116,7 +7214,7 @@
           ]
         },
         {
-          "y": 531,
+          "y": 530.8,
           "text": "duced in Utah, 57 percent comes and rural, but underneath the verdant A new program from the Gover-",
           "bbox": [
             36.0,
@@ -7216,7 +7314,7 @@
           ]
         },
         {
-          "y": 543,
+          "y": 542.8,
           "text": "out of Uintah County,” at a value of hills hums an economic engine. The nor’s Ofﬁ ce of Economic Develop-",
           "bbox": [
             36.0,
@@ -7294,7 +7392,7 @@
           ]
         },
         {
-          "y": 555,
+          "y": 554.8,
           "text": "$1,160,209,692. McKee underscores combination of bountiful natural ment has given one company in Bal-",
           "bbox": [
             36.0,
@@ -7372,7 +7470,7 @@
           ]
         },
         {
-          "y": 567,
+          "y": 566.8,
           "text": "the importance of the basin’s natu- resources and an energetic leadership lard a huge boost. McMullin Heating",
           "bbox": [
             36.0,
@@ -7450,7 +7548,7 @@
           ]
         },
         {
-          "y": 579,
+          "y": 578.8,
           "text": "ral resources. “Only 15 percent of that uses every tool in the box have & Cooling was recently awarded",
           "bbox": [
             36.0,
@@ -7528,7 +7626,7 @@
           ]
         },
         {
-          "y": 588,
+          "y": 588.4,
           "text": "UINTAH BASIN ENTREPRENEURSHIP",
           "bbox": [
             450.0,
@@ -7562,7 +7660,7 @@
           ]
         },
         {
-          "y": 591,
+          "y": 590.8,
           "text": "the county is privately held, which kept the county on a growth pattern $50,000 from the Rural Fast Track",
           "bbox": [
             36.0,
@@ -7640,7 +7738,7 @@
           ]
         },
         {
-          "y": 597,
+          "y": 597.4,
           "text": "AND ENERGY RESEARCH CENTER",
           "bbox": [
             450.0,
@@ -7674,7 +7772,7 @@
           ]
         },
         {
-          "y": 603,
+          "y": 602.8,
           "text": "means we have low property taxes. for years and most sectors show no (RFT) program, which provides incen-",
           "bbox": [
             36.0,
@@ -7752,7 +7850,7 @@
           ]
         },
         {
-          "y": 615,
+          "y": 614.8,
           "text": "Seventeen percent is tribal. Our pub- sign of a slow down. All signs point to tives to help companies in small",
           "bbox": [
             36.0,
@@ -7830,7 +7928,7 @@
           ]
         },
         {
-          "y": 627,
+          "y": 626.8,
           "text": "lic lands are extremely important for encourage growth and development. towns grow and offer additional high-",
           "bbox": [
             36.0,
@@ -7908,7 +8006,7 @@
           ]
         },
         {
-          "y": 639,
+          "y": 638.8,
           "text": "recreation, agriculture and oil.” The strongest sector continues to er paying jobs. Amber McMullin, sec-",
           "bbox": [
             36.0,
@@ -8008,7 +8106,7 @@
           ]
         },
         {
-          "y": 651,
+          "y": 650.8,
           "text": "Big news came to the Basin be the oil and gas industry. Duch- retary for the company, says they will",
           "bbox": [
             36.0,
@@ -8108,7 +8206,7 @@
           ]
         },
         {
-          "y": 663,
+          "y": 662.8,
           "text": "in 2008, when the Bureau of Land esne is Utah’s largest producer of use the money for a new building for",
           "bbox": [
             36.0,
@@ -8186,7 +8284,7 @@
           ]
         },
         {
-          "y": 675,
+          "y": 674.8,
           "text": "Management released its Final Pro- crude oil at 39 percent of the State’s inventory and ofﬁ ce space, and hire",
           "bbox": [
             36.0,
@@ -8264,7 +8362,7 @@
           ]
         },
         {
-          "y": 687,
+          "y": 686.8,
           "text": "grammatic Environmental Impact output. “The durable nature of the more employees. In the past, “we",
           "bbox": [
             36.0,
@@ -8342,7 +8440,7 @@
           ]
         },
         {
-          "y": 699,
+          "y": 698.8,
           "text": "Statement (PEIS) for the Green River industry encourages supportive new have had to turn business away,” she",
           "bbox": [
             36.0,
@@ -8420,7 +8518,7 @@
           ]
         },
         {
-          "y": 711,
+          "y": 710.8,
           "text": "Formation, the largest oil shale de- businesses which are starting up at says, but not anymore. McMullin is a",
           "bbox": [
             36.0,
@@ -8498,7 +8596,7 @@
           ]
         },
         {
-          "y": 723,
+          "y": 722.8,
           "text": "posit in the world estimated at 800 breakneck speed,” says Irene Hans- company that has grown with the oil",
           "bbox": [
             36.0,
@@ -8576,7 +8674,7 @@
           ]
         },
         {
-          "y": 758,
+          "y": 757.7,
           "text": "75",
           "bbox": [
             569.1320190429688,
@@ -8632,7 +8730,7 @@
           ]
         },
         {
-          "y": 759,
+          "y": 759.3,
           "text": "WWW.BUSINESS.UTAH.GOV",
           "bbox": [
             472.9020080566406,
@@ -8673,7 +8771,7 @@
       "page_height": 801.0,
       "lines": [
         {
-          "y": 64,
+          "y": 63.9,
           "text": "NINE MILE PANEL",
           "bbox": [
             121.28600311279297,
@@ -8707,7 +8805,7 @@
           ]
         },
         {
-          "y": 75,
+          "y": 74.8,
           "text": "If the community is lacking in any- are second homes, enjoyed for one Dutch John area. The Report says",
           "bbox": [
             183.75,
@@ -8807,7 +8905,7 @@
           ]
         },
         {
-          "y": 87,
+          "y": 86.8,
           "text": "thing, says Hansen, it is more hotels week, two weeks, or months at a that the County “is working with Aspen",
           "bbox": [
             183.75,
@@ -8885,7 +8983,7 @@
           ]
         },
         {
-          "y": 99,
+          "y": 98.8,
           "text": "and retail and, as in Uintah County, time by Daggett part-timers. Rivers, LLC, a team of specialized",
           "bbox": [
             183.75,
@@ -8963,7 +9061,7 @@
           ]
         },
         {
-          "y": 111,
+          "y": 110.8,
           "text": "housing. “There is opportunity here. “Recreation is why a lot of people planners, to evaluate existing plans",
           "bbox": [
             183.75,
@@ -9063,7 +9161,7 @@
           ]
         },
         {
-          "y": 123,
+          "y": 122.8,
           "text": "We are losing 75 percent of our retail are here,” he says, “including full-time and improve the implementation",
           "bbox": [
             183.75,
@@ -9141,7 +9239,7 @@
           ]
         },
         {
-          "y": 135,
+          "y": 134.8,
           "text": "money to other towns. Wal-Mart serves locals.” Because the majority of Dag- ability and create a clearer path to",
           "bbox": [
             183.75,
@@ -9219,7 +9317,7 @@
           ]
         },
         {
-          "y": 147,
+          "y": 146.8,
           "text": "a region, but if they are not in your com- gett’s land is owned by the govern- develop a sustainable economy.”",
           "bbox": [
             183.75,
@@ -9297,7 +9395,7 @@
           ]
         },
         {
-          "y": 159,
+          "y": 158.8,
           "text": "munity, you lose.” Hansen adds that ment, most residents work for the Dutch John is just one region of many",
           "bbox": [
             183.75,
@@ -9375,7 +9473,7 @@
           ]
         },
         {
-          "y": 171,
+          "y": 170.8,
           "text": "the downtown is full, creating a need government in some capacity−in the that offers potential growth for tourism.",
           "bbox": [
             183.75,
@@ -9453,7 +9551,7 @@
           ]
         },
         {
-          "y": 183,
+          "y": 182.8,
           "text": "for infrastructure. “When you have fast ﬁ eld, the school district or local gov- Over the years, economic devel-",
           "bbox": [
             183.75,
@@ -9553,7 +9651,7 @@
           ]
         },
         {
-          "y": 195,
+          "y": 194.8,
           "text": "growth, you have to adapt. But we are ernment positions−or work in tourism opers have created festivals, events",
           "bbox": [
             183.75,
@@ -9631,7 +9729,7 @@
           ]
         },
         {
-          "y": 207,
+          "y": 206.8,
           "text": "meeting the challenge.” and travel. This predicament, or and races—anything to attract new",
           "bbox": [
             183.75,
@@ -9709,7 +9807,7 @@
           ]
         },
         {
-          "y": 219,
+          "y": 218.8,
           "text": "opportunity, means that leaders must visitors to its outdoor playground.",
           "bbox": [
             321.5,
@@ -9765,37 +9863,15 @@
           ]
         },
         {
-          "y": 231,
-          "text": "DESTINATION: DAGGETT get creative and use the county’s In August the county held the fourth",
+          "y": 230.8,
+          "text": "get creative and use the county’s In August the county held the fourth",
           "bbox": [
-            183.75,
+            321.5,
             230.76116943359375,
             587.1264038085938,
-            238.85365295410156
+            238.76116943359375
           ],
           "spans": [
-            {
-              "size": 8.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Avenir-Black",
-              "color": 3829391,
-              "alpha": 255,
-              "ascender": 0.7559999823570251,
-              "descender": -0.2280000001192093,
-              "text": "DESTINATION: DAGGETT",
-              "origin": [
-                183.75,
-                237.0
-              ],
-              "bbox": [
-                183.75,
-                230.85365295410156,
-                281.6716003417969,
-                238.85365295410156
-              ]
-            },
             {
               "size": 8.0,
               "flags": 4,
@@ -9843,7 +9919,41 @@
           ]
         },
         {
-          "y": 243,
+          "y": 230.9,
+          "text": "DESTINATION: DAGGETT",
+          "bbox": [
+            183.75,
+            230.85365295410156,
+            281.6716003417969,
+            238.85365295410156
+          ],
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Avenir-Black",
+              "color": 3829391,
+              "alpha": 255,
+              "ascender": 0.7559999823570251,
+              "descender": -0.2280000001192093,
+              "text": "DESTINATION: DAGGETT",
+              "origin": [
+                183.75,
+                237.0
+              ],
+              "bbox": [
+                183.75,
+                230.85365295410156,
+                281.6716003417969,
+                238.85365295410156
+              ]
+            }
+          ]
+        },
+        {
+          "y": 242.8,
           "text": "industry, providing AC at camp loca- Tucked in Utah’s eastern-most cor- natural beauty every way they can. Tower Rock 10K Run, an event cre-",
           "bbox": [
             45.0,
@@ -9943,7 +10053,7 @@
           ]
         },
         {
-          "y": 255,
+          "y": 254.8,
           "text": "tions, over mine computers and in ner with endless opportunities for While Daggett showed huge job ated to generate revenue which has",
           "bbox": [
             45.0,
@@ -10065,7 +10175,7 @@
           ]
         },
         {
-          "y": 267,
+          "y": 266.8,
           "text": "metal industrial buildings. But the recreation, less than 1,000 residents growth in early 2008, it was due to been a big success; this year there",
           "bbox": [
             45.0,
@@ -10165,7 +10275,7 @@
           ]
         },
         {
-          "y": 279,
+          "y": 278.8,
           "text": "company would not have qualiﬁ ed for and yet not one stoplight, Daggett pipeline construction and some were 71 runners and 200 attendants",
           "bbox": [
             45.0,
@@ -10265,7 +10375,7 @@
           ]
         },
         {
-          "y": 291,
+          "y": 290.8,
           "text": "the RFT award if it wasn’t for help from County is the place to get away. “In expansion in the travel and tourism to the post-run pasta bash.",
           "bbox": [
             45.0,
@@ -10365,8 +10475,8 @@
           ]
         },
         {
-          "y": 303,
-          "text": "local ofﬁ cials. the wintertime we are in our own industry. The latter is the key to the First Annual Fall Festival at",
+          "y": 302.8,
+          "text": "local ofﬁ cials. the wintertime we are in our own industry. The latter is the key to the The First Annual Fall Festival at",
           "bbox": [
             45.0,
             302.76116943359375,
@@ -10487,7 +10597,7 @@
           ]
         },
         {
-          "y": 315,
+          "y": 314.8,
           "text": "“We really appreciate Irene,” little world,” says Brian Raymond, region’s sustainable economy. the Daggett County Park in Manila,",
           "bbox": [
             45.0,
@@ -10609,7 +10719,7 @@
           ]
         },
         {
-          "y": 327,
+          "y": 326.8,
           "text": "says McMullin. “She is on the ball. County Commission Assistant and According to the Economic De- featuring entertainment, a dinner,",
           "bbox": [
             45.0,
@@ -10731,7 +10841,7 @@
           ]
         },
         {
-          "y": 339,
+          "y": 338.8,
           "text": "She made me realize that the RFT is Director of Economic Development. velopment Corporation of Utah, Dag- horseshoes and a beneﬁ t auction",
           "bbox": [
             45.0,
@@ -10831,7 +10941,7 @@
           ]
         },
         {
-          "y": 351,
+          "y": 350.8,
           "text": "for rural businesses and will help the Of the 1,186 residences in the area, gett County is working to update the has kicked off a new tradition for the",
           "bbox": [
             45.0,
@@ -10931,7 +11041,7 @@
           ]
         },
         {
-          "y": 363,
+          "y": 362.8,
           "text": "community.” Raymond estimates that 70 percent County General Plan including the county.",
           "bbox": [
             45.0,
@@ -11031,7 +11141,7 @@
           ]
         },
         {
-          "y": 461,
+          "y": 461.0,
           "text": "Newly",
           "bbox": [
             374.27337646484375,
@@ -11065,7 +11175,7 @@
           ]
         },
         {
-          "y": 471,
+          "y": 470.8,
           "text": "Easy to get here.",
           "bbox": [
             69.0447998046875,
@@ -11099,7 +11209,7 @@
           ]
         },
         {
-          "y": 476,
+          "y": 475.7,
           "text": "Renovated!",
           "bbox": [
             353.9195861816406,
@@ -11133,7 +11243,7 @@
           ]
         },
         {
-          "y": 503,
+          "y": 503.2,
           "text": "Hard to leave.",
           "bbox": [
             138.22689819335938,
@@ -11167,7 +11277,7 @@
           ]
         },
         {
-          "y": 539,
+          "y": 539.3,
           "text": "• Full-service resort hotel in the heart of Park City, Utah",
           "bbox": [
             66.81639862060547,
@@ -11201,7 +11311,7 @@
           ]
         },
         {
-          "y": 555,
+          "y": 554.5,
           "text": "• Located just 25 miles from the Salt Lake City",
           "bbox": [
             66.81639862060547,
@@ -11235,7 +11345,7 @@
           ]
         },
         {
-          "y": 570,
+          "y": 569.7,
           "text": "International Airport",
           "bbox": [
             76.81649780273438,
@@ -11269,7 +11379,7 @@
           ]
         },
         {
-          "y": 585,
+          "y": 584.9,
           "text": "• 12,000 square feet of meeting & banquet facilities",
           "bbox": [
             66.81639862060547,
@@ -11303,7 +11413,7 @@
           ]
         },
         {
-          "y": 600,
+          "y": 600.1,
           "text": "• 181 deluxe guest rooms & suites",
           "bbox": [
             66.81639862060547,
@@ -11337,7 +11447,7 @@
           ]
         },
         {
-          "y": 615,
+          "y": 615.3,
           "text": "• Three world-class ski resorts minutes away",
           "bbox": [
             66.81639862060547,
@@ -11371,7 +11481,7 @@
           ]
         },
         {
-          "y": 631,
+          "y": 630.5,
           "text": "• Plan a board meeting for 10 or an event for 500",
           "bbox": [
             66.81639862060547,
@@ -11405,8 +11515,8 @@
           ]
         },
         {
-          "y": 658,
-          "text": "z",
+          "y": 657.5,
+          "text": "z z",
           "bbox": [
             200.3521728515625,
             657.535400390625,
@@ -11461,7 +11571,7 @@
           ]
         },
         {
-          "y": 672,
+          "y": 672.2,
           "text": "For reservations,",
           "bbox": [
             256.2662048339844,
@@ -11495,7 +11605,7 @@
           ]
         },
         {
-          "y": 674,
+          "y": 674.2,
           "text": "For a customized",
           "bbox": [
             78.93990325927734,
@@ -11529,7 +11639,7 @@
           ]
         },
         {
-          "y": 687,
+          "y": 687.3,
           "text": "800.927.7694",
           "bbox": [
             246.43899536132812,
@@ -11563,7 +11673,7 @@
           ]
         },
         {
-          "y": 688,
+          "y": 687.6,
           "text": "meeting proposal,",
           "bbox": [
             75.86590576171875,
@@ -11597,7 +11707,7 @@
           ]
         },
         {
-          "y": 703,
+          "y": 702.8,
           "text": "yarrow@harthotels.com",
           "bbox": [
             63.230499267578125,
@@ -11631,7 +11741,7 @@
           ]
         },
         {
-          "y": 708,
+          "y": 708.2,
           "text": "www.YarrowResort.com",
           "bbox": [
             238.1020050048828,
@@ -11665,7 +11775,7 @@
           ]
         },
         {
-          "y": 715,
+          "y": 715.2,
           "text": "1800 Park Ave. | Park City, UT 84060",
           "bbox": [
             425.5199890136719,
@@ -11699,12 +11809,12 @@
           ]
         },
         {
-          "y": 758,
+          "y": 758.0,
           "text": "76",
           "bbox": [
             39.0,
-            757.57763671875,
-            54.136199951171875,
+            757.9571533203125,
+            48.736202239990234,
             766.9571533203125
           ],
           "spans": [
@@ -11729,33 +11839,11 @@
                 48.736202239990234,
                 766.9571533203125
               ]
-            },
-            {
-              "size": 9.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Gotham-Bold",
-              "color": 2301728,
-              "alpha": 255,
-              "ascender": 0.7300000190734863,
-              "descender": -0.16200000047683716,
-              "text": "  ",
-              "origin": [
-                48.73619842529297,
-                764.943115234375
-              ],
-              "bbox": [
-                48.73619842529297,
-                757.57763671875,
-                54.136199951171875,
-                766.57763671875
-              ]
             }
           ]
         },
         {
-          "y": 760,
+          "y": 759.6,
           "text": "BUSINESSinUTAH 2009",
           "bbox": [
             53.59640121459961,

@@ -7,7 +7,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 11,
+          "y": 11.0,
           "text": "Constituent Service Success Stories",
           "bbox": [
             45.349998474121094,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 104,
+          "y": 103.9,
           "text": "My office is here to help you with issues and problems you may be having with an agency of the",
           "bbox": [
             42.79999923706055,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 119,
+          "y": 118.9,
           "text": "federal government, such as obtaining benefits and services from the Department of Veterans",
           "bbox": [
             42.79999923706055,
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "y": 134,
+          "y": 133.9,
           "text": "Affairs, Social Security Administration, Centers for Medicare and Medicaid Services, as well as",
           "bbox": [
             42.79999923706055,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 149,
+          "y": 148.9,
           "text": "assistance with military service records and medals, and passport issues. I invite you to read",
           "bbox": [
             42.79999923706055,
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "y": 164,
+          "y": 163.9,
           "text": "the following examples of how I’ve been able to help constituents and if you are in need of",
           "bbox": [
             42.79999923706055,
@@ -211,11 +211,45 @@
           ]
         },
         {
-          "y": 179,
-          "text": "assistance, please visit my Help with a Federal Agency page to contact me directly.",
+          "y": 178.7,
+          "text": "Help with a Federal Agency",
+          "bbox": [
+            191.3000030517578,
+            178.7320098876953,
+            347.3479919433594,
+            196.90000915527344
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "FreeSansBold",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 1.159000039100647,
+              "descender": -0.35499998927116394,
+              "text": "Help with a Federal Agency",
+              "origin": [
+                191.3000030517578,
+                192.6400146484375
+              ],
+              "bbox": [
+                191.3000030517578,
+                178.7320098876953,
+                347.3479919433594,
+                196.90000915527344
+              ]
+            }
+          ]
+        },
+        {
+          "y": 178.9,
+          "text": "assistance, please visit my page to contact me directly.",
           "bbox": [
             42.79999923706055,
-            178.7320098876953,
+            178.94801330566406,
             500.5419616699219,
             198.14801025390625
           ],
@@ -244,28 +278,6 @@
             },
             {
               "size": 12.0,
-              "flags": 20,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "FreeSansBold",
-              "color": 255,
-              "alpha": 255,
-              "ascender": 1.159000039100647,
-              "descender": -0.35499998927116394,
-              "text": "Help with a Federal Agency",
-              "origin": [
-                191.3000030517578,
-                192.6400146484375
-              ],
-              "bbox": [
-                191.3000030517578,
-                178.7320098876953,
-                347.3479919433594,
-                196.90000915527344
-              ]
-            },
-            {
-              "size": 12.0,
               "flags": 4,
               "bidi": 0,
               "char_flags": 16,
@@ -289,37 +301,15 @@
           ]
         },
         {
-          "y": 209,
+          "y": 208.7,
           "text": "Melissa McIlrath, Stockton",
           "bbox": [
-            42.79999923706055,
+            50.040000915527344,
             208.7320098876953,
             200.74798583984375,
-            228.14801025390625
+            226.90000915527344
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "FreeSans",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.1410000324249268,
-              "descender": -0.45899999141693115,
-              "text": "  ",
-              "origin": [
-                42.79999923706055,
-                222.6400146484375
-              ],
-              "bbox": [
-                42.79999923706055,
-                208.94801330566406,
-                49.47200012207031,
-                228.14801025390625
-              ]
-            },
             {
               "size": 12.0,
               "flags": 20,
@@ -345,7 +335,7 @@
           ]
         },
         {
-          "y": 254,
+          "y": 253.9,
           "text": "Ms. McIlrath contacted my office in June 2008 because she had yet to receive benefits from the",
           "bbox": [
             42.79999923706055,
@@ -379,7 +369,7 @@
           ]
         },
         {
-          "y": 269,
+          "y": 268.9,
           "text": "Social Security Administration seven months after they determined she was eligible. My staff",
           "bbox": [
             42.79999923706055,
@@ -413,7 +403,7 @@
           ]
         },
         {
-          "y": 284,
+          "y": 283.9,
           "text": "immediately contacted the local Social Security office and explained Ms. McIlrath’s situation.",
           "bbox": [
             42.79999923706055,
@@ -447,7 +437,7 @@
           ]
         },
         {
-          "y": 344,
+          "y": 343.9,
           "text": "Upon making an initial inquiry, my office was able to determine that Ms. McIlrath’s benefit",
           "bbox": [
             42.79999923706055,
@@ -481,7 +471,7 @@
           ]
         },
         {
-          "y": 359,
+          "y": 358.9,
           "text": "payment had been issued twice to an incorrect address. As it turned out, she was eligible to",
           "bbox": [
             42.79999923706055,
@@ -515,7 +505,7 @@
           ]
         },
         {
-          "y": 374,
+          "y": 373.9,
           "text": "receive benefits in excess of $45,000. A swift correction to the problem was made and Ms.",
           "bbox": [
             42.79999923706055,
@@ -549,7 +539,7 @@
           ]
         },
         {
-          "y": 389,
+          "y": 388.9,
           "text": "McIlrath received the back payments.",
           "bbox": [
             42.79999923706055,
@@ -583,37 +573,15 @@
           ]
         },
         {
-          "y": 419,
+          "y": 418.7,
           "text": "Paula Anderson, Brentwood",
           "bbox": [
-            42.79999923706055,
+            50.040000915527344,
             418.7320251464844,
             210.73199462890625,
-            438.14801025390625
+            436.9000244140625
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "FreeSans",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.1410000324249268,
-              "descender": -0.45899999141693115,
-              "text": "  ",
-              "origin": [
-                42.79999923706055,
-                432.6400146484375
-              ],
-              "bbox": [
-                42.79999923706055,
-                418.9480285644531,
-                49.47200012207031,
-                438.14801025390625
-              ]
-            },
             {
               "size": 12.0,
               "flags": 20,
@@ -639,7 +607,7 @@
           ]
         },
         {
-          "y": 464,
+          "y": 463.9,
           "text": "Mrs. Anderson first contacted my office in June 2008 regarding Social Security disability",
           "bbox": [
             42.79999923706055,
@@ -673,7 +641,7 @@
           ]
         },
         {
-          "y": 479,
+          "y": 478.9,
           "text": "benefits. The Social Security Administration had ruled the previous April that Mrs. Anderson",
           "bbox": [
             42.79999923706055,
@@ -707,7 +675,7 @@
           ]
         },
         {
-          "y": 494,
+          "y": 493.9,
           "text": "was entitled to benefits, but to date she had not received any.",
           "bbox": [
             42.79999923706055,
@@ -741,7 +709,7 @@
           ]
         },
         {
-          "y": 554,
+          "y": 553.9,
           "text": "After waiting more than 60 days for her settlement payment, Mrs. Anderson and her family were",
           "bbox": [
             42.79999923706055,
@@ -775,7 +743,7 @@
           ]
         },
         {
-          "y": 569,
+          "y": 568.9,
           "text": "encountering financial straits and were close to losing their home.",
           "bbox": [
             42.79999923706055,
@@ -809,7 +777,7 @@
           ]
         },
         {
-          "y": 629,
+          "y": 628.9,
           "text": "My staff called the local Social Security Administration office and Mrs. Anderson’s payment was",
           "bbox": [
             42.79999923706055,
@@ -843,7 +811,7 @@
           ]
         },
         {
-          "y": 644,
+          "y": 643.9,
           "text": "expedited. Soon thereafter, she received a $40,000 lump sum payment.",
           "bbox": [
             42.79999923706055,
@@ -877,7 +845,7 @@
           ]
         },
         {
-          "y": 704,
+          "y": 703.9,
           "text": "Mrs. Anderson was thankful to receive the funds and said, \"We really appreciated it and the",
           "bbox": [
             42.79999923706055,
@@ -911,7 +879,7 @@
           ]
         },
         {
-          "y": 719,
+          "y": 718.9,
           "text": "Congressman totally jumping on it as we almost lost our home.\"",
           "bbox": [
             42.79999923706055,
@@ -945,37 +913,15 @@
           ]
         },
         {
-          "y": 749,
+          "y": 748.7,
           "text": "Frank Alvarez, Tracy",
           "bbox": [
-            42.79999923706055,
+            50.040000915527344,
             748.7319946289062,
             167.42398071289062,
-            768.1480102539062
+            766.9000244140625
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "FreeSans",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.1410000324249268,
-              "descender": -0.45899999141693115,
-              "text": "  ",
-              "origin": [
-                42.79999923706055,
-                762.6400146484375
-              ],
-              "bbox": [
-                42.79999923706055,
-                748.947998046875,
-                49.47200012207031,
-                768.1480102539062
-              ]
-            },
             {
               "size": 12.0,
               "flags": 20,
@@ -1001,7 +947,7 @@
           ]
         },
         {
-          "y": 802,
+          "y": 801.8,
           "text": "1 / 6",
           "bbox": [
             524.8900146484375,
@@ -1042,7 +988,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 11,
+          "y": 11.0,
           "text": "Constituent Service Success Stories",
           "bbox": [
             42.79999923706055,
@@ -1076,7 +1022,7 @@
           ]
         },
         {
-          "y": 104,
+          "y": 103.9,
           "text": "Mr. Alvarez is a Vietnam veteran who was awarded a non-service connected pension by the VA",
           "bbox": [
             42.79999923706055,
@@ -1110,7 +1056,7 @@
           ]
         },
         {
-          "y": 119,
+          "y": 118.9,
           "text": "in 2004. The VA determined that he was permanently and totally disabled and unable to obtain",
           "bbox": [
             42.79999923706055,
@@ -1144,7 +1090,7 @@
           ]
         },
         {
-          "y": 134,
+          "y": 133.9,
           "text": "gainful employment.",
           "bbox": [
             42.79999923706055,
@@ -1178,7 +1124,7 @@
           ]
         },
         {
-          "y": 194,
+          "y": 193.9,
           "text": "He is also the father of two young boys, one biological and one adopted. He took them both in",
           "bbox": [
             42.79999923706055,
@@ -1212,7 +1158,7 @@
           ]
         },
         {
-          "y": 209,
+          "y": 208.9,
           "text": "when their mother passed away in August 2005. Due to their mother’s death, each of the boys",
           "bbox": [
             42.79999923706055,
@@ -1246,7 +1192,7 @@
           ]
         },
         {
-          "y": 224,
+          "y": 223.9,
           "text": "receives a small monthly survivor benefit from the Social Security Administration. The VA",
           "bbox": [
             42.79999923706055,
@@ -1280,7 +1226,7 @@
           ]
         },
         {
-          "y": 239,
+          "y": 238.9,
           "text": "considered the children’s survivor benefits as part of Mr. Alvarez’s income and thus determined",
           "bbox": [
             42.79999923706055,
@@ -1314,7 +1260,7 @@
           ]
         },
         {
-          "y": 254,
+          "y": 253.9,
           "text": "that his monthly income of just under $17,000 exceeded the VA limit for pension eligibility –",
           "bbox": [
             42.79999923706055,
@@ -1348,7 +1294,7 @@
           ]
         },
         {
-          "y": 269,
+          "y": 268.9,
           "text": "even though the limit was exceeded by just $490.",
           "bbox": [
             42.79999923706055,
@@ -1382,7 +1328,7 @@
           ]
         },
         {
-          "y": 329,
+          "y": 328.9,
           "text": "Mr. Alvarez contacted my office in January 2008 after the VA made this determination and",
           "bbox": [
             42.79999923706055,
@@ -1416,7 +1362,7 @@
           ]
         },
         {
-          "y": 344,
+          "y": 343.9,
           "text": "informed him of the need to repay what the VA considered an overage.",
           "bbox": [
             42.79999923706055,
@@ -1450,7 +1396,7 @@
           ]
         },
         {
-          "y": 404,
+          "y": 403.9,
           "text": "My staff helped Mr. Alvarez submit his request for a waiver of overpayment to the VA Pension",
           "bbox": [
             42.79999923706055,
@@ -1484,7 +1430,7 @@
           ]
         },
         {
-          "y": 419,
+          "y": 418.9,
           "text": "Center. After evaluating the case and the circumstances, the VA granted Mr. Alvarez’s waiver",
           "bbox": [
             42.79999923706055,
@@ -1518,7 +1464,7 @@
           ]
         },
         {
-          "y": 434,
+          "y": 433.9,
           "text": "request. However, due to a bureaucratic snafu the VA continued to collect money from Mr.",
           "bbox": [
             42.79999923706055,
@@ -1552,7 +1498,7 @@
           ]
         },
         {
-          "y": 449,
+          "y": 448.9,
           "text": "Alvarez.",
           "bbox": [
             42.79999923706055,
@@ -1586,7 +1532,7 @@
           ]
         },
         {
-          "y": 509,
+          "y": 508.9,
           "text": "My staff then contacted the Pension Center to get a formal letter issued to the VA Debt",
           "bbox": [
             42.79999923706055,
@@ -1620,7 +1566,7 @@
           ]
         },
         {
-          "y": 524,
+          "y": 523.9,
           "text": "Management Center, so that Mr. Alvarez’s records would reflect that the overpayment was",
           "bbox": [
             42.79999923706055,
@@ -1654,7 +1600,7 @@
           ]
         },
         {
-          "y": 539,
+          "y": 538.9,
           "text": "waived. The Debt Management Center updated their records and Mr. Alvarez will now receive",
           "bbox": [
             42.79999923706055,
@@ -1688,7 +1634,7 @@
           ]
         },
         {
-          "y": 554,
+          "y": 553.9,
           "text": "his pension in the full amount as well as a refund of the money that was previously deducted.",
           "bbox": [
             42.79999923706055,
@@ -1722,37 +1668,15 @@
           ]
         },
         {
-          "y": 584,
+          "y": 583.7,
           "text": "Gary Fulkerson, Acampo",
           "bbox": [
-            42.79999923706055,
+            50.040000915527344,
             583.7319946289062,
             192.083984375,
-            603.1480102539062
+            601.9000244140625
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "FreeSans",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.1410000324249268,
-              "descender": -0.45899999141693115,
-              "text": "  ",
-              "origin": [
-                42.79999923706055,
-                597.6400146484375
-              ],
-              "bbox": [
-                42.79999923706055,
-                583.947998046875,
-                49.47200012207031,
-                603.1480102539062
-              ]
-            },
             {
               "size": 12.0,
               "flags": 20,
@@ -1778,7 +1702,7 @@
           ]
         },
         {
-          "y": 629,
+          "y": 628.9,
           "text": "Mr. Fulkerson contacted my office in April 2008 after his wife received a letter from the VA",
           "bbox": [
             42.79999923706055,
@@ -1812,7 +1736,7 @@
           ]
         },
         {
-          "y": 644,
+          "y": 643.9,
           "text": "stating that he was deceased and she would need to repay $5,520 in veterans benefits.",
           "bbox": [
             42.79999923706055,
@@ -1846,7 +1770,7 @@
           ]
         },
         {
-          "y": 704,
+          "y": 703.9,
           "text": "My staff immediately contacted the VA and was informed that the VA’s records indicated that",
           "bbox": [
             42.79999923706055,
@@ -1880,7 +1804,7 @@
           ]
         },
         {
-          "y": 719,
+          "y": 718.9,
           "text": "Mr. Fulkerson had passed away in February of 2008. Fortunately, my staff was able to provide",
           "bbox": [
             42.79999923706055,
@@ -1914,7 +1838,7 @@
           ]
         },
         {
-          "y": 734,
+          "y": 733.9,
           "text": "the VA with a copy of Mr. Fulkerson’s signed privacy release form, indicating that in fact Mr.",
           "bbox": [
             42.79999923706055,
@@ -1948,7 +1872,7 @@
           ]
         },
         {
-          "y": 749,
+          "y": 748.9,
           "text": "Fulkerson is alive and well and entitled to continue receiving VA benefits.",
           "bbox": [
             42.79999923706055,
@@ -1982,7 +1906,7 @@
           ]
         },
         {
-          "y": 802,
+          "y": 801.8,
           "text": "2 / 6",
           "bbox": [
             524.8900146484375,
@@ -2023,7 +1947,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 11,
+          "y": 11.0,
           "text": "Constituent Service Success Stories",
           "bbox": [
             42.79999923706055,
@@ -2057,7 +1981,7 @@
           ]
         },
         {
-          "y": 104,
+          "y": 103.9,
           "text": "Mr. Fulkerson’s benefits were reinstated and the VA will now require a certified death certificate",
           "bbox": [
             42.79999923706055,
@@ -2091,7 +2015,7 @@
           ]
         },
         {
-          "y": 119,
+          "y": 118.9,
           "text": "from Mr. Fulkerson’s family before terminating his benefits.",
           "bbox": [
             42.79999923706055,
@@ -2125,37 +2049,15 @@
           ]
         },
         {
-          "y": 149,
+          "y": 148.7,
           "text": "Antoinette Muti, Pleasanton",
           "bbox": [
-            42.79999923706055,
+            50.040000915527344,
             148.7320098876953,
             208.05599975585938,
-            168.14801025390625
+            166.90000915527344
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "FreeSans",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.1410000324249268,
-              "descender": -0.45899999141693115,
-              "text": "  ",
-              "origin": [
-                42.79999923706055,
-                162.6400146484375
-              ],
-              "bbox": [
-                42.79999923706055,
-                148.94801330566406,
-                49.47200012207031,
-                168.14801025390625
-              ]
-            },
             {
               "size": 12.0,
               "flags": 20,
@@ -2181,7 +2083,7 @@
           ]
         },
         {
-          "y": 194,
+          "y": 193.9,
           "text": "Mrs. Muti is the surviving spouse of Mr. Michael Muti, a Merchant Marine who served during",
           "bbox": [
             42.79999923706055,
@@ -2215,7 +2117,7 @@
           ]
         },
         {
-          "y": 209,
+          "y": 208.9,
           "text": "World War II. In February 2007, after Mr. Muti passed away, Mrs. Muti applied for a VA pension",
           "bbox": [
             42.79999923706055,
@@ -2249,7 +2151,7 @@
           ]
         },
         {
-          "y": 224,
+          "y": 223.9,
           "text": "as the surviving spouse of a veteran. She had already spent the previous four months waiting",
           "bbox": [
             42.79999923706055,
@@ -2283,7 +2185,7 @@
           ]
         },
         {
-          "y": 239,
+          "y": 238.9,
           "text": "for the Coast Guard to provide her with documentation verifying her husband’s service, which",
           "bbox": [
             42.79999923706055,
@@ -2317,7 +2219,7 @@
           ]
         },
         {
-          "y": 254,
+          "y": 253.9,
           "text": "she needed in order to submit her claim to the VA.",
           "bbox": [
             42.79999923706055,
@@ -2351,7 +2253,7 @@
           ]
         },
         {
-          "y": 314,
+          "y": 313.9,
           "text": "She reached out to my office in October 2007 after having received letter after letter from the",
           "bbox": [
             42.79999923706055,
@@ -2385,7 +2287,7 @@
           ]
         },
         {
-          "y": 329,
+          "y": 328.9,
           "text": "VA apologizing for the delay in processing her claim. My staff contacted the VA Pension Center",
           "bbox": [
             42.79999923706055,
@@ -2419,7 +2321,7 @@
           ]
         },
         {
-          "y": 344,
+          "y": 343.9,
           "text": "and requested the expedited processing of Ms. Muti’s claim. The VA approved Ms. Muti’s claim",
           "bbox": [
             42.79999923706055,
@@ -2453,7 +2355,7 @@
           ]
         },
         {
-          "y": 359,
+          "y": 358.9,
           "text": "for spousal pension for ongoing monthly benefits as well as a retroactive payment.",
           "bbox": [
             42.79999923706055,
@@ -2487,7 +2389,7 @@
           ]
         },
         {
-          "y": 419,
+          "y": 418.9,
           "text": "I’m grateful for the opportunity to help Mrs. Muti and pleased that she will now receive monthly",
           "bbox": [
             42.79999923706055,
@@ -2521,7 +2423,7 @@
           ]
         },
         {
-          "y": 434,
+          "y": 433.9,
           "text": "payments and a retroactive payment to account for the time she waited for the claim to be",
           "bbox": [
             42.79999923706055,
@@ -2555,7 +2457,7 @@
           ]
         },
         {
-          "y": 449,
+          "y": 448.9,
           "text": "processed.",
           "bbox": [
             42.79999923706055,
@@ -2589,37 +2491,15 @@
           ]
         },
         {
-          "y": 479,
+          "y": 478.7,
           "text": "Dennis Wilson, Acampo",
           "bbox": [
-            42.79999923706055,
+            50.040000915527344,
             478.7320251464844,
             186.73199462890625,
-            498.14801025390625
+            496.9000244140625
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "FreeSans",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.1410000324249268,
-              "descender": -0.45899999141693115,
-              "text": "  ",
-              "origin": [
-                42.79999923706055,
-                492.6400146484375
-              ],
-              "bbox": [
-                42.79999923706055,
-                478.9480285644531,
-                49.47200012207031,
-                498.14801025390625
-              ]
-            },
             {
               "size": 12.0,
               "flags": 20,
@@ -2645,7 +2525,7 @@
           ]
         },
         {
-          "y": 524,
+          "y": 523.9,
           "text": "Mr. Wilson arrived at my office in July of 2007 after driving from his home in Acampo all the way",
           "bbox": [
             42.79999923706055,
@@ -2679,7 +2559,7 @@
           ]
         },
         {
-          "y": 539,
+          "y": 538.9,
           "text": "to the Pleasanton. In December 2006, he was denied a claim for social security benefits despite",
           "bbox": [
             42.79999923706055,
@@ -2713,7 +2593,7 @@
           ]
         },
         {
-          "y": 554,
+          "y": 553.9,
           "text": "both having suffered a stroke which impairs his vision and facing vascular dementia which",
           "bbox": [
             42.79999923706055,
@@ -2747,7 +2627,7 @@
           ]
         },
         {
-          "y": 569,
+          "y": 568.9,
           "text": "prevents him from working.",
           "bbox": [
             42.79999923706055,
@@ -2781,7 +2661,7 @@
           ]
         },
         {
-          "y": 629,
+          "y": 628.9,
           "text": "My office was able to expedite a hearing date for Mr. Wilson, which was held in January. In",
           "bbox": [
             42.79999923706055,
@@ -2815,7 +2695,7 @@
           ]
         },
         {
-          "y": 644,
+          "y": 643.9,
           "text": "March, Mr. Wilson still hadn’t heard anything and contacted the office again, asking for",
           "bbox": [
             42.79999923706055,
@@ -2849,7 +2729,7 @@
           ]
         },
         {
-          "y": 659,
+          "y": 658.9,
           "text": "assistance with securing a decision as soon as possible. He was concerned about being able to",
           "bbox": [
             42.79999923706055,
@@ -2883,7 +2763,7 @@
           ]
         },
         {
-          "y": 674,
+          "y": 673.9,
           "text": "make his April mortgage payment.",
           "bbox": [
             42.79999923706055,
@@ -2917,7 +2797,7 @@
           ]
         },
         {
-          "y": 734,
+          "y": 733.9,
           "text": "My office contacted the Social Security Administration for a status check and we were told that",
           "bbox": [
             42.79999923706055,
@@ -2951,7 +2831,7 @@
           ]
         },
         {
-          "y": 749,
+          "y": 748.9,
           "text": "Mr. Wilson was determined to be disabled after his hearing in January. He was also determined",
           "bbox": [
             42.79999923706055,
@@ -2985,7 +2865,7 @@
           ]
         },
         {
-          "y": 802,
+          "y": 801.8,
           "text": "3 / 6",
           "bbox": [
             524.8900146484375,
@@ -3026,7 +2906,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 11,
+          "y": 11.0,
           "text": "Constituent Service Success Stories",
           "bbox": [
             42.79999923706055,
@@ -3060,7 +2940,7 @@
           ]
         },
         {
-          "y": 74,
+          "y": 73.9,
           "text": "to be eligible for retroactive payments due to the date of his disability.",
           "bbox": [
             42.79999923706055,
@@ -3094,7 +2974,7 @@
           ]
         },
         {
-          "y": 134,
+          "y": 133.9,
           "text": "Mr. Wilson received a lump sum payment in and is now receiving regular benefits on a monthly",
           "bbox": [
             42.79999923706055,
@@ -3128,7 +3008,7 @@
           ]
         },
         {
-          "y": 149,
+          "y": 148.9,
           "text": "basis. He was very thankful for the help and I’m honored that we were able to assist him.",
           "bbox": [
             42.79999923706055,
@@ -3162,37 +3042,15 @@
           ]
         },
         {
-          "y": 179,
+          "y": 178.7,
           "text": "Michael Carney, Stockton",
           "bbox": [
-            42.79999923706055,
+            50.040000915527344,
             178.7320098876953,
             196.07998657226562,
-            198.14801025390625
+            196.90000915527344
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "FreeSans",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.1410000324249268,
-              "descender": -0.45899999141693115,
-              "text": "  ",
-              "origin": [
-                42.79999923706055,
-                192.6400146484375
-              ],
-              "bbox": [
-                42.79999923706055,
-                178.94801330566406,
-                49.47200012207031,
-                198.14801025390625
-              ]
-            },
             {
               "size": 12.0,
               "flags": 20,
@@ -3218,7 +3076,7 @@
           ]
         },
         {
-          "y": 224,
+          "y": 223.9,
           "text": "Mr. Carney, a Vietnam veteran, originally contacted my office in September 2007 to request",
           "bbox": [
             42.79999923706055,
@@ -3252,7 +3110,7 @@
           ]
         },
         {
-          "y": 239,
+          "y": 238.9,
           "text": "assistance with an appeal he had filed in response to the VA’s denial of his Post Traumatic",
           "bbox": [
             42.79999923706055,
@@ -3286,7 +3144,7 @@
           ]
         },
         {
-          "y": 254,
+          "y": 253.9,
           "text": "Stress Disorder claim. He was initially granted a 30 percent disability rating for PTSD, but",
           "bbox": [
             42.79999923706055,
@@ -3320,7 +3178,7 @@
           ]
         },
         {
-          "y": 269,
+          "y": 268.9,
           "text": "believed that it should have been more.",
           "bbox": [
             42.79999923706055,
@@ -3354,7 +3212,7 @@
           ]
         },
         {
-          "y": 329,
+          "y": 328.9,
           "text": "Mr. Carney is a former employee of San Joaquin County. He was granted a medical retirement",
           "bbox": [
             42.79999923706055,
@@ -3388,7 +3246,7 @@
           ]
         },
         {
-          "y": 344,
+          "y": 343.9,
           "text": "as a result of his disabilities. According to Mr. Carney, the Social Security Administration also",
           "bbox": [
             42.79999923706055,
@@ -3422,7 +3280,7 @@
           ]
         },
         {
-          "y": 359,
+          "y": 358.9,
           "text": "recognizes him as permanently disabled.",
           "bbox": [
             42.79999923706055,
@@ -3456,7 +3314,7 @@
           ]
         },
         {
-          "y": 419,
+          "y": 418.9,
           "text": "After reviewing the case, I worked with my staff to write a letter on Mr. Carney’s behalf to the VA",
           "bbox": [
             42.79999923706055,
@@ -3490,7 +3348,7 @@
           ]
         },
         {
-          "y": 434,
+          "y": 433.9,
           "text": "Board of Veterans Appeals, requesting a review of his situation.",
           "bbox": [
             42.79999923706055,
@@ -3524,7 +3382,7 @@
           ]
         },
         {
-          "y": 494,
+          "y": 493.9,
           "text": "I was lucky enough to meet Mr. Carney at a Congress at Your Corner event I held in Manteca.",
           "bbox": [
             42.79999923706055,
@@ -3558,7 +3416,7 @@
           ]
         },
         {
-          "y": 509,
+          "y": 508.9,
           "text": "When we talked at the time, I told him that I was proud to be able to advocate on his behalf and",
           "bbox": [
             42.79999923706055,
@@ -3592,7 +3450,7 @@
           ]
         },
         {
-          "y": 524,
+          "y": 523.9,
           "text": "in return, he told me, \"Without your assistance, I'd still be where I was eight years ago: nowhere",
           "bbox": [
             42.79999923706055,
@@ -3648,7 +3506,7 @@
           ]
         },
         {
-          "y": 539,
+          "y": 538.9,
           "text": ".\"",
           "bbox": [
             42.79999923706055,
@@ -3682,37 +3540,15 @@
           ]
         },
         {
-          "y": 569,
+          "y": 568.7,
           "text": "Evelyn Jansen, Discovery Bay",
           "bbox": [
-            42.79999923706055,
+            50.040000915527344,
             568.7319946289062,
             222.79196166992188,
-            588.1480102539062
+            586.9000244140625
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "FreeSans",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.1410000324249268,
-              "descender": -0.45899999141693115,
-              "text": "  ",
-              "origin": [
-                42.79999923706055,
-                582.6400146484375
-              ],
-              "bbox": [
-                42.79999923706055,
-                568.947998046875,
-                49.47200012207031,
-                588.1480102539062
-              ]
-            },
             {
               "size": 12.0,
               "flags": 20,
@@ -3738,7 +3574,7 @@
           ]
         },
         {
-          "y": 614,
+          "y": 613.9,
           "text": "Mrs. Jansen of Discovery Bay contacted my office to seek assistance in dealing with the Social",
           "bbox": [
             42.79999923706055,
@@ -3772,7 +3608,7 @@
           ]
         },
         {
-          "y": 629,
+          "y": 628.9,
           "text": "Security Administration. Her husband was receiving Social Security disability benefits until he",
           "bbox": [
             42.79999923706055,
@@ -3806,7 +3642,7 @@
           ]
         },
         {
-          "y": 644,
+          "y": 643.9,
           "text": "passed away on July 21, 2007. With the passing of her husband, Mrs. Jansen was without any",
           "bbox": [
             42.79999923706055,
@@ -3840,7 +3676,7 @@
           ]
         },
         {
-          "y": 659,
+          "y": 658.9,
           "text": "source of income and her monthly bills were becoming more than she could handle.",
           "bbox": [
             42.79999923706055,
@@ -3874,7 +3710,7 @@
           ]
         },
         {
-          "y": 719,
+          "y": 718.9,
           "text": "Mrs. Jansen thought she would continue to receive her husband’s benefits but the local Social",
           "bbox": [
             42.79999923706055,
@@ -3908,7 +3744,7 @@
           ]
         },
         {
-          "y": 734,
+          "y": 733.9,
           "text": "Security office informed her that she was ineligible because of her age. She was 57 at the",
           "bbox": [
             42.79999923706055,
@@ -3942,7 +3778,7 @@
           ]
         },
         {
-          "y": 749,
+          "y": 748.9,
           "text": "time. This news couldn’t have come at a worse time given that she was facing unpaid medical",
           "bbox": [
             42.79999923706055,
@@ -3976,7 +3812,7 @@
           ]
         },
         {
-          "y": 802,
+          "y": 801.8,
           "text": "4 / 6",
           "bbox": [
             524.8900146484375,
@@ -4017,7 +3853,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 11,
+          "y": 11.0,
           "text": "Constituent Service Success Stories",
           "bbox": [
             42.79999923706055,
@@ -4051,7 +3887,7 @@
           ]
         },
         {
-          "y": 74,
+          "y": 73.9,
           "text": "bills and mounting financial hardship.",
           "bbox": [
             42.79999923706055,
@@ -4085,7 +3921,7 @@
           ]
         },
         {
-          "y": 134,
+          "y": 133.9,
           "text": "I worked with my staff to make an inquiry on Mrs. Jansen’s behalf. We were told that, in fact,",
           "bbox": [
             42.79999923706055,
@@ -4119,7 +3955,7 @@
           ]
         },
         {
-          "y": 149,
+          "y": 148.9,
           "text": "Mrs. Jansen is not entitled to Social Security disability because of her age. However, due to the",
           "bbox": [
             42.79999923706055,
@@ -4153,7 +3989,7 @@
           ]
         },
         {
-          "y": 164,
+          "y": 163.9,
           "text": "inquiry, the Social Security Administration determined that she was entitled to nearly $13,000 in",
           "bbox": [
             42.79999923706055,
@@ -4187,7 +4023,7 @@
           ]
         },
         {
-          "y": 179,
+          "y": 178.9,
           "text": "unpaid disability benefits for her late husband.",
           "bbox": [
             42.79999923706055,
@@ -4221,7 +4057,7 @@
           ]
         },
         {
-          "y": 239,
+          "y": 238.9,
           "text": "Mrs. Jansen was overwhelmed upon hearing the news and I’m proud that we were able to",
           "bbox": [
             42.79999923706055,
@@ -4255,7 +4091,7 @@
           ]
         },
         {
-          "y": 254,
+          "y": 253.9,
           "text": "assist her.",
           "bbox": [
             42.79999923706055,
@@ -4289,37 +4125,15 @@
           ]
         },
         {
-          "y": 284,
+          "y": 283.7,
           "text": "Robert Vannatter, Pleasanton",
           "bbox": [
-            42.79999923706055,
+            50.040000915527344,
             283.7320251464844,
             218.07598876953125,
-            303.14801025390625
+            301.9000244140625
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 4,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "FreeSans",
-              "color": 0,
-              "alpha": 255,
-              "ascender": 1.1410000324249268,
-              "descender": -0.45899999141693115,
-              "text": "  ",
-              "origin": [
-                42.79999923706055,
-                297.6400146484375
-              ],
-              "bbox": [
-                42.79999923706055,
-                283.9480285644531,
-                49.47200012207031,
-                303.14801025390625
-              ]
-            },
             {
               "size": 12.0,
               "flags": 20,
@@ -4345,7 +4159,7 @@
           ]
         },
         {
-          "y": 329,
+          "y": 328.9,
           "text": "I originally met Mr. Vannatter when I went to the Pleasanton Gardens Senior Center. He asked",
           "bbox": [
             42.79999923706055,
@@ -4379,7 +4193,7 @@
           ]
         },
         {
-          "y": 344,
+          "y": 343.9,
           "text": "me for help in verifying the medals he earned during his service with the U.S. Army during",
           "bbox": [
             42.79999923706055,
@@ -4413,7 +4227,7 @@
           ]
         },
         {
-          "y": 359,
+          "y": 358.9,
           "text": "World War II.",
           "bbox": [
             42.79999923706055,
@@ -4447,7 +4261,7 @@
           ]
         },
         {
-          "y": 389,
+          "y": 388.9,
           "text": "As a member of the 507th Parachute Infantry Regiment, Mr. Vannatter participated in the Allied",
           "bbox": [
             42.79999923706055,
@@ -4481,7 +4295,7 @@
           ]
         },
         {
-          "y": 404,
+          "y": 403.9,
           "text": "operations at Normandy. He said that during the battle he lost a pair of pants. I didn’t ask him",
           "bbox": [
             42.79999923706055,
@@ -4515,7 +4329,7 @@
           ]
         },
         {
-          "y": 419,
+          "y": 418.9,
           "text": "whether they were the ones he was wearing at the time.",
           "bbox": [
             42.79999923706055,
@@ -4549,7 +4363,7 @@
           ]
         },
         {
-          "y": 479,
+          "y": 478.9,
           "text": "Unbeknownst to him, the pants were recovered, and, years later, were placed on display at a",
           "bbox": [
             42.79999923706055,
@@ -4583,7 +4397,7 @@
           ]
         },
         {
-          "y": 494,
+          "y": 493.9,
           "text": "museum in France as part of a World War II exhibit.",
           "bbox": [
             42.79999923706055,
@@ -4617,7 +4431,7 @@
           ]
         },
         {
-          "y": 524,
+          "y": 523.9,
           "text": "Recently, a visiting scholar from New York was at the French museum and examined the",
           "bbox": [
             42.79999923706055,
@@ -4651,7 +4465,7 @@
           ]
         },
         {
-          "y": 539,
+          "y": 538.9,
           "text": "pants for identifying characteristics. He found Mr. Vannatter’s Army Identification number on",
           "bbox": [
             42.79999923706055,
@@ -4685,7 +4499,7 @@
           ]
         },
         {
-          "y": 554,
+          "y": 553.9,
           "text": "the underside of the belt buckle. The scholar was able to track down Mr. Vannatter’s name and",
           "bbox": [
             42.79999923706055,
@@ -4719,7 +4533,7 @@
           ]
         },
         {
-          "y": 569,
+          "y": 568.9,
           "text": "contact information through the U.S. Army and National Personnel Records Center (NPRC).",
           "bbox": [
             42.79999923706055,
@@ -4753,7 +4567,7 @@
           ]
         },
         {
-          "y": 599,
+          "y": 598.9,
           "text": "Mr. Vannatter was then asked to provide a memory of his experience in World War II to",
           "bbox": [
             42.79999923706055,
@@ -4787,7 +4601,7 @@
           ]
         },
         {
-          "y": 614,
+          "y": 613.9,
           "text": "supplement the museum exhibit in France. He recalled having earned a Bronze Star but was",
           "bbox": [
             42.79999923706055,
@@ -4821,7 +4635,7 @@
           ]
         },
         {
-          "y": 629,
+          "y": 628.9,
           "text": "not certain. In the interest of making his memoirs as accurate as possible, he asked me for help",
           "bbox": [
             42.79999923706055,
@@ -4855,7 +4669,7 @@
           ]
         },
         {
-          "y": 644,
+          "y": 643.9,
           "text": "in seeking verification of his military awards.",
           "bbox": [
             42.79999923706055,
@@ -4889,7 +4703,7 @@
           ]
         },
         {
-          "y": 674,
+          "y": 673.9,
           "text": "I worked with my staff to submit a request to the NPRC to review Mr. Vannatter’s eligibility for",
           "bbox": [
             42.79999923706055,
@@ -4923,7 +4737,7 @@
           ]
         },
         {
-          "y": 689,
+          "y": 688.9,
           "text": "various medals and marks of distinction. The NPRC was able to verify that Mr. Vannatter did in",
           "bbox": [
             42.79999923706055,
@@ -4957,7 +4771,7 @@
           ]
         },
         {
-          "y": 704,
+          "y": 703.9,
           "text": "fact earn a Bronze Star for his service at Normandy. They mailed the medal to my district office",
           "bbox": [
             42.79999923706055,
@@ -4991,7 +4805,7 @@
           ]
         },
         {
-          "y": 719,
+          "y": 718.9,
           "text": "in Pleasanton, along with the European-African-Middle Eastern Campaign Medal.",
           "bbox": [
             42.79999923706055,
@@ -5025,7 +4839,7 @@
           ]
         },
         {
-          "y": 802,
+          "y": 801.8,
           "text": "5 / 6",
           "bbox": [
             524.8900146484375,
@@ -5066,7 +4880,7 @@
       "page_height": 841.8900146484375,
       "lines": [
         {
-          "y": 11,
+          "y": 11.0,
           "text": "Constituent Service Success Stories",
           "bbox": [
             42.79999923706055,
@@ -5100,7 +4914,7 @@
           ]
         },
         {
-          "y": 74,
+          "y": 73.9,
           "text": "I was lucky enough to then be able to present Mr. Vannatter with the Bronze Star, the Armed",
           "bbox": [
             42.79999923706055,
@@ -5134,7 +4948,7 @@
           ]
         },
         {
-          "y": 89,
+          "y": 88.9,
           "text": "Forces’ fourth highest combat award, earned for his service during World War II.",
           "bbox": [
             42.79999923706055,
@@ -5168,7 +4982,7 @@
           ]
         },
         {
-          "y": 802,
+          "y": 801.8,
           "text": "6 / 6",
           "bbox": [
             522.3400268554688,

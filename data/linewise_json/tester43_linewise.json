@@ -7,7 +7,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 48,
+          "y": 48.1,
           "text": "China",
           "bbox": [
             324.07000732421875,
@@ -41,7 +41,7 @@
           ]
         },
         {
-          "y": 96,
+          "y": 95.6,
           "text": "Linking U.S. Businesses to",
           "bbox": [
             326.8800048828125,
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "y": 115,
+          "y": 114.8,
           "text": "Global Infrastructure Opportunities",
           "bbox": [
             326.8800048828125,
@@ -109,8 +109,8 @@
           ]
         },
         {
-          "y": 184,
-          "text": "w w. u s t d a . g o v",
+          "y": 183.9,
+          "text": "w w w. u s t d a . g o v",
           "bbox": [
             34.79999923706055,
             183.92379760742188,
@@ -143,7 +143,7 @@
           ]
         },
         {
-          "y": 223,
+          "y": 222.8,
           "text": "The U.S. Trade and Development Agency helps companies create U.S. jobs through the export of U.S. goods and services",
           "bbox": [
             34.65599822998047,
@@ -177,7 +177,7 @@
           ]
         },
         {
-          "y": 235,
+          "y": 234.8,
           "text": "for priority development projects in emerging economies. USTDA links U.S. businesses to export opportunities by funding",
           "bbox": [
             34.65599822998047,
@@ -211,7 +211,7 @@
           ]
         },
         {
-          "y": 247,
+          "y": 246.8,
           "text": "project planning activities, pilot projects, and reverse trade missions while creating sustainable infrastructure and economic",
           "bbox": [
             34.65599822998047,
@@ -245,7 +245,7 @@
           ]
         },
         {
-          "y": 259,
+          "y": 258.8,
           "text": "growth in partner countries.",
           "bbox": [
             34.65599822998047,
@@ -279,37 +279,15 @@
           ]
         },
         {
-          "y": 279,
-          "text": "USTDA in China Implementing Climate Change Policy Goals",
+          "y": 278.7,
+          "text": "Implementing Climate Change Policy Goals",
           "bbox": [
-            31.031999588012695,
+            323.80999755859375,
             278.70880126953125,
             550.42431640625,
-            292.5799865722656
+            291.0184020996094
           ],
           "spans": [
-            {
-              "size": 12.0,
-              "flags": 16,
-              "bidi": 0,
-              "char_flags": 24,
-              "font": "Arial-BoldMT",
-              "color": 8288,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": "USTDA in China",
-              "origin": [
-                31.031999588012695,
-                290.05999755859375
-              ],
-              "bbox": [
-                31.031999588012695,
-                279.20001220703125,
-                122.65199279785156,
-                292.5799865722656
-              ]
-            },
             {
               "size": 11.039999961853027,
               "flags": 16,
@@ -335,7 +313,41 @@
           ]
         },
         {
-          "y": 304,
+          "y": 279.2,
+          "text": "USTDA in China",
+          "bbox": [
+            31.031999588012695,
+            279.20001220703125,
+            122.65199279785156,
+            292.5799865722656
+          ],
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial-BoldMT",
+              "color": 8288,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "USTDA in China",
+              "origin": [
+                31.031999588012695,
+                290.05999755859375
+              ],
+              "bbox": [
+                31.031999588012695,
+                279.20001220703125,
+                122.65199279785156,
+                292.5799865722656
+              ]
+            }
+          ]
+        },
+        {
+          "y": 303.9,
           "text": "One of USTDA’s primary goals in China is to take bilateral",
           "bbox": [
             323.80999755859375,
@@ -369,7 +381,7 @@
           ]
         },
         {
-          "y": 306,
+          "y": 305.5,
           "text": "USTDA's program in China focuses on advancing U.S.",
           "bbox": [
             31.031999588012695,
@@ -403,7 +415,7 @@
           ]
         },
         {
-          "y": 316,
+          "y": 315.9,
           "text": "policies and move them toward implementation. For example,",
           "bbox": [
             323.80999755859375,
@@ -437,7 +449,7 @@
           ]
         },
         {
-          "y": 318,
+          "y": 317.5,
           "text": "policy and U.S. industry trade and commercial interests in",
           "bbox": [
             31.031999588012695,
@@ -471,7 +483,7 @@
           ]
         },
         {
-          "y": 328,
+          "y": 327.9,
           "text": "at the 2016 U.S.-China Strategic & Economic Dialogue in",
           "bbox": [
             323.80999755859375,
@@ -505,7 +517,7 @@
           ]
         },
         {
-          "y": 330,
+          "y": 329.5,
           "text": "the transportation, energy, agriculture , and healthcare",
           "bbox": [
             31.031999588012695,
@@ -583,7 +595,7 @@
           ]
         },
         {
-          "y": 340,
+          "y": 339.9,
           "text": "Beijing, USTDA announced several new activities that",
           "bbox": [
             323.80999755859375,
@@ -749,7 +761,7 @@
           ]
         },
         {
-          "y": 342,
+          "y": 341.5,
           "text": "sectors. These efforts help open China’s market for",
           "bbox": [
             31.031999588012695,
@@ -783,7 +795,7 @@
           ]
         },
         {
-          "y": 352,
+          "y": 351.9,
           "text": "promote public-private collaboration to address climate",
           "bbox": [
             323.80999755859375,
@@ -927,7 +939,7 @@
           ]
         },
         {
-          "y": 354,
+          "y": 353.5,
           "text": "increased exports of U.S.-manufactured goods.",
           "bbox": [
             31.031999588012695,
@@ -961,7 +973,7 @@
           ]
         },
         {
-          "y": 364,
+          "y": 363.9,
           "text": "change. One initiative will reduce emissions from seaports in",
           "bbox": [
             323.80999755859375,
@@ -995,7 +1007,7 @@
           ]
         },
         {
-          "y": 376,
+          "y": 375.9,
           "text": "China while another will demonstrate big data technologies",
           "bbox": [
             323.80999755859375,
@@ -1029,7 +1041,7 @@
           ]
         },
         {
-          "y": 378,
+          "y": 377.5,
           "text": "The Agency’s success in China is due in part to the public-",
           "bbox": [
             31.031999588012695,
@@ -1063,7 +1075,7 @@
           ]
         },
         {
-          "y": 388,
+          "y": 387.9,
           "text": "for smarter grids and greater integration of renewable energy.",
           "bbox": [
             323.80999755859375,
@@ -1097,7 +1109,7 @@
           ]
         },
         {
-          "y": 390,
+          "y": 389.6,
           "text": "private Cooperation Programs that are the hallmark of",
           "bbox": [
             31.031999588012695,
@@ -1131,7 +1143,7 @@
           ]
         },
         {
-          "y": 402,
+          "y": 401.6,
           "text": "USTDA’s programs in country. These programs provide a",
           "bbox": [
             31.031999588012695,
@@ -1165,7 +1177,7 @@
           ]
         },
         {
-          "y": 412,
+          "y": 411.9,
           "text": "USTDA also announced eight workshops and two study tours",
           "bbox": [
             323.80999755859375,
@@ -1199,7 +1211,7 @@
           ]
         },
         {
-          "y": 414,
+          "y": 413.6,
           "text": "forum for government agencies and private companies",
           "bbox": [
             31.031999588012695,
@@ -1233,7 +1245,7 @@
           ]
         },
         {
-          "y": 424,
+          "y": 423.9,
           "text": "that will focus on electric vehicles, promoting environmental",
           "bbox": [
             323.80999755859375,
@@ -1267,7 +1279,7 @@
           ]
         },
         {
-          "y": 426,
+          "y": 425.6,
           "text": "from both countries can share technical, policy, and",
           "bbox": [
             31.031999588012695,
@@ -1301,7 +1313,7 @@
           ]
         },
         {
-          "y": 436,
+          "y": 435.9,
           "text": "protection technologies for shale gas, and reducing nitrogen",
           "bbox": [
             323.80999755859375,
@@ -1335,7 +1347,7 @@
           ]
         },
         {
-          "y": 438,
+          "y": 437.6,
           "text": "commercial knowledge relevant to a specific field. USTDA",
           "bbox": [
             31.031999588012695,
@@ -1369,7 +1381,7 @@
           ]
         },
         {
-          "y": 448,
+          "y": 447.9,
           "text": "oxide from gas-fired boilers.",
           "bbox": [
             323.80999755859375,
@@ -1403,7 +1415,7 @@
           ]
         },
         {
-          "y": 450,
+          "y": 449.6,
           "text": "has successfully established programs based on this",
           "bbox": [
             31.031999588012695,
@@ -1437,7 +1449,7 @@
           ]
         },
         {
-          "y": 462,
+          "y": 461.6,
           "text": "model in the aviation , energy, agriculture and healthcare",
           "bbox": [
             31.031999588012695,
@@ -1515,7 +1527,7 @@
           ]
         },
         {
-          "y": 472,
+          "y": 471.9,
           "text": "At the 2 nd U.S.-China Climate Leaders’ Summit in Beijing, two",
           "bbox": [
             323.80999755859375,
@@ -1593,7 +1605,7 @@
           ]
         },
         {
-          "y": 474,
+          "y": 473.6,
           "text": "sectors.",
           "bbox": [
             31.031999588012695,
@@ -1627,7 +1639,7 @@
           ]
         },
         {
-          "y": 484,
+          "y": 483.9,
           "text": "contracts were signed launching USTDA-supported projects.",
           "bbox": [
             323.80999755859375,
@@ -1661,7 +1673,7 @@
           ]
         },
         {
-          "y": 496,
+          "y": 495.9,
           "text": "The Agency is partnering with the Beijing Environmental",
           "bbox": [
             323.80999755859375,
@@ -1695,7 +1707,7 @@
           ]
         },
         {
-          "y": 498,
+          "y": 497.6,
           "text": "By adapting to the evolving needs of China’s market and",
           "bbox": [
             31.031999588012695,
@@ -1729,7 +1741,7 @@
           ]
         },
         {
-          "y": 508,
+          "y": 507.9,
           "text": "Protection Bureau and Kansas-based firm, Power Flame, to",
           "bbox": [
             323.80999755859375,
@@ -1763,7 +1775,7 @@
           ]
         },
         {
-          "y": 510,
+          "y": 509.6,
           "text": "closely coordinating with Chinese decision makers, these",
           "bbox": [
             31.031999588012695,
@@ -1797,7 +1809,7 @@
           ]
         },
         {
-          "y": 520,
+          "y": 519.9,
           "text": "pilot technologies that will lower nitrogen oxide (NOx)",
           "bbox": [
             323.80999755859375,
@@ -1985,7 +1997,7 @@
           ]
         },
         {
-          "y": 522,
+          "y": 521.6,
           "text": "public-private partnerships have achieved long-term",
           "bbox": [
             31.031999588012695,
@@ -2107,7 +2119,7 @@
           ]
         },
         {
-          "y": 532,
+          "y": 531.9,
           "text": "emissions from gas-fired boiler sites across Beijing.",
           "bbox": [
             323.80999755859375,
@@ -2141,7 +2153,7 @@
           ]
         },
         {
-          "y": 534,
+          "y": 533.6,
           "text": "success. Specifically, the partnerships are providing",
           "bbox": [
             31.031999588012695,
@@ -2197,7 +2209,7 @@
           ]
         },
         {
-          "y": 546,
+          "y": 545.6,
           "text": "increased market access for U.S. companies and",
           "bbox": [
             31.031999588012695,
@@ -2363,7 +2375,7 @@
           ]
         },
         {
-          "y": 556,
+          "y": 555.9,
           "text": "The other program will develop and demonstrate a new",
           "bbox": [
             323.80999755859375,
@@ -2397,7 +2409,7 @@
           ]
         },
         {
-          "y": 558,
+          "y": 557.6,
           "text": "advancing U.S. policy interests including climate change",
           "bbox": [
             31.031999588012695,
@@ -2431,7 +2443,7 @@
           ]
         },
         {
-          "y": 568,
+          "y": 567.9,
           "text": "model for smart grid information and communication",
           "bbox": [
             323.80999755859375,
@@ -2597,7 +2609,7 @@
           ]
         },
         {
-          "y": 570,
+          "y": 569.6,
           "text": "and aviation safety and security.",
           "bbox": [
             31.031999588012695,
@@ -2631,7 +2643,7 @@
           ]
         },
         {
-          "y": 580,
+          "y": 580.0,
           "text": "integration for State Grid Corporation of China (SGCC).",
           "bbox": [
             323.80999755859375,
@@ -2665,7 +2677,7 @@
           ]
         },
         {
-          "y": 592,
+          "y": 592.0,
           "text": "USTDA is partnering with California-based firm, OSIsoft, and",
           "bbox": [
             323.80999755859375,
@@ -2699,7 +2711,7 @@
           ]
         },
         {
-          "y": 604,
+          "y": 604.0,
           "text": "the China Power Electric Research Institute (CEPRI), on this",
           "bbox": [
             323.80999755859375,
@@ -2733,7 +2745,7 @@
           ]
         },
         {
-          "y": 616,
+          "y": 616.0,
           "text": "innovative initiative.",
           "bbox": [
             323.80999755859375,
@@ -2767,7 +2779,7 @@
           ]
         },
         {
-          "y": 736,
+          "y": 736.4,
           "text": "In 2016, USTDA conducted 9 reverse trade missions to introduce",
           "bbox": [
             42.28799819946289,
@@ -2801,7 +2813,7 @@
           ]
         },
         {
-          "y": 746,
+          "y": 746.0,
           "text": "Chinese public and private sector officials to U.S. best practices",
           "bbox": [
             42.28799819946289,
@@ -2835,7 +2847,7 @@
           ]
         },
         {
-          "y": 747,
+          "y": 746.5,
           "text": "Director Leocadia I. Zak delivers remarks at the 2nd U.S.-China",
           "bbox": [
             334.25,
@@ -2869,13 +2881,13 @@
           ]
         },
         {
-          "y": 756,
-          "text": "and advanced technology solutions. Climate Leaders’ Summit.",
+          "y": 755.6,
+          "text": "and advanced technology solutions.",
           "bbox": [
             42.28799819946289,
             755.61181640625,
-            426.4044189453125,
-            765.0804443359375
+            172.6968536376953,
+            764.576416015625
           ],
           "spans": [
             {
@@ -2899,7 +2911,19 @@
                 172.6968536376953,
                 764.576416015625
               ]
-            },
+            }
+          ]
+        },
+        {
+          "y": 756.1,
+          "text": "Climate Leaders’ Summit.",
+          "bbox": [
+            334.25,
+            756.1158447265625,
+            426.4044189453125,
+            765.0804443359375
+          ],
+          "spans": [
             {
               "size": 8.039999961853027,
               "flags": 0,
@@ -2932,7 +2956,7 @@
       "page_height": 792.0,
       "lines": [
         {
-          "y": 20,
+          "y": 19.6,
           "text": "China",
           "bbox": [
             310.8500061035156,
@@ -2966,7 +2990,7 @@
           ]
         },
         {
-          "y": 50,
+          "y": 50.5,
           "text": "Linking U.S. Businesses to",
           "bbox": [
             311.6600036621094,
@@ -3000,7 +3024,7 @@
           ]
         },
         {
-          "y": 67,
+          "y": 67.3,
           "text": "Global Infrastructure Opportunities",
           "bbox": [
             311.6600036621094,
@@ -3034,8 +3058,8 @@
           ]
         },
         {
-          "y": 95,
-          "text": "w w. u s t d a . g o v",
+          "y": 95.1,
+          "text": "w w w. u s t d a . g o v",
           "bbox": [
             27.600000381469727,
             95.0738296508789,
@@ -3068,7 +3092,7 @@
           ]
         },
         {
-          "y": 129,
+          "y": 128.9,
           "text": "Leveraging Partnerships for Win-Win Results",
           "bbox": [
             22.27199935913086,
@@ -3102,7 +3126,7 @@
           ]
         },
         {
-          "y": 149,
+          "y": 149.2,
           "text": "Aviation Cooperation Program (ACP): The U.S.-China Aviation Cooperation Program",
           "bbox": [
             22.27199935913086,
@@ -3158,7 +3182,7 @@
           ]
         },
         {
-          "y": 161,
+          "y": 161.2,
           "text": "(ACP) promotes aviation sector-wide cooperation. Endorsed by the U.S. Federal Aviation",
           "bbox": [
             22.27199935913086,
@@ -3192,7 +3216,7 @@
           ]
         },
         {
-          "y": 173,
+          "y": 173.2,
           "text": "Administration and the Civil Aviation Administration of China, ACP works cooperatively to",
           "bbox": [
             22.27199935913086,
@@ -3226,7 +3250,7 @@
           ]
         },
         {
-          "y": 185,
+          "y": 185.2,
           "text": "design programs that promote technical, policy and commercial collaboration.",
           "bbox": [
             22.27199935913086,
@@ -3260,7 +3284,7 @@
           ]
         },
         {
-          "y": 207,
+          "y": 206.8,
           "text": "USTDA partners with the ACP in several key areas, including executive leadership",
           "bbox": [
             22.27199935913086,
@@ -3294,7 +3318,7 @@
           ]
         },
         {
-          "y": 219,
+          "y": 218.8,
           "text": "development training programs, technical assistance aimed at reducing flight delays,",
           "bbox": [
             22.27199935913086,
@@ -3328,7 +3352,7 @@
           ]
         },
         {
-          "y": 231,
+          "y": 230.8,
           "text": "advancing general aviation, and reducing the environmental footprint of the aviation",
           "bbox": [
             22.27199935913086,
@@ -3362,11 +3386,45 @@
           ]
         },
         {
-          "y": 243,
-          "text": "sector. Now in its 12 th phase with over 40 U.S. industry members and 6 public sector",
+          "y": 242.7,
+          "text": "th",
+          "bbox": [
+            118.05999755859375,
+            242.7484130859375,
+            123.71627807617188,
+            250.2412109375
+          ],
+          "spans": [
+            {
+              "size": 6.71999979019165,
+              "flags": 1,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "ArialMT",
+              "color": 6578777,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.20999999344348907,
+              "text": "th",
+              "origin": [
+                118.05999755859375,
+                248.83001708984375
+              ],
+              "bbox": [
+                118.05999755859375,
+                242.7484130859375,
+                123.71627807617188,
+                250.2412109375
+              ]
+            }
+          ]
+        },
+        {
+          "y": 242.8,
+          "text": "sector. Now in its 12 phase with over 40 U.S. industry members and 6 public sector",
           "bbox": [
             22.27199935913086,
-            242.7484130859375,
+            242.81622314453125,
             417.2113037109375,
             253.92161560058594
           ],
@@ -3394,28 +3452,6 @@
               ]
             },
             {
-              "size": 6.71999979019165,
-              "flags": 1,
-              "bidi": 0,
-              "char_flags": 16,
-              "font": "ArialMT",
-              "color": 6578777,
-              "alpha": 255,
-              "ascender": 0.9049999713897705,
-              "descender": -0.20999999344348907,
-              "text": "th",
-              "origin": [
-                118.05999755859375,
-                248.83001708984375
-              ],
-              "bbox": [
-                118.05999755859375,
-                242.7484130859375,
-                123.71627807617188,
-                250.2412109375
-              ]
-            },
-            {
               "size": 9.960000038146973,
               "flags": 0,
               "bidi": 0,
@@ -3440,7 +3476,7 @@
           ]
         },
         {
-          "y": 255,
+          "y": 254.8,
           "text": "partners, the ACP has provided executive and safety management training for over 1,500",
           "bbox": [
             22.27199935913086,
@@ -3474,7 +3510,7 @@
           ]
         },
         {
-          "y": 267,
+          "y": 266.8,
           "text": "Chinese aviation officials.",
           "bbox": [
             22.27199935913086,
@@ -3508,7 +3544,7 @@
           ]
         },
         {
-          "y": 288,
+          "y": 288.4,
           "text": "Energy Cooperation Program (ECP): The U.S.-China Energy Cooperation Program",
           "bbox": [
             22.27199935913086,
@@ -3564,7 +3600,7 @@
           ]
         },
         {
-          "y": 300,
+          "y": 300.4,
           "text": "(ECP) promotes the development and commercialization of clean energy and energy",
           "bbox": [
             22.27199935913086,
@@ -3598,7 +3634,7 @@
           ]
         },
         {
-          "y": 312,
+          "y": 312.4,
           "text": "efficiency solutions. USTDA has supported a number of projects under the ECP focused",
           "bbox": [
             22.27199935913086,
@@ -3632,7 +3668,7 @@
           ]
         },
         {
-          "y": 324,
+          "y": 324.4,
           "text": "on developing clean energy technologies such as smart grid, natural gas, energy",
           "bbox": [
             22.27199935913086,
@@ -3688,7 +3724,7 @@
           ]
         },
         {
-          "y": 336,
+          "y": 336.4,
           "text": "efficiency, fuel cells, and distributed energy combined heat and power.",
           "bbox": [
             22.27199935913086,
@@ -3722,7 +3758,7 @@
           ]
         },
         {
-          "y": 358,
+          "y": 358.0,
           "text": "The U.S.-China ECP has expanded membership to over 25 U.S. companies across 10",
           "bbox": [
             22.27199935913086,
@@ -3756,7 +3792,7 @@
           ]
         },
         {
-          "y": 370,
+          "y": 370.0,
           "text": "subsector working groups. To support ECP and promote clean energy development in",
           "bbox": [
             22.27199935913086,
@@ -3790,7 +3826,7 @@
           ]
         },
         {
-          "y": 382,
+          "y": 382.0,
           "text": "China, USTDA has funded a number of reverse trade missions, pilot projects, feasibility",
           "bbox": [
             22.27199935913086,
@@ -3824,7 +3860,7 @@
           ]
         },
         {
-          "y": 394,
+          "y": 394.0,
           "text": "studies, technical assistance programs, and workshops for Chinese public and private",
           "bbox": [
             22.27199935913086,
@@ -3858,7 +3894,7 @@
           ]
         },
         {
-          "y": 406,
+          "y": 406.0,
           "text": "sector leaders.",
           "bbox": [
             22.27199935913086,
@@ -3892,7 +3928,7 @@
           ]
         },
         {
-          "y": 428,
+          "y": 427.6,
           "text": "Healthcare Cooperation Program (HCP): The HCP focuses on improving healthcare",
           "bbox": [
             22.27199935913086,
@@ -3948,7 +3984,7 @@
           ]
         },
         {
-          "y": 440,
+          "y": 439.6,
           "text": "delivery by connecting industry and government resources to promote health system",
           "bbox": [
             22.27199935913086,
@@ -3982,7 +4018,7 @@
           ]
         },
         {
-          "y": 452,
+          "y": 451.6,
           "text": "development, cooperation, and trade between the U.S. and China. The HCP has over 30",
           "bbox": [
             22.27199935913086,
@@ -4016,7 +4052,7 @@
           ]
         },
         {
-          "y": 464,
+          "y": 463.6,
           "text": "U.S. industry and 9 non-governmental members. USTDA supports HCP by partnering",
           "bbox": [
             22.27199935913086,
@@ -4050,7 +4086,7 @@
           ]
         },
         {
-          "y": 476,
+          "y": 475.6,
           "text": "with U.S. universities and hospitals, alongside HCP member companies to host executive",
           "bbox": [
             22.27199935913086,
@@ -4084,7 +4120,7 @@
           ]
         },
         {
-          "y": 488,
+          "y": 487.6,
           "text": "training programs in the United States and workshops in China.",
           "bbox": [
             22.27199935913086,
@@ -4118,7 +4154,7 @@
           ]
         },
         {
-          "y": 509,
+          "y": 509.2,
           "text": "Agriculture & Food Partnership (AFP): The U.S.-China Agriculture & Food Partnership",
           "bbox": [
             22.27199935913086,
@@ -4174,7 +4210,7 @@
           ]
         },
         {
-          "y": 521,
+          "y": 521.2,
           "text": "(AFP) is a public-private partnership that aims to enhance U.S.-China agricultural",
           "bbox": [
             22.27199935913086,
@@ -4208,7 +4244,7 @@
           ]
         },
         {
-          "y": 533,
+          "y": 533.2,
           "text": "cooperation. USTDA supports the AFP by acting as an advisor and supporting workshops",
           "bbox": [
             22.27199935913086,
@@ -4242,7 +4278,7 @@
           ]
         },
         {
-          "y": 545,
+          "y": 545.3,
           "text": "and reverse trade missions in the agribusiness, cold chain, and food safety sectors in",
           "bbox": [
             22.27199935913086,
@@ -4276,7 +4312,7 @@
           ]
         },
         {
-          "y": 557,
+          "y": 557.3,
           "text": "China. In addition, USTDA is launching a fourth phase of its Agricultural Biotechnology",
           "bbox": [
             22.27199935913086,
@@ -4310,7 +4346,7 @@
           ]
         },
         {
-          "y": 569,
+          "y": 569.3,
           "text": "Training Program. This training will bring the public and private sectors together to",
           "bbox": [
             22.27199935913086,
@@ -4344,7 +4380,7 @@
           ]
         },
         {
-          "y": 581,
+          "y": 581.3,
           "text": "discuss new advances in agricultural biotechnology.",
           "bbox": [
             22.27199935913086,
@@ -4378,7 +4414,7 @@
           ]
         },
         {
-          "y": 603,
+          "y": 602.9,
           "text": "Standards & Conformity Assessment: USTDA has partnered with the private sector in",
           "bbox": [
             22.27199935913086,
@@ -4434,7 +4470,7 @@
           ]
         },
         {
-          "y": 615,
+          "y": 614.9,
           "text": "organizing over 60 workshops covering a wide range of sectoral topics related to",
           "bbox": [
             22.27199935913086,
@@ -4468,7 +4504,7 @@
           ]
         },
         {
-          "y": 627,
+          "y": 626.9,
           "text": "standards harmonization, conformity assessment programs, and technical regulations",
           "bbox": [
             22.27199935913086,
@@ -4502,7 +4538,7 @@
           ]
         },
         {
-          "y": 639,
+          "y": 638.9,
           "text": "that impact U.S. industry in China.",
           "bbox": [
             22.27199935913086,
@@ -4536,7 +4572,7 @@
           ]
         },
         {
-          "y": 673,
+          "y": 673.3,
           "text": "Connect with USTDA",
           "bbox": [
             454.7300109863281,
@@ -4570,7 +4606,7 @@
           ]
         },
         {
-          "y": 680,
+          "y": 679.7,
           "text": "Contact us for more information:",
           "bbox": [
             28.799999237060547,
@@ -4604,7 +4640,7 @@
           ]
         },
         {
-          "y": 692,
+          "y": 691.7,
           "text": "E-mail: East_Asia@ustda.gov Phone: 703-875-4357",
           "bbox": [
             28.799999237060547,
@@ -4704,7 +4740,7 @@
           ]
         },
         {
-          "y": 701,
+          "y": 701.2,
           "text": "twitter.com/USTDA",
           "bbox": [
             454.7300109863281,
@@ -4738,7 +4774,7 @@
           ]
         },
         {
-          "y": 715,
+          "y": 715.3,
           "text": "facebook.com/USTDA",
           "bbox": [
             454.7300109863281,
@@ -4772,7 +4808,7 @@
           ]
         },
         {
-          "y": 716,
+          "y": 715.7,
           "text": "Carl B. Kress – East Asia Regional Director",
           "bbox": [
             28.799999237060547,
@@ -4828,7 +4864,7 @@
           ]
         },
         {
-          "y": 728,
+          "y": 727.8,
           "text": "Verinda Fike – East Asia Country Manager",
           "bbox": [
             28.799999237060547,
@@ -4884,7 +4920,7 @@
           ]
         },
         {
-          "y": 729,
+          "y": 729.3,
           "text": "youtube.com/USTDAvideo",
           "bbox": [
             454.7300109863281,
@@ -4918,7 +4954,7 @@
           ]
         },
         {
-          "y": 740,
+          "y": 739.8,
           "text": "Susan Shifflett – East Asia Country Manager",
           "bbox": [
             28.799999237060547,
@@ -4974,7 +5010,7 @@
           ]
         },
         {
-          "y": 743,
+          "y": 743.2,
           "text": "flickr.com/USTDAphotos",
           "bbox": [
             454.7300109863281,
@@ -5008,7 +5044,7 @@
           ]
         },
         {
-          "y": 752,
+          "y": 751.8,
           "text": "Steve Winkates – Director of Program Management, U.S. Embassy",
           "bbox": [
             28.799999237060547,
@@ -5064,7 +5100,7 @@
           ]
         },
         {
-          "y": 764,
+          "y": 763.8,
           "text": "Xiaolei Wan – USTDA China Representative",
           "bbox": [
             28.799999237060547,
