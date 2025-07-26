@@ -5,8 +5,8 @@ from collections import defaultdict
 import time
 from utils import clean_extracted_text
 
-RAW_PDF_DIR = "../data/raw_pdfs"
-OUTPUT_DIR = "../data/linewise_json"
+RAW_PDF_DIR = "/data/raw_pdfs"
+OUTPUT_DIR = "/data/linewise_json"
 MIN_FONT_SIZE = 6
 
 def extract_linewise_text(pdf_path):

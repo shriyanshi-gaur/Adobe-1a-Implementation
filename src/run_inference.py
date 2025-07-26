@@ -13,7 +13,7 @@ from utils import (
 )
 
 # --- Load Model and Encoder ---
-MODEL_DIR = "../models" # Ensure this path is consistent with train_model.py
+MODEL_DIR = "models" # Ensure this path is consistent with train_model.py
 CONFIDENCE_THRESHOLD = 0.70 # You can adjust this threshold
 
 try:

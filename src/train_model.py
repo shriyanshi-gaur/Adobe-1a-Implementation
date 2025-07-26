@@ -9,8 +9,8 @@ from sklearn.metrics import classification_report
 from imblearn.over_sampling import SMOTE
 
 # Paths
-INPUT_CSV = "../data/processed/training_data.csv"
-MODEL_DIR = "../models"
+INPUT_CSV = "/data/processed/training_data.csv"
+MODEL_DIR = "/models"
 MODEL_PATH = os.path.join(MODEL_DIR, "heading_classifier.pkl")
 LABEL_MAP_PATH = os.path.join(MODEL_DIR, "label_mapping.pkl")
 

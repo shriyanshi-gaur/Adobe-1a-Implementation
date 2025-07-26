@@ -4,9 +4,9 @@ import pandas as pd
 import re
 from utils import fuzzy_match, is_title_case, is_uppercase, ends_with_colon, starts_with_number, word_count, has_bullet_prefix, clean_extracted_text
 
-LINEWISE_DIR = "../data/linewise_json"
-GT_DIR = "../data/gt_json"
-OUTPUT_CSV = "../data/processed/training_data.csv"
+LINEWISE_DIR = "/data/linewise_json"
+GT_DIR = "/data/gt_json"
+OUTPUT_CSV = "/data/processed/training_data.csv"
 
 # Keywords for title and H1 detection
 TITLE_KEYWORDS = ["table of contents", "contents", "introduction", "chapter", "section", "abstract", "summary", "acknowledgments", "references", "bibliography", "index", "appendix", "preface", "foreword", "dedication"]
